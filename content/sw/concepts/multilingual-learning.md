@@ -1,5 +1,6 @@
 ---
 connected_resources: [mglearn]
+updated: "2026-11-24T02:05:00-05:00"
 title: Kujifunza kwa Lugha Nyingi
 created: "2026-10-13T04:41:00-04:00"
 type: concept
@@ -8,16 +9,20 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -52,11 +57,15 @@ AI ya lugha nyingi lazima izidi tafsiri ili kuonyesha [[culturally-relevant-peda
 
 Ubadilishaji wa lugha (translanguaging) ni fursa ambayo [[conversational-ai|chatbots]] za kizalishaji huongeza ambayo zana za zamani za lugha hazikuwa nazo. Katika [[meta-analysis-systematic-review|mapitio ya kimfumo]] ya masomo 24, wanafunzi waliomba misemo na maelezo yenye muktadha katika lugha yao wenyewe kama daraja la kuingia lugha lengwa, matumizi ambayo wapitiaji wanayaainisha kama fursa ndogo mpya badala ya ile iliyofungwa upya ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
+Gharama ya lugha ya kuanza kutumia zana ni ya kupimika: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] waligundua wanafunzi wa Kiingereza walitumia muda mrefu zaidi kwenye mafunzo ya kujenga wakala yenye msaada kuliko wasemaji wa asili, huku kazi ya ubuni huru kuonyesha hakuna tofauti.
+
+Kiingereza kinatawala hata pale ambapo lugha nne zinatumika kila siku. Miongoni mwa wanafunzi 42 nchini Curaçao na Aruba, thuluthi mbili walitaja Kiingereza kama lugha yao pendwa ya AI, na ni vipindi vya GPT pekee vilivyoelekea Papiamentu wakati mazungumzo yalipoelekea mahali pa kitu ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## Upendeleo wa tathmini
 
 Wasiwasi wa lugha nyingi yanaathiri pia [[automated-assessment|tathmini za kiotomatiki]]: [[ai-scoring-language-bias-physics|alama za AI zinaweza kuonyesha upendeleo wa lugha]] (k.m., katika [[physics-education|fizikia]]), na kuwadhibiti wasemaji wasio wa asili. Kuhakikisha zana za tathmini ni za usawa katika lugha zote ni sehemu ya [[assessment-validity]].
 
-Uamuzi wa kulinganisha unaotegemea LLM ni hali ambapo upendeleo ulifuatia msingi wa binadamu badala ya mfano: alama za uandishi wa habari za Daraja 3–6 zililingana na rubriki za watafiti (r = .59–.73) na zikaonyesha mtindo wa upendeleo wa kutabiri kwa wanafunzi wa lugha nyingi sawa na alama za binadamu, bila ushahidi kwamba uwezo mkubwa wa mfano au gharama ziliongeza uhalali ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+Uamuzi wa kulinganisha unaotegemea LLM ni hali ambapo upendeleo ulifuatia msingi wa binadamu badala ya mfano: alama za uandishi wa habari za Daraja 3–6 zililingana na [[rubrics|rubriki]] za watafiti (r = .59–.73) na zikaonyesha mtindo wa upendeleo wa kutabiri kwa wanafunzi wa lugha nyingi sawa na alama za binadamu, bila ushahidi kwamba uwezo mkubwa wa mfano au gharama ziliongeza uhalali ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Athari kwa waelimishaji katika miktadha ya lugha nyingi
 
@@ -65,6 +74,8 @@ Uamuzi wa kulinganisha unaotegemea LLM ni hali ambapo upendeleo ulifuatia msingi
 - **Onyesha tamaduni na miktadha, si tafsiri tu.** AI ya lugha nyingi lazima izidi tafsiri hadi [[culturally-relevant-pedagogy|mafunzo yanayohusiana na tamaduni]] — zalisha maudhui yanayofaa kwa lugha na miktadha ([[llm-cultural-relevance-k12|uhusiano wa tamaduni wa K-12]]).
 - **Unganisha AI na miundo ya msaada ya lugha nyingi.** Tumia hali za sauti-kwanza na za mdomo ([[kutti-ai-voice-first-learning-companion|wenzio wa sauti-kwanza]]) pale AI inayotegemea maandishi inashindwa, na saidia [[self-regulated-learning|kujidhibiti]] katika miktadha ya lugha mbili ([[bilingual-llm-lecture-companion-srl-2026|mwenzio wa somo wa lugha mbili]]).
 - **Angalia pengo la kidijitali.** Upendeleo wa lugha moja katika AI unazamisha [[digital-divide]] na kudhoofisha upatikanaji katika [[global-south]] — panga miundombinu na upatikanaji wa usawa pamoja na uchaguzi wa zana.
+
+- **Kazi ya kubadilisha inamwangukia mwalimu.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] waligundua kuwa walimu wa vyuo wa lugha zisizo za Kiingereza hubadilisha prompti, kurekebisha lugha ya mfano, kuhusisha upya maudhui na tamaduni, na kubadilisha zana kama jambo la kawaida. Kazi hiyo inazidishwa na hierarchia ya lugha badala ya uwezo dhaifu wa kidijitali, na haijikana katika takwimu za ukubali ambazo huhesabu tu iwapo zana ilikutumiwa.
 
 ## Dhana Potofu za Kawaida
 

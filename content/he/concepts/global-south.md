@@ -1,7 +1,7 @@
 ---
 title: דרום גלובלי
 created: "2026-10-12T19:35:00-04:00"
-updated: "2026-11-23T13:45:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]

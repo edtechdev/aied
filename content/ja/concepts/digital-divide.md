@@ -1,23 +1,27 @@
 ---
 title: デジタルデバイド
 created: "2026-10-10T22:26:43-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -51,6 +55,7 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 
 - **コードスイッチングはそれ自体が排除です。**ほとんどの[[llm|LLM]]の講義ツールは、単一言語の英語の音声と信頼できるインターネットを前提としており、英語と家庭のことばを混ぜる教室を排除しています。インドのUDISE+のデータは学校のインターネットアクセスが約54%で都市–農村の隔たりが24ポイントであることを示し、二言語の相棒は端末上での文字起こしとローカル優先の保存で応答します([[bilingual-llm-lecture-companion-srl-2026|Malhotra、2026]])。
 - **公共のデジタルサービスは隔たりを再生産します。** ケニアの eCitizen 電子政府プラットフォームは主に英語で、スワヒリ語は限られ、テキストのみのインターフェースであるため、低リテラシー、視覚障害、農村部の若者を排除しています。4 つの生計プラットフォーム（Ajira Digital、KRA iTax、HELB、YEDF）にわたるインタビューと 11 人の円卓会議は、言語技術と WCAG 2.1 に基づく設計を包摂のてことして指摘しています（[[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare（2026）]]）。
+- **アクセスだけでなく、利用を分解して見ること。** [[raut-ai-rural-education-india-2026|Raut の統合レビュー]]は、インドの農村部に住む14〜16歳の青少年のうち、男子の85.5%、女子の79.4%がスマートフォンを使えると答えたと報告しています。つまり家庭での端末の有無は、実践的な利用におけるジェンダーの格差を過小に見積もっていることになります。
 
 ## AIは隔たりを深める(そして埋めうる)
 
@@ -84,7 +89,7 @@ AIは、技術の公平性への含意に新しい層を加えます。アルゴ
 
 デジタルデバイドは[[equity-in-ai-education]]研究の中核的な関心事であり、[[ai-literacy]](構造的な障壁に対処する中心的な機構として位置づけられている)と、[[ethics]]と[[bias-mitigation]](アルゴリズムのバイアスが周縁化された集団に不釣り合いに影響するため)と密接に結びついています。それは、アクセスと能力の格差が現れる場として[[ai-education]]と[[higher-ed]]につながり、誰がAIに形づくられた学習に意味を持って参加できるかを形づくるものとして[[student-experience]]に関係します。
 
-## よくある誤解
+## 実践への含意
 
 **教員向け**
 
@@ -98,7 +103,7 @@ AIは、技術の公平性への含意に新しい層を加えます。アルゴ
 - ツールが前提とするインフラを公表してください。要件が明確に示されていれば、リソースの乏しい環境は投資の前に適合性を判断できます。
 - ソフトウェアのライセンスではなく、導入全体のコストを算出してください。デジタルツインの証拠は、仮想化してもハードウェアの費用が残りうることを示しています。
 
-## 実践への含意
+## よくある誤解
 
 - **「ツールへのアクセスこそが隔たりである。」** アクセスは第一の層であり、研究文献はすでにその先へ進んでいます。**言い回しの技能それ自体が第二レベルの隔たりです**。MedQAでは、プロンプトの洗練度に応じて精度が**低リテラシーの言い回しの82.4%から専門家の言い回しの83.4%へと**上昇しました。つまり、アクセス条件が同じ2人の学生でも、問い方を知っているかどうかによって、同じモデルから得られる品質が異なるのです。プロンプトの書き換え層はこの差を縮めました。隔たりはサブスクリプションだけでなく、インターフェースと利用者の流暢さにあります。
 - **「ブラウザで動けば利用できる。」** ほとんどのLLM講義ツールは**単一言語の英語音声と安定したインターネット接続**を前提としており、これは英語と家庭言語が入り混じる教室をまさに排除します。インドのUDISE+のデータは、学校のインターネット接続率がこの前提の要求する水準をはるかに下回っていることを示しています。想定されたインフラの上に構築されたツールは、最も必要としている環境を知らぬ間に排除してしまいます。

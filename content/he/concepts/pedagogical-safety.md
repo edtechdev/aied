@@ -1,7 +1,7 @@
 ---
 title: בטיחות פדגוגית
 created: "2026-10-12T21:30:00-04:00"
-updated: "2026-11-23T14:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]

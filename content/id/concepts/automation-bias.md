@@ -1,7 +1,7 @@
 ---
 title: "Bias Otomasi"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -10,13 +10,17 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: "concepts/automation-bias"
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -72,6 +76,8 @@ Pernyataan mekanisme yang paling jelas ada dalam karya yang menghadap guru. [[ho
 
 Celah paling tajam ada pada titik pertimbangan. [[human-in-the-loop-ai-scoring-national-assessment-2026|Studi penilaian asesmen nasional (2026)]] meminta penilai meninjau skor mesin, dan penulisnya menamai mekanisme yang belum diuji itu secara langsung: apakah penilai yang diperlihatkan skor AI sebelum menilai akan terjangkar olehnya atau tunduk padanya belum diukur, dan mereka mengusulkan eksperimen penilai tersamar versus tak tersamar sebagai langkah berikutnya. Klaim manusia-dalam-lingkar dalam rancangan itu karenanya merupakan asumsi, bukan temuan — dan itu adalah versi rancangan yang baik.
 
+Sebuah eksperimen pengawasan keselamatan kini memasok pengukuran pada latar yang berdekatan. Di seluruh 416 penilai dan 3,957 item, menyajikan kandidat model sebelum jawaban manusia memangkas akurasi penilai pada item yang dikerjakan model secara salah dari 36.7% menjadi 20.6%, sementara akurasi naik sebesar 7.3 poin pada item yang dikerjakan model secara benar ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). Para penilai menjadi lebih akurat secara keseluruhan sekaligus lebih kurang mampu menangkap kesalahan yang justru mereka ada di sana untuk menangkapnya, dan itulah bias yang beroperasi sebagaimana dicurigai para penulis asesmen nasional: jawaban mesin menetapkan bingkai, dan manusia menyesuaikan diri di dalamnya.
+
 ### Dasbor analitik dan klaim manusia-dalam-lingkar
 
 [[in-the-loop-educational-ai-learning-sciences-2026|Tinjauan ilmu pembelajaran tentang AI pendidikan dalam lingkar (2026)]] memberi pola itu bentuk umumnya: dasbor menyimpulkan partisipasi dari klik, [[writing-education|umpan balik menulis]] otomatis mengutamakan ciri permukaan alih-alih argumen, dan lampu lalu lintas peringatan dini menafsirkan lintasan lebih dahulu. Bias otomasi memperkuat masing-masingnya, dan tinjauan itu memperlakukan [[trust]] sebagai hasil sosioteksnis yang dibentuk oleh transparansi, kompetensi yang dipersepsikan, dan hak yang bermakna untuk membatalkan, bukan sebagai sikap yang stabil.
@@ -93,6 +99,8 @@ Dua makalah berargumen bahwa penyeimbangnya adalah disposisi, bukan aturan. [[as
 ### Ketika bias disebut sebagai risiko alih-alih diukur
 
 Sebagian besar korpus mendaftar bias otomasi dalam model ancaman tanpa mengujinya, dan perbedaan itu penting bagi seberapa besar bobot yang dapat ditanggung konsep ini. [[ahmadfard-interactive-oer-review-2026|Tinjauan OER interaktif (2026)]] memasukkannya di antara risiko berulang yang menggerus agensi pembelajar dan guru, didaftar alih-alih diukur. [[alshahrani-health-sciences-ai-use-2026|Survei ilmu kesehatan (2026)]] membaca kekhawatiran [[ethics|etis]] 310 mahasiswa sebagai alasan untuk [[professional-training|pelatihan profesional]] yang mencakup bias otomasi secara eksplisit. [[ai-literacy-legal-translation-2026|Studi penerjemahan hukum (2026)]] menuntut pasca-sunting dan verifikasi diajarkan sebagai keterampilan yang dinilai, sambil menamai tekanan bias otomasi dan ilusi kualitas yang membuat kesalahan terjemahan mudah terlewat. [[morales-cevallos-ai-forensic-science-education-2026|Tinjauan ilmu forensik (2026)]] menemukan bias otomasi terdokumentasi dalam studi-studi yang disertakannya dan mengusulkan latihan berbasis kasus yang dibangun dari kegagalan yang dilaporkan. [[rana-genai-design-thinking-2025|Studi design thinking (2025)]] mengubahnya menjadi persyaratan desain: [[scaffolding|perancah]] yang menjaga pertimbangan manusia di pusat, menangkal pengalihan sekaligus bias otomasi.
+
+Bias yang berbeda berada pada keluaran, bukan pada pengguna. Di Esmeraldas, Ekuador, 90 pelaku pendidikan dan komunitas menggambarkan alat citra mengubah warna kulit, tekstur rambut, dan ciri wajah peserta Afro-Ekuador, seorang di antaranya menyebutnya "suatu bentuk rasisme, meskipun itu digital" — kerugian representasional yang tidak dicatat metrik akurasi mana pun ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Ketika buktinya tipis, campur aduk, atau terbalik
 

@@ -1,7 +1,7 @@
 ---
 title: AIの誤用と学習への害
 created: "2026-10-10T22:09:41-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -14,6 +14,10 @@ translation_of: concepts/ai-misuse-learning-harm
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

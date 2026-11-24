@@ -7,7 +7,7 @@ technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-updated: "2026-11-23T12:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]

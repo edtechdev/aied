@@ -1,7 +1,7 @@
 ---
 title: IA explicável
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
 connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
@@ -88,7 +92,7 @@ As citações funcionam como uma pista de credibilidade, e não como evidência 
 
 Duas ressalvas afiam isso ainda mais, ambas tornadas centrais pela contribuição mais recente da wiki sobre o tema. Primeiro, a própria maquinaria de explicação não é neutra: métodos pós-hoc como LIME e SHAP podem ser infiéis ao comportamento real do modelo, de modo que uma explicação tecnicamente presente pode enganar em vez de informar ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], com base em Chuan et al. 2024). Segundo, **explicação não é responsabilização**. Um relato de quais atributos impulsionaram uma previsão não revela se esses atributos eram apropriados para usar, se os dados de treinamento eram representativos, ou se o desenho do sistema refletia juízo sólido; as explicações podem criar a aparência de transparência deixando intactas as condições estruturais que produziram uma decisão (Mittelstadt et al. 2019). Para a educação, isso significa que a pergunta a manter em mente não é se uma explicação foi produzida, mas se a pessoa que a recebeu — um estudante, um professor, um orientador — poderia entendê-la, agir com base nela ou contestar a decisão por trás dela. A mesma falha de legibilidade aparece no lado de segurança da [[automated-assessment|avaliação automatizada]]: o [[humble-prompt-injection-ai-grading-red-team-2026|red-team de Humble (2026) de uma ferramenta de correção por IA]] constatou que ela desativava silenciosamente o chat após bloquear uma injeção de prompt e — tendo anunciado que nunca seguiria instruções embutidas — as seguia em mais seis execuções no mesmo arquivo, deixando o usuário sem nenhum sinal confiável sobre o qual fundamentar a dependência.
 
-**Explicável por desenho** é uma resposta ao problema de fidelidade do pós-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] parametrizam um decodificador de explicação pela mesma representação fundida e pela mesma nota prevista que decidem a [[assessment|avaliação]], de modo que uma nota baixa em questionamento [[formative-assessment|formativo]] produza uma justificativa que nomeia perguntas de sondagem insuficientes, e o combinam com atenção de dupla lente sobre padrões curriculares e movimentos de rubrica específicos da disciplina. O alinhamento atenção-rubrica alcança 78,0%, contra 41,7% do GPT-4 zero-shot e 32,1% do BERT, e a fidelidade é testada pela exclusão contrafactual de trechos críticos para a rubrica, juntamente com avaliações humanas em uma checklist ancorada na rubrica, dando uma pontuação de credibilidade da explicação de 0,78 — um aumento de 0,31 sobre o BERT-base. A auditoria também mostra onde a afirmação arquitetural enfraquece: em pistas emocionais, o modelo aloca 28,4% do peso de atenção contra 15,2% de um especialista (alinhamento 0,53), com um caso de falha atribuindo 28% ao token "frustrated", que os autores leem como overfitting ao afeto em vez de à pedagogia e nomeiam como uma área de refinamento. Embutir explicações no caminho da decisão as torna mais fiéis que justificativas pós-hoc; isso não as torna corretas.
+**Explicável por desenho** é uma resposta ao problema de fidelidade do pós-hoc. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang e Fang (2025)]] parametrizam um decodificador de explicação pela mesma representação fundida e pela mesma nota prevista que decidem a [[assessment|avaliação]], de modo que uma nota baixa em questionamento [[formative-assessment|formativo]] produza uma justificativa que nomeia perguntas de sondagem insuficientes, e o combinam com atenção de dupla lente sobre padrões curriculares e movimentos de [[rubrics|rubrica]] específicos da disciplina. O alinhamento atenção-rubrica alcança 78,0%, contra 41,7% do GPT-4 zero-shot e 32,1% do BERT, e a fidelidade é testada pela exclusão contrafactual de trechos críticos para a rubrica, juntamente com avaliações humanas em uma checklist ancorada na rubrica, dando uma pontuação de credibilidade da explicação de 0,78 — um aumento de 0,31 sobre o BERT-base. A auditoria também mostra onde a afirmação arquitetural enfraquece: em pistas emocionais, o modelo aloca 28,4% do peso de atenção contra 15,2% de um especialista (alinhamento 0,53), com um caso de falha atribuindo 28% ao token "frustrated", que os autores leem como overfitting ao afeto em vez de à pedagogia e nomeiam como uma área de refinamento. Embutir explicações no caminho da decisão as torna mais fiéis que justificativas pós-hoc; isso não as torna corretas.
 
 **O que um modelo diz que usou depende da família tanto quanto dos dados.** Em sete modelos sobre uma mesma coorte, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] constataram que abordagens simbólicas se apoiavam em fatores cognitivos e [[motivation|motivacionais]], modelos subsimbólicos em aspectos cognitivos, conhecimento aprendido e gênero, e ambos em grande medida ignoravam fatores metacognitivos, enquanto o modelo neuro-simbólico usava um conjunto mais integrado. Os mesmos estudantes e os mesmos indicadores produziram relatos diferentes do que importava, de modo que o alinhamento com a [[learning-theories|teoria da aprendizagem]] se torna uma afirmação sobre atribuições, e não sobre acurácia.
 

@@ -1,5 +1,6 @@
 ---
 title: Utofauti wa Neva
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T06:05:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -8,16 +9,20 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -80,9 +85,13 @@ Upande wa hatari una fasihi yake. [[seung-basham-cognitive-offloading-swld-2026|
 - **Mipaka ya kategoria inatofautiana katika masudio,** hivyo kulinganisha "sawa" ya aina ya neva katika masudio mbalimbali ni mdogo — na tofauti kati ya kategoria katika utafiti wa meta zinaripotiwa kama zisizo na umuhimu.
 - **Wakaguzi wa uwanja wenyewe wanauelezea kuwa ukiendeshwa na teknolojia,** ambayo inamaanisha kuwa ushahidi wa uingiliaji ni dhaifu hasa mahali ambapo mwongozo wa ubuni ni wenye nguvu zaidi.
 
+- **Sasa kuna utafiti wa kulinganisha kwa matumizi ya AI ya kizalishaji.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji na wenzake (2026)]] walichunguza wanafunzi 477 wa chuo kikuu na wa shahada ya uzamivu wa Kijapani wenye na wasio na matatizo ya maendeleo ya neva, wakagundua hakuna tofauti yenye umuhimu kati ya vikundi kuhusu matumizi ya kila wiki, ujuzi unaotathminiwa nafsi, faida zinazotazamika au mahitaji ya msaada. Ni tu mwingiliano wa sauti na wa picha uliopanda kidogo katika kikundi cha DD, hivyo pengo la kikundi kimoja kilicho hapo juu sasa lina utafiti mmoja wa kulinganisha moja kwa moja.
+
 ## Mahusiano
 
 Utofauti wa neva inaungana na [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], na [[equity-in-ai-education]]. Inaelekeza jinsi AI inavyotumika kwa [[student-experience]] na jinsi tathmini na programu za ujuzi zinavyobuniwa kuwa za haki katika mabadiliko ya kiakili. Kwa jinsi matokeo haya yanavyokaa pamoja na vikundi vingine vya wanafunzi — lugha, jinsia, hali ya kiuchumi, jiografia — tazama [[differential-effects-across-learner-groups|Athari Tofauti Katika Vikundi vya Wanafunzi]].
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh na Natoli]] mapitio yao ya masomo 28 kuhusu AI kwa wanafunzi wa chuo wenye ADHD yanapanga ushahidi katika msaada, utabiri na maadili. Sehemu nyembamba zaidi ni utabiri: mfano wa pupillometriki ulifikia AUROC 0.856, huku kiderecha cha SVM kikifikia usahihi wa asilimia 66.1 hadi 68.8, chini ya matumizi ya kliniki. Mabadiliko ya utendaji wa kiutendaji ndiyo kiini cha maadili — zana inayokidhi mahitaji inaweza pia kuinyonya mazoezi ambayo ndiyo yangejenga uwezo huo ([[executive-function|utendaji wa kiutendaji]]).
 
 ## Dhana Potofu za Kawaida
 

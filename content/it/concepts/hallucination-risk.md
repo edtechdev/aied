@@ -1,7 +1,7 @@
 ---
 title: Rischio di allucinazione
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-22T12:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]

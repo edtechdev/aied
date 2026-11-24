@@ -1,7 +1,7 @@
 ---
 title: Ética
 created: "2026-09-25T03:54:01-04:00"
-updated: "2026-11-23T14:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -16,10 +16,6 @@ ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
     date: "2026-11-23"
-    agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
-    date: "2026-11-13"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation

@@ -1,7 +1,7 @@
 ---
 title: "Déclarations d'utilisation et de divulgation de l'IA"
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]

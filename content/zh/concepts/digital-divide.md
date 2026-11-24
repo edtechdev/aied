@@ -1,7 +1,7 @@
 ---
 title: 数字鸿沟
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-18T03:04:09-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 connected_resources: [public-ai-libraries]
 type: concept
@@ -9,13 +9,13 @@ foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-11-24"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -26,7 +26,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -59,6 +59,8 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 - **语码转换本身就是一种排斥。** 大多数 [[llm]] 讲座工具假设单一语言的英语音频与可靠的网络，从而排除了混用英语与家庭语言的课堂；印度的 UDISE+ 数据显示学校网络接入接近 54%，城乡差距 24 个百分点，而一个双语伴随应用以设备端转录与本地优先存储作答（[[bilingual-llm-lecture-companion-srl-2026|Malhotra，2026]]）。
 
 - **公共数字服务复现了鸿沟。** 肯尼亚的 eCitizen 电子政务平台以英语为主、斯瓦希里语有限，且为纯文本界面，这排除了低读写能力者、视障者与农村青年；访谈加上横跨四个生计平台（Ajira Digital、KRA iTax、HELB、YEDF）的十一人圆桌，指向语言技术与参照 WCAG 2.1 的设计是包容的杠杆（[[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare（2026）]]）。
+
+- **拆分使用，而不仅是获取。** [[raut-ai-rural-education-india-2026|Raut 的整合综述]]报告，在印度 14–16 岁的农村青少年中，85.5% 的男孩与 79.4% 的女孩表示他们能使用智能手机，因此家庭的设备可得性低估了实际使用上的性别差距。
 
 ## AI 加深（也能够弥合）鸿沟
 

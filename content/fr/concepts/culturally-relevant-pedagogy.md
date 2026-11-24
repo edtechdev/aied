@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie culturellement pertinente"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]

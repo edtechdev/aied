@@ -7,9 +7,9 @@ connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learn
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/neurodiversity"
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -81,9 +85,13 @@ Sisi risikonya memiliki literaturnya sendiri. [[seung-basham-cognitive-offloadin
 - **Batas kategori berbeda antarstudi,** sehingga perbandingan lintas studi atas neurotipe "yang sama" terbatas — dan perbedaan antarkategori dalam meta-analisis dilaporkan sebagai tidak signifikan.
 - **Para peninjau bidang ini sendiri menggambarkannya sebagai digerakkan teknologi,** yang berarti bukti intervensinya tipis justru di tempat panduan desainnya paling kuat.
 
+- **Sekarang ada studi pembanding untuk penggunaan AI generatif.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] mensurvei 477 mahasiswa universitas dan pascasarjana Jepang dengan dan tanpa gangguan neuroperkembangan dan menemukan tidak ada perbedaan signifikan antar kelompok pada penggunaan mingguan, keterampilan yang dinilai sendiri, manfaat yang dipersepsikan, atau kebutuhan dukungan. Hanya interaksi suara dan gambar yang sedikit lebih tinggi pada kelompok DD, sehingga celah kelompok tunggal di atas kini memiliki satu pembanding langsung.
+
 ## Koneksi
 
 Neurodiversitas terhubung dengan [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], dan [[equity-in-ai-education]]. Ia menginformasikan bagaimana AI diterapkan untuk [[student-experience]] dan bagaimana penilaian serta program literasi dirancang agar adil lintas variabilitas kognitif. Untuk bagaimana temuan ini berdampingan dengan kelompok pembelajar lain — bahasa, gender, status sosial ekonomi, geografi — lihat [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Tinjauan Deep, Ghosh, dan Natoli]] atas 28 studi tentang AI untuk mahasiswa dengan ADHD mengelompokkan bukti menjadi dukungan, prediksi, dan etika. Prediksi adalah bagian tertipisnya: sebuah model pupilometrik mencapai AUROC 0.856, sementara pengklasifikasi SVM mencapai akurasi 66.1 hingga 68.8 persen, di bawah utilitas klinis. Pertukaran fungsi eksekutif adalah inti etisnya — alat yang mengkompensasi suatu tuntutan juga dapat menyerap latihan yang sebenarnya membangun kapasitas itu ([[executive-function|fungsi eksekutif]]).
 
 ## Miskonsepsi Umum
 

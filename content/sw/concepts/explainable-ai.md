@@ -1,5 +1,6 @@
 ---
 title: AI Inayoelezekana
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T12:09:00-04:00"
 type: concept
 foundations: [ai-literacy]
@@ -10,10 +11,14 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -84,9 +89,11 @@ Rejea hufanya kazi kama kidokezo cha uaminifu badala ya ushahidi wa usahihi: kua
 
 Onyo mawili yanapunguza hili zaidi, wote wawili yanayofanya kitu kuu katika mchango mpya zaidi wa wiki juu ya mada hii. Kwanza, mitambo ya maelezo yenyewe haijajiruhusu: mbinu za baada ya tukio kama LIME na SHAP zinaweza kushindwa kuwa za kweli kwa tabia halisi ya mfano, na hivyo maelezo yaliyopo kiufundi yanaweza kupotosha badala ya kuelimisha ([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], yakitegemea Chuan et al. 2024). Pili, **maelezo si uwajibikisho**. Maelezo ya ni kigezo gani kilisababisha utabiri hayafichui kama kigezo hivyo vilikuwa vya kufaa kutumika, kama data ya mafunzo ilikuwa ya uwakilishi, au kama ubini wa mfumo ulionyesha hukumu yenye sauti; maelezo yanaweza kuunda muonekano wa uwazi huku yakichiacha hali za muundo zilizozalisha uamuzi bila kuguswa (Mittelstadt et al. 2019). Kwa elimu hii inamaanisha swali la kuendelea kuuliza si kama maelezo yalizalishwa bali kama mtu anayepokea — mwanafunzi, mwalimu, mshauri — angeweza kuelewa, kutenda, au kupinga uamuzi unaofuata. Kushindwa kule kule kwa kusomka kunaonekana kwenye upande wa usalama wa [[automated-assessment|tathmini ya kiotomatiki]]: [[humble-prompt-injection-ai-grading-red-team-2026|upimaji mkuu wa Humble (2026) wa zana ya kupima ya AI]] uligundua inazima gumzi kimya baada ya kuzuia uingizaji wa ilani, na — baada ya kutangaza kuwa haitafuata maagizo yaliyojumuishwa — ikiyafuata katika mbio sita zaidi kwenye faili ile ile, na kumuacha mtumiaji bila ishara ya kuaminika ya kutegemea.
 
-**Inayoelezekana kwa ubini** ni jibu moja kwa tatizo la uaminifu wa baada ya tukio. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang na Fang (2025)]] wanabainisha msomaji wa maelezo na uwakilishi uliounganishwa na alama iliyotabiriwa ule ule unaoamua [[assessment|tathmini]], na hivyo alama ya chini katika [[formative-assessment|maswali ya kiumbo]] hutoa maelezo yanayotaja maswali ya kuchunguza yasiyo ya kutosha, na kuunganisha na uangalifu wa lenzi mbili kwenye viwango vya mtaala na hatua za rubriki mahususi za taaluma. Ulinganifu wa uangalifu-kwa-rubriki unafikia 78.0% ikilinganishwa na 41.7% ya GPT-4 bila mafunzo na 32.1% ya BERT, na uaminifu hupimwa na kufuta kwa counterfactual sehemu muhimu za rubriki pamoja na alama za binadamu kwenye orodha ya ukaguzi iliyoungwa na rubriki, na kutoa alama ya uaminifu wa maelezo ya 0.78 — ongezeko la 0.31 juu ya BERT-base. Ukaguzi pia unaonyesha mahali madai ya usanifu yanapungua: kwenye ishara za kihisia mfano hutoa 28.4% ya uzito wa uangalifu dhidi ya 15.2% ya mtaalam (ulinganifu 0.53), na hali moja ya kushindwa ikitoa 28% kwa tokeni "kukasirika", ambayo waandishi wanasoma kuwa na mifano kupita kiasi ya kihisia badala ya kielimu na wanaita kama eneo la kuboresha. Kujumlisha maelezo katika njia ya uamuzi huyafanya kuwa ya kweli zaidi ya maelezo ya baada ya tukio; haifanyi sahihi.
+**Inayoelezekana kwa ubini** ni jibu moja kwa tatizo la uaminifu wa baada ya tukio. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang na Fang (2025)]] wanabainisha msomaji wa maelezo na uwakilishi uliounganishwa na alama iliyotabiriwa ule ule unaoamua [[assessment|tathmini]], na hivyo alama ya chini katika [[formative-assessment|maswali ya kiumbo]] hutoa maelezo yanayotaja maswali ya kuchunguza yasiyo ya kutosha, na kuunganisha na uangalifu wa lenzi mbili kwenye viwango vya mtaala na hatua za [[rubrics|rubriki]] mahususi za taaluma. Ulinganifu wa uangalifu-kwa-rubriki unafikia 78.0% ikilinganishwa na 41.7% ya GPT-4 bila mafunzo na 32.1% ya BERT, na uaminifu hupimwa na kufuta kwa counterfactual sehemu muhimu za rubriki pamoja na alama za binadamu kwenye orodha ya ukaguzi iliyoungwa na rubriki, na kutoa alama ya uaminifu wa maelezo ya 0.78 — ongezeko la 0.31 juu ya BERT-base. Ukaguzi pia unaonyesha mahali madai ya usanifu yanapungua: kwenye ishara za kihisia mfano hutoa 28.4% ya uzito wa uangalifu dhidi ya 15.2% ya mtaalam (ulinganifu 0.53), na hali moja ya kushindwa ikitoa 28% kwa tokeni "kukasirika", ambayo waandishi wanasoma kuwa na mifano kupita kiasi ya kihisia badala ya kielimu na wanaita kama eneo la kuboresha. Kujumlisha maelezo katika njia ya uamuzi huyafanya kuwa ya kweli zaidi ya maelezo ya baada ya tukio; haifanyi sahihi.
 
 **Kile mfano unachosema kilitumia kinategemea familia kama vile data.** Katika mifano saba kwenye kohorti moja, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar et al. (2026)]] waligundua mbinu za ishara zikiegemea vipengele vya kiakili na vya [[motivation|motisha]], mifano ya chini ya ishara kwenye vipengele vya kiakili, maarifa yaliyojifunza na jinsia, na zote mbili zikipuuza kwa kiasi kikubwa vipengele vya metaji, wakati mfano wa neva-ishara ulitumia seti iliyounganishwa zaidi. Wanafunzi wale wale na viashiria vile vile vilizalisha maelezo tofauti ya kile kilichokuwa muhimu, hivyo ulinganifu na [[learning-theories|nadharia ya kujifunza]] unakuwa dai kuhusu ugawaji wa sifa badala ya usahihi.
+
+Vipimo vinavyotumika kuthibitisha ubora wa maelezo havipimi ufaafu. Katika utafiti uliosajiliwa awali wa washiriki 166 unaolinganisha mbinu tatu za umuhimu (LIME, Grad-CAM, Guided Backpropagation), kuridhika na alama za uaminifu zilikuwa sawa katika hali zote, kipimo cha kazi kilipendelea Grad-CAM, na vipimo vya kihesabu vya uaminifu vilipendelea Guided Backpropagation — familia tatu za ushahidi zikielekea mbinu tatu tofauti ([[kares-xai-evaluation-alignment-2027|Kares et al., 2027]]). Baadhi ya uhusiano wa vigezo-utendaji ulikwenda kinyume na ile ambayo vigezo hivyo vimekusudiwa kuthibitisha. Alama ya uaminifu ni ushahidi kuhusu mfano, si kuhusu iwapo mtumiaji anaweza kutenda kwa kuzingatia maelezo.
 
 ## Kufundisha kuelezekana kama mazoezi ya uwajibikisho
 

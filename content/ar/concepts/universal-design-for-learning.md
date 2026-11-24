@@ -1,7 +1,7 @@
 ---
 title: التصميم الشامل للتعلّم
 created: "2026-10-12T19:00:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]

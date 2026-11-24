@@ -10,15 +10,19 @@ connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-unde
 level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/ai-use-disclosure"
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
 connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
@@ -53,6 +57,7 @@ Pengungkapan adalah mekanisme yang membuat kerja berbantuan AI *terlihat* dan ka
 
 - **Pengungkapan jarang dan didorong kecemasan.** Di berbagai studi, sebagian besar siswa tidak mengungkapkan penggunaan AI kepada instruktur. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] menemukan hanya ~34% mahasiswa ekonomi mengakui penggunaan AI dan pengungkapannya lebih jarang lagi, didorong "kecemasan akan sanksi." [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] menemukan 66% siswa tidak pernah atau jarang mengungkapkan, dengan takut akan sanksi akademik sebagai alasan utama. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] mendokumentasikan **74% ketidakpatuhan** terhadap deklarasi wajib di King's [[business-education|Business School]].
 - **Kebijakan yang ambigu dan punitif mendorong penyembunyian.** Ketika kebijakan penggunaan AI tidak jelas, tidak ditegakkan, atau berupa larangan, siswa menyembunyikan penggunaan alih-alih terlibat. Kebijakan "penggunaan terbatas dalam situasi tertentu" paling baik memprediksi pengungkapan; kebijakan "tidak diizinkan" atau "tidak mengetahui" memprediksi penyembunyian. Kebijakan yang jelas, konsisten, dan kolaboratif berulang kali diserukan.
+- **Kewajibannya, bukan hanya sanksinya.** Dua aturan dengan maksud sama membelah pengungkapan dari penyembunyian: [[mehreen-genai-policy-wording-2026|Mehreen et al. (2026)]] menemukan pembingkaian ketidakjujuran berkaitan dengan siswa yang menyembunyikan penggunaan mereka, sementara menjadikan siswa bertanggung jawab atas keluaran yang tidak akurat berkaitan dengan kepemilikan dan transparansi.
 - **Pengungkapan memiliki biaya psikologis — dan biaya tersembunyi.** Siswa memandang deklarasi sebagai memberatkan diri sendiri, dan sebagian percaya penggunaan AI bersifat pribadi seperti memakai kalkulator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] menemukan siswa yang "selalu" mengungkapkan memiliki peluang lebih dari 3× dituduh — transparansi dapat mengundang kecurigaan. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] menemukan kekhawatiran mengalihkan pengungkapan ke sejawat alih-alih menekannya, sehingga memutus siswa dari umpan balik instruktur.
 - **Pengungkapan terjerat dengan pembelajaran teregulasi diri.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] menafsirkan pengungkapan yang diarahkan guru sebagai pencarian bantuan adaptif — membuat bantuan terlihat dan mengundang kalibrasi eksternal — sementara penyembunyian (terutama di antara pengguna AI berat) menyerupai regulasi maladaptif. Pengungkapan terstruktur dan formatif dapat mendorong refleksi [[metacognition|metakognitif]] dan penalaran etis yang menandai regulasi diri yang efektif.
 
@@ -75,6 +80,8 @@ Meninjau panduan GenAI dari 50 universitas Amerika yang diperingkat paling inova
 
 - **Pengungkapan membawa penalti kepercayaan, dan legitimasi adalah mekanisme yang diargumentasikan.** Dalam tiga belas eksperimen, sebagian besar dengan panelis daring Amerika Serikat dan digabungkan pada 4,093 observasi (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), seorang aktor yang mengungkapkan penggunaan AI kurang dipercaya daripada yang tetap bungkam ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke dan Reimann (2025)]]). Efeknya bertahan pada enam pembingkaian pengungkapan, pada evaluator yang sudah tahu AI telah dipakai, dan pada rezim wajib maupun sukarela. Ini adalah padanan eksperimental dari temuan survei di atas bahwa siswa yang selalu mengungkapkan menghadapi peluang tuduhan lebih dari tiga kali lipat: transparansi itu sendiri dapat merugikan pengungkapnya. Satu-satunya hasil yang ditujukan kepada siswa dalam makalah itu adalah bahwa siswa kurang memercayai seorang profesor ketika ia mengungkapkan bahwa ia menilai dengan [[automated-assessment|AI]].
 - **Label konten mengubah deskripsi, bukan putusannya.** Dengan 617 orang dewasa yang dirandomisasi untuk melihat atau tidak melihat label "AI-Generated Content/Synthetic Video", label itu menurunkan persepsi keaslian (rata-rata 4.92 tanpa label dan 4.21 dengan label) tetapi membiarkan kepercayaan (B = -0.130, p = 0.216), risiko, adopsi, dan pembagian tidak berubah ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang dan Zhang (2026)]]).
+
+Dokumen yang sebenarnya diterima siswa membawa lebih sedikit daripada yang dimaksudkan instruktur yang menulisnya. [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud et al. (2026)]] mengode 16 silabus, pernyataan kebijakan, dan tugas yang disumbangkan 56 instruktur di satu universitas riset negeri besar di Midwest: pernyataan izin dan pengakuan kuat pada 59%, privasi data diam pada 75%, aturan sitasi kuat pada 19%, dan 81% tidak memiliki klausa revisi. Para instruktur yang sama melaporkan bahwa 71% panduan institusional membentuk materi mata kuliah mereka "tidak sama sekali" atau "sedikit", yang menempatkan celah itu pada panduan maupun silabus. Klausa pengungkapan hanya sebaik templat dan standar sitasi di baliknya.
 
 ## Merancang pengungkapan yang efektif
 

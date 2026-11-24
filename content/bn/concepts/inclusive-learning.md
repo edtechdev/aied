@@ -8,15 +8,19 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-d
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/inclusive-learning"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
 connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
@@ -72,6 +76,8 @@ connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segme
 **আনুষ্ঠানিক নির্ণয়ের দ্বাররক্ষা সেই শিক্ষার্থীদের বাদ দেয় যাদের সেবা করার দাবি সরঞ্জামটি করে।** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel প্রমুখের (2026)]] নিউরোডাইভার্জেন্ট শিক্ষার্থীদের জন্য ডিজিটাল সহায়ক প্রযুক্তির 40টি গবেষণার স্কোপিং পর্যালোচনায় 28টি অংশগ্রহণের শর্ত হিসেবে আনুষ্ঠানিক নির্ণয় রেখেছে এবং কেবল তিনটি শিক্ষার্থীর বদলে পরিবেশকে চিকিৎসা করেছে।
 
 **বাস্তবে প্রবেশগম্য সরঞ্জাম** দেখায় এআই কীভাবে অংশগ্রহণ বাড়াতে পারে। **[[suacode-african-students-motivations|SuaCode]]** দেখায় স্মার্টফোন-ভিত্তিক কোডিং কোর্স কম-সম্পদসম্পন্ন আফ্রিকান প্রসঙ্গে শিক্ষার্থীদের কাছে পৌঁছায় যেখানে 1%-এর কমের কোডিং দক্ষতা আছে। **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova প্রমুখ]]** অন্ধ ও স্বল্পদৃষ্টি সংগীতশিল্পীদের সঙ্গে অ-দৃশ্যমান শিখন-কৌশল বিকাশে কাজ করেন, প্রতিবন্ধকতা-নেতৃত্বাধীন [[embodied-learning|দেহজ]] নকশাকে কেন্দ্রে রেখে। **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** বিনামূল্যের, ব্যক্তিগত, বহুভাষিক এআই চিন্তা-সহযোগী দেয় যা শিক্ষকদের UDL নীতির সঙ্গে যুক্ত করে। **[[special-r1-rl-special-education|Special-R1]]** [[reinforcement-learning|রিইনফোর্সমেন্ট লার্নিংকে]] বিস্তৃত করে প্রতিবন্ধকতা-প্রোফাইল জুড়ে সংজ্ঞানাত্মক ও যোগাযোগগত বৈচিত্র্য মডেল করতে।
+
+**নীতি মোতায়েনের পেছনে থেকে যায়।** 100টি শীর্ষ স্থানীয় বিশ্ববিদ্যালয়ের একটিও এআই প্রবেশগম্যতা-নীতি ছিল না, যদিও 93%-ই এআই-চালিত ক্যাম্পাস-সেবা মোতায়েন করেছে ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]])।
 
 ### সংশ্লিষ্ট ধারণার সঙ্গে সংযোগ
 অন্তর্ভুক্তিমূলক শিখন [[equity-in-ai-education]]-এর সঙ্গে গভীরভাবে যুক্ত — প্রবেশগম্যতা কেবল প্রযুক্তিগত উদ্বেগ নয়, বরং কে শিখনে অংশ নিতে পারে সেই প্রশ্ন। এটি [[accessibility]]-এর সঙ্গে যুক্ত তার সুনির্দিষ্ট প্রবেশাধিকার-স্তর হিসেবে এবং [[assistive-technology]]-র সঙ্গে সরঞ্জাম-স্তর হিসেবে, [[universal-design-for-learning]]-এর সঙ্গে তার তাত্ত্বিক ভিত্তি হিসেবে, [[special-education]]-এর সঙ্গে প্রতিবন্ধকতা-নির্দিষ্ট পদ্ধতির জন্য, [[learning-design]]-এর সঙ্গে কোর্স ও সরঞ্জাম কীভাবে গঠিত তার জন্য, এবং [[neurodiversity]]-এর সঙ্গে সেই লেন্স হিসেবে যা পার্থক্যকে ঘাটতি নয়, বৈচিত্র্য হিসেবে নতুনভাবে দেখে। ইশারা-ভাষা রোবট ও স্পর্শনীয় সরঞ্জামের কাজ প্রবেশগম্যতাকে [[educational-robotics]] ও [[educational-nlp]]-এর সঙ্গে যুক্ত করে, যেখানে পাঠ্য-সরলীকরণ তা [[sociocultural-learning]] ও [[adaptive-learning]]-এর সঙ্গে যুক্ত করে। [[ai-education]] ও [[generative-ai]] সংযোগ প্রতিশ্রুতি (স্বয়ংক্রিয় বিষয়বস্তু-অভিযোজন) ও ঝুঁকি (বর্জন পুনরুৎপাদনকারী এআই ব্যবস্থা) দুটোই তুলে ধরে।

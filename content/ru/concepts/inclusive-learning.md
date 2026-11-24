@@ -2,6 +2,7 @@
 connected_resources: [mglearn]
 title: Инклюзивное обучение
 created: "2026-10-13T20:16:00-04:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -9,10 +10,14 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -79,6 +84,8 @@ connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segme
 **Гейткипинг через формальный диагноз исключает учащихся, которым инструмент заявлен как служащий.** В [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al.'s (2026)]] скопинговом обзоре 40 исследований цифровых ассистивных технологий для нейроотличных студентов в 28 формальный диагноз был условием участия, и только три рассматривали среду, а не студента.
 
 **Доступные инструменты на практике** показывает, как ИИ может расширять участие. **[[suacode-african-students-motivations|SuaCode]]** продемонстрировал, что курсы программирования на смартфонах достигают студентов в африканских контекстах с низкими ресурсами, где менее 1% обладают навыками программирования. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** работали со слепыми и слабовидящими музыкантами над развитием невизуальных стратегий обучения, центрируя [[embodied-learning|embodied]] дизайн, ведомый инвалидностью. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** предоставляет бесплатного, приватного, многоязычного ИИ-партнёра для размышлений, связывающего преподавателей с принципами UDL. **[[special-r1-rl-special-education|Special-R1]]** расширяет [[reinforcement-learning|reinforcement learning]] на моделирование когнитивного и коммуникативного разнообразия при разных профилях инвалидности.
+
+**Отставание политики от внедрения.** Ни один из 100 высших по рейтингу университетов не имел политики доступности ИИ, хотя 93% развёртывали сервисы кампуса на основе ИИ ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### Связи со смежными концепциями
 

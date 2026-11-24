@@ -9,9 +9,9 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/sustainability"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -66,7 +70,9 @@ connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partn
 
 ## শিক্ষাদানমূলক লক্ষ্য হিসেবে টেকসই শেখা
 
-সম্পর্কিত একটি ধারা টেকসইতাকে কেবল পরিবেশগত বা প্রাতিষ্ঠানিক উদ্বেগ নয়, শেখার নিজের একটি বৈশিষ্ট্য হিসেবে দেখে। [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu প্রমুখ (2026)]] যুক্তি দেন এআই-সহায়ক শেখায় জ্ঞানীয় আউটসোর্সিং ও প্রকৃত প্রেক্ষিত থেকে বিচ্ছিন্ন হওয়ার ঝুঁকি আছে, এবং **টেকসই শেখার** জন্য কাঠামো (E3-HOT) প্রস্তাব করেন — এমন শেখা যা টিকে থাকে, স্থানান্তরিত হয় এবং [[cognitive-offloading|জ্ঞানীয় অফলোডিংয়ে]] শর্ট-সার্কিট না হয়ে প্রকৃত সমস্যার সঙ্গে যুক্ত থাকে। এটি টেকসইতাকে [[agency]] ও [[critical-thinking]]-এর সঙ্গে যুক্ত করে।
+সম্পর্কিত একটি ধারা টেকসইতাকে কেবল পরিবেশগত বা প্রাতিষ্ঠানিক উদ্বেগ নয়, শেখার নিজের একটি বৈশিষ্ট্য হিসেবে দেখে। এই পুনর্কাঠামো যে নির্দিষ্ট স্বার্থকে সেবা করে সেই আরও বিস্তৃত যুক্তিটি [[critiques-of-ai-in-education|শিক্ষায় এআই-এর সমালোচনা]]-এ সংগৃহীত। [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu প্রমুখ (2026)]] যুক্তি দেন এআই-সহায়ক শেখায় জ্ঞানীয় আউটসোর্সিং ও প্রকৃত প্রেক্ষিত থেকে বিচ্ছিন্ন হওয়ার ঝুঁকি আছে, এবং **টেকসই শেখার** জন্য কাঠামো (E3-HOT) প্রস্তাব করেন — এমন শেখা যা টিকে থাকে, স্থানান্তরিত হয় এবং [[cognitive-offloading|জ্ঞানীয় অফলোডিংয়ে]] শর্ট-সার্কিট না হয়ে প্রকৃত সমস্যার সঙ্গে যুক্ত থাকে। এটি টেকসইতাকে [[agency]] ও [[critical-thinking]]-এর সঙ্গে যুক্ত করে।
+
+- **একটি গেটকিপিং বিবরণ।** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] শিক্ষাতাত্ত্বিক টেকসইতাকে স্থায়ী শিখন-মূল্য হিসেবে সংজ্ঞায়িত করেন যা অর্থনৈতিক, সামাজিক, পরিবেশগত ও প্রাতিষ্ঠানিক শর্তে বজায় রাখা যায়, তারপর সেই মূল্যকে পাঁচের মধ্যে একটি স্তম্ভের বদলে অ-ক্ষতিপূরণযোগ্য গেট হিসেবে দাঁড় করান।
 
 ## অন্যান্য ধারণার সঙ্গে সংযোগ
 

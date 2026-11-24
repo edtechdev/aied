@@ -1,7 +1,7 @@
 ---
 title: שוויון
 created: "2026-10-12T20:10:00-04:00"
-updated: "2026-11-23T10:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T01:20:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -82,6 +82,9 @@ connected_articles: [abikhair-explainable-ai-educational-inequality-2026, access
 - **תבניות של ביצוע טוב הופכות להון תרבותי.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] מראים שבינה מלאכותית יוצרת ממסגרת מחדש הנחיות, [[rubrics|רובריקה]] וז'אנרים לצורות תקשורתיות משכנעות, מה שיכול להקל על עיבוד תרומה תוך כיוון לומדים לתבניות דומיננטיות, ולכן ההכלה הופכת תלויה בהסתגלות לז'אנרים מוכרים.
 
 ## שוויון תוצאות
+
+- **בסיס הראיות מכסה את אלה שכבר זכו לשירות.** סקירה שיטתית של 170 מאמרים על בינה מלאכותית סוכנית בחינוך (Scopus, 2022–2026) מצאה כיסוי הפוך להרשמות: מסגרות אקדמיות דומיננטיות עם 37 מאמרים (**21.8%**) מול 15 לחינוך יסודי ותיכוני (K-12) (**8.8%**), בעוד 102 (**60.0%**) לא מציינים שום רמת חינוך ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]]). האוכלוסיות שמתמודדות עם אתגרי הלמידה הגדולים ביותר מופיעות הכי פחות: תלמידים עם מוגבלות ב-15 מאמרים (**8.8%**), לומדי אנגלית ב-3 (**1.8%**) ותלמידים בסיכון באחד (**0.6%**), בעוד שמורים מופיעים ב-68 (**40.0%**). טיפול ב[[equity-in-ai-education|שוויון]] או בהכלה כרציונל מפורש מופיע רק ב-16 מאמרים (**9.4%**).
+- **הפער מחזק את עצמו.** אותה סקירה מתארת מעגל: חוקרים בוחנים אוכלוסיות נגישות בהקשרים מוכרים, כך שהראיות שנוצרות חלות רק שם; אנשי שטח במקומות אחרים אינם יכולים לפעול על פיהן בביטחון; התורמים הולכים אחרי יעילות מוכחת, וההקשרים שאינם נבדקים נשארים ללא מימון.
 
 בסקירה ממוקדת-היקף של 394 מחקרי בינה מלאכותית יוצרת בהשכלה גבוהה, שוויון וגישה היו בין התוצאות שנחקרו פחות מכולן, לצד [[metacognition|מטה-קוגניציה]], אתיקה ו[[creativity|יצירתיות]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "法的問題とリスク"
 created: "2026-10-10T22:38:07-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -18,6 +18,10 @@ translation_of: concepts/legal-issues-and-risks
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

@@ -1,7 +1,7 @@
 ---
 title: Neurodiversität
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -21,8 +21,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -84,6 +88,8 @@ Die Risikoseite hat ihre eigene Literatur. [[seung-basham-cognitive-offloading-s
 - **Die Stichproben sind klein.** Vierundzwanzig Studierende und vier Interviews in der Informatikstudie; 17 und 10 in der ADHS-Videostudie; 72 Studien im Legasthenie-Review, wobei die Stränge weiterhin unverbunden sind.
 - **Die Kategoriegrenzen unterscheiden sich zwischen Studien,** daher ist der studienübergreifende Vergleich „desselben“ Neurotyps begrenzt –, und die Zwischen-Kategorie-Unterschiede in der Metaanalyse werden als nicht signifikant berichtet.
 - **Die eigenen Reviewenden des Feldes beschreiben es als technologiegetrieben,** was bedeutet, dass die Interventionsevidenz genau dort dünn ist, wo die Designanleitung am stärksten ist.
+
+- **Ein Komparator gibt es nun auch für den Einsatz generativer KI.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] befragten 477 japanische Universitäts- und Graduiertenstudierende mit und ohne neurodevelopmentale Störungen und fanden keinen signifikanten Unterschied zwischen den Gruppen bei wöchentlicher Nutzung, selbst eingeschätzten Fähigkeiten, wahrgenommenem Nutzen oder Unterstützungsbedarf. Nur Stimmen- und Bildinteraktionen lagen in der Gruppe mit neurodevelopmentalen Störungen leicht höher, sodass die obige Einzelgruppen-Lücke nun über einen direkten Komparator verfügt.
 
 ## Verbindungen
 

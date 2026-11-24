@@ -1,7 +1,7 @@
 ---
 title: "المسائل القانونية والمخاطر"
 created: "2026-10-12T23:58:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]

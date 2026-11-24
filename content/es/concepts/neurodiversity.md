@@ -1,7 +1,7 @@
 ---
 title: Neurodiversidad
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-23T14:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]

@@ -1,7 +1,7 @@
 ---
 title: サステナビリティ
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_of: concepts/sustainability
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
@@ -65,7 +69,9 @@ AI 教育におけるサステナビリティは、重なり合う3つの枠組�
 
 ## 教育学的な目標としての持続可能な学習
 
-関連する一連の研究は、サステナビリティを環境的・制度的な関心事であるだけでなく、学習自身の特性として捉えています。[[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu 他 (2026)]]は、AI 支援による学習は認知的な外部委託と本物の文脈からの乖離のリスクを孕むと論じ、**持続可能な学習**——[[cognitive-offloading|認知的オフローディング]]によって短絡されるのではなく、持続し、移行し、現実の問題につながったままである学習——のための枠組み(E3-HOT)を提案しています。これはサステナビリティを[[agency]]と[[critical-thinking]]に結びつけます。
+関連する一連の研究は、サステナビリティを環境的・制度的な関心事であるだけでなく、学習自身の特性として捉えています。この再枠づけが特定の利害に奉仕するというより広い議論は、[[critiques-of-ai-in-education|AI教育への批判]]のもとに集約されています。[[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu 他 (2026)]]は、AI 支援による学習は認知的な外部委託と本物の文脈からの乖離のリスクを孕むと論じ、**持続可能な学習**——[[cognitive-offloading|認知的オフローディング]]によって短絡されるのではなく、持続し、移行し、現実の問題につながったままである学習——のための枠組み(E3-HOT)を提案しています。これはサステナビリティを[[agency]]と[[critical-thinking]]に結びつけます。
+
+- **門番としての説明。** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos（2026）]]は、教育的サステナビリティを、経済的・社会的・環境的・制度的な条件——それらは維持可能でなければならない——の下で産み出される持続可能な学習価値として定義し、その価値を五つの柱のひとつではなく、補償によって解除できない関門として位置づけています。
 
 ## 他の概念とのつながり
 

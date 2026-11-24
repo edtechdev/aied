@@ -9,9 +9,9 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/sustainability"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -66,7 +70,9 @@ Jalur kedua menyangkut jejak AI itu sendiri dalam lingkungan pendidikan:
 
 ## Pembelajaran berkelanjutan sebagai tujuan pedagogis
 
-Satu alur terkait membingkai keberlanjutan bukan hanya sebagai persoalan lingkungan atau institusional tetapi sebagai sifat dari pembelajaran itu sendiri. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] berargumen bahwa pembelajaran berbantuan AI berisiko mengalami outsourcing kognitif dan keterlepasan dari konteks autentik, lalu mengusulkan kerangka (E3-HOT) untuk **pembelajaran berkelanjutan** — pembelajaran yang bertahan, bertransfer, dan tetap terhubung dengan masalah nyata alih-alih dipersingkat oleh [[cognitive-offloading]]. Ini mengaitkan keberlanjutan dengan [[agency]] dan [[critical-thinking]].
+Satu alur terkait membingkai keberlanjutan bukan hanya sebagai persoalan lingkungan atau institusional tetapi sebagai sifat dari pembelajaran itu sendiri. Argumen lebih luas bahwa pembingkaian ulang ini melayani kepentingan tertentu dihimpun di bawah [[critiques-of-ai-in-education|Kritik terhadap AI dalam Pendidikan]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] berargumen bahwa pembelajaran berbantuan AI berisiko mengalami outsourcing kognitif dan keterlepasan dari konteks autentik, lalu mengusulkan kerangka (E3-HOT) untuk **pembelajaran berkelanjutan** — pembelajaran yang bertahan, bertransfer, dan tetap terhubung dengan masalah nyata alih-alih dipersingkat oleh [[cognitive-offloading]]. Ini mengaitkan keberlanjutan dengan [[agency]] dan [[critical-thinking]].
+
+- **Rekening penjagaan (gatekeeping).** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] mendefinisikan keberlanjutan pedagogis sebagai nilai pembelajaran yang tahan lama yang diproduksi dalam kondisi ekonomi, sosial, lingkungan, dan institusional yang dapat dipertahankan, lalu menjadikan nilai itu sebuah gerbang yang tidak dapat dikompensasi alih-alih salah satu pilar dari lima.
 
 ## Koneksi ke konsep lain
 

@@ -9,11 +9,15 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 ai_assist:
-- model: stepfun/step-5-preview:free
-  role: translation
-  date: '2026-10-11'
-  agent: hermes-agent
-updated: "2026-11-19T06:40:00-05:00"
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: '2026-10-11'
+    agent: hermes-agent
+updated: "2026-11-24T02:05:00-05:00"
 source_updated: "2026-11-19T09:45:00-05:00"
 translation_of: concepts/trust-calibration
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。

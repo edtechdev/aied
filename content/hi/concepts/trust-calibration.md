@@ -1,7 +1,7 @@
 ---
 title: "विश्वास कैलिब्रेशन"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -14,6 +14,10 @@ source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: revision
     date: "2026-09-22"

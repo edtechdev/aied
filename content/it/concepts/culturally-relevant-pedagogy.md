@@ -1,7 +1,7 @@
 ---
 title: Pedagogia culturalmente rilevante
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-22T12:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -21,10 +21,6 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
-    agent: hermes-agent
-  - model: meituan/longcat-2.5:free
-    role: translation
-    date: "2026-11-22"
     agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation

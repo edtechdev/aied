@@ -8,15 +8,19 @@ ethics: [equity-in-ai-education, inclusive-learning]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-08T11:03:58-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/culturally-relevant-pedagogy"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
 connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
@@ -37,21 +41,22 @@ connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cul
 
 ## Pendahuluan
 
-### Peran Bermata Dua AI dalam CRP
+## Peran Bermata Dua AI dalam CRP
 
 AI dapat mendukung guru dalam membuat pengajaran responsif secara budaya, tetapi keluaran defaultnya juga berisiko **memperkuat narasi dominan** bila dibiarkan tanpa prompt.
 
-- **Dukungan bagi guru:** Wang et al. (2025) membangun **CulturAIEd**, sistem bertenaga [[llm|LLM]] yang membantu guru [[k-12|K-12]] merancang aktivitas [[ai-literacy]] yang responsif secara budaya dengan menggabungkan informasi demografis siswa dan panduan berbasis rubrik (daftar periksa CRT yang dilapiskan ke dalam proses generasi). Dalam uji coba empat guru, sistem ini **meningkatkan keyakinan guru** dalam mengenali peluang responsivitas budaya dan dalam memodifikasi aktivitas yang sudah ada, dengan 78% menilai saran AI membantu untuk mendiversifikasi materi. Alat ini secara langsung menyasar hambatan waktu, pelatihan, dan sumber daya yang menghalangi implementasi CRP.
+- **Dukungan bagi guru:** Wang et al. (2025) membangun **CulturAIEd**, sistem bertenaga [[llm|LLM]] yang membantu guru [[k-12|K-12]] merancang aktivitas [[ai-literacy]] yang responsif secara budaya dengan menggabungkan informasi demografis siswa dan panduan berbasis [[rubrics|rubrik]] (daftar periksa CRT yang dilapiskan ke dalam proses generasi). Dalam uji coba empat guru, sistem ini **meningkatkan keyakinan guru** dalam mengenali peluang responsivitas budaya dan dalam memodifikasi aktivitas yang sudah ada, dengan 78% menilai saran AI membantu untuk mendiversifikasi materi. Alat ini secara langsung menyasar hambatan waktu, pelatihan, dan sumber daya yang menghalangi implementasi CRP.
+- **Proses adaptasi bertahap, bukan satu prompt.** Pilot CulturAIEd menggerakkan guru melalui adaptasi mandiri, revisi panduan daftar periksa, lalu penyempurnaan terbantu alat, dan penulisnya memperingatkan bahwa model data luas dapat mereproduksi klise budaya, sehingga keluarannya tetap draf untuk direvisi terhadap pengetahuan tentang siswa sendiri ([[llm-cultural-relevance-k12|Wang et al., 2025]]).
 - **Risiko keluaran monokultural:** [[civic-education-ai-lesson-plans|Trust et al. (2025)]] menganalisis 310 rencana pelajaran kewarganegaraan yang dihasilkan AI (2,230 aktivitas): **94% tidak memuat konten multikultural yang dapat dikenali**, dan dari 144 yang memuatnya, 137 berada pada tingkat "Aditif" terendah — **hanya satu yang mencapai "Transformasi" dan tidak ada yang mencapai "Aksi Sosial."** Ketiga [[conversational-ai|chatbot]] menghasilkan templat pelajaran monokultural yang identik secara struktural. Ini bukti konkret bahwa AI secara default menghasilkan kurikulum yang homogen kecuali [[teacher-ai-competency|guru]] secara aktif campur tangan.
 
-### Peminggiran Epistemik dalam Sistem AI
+## Peminggiran Epistemik dalam Sistem AI
 
 Di luar pembuatan pelajaran, CRP terhubung ke kritik yang lebih dalam: data pelatihan dan proses desain AI mengodekan kerangka epistemik Barat dan berbahasa Inggris yang meminggirkan cara-cara mengetahui lainnya.
 
 - **Kolonialitas epistemik:** Tali-Otmani (2026) berargumen bahwa sistem GenAI tidak netral secara epistemik — data pelatihan yang didominasi Barat **secara aktif meminggirkan pengetahuan kelompok minoritas**, menghasilkan "peminggiran ganda" bagi [[inclusive-learning|pembelajar disabilitas]] yang epistemologinya kurang terwakili dalam data pelatihan sekaligus dikecualikan dari desain. Ini memperluas percakapan [[equity-in-ai-education|keadilan]] dari *akses* ke *pengetahuan siapa yang divalidasi*.
 - **Mendistribusikan ulang otoritas epistemik:** [[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]] mengusulkan **pembelajaran AI berbasis komunitas**, kerangka yang memposisikan ulang epistemologi berbasis pengalaman dan komunitas pembelajar sebagai standar evaluatif atas keluaran AI. Tiga komitmennya — **[[llm-training-and-fine-tuning|penyetelan halus]] epistemik**, **redistribusi otoritas**, dan kebijaksanaan **[[situated-learning|tersituasi]]** — mengkalibrasi kepercayaan terhadap sejarah lokal dan keahlian komunitas, memperlakukan penolakan dan non-penggunaan strategis sebagai respons CRP yang sah terhadap AI.
 
-### Data dan Evaluasi yang Berakar Budaya
+## Data dan Evaluasi yang Berakar Budaya
 
 Sekumpulan karya yang bersumber dari basis pengetahuan ini membahas celah *konten* dan *evaluasi* di balik CRP.
 
@@ -61,7 +66,7 @@ Sekumpulan karya yang bersumber dari basis pengetahuan ini membahas celah *konte
 - **Navigasi budaya adalah titik terlemah dukungan AI:** Mahasiswa internasional memberi nilai tertinggi pada AI percakapan untuk tata bahasa, struktur, dan peringkasan (rata-rata 4.27) dan terendah untuk navigasi budaya (rata-rata 3.49) ([[international-students-conversational-ai-adaptation|Nourian et al. (2026)]]).
 - **Adaptasi budaya sebagai langkah desain:** [[culturally-aware-student-stress-chatbot-2026|Bashir dan Afzal (2026)]] mengoperasionalkan relevansi budaya dalam sistem dukungan [[well-being]] berbasis AI ([[culturally-aware-student-stress-chatbot-2026|Sukoon]]) melalui tiga langkah: asesmen 20 pertanyaan bilingual dengan label paralel bahasa Inggris dan Urdu; prompt sistem yang menginstruksikan model untuk merespons secara konsisten dengan norma sosial dan budaya Pakistan serta menggunakan ekspresi Urdu dan Roman Urdu bila sesuai; dan kepekaan eksplisit terhadap stresor yang menonjol secara lokal (harapan keluarga, tekanan finansial, hubungan guru-siswa yang hierarkis). Justifikasi mereka bersifat empiris sekaligus etis — [[explainable-ai|kepentingan fitur]] menempatkan hubungan guru-siswa di urutan kedua di antara prediktor stres — tetapi mereka mengakui bahwa adaptasi itu hidup dalam prompt alih-alih dalam pipeline NLP, dan bahwa kelayakan budaya dinilai hanya melalui pengujian informal, bukan oleh siswa yang menjadi sasaran sistem.
 
-### Panduan Praktis
+## Panduan Praktis
 
 Berakar pada artikel basis pengetahuan ini sendiri, pendidik dan perancang dapat menerapkan CRP pada AI:
 
@@ -70,16 +75,6 @@ Berakar pada artikel basis pengetahuan ini sendiri, pendidik dan perancang dapat
 - **Pusatkan pengetahuan komunitas sebagai standar evaluatif.** Mengikuti pembelajaran AI berbasis komunitas, mintalah pembelajar menilai keluaran AI terhadap kriteria relevansi, kerugian, dan kegunaan yang berakar lokal, serta hormati konteks di mana penolakan atau non-penggunaan adalah pilihan yang tepat.
 - **Adopsi dan evaluasi kumpulan data yang berakar budaya.** IKS-Instruct dan NSMQ Riddles menggambarkan bahwa data non-Barat yang [[discipline-specific-aied|spesifik domain]] secara bermakna meningkatkan relevansi sekaligus evaluasi yang jujur.
 - **Biarkan AI mewawancarai guru sebelum menyusun draf.** [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al. (2026)]] mendeskripsikan perencana pelajaran responsif budaya yang arsitektur prompt semi-otomatis interaktifnya menanyakan pertanyaan konteks dan budaya terlebih dahulu, lalu menyusun draf dari jawaban guru sendiri alih-alih menghasilkan rencana generik.
-
-## Miskonsepsi Umum
-
-**"Keluaran AI netral secara budaya kecuali Anda memberi prompt untuk budaya."** Defaultnya bukan netral, melainkan dominan. Analisis atas **310 rencana pelajaran kewarganegaraan yang dihasilkan AI (2,230 aktivitas)** menemukan **94% tidak memuat konten multikultural yang dapat dikenali** — dan dari 144 aktivitas yang memuatnya, **137 berada pada tingkat "Aditif" terendah, hanya satu mencapai "Transformasi", dan tidak ada yang mencapai "Aksi Sosial."** Bila dibiarkan tanpa prompt, model mereproduksi default yang tidak beragam, sehingga [[prompt-engineering|memberi prompt]] untuk budaya bukanlah [[bias-mitigation|mitigasi bias]], melainkan satu-satunya alasan mengapa semua itu muncul.
-
-**"Menambahkan contoh multikultural merupakan pedagogi relevan budaya."** Hierarki kerangka itu sendiri mengatakan sebaliknya, dan keluaran yang dihasilkan menunjukkan mengapa pembedaan ini penting secara operasional. Konten aditif membiarkan struktur dan asumsi unit tidak tersentuh; Transformasi mengubah cara konten dibingkai; Aksi Sosial meminta pembelajar bertindak atasnya. Mencampuradukkan representasi dengan transformasi adalah cara sebuah korpus dapat 6% tidak kosong dalam hal keragaman namun tetap jauh dari responsif budaya.
-
-**"Kebijakan penggunaan AI institusional menentukan apa yang dianggap etis oleh siswa."** Budaya bekerja lebih banyak daripada teks kebijakan. Survei lintas budaya terhadap mahasiswa [[cs-education|komputasi]] Kanada dan Korea Selatan menemukan bahwa **budaya, bukan kebijakan, yang menggerakkan persepsi etikalitas penggunaan AI** — perilaku identik dinilai berbeda antar kohort. Kebijakan tunggal seluruh institusi karena itu tidak menghasilkan etika bersama, dan memperlakukannya seolah-olah demikian akan salah membaca siswa Anda.
-
-**"Uji coba empat guru yang menunjukkan guru merasa lebih percaya diri adalah bukti pendekatannya berhasil."** Itu bukti tentang persepsi guru, yang layak dimiliki dan bukan hal yang sama. Dalam uji coba itu keyakinan guru dalam mengenali peluang responsivitas budaya meningkat dan **78% menilai saran AI membantu untuk mendiversifikasi materi** — sementara penulisnya mengakui bahwa adaptasi budaya hidup **dalam prompt alih-alih dalam pipeline NLP**, dan bahwa kelayakan budaya dinilai alih-alih direkayasa. Keyakinan plus kegunaan bukanlah relevansi budaya yang terbukti bagi siswa.
 
 ## Implikasi bagi Praktik
 
@@ -99,3 +94,14 @@ Berakar pada artikel basis pengetahuan ini sendiri, pendidik dan perancang dapat
 
 - Laporkan konten budaya menurut tingkat alih-alih sebagai ada atau tidaknya, karena kehadiran 94% versus 6% tidak mengatakan apa pun tentang 6% yang mana.
 - Bedakan secara eksplisit hasil persepsi guru dari hasil siswa saat melaporkan uji coba.
+
+## Miskonsepsi Umum
+
+**"Keluaran AI netral secara budaya kecuali Anda memberi prompt untuk budaya."** Defaultnya bukan netral, melainkan dominan. Analisis atas **310 rencana pelajaran kewarganegaraan yang dihasilkan AI (2,230 aktivitas)** menemukan **94% tidak memuat konten multikultural yang dapat dikenali** — dan dari 144 aktivitas yang memuatnya, **137 berada pada tingkat "Aditif" terendah, hanya satu mencapai "Transformasi", dan tidak ada yang mencapai "Aksi Sosial."** Bila dibiarkan tanpa prompt, model mereproduksi default yang tidak beragam, sehingga [[prompt-engineering|memberi prompt]] untuk budaya bukanlah [[bias-mitigation|mitigasi bias]], melainkan satu-satunya alasan mengapa semua itu muncul.
+
+**"Menambahkan contoh multikultural merupakan pedagogi relevan budaya."** Hierarki kerangka itu sendiri mengatakan sebaliknya, dan keluaran yang dihasilkan menunjukkan mengapa pembedaan ini penting secara operasional. Konten aditif membiarkan struktur dan asumsi unit tidak tersentuh; Transformasi mengubah cara konten dibingkai; Aksi Sosial meminta pembelajar bertindak atasnya. Mencampuradukkan representasi dengan transformasi adalah cara sebuah korpus dapat 6% tidak kosong dalam hal keragaman namun tetap jauh dari responsif budaya.
+
+**"Kebijakan penggunaan AI institusional menentukan apa yang dianggap etis oleh siswa."** Budaya bekerja lebih banyak daripada teks kebijakan. Survei lintas budaya terhadap mahasiswa [[cs-education|komputasi]] Kanada dan Korea Selatan menemukan bahwa **budaya, bukan kebijakan, yang menggerakkan persepsi etikalitas penggunaan AI** — perilaku identik dinilai berbeda antar kohort. Kebijakan tunggal seluruh institusi karena itu tidak menghasilkan etika bersama, dan memperlakukannya seolah-olah demikian akan salah membaca siswa Anda.
+
+**"Uji coba empat guru yang menunjukkan guru merasa lebih percaya diri adalah bukti pendekatannya berhasil."** Itu bukti tentang persepsi guru, yang layak dimiliki dan bukan hal yang sama. Dalam uji coba itu keyakinan guru dalam mengenali peluang responsivitas budaya meningkat dan **78% menilai saran AI membantu untuk mendiversifikasi materi** — sementara penulisnya mengakui bahwa adaptasi budaya hidup **dalam prompt alih-alih dalam pipeline NLP**, dan bahwa kelayakan budaya dinilai alih-alih direkayasa. Keyakinan plus kegunaan bukanlah relevansi budaya yang terbukti bagi siswa.
+

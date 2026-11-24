@@ -9,18 +9,22 @@ connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/hallucination-risk"
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -46,6 +50,10 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 **جانچ کی ہیلوسینیشن** خاص طور پر نقصان دہ ہے۔ **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** نے پایا کہ LLM علمی مہارتوں کی تشخیص کرتے ہوئے ایسے شہادتی اقتباسات گھڑ لیتے ہیں جو طلبہ کی لکھائی میں موجود نہیں، اور 58.5% غلط تشخیصوں کے ساتھ شہادتی اعتماد کے جھوٹے دعوے شامل تھے۔ **[[llm-fallacy-misattribution]]** نے [[llm]] استدلال میں شہادت کی منظم حد سے زیادہ نسبت کی دستاویز کی — ماڈل وہاں شہادتی حمایت کا دعویٰ کرتے ہیں جہاں وہ موجود نہیں۔ دونوں [[ai-ed-evaluation]] اور [[knowledge-tracing]] کے [[assessment-validity]] سے متعلق تحفظات سے جڑے ہیں۔ [[ivory-psychology-assessment-integrity-2026|Ivory وغیرہ (2026)]] دو ناکامی کی صورتیں شامل کرتے ہیں جو اُس وقت نظر آتی ہیں جب AI کے اخراج کو معائنے کے بجائے نمبر دیا جائے: گھڑی ہوئی تفصیلات جو درجہ بندی سے گزر جاتی ہیں — ایک جائزہ شدہ مقالہ جو وجود ہی نہیں رکھتا، مکمل غیر حل شدہ DOI کے ساتھ، اور نمونہ حجم 378 بتایا گیا جہاں ماخذ نے 329 کہا تھا — اور ایک ہی جواب کے اندر خود تضاد، جہاں ماڈل سوچ کر درست آپشن تک پہنچا اور پھر اپنے اختتامی خلاصے میں کوئی اور آپشن بتا دیا۔ چونکہ حوالہ جات کی فہرستوں پر فی الحال درستگی کے بجائے فارمیٹنگ کی جانچ ہوتی ہے، اِس قسم کی غلطی پاس ہونے والا درجہ حاصل کر لیتی ہے اور اُس طالب علم کو گمراہ کرتی ہے جو وہی اوزار نظرثانی کے لیے استعمال کرتا ہے۔
 
+خطرہ لسان پر بھی منحصر ہے: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite اور Sun (2026)]] نے پایا کہ غلطی پکڑنا انگریزی کے لیے مضبوط ہے مگر یونانی اور چینی کے لیے کمزور، اور L2 تحریری فیڈبیک میں مصنف کے ارادے کی غلط ہیلوسینیشن اور غلط تفہیم کا امکان موجود ہے۔
+
+**پیداوار اور فارمیٹ تبدیلی الگ الگ طرح ناکام ہوتے ہیں۔** پیرووسکائیٹ سولر سیلز پر IEEE طرز کے حوالہ جات مانگنے پر ChatGPT نے ایسی مداخل پیش کیں جنہیں مصنفین نے زیادہ تر ہیلوسینیشن یا غلط حوالہ قرار دیا: غلط ابتدائی حروف، سال، جلد اور صفحات، اور ایک قابلِ یقین مضمون ایسی گروہ کو منسوب کیا گیا جس نے یہ کام ہی نہیں کیا ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra اور Gong, 2026]])۔ اس کے برعکس جب اسی اوزار سے پہلے سے تصدیق شدہ حوالہ جات کا مجموعہ APA میں بدلنے کو کہا گیا تو وہ درست نمودار ہوا اور بہت کا وقت بچا۔ خطرہ ماخذ کرنے میں ہے، کتابیاتی کام میں نہیں، اور یہ وہ لکیر ہے جسے اسائنمنٹ کے [[rubrics|ربرک]] میں بیان کیا جا سکتا ہے۔
+
 جانچ کے ڈیزائن کے ایک پائلٹ میں [[authentic-assessments-generative-ai-pilot-2026|Paula وغیرہ (2026)]] نے گھڑے ہوئے حوالہ جات اور غیر حقیقی وقت کے اندازے پائے جو بار بار پرامپٹنگ کے بعد بھی برقرار رہے اور جنہیں کافی علمی نظرثانی درکار تھی — یعنی ہیلوسینیشن طلبہ کے کام میں نہیں بلکہ معلم کے سامنے آنے والے مسودہ سازی کے اوزار میں۔
 
 **اسٹریٹجک [[misconceptions|غلط فہمیاں]]** کھلی ہیلوسینیشن کی نسبت زیادہ باریک رشتہ دار ہیں۔ [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević وغیرہ (2026)]] نے سات اوپن ویٹ ماڈلز کو 35 بنیادی کمپیوٹر سائنس تصورات کے لیے "[[socratic-method|سقراطی]] جال" بنانے کا پرامپٹ دیا — ایسی وضاحت جو رواں اور مستند ہو مگر کسی باریک، شعبے سے مخصوص غلطی پر کھڑی ہو — اور تین شعبے کے ماہرین نے 241 پرامپٹ شدہ حصوں میں سے 221 (91.7%) کو اسٹریٹجک غلط فہمی قرار دیا، اور CS کے شعبوں کے درمیان کوئی نمایاں فرق نہیں ملا۔ غلطیاں بڑی حد تک تصوراتی تھیں نہ کہ حقائقی (66.5% بمقابلہ 33.5%) اور کوئی بھی محض منطقی نہیں تھی، اور اُنہیں درمیانے سے زیادہ قائل کرنے والا درجہ دیا گیا (M = 3.71، پانچ نکاتی پیمانے پر)، جبکہ ماڈل کی شناخت 43% فرق کی وضاحت کرتی تھی۔ چونکہ انفرادی جملے درست ہو سکتے ہیں جبکہ اُن کے درمیان تعلق غلط ہو، حقائق کی جانچ ناکافی ہے؛ مصنفین دلیل دیتے ہیں کہ [[ai-literacy|سیکھنے والوں]] کو تصوراتی تصدیق اور ذہنی ماڈل کی جانچ درکار ہے۔ وہ یہ بھی خبردار کرتے ہیں کہ یہ شرح مقابلہ جاتی [[prompt-engineering|پرامپٹنگ]] کے تحت قابلیت ناپتی ہے، عام استعمال میں ایسی غلطیوں کے پھیلاؤ کو نہیں، اور کسی طالب علم کا امتحان نہیں لیا گیا، چنانچہ نہ فریب ناپا گیا نہ سیکھنے کا نتیجہ۔
@@ -61,6 +69,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **لیبل لگا عدم اعتماد نے رپورٹ شدہ انحصار کو بڑھانے کے بجائے گھٹا دیا۔** جب 546 شرکاء نے وہی GAI مکالمہ پڑھا جس پر یا تو من گھڑت معلومات کا لیبل لگا تھا یا تصدیق شدہ درست ہونے کا، تو من گھڑت لیبل نے کم [[trust|اعتماد]] اور کم سمجھی جانے والی قابو پذیری پیدا کی اور زیادہ علمی تضاد اور مایوسی کے ساتھ ساتھ *کم* انحصار کے اسکور دیے (M = 2.935 بمقابلہ 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu وغیرہ (2026)]])۔ یہ نتیجہ اِس صفحے کی حد سے زیادہ انحصار والی منطق کو مشروط کرتا ہے: یہ دیکھنا کہ کوئی اخراج من گھڑت ہو سکتا ہے، اُس پر جھکے رہنے کے برابر نہیں۔
 
 **اعتبار کے اشارے اُلٹا اطاعت بڑھا سکتے ہیں۔** مخالف حرکت اُس وقت ظاہر ہوتی ہے جب غیر معتبر اخراج کو سجایا جائے: ARMADA بحث کے انٹرفیس میں حوالے اور اعتبار کے اشارے شامل کرنے سے اُن شرکاء کا تناسب 112% بڑھ گیا (31.8% بمقابلہ 15.0%) جو درست ابتدائی رائے سے ہٹ کر AI کے غلط موقف کی طرف چلے گئے، اور دستی جانچ نے پایا کہ بعض حوالہ شدہ مقدمات غیر متعلقہ یا فرضی حوالوں سے منسوب تھے ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo وغیرہ، 2026]])۔
+
+ایک الگ ناکامی کی صورت نامعلوم طرز کا مسئلہ ہے۔ [[bauyrzhan-genai-inorganic-chemistry-verification-2026|تین چیٹ بوٹس پر 42 غیر نامیاتی کیمیائی مسائل پر ایک اخباری بینچ مارک]] میں ہر چیٹ بوٹ نے بھرپور غلط عبارتوں کو پراعتماد انداز میں جواب دیا، نہ نقص کی نشاندہی کی، نہ وضاحت مانگی، نہ انکار کیا، اور شک کے اشارے کبھی نتیجے تک نہیں پہنچے۔ ناکامی غلط جواب نہیں بلکہ خاموشی سے قبول کیا گیا بے بنیاد مفروضہ ہے۔
 
 ## عام غلط فہمیاں
 

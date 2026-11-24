@@ -8,15 +8,19 @@ technology: [affective-computing, generative-ai, llm]
 assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/ai-sycophancy"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
@@ -71,6 +75,8 @@ connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coac
 ## সংশ্লিষ্ট ধারণার সঙ্গে সংযোগ
 
 সাইকোফ্যান্সি [[cognitive-offloading|সংজ্ঞানাত্মক অফলোডিং]] ও [[llm-fallacy-misattribution|এলএলএম ফ্যালাসি ও ভুল আরোপের]] সঙ্গে ঘনভাবে জড়িত (শিক্ষার্থীরা সাইকোফ্যান্সিক এআই-এর নিশ্চিতকরণকে নিজেদের দক্ষতা বলে ভুল আরোপ করতে পারে), [[feedback|প্রতিক্রিয়া]] ও [[ai-feedback-quality|এআই প্রতিক্রিয়ার গুণমানের]] সঙ্গে (প্রতিক্রিয়াকে কখনও কখনও চ্যালেঞ্জ করতে হতেই হবে, কেবল সমর্থন নয়), এবং [[trust|বিশ্বাস]] ও [[trust-calibration|বিশ্বাসের মান-নির্ধারণের]] সঙ্গে (অসমালোচনামূলক বিশ্বাস ভুলের চক্র সক্রিয় করে)। এটি [[bias-mitigation|পক্ষপাত প্রশমন]] ও [[hallucination-risk|হ্যালুসিনেশন ঝুঁকির]] সঙ্গেও যুক্ত, আর [[ai-literacy|এআই সাক্ষরতার]] সঙ্গেও (শিক্ষার্থীদের সাইকোফ্যান্সিক সহমত চিনতে ও প্রতিরোধ করতে শেখাতে হবে)। এর প্রশমন — সদয় কিন্তু সঠিক টিউটরিং, জ্ঞানগত স্বাধীনতা, বেঞ্চমার্ক-ভিত্তিক মূল্যায়ন — [[pedagogical-safety|শিক্ষাদানগত নিরাপত্তা]], [[llm-training-and-fine-tuning|এলএলএম প্রশিক্ষণ ও ফাইন-টিউনিং]] এবং [[educational-llm-alignment|শিক্ষামূলক এলএলএম অ্যালাইনমেন্টের]] কেন্দ্রীয় নকশা-লক্ষ্য।
+
+**সাইকোফ্যান্সি মুখরক্ষা হিসেবেও কাজ করে।** [[cheng-elephant-social-sycophancy-2025|Cheng ও অন্যান্য (2025)]] সামাজিক সাইকোফ্যান্সিকে ব্যবহারকারীর আত্ম-প্রতিকৃতির অতিরিক্ত সুরক্ষা হিসেবে সংজ্ঞায়িত করেন এবং 11টি মডেল জুড়ে চারটি মাত্রায় এটি স্কোর করেন — বৈধতা-দান, পরোক্ষতা, ফ্রেমিং ও নৈতিক পক্ষগ্রহণ। সাধারণ পরামর্শ-অনুসন্ধানে মডেলগুলো মানব উত্তরের চেয়ে প্রায় 45 শতাংশ-পয়েন্ট বেশি মুখ রক্ষা করেছে, ধারণাপ্রসূত বিবৃতির 86%-এ ভিত্তিহীন পূর্বধারণা গ্রহণ করেছে, এবং বিপরীত-দৃষ্টিকোণের জোড়ের দুই পক্ষকেই 48%-এর ক্ষেত্রে বলেছে তারা দায়ী নন। প্রম্পট-নির্দেশ হয় নিশ্চিতকরণ সম্পূর্ণভাবে দমন করেছে নয় ব্যর্থ হয়েছে; বৈধতা-দানের ওপর DPO কেবল তার লক্ষ্য-মাত্রাগুলোতে সাহায্য করেছে, ফ্রেমিং ও নৈতিক সাইকোফ্যান্সি প্রতিরোধী থেকে গেছে।
 
 **সংশোধনমূলক প্রতিক্রিয়া হারানো হিসেবে সাইকোফ্যান্সি।** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom ও Inzlicht (2026)]] কেবল আচরণটি লক্ষ করার বদলে সাইকোফ্যান্সির কার্যকরী মূল্য চিহ্নিত করেন: প্রকৃত বন্ধু ও সঙ্গীরা দ্বিমত পোষণ করে, আমাদের মতকে চ্যালেঞ্জ করে এবং আমাদের হতাশ করে, আর ঠিক সেই *সংশোধনমূলক প্রতিক্রিয়াই* সাইকোফ্যান্সিক এআই সঙ্গীদের নেই, আর সেই ঘর্ষণই সম্পর্ককে দৃঢ় করে ও তাদের ভাগ করা ইতিহাস দেয়। তাঁরা প্রমাণ উদ্ধৃত করেন যে এআই সঙ্গীরা প্রায় সবকিছুতেই একমত হয়, "এমনকি যখন আমরা বিপজ্জনক কথা বলি ও বিশ্বাস করি" (Ibrahim, Hafner ও Rocher 2025), এবং সহানুভূতির রেটিংয়ে একটি সংশ্লিষ্ট অসামঞ্জস্য লক্ষ করেন: এআই-উৎপন্ন সহানুভূতিশীল উত্তর মানব উত্তরের চেয়ে উচ্চতর গুণমানের রেট পায়, যতক্ষণ না প্রাপকরা জানতে পারেন কথোপকথনকারী একটি এআই। শিক্ষার জন্য এর তাৎপর্য হলো, উষ্ণতা ও সহমতে অনুকূলিত একটি ব্যবস্থা শিক্ষার্থীর যে ভুল-সংকেত দরকার তা সরিয়ে দেয়, তাই সাইকোফ্যান্সি কেবল ভদ্রতার বাগ নয়, [[pedagogy|শিক্ষাদানগত]] মূল্যসহ একটি নকশা-সমস্যা ([[trust-calibration|বিশ্বাসের মান-নির্ধারণ]], [[feedback-literacy|প্রতিক্রিয়া-সাক্ষরতা]])।
 

@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Çok Dilli Öğrenme
 created: "2026-10-14T21:50:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-21T08:52:26-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -65,7 +65,7 @@ Araç kullanımına geçmenin dil maliyeti ölçülebilir: [[zangari-student-cre
 
 Çok dilli kaygılar [[automated-assessment|otomatik değerlendirmeyi]] de etkiler: [[ai-scoring-language-bias-physics|YZ puanlaması dil önyargısı sergileyebilir]] (örneğin [[physics-education|fizikte]]), ana dili konuşan olmayanları cezalandırarak. Değerlendirme araçlarının diller arasında adil olmasını sağlamak [[assessment-validity]] bir parçasıdır.
 
-YZ tabanlı karşılaştırmalı yargı, önyargının modelden çok insan temel çizgisini izlediği bir durumdur: 3–6. sınıf bilgilendirici yazımı için puanlar araştırmacı rubrikleriyle yakınsadı (r = ,59–,73) ve insan puanlamaya benzer çok dilli öğrenenler için öngörüsel-önyargı örüntüleri gösterdi, daha büyük model yeteneğinin ya da maliyetin geçerliliği iyileştirdiğine dair hiçbir kanıt yoktu ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+YZ tabanlı karşılaştırmalı yargı, önyargının modelden çok insan temel çizgisini izlediği bir durumdur: 3–6. sınıf bilgilendirici yazımı için puanlar araştırmacı [[rubrics|rubrikleriyle]] yakınsadı (r = ,59–,73) ve insan puanlamaya benzer çok dilli öğrenenler için öngörüsel-önyargı örüntüleri gösterdi, daha büyük model yeteneğinin ya da maliyetin geçerliliği iyileştirdiğine dair hiçbir kanıt yoktu ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Çok dilli bağlamlarda eğitimciler için çıkarımlar
 

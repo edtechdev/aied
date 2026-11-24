@@ -8,18 +8,22 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/universal-design-for-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -75,6 +79,8 @@ UDL \"سیکھنے والے کو ٹھیک کرو\" کو \"ڈیزائن کو ٹھ
 - جانچ کی پیداوار کا انتخاب دیں (مضمون، پیشکش، ویڈیو، خاکہ، کوڈ) جو اُسی سیکھنے کے نتیجے سے منسلک ہو۔
 - *مثال:* ایک منصوبہ تحریری رپورٹ، AI کی معاونت والی ویڈیو وضاحت، یا براہِ راست مظاہرے کے طور پر جمع کرانے کی اجازت دیتا ہے — اور ہر انداز کو AI کے [[scaffolding|سہارے]] دیتے ہیں۔ [[assessment]] کے ڈیزائن میں یہ [[authentic-assessment]] کی نمائندگی کی منصفانی کے متوازی ہے۔
 
+انتخاب تب ہی شاملیت پیدا کرتا ہے جب اختیارات ایک جیسے قابلِ اعتماد نظر آتے ہوں۔ سائنس کے ایک فیکلٹی کے مطالعے میں طلبہ نے ویڈیو اور مضمون کے درمیان چننا پسند کیا مگر بتایا کہ ہم جماعت کو ڈر تھا کہ مضمون کو بری طرح گریڈ کیا جائے گا، چنانچہ مشترکہ معیار اور درجہ بندی کا بیان کردہ منطق ہی وہ چیزیں ہیں جو شکلوں کے مینو کو حکمتِ عملی کے اندازے کے بجائے شاملیت بناتی ہیں ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]])۔
+
 **AI خواندگی اور ایجنسی کے لیے ڈیزائن کریں۔**
 - طلبہ کو سکھائیں کہ AI کیسے اور کب استعمال کرنا ہے، اور ایسے چیک پوائنٹس بنائیں جو جواب دہی سیکھنے والے (نہ کہ اوزار) پر رکھیں — دیکھیں [[ai-literacy]] اور [[reducing-ai-misuse]]۔
 - *مثال:* UDL کے مطابق ایک کام طلبہ کو AI سے مسودہ بنانے دیتا ہے مگر اپنے حصے پر [[metacognition|میٹا کوگنیشن]] کا غور و فکر لازمی رکھتا ہے، جس سے شمولیت اور ایجنسی کے اصول محفوظ رہتے ہیں۔
@@ -84,6 +90,8 @@ UDL \"سیکھنے والے کو ٹھیک کرو\" کو \"ڈیزائن کو ٹھ
 - ایسے AI سے بچیں جو ایک ہی مواصلاتی انداز فرض کرے یا نیورو ڈائیورجنٹ اظہار کو سزا دے — [[accessibility]]، [[equity-in-ai-education]] اور [[neurodiversity]] سے جڑیں۔
 
 - **نشانہ تشخیص نہیں، فعلی رکاوٹیں ہوں۔** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel وغیرہ (2026)]] نے پایا کہ نیورو ڈائیورجنٹ طلبہ کے لیے معاون ٹیکنالوجیز کے 40 مطالعات والے ذخیرے کی ساخت سہولیات اور تشخیص سے مشروط اوزاروں کے گرد تھی، اور دلیل دیتے ہیں کہ اُن بین الشعبہ رکاوٹوں کے لیے ڈیزائن کرنا جن کا سامنا طلبہ واقعی کرتے ہیں، ہی وہ چیز ہے جو کسی اوزار کو قابلِ اعتبار طور پر عالمگیر بناتی ہے۔
+
+**مساوات بغیر ہم شکلی کے۔** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] UDL کے مینو کو AI کی حمایت والے عکسِ العمل والے کام تک بڑھاتے ہیں: طلبہ کے پاس موازن کرنے والے راستے ہونے چاہییں — تحریری یا صوتی عکسِ العمل، AI کے ساتھ یا غیر AI راستہ، ہم آہنگ انسانی معاونت، شفاف معیار جو مقصد سے لامسلک تکنیکی روانی کو انعام نہ دیں — اور اہم بات یہ کہ لاگو حقوق، معنی خیز سیکھنے والے کا انتخاب اور بنیادی رسائی ناقابلِ معاوضہ پیشگی شرائط ہیں، نہ کہ وہ اسکور جنہیں کہیں اور مضبوط کارکردگی سے پورا کیا جا سکے۔ اصول \"مساوات بغیر ہم شکلی کے\" ہے: مختلف میڈیا یا خودکاری کے درجے استعمال ہو سکتے ہیں، مگر اُن میں ایک ہی نتیجہ پورا کرنے کا موازن موقع ہونا چاہیے، اور شمولیت کو پہلے سے ڈیزائن کرنا ہوگا، بعد کی سہولت قرار دینا نہیں۔
 
 ## عام غلط فہمیاں
 

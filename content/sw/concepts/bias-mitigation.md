@@ -1,5 +1,6 @@
 ---
 connected_resources: [writing-rhetoric-studies-in-the-loop]
+updated: "2026-11-24T02:05:00-05:00"
 title: Kupunguza Upendeleo
 created: "2026-10-13T06:34:00-04:00"
 type: concept
@@ -10,10 +11,14 @@ audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/bias-mitigation
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"

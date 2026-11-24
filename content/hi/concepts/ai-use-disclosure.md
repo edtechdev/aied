@@ -1,7 +1,7 @@
 ---
 title: AI उपयोग और प्रकटीकरण विवरण
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]

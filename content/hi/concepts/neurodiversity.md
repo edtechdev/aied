@@ -1,7 +1,7 @@
 ---
 title: न्यूरोडायवर्सिटी
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -84,7 +84,8 @@ icipants डिज़ाइन (17 ADHD, 10 गैर-ADHD) में सभी 
 - **यहाँ लगभग सब कुछ एकल-समूह का है।** अक्षमता मेटा-विश्लेषण में कोई न्यूरोटिपिकल तुलनाकर्ता नहीं है, इसलिए यह यह सिद्ध करता है कि हस्तक्षेपों से मदद मिली, न कि यह कि उनसे इस समूह को भिन्न रूप से मदद मिली।
 - **नमूने छोटे हैं।** कंप्यूटिंग अध्ययन में चौबीस छात्र और चार साक्षात्कार; ADHD वीडियो अध्ययन में 17 और 10; डिस्लेक्सिया समीक्षा में 72 अध्ययन, जिनके धागे अब भी असंबद्ध हैं।
 - **श्रेणी सीमाएँ अध्ययनों में भिन्न हैं,** इसलिए "एक ही" न्यूरोटाइप की अध्ययनों के बीच तुलना सीमित है — और मेटा-विश्लेषण में श्रेणियों के बीच के अंतर गैर-महत्वपूर्ण बताए गए हैं।
-- **क्षेत्र के अपने समीक्षाकार इसे तकनीक-चालित बताते हैं,** जिसका अर्थ है कि हस्तक्षेप सबूत ठीक वहीं पतला है जहाँ डिज़ाइन मार्गदर्शन सबसे मज़बूत है।
+- **क्षेत्र के अपने समीक्षाकार इसे तकनीक-चालित बताते हैं,**
+- **जनरेटिव AI उपयोग के लिए अब एक तुलनात्मक अध्ययन मौजूद है।** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji एट अल. (2026)]] ने न्यूरोविकासात्मक (न्यूरोडेवलपमेंटल) विकारों वाले और बिना वाले छात्रों सहित 477 जापानी विश्वविद्यालय और स्नातकोत्तर छात्रों का सर्वेक्षण किया और साप्ताहिक उपयोग, स्व-आकलित कौशल, अनुभूत लाभ या सहायता-आवश्यकताओं पर दोनों समूहों में कोई उल्लेखनीय अंतर नहीं पाया। केवल आवाज़ और छवि अंतःक्रियाएँ DD समूह में हल्का-सा अधिक रहीं, इसलिए ऊपर की एकल-समूह खाई के पास अब एक सीधा तुलनात्मक आधार है। जिसका अर्थ है कि हस्तक्षेप सबूत ठीक वहीं पतला है जहाँ डिज़ाइन मार्गदर्शन सबसे मज़बूत है।
 
 ## संबंध
 

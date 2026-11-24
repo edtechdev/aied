@@ -1,17 +1,21 @@
 ---
 title: Divario digitale
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-11-08T11:33:13-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: "concepts/digital-divide"
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
@@ -42,7 +46,7 @@ Il divario digitale è comunemente inteso come operante su **tre livelli** (van 
 
 La svolta dell'inferenza sul dispositivo aggiunge una dimensione hardware al divario di primo livello. Quando il tutoring gira nel browser anziché nel cloud — [[browser-sized-agents-slm-webllm-tutor-2026|tutor SLM residenti nel browser]] via WebLLM — la barriera del costo di abbonamento scompare, ma al suo posto subentra una barriera di capacità: su un portatile consumer lo stesso sistema impiegava circa 180 secondi per prova contro 10–58 secondi per un'API remota, e i dispositivi di classe Chromebook non possono eseguire affatto un modello 8B. Gli studenti con hardware moderno ottengono generazioni rapide e fluide mentre gli studenti su dispositivi più vecchi fronteggiano latenza o esaurimento della memoria, quindi locale ed economico non equivale automaticamente a equo.
 
-### Come il divario digitale appare nella ricerca
+## Come il divario digitale appare nella ricerca
 
 - **L'alfabetizzazione sull'IA come meccanismo di equità:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|il framework SAIL]] è stato esplicitamente progettato per affrontare i divari di secondo e terzo livello, offrendo un percorso graduale e indipendente dall'età per un'alfabetizzazione sull'IA equa in tutte le fasi dell'educazione, fondato sull'argomentazione che l'alfabetizzazione sull'IA è inseparabile dall'equità e dalla partecipazione.
 
@@ -57,7 +61,9 @@ La svolta dell'inferenza sul dispositivo aggiunge una dimensione hardware al div
 
 - **I servizi digitali pubblici riproducono il divario.** La piattaforma di e-government eCitizen del Kenya è prevalentemente in inglese, con swahili limitato e un'interfaccia solo testuale, il che esclude i giovani a bassa alfabetizzazione, con disabilità visiva e delle zone rurali; interviste più una tavola rotonda di undici persone su quattro piattaforme di sostentamento (Ajira Digital, KRA iTax, HELB, YEDF) indicano le tecnologie linguistiche e un design informato alle WCAG 2.1 come leve di inclusione ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
-### L'IA approfondisce (e può colmare) i divari
+- **Disaggregare l'uso, non solo l'accesso.** La [[raut-ai-rural-education-india-2026|revisione integrativa di Raut]] riporta che, tra gli adolescenti rurali indiani di età compresa tra 14 e 16 anni, l'85,5% dei ragazzi e il 79,4% delle ragazze dichiarava di saper utilizzare uno smartphone, quindi la disponibilità domestica sottostima un divario di genere nell'uso pratico.
+
+## L'IA approfondisce (e può colmare) i divari
 
 L'IA aggiunge nuovi strati alle implicazioni di equità della tecnologia. Il bias algoritmico può avere un impatto sproporzionato sugli studenti provenienti da comunità emarginate, e l'[[ai-literacy|alfabetizzazione sull'IA]] — la capacità di comprendere, valutare criticamente e mitigare i bias e i rischi dell'IA — è a sua volta un fattore chiave nel determinare se l'IA amplierà o restringerà i divari. La [[research-methods-aied|ricerca]] mostra che gli educatori con maggiore alfabetizzazione sull'IA sono più efficaci nell'identificare e mitigare esiti distorti. Il divario digitale nell'era dell'IA non è quindi semplicemente un problema di dotazione tecnica, ma una questione di giustizia e partecipazione: chi può accedere all'IA, chi può usarla criticamente e chi ne beneficia.
 
@@ -74,7 +80,7 @@ L'istruzione strutturata sull'IA a scuola è un catalizzatore psicologico ma non
 
 **Accesso e gerarchia epistemica sono problemi diversi.** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] traccia la distinzione con nettezza a partire da interviste a [[educational-development|sviluppatori accademici]] di due Historically Disadvantaged Institutions sudafricane: la disuguaglianza digitale è distributiva — dispositivi, connettività, budget, alfabetizzazione digitale — ed è in linea di principio risolvibile attraverso la redistribuzione, mentre la **colonialità algoritmica** è epistemica e persiste anche in condizioni di pieno accesso, perché inerisce a ciò che i sistemi codificano e alla conoscenza di chi essi mettono al centro. I partecipanti allo studio vivono entrambe simultaneamente, descrivendo la condizione come l'essere "chiamati a costruire un futuro digitale su fondamenta analogiche": le fondamenta nominano il registro materiale del divario, e il futuro importato arriva precaricato con le assunzioni epistemiche dei contesti che lo hanno progettato. L'implicazione pratica per il lavoro sull'equità è che colmare un divario di accesso non smuove di per sé la gerarchia — i due fenomeni operano su registri diversi e richiedono risposte diverse.
 
-**Un progetto può aggirare il divario di dispositivi anziché aspettare che si chiuda.** [[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]] verificano se studenti che non toccano mai un computer possano comunque ricevere un supporto in stile [[intelligent-tutoring|intelligent tutoring]], usando un paradigma che chiamano "AIED unplugged" in cui l'insegnante è il proxy tra studente e sistema. Gli studenti continuano a lavorare con carta e penna, l'insegnante fotografa le loro soluzioni con uno smartphone e il sistema restituisce elenchi di esercizi personalizzati, [[automated-assessment|valutazione automatica]] e feedback specifici per errore e feedback specifici per errore. Il loro quasi-esperimento a grappolo su 19 classi di scuole pubbliche brasiliane è, a loro detta, la prima valutazione quasi-sperimentale di un tale sistema in classi autentiche anziché in prototipo, e l'app girava sui telefoni degli insegnanti sotto la connettività intermittente tipica di quelle scuole. Il progetto è quindi una strategia di equità distinta da quelle sopra: anziché chiudere il divario di primo livello di dispositivi e banda prima che il tutoring con IA possa raggiungere qualcuno, o elevare le competenze di secondo livello come biglietto d'ingresso, esso raggiunge gli studenti con cui l'IA non interagisce mai direttamente. Lo stesso studio, però, mostra che il percorso non è esente dal divario che scavalca. Il vantaggio di apprendimento rispetto alla pratica abituale era riconducibile alla [[teacher-education|formazione degli insegnanti]] piuttosto che alla tecnologia — le condizioni di formazione e di sistema completo non differivano sui guadagni — e l'effetto indiretto positivo del sistema sull'apprendimento operava attraverso la *riduzione dello sforzo dell'insegnante*, con un carico di lavoro maggiore associato a guadagni inferiori. Aggirare il divario di accesso non dissolve quindi il problema di equità; ne riloca il vincolo stringente sulla capacità e sul tempo dell'insegnante.
+**Un progetto può aggirare il divario di dispositivi anziché aspettare che si chiuda.** [[rodrigues-aied-unplugged-numeracy-2026|Rodrigues et al. (2026)]] verificano se studenti che non toccano mai un computer possano comunque ricevere un supporto in stile [[intelligent-tutoring|intelligent tutoring]], usando un paradigma che chiamano "AIED unplugged" in cui l'insegnante è il proxy tra studente e sistema. Gli studenti continuano a lavorare con carta e penna, l'insegnante fotografa le loro soluzioni con uno smartphone e il sistema restituisce elenchi di esercizi personalizzati, [[automated-assessment|valutazione automatica]] e feedback specifici per errore. Il loro quasi-esperimento a grappolo su 19 classi di scuole pubbliche brasiliane è, a loro detta, la prima valutazione quasi-sperimentale di un tale sistema in classi autentiche anziché in prototipo, e l'app girava sui telefoni degli insegnanti sotto la connettività intermittente tipica di quelle scuole. Il progetto è quindi una strategia di equità distinta da quelle sopra: anziché chiudere il divario di primo livello di dispositivi e banda prima che il tutoring con IA possa raggiungere qualcuno, o elevare le competenze di secondo livello come biglietto d'ingresso, esso raggiunge gli studenti con cui l'IA non interagisce mai direttamente. Lo stesso studio, però, mostra che il percorso non è esente dal divario che scavalca. Il vantaggio di apprendimento rispetto alla pratica abituale era riconducibile alla [[teacher-education|formazione degli insegnanti]] piuttosto che alla tecnologia — le condizioni di formazione e di sistema completo non differivano sui guadagni — e l'effetto indiretto positivo del sistema sull'apprendimento operava attraverso la *riduzione dello sforzo dell'insegnante*, con un carico di lavoro maggiore associato a guadagni inferiori. Aggirare il divario di accesso non dissolve quindi il problema di equità; ne riloca il vincolo stringente sulla capacità e sul tempo dell'insegnante.
 
 - **Il vincolo hardware potrebbe stare dissolvendosi, non il divario di accesso chiudendosi.** [[llmersion-local-first-language-learning-2026|Guo et al. (2026)]] sostengono che il vincolo stringente per un [[equity-in-ai-education|equo]] [[language-learning|apprendimento linguistico]] è ormai il software anziché l'hardware: l'intera catena sintesi–riconoscimento–traduzione sta sotto i 4 GB, misurazioni della comunità pongono un modello 3B a 4–9 token al secondo su un single-board computer da \$80, e cinque anni di pratica quotidiana costano circa \$18 di elettricità contro \$1.200 per un abbonamento cloud e \$2.600 per tutoring settimanale.
 
@@ -84,16 +90,11 @@ L'istruzione strutturata sull'IA a scuola è un catalizzatore psicologico ma non
 
 - **Questo divario potrebbe essere più superficiale di quello di internet.** Confrontando l'uso dell'IA generativa 2025 di ciascun paese con l'anno di internet con uso complessivo comparabile, il divario educativo era più piccolo in 13 dei 16 paesi confrontabili, su 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
 
-### Collegamenti con i concetti correlati
+- **Un livello di capacità si annida dentro l'accesso.** I docenti che pagavano personalmente un abbonamento mensile di \\$20 hanno riportato più errori e funzionalità limitate rispetto ai colleghi con account istituzionali a pagamento: un divario in ciò che lo strumento è in grado di fare, non nel fatto che sia raggiungibile ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
+
+## Collegamenti con i concetti correlati
 
 Il divario digitale è una questione centrale della ricerca su [[equity-in-ai-education]], strettamente legata all'[[ai-literacy|alfabetizzazione sull'IA]] (posizionata come meccanismo centrale per affrontare le barriere strutturali), all'[[ethics|etica]] e alla [[bias-mitigation|mitigazione del bias]] (poiché il bias algoritmico colpisce in modo sproporzionato i gruppi emarginati). Si collega all'[[ai-education|IA nell'educazione]] e all'[[higher-ed|istruzione superiore]] come contesti in cui si manifestano i divari di accesso e capacità, e si rapporta alla [[student-experience|esperienza dello studente]] in quanto determina chi può partecipare in modo significativo all'apprendimento modellato dall'IA.
-
-## Idee sbagliate comuni
-
-- **«L'accesso allo strumento è il divario.»** L'accesso è il primo strato e la letteratura lo ha superato. **L'abilità di formulazione è un divario di secondo livello a sé**: su MedQA, l'accuratezza cresceva con la sofisticazione del prompt dal **82,4% per formulazioni da bassa alfabetizzazione all'83,4% per formulazioni da esperti**, il che significa che due studenti con accesso identico ottengono qualità diversa dallo stesso modello perché uno sa come chiedere. Uno strato di riscrittura dei prompt ha ridotto il divario — il divario sta nell'interfaccia e nella fluenza dell'utente, non solo nell'abbonamento.
-- **«Se gira in un browser, è disponibile.»** La maggior parte degli strumenti LLM per le lezioni presume **audio in sola lingua inglese e internet affidabile**, il che esclude esattamente le classi che mescolano l'inglese a una lingua familiare. I dati UDISE+ indiani collocano l'accesso a internet nelle scuole molto sotto il livello che quell'assunzione richiede. Uno strumento costruito su un'infrastruttura presunta esclude silenziosamente i contesti con il bisogno più forte.
-- **«L'alfabetizzazione digitale e l'uso dell'IA sono la stessa variabile mediatrice.»** Uno studio su **4.497 studenti di classe 6ª** nei Paesi Bassi ha separato **due vie di mediazione distinte** — uso dell'IA e alfabetizzazione digitale — che collegano background e personalità ai guadagni di apprendimento. Non sono intercambiabili, e gli interventi che alzano l'una non alzano automaticamente l'altra.
-- **«Le [[simulation|simulazioni]] rimuovono la barriera dei costi.»** Una revisione sistematica di **11 studi sui gemelli digitali** nell'istruzione superiore STEM ha rilevato costi hardware di **\$2.000-\$15.000** per allestimento. Un laboratorio simulato può riprodurre il conto delle attrezzature che intendeva evitare, quindi l'argomento del costo per l'erogazione virtuale va verificato anziché dato per scontato.
 
 ## Implicazioni per la pratica
 
@@ -108,3 +109,10 @@ Il divario digitale è una questione centrale della ricerca su [[equity-in-ai-ed
 - Non trattare la distribuzione dei dispositivi come chiusura del divario. I divari misurabili stanno nell'abilità di formulazione, nella lingua dell'interfaccia e nella connettività, e nessuno di essi si risolve con l'hardware.
 - Pubblicare l'infrastruttura che uno strumento presume. Un requisito dichiarato in modo chiaro permette a un contesto con poche risorse di valutare l'idoneità prima di investire.
 - Calcolare il costo dell'intera adozione, non della licenza software. L'evidenza sui gemelli digitali mostra che il conto dell'hardware può sopravvivere alla virtualizzazione.
+
+## Idee sbagliate comuni
+
+- **«L'accesso allo strumento è il divario.»** L'accesso è il primo strato e la letteratura lo ha superato. **L'abilità di formulazione è un divario di secondo livello a sé**: su MedQA, l'accuratezza cresceva con la sofisticazione del prompt dal **82,4% per formulazioni da bassa alfabetizzazione all'83,4% per formulazioni da esperti**, il che significa che due studenti con accesso identico ottengono qualità diversa dallo stesso modello perché uno sa come chiedere. Uno strato di riscrittura dei prompt ha ridotto il divario — il divario sta nell'interfaccia e nella fluenza dell'utente, non solo nell'abbonamento.
+- **«Se gira in un browser, è disponibile.»** La maggior parte degli strumenti LLM per le lezioni presume **audio in sola lingua inglese e internet affidabile**, il che esclude esattamente le classi che mescolano l'inglese a una lingua familiare. I dati UDISE+ indiani collocano l'accesso a internet nelle scuole molto sotto il livello che quell'assunzione richiede. Uno strumento costruito su un'infrastruttura presunta esclude silenziosamente i contesti con il bisogno più forte.
+- **«L'alfabetizzazione digitale e l'uso dell'IA sono la stessa variabile mediatrice.»** Uno studio su **4.497 studenti di classe 6ª** nei Paesi Bassi ha separato **due vie di mediazione distinte** — uso dell'IA e alfabetizzazione digitale — che collegano background e personalità ai guadagni di apprendimento. Non sono intercambiabili, e gli interventi che alzano l'una non alzano automaticamente l'altra.
+- **«Le [[simulation|simulazioni]] rimuovono la barriera dei costi.»** Una revisione sistematica di **11 studi sui gemelli digitali** nell'istruzione superiore STEM ha rilevato costi hardware di **\$2.000-\$15.000** per allestimento. Un laboratorio simulato può riprodurre il conto delle attrezzature che intendeva evitare, quindi l'argomento del costo per l'erogazione virtuale va verificato anziché dato per scontato.

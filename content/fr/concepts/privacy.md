@@ -1,7 +1,7 @@
 ---
 title: "La vie privée"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -15,10 +15,6 @@ source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
-    role: translation
-    date: "2026-10-10"
-    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -31,7 +27,6 @@ ai_assist:
     role: translation
     date: "2026-11-23"
     agent: hermes-agent
-
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
 connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
 ---

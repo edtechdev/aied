@@ -1,7 +1,7 @@
 ---
 title: Mal uso de la IA y daño al aprendizaje
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-15T10:24:54-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -14,6 +14,10 @@ source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
     date: "2026-09-28"

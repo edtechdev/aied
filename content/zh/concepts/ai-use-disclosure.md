@@ -1,7 +1,7 @@
 ---
 title: AI 使用与披露声明
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-18T03:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -16,6 +16,10 @@ source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"

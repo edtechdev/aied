@@ -1,7 +1,7 @@
 ---
 title: 全球南方
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-18T03:14:49-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,10 +9,14 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -51,6 +55,8 @@ connected_articles: [genai-assessment-african-higher-education-review-2026, aden
 - **低资源情境中的教师伦理推理：** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana 等（2026）]]发现，低资源情境中的在职中学 STEAM 教师是通过专业认同、课堂现实与文化规范而非正式原则清单来思考 AI 伦理的，反驳了关于全球南方"伦理空洞"的假定。
 - **情境化采纳：** [[socio-cognitive-genai-adoption-engineering-2026|Asag 与 Al Mamun]]对孟加拉 [[engineering-education|工科]]学生的 [[generative-ai|GenAI]]采纳建模，[[connected-ai-lesson-planning-vietnam|ConnectED]]为越南教育部署了一套与 [[curriculum-design|课程]]对齐的备课系统。
 - **推动教师采纳的是能力建设，而非基础设施。** 在 255 名孟加拉教师中，对 GenAI 的态度强烈预测了使用（β = 0.556），领域特定相关性驱动了态度（β = 0.413），而机构技术供给与主观规范并非显著预测因子（[[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam 等（2026）]]）。
+- **以身份为先的 AI 素养在非裔厄瓜多尔教育中：** 在埃斯梅拉达斯，90 名教育、青年与社群行动者对非裔后裔身份的评分最高（M = 4.72），对批判性 AI 素养的评分最低（M = 4.60），而一个三人焦点小组描述了偶发的、受任务限制的使用（[[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales 与 García Iturralde，2026]]）。
+
 - **机构整合与结构性不平等：** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 等（2026）]]对 45 所尼日利亚大学（联邦/州/私立）的比较内容分析发现，AI 整合由机构年龄与地理位置预测——而非治理类型——且国际与产业网络联系相互强化（r = 0.74），因而连接良好的机构优势累加，其他机构则更加落后。研究把 [[digital-divide|数字不平等]]不只定位于学习者层面，而是定位于 [[higher-ed|高等教育]]机构自身的结构能力之中。
 - **结构约束下的 [[educational-development|学术发展]]作为数字中介：** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole（2026）]]访谈了南非两所历史上处于不利地位的机构中的十二位学术发展者与学习设计者，划出了全球南方文献常常模糊的一条分析界线：**数字不平等**是分配性的，原则上可以通过再分配与访问得到回应，而**算法殖民性**是认识论的，即便在完全访问的条件下依然存在，因为它内在于系统所编码的内容以及它们以谁的知识为中心。二者相互缠绕，却需要不同的回应，而机构处于双重位置——被基础设施稀缺排斥，而一旦纳入，又被编码了其他知识与规范的进口系统所从属。机构的 AI 修辞（"谈绩效多于谈实践"）抵达时与教学的物质现实松散耦合，于是发展者把全球数字化转型话语转译为情境可行的实践：在同侪空间中测试并刻意"破坏"工具、坚持判断优于技能、并承担投影自己仍在习得的专业能力的情感代价。
 - **认识论边缘化：** [[genai-minoritized-knowledges-disability|Tali-Otmani]]论证，以西方为中心的训练数据把非西方与以残障为中心的知识边缘化——把全球南方的关切与 [[equity-in-ai-education]] 和 [[culturally-relevant-pedagogy]] 联系起来。

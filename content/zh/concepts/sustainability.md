@@ -1,7 +1,7 @@
 ---
 title: 可持续性
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-18T03:14:47-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -23,8 +27,8 @@ ai_assist:
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -70,7 +74,9 @@ AIED 中的可持续性横跨三种相互重叠的框定：**可持续教育**�
 
 ## 可持续学习作为教学目标
 
-一条相关的脉络把可持续性不只框定为环境或机构关切，而是框定为学习本身的一种属性。[[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu 等（2026）]]论证，AI 辅助学习有认知外包、脱离真实情境的风险，并提出（E3-HOT）框架以实现**可持续学习**——能够持续、能够迁移、始终与真实问题相连的学习，而不是被 [[cognitive-offloading]] 短路的学习。这把可持续性与 [[agency]] 和 [[critical-thinking]] 联系起来。
+一条相关的脉络把可持续性不只框定为环境或机构关切，而是框定为学习本身的一种属性。关于这一重构服务于特定利益的更广泛论证，汇集在[[critiques-of-ai-in-education|AI 教育批判]]之下。[[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu 等（2026）]]论证，AI 辅助学习有认知外包、脱离真实情境的风险，并提出（E3-HOT）框架以实现**可持续学习**——能够持续、能够迁移、始终与真实问题相连的学习，而不是被 [[cognitive-offloading]] 短路的学习。这把可持续性与 [[agency]] 和 [[critical-thinking]] 联系起来。
+
+- **一种把守的框架。**[[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos（2026）]]把教学可持续性定义为由经济、社会、环境与制度条件所产生的持久学习价值，且这些条件可以维持；然后让这种价值成为一道不可补偿的关卡，而不是五根支柱之一。
 
 ## 与其他概念的关联
 

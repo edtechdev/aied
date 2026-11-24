@@ -1,6 +1,7 @@
 ---
 connected_resources: [mglearn]
 title: Kujifunza kwa Ujumla
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T06:40:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,10 +10,14 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -75,6 +80,8 @@ Video yenye mizani nyingi inaweza kufanywa ipatikane badala ya kunakiliwa kwa mk
 **Udhibiti wa uchunguzi rasmi unawatenga wanafunzi ambao zana inadai kuhudumia.** Katika [[assistive-tech-neurodivergent-higher-ed-review-2026|mapitio ya wigo ya Rempel et al. (2026)]] ya masudio 40 ya teknolojia za usaidizi za kidijitali kwa wanafunzi wenye ujauzito wa neva, 28 yalifanya uchunguzi rasmi kuwa sharti la ushiriki na matatu tu yalishughulikia mazingira badala ya mwanafunzi.
 
 **Zana zinazopatikana katika mazoezi** zinaonyesha jinsi AI inaweza kupanusha ushiriki. **[[suacode-african-students-motivations|SuaCode]]** ilionyesha kuwa kozi za kuandika misimbo zinazotegemea simu mahiri zinawafikia wanafunzi katika miktadha ya Kiafrika yenye rasilimali chini ambapo chini ya 1% wana ujuzi wa kuandika misimbo. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** walifanya kazi na wanamuziki wenye upofu na wenye uoni wa chini kuunda mbinu za kujifunza zisizo za kuona, wakiweka ubuni wa [[embodied-learning|mwili]] unaoongozwa na ulemavu katika kituo. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** hutoa mshirika wa mawazo wa AI wa bila gharama, wa faragha, na wa lugha nyingi anayewaunganisha waelimishaji na kanuni za UDL. **[[special-r1-rl-special-education|Special-R1]]** inaeneza [[reinforcement-learning|kujifunza kwa nguvu za matokeo]] ili kufanya mfano wa tofauti za kiakili na za mawasiliano katika wasifu mbalimbali wa ulemavu.
+
+**Sera inachelewa na uenezi.** Hakuna chuo kikuu kimoja kati ya 100 bora kuliko zote kilicho na sera ya upatikanaji wa AI hata ingawa asilimia 93 ilizitekeleza huduma za kampasi zinazoendeshwa na AI ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### Viunganishi na dhana zinazohusiana
 

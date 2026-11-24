@@ -1,7 +1,7 @@
 ---
 title: "AI चापलूसी"
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]

@@ -1,7 +1,7 @@
 ---
 title: Progettazione universale per l'apprendimento
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:18:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-31"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
 connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
@@ -77,6 +81,8 @@ L'UDL trasforma «aggiusta il discente» in «aggiusta la progettazione». Per i
 - Fornisci la scelta del prodotto di valutazione (saggio, presentazione, video, diagramma, codice) allineata allo stesso risultato di apprendimento.
 - *Esempio:* un progetto consente la consegna come relazione scritta, spiegatore video assistito dall'IA, o dimostrazione dal vivo — con [[scaffolding|supporti]] dell'IA a sostenere ciascuna modalità. Nella progettazione della [[assessment|valutazione]], questo parallelizza l'equità rappresentazionale dell'[[authentic-assessment|valutazione autentica]].
 
+La scelta include solo quando le opzioni appaiono ugualmente credibili. Gli studenti di un corso di Facoltà di Scienze gradivano poter scegliere tra un video e un saggio, ma riferivano che i pari temevano che il saggio fosse valutato peggio, quindi criteri condivisi e una logica di valutazione spiegata sono ciò che trasforma un menu di formati in inclusione anziché in una scelta strategica ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Progetta per l'alfabetizzazione all'IA e l'agency.**
 - Insegna agli studenti come e quando usare l'IA, e costruisci checkpoint che mantengano il discente (non lo strumento) responsabile — vedi [[ai-literacy|l'alfabetizzazione all'IA]] e la [[reducing-ai-misuse|riduzione dell'uso improprio dell'IA]].
 - *Esempio:* un compito allineato all'UDL lascia che gli studenti usino l'IA per stendere ma richiede una riflessione [[metacognition|metacognitiva]] sul proprio contributo, preservando i principi del coinvolgimento e dell'agency.
@@ -86,6 +92,8 @@ L'UDL trasforma «aggiusta il discente» in «aggiusta la progettazione». Per i
 - Guardati dall'IA che presume un unico stile di comunicazione o penalizza l'espressione neurodivergente — collegati all'[[accessibility|accessibilità]], all'[[equity-in-ai-education|equità nell'educazione all'IA]] e alla [[neurodiversity|neurodiversità]].
 
 - **Punta alle barriere funzionali, non alle diagnosi.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] hanno riscontrato che il corpus di 40 studi sulle tecnologie assistive per studenti neurodivergenti si organizzava attorno ad accomodamenti e strumenti legati alla diagnosi, e sostengono che progettare per le barriere trasversali che gli studenti affrontano effettivamente è ciò che rende uno strumento plausibilmente universale.
+
+**Equivalenza senza uniformità.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] estendono il menu dell'UDL al lavoro riflessivo supportato dall'IA: i discenti dovrebbero avere percorsi comparabili — riflessione testuale o audio, percorso assistito dall'IA o non assistito, supporto umano sincrono, criteri trasparenti che non premiano una fluidità tecnica estranea all'obiettivo — e, crucialmente, diritti applicabili, scelta significativa del discente e accessibilità essenziale sono prerequisiti non compensatori, non punteggi che una prestazione forte altrove può compensare. Il principio è "equivalenza senza uniformità": si possono usare media diversi o livelli diversi di automazione, ma devono offrire opportunità comparabili di raggiungere lo stesso esito, e l'inclusione va progettata fin dall'inizio anziché trattata come un accomodamento a posteriori.
 
 ## Idee sbagliate comuni
 

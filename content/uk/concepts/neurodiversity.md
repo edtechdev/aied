@@ -1,5 +1,6 @@
 ---
 title: Нейрорізноманіття
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T21:30:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -8,10 +9,14 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -21,7 +26,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -84,9 +89,13 @@ connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-
 - **Межі категорій відрізняються між дослідженнями,** тому міждослідне порівняння «того самого» нейротипу обмежене — і відмінності між категоріями в метааналізі повідомляються як незначущі.
 - **Власні рецензенти галузі описують її як технологічно спрямовану,** що означає, що свідчення інтервенцій слабкі саме там, де рекомендації щодо проєктування найсильніші.
 
+- **Тепер існує порівняльне дослідження використання генеративного ШІ.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] опитували 477 японських студентів університетів та аспірантів із та без розладів нейрозвитку і не виявили статистично значущої різниці між групами за щотижневим використанням, самооціненими навичками, сприйнятими вигодами чи потребами в підтримці. Лише голосові та образні взаємодії були дещо вищими в групі з розладами нейрозвитку, тож наведена вище прогалина «одногруповості» тепер має пряме порівняння.
+
 ## Зв’язки
 
 Нейрорізноманіття пов’язане зі [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], та [[equity-in-ai-education]]. Вона інформує і те, як розгортається ШІ для [[student-experience]], і те, як проєктуються оцінювання та програми грамотності, щоб бути справедливими за когнітивної мінливості. Щодо того, як ці результати стоять поряд із іншими групами здобувачів — мова, стать, соціально-економічний статус, географія, — див. [[differential-effects-across-learner-groups|Диференційовані ефекти в різних групах здобувачів]].
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh і Natoli]] оглянули 28 досліджень ШІ для студентів коледжів з РДУГ і розсортували докази на підтримку, прогнозування та етику. Прогнозування — найтонша частина: пупілометрична модель досягла AUROC 0,856, тоді як класифікатор SVM досяг точності 66,1–68,8%, нижче клінічної корисності. Компроміс щодо виконавчих функцій — етичне ядро: інструмент, що компенсує вимогу, може водночас поглинути ту практику, яка мала б розвинути цю здатність ([[executive-function|виконавчі функції]]).
 
 ## Поширені хибні уявлення
 

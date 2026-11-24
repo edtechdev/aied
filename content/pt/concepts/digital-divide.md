@@ -1,17 +1,21 @@
 ---
 title: Divisão digital
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -21,7 +25,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -55,6 +59,7 @@ A virada da inferência na borda acrescenta uma dimensão de hardware à divisã
 
 - **A alternância entre línguas é, ela própria, uma exclusão.** A maioria das ferramentas de [[llm|LLM]] para aulas pressupõe áudio em inglês monolíngue e internet confiável, excluindo salas de aula que misturam inglês e uma língua materna; os dados do UDISE+ da Índia colocaram o acesso à internet nas escolas perto de 54%, com uma lacuna urbano-rural de 24 pontos, e um companheiro bilíngue responde com transcrição no dispositivo e armazenamento local-first ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 - **Os serviços digitais públicos reproduzem a divisão.** A plataforma de governo eletrônico eCitizen, do Quênia, é principalmente em inglês, com swahili limitado e uma interface apenas textual, o que exclui jovens de baixa literacia, com deficiência visual e rurais; entrevistas mais uma mesa-redonda de onze pessoas em quatro plataformas de subsistência (Ajira Digital, KRA iTax, HELB, YEDF) apontam as tecnologias de linguagem e o desenho informado pela WCAG 2.1 como as alavancas de inclusão ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
+- **Desagregue o uso, e não apenas o acesso.** A [[raut-ai-rural-education-india-2026|revisão integrativa de Raut]] relata que, entre adolescentes rurais da Índia com 14–16 anos, 85,5% dos meninos e 79,4% das meninas disseram conseguir usar um smartphone, de modo que a disponibilidade domiciliar subestima uma lacuna de gênero no uso prático.
 
 ## A IA aprofunda (e pode fechar) as divisões
 

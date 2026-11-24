@@ -25,7 +25,7 @@ ai_assist:
     role: translation
     date: "2026-11-22"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
 ---

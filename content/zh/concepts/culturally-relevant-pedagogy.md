@@ -1,7 +1,7 @@
 ---
 title: 文化相关教学法
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-18T03:04:49-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -45,7 +49,9 @@ connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cul
 
 AI可以帮助教师使教学更具文化回应性，但若不加提示，它的默认输出也有**强化主导叙事**的风险。
 
-- **对教师的支持：** Wang等人（2025）构建了**CulturAIEd**，一个[[llm|LLM]]驱动的系统，通过把学生人口学信息与规则驱动的引导（叠加在生成上的CRT检查清单）结合，帮助[[k-12|K-12]]教师设计具文化回应性的[[ai-literacy]]活动。在一项四教师试点中，它**提升了教师的信心**，既在发现文化回应性的机会上，也在修改既有活动上，78%的教师认为AI建议有助于材料多样化。该工具直接针对阻碍CRP落地的时间、培训与资源壁垒。
+- **对教师的支持：** Wang等人（2025）构建了**CulturAIEd**，一个[[llm|LLM]]驱动的系统，通过把学生人口学信息与[[rubrics|评分量规]]驱动的引导（叠加在生成上的CRT检查清单）结合，帮助[[k-12|K-12]]教师设计具文化回应性的[[ai-literacy]]活动。在一项四教师试点中，它**提升了教师的信心**，既在发现文化回应性的机会上，也在修改既有活动上，78%的教师认为AI建议有助于材料多样化。该工具直接针对阻碍CRP落地的时间、培训与资源壁垒。
+- **一个分阶段的适配过程，而非一次提示。** CulturAIEd 试点让教师依次经历独立适配、检查清单引导的修改，再到工具辅助的精修；作者并警告，基于广泛数据的模型可能复制文化刻板印象，因此输出始终是一份需要对照自己学生的知识去修订的草稿（[[llm-cultural-relevance-k12|Wang 等，2025]]）。
+
 - **单一文化输出的风险：** [[civic-education-ai-lesson-plans|Trust等人（2025）]]分析了310份AI生成的公民教育教案（2,230项活动）：**94%不含任何可辨识的多元文化内容**，而在有内容的144份中，137份处于最低的"添加"层次 —— **只有一份达到"变革"，无一达到"社会行动"。** 全部三个[[conversational-ai|聊天机器人]]产出了结构雷同的单一文化教案模板。这是具体证据：除非[[teacher-ai-competency|教师]]积极介入，AI默认产出同质化的课程。
 
 ## AI系统中的认识论边缘化

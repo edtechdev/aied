@@ -1,7 +1,7 @@
 ---
 title: 신뢰 보정
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-08T00:06:30-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -14,6 +14,10 @@ source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: revision
     date: "2026-09-22"

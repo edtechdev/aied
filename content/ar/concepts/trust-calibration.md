@@ -1,7 +1,7 @@
 ---
 title: معايرة الثقة
 created: "2026-10-12T23:50:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]

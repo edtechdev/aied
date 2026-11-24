@@ -1,5 +1,6 @@
 ---
 title: Hatari ya Kutunga Vitu Visivyokuwepo
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T06:18:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
@@ -10,16 +11,20 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -41,11 +46,15 @@ Kutunga vitu visivyokuwepo katika AI ya elimu huchukua aina kadhaa zilizorasa ka
 
 Ukaguzi wa masudio 125 unaweka wigo juu ya kuenea na pengo la kugundua: viwango vya kutunga vitu visivyokuwepo vya 10–40%, na wanafunzi wa tiba wakigundua makosa ya AI mara 44–55% tu ya wakati ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+**Hatari pia inategemea lugha:** [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite na Sun (2026)]] waligundua utambuzi wa makosa kuwa na nguvu kwa Kiingereza lakini dhaifu zaidi kwa Kigiriki na Kichina, pamoja na kutunga vitu visivyokuwepo na kuchukua vibaya kusudi la muandishi katika maoni ya kuandika kwa L2.
+
 **Upotoshaji wa kumbukumbu baada ya matokeo.** Jaribio la 2026 liligundua kuwa muhtasari wa AI unaopotosha ulifanya zaidi ya kupotosha taarifa: ulibadilisha kile wazee 328 walikumbuka kuhusu video waliyoiona. Ni 44.8% tu waliisoma muhtasari unaopotosha walitambua kipengele muhimu baadaye, dhidi ya 83.6% waliisoma muhtasari unaolingana, na athari ilidumu hata muhtasari ulipoitwa kuwa umeandikwa na binadamu ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Kuachwa ndio kosa lililokuwa la kawaida zaidi katika ukaguzi wa pamoja: muhtasari wote 20 yalikuwa na makosa, na 95% yaliacha mgongano wenyewe. Utafiti haukuwajaribu wanafunzi, lakini unaonyesha kwa nini ukaguzi wa utungaji wa vitu visivyokuwepo unaoishia kwenye maandishi haujakamilika: kosa linaweza kudumu katika kumbukumbu ya msomaji baada ya maandishi kuondoka.
 
 **Kutunga vitu visivyokuwepo katika tathmini** ni madhara hasa. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** iligundua kwamba LLM zinatunga nukuu za ushahidi ambazo hazipo katika maandishi ya mkono ya mwanafunzi zinapotambua ujuzi wa kiakili, na 58.5% ya utambuzi usio sahihi ukiwa na madai ya uongo ya uaminifu wa ushahidi. **[[llm-fallacy-misattribution]]** ilirasa uhusishaji kupita kiasi wa ushahidi katika ufikiri wa [[llm]] — mifano inadai msaada wa ushahidi ambapo hakuna. Zote mbili zinaungana na wasiwasi wa [[ai-ed-evaluation]] na [[knowledge-tracing]] kuhusu [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] wanaongeza hali mbili za kushindwa zinazoonekana matokeo ya AI yanapopewa alama badala ya kuchunguzwa: maelezo mahususi yaliyoandaliwa yanayosalimisha kupewa alama — karatasi iliyokaguliwa ambayo haipo, kamili na DOI isiyoweza kutatuliwa, na ukubwa wa sampuli ulioripotiwa kuwa 378 ambapo chanzo kilisema 329 — na kujipinga ndani ya jibu moja, ambapo mfano ulifikia chaguo sahihi kwa ufikiri na kisha kuripoti tofauti katika muhtasari wake wa mwisho. Kwa sababu orodha za marejeo kwa sasa zinapata alama kwa mpango badala ya usahihi, aina hii ya kosa inafikia alama ya kupita huku ikiwapotosha wanafunzi wanaotumia zana ile ile kurekebisha.
 
 Katika jaribio la kubuni tathmini, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] waligundua marejeo yaliyoandaliwa na makadirio ya muda yasiyo halisi yaliyosalimisha kuashiriawa kwa kurudia na yalihitaji marekebisho makubwa ya kitaaluma — kutunga vitu visivyokuwepo katika zana ya kuandika inayoelekea kwa waelimishaji badala ya katika kazi ya mwanafunzi.
+
+**Uzalishaji na ubadilishaji wa muundo hushindwa kwa njia tofauti.** Ulipoombwa orodha ya marejeo ya mtindo wa IEEE kuhusu seli za jua za perovskite, ChatGPT ilirudisha maingizo ambayo waandishi waligundua kuwa mengi yameandaliwa au yamenakiliwa vibaya: herufi za kwanza zisizo sahihi, mwaka, juzuu na kurasa, na makala moja yenye kuonekana ya kweli likiwa limepeanwa kwa kundi ambalo halikufanya kazi hiyo ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra na Gong, 2026]]). Ulipoombwa badala yake kugeuza seti ya marejeo tayari iliyothibitishwa kuwa APA, zana ile ile ilikuwa sahihi na ikahifadhi muda mwingi. Hatari iko katika kupata vyanzo bali si katika kazi ya maktaba ya marejeo, jambo ambalo [[rubrics|rubriki]] ya kazi inaweza kutaja.
 
 **[[misconceptions]] za kimkakati** ni jamaa ya juu juu ya kutunga vitu visivyokuwepo wazi. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] waliashiria mifano saba yenye uzito wazi kuzalisha "mtego wa [[socratic-method|Sokrate]]" kwa dhana 35 za msingi za sayansi ya kompyuta — maelezo yenye ufasaha na yenye mamlaka huku yakitulia juu ya kosa la juu juu, la kipekee la taaluma — na wataalamu watatu wa taaluma walithibitisha 221 kati ya sehemu 241 zilizoashiriwa (91.7%) kama dhana potofu za kimkakati, bila tofauti zenye umuhimu kati ya nyanja za CS. Makosa yalikuwa hasa ya dhana badala ya ya kweli (66.5% dhidi ya 33.5%) na hakuna yaliyo ya mantiki tu, na yalipimwa kuwa ya kuvutia kwa wastani hadi kwa kiasi kikubwa (M = 3.71 kwenye skela ya pointi tano), na utambulisho wa mfano ukielezea 43% ya tofauti. Kwa sababu kauli za mtu binafsi zinaweza kuwa sahihi huku uhusiano kati yao ukiwa mbaya, kukagua ukweli hatoshelezi; waandishi wanadai [[ai-literacy|wanafunzi]] wanahitaji uthibitishaji wa dhana na uhakiki wa mfano ya akili. Wanaonya pia kwamba kiwango hupima uwezo chini ya [[prompt-engineering|kuashiriawa]] kwa kupingana badala ya kuenea kwa makosa kama haya katika matumizi ya kawaida, na kwamba hakuna mwanafunzi aliyepimwa, hivyo hakuna udanganyifu au matokeo ya kujifunza yaliyopimwa.
 
@@ -60,6 +69,8 @@ Ulinzi dhidi ya uandishi kama huo unabeba mabadilishano yake: mtiririko wa ulinz
 **Ufuatiliaji usio na uhakika uliopewa lebo ulipunguza utegemezi ulioripotiwa badala ya kuuongeza.** Washiriki 546 waliposoma mazungumzo yale yale ya GAI yaliyopewa lebo kama yanayojumuisha habari iliyoandaliwa au kama sahihi iliyothibitishwa, lebo ya kuliandaliwa ilizalisha [[trust]] ya chini na uwezo wa kudhibiti unaohisiwa na kushindwa kwa kiakili na kutoridhika kwa juu pamoja na alama za chini za utegemezi (M = 2.935 dhidi ya 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Matokeo yanapunguza mantiki ya kutegemea kupita kiasi ya ukurasa huu: kuona kwamba matokeo yanaweza kuwa yaliyoandaliwa si sawa na kuendelea kutegemea.
 
 **Vidokezo vya uaminifu vinaweza kuongeza utii badala yake.** Mwendo kinyume unaonekana pale matokeo yasiyotegemewa yanapopambwa: kuongeza marejeleo na ishara za uaminifu kwenye kiolesura cha mijadala ya ARMADA kulipandisha sehemu ya washiriki waliohama kutoka hukumu sahihi ya awali kuelekea msimamo usio sahihi wa AI kwa asilimia 112 (asilimia 31.8 dhidi ya 15.0), na ukaguzi wa mkono uligundua baadhi ya kesi zilizotajwa zikihusishwa vibaya na marejeleo yasiyohusika au ya kutunga ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+Hali tofauti ya kushindwa ni swali lisilo sahihi (ill-posed). Katika [[bauyrzhan-genai-inorganic-chemistry-verification-2026|utafiti wa kuchunguza wa kigezo cha chatbot tatu kwenye maswali 42 ya kemia yasiyo ya organiki]], kila chatbot ilijibu kauli zilizo na kasoro kwa ujasiri, bila kutaja kasoro hiyo, kuuliza ufafanuzi au kukataa, na alama za kutokuwa na uhakika hazikuwahi kufikia hitimisho. Kushindwa huku si jibu lisilo sahihi bali msingi potofu uliokubaliwa kimya.
 
 ## Dhana Potofu za Kawaida
 

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "समावेशी सीखना"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]

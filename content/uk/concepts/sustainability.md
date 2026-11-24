@@ -1,5 +1,6 @@
 ---
 title: Сталий розвиток
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T21:52:00-04:00"
 type: concept
 foundations: [ai-education]
@@ -10,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -22,8 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -69,7 +74,9 @@ connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partn
 
 ## Стійке навчання як педагогічна мета
 
-Пов’язаний напрям розглядає сталий розвиток не лише як екологічну чи інституційну проблему, але й як властивість самого навчання. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] стверджують, що навчання з допомогою ШІ ризикує когнітивним аутсорсингом і відривом від автентичних контекстів, пропонуючи рамки (E3-HOT) для **стійкого навчання** — навчання, яке зберігається, переноситься й залишається пов’язаним із реальними проблемами, а не переривається коротким шляхом через [[cognitive-offloading]]. Це пов’язує сталий розвиток із [[agency]] та [[critical-thinking]].
+Пов’язаний напрям розглядає сталий розвиток не лише як екологічну чи інституційну проблему, але й як властивість самого навчання. Ширший аргумент, що це переформулювання обслуговує певні інтереси, зібрано на сторінці [[critiques-of-ai-in-education|Критика ШІ в освіті]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] стверджують, що навчання з допомогою ШІ ризикує когнітивним аутсорсингом і відривом від автентичних контекстів, пропонуючи рамки (E3-HOT) для **стійкого навчання** — навчання, яке зберігається, переноситься й залишається пов’язаним із реальними проблемами, а не переривається коротким шляхом через [[cognitive-offloading]]. Це пов’язує сталий розвиток із [[agency]] та [[critical-thinking]].
+
+- **Рахунок про блокування.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] визначає педагогічну сталість як довготривалу навчальну цінність, створену в економічних, соціальних, екологічних та інституційних умовах, які можна підтримувати, а потім робить цю цінність некомпенсованим блоком, а не однією з п’яти опор.
 
 ## Зв’язки з іншими поняттями
 

@@ -8,9 +8,9 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/universal-design-for-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -18,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -75,6 +79,8 @@ UDL "শিক্ষার্থীকে ঠিক করো"-কে বদল�
 - একই শিখন-ফলাফলের সঙ্গে সামঞ্জস্যপূর্ণ মূল্যায়ন-পণ্যের (প্রবন্ধ, উপস্থাপনা, ভিডিও, চিত্র, কোড) বিকল্প দিন।
 - *উদাহরণ:* একটি প্রকল্প লিখিত প্রতিবেদন, এআই-সহায়ক ভিডিও ব্যাখ্যা, বা সরাসরি প্রদর্শন হিসেবে জমা দেওয়ার সুযোগ দেয় — প্রতিটি ধারায় এআই [[scaffolding|স্ক্যাফোল্ড]] সহায়তা দেয়। [[assessment]] নকশায় এটি [[authentic-assessment]]-এর উপস্থাপনগত ন্যায্যতার সমান্তরাল।
 
+পছন্দ তখনই অন্তর্ভুক্ত করে যখন বিকল্পগুলো সমানভাবে বিশ্বাসযোগ্য দেখায়। একটি বিজ্ঞান-অনুষদের গবেষণায় শিক্ষার্থীরা ভিডিও ও প্রবন্ধের মধ্যে বেছে নিতে পছন্দ করল, কিন্তু জানাল সহপাঠীরা ভয় করতেন প্রবন্ধটি খারাপ নম্বর পাবে, তাই ভাগ করা মানদণ্ড ও ব্যাখ্যাযুক্ত নম্বর-পদ্ধতিই বিকল্পের তালিকাকে কৌশলী অনুমানের বদলে অন্তর্ভুক্তিতে পরিণত করে ([[mcdonald-inclusive-assessment-genai-2026|McDonald প্রমুখ, 2026]])।
+
 **এআই-সাক্ষরতা ও এজেন্সির জন্য নকশা।**
 - শিক্ষার্থীদের শেখান এআই কীভাবে ও কখন ব্যবহার করতে হবে, এবং এমন চেকপয়েন্ট তৈরি করুন যা জবাবদিহি শিক্ষার্থীর (সরঞ্জামের নয়) কাছে রাখে — দেখুন [[ai-literacy]] ও [[reducing-ai-misuse]]।
 - *উদাহরণ:* UDL-সামঞ্জস্যপূর্ণ একটি কাজ শিক্ষার্থীদের এআই দিয়ে খসড়া করার সুযোগ দেয়, কিন্তু নিজের অবদান নিয়ে [[metacognition|মেটাকগনিটিভ]] প্রতিফলন বাধ্যতামূলক করে, ফলে সম্পৃক্ততা ও এজেন্সির নীতি রক্ষা পায়।
@@ -84,6 +90,8 @@ UDL "শিক্ষার্থীকে ঠিক করো"-কে বদল�
 - যে এআই একটি যোগাযোগ-ধরন ধরে নেয় বা নিউরোডাইভার্জেন্ট প্রকাশকে শাস্তি দেয় তার বিরুদ্ধে সতর্ক থাকুন — [[accessibility]], [[equity-in-ai-education]] ও [[neurodiversity]]-এর সঙ্গে যুক্ত করুন।
 
 - **কার্যকরী প্রতিবন্ধকতাকে লক্ষ্য করুন, নির্ণয়কে নয়।** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel প্রমুখ (2026)]] নিউরোডাইভার্জেন্ট শিক্ষার্থীদের সহায়ক প্রযুক্তি নিয়ে 40-গবেষণার করপাসকে সুবিধা ও নির্ণয়-নির্ভর সরঞ্জামের চারপাশে সংগঠিত দেখেন, এবং যুক্তি দেন, শিক্ষার্থীরা প্রকৃতপক্ষে যে আড়াআড়ি প্রতিবন্ধকতার মুখোমুখি হয় তা লক্ষ্য করে নকশা করাই একটি সরঞ্জামকে বিশ্বাসযোগ্যভাবে সর্বজনীন করে তোলে।
+
+**সমতা, অভিন্নতা নয়।** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys প্রমুখ (2026)]] UDL-এর তালিকাকে এআই-সমর্থিত প্রতিফলনমূলক কাজে প্রসারিত করেন: শিক্ষার্থীদের সমতুল পথ থাকা উচিত — পাঠ্য বা অডিও প্রতিফলন, এআই-সহায়ক বা এআই-মুক্ত পথ, সিঙ্ক্রোনাস মানব-সহায়তা, স্বচ্ছ মানদণ্ড যা উদ্দেশ্যের সঙ্গে অসম্পর্কিত প্রযুক্তিগত সাবলীলতাকে পুরস্কৃত করে না — এবং, গুরুত্বপূর্ণভাবে, প্রযোজ্য অধিকার, অর্থবহ শিক্ষার্থী-পছন্দ ও অপরিহার্য অভিগম্যতা ক্ষতিপূরণযোগ্য পূর্বশর্ত, এমন স্কোর নয় যা অন্যত্র ভালো কর্মক্ষমতা অফসেট করতে পারে। নীতিটি হলো "সমতা, অভিন্নতা নয়": ভিন্ন মাধ্যম বা স্বয়ংক্রিয়তার স্তর ব্যবহার করা যায়, কিন্তু সেগুলোকে একই ফলাফল অর্জনে সমতুল সুযোগ দিতে হবে, আর অন্তর্ভুক্তি পরে সুবিধা হিসেবে নয়, নকশার ভেতরেই গাঁথতে হবে।
 
 ## সাধারণ ভুল ধারণা
 

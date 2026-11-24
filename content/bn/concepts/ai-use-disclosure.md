@@ -10,15 +10,19 @@ connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-unde
 level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/ai-use-disclosure"
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
 connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
@@ -53,6 +57,7 @@ connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-
 
 - **প্রকাশ বিরল এবং উদ্বেগ-চালিত।** গবেষণা জুড়ে বেশিরভাগ শিক্ষার্থী প্রশিক্ষককে এআই-ব্যবহার প্রকাশ করে না। [[kirsanov-beyond-detection-ai-online-assessments-2026|কার্সানোভ প্রমুখ (2026)]] দেখেন, অর্থনীতির কেবল ~34% শিক্ষার্থী এআই-ব্যবহার স্বীকার করে, আর প্রকাশ আরও বিরল, চালিত "শাস্তি-ভীতি" দ্বারা। [[vetter-hidden-cost-disclosure-genai-2026|ভেটার প্রমুখ (2026)]] দেখেন, 66% শিক্ষার্থী কখনও বা বিরলভাবে প্রকাশ করে, একাডেমিক শাস্তির ভয় প্রধান কারণ। [[gonsalves-student-non-compliance-ai-declarations-2025|গনসালভেস (2025)]] কিংস [[business-education|বিজনেস স্কুলে]] একটি বাধ্যতামূলক ঘোষণায় **74% অননুগতি** নথিভুক্ত করেন।
 - **অস্পষ্ট ও দণ্ডমূলক নীতি গোপন করাকে চালায়।** এআই-ব্যবহার-নীতি যখন অস্পষ্ট, অপ্রয়োজিত বা নিষেধাজ্ঞা, শিক্ষার্থীরা সম্পৃক্ত হওয়ার বদলে ব্যবহার লুকায়। "নির্দিষ্ট পরিস্থিতিতে সীমিত ব্যবহার" নীতি প্রকাশের সর্বোত্তম পূর্বাভাস দেয়; "অনুমোদিত নয়" বা "জানা নেই" নীতি গোপনকে পূর্বাভাস দেয়। স্পষ্ট, সামঞ্জস্যপূর্ণ, সহযোগিতামূলক নীতির আহ্বান বারবার উঠেছে।
+- **দায়িত্ব, কেবল শাস্তি নয়।** একই উদ্দেশ্যের দুটি নিয়ম প্রকাশকে গোপন থেকে আলাদা করে: [[mehreen-genai-policy-wording-2026|Mehreen ও অন্যান্য (2026)]] দেখেন, অসততা-ফ্রেমিং শিক্ষার্থীদের নিজেদের ব্যবহার লুকানোর সঙ্গে যুক্ত ছিল, অথচ শিক্ষার্থীদের ভুল আউটপুটের জন্য দায়বদ্ধ করাটি মালিকানা ও স্বচ্ছতার সঙ্গে যুক্ত ছিল।
 - **প্রকাশের মনস্তাত্ত্বিক খরচ আছে — আর লুকানো খরচও।** শিক্ষার্থীরা ঘোষণাকে আত্ম-অপরাধীকরণ হিসেবে দেখে, কেউ কেউ ভাবে এআই-ব্যবহার ব্যক্তিগত, ক্যালকুলেটর ব্যবহারের মতো। [[vetter-hidden-cost-disclosure-genai-2026|ভেটার প্রমুখ (2026)]] দেখেন, যারা "সবসময়" প্রকাশ করত, তাদের অভিযুক্ত হওয়ার সম্ভাবনা 3 গুণেরও বেশি — স্বচ্ছতা সন্দেহ ডেকে আনতে পারে। [[chang-should-i-tell-my-teacher-ai-disclosure-2026|চ্যাং প্রমুখ (2026)]] দেখেন, উদ্বেগ প্রকাশকে দমিয়ে না দিয়ে সমকক্ষদের দিকে সরিয়ে দেয়, ফলে শিক্ষার্থী প্রশিক্ষকের প্রতিক্রিয়া থেকে বিচ্ছিন্ন হয়।
 
 - **নিরুৎসাহ-কাঠামো লক্ষ্য অনুযায়ী ভাগ হয়।** 466 জন শিক্ষার্থীর মধ্যে, অ-প্রকাশ শনাক্ত হবে এমন নিশ্চয়তা বেশি অনুকূল মনোভাবের সঙ্গে সম্পর্কিত ছিল (β = 0.643), অথচ ঘোষণা করলে অনুচিত ব্যবহার প্রকাশ পাবে এমন নিশ্চয়তা কম অনুকূল মনোভাবের সঙ্গে (β = −2.175), এবং ভারী অ-প্রকাশ-দণ্ড উভয় মনোভাব ও নিয়ন্ত্রণের সঙ্গে ঋণাত্মকভাবে যুক্ত ছিল। অনুচিত-ব্যবহারের অনুমানগুলো সহরৈখিক পূর্বানুমানকের (ভেরিয়েন্স-ইনফ্লেশন 9-এর বেশি) ওপর দাঁড়ানো, তাই অস্থির ([[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu প্রমুখ, 2026]])।
@@ -75,6 +80,8 @@ connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-
 
 - **প্রকাশের সঙ্গে বিশ্বাস-জরিমানা জড়ানো, আর বৈধতাই যুক্তিযুক্ত ব্যবস্থা।** তেরোটি পরীক্ষায়, বেশিরভাগ মার্কিন অনলাইন প্যানেলিস্ট নিয়ে এবং 4,093টি পর্যবেক্ষণে পুল করে (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), যে অভিনেতা এআই-ব্যবহার প্রকাশ করেছে তাকে নীরব থাকা অভিনেতার চেয়ে কম বিশ্বাস করা হয়েছে ([[obhdp-ai-disclosure-erodes-trust-2025|শিলকে ও রাইমান (2025)]]। প্রভাবটি ছয়টি প্রকাশ-কাঠামো, এমন মূল্যায়ক যিনি আগেই জানতেন এআই ব্যবহৃত হয়েছে, এবং বাধ্যতামূলক ও স্বেচ্ছামূলক দুই ব্যবস্থাতেই টিকে গেছে। এটি উপরের সার্ভে-ফলাফলের পরীক্ষামূলক প্রতিরূপ, যে সবসময়-প্রকাশকারী শিক্ষার্থীদের অভিযোগের সম্ভাবনা তিন গুণেরও বেশি ছিল: স্বচ্ছতা নিজেই প্রকাশকারীর মূল্য দিতে পারে। গবেষণাপত্রের শিক্ষার্থী-সংক্রান্ত একমাত্র ফলাফল হলো, অধ্যাপক [[automated-assessment|এআই-গ্রেডিং]] প্রকাশ করলে শিক্ষার্থীরা তাঁকে কম বিশ্বাস করেছে।
 - **বিষয়বস্তু-লেবেল বর্ণনা বদলায়, রায় নয়।** 617 জন প্রাপ্তবয়স্ককে এলোমেলোভাবে "AI-Generated Content/Synthetic Video" লেবেল দেখানো বা না দেখানোর জন্য বণ্টন করে দেখা যায়, লেবেল অনুভূত প্রামাণিকতা কমিয়েছে (লেবেল ছাড়া গড় 4.92, লেবেলসহ 4.21), কিন্তু বিশ্বাস (B = -0.130, p = 0.216), ঝুঁকি, গ্রহণ ও শেয়ারিং অপরিবর্তিত রেখেছে ([[fu-ai-label-authenticity-trust-generated-videos-2026|ফু, ঝাং ও ঝাং (2026)]]।
+
+শিক্ষার্থীরা যে নথিগুলো প্রকৃতপক্ষে পায়, তাতে লেখক প্রশিক্ষকের অভিপ্রায়ের চেয়ে কম। [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud ও অন্যান্য (2026)]] একটি বড় পাবলিক মিডওয়েস্টার্ন গবেষণা-বিশ্ববিদ্যালয়ের 56 জন প্রশিক্ষকের অনুদান করা 16টি সিলেবাস, নীতি-বিবৃতি ও অ্যাসাইনমেন্ট কোড করেন: 59%-এ অনুমতি ও স্বীকৃতি-বিবৃতি ছিল শক্তিশালী, 75%-এ ডেটা-গোপনীয়তা নীরব, 19%-এ উদ্ধৃতি-নিয়ম শক্তিশালী, এবং 81%-এ কোনো সংশোধন-ধারা ছিল না। একই প্রশিক্ষকেরা 71%-এ জানান, প্রাতিষ্ঠানিক নির্দেশনা তাদের কোর্স-উপাত্তকে “একেবারেই” বা “সামান্য” প্রভাবিত করেছে, যা ফাঁকটি কেবল সিলেবাসে নয়, নির্দেশনাতেই বেশি। একটি প্রকাশ-ধারা ঠিক ততটাই ভালো, যতটা তার পেছনে দাঁড়িয়ে থাকা টেমপ্লেট ও উদ্ধৃতি-মান।
 
 ## কার্যকর প্রকাশের নকশা
 

@@ -1,5 +1,6 @@
 ---
 title: Универсальный дизайн для обучения
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T20:20:00-04:00"
 type: concept
 foundations: [learning-design]
@@ -9,10 +10,14 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -22,7 +27,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -87,6 +92,10 @@ UDL превращает «исправить учащегося» в «испр
 - Остерегайтесь ИИ, который предполагает единственный стиль коммуникации или наказывает нейроотклоняющееся выражение, — свяжите с [[accessibility]], [[equity-in-ai-education]] и [[neurodiversity]].
 
 - **Нацельтесь на функциональные барьеры, а не на диагнозы.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] обнаружили, что корпус из 40 исследований ассистивных технологий для нейроотклоняющихся студентов организован вокруг адаптаций и инструментов, открываемых только при наличии диагноза, и утверждают, что проектирование под сквозные барьеры, с которыми студенты фактически сталкиваются, и есть то, что делает инструмент правдоподобно универсальным.
+
+Выбор включает лишь тогда, когда варианты выглядят одинаково заслуживающими доверия. Студенты в одном исследовании на факультете естественных наук любили выбирать между видео и эссе, но сообщали, что сверстники опасаются, будто эссе оценят хуже, поэтому именно общие критерии и объяснённая логика оценивания превращают меню форматов во включение, а не в стратегическое угадывание ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
+**Эквивалентность без тождества.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] распространяют меню UDL на рефлексивную работу с поддержкой ИИ: у студентов должны быть сопоставимые пути — текстовая или аудиорефлексия, маршрут с ИИ или без него, синхронная человеческая поддержка, прозрачные критерии, не вознаграждающие техническую беглость, не относящуюся к цели, — и, что важнее, применимые права, значимый выбор учащегося и базовая доступность являются некомпенсируемыми предпосылками, а не баллами, которые сильный результат в другом месте может перекрыть. Принцип — «эквивалентность без тождества»: можно использовать разные медиа или уровни автоматизации, но они должны давать сопоставимую возможность достичь того же результата, а включение должно быть спроектировано изначально, а не рассматриваться как приспособление задним числом.
 
 ## Распространённые заблуждения
 

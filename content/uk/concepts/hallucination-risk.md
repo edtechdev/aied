@@ -1,5 +1,6 @@
 ---
 title: Небезпека галюцинацій
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T21:30:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
@@ -10,10 +11,14 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -23,7 +28,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -45,11 +50,15 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 Огляд 125 досліджень встановлює діапазон поширеності та прогалини виявлення: рівні галюцинацій 10–40 %, причому студенти медицини виявляли помилки ШІ лише в 44–55 % випадків ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+Ризик залежить також від мови: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite and Sun (2026)]] виявили виявлення помилок сильним для англійської, але слабшим для грецької та китайської, з галюцинаціями та хибним розпізнаванням авторського задуму у зворотному зв’язку щодо письма другою мовою.
+
 **Спотворення пам’яті після результату.** Експеримент 2026 року виявив, що оманливе резюме ШІ не просто дезінформувало: воно змінило те, що 328 дорослих пам’ятали про переглянуте відео. Лише 44,8 % тих, хто прочитав оманливе резюме, згодом правильно ідентифікували критичну деталь, проти 83,6 % тих, хто прочитав узгоджене, і ефект зберігався, коли резюме було позначене як написане людиною ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Пропуск був найпоширенішою помилкою в супутньому аудиті: усі 20 резюме містили помилки, а 95 % пропускали саме зіткнення. Дослідження не тестувало студентів, але показує, чому перевірка галюцинацій, що закінчується на тексті, є неповною: помилка може зберігатися в пам’яті читача після того, як текст зник.
 
 **Галюцинації в оцінюванні** особливо шкідливі. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** виявив, що LLM фабрикують цитати-докази, яких немає в рукописі студента, при діагностиці когнітивних умінь, і 58,5 % неправильних діагнозів супроводжувалися фальшивими ствердженнями про доказову впевненість. **[[llm-fallacy-misattribution]]** задокументував систематичну надмірну атрибуцію доказів у міркуванні [[llm]] — моделі стверджують доказову підтримку там, де її не існує. Обидва пов’язані з питаннями [[ai-ed-evaluation]] та [[knowledge-tracing]] щодо [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] додають два режими відмов, видимі, коли результат ШІ оцінюється, а не перевіряється: вигадані подробиці, що проходять оцінювання — рецензована стаття, якої не існує, з нерозв’язним DOI, і розмір вибірки, поданий як 378, коли джерело казало 329 — та самосуперечність у межах єдиної відповіді, де модель дійшла міркуванням до правильного варіанта, а потім повідомила інший у підсумковому резюме. Оскільки списки літератури нині оцінюються на форматування, а не на точність, цей клас помилок досягає прохідної оцінки, водночас збиваючи з пуття студента, який використовує той самий інструмент для повторення.
 
 У пілоті з проєктування оцінювання [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] виявили вигадані посилання та нереалістичні оцінки часу, які витримували повторювані підказки і потребували суттєвого академічного редагування — галюцинації в інструменті підготовки, орієнтованому на педагога, а не в роботі студента.
+
+**Генерація та переформатування зазнають невдачі по-різному.** Запросивши список літератури у стилі IEEE про перовскітні сонячні елементи, ChatGPT повернув записи, які автори знайшли переважно галюцинаціями або неправильними цитуваннями: хибні ініціали, рік, том і сторінки, а також одну правдоподібну статтю, приписану групі, яка ніколи не виконувала ту роботу ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). Коли ж попросили натомість перетворити вже перевірений набір посилань на APA, той самий інструмент був точним і значно зекономив час. Ризик лежить у пошуку джерел, а не у бібліографічній роботі, і це межа, яку може сформулювати [[rubrics|рубрика]] завдання.
 
 **Стратегічні [[misconceptions]]** — тонший родич відкритих галюцинацій. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] доручили сімом моделям з відкритими вагами створити «[[socratic-method|сократичну]] пастку» для 35 основних понять комп’ютерних наук — пояснення, що є плавним і авторитетним, спираючись водночас на тонку, предметно специфічну помилку — і три експерти-предметники підтвердили 221 із 241 підказкового сегмента (91,7 %) як стратегічні хибні уявлення, без значущих відмінностей між галузями КН. Помилки були переважно концептуальними, а не фактичними (66,5 % проти 33,5 %), і жодна не була суто логічною, а їх оцінювали як помірно високо до високо переконливі (M = 3,71 за п’ятибальною шкалою), причому ідентичність моделі пояснювала 43 % дисперсії. Оскільки окремі твердження можуть бути правильними, тоді як зв’язок між ними — хибним, перевірки фактів недостатньо; автори стверджують, що [[ai-literacy|здобувачі]] потребують концептуальної перевірки та валідації ментальних моделей. Вони також застережують, що ця частка вимірює здатність за змагального [[prompt-engineering|формулювання підказок]], а не поширеність таких помилок у звичайному вжитку, і що студентів не тестували, тому не було виміряно ні омани, ні навчальних результатів.
 
@@ -64,6 +73,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **Позначена ненадійність знизила заявлену залежність, а не підвищила її.** Коли 546 учасників читали той самий діалог GAI, позначений або як такий, що містить вигадану інформацію, або як перевірений і точний, позначення як вигаданий давало нижчу [[trust]] та сприйняту контрольованість і вищу когнітивну дисонансність та розчарування поряд із *нижчими* балами залежності (M = 2,935 проти 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Результат уточнює логіку надмірної залежності цієї сторінки: бачити, що результат може бути вигаданим, — не те саме, що продовжувати на нього спиратися.
 
 **Сигнали достовірності можуть, навпаки, підсилювати покору.** Протилежний рух з’являється, коли ненадійний результат прикрашають: додавання цитат і сигналів достовірності до інтерфейсу дебатів ARMADA підняло частку учасників, які відмовилися від правильної початкової думки на користь неправильної позиції ШІ, на 112% (31,8% проти 15,0%), а ручна перевірка виявила, що деякі процитовані випадки були приписані нерелевантним або вигаданим джерелам ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+Окремим режимом відмов є некоректно поставлена задача. У [[bauyrzhan-genai-inorganic-chemistry-verification-2026|дослідницькому бенчмарку трьох чатботів на 42 задачах з неорганічної хімії]] кожен чатбот упевнено відповідав на дефектні твердження, не позначаючи дефект, не питаючи уточнення і не відмовляючись, а маркери невпевненості ніколи не досягали висновку. Відмова — це не неправильна відповідь, а хибна передумова, прийнята мовчки.
 
 ## Поширені хибні уявлення
 

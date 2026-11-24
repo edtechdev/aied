@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: التعلّم متعدّد اللغات
 created: "2026-10-12T19:20:00-04:00"
-updated: "2026-11-22T19:30:19-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]

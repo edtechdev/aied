@@ -1,7 +1,7 @@
 ---
 title: נגישות
 created: "2026-10-12T20:10:00-04:00"
-updated: "2026-11-23T04:42:57-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept

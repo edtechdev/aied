@@ -8,15 +8,19 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-d
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/inclusive-learning"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
 connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
@@ -76,6 +80,8 @@ Video yang padat persamaan dapat dibuat aksesibel alih-alih ditranskripsikan sec
 **Gerbang diagnosis formal mengecualikan siswa yang diklaim dilayani oleh suatu alat.** Dalam tinjauan pelingkupan [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] atas 40 studi teknologi bantu digital bagi siswa neurodivergen, 28 menjadikan diagnosis formal sebagai syarat partisipasi dan hanya tiga yang memperlakukan lingkungan, bukan siswa, sebagai sasaran.
 
 **Alat aksesibel dalam praktik** menunjukkan bagaimana AI dapat memperluas partisipasi. **[[suacode-african-students-motivations|SuaCode]]** menunjukkan bahwa kursus pemrograman berbasis ponsel pintar menjangkau siswa di konteks Afrika bersumber daya rendah tempat kurang dari 1% memiliki keterampilan pemrograman. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** bekerja dengan musisi tunanetra dan penglihatan rendah untuk mengembangkan strategi belajar non-visual, memusatkan desain [[embodied-learning|terwujud]] yang dipimpin penyandang disabilitas. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** menyediakan mitra pemikir AI multibahasa, privat, dan tanpa biaya yang menghubungkan pendidik dengan prinsip UDL. **[[special-r1-rl-special-education|Special-R1]]** memperluas [[reinforcement-learning|pembelajaran penguatan]] untuk memodelkan keragaman kognitif dan komunikatif lintas profil disabilitas.
+
+**Kebijakan tertinggal dari penerapan.** Tidak satu pun dari 100 universitas peringkat teratas memiliki kebijakan aksesibilitas AI meskipun 93% telah menerapkan layanan kampus bertenaga AI ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### Koneksi ke konsep terkait
 

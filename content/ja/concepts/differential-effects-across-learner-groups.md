@@ -1,7 +1,7 @@
 ---
 title: 学習者集団間で異なる効果
 created: "2026-10-10T22:31:18-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,16 +13,20 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
-connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
+connected_articles: [ada-female-coded-chatbot-gender-stereotypes-2026, adhd-video-segmentation-computing-education, ai-divide-ses-personality-primary-education-2026, ai-tutoring-micro-rct-gcse-science-2026, all-girls-genai-makerspace-gender-equity-2026, arc-hubs-k12-ai-robotics-rural-2026, assistive-tech-neurodivergent-higher-ed-review-2026, bjet-genai-engagement-minority-ethnic-students-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, demographic-signals-llm-student-assessment-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, fairness-theatre-early-warning-systems-2026, genai-minoritized-knowledges-disability, gender-bias-transfer-llm-writing, hadra-ai-detector-accuracy-efl-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, marked-pedagogies-linguistic-bias-writing-feedback, nagy-ai-use-domestic-international-students-2026, neurodivergent-computing-students, petricini-ai-literacy-communication-equity-2026, porcaro-ai-grader-reliability-2026, porcaro-ai-grading-benchmark-2026, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, student-ai-inquiry-types-cs2-2026, student-attention-estimation-fairness-2026, wang-genai-metacognitive-prompting-preconceptions-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -120,7 +124,8 @@ connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-ch
 - **第一世代の学生：** 一つの研究が効果ではなく利用の差を報告しています。[[student-ai-inquiry-types-cs2-2026|CS2 の探究研究]]では、継続世代の学生は AI を積極的な[[problem-solving]]の協働者として扱い、第一世代の学生は確認的で検証志向の役割を担い、全体的により少ない問いを立てました。
 - **第一世代の学生：最初の効果推定値であり、それは望ましくない方向に走ります。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu ら（2026）]]のコース統合型[[intelligent-tutoring|AI 家庭教師]]の[[rct|無作為化試験]]は、上の項目が欠いているものを供給します——利用のパターンではなく測られた差別的な効果です。全標本で、最終成績に対する家庭教師アクセスの効果は、第一世代の学生にとって 2.87 点（0.28 SDs）より負の方向で、彼らにとって −5.10 点（−0.50 SDs）を、仲間にとって −2.23 点（−0.22 SDs）を含意します。差別的な効果は完全一致の標本でより大きかった（−3.89 点、−0.35 SDs）し、第一世代の学生は宿題の点とプラットフォームのページ閲覧数もより多く失いました。研究は機構を報告せず、その精度は成果によって変わりますが、方向は隔たりを縮める物語とは反対です。[[student-support-and-success|学術的な支援]]への事前アクセスが最も少なかった学生が、測られた最大の代償を負ったのです。
 - **留学生：** [[international-students-conversational-ai-adaptation|異文化適応の支援]]に関する一つの[[mixed-methods-research|混合手法]]研究（調査 n = 60、インタビュー n = 14）。
-- **留学生：測定された関与のパターンであり、効果の推定値ではありません。** 英国の7つの[[business-education|経営学部]]にわたる 270 名の少数エスニシティの留学生について、報告された[[generative-ai]]の利用は、四つの[[student-engagement|関与]]の流れのすべてと正に関連していました。もっとも強くは主体的な関与（β = 0.429）です。そして利用の意図の最強の予測要因は、それを容易にする条件（β = 0.369）でした（[[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]）。
+- **留学生：測定された関与のパターンであり、効果の推定値ではありません。**
+- **同一の機関に在籍する留学生と国内学生。** [[nagy-ai-use-domestic-international-students-2026|Nagy, Lukács & Torkos（2026）]]は、ハンガリーの一つの大学の767人の学生を調査し、国内学生と留学生の間の生の利用頻度の差は、年齢と性別を調整すると消失したが、応用の幅の差は残ったことを見出しました。続くクラスター分析により、両方のグループに分布する4つの利用者プロファイルが復元され、集団ラベルは量ではなく利用の幅を予測するところのものでした。英国の7つの[[business-education|経営学部]]にわたる270名の少数エスニシティ系留学生について、報告された[[generative-ai|生成AI]]の利用は、四つの[[student-engagement|関与]]の流れすべてと正に関連していました — 最も強くは主体的な関与（β = 0.429）で、利用意図の最も強い予測要因は、それを容易にする条件（β = 0.369）でした（[[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al.（2026）]]）。
 - **ギフテッドで高達成の学生：** このコーパスでは集団として事実上研究されていません。
 - **難民、移民、避難民の学習者：** 研究がありません。
 - **性別は上の研究のほとんどで依然として二値として分析されており**、障害のカテゴリは研究間で異なるため、「同じ」集団の研究横断的な比較には限界があります。

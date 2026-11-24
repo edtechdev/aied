@@ -1,7 +1,7 @@
 ---
 title: Upendeleo wa Kiotomatiki
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -10,13 +10,17 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -72,6 +76,8 @@ Maelezo ya wazi zaidi ya utaratibu huo yako katika kazi inayomkabili mwalimu. [[
 
 Pengo kali zaidi liko kwenye hatua ya uamuzi. [[human-in-the-loop-ai-scoring-national-assessment-2026|Utafiti wa upangaji alama wa tathmini ya kitaifa (2026)]] unawaweka wakadiriaji kukagua alama za mashine, na waandishi wake wanataja mbinu isiyojaribiwa moja kwa moja: kama wakadiriaji wanaoonyeshwa alama za AI kabla ya kuhukumu wanawekwa nanga nazo au wanazitegemea hakupimwa, na wanapendekeza majaribio ya wakadiriaji wasiofahamu dhidi ya wanaofahamu kama hatua inayofuata. Dai la mtu-ndani-ya-mzunguko katika ubuni huo kwa hivyo ni dhana, sio ugunduzi — na ni toleo zuri la ubuni huo.
 
+Jaribio la ufuatiliaji wa usalama sasa linatoa kipimo katika muktadha unaokaribiana. Kati ya wakadiriaji 416 na vipengele 3,957, kuwasilisha majibu ya modeli kabla ya jibu la kibinadamu kulipunguza usahihi wa wakadiriaji kwenye vipengele ambavyo modeli ilikosea kutoka 36.7% hadi 20.6%, wakati usahihi uliongezeka kwa pointi 7.3 kwenye vipengele ambavyo modeli ilifanya sawa ([[shi-human-ai-complementarity-safety-2026|Shi na wenzake (2026)]]). Wakadiriaji walifanya kazi kwa usahihi zaidi kwa ujumla lakini wakiwa na uwezo mdogo zaidi wa kutambua makosa ambayo walikuwapo kuyakamata, jambo ambalo ni upendeleo huo ukifanya kazi kama waandishi wa tathmini ya kitaifa walivyodhani: jibu la mashine huweka fremu, na mtu hurekebisha ndani yake.
+
 ### Dashibodi za uchanganuzi na dai la mtu-ndani-ya-mzunguko
 
 [[in-the-loop-educational-ai-learning-sciences-2026|Mapitio ya sayansi ya kujifunza ya AI ya kielimu iliyo ndani ya mzunguko (2026)]] yanaipa muundo huo umbo lake la jumla: dashibodi hukisia ushiriki kutoka mibofyo, [[writing-education|maoni ya uandishi]] ya kiotomatiki yanapa kipaumbele sifa za uso juu ya hoja, na taa za tahadhari ya mapema hutangulia kutafsiri mienendo. Upendeleo wa kiotomatiki unaongeza kila moja yao, na mapitio hayo yanachukulia [[trust|uaminifu]] kama matokeo ya kijamii na kiufundi yanayoundwa na uwazi, umahiri unaoonekana na haki yenye maana ya kubatilisha, badala ya mtazamo thabiti.
@@ -93,6 +99,8 @@ Karatasi mbili zinasema kizuizi ni mwelekeo badala ya kanuni. [[assessing-studen
 ### Pale upendeleo unatajwa kama hatari badala ya kupimwa
 
 Sehemu kubwa ya hifadhi ya maarifa inaorodhesha upendeleo wa kiotomatiki katika modeli ya vitisho bila kuujaribu, na tofauti hiyo ni muhimu kwa kiasi cha uzito dhana hii inaweza kubeba. [[ahmadfard-interactive-oer-review-2026|Mapitio ya OER za maingiliano (2026)]] unaijumuisha kati ya hatari zinazorudia zinazodhoofisha wakala wa mwanafunzi na mwalimu, zikitajwa badala ya kupimwa. [[alshahrani-health-sciences-ai-use-2026|Utafiti wa sayansi ya afya (2026)]] unasoma wasiwasi wa [[ethics|kimaadili]] wa wanafunzi 310 kama hoja ya [[professional-training|mafunzo ya kitaaluma]] yanayoshughulikia upendeleo wa kiotomatiki waziwazi. [[ai-literacy-legal-translation-2026|Utafiti wa tafsiri ya kisheria (2026)]] unaomba uhariri wa baada na uthibitishaji vifundishwe kama stadi zinazopimwa, ukikitaja shinikizo la upendeleo wa kiotomatiki na udanganyifu wa ubora yanayofanya tafsiri mbovu kuwa rahisi kukosa. [[morales-cevallos-ai-forensic-science-education-2026|Mapitio ya sayansi ya uchunguzi (2026)]] unagundua upendeleo wa kiotomatiki umeandikwa katika masomo yaliyojumuishwa na unapendekeza mazoezi ya kesi yaliyojengwa kutoka kushindwa kulikoripotiwa. [[rana-genai-design-thinking-2025|Utafiti wa kufikiri kwa ubuni (2025)]] unaubadilisha kuwa hitaji la ubuni: [[scaffolding|viunzi]] vinavyoweka uamuzi wa kibinadamu katikati, vikipinga kupakua mzigo na upendeleo wa kiotomatiki.
+
+Upendeleo tofauti umo katika matokeo badala ya mtumiaji. Katika Esmeraldas, Ecuador, washiriki 90 wa elimu na wa jamii walieleza zana za picha zilizobadilisha rangi ya ngozi, muundo wa nywele na sura za uso za washiriki wa Kiafrika-Ecuador, mmoja akiiita "aina ya ubaguzi, hata kama ni ya kidijitali" — madhara ya kuwakilisha ambacho hakuna kipimo cha usahihi kinachochukulia ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Pale ushahidi ni mwembamba, mchanganyiko, au kinyume
 

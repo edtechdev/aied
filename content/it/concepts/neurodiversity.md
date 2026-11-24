@@ -1,7 +1,7 @@
 ---
 title: Neurodiversità
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: "concepts/neurodiversity"
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
 connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
@@ -85,9 +89,13 @@ Il lato del rischio ha una sua letteratura. [[seung-basham-cognitive-offloading-
 - **I confini di categoria differiscono tra gli studi,** quindi il confronto tra studi sullo "stesso" neurotipo è limitato — e le differenze tra categorie nella meta-analisi sono riportate come non significative.
 - **Gli stessi revisori del campo lo descrivono come guidato dalla tecnologia,** il che significa che le evidenze sugli interventi sono sottili esattamente dove le indicazioni progettuali sono più forti.
 
+- **Esiste ora uno studio comparativo sull'uso dell'IA generativa.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] hanno intervistato 477 studenti universitari e di laurea giapponesi con e senza disturbi del neurosviluppo e non hanno trovato differenze significative tra i gruppi per l'uso settimanale, le competenze autovalutate, i benefici percepiti o i bisogni di supporto. Solo le interazioni vocali e visive risultavano leggermente più alte nel gruppo con disturbi del neurosviluppo, quindi il divario a gruppo singolo descritto sopra ha ora un confronto diretto.
+
 ## Connessioni
 
 La neurodiversità si collega a [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]] e [[equity-in-ai-education]]. Informa sia il modo in cui l'IA viene distribuita per la [[student-experience|esperienza dello studente]] sia il modo in cui valutazioni e programmi di alfabetizzazione sono progettati per essere equi di fronte alla variabilità cognitiva. Per come questi risultati si collocano accanto ad altri gruppi di discenti — lingua, genere, status socioeconomico, geografia — si veda [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh e Natoli]] hanno recensito 28 studi sull'IA per studenti universitari con ADHD, suddividendo le evidenze in supporto, predizione ed etica. La predizione è la parte più sottile: un modello pupillometrico ha raggiunto un AUROC di 0,856, mentre un classificatore SVM ha raggiunto un'accuratezza dal 66,1 al 68,8 per cento, al di sotto dell'utilità clinica. Il compromesso della funzione esecutiva è il nucleo etico — uno strumento che compensa una domanda può anche assorbire l'esercizio che avrebbe costruito la capacità ([[executive-function|funzione esecutiva]]).
 
 ## Idee sbagliate comuni
 

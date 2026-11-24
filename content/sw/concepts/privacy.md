@@ -1,6 +1,7 @@
 ---
 connected_resources: [drawsplat]
 title: Faragha
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T06:08:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
@@ -10,13 +11,17 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
 connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
@@ -57,14 +62,21 @@ Kithibitishaji cha hatua mbili kilipandisha usahihi hadi 0.8893 pale majibu ya u
 - **Uwekaji kodi wa [[sensor-and-gaze-analytics|EEG]] hufichua umakini.** Uwekaji kodi wa neva unapanua tatizo la faragha zaidi ya kumbukumbu za tabia: [[seeing-cognitive-representations-eeg-reconstruction|Su et al. (2026)]] waliunda upya kile wanafunzi walichokuwa wanakitazama kutoka EEG yao wakati wa mafunzo ya video, jambo linalofanya uwakilishi uliowekwa kodi kufichua kwa njia isiyo ya kawaida na kuacha utawala wa data nyeti ya neva bila kutatuliwa.
 - **Violezo vya mazungumzo huvujisha mazungumzo yenyewe.** Kuweka ukaguzi kwa majukwaa 42 ya mazungumzo ya AI, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] waligundua 21 yakituma vichwa vya mazungumzo kwa vifuatiliaji vya wahusika wengine, na majukwaa saba ya elimu yalikuwa na wastani wa takriban maombi 367 ya vifuatiliaji kila moja, huku matano yakivujisha muktadha.
 
+- **Uwezo na mamlaka huanguka kando kando.** Mfumo wa Hypothesis and Theory wa ulinzi wa data ya mwanafunzi unatambua mawishano mawili yanayokanana: walimu ambao wanatambua tatizo la faragha lakini hawana mamlaka au njia iliyoidhinishwa ya kulitenda, na taasisi ambazo zinatoa huduma zilizolindwa huku walimu wakifichua habari zisizohitajika au kukubali hoja zisizo na ushahidi ([[kaziya-learner-data-privacy-governance-2026|Kaziya & Lungu (2026)]]). Unachukua kila uamuzi wa kukusanya, kuwasilisha, kuchambua au kufichua data ya mwanafunzi kama kitengo cha uchanganuzi, huku uwezo uliothibitishwa na uwezeshaji wa taasisi vikipimwa kando kando.
+
 ## Usalama wa watoto na ulinzi wa K-12
 
 Miktadha ya [[k-12]] inahitaji ulinzi thabiti zaidi wa faragha kwa sababu wanafunzi ni watoto wadogo. Hii inaeneza faragha zaidi ya ulinzi wa data hadi [[pedagogical-safety]]: zana ambazo watoto zinazitumia lazima zisilinze data yao tu bali pia ziwalinde na madhara. [[child-safety-genai|Utafiti wa usalama wa watoto]] unaonyesha kuwa vifaa vya jumla vya kutambua usalama mara nyingi hushindwa kugundua ilani zisizo salama zinazohusiana na elimu kutoka kwa watoto, na kuonya kuwa shule haziwezi kudhani kuwa ulinzi wa kawaida wa mfano unawalinda watumiaji wadogo — wanahitaji tathmini maalum ya watoto, majaribio yaliyoingizwa na matukio, na [[human-in-the-loop-ai|usimamizi wa binadamu]]. Mfumo huu unaunganisha faragha na [[equity-in-ai-education|usawa]]: nani anayelindwa na usalama na faragha ya chaguo-msingi unaakisi usalama na uhuru wa nani ambao mfumo unachukulia kuwa hauwezi kupinganishwa.
+
+- **Kiwango cha umri ni kisheria, si cha mkataba.** Bidhaa yenye sheria zake zikisema \"miaka 13 au zaidi\" haikwepii COPPA: kanuni hiyo inateka wakati huduma inakusudia watoto au mtoa huduma anapokuwa na ufahamu halisi kwamba mtumiaji ana chini ya miaka 13, kwa hivyo uchunguzi wa umri na kupunguza data zinapaswa kuwa katika masharti ya utekelezaji, si katika maneno ya muuzaji. Chini ya Vifungu 8 na 12 vya GDPR, kiwango cha kulinganisha ni kwa kawaida miaka 16 kwa ridhaa ya wazazi inayoweza kuthibitishwa, pamoja na taarifa yanayofaa umri ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
 
 ## Faragha katika mazoezi
 
 - **Chukua faragha kama mahitaji ya ubuni, si mawazo ya baadaye ya sera.** Mfano wa [[teachlm-post-training-llms-education|TeachLM]] unaonyesha kuwa ridhaa, kuficha utambulisho, na usimamizi salama wa data vinaweza kujengwa katika mstari wenyewe wa data — mfano kwa upatikanaji kwa maadili wa data halisi inayofanya [[intelligent-tutoring|walimu wa AI]] kuwa na ufanisi.
 - **Buni kwa kupunguza data.** Pendelea mbinu zinazokusanya kile ambacho kubadilika kinahitaji tu (AI ya ukingoni/kufadhiliwa, uchakataji kwenye kifaa) badala ya kuhifadhi data ya mwingiliano kwa chaguo-msingi. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] wanaonyesha umbo halisi la kufadhiliwa la hili kwa [[cognitive-diagnosis]]: API nyingi za [[llm]] za kibiashara zinashirikiana katika utambuzi huku zikiongeza kelele za faragha ya tofauti ya ε-ya-mahali kwa utabiri wa kila mfano kabla ya kukusanyika, na hivyo hakuna mtoa huduma anayeona data ghafi ya mwanafunzi — usanifu unaohifadhi faragha ambao huweka [[intelligent-tutoring|ufundishaji wa AI]] ukitumika bila kuweka katikati njia nyeti za mwanafunzi. Kujifunza kwa kufadhiliwa pia huwezesha **uchanganuzi kati ya taasisi bila kushirikiana data**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] wanafundisha mfano wa hatari ya kitaaluma ya kazi nyingi kati ya taasisi kupitia kukusanya kwa kufadhiliwa ili data ghafi ya mwanafunzi ibaki mahali pa kuzaliwa na vigezo tu vya mfano vimegawanywa — mbadala wa kushirikiana, unaohifadhi faragha kwa [[learning-analytics]] ya kati ambao huweka uhuru wa data huku ukikamata mtindo kati ya taasisi.
+- **Ondoa utambulisho badala ya kuutawala.** [[intelligent-tutoring|AI Tutor Pro]] imejengwa ili wanafunzi wasihitaji akaunti na wasiachi wasifu: mfumo wa faragha ni chaguo la ubuni ambalo laondoa hatari ya utambulisho badala ya kulitawala baada ya tukio ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). Msaada mengi wa faragha huwaomba taasisi zichunge, zipunguze na zipeane ridhaa; hii ni mbadala wa kimuundo wenye gharama nafuu zaidi, na unatumika popote ambapo zana haihitaji kujua mwanafunzi ni nani.
+- **Chagua utunzaji kabla ya mbinu za kufundisha.** Wells (2026) alitekeleza majaribio ya msaidizi wa utafiti wa sosholojia kwenye Copilot iliyopatikana kwa chuo kikuu badala ya chatbot ya umma, ili kazi za wanafunzi ibaki ndani ya mazingira ya Microsoft 365 ya taasisi, na kuweka upatikanaji nyuma ya moduli ya mafunzo yenye vitengo vitano na jaribio la maswali matano lenye alama 80% kupita ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). Udhibiti wa faragha na kizingiti cha uwezo vilitolewa kama uamuzi mmoja wa utekelezaji.
+
 - **Pata ridhaa ya wazi, yenye habari.** Mahali data ya mwanafunzi inapofadhili maendeleo au kuboresha kwa AI, taasisi zinapaswa kuwa na uwazi kuhusu ukusanyaji, uhifadhi, na matumizi — na wanafunzi wanapaswa kuwa na chaguo halisi, si mifumo iliyoamriwa.
 - **Kagua nani analindwa.** Ulinzi wa faragha haupaswi kwa chaguo-msingi kulinda wanafunzi baadhi tu; [[equity-in-ai-education|usawa]] unadai kuwa malezi yale yale yanatumika katika mstari wote wa umri, lugha, ulemavu, na hali ya kiuchumi.
 

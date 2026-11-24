@@ -8,7 +8,7 @@ discipline: [language learning]
 confidence: medium
 connected_resources: [mglearn]
 translation_of: concepts/multilingual-learning
-updated: "2026-11-23T14:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]

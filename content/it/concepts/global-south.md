@@ -1,7 +1,7 @@
 ---
 title: Sud globale
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T13:51:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: "concepts/global-south"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
 connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
@@ -40,17 +44,18 @@ connected_articles: [genai-assessment-african-higher-education-review-2026, aden
 
 ## Introduzione
 
-### Perché conta per l'AIED
+## Perché conta per l'AIED
 
 La ricerca mainstream sull'IA e sulle tecnologie educative è stata storicamente dominata da dataset occidentali e in lingua inglese e da contesti [[governance|istituzionali]] analoghi. Questo crea due problemi: (1) i [[ai-technologies|sistemi di IA]] addestrati su tali dati possono sottoperformare o rappresentare in modo distorto gli studenti nei contesti del Sud globale, e (2) i [[benchmark|benchmark]] di valutazione costruiti nel Nord globale potrebbero non riflettere le realtà educative, le lingue o le tradizioni di conoscenza di altre regioni. La ricerca proveniente da contesti del Sud globale in questa base di conoscenza comprende dataset, benchmark e studi sull'adozione di tecnologie culturalmente fondati, con implicazioni per l'[[ai-literacy]] e per l'istruzione [[higher-ed|superiore]] e [[k-12|K-12]].
 
-### Applicazioni nella base di conoscenza
+## Applicazioni nella base di conoscenza
 
 - **Dati e benchmark culturalmente fondati:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] fornisce un dataset di istruzioni [[multilingual-learning|multilingue]] sui Sistemi di Conoscenza Indiani; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] presenta un benchmark [[stem-education|STEM]] con base in Ghana, uno dei primi dataset di valutazione educativa del Sud globale.
 - **Consapevolezza etica sull'IA nell'istruzione superiore ghanese:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] hanno validato una scala di consapevolezza etica sull'IA a tre fattori (autonomia, beneficenza, equità) con 509 studenti [[higher-ed|universitari]] in Ghana, individuando cinque profili latenti che vanno da una consapevolezza uniformemente molto alta a un piccolo gruppo quasi del tutto privo di consapevolezza — più debole sulla beneficenza — e nessuna differenza di genere, offrendo un punto di riferimento di misurazione del Sud globale per la letteratura sull'[[ethics]] dell'IA.
 - **Ragionamento etico degli insegnanti in contesti a basse risorse:** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et al. (2026)]] hanno riscontrato che insegnanti STEAM della secondaria in servizio in un contesto a basse risorse ragionano sull'etica dell'IA attraverso l'identità professionale, le realtà della classe e le norme culturali piuttosto che attraverso elenchi formali di principi, contrastando gli assunti di "etica assente" sul Sud globale.
 - **Adozione contestuale:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] modellano l'adozione di [[generative-ai|GenAI]] tra studenti [[engineering-education|ingegneristici]] bengalesi, e [[connected-ai-lesson-planning-vietnam|ConnectED]] dispiega un sistema di pianificazione delle lezioni allineato al [[curriculum-design|curricolo]] per l'educazione vietnamita.
 - **Non le infrastrutture, ma lo sviluppo delle capacità ha determinato l'adozione da parte dei docenti.** Tra 255 docenti bengalesi, l'atteggiamento verso la GenAI prediceva fortemente l'uso (β = 0,556) e la rilevanza specifica per il dominio determinava l'atteggiamento (β = 0,413), mentre la fornitura tecnologica istituzionale e le norme soggettive non erano predittori significativi ([[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et al. (2026)]]).
+- **Alfabetizzazione sull'IA centrata sull'identità nell'educazione afro-ecuadoriana:** 90 attori educativi, giovanili e comunitari di Esmeraldas hanno valutato l'identità afrodiscendente come la più alta (M = 4,72) e l'alfabetizzazione critica sull'IA come la più bassa (M = 4,60), e un focus group con tre partecipanti ha descritto un uso occasionale e limitato al compito ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 - **Integrazione istituzionale e disuguaglianza strutturale:** l'analisi comparativa dei contenuti di [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] su 45 università nigeriane (federali/statali/private) ha rilevato che l'integrazione dell'IA è predetta dall'età dell'istituzione e dalla posizione geografica — non dal tipo di governance — e che i legami con le reti internazionali e industriali si rafforzano a vicenda (r = 0,74), così che le istituzioni ben connesse accumulano vantaggio mentre le altre restano ulteriormente indietro. Lo studio colloca la [[digital-divide|disuguaglianza digitale]] non solo a livello dello studente, ma nella capacità strutturale delle istituzioni di [[higher-ed|istruzione superiore]] stesse.
 - **[[educational-development|Lo sviluppo accademico]] come mediazione digitale in condizioni di vincolo strutturale:** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] intervista dodici sviluppatori accademici e progettisti dell'apprendimento in due Istituzioni Storicamente Svantaggiate sudafricane e traccia una linea analitica che la letteratura sul Sud globale spesso confonde: la **disuguaglianza digitale** è distributiva e in linea di principio risolvibile attraverso la ridistribuzione e l'accesso, mentre la **colonialità algoritmica** è epistemica e persiste anche in condizioni di accesso pieno perché inerisce a ciò che i sistemi codificano e alla conoscenza che essi mettono al centro. Le due sono intrecciate ma richiedono risposte diverse, e l'istituzione è doppiamente posizionata — esclusa dalla scarsità infrastrutturale e, quando inclusa, subordinata da sistemi importati che codificano altre conoscenze e norme. La retorica istituzionale sull'IA ("più performance che pratica") è arrivata debolmente agganciata alle realtà materiali dell'insegnamento, così che gli sviluppatori hanno tradotto il discorso globale sulla trasformazione digitale in una pratica contestualmente praticabile: testare e deliberatamente "rompere" gli strumenti in spazi tra pari, insistere sul giudizio più che sulle competenze tecniche, e assorbire il costo affettivo di proiettare una competenza che stavano ancora acquisendo.
 - **Emarginazione epistemica:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] sostiene che i dati di addestramento a impronta occidentale emarginano le conoscenze non occidentali e centrate sulla disabilità — collegando le istanze del Sud globale all'[[equity-in-ai-education]] e alla [[culturally-relevant-pedagogy]].
@@ -60,7 +65,7 @@ La ricerca mainstream sull'IA e sulle tecnologie educative è stata storicamente
 
 - **L'equità è la dimensione meno studiata dell'intera regione.** Una [[meta-analysis-systematic-review|revisione di scoping]] PRISMA-ScR di 75 studi del Sud globale (2022–2025) ha rilevato che l'equità è la meno esaminata delle sue cinque aree nonostante la sua centralità per l'educazione inclusiva, e ha segnalato un divario tra le posizioni etiche dichiarate dagli studenti e il loro comportamento ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
 
-### Implicazioni
+## Implicazioni
 
 Prestare attenzione ai contesti del Sud globale richiede di andare oltre l'assunto che i modelli e i benchmark occidentali si trasferiscano direttamente. Richiede dataset fondati localmente, [[pedagogy]] culturalmente rilevante, standard di valutazione centrati sulla comunità e una ricerca che tratti le epistemologie vissute e comunitarie degli studenti come autorevoli — in linea con framework come l'apprendimento di IA basato sulla comunità e la ricerca sull'[[technology-acceptance-model|accettazione della tecnologia]] adattata alle condizioni locali.
 

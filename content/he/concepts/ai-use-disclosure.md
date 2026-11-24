@@ -1,7 +1,7 @@
 ---
 title: הצהרות שימוש וגילוי בבינה מלאכותית
 created: "2026-10-12T22:30:00-04:00"
-updated: "2026-11-23T13:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]

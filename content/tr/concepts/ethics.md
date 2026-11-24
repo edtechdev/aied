@@ -1,7 +1,7 @@
 ---
 title: Etik
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]

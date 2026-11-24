@@ -7,18 +7,22 @@ technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
-updated: "2026-11-08T13:08:24-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/multilingual-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -53,11 +57,15 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 زبانوں کے باہمی استعمال (ٹرانس لینگویجنگ) وہ سہولت ہے جو جنریٹو [[conversational-ai|چیٹ بوٹس]] شامل کرتے ہیں اور پہلے کے زبان کے اوزاروں میں نہیں تھی۔ 24 مطالعات کے [[meta-analysis-systematic-review|منظم جائزے]] میں سیکھنے والوں نے اپنی زبان میں سیاق و سباق والے فقرے اور وضاحتیں مانگیں تاکہ ہدف زبان میں اُترنے کا پل بن سکیں — جائزہ لینے والے اِس استعمال کو نئی ذیلی سہولت قرار دیتے ہیں، پرانی سہولت کا نیا روپ نہیں ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]])۔
 
+اوٹ بنانے کی لسانی لاگت ناپی جا سکتی ہے: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] نے پایا کہ انگریزی سیکھنے والے سکافولڈ والے ایجنٹ سازی ٹیوٹوریل پر مقامی بولنے والوں سے نمایاں حد تک زیادہ وقت لگاتے ہیں، جبکہ کھلا ڈیزائن کام میں کوئی فرق نہیں رہا۔
+
+انگریزی وہاں بھی غالب رہتی ہے جہاں روزمرہ چار زبانیں استعمال ہوتی ہیں۔ کیوراساؤ اور اروبا کے 42 طلبہ میں سے دو تہائی نے AI کے لیے انگریزی کو اپنی پسندیدہ زبان قرار دیا، اور صرف GPT کے اجلاسوں میں گفتگو مقامی ہوتے ہی پاپیامینتو کی طرف رُخ کیا ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]])۔
+
 ## جانچ میں تعصب
 
 کثیر لسانی امور [[automated-assessment|خودکار جانچ]] پر بھی اثر ڈالتے ہیں: [[ai-scoring-language-bias-physics|AI اسکورنگ میں لسانی تعصب ظاہر ہو سکتا ہے]] (مثلاً [[physics-education|طبیعیات]] میں)، جو غیر مقامی بولنے والوں کو نقصان پہنچاتا ہے۔ جانچ کے اوزاروں کا زبانوں کے پار منصفانہ ہونا [[assessment-validity]] کا حصہ ہے۔
 
-LLM پر مبنی تقابلی فیصلہ ایک ایسا معاملہ ہے جہاں تعصب ماڈل کے بجائے انسانی بنیادی سطح کے ساتھ چلا: درجات 3–6 کی معلوماتی تحریر کے اسکور محققین کے ربرکس سے ہم آہنگ رہے (r = .59–.73)، اور کثیر لسانی سیکھنے والوں کے لیے پیش گوئی کے تعصب کے وہی نمونے دکھائے جو انسانی اسکورنگ میں تھے، جبکہ زیادہ ماڈل صلاحیت یا زیادہ لاگت سے درستی بہتر ہونے کا کوئی ثبوت نہیں ملا ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]])۔
+LLM پر مبنی تقابلی فیصلہ ایک ایسا معاملہ ہے جہاں تعصب ماڈل کے بجائے انسانی بنیادی سطح کے ساتھ چلا: درجات 3–6 کی معلوماتی تحریر کے اسکور محققین کے [[rubrics|ربرکس]] سے ہم آہنگ رہے (r = .59–.73)، اور کثیر لسانی سیکھنے والوں کے لیے پیش گوئی کے تعصب کے وہی نمونے دکھائے جو انسانی اسکورنگ میں تھے، جبکہ زیادہ ماڈل صلاحیت یا زیادہ لاگت سے درستی بہتر ہونے کا کوئی ثبوت نہیں ملا ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]])۔
 
 ## کثیر لسانی سیاق و سباق میں اساتذہ کے لیے مضمرات
 
@@ -66,6 +74,8 @@ LLM پر مبنی تقابلی فیصلہ ایک ایسا معاملہ ہے جہ
 - **صرف ترجمہ نہیں، ثقافت اور سیاق و سباق کی عکاسی کریں۔** کثیر لسانی AI کو ترجمے سے آگے بڑھ کر [[culturally-relevant-pedagogy|ثقافتی طور پر متعلقہ تدریس]] تک جانا چاہیے — ایسا مواد پیدا کریں جو لسانی اور سیاق و سباق کے لحاظ سے موزوں ہو ([[llm-cultural-relevance-k12|K-12 میں ثقافتی مطابقت]])۔
 - **AI کو کثیر لسانی معاون ڈھانچوں کے ساتھ ملائیں۔** جہاں متنی AI ناکام ہو وہاں آواز اول اور زبانی طریقے استعمال کریں ([[kutti-ai-voice-first-learning-companion|آواز اول ساتھی]])، اور دو لسانی سیاق و سباق میں [[self-regulated-learning|خود ضابطگی]] کی معاونت کریں ([[bilingual-llm-lecture-companion-srl-2026|دو لسانی لیکچر ساتھی]])۔
 - **ڈیجیٹل تقسیم پر نظر رکھیں۔** AI میں یک لسانی تعصب [[digital-divide]] کو گہرا کرتا ہے اور [[global-south]] میں رسائی کو کمزور کرتا ہے — اوزار کے انتخاب کے ساتھ ساتھ منصفانہ بنیادی ڈھانچے اور رسائی کی منصوبہ بندی کریں۔
+
+- **موافقت کا مشقت خانہ استاد پر ڈالتا ہے۔** [[wang-lote-teachers-generative-ai-engagement-2026|Wang، Ding اور Liu (2026)]] نے پایا کہ انگریزی کے علاوہ زبانوں کے یونیورسٹی اساتذہ پرامپٹس ڈھالتے ہیں، ماڈل کی زبان درست کرتے ہیں، مواد کو ثقافتی طور پر نئے سرے سے سیاق و سباق دیتے ہیں اور اوزار بدلتے رہتے ہیں — جیسے معمول کی بات۔ یہ مشقت لسانی درجہ بندی کی وجہ سے مسلط کی جاتی ہے، کمزور ڈیجیٹل مہارت کی وجہ سے نہیں، اور اپنائی کے ان اعداد و شمار میں نظر نہیں آتی جو صرف یہ گنتی ہیں کہ اوزار استعمال ہوا یا نہیں۔
 
 ## عام غلط فہمیاں
 

@@ -1,7 +1,7 @@
 ---
 title: 不同学习者群体间的差异效应
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-18T03:38:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,13 +13,13 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-11-24"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -30,7 +30,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
-connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
+connected_articles: [ada-female-coded-chatbot-gender-stereotypes-2026, adhd-video-segmentation-computing-education, ai-divide-ses-personality-primary-education-2026, ai-tutoring-micro-rct-gcse-science-2026, all-girls-genai-makerspace-gender-equity-2026, arc-hubs-k12-ai-robotics-rural-2026, assistive-tech-neurodivergent-higher-ed-review-2026, bjet-genai-engagement-minority-ethnic-students-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, demographic-signals-llm-student-assessment-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, fairness-theatre-early-warning-systems-2026, genai-minoritized-knowledges-disability, gender-bias-transfer-llm-writing, hadra-ai-detector-accuracy-efl-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, marked-pedagogies-linguistic-bias-writing-feedback, nagy-ai-use-domestic-international-students-2026, neurodivergent-computing-students, petricini-ai-literacy-communication-equity-2026, porcaro-ai-grader-reliability-2026, porcaro-ai-grading-benchmark-2026, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, student-ai-inquiry-types-cs2-2026, student-attention-estimation-fairness-2026, wang-genai-metacognitive-prompting-preconceptions-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -128,7 +128,9 @@ connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-ch
 - **第一代大学生：** 一项研究报告的是使用差异而非效应。在[[student-ai-inquiry-types-cs2-2026|一项 CS2 探究研究]]中，续代学生把 AI 当作积极的[[problem-solving]]伙伴，而第一代学生采取确认式的、以验证为导向的角色，总体提问更少。
 - **第一代大学生：首个效应估计，而它指向错误的方向。** [[liu-course-integrated-ai-tutoring-rct-2026|Liu 等（2026）]]对一门课程整合式[[intelligent-tutoring|AI 辅导系统]]的[[rct|随机试验]]补上了前述条目所缺的——一个被测量的差异而非使用模式。在全体样本中，辅导访问权对期末成绩的效应对第一代大学生多 2.87 分（0.28 个标准差）的负面效应，即他们为 −5.10 分（−0.50 个标准差），同伴为 −2.23 分（−0.22 个标准差）；该差异在精确匹配样本中更大（−3.89 分，−0.35 个标准差），第一代学生也损失了更多作业分与平台页面浏览量。该研究未报告机制，且其精度随结果而异，但方向与"缩小差距"的叙事相反：那些先前最缺乏[[student-support-and-success|学业支持]]的学生承担了最大的被测成本。
 - **国际学生：** 一项[[mixed-methods-research|混合方法]]研究（问卷 n = 60，访谈 n = 14），关于[[international-students-conversational-ai-adaptation|跨文化适应支持]]。
-- **国际学生：一个被测量的参与模式，而非效应估计。** 在七所英国[[business-education|商学院]]的 270 名少数族裔国际学生中，自报[[generative-ai]]使用与全部四条[[student-engagement|参与]]线索正相关——其中能动性参与最强（β = 0.429）——而促进条件（β = 0.369）是使用意愿最强的预测因子（[[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya 等（2026）]]）。
+- **国际学生：一个被测量的参与模式，而非效应估计。**
+
+- **同一机构中的国际学生与本地学生。** [[nagy-ai-use-domestic-international-students-2026|Nagy、Lukács 与 Torkos（2026）]]调查了一所匈牙利大学的 767 名学生，发现本地学生与国际学生之间原始的使用频率差距在调整年龄与性别后消失，而应用广度上的差距依然存在。聚类分析随后恢复出分布于两个群体的四种使用者画像，因此群体标签预测的是使用广度，而非数量。在七所英国[[business-education|商学院]]的 270 名少数族裔国际学生中，自报[[generative-ai]]使用与全部四条[[student-engagement|参与]]线索正相关——其中能动性参与最强（β = 0.429）——而促进条件（β = 0.369）是使用意愿最强的预测因子（[[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya 等（2026）]]）。
 - **资优与高成就学生：** 在本语料库中实际上未作为群体被研究过。
 - **难民、移民与流离失所的学习者：** 没有研究。
 - **性别在大多数上述研究中仍被当作二元变量分析，** 且残障类别因研究而异，因此"同一"群体的跨研究比较存在局限。

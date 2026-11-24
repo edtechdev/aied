@@ -1,7 +1,7 @@
 ---
 title: 教育における倫理
 created: "2026-10-10T21:53:10-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,16 +9,20 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-19T10:16:37-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -61,6 +65,7 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 **倫理はこの分野の中心だが、成果として扱われることはまれである。** 394件のGenAI高等教育研究を通じて、倫理と学術的誠実性は最も対象にされにくい成果の一つであり、ガバナンスの実践は報告が不足していました（[[mapping-genai-higher-ed-scoping-review|Lin et al.（2026）]]）。
 - **規範的枠組みは互換ではありません。** 151人のスペイン人学部生のうち、道徳的公平性は試験準備でLLMを使う意図の必要条件でしたが（d = 0.338）、十分な予測変数ではなく、帰結主義的（β = 0.350）と義務論的（β = 0.329）判断はそうでした — 学生は複数の規範的枠組みを適用します（[[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al.（2026）]]）。
 - **共有された多次元構造。** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]]の6つのテーマ — データ倫理・アルゴリズム倫理・教育学的倫理にまたがるもの — は、基礎的な原理（透明性、説明責任、公平性、自律性）から行動上の帰結へと至る相互接続された因果連鎖を形づくり、責任あるAI利用が個人の意識と同じくらい明確な制度的指針に依存していることを浮き彫りにします。
+- **倫理的顕在性は教育水準とともに高まります。** [[licardo-students-ethical-challenges-genai-2026|Licardo & Šindić（2026）]]は、スロベニアの小・中・高等教育にわたる1,299人の学生を調査し、生成AIの倫理的課題の知覚される重要度が教育水準とともに単調に上昇することを見出しました。自己評価のAI知識や生成AIへの慣れは検出可能なものを何も加えなかったため、先行する知識ではなく、水準という軸が倫理的関心を組織化しているのです。
 
 ## 原理から制度的ガバナンスへ
 

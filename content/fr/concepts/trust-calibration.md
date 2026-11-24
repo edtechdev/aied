@@ -1,7 +1,7 @@
 ---
 title: "Le calibrage de la confiance"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]

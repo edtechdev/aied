@@ -1,7 +1,7 @@
 ---
 title: Universelles Design für das Lernen (UDL)
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -90,6 +94,8 @@ Wahl schließt nur dann ein, wenn die Optionen gleich glaubwürdig erscheinen. S
 - Hüten Sie sich vor KI, die einen Kommunikationsstil annimmt oder neurodivergenten Ausdruck bestraft –, verbinden Sie mit [[accessibility|Barrierefreiheit]], [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]] und [[neurodiversity|Neurodiversität]].
 
 - **Adressieren Sie funktionale Barrieren, nicht Diagnosen.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] fanden das 40-Studien-Korpus assistiver Technologien für neurodivergente Studierende um Anpassung und diagnoseabhängige Werkzeuge organisiert, und argumentieren, auf die übergreifenden Barrieren zu gestalten, denen Studierende tatsächlich begegnen, mache ein Werkzeug plausibel universell.
+
+**Äquivalenz ohne Gleichheit.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] erweitern das UDL-Menü auf KI-gestützte reflexive Arbeit: Lernende sollten vergleichbare Wege haben — Text- oder Audio-Reflexion, KI-assistiert oder ein Weg ohne KI, synchrone menschliche Unterstützung, transparente Kriterien, die keine technische Fertigkeit belohnen, die nichts mit dem Ziel zu tun hat —, und entscheidend sind geltende Rechte, bedeutsame Wahlmöglichkeiten der Lernenden und wesentliche Barrierefreiheit nicht kompensierbare Voraussetzungen statt Werte, die eine starke Leistung an anderer Stelle aufwiegen kann. Das Prinzip lautet „Äquivalenz ohne Gleichheit“: Es dürfen unterschiedliche Medien oder Automatisierungsgrade genutzt werden, aber sie müssen vergleichbare Gelegenheit bieten, dasselbe Ergebnis zu erreichen, und Inklusion muss von Anfang an gestaltet sein, nicht als nachträgliche Anpassung behandelt werden.
 
 ## Verbreitete Fehlvorstellungen
 

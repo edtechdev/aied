@@ -1,7 +1,7 @@
 ---
 title: "YZ Yalakalığı"
 created: "2026-10-14T06:55:12-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]

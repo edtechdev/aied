@@ -8,12 +8,16 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-d
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/inclusive-learning"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -76,6 +80,8 @@ connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segme
 **رسمی تشخیص کی دروازہ بندی ان سیکھنے والوں کو خارج کرتی ہے جن کی خدمت کا آلہ دعوی کرتا ہے۔** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] کے نیوروڈائیورس طلبہ کے لیے ڈیجیٹل معاون ٹیکنالوجیز پر 40 مطالعات کے اسکوپنگ جائزے میں 28 نے شرکت کی شرط رسمی تشخیص کو بنایا اور صرف تین نے طالب علم کے بجائے ماحول کو موضوع بنایا۔
 
 **عملی طور پر قابلِ رسائی آلات** دکھاتے ہیں کہ AI شرکت کو کیسے بڑھا سکتا ہے۔ **[[suacode-african-students-motivations|SuaCode]]** نے ظاہر کیا کہ اسمارٹ فون پر مبنی کوڈنگ کورسز افریقی کم وسائل والے سیاق و سباق میں طلبہ تک پہنچتے ہیں جہاں 1% سے بھی کم لوگوں کے پاس کوڈنگ کی مہارت ہے۔ **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** نے نابینا اور کم بینائی موسیقاروں کے ساتھ مل کر غیر بصری سیکھنے کی حکمت عملیاں تیار کیں، اور معذوری کی قیادت والے [[embodied-learning|مجسم]] ڈیزائن کو مرکز بنایا۔ **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** بلا لاگت، نجی اور کثیر لسانی AI فکری ساتھی فراہم کرتا ہے جو اساتذہ کو UDL اصولوں سے جوڑتا ہے۔ **[[special-r1-rl-special-education|Special-R1]]** [[reinforcement-learning|ری انفورسمنٹ لرننگ]] کو معذوری پروفائلز میں علمی اور رابطاتی تنوع کی ماڈلنگ تک پھیلاتا ہے۔
+
+**پالیسی تعیناتی سے پیچھے رہ جاتی ہے۔** 100 سرفہرسٹ درجہ بندی والی یونیورسٹیز میں سے ایک بھی AI رسائی پالیسی رکھتی تھی، حالانکہ 93% نے AI سے چلنے والی کیمپس خدمات تعینات کی ہوئی تھیں ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]])۔
 
 ### متعلقہ تصورات سے روابط
 

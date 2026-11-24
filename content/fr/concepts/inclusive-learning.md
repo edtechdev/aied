@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage inclusif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -14,6 +14,10 @@ source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

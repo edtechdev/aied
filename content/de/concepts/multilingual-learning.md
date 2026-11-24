@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Mehrsprachiges Lernen
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -21,8 +21,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -65,7 +69,7 @@ Englisch dominiert selbst dort, wo vier Sprachen täglich in Gebrauch sind. Unte
 
 Mehrsprachigkeitsanliegen betreffen auch [[automated-assessment|automatisiertes Assessment]]: [[ai-scoring-language-bias-physics|KI-Bewertung kann Sprachbias zeigen]] (z. B. in [[physics-education|Physik]]) und dabei Nicht-Muttersprachlerinnen und Nicht-Muttersprachler bestrafen. Sicherzustellen, dass Assessment-Werkzeuge über Sprachen hinweg fair sind, ist Teil der [[assessment-validity]].
 
-LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlichen Referenzmaß folgte statt dem Modell: Werte für informationsorientiertes Schreiben in den Klassenstufen 3–6 konvergierten mit den Rubriken der Forschenden (r = .59–.73) und zeigten Muster prädiktiven Bias für mehrsprachige Lernende, die denen menschlicher Bewertung ähnelten, ohne Belege dafür, dass größere Modellfähigkeit oder höhere Kosten die Validität verbesserten ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlichen Referenzmaß folgte statt dem Modell: Werte für informationsorientiertes Schreiben in den Klassenstufen 3–6 konvergierten mit den [[rubrics|Rubriken]] der Forschenden (r = .59–.73) und zeigten Muster prädiktiven Bias für mehrsprachige Lernende, die denen menschlicher Bewertung ähnelten, ohne Belege dafür, dass größere Modellfähigkeit oder höhere Kosten die Validität verbesserten ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Implikationen für Lehrende in mehrsprachigen Kontexten
 
@@ -74,6 +78,7 @@ LLM-basiertes komparatives Urteilen ist ein Fall, in dem der Bias dem menschlich
 - **Kultur und Kontext abbilden, nicht nur Übersetzung.** Mehrsprachige KI muss über Übersetzung hinaus zu [[culturally-relevant-pedagogy|kulturell relevanter Pädagogik]] gelangen — Inhalte erzeugen, die sprachlich und kontextuell angemessen sind ([[llm-cultural-relevance-k12|K-12-Kulturrelevanz]]).
 - **KI mit mehrsprachigen Unterstützungsstrukturen paaren.** Nutzen Sie sprachdominante und mündliche Modi ([[kutti-ai-voice-first-learning-companion|sprachdominierte Begleiter]]), wo textbasierte KI versagt, und stützen Sie [[self-regulated-learning|Selbstregulation]] in bilingualen Kontexten ([[bilingual-llm-lecture-companion-srl-2026|bilingualer Vorlesungsbegleiter]]).
 - **Die digitale Kluft im Blick behalten.** Monolinguale Voreingenommenheit in der KI vertieft die [[digital-divide]] und untergräbt Zugang im [[global-south]] — planen Sie gerechte Infrastruktur und Zugang neben der Werkzeugwahl ein.
+- **Die Anpassungsarbeit fällt auf die Lehrkräfte.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] stellten fest, dass Hochschullehrende, die andere Sprachen als Englisch unterrichten, Prompts anpassen, die Sprache des Modells korrigieren, Inhalte kulturell rekontextualisieren und Werkzeuge wechseln — selbstverständlich und fortlaufend. Diese Arbeit wird durch die sprachliche Hierarchie auferlegt und nicht durch schwache digitale Kompetenz, und sie ist in Adoptionsstatistiken unsichtbar, die nur zählen, ob das Werkzeug genutzt wurde.
 
 ## Verbreitete Fehlvorstellungen
 

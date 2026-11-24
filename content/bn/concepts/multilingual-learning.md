@@ -7,9 +7,9 @@ technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/multilingual-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -53,11 +57,15 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 ট্রান্সল্যাঙ্গুয়েজিং এমন একটি সক্ষমতা যা জেনারেটিভ [[conversational-ai|চ্যাটবট]] যোগ করে, যা পূর্ববর্তী ভাষা-সরঞ্জামে ছিল না। 24টি গবেষণার একটি [[meta-analysis-systematic-review|পদ্ধতিগত পর্যালোচনায়]] শিক্ষার্থীরা নিজের ভাষায় প্রসঙ্গযুক্ত বাক্যাংশ ও ব্যাখ্যা চেয়েছেন লক্ষ্য-ভাষায় সেতু হিসেবে — পর্যালোচকেরা এই ব্যবহারকে পুনরায় মোড়কজাত নয়, বরং একটি নতুন উপ-সক্ষমতা হিসেবে শ্রেণিবদ্ধ করেন ([[genai-chatbots-language-learning-affordances-review-2026|লোপেজ ও আরাবাধি (2026)]]).
 
+সরঞ্জাম-আনুষ্ঠানিকতার ভাষা-খরচ পরিমাপযোগ্য: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari প্রমুখ (2026)]] দেখেন, ইংরেজি-শিক্ষার্থীরা স্ক্যাফোল্ডকৃত এজেন্ট-নির্মাণ টিউটোরিয়ালে মাতৃভাষীদের তুলনায় উল্লেখযোগ্যভাবে বেশি সময় কাটায়, অন্যদিকে মুক্ত ডিজাইন-কাজে কোনো পার্থক্য ছিল না।
+
+চারটি ভাষা দৈনন্দিন ব্যবহারে থাকা স্থানেও ইংরেজি আধিপত্য বিস্তার করে। কুরাসাও ও আরুবার 42 জন শিক্ষার্থীর মধ্যে দুই-তৃতীয়াংশ এআই-তে পছন্দমতো ভাষা হিসেবে ইংরেজি বলেছেন, আর শুধু GPT সেশনগুলোতেই সংলাপ স্থানীয় হলে Papiamentu-এর দিকে সরেছে ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush প্রমুখ (2026)]])।
+
 ## মূল্যায়ন-পক্ষপাত
 
 বহুভাষিক উদ্বেগ [[automated-assessment|স্বয়ংক্রিয় মূল্যায়নকেও]] প্রভাবিত করে: [[ai-scoring-language-bias-physics|এআই স্কোরিং ভাষা-পক্ষপাত দেখাতে পারে]] (যেমন [[physics-education|পদার্থবিজ্ঞানে]]), এবং অ-মাতৃভাষীদের শাস্তি দিতে পারে। মূল্যায়ন-সরঞ্জাম সব ভাষায় ন্যায্য কি না নিশ্চিত করা [[assessment-validity]]-এর অংশ।
 
-এলএলএম-ভিত্তিক তুলনামূলক বিচার এমন একটি দৃষ্টান্ত যেখানে পক্ষপাত মডেলের বদলে মানব-ভিত্তিরেখাকে অনুসরণ করেছে: তৃতীয় থেকে ষষ্ঠ শ্রেণির তথ্যমূলক লেখার স্কোর গবেষক-রুব্রিকের সঙ্গে মিলেছে (r = .59-.73) এবং বহুভাষিক শিক্ষার্থীদের জন্য মানব-স্কোরিংয়ের মতোই পূর্বানুমানমূলক পক্ষপাতের ধরন দেখিয়েছে, আর বেশি মডেল-সক্ষমতা বা খরচ বৈধতা উন্নত করেছে বলে কোনো প্রমাণ নেই ([[llm-comparative-judgment-writing-screening-2026|মার্সার ও রিড (2026)]]).
+এলএলএম-ভিত্তিক তুলনামূলক বিচার এমন একটি দৃষ্টান্ত যেখানে পক্ষপাত মডেলের বদলে মানব-ভিত্তিরেখাকে অনুসরণ করেছে: তৃতীয় থেকে ষষ্ঠ শ্রেণির তথ্যমূলক লেখার স্কোর [[rubrics|গবেষক-রুব্রিকের]] সঙ্গে মিলেছে (r = .59-.73) এবং বহুভাষিক শিক্ষার্থীদের জন্য মানব-স্কোরিংয়ের মতোই পূর্বানুমানমূলক পক্ষপাতের ধরন দেখিয়েছে, আর বেশি মডেল-সক্ষমতা বা খরচ বৈধতা উন্নত করেছে বলে কোনো প্রমাণ নেই ([[llm-comparative-judgment-writing-screening-2026|মার্সার ও রিড (2026)]]).
 
 ## বহুভাষিক প্রেক্ষাপটে শিক্ষকদের জন্য তাৎপর্য
 
@@ -66,6 +74,8 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 - **সংস্কৃতি ও প্রসঙ্গ প্রতিফলিত করুন, কেবল অনুবাদ নয়।** বহুভাষিক এআই-কে অনুবাদের বাইরে গিয়ে [[culturally-relevant-pedagogy|সাংস্কৃতিকভাবে প্রাসঙ্গিক শিক্ষাবিদ্যায়]] যেতে হবে — এমন বিষয়বস্তু তৈরি করতে হবে যা ভাষাগতভাবে ও প্রসঙ্গগতভাবে উপযুক্ত ([[llm-cultural-relevance-k12|K-12 সাংস্কৃতিক প্রাসঙ্গিকতা]])।
 - **এআই-কে বহুভাষিক সহায়তা-কাঠামোর সঙ্গে জোড়া দিন।** যেখানে পাঠ্য-ভিত্তিক এআই ব্যর্থ হয় সেখানে কণ্ঠ-প্রথম ও মৌখিক ধরন ব্যবহার করুন ([[kutti-ai-voice-first-learning-companion|কণ্ঠ-প্রথম সহচর]]), এবং দ্বিভাষিক প্রেক্ষাপটে [[self-regulated-learning|আত্ম-নিয়ন্ত্রণকে]] সহায়তা করুন ([[bilingual-llm-lecture-companion-srl-2026|দ্বিভাষিক বক্তৃতা-সহচর]])।
 - **ডিজিটাল বিভাজনের দিকে নজর রাখুন।** এআই-তে একভাষিক পক্ষপাত [[digital-divide]] গভীর করে এবং [[global-south]] জুড়ে প্রবেশাধিকার ক্ষুণ্ণ করে — সরঞ্জাম-পছন্দের পাশাপাশি সমতাপূর্ণ অবকাঠামো ও প্রবেশাধিকারের পরিকল্পনা করুন।
+
+- **অভিযোজনের শ্রম পড়ে শিক্ষকের ওপর।** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding ও Liu (2026)]] দেখেন, ইংরেজি ব্যতীত অন্য ভাষা শেখানোর বিশ্ববিদ্যালয়-শিক্ষকেরা প্রম্পট অভিযোজন করেন, মডেলের ভাষা সংশোধন করেন, বিষয়বস্তু সাংস্কৃতিকভাবে পুনঃপ্রসঙ্গিত করেন এবং সরঞ্জাম বদলান — সবই নিয়মিত কাজের মতো। এই শ্রম দুর্বল ডিজিটাল দক্ষতার বদলে ভাষাগত ক্রমশী঳তা দ্বারা চাপিত, এবং এটি অগ্রহণযোগ্য পরিসংখ্যানে অদৃশ্য যা গণনা করে শুধু সরঞ্জাম ব্যবহৃত হয়েছে কি না।
 
 ## সাধারণ ভুল ধারণা
 

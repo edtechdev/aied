@@ -1,5 +1,6 @@
 ---
 title: Універсальне проєктування навчання
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T21:30:00-04:00"
 type: concept
 foundations: [learning-design]
@@ -9,10 +10,14 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -22,7 +27,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -78,6 +83,8 @@ UDL перетворює «виправляй здобувача» на «вип
 - Забезпечте вибір продукту оцінювання (есе, презентація, відео, діаграма, код), узгодженого з тим самим навчальним результатом.
 - *Приклад:* Проєкт дозволяє здавати письмовий звіт, відеопояснення з підтримкою ШІ або живу демонстрацію — із підтримкою ШІ-[[scaffolding|скаффолдингу]] для кожного режиму. У проєктуванні [[assessment]] це паралельно репрезентаційній справедливості [[authentic-assessment]].
 
+Вибір включає лише тоді, коли варіанти виглядають однаково переконливо. Студенти в одному дослідженні на факультеті наук любили вибирати між відео та есе, але повідомляли, що однокурсники побоювалися, що есе оцінять гірше, тож спільні критерії та пояснена логіка оцінювання — це те, що перетворює меню форматів на інклюзію, а не на стратегічне вгадування ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Проєктуйте для ШІ-грамотності та агентивності.**
 - Навчіть студентів, як і коли використовувати ШІ, і створюйте контрольні точки, які зберігають відповідальність за здобувачем (а не інструментом) — див. [[ai-literacy]] і [[reducing-ai-misuse]].
 - *Приклад:* Завдання, узгоджене з UDL, дозволяє студентам використовувати ШІ для чернетки, але вимагає [[metacognition|метакогнітивної]] рефлексії щодо власного внеску, зберігаючи принципи залучення та агентивності.
@@ -87,6 +94,8 @@ UDL перетворює «виправляй здобувача» на «вип
 - Остерігайтеся ШІ, який припускає єдиний стиль комунікації або штрафує нейровідмінне самовираження, — звертайтеся до [[accessibility]], [[equity-in-ai-education]] та [[neurodiversity]].
 
 - **Спрямовуйте функціональні бар’єри, а не діагнози.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] виявили, що корпус із 40 досліджень асистивних технологій для нейровідмінних студентів організований навколо пристосувань і інструментів, обмежених діагнозом, і стверджують, що саме проєктування під ті міжгалузеві бар’єри, з якими студенти реально стикаються, робить інструмент можливо універсальним.
+
+**Еквівалентність без однаковості.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] поширюють меню UDL на рефлексивну роботу з підтримкою ШІ: студенти мають мати порівняльні шляхи — текстову або аудіорефлексію, маршрут із ШІ або без нього, синхронну людську підтримку, прозорі критерії, які не винагороджують технічну плинність, не пов’язану з метою, — і, що важливо, застосовні права, змістовний вибір здобувача та базова доступність є некомпенсаційними передумовами, а не балами, які сильний результат в іншому може компенсувати. Принцип — «еквівалентність без однаковості»: можна використовувати різні медіа чи рівні автоматизації, але вони мають давати порівняльну можливість досягти того самого результату, а інклюзію слід закладати в проєктування, а не трактувати як пристосування заднім числом.
 
 ## Поширені хибні уявлення
 

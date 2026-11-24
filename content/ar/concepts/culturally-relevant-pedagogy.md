@@ -1,7 +1,7 @@
 ---
 title: البيداغوجيا المرتبطة ثقافياً
 created: "2026-10-13T00:06:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]

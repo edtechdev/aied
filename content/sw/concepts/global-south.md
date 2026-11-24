@@ -1,5 +1,6 @@
 ---
 title: Kusini ya Dunia
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T06:20:00-04:00"
 type: concept
 foundations: [ai-literacy]
@@ -8,10 +9,14 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
@@ -35,17 +40,18 @@ connected_articles: [genai-assessment-african-higher-education-review-2026, aden
 
 ## Utangulizi
 
-### Kwa Nini Ni Muhimu kwa AIED
+## Kwa Nini Ni Muhimu kwa AIED
 
 Utafiti wa kawaida wa AI na wa teknolojia ya elimu umeelekezwa kihistoria na data za Magharibi na za Kiingereza na miktadha ya [[governance|taasisi]]. Hii huunda matatizo mawili: (1) [[ai-technologies|mifumo ya AI]] iliyofunzwa kwa data kama hiyo inaweza kufanya vibaya au kutowakilisha wanafunzi katika mazingira ya Kusini ya Dunia, na (2) vigezo vya [[benchmark]] vilivyojengwa katika Kaskazini ya Dunia vinaweza kutowakilisha uhalisia wa elimu, lugha, au mila za maarifa za mikanda mingine. Utafiti kutoka miktadha ya Kusini ya Dunia katika hifadhi hii ya maarifa unajumuisha data zilizojengwa kwa kitamaduni, vigezo, na masudio ya matumizi ya teknolojia, yenye athari kwa [[ai-literacy]] na elimu ya [[higher-ed|chuo kikuu]] na ya [[k-12|K-12]].
 
-### Matumizi katika Hifadhi ya Maarifa
+## Matumizi katika Hifadhi ya Maarifa
 
 - **Data na vigezo vilivyojengwa kwa kitamaduni:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] hutoa seti ya data ya maelekezo ya [[multilingual-learning|lugha nyingi]] ya Mifumo ya Maarifa ya India; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] inaleta kigezo cha [[stem-education|STEM]] cha Ghana, mojawapo ya seti za kwanza za tathmini ya elimu za Kusini ya Dunia.
 - **Ufahamu wa maadili ya AI katika elimu ya juu ya Ghana:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] walithibitisha kipimo cha ufahamu wa maadili ya AI cha vipimo vitatu (uhuru, wema, haki) na wanafunzi 509 wa [[higher-ed|chuo kikuu]] nchini Ghana, wakipata profaili tano zilizofichwa kutoka ufahamu wa juu sana wa usawa hadi kundi dogo chenye karibu hakuna — dhaifu zaidi kwa wema — na bila tofauti za jinsia, wakitoa kigezo cha kupima cha Kusini ya Dunia kwa fasihi ya [[ethics]] ya AI.
 - **Mantiki ya maadili ya walimu katika miktadha ya nyenzo chache:** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et al. (2026)]] waligundua kuwa walimu wa sekondari wa STEAM wanaohudumu katika miktadha wa nyenzo chache wanafikiri kuhusu maadili ya AI kupitia utambulisho wa kitaaluma, uhalisia wa darasa, na mila za kitamaduni badala ya orodha rasmi za kanuni, wakipinga dhana za "maadili matupu" kuhusu Kusini ya Dunia.
 - **Kukubalika kwa muktadha:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] wanaunda mfano wa matumizi ya [[generative-ai|GenAI]] miongoni mwa wanafunzi wa [[engineering-education|uhandisi]] wa Bangladeshi, na [[connected-ai-lesson-planning-vietnam|ConnectED]] inatekeleza mfumo wa kupanga masomo unaolingana na [[curriculum-design|mtaala]] kwa elimu ya Vietnam.
 - **Ujenzi wa uwezo, sio miundo msingi, ulihamisha kukubalika kwa wataalam.** Miongoni mwa wataalam 255 wa Bangladeshi, mtazamo kuelekea GenAI ulitabiri kwa nguvu matumizi (β = 0.556) na ufaao wa mahususi wa taaluma ulichochea mtazamo (β = 0.413), huku utoaji wa teknolojia ya taasisi na mila za kihisia zisizokuwa vigezo muhimu ([[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et al. (2026)]]).
+- **Ujuzi wa AI kwa msingi wa utambulisho katika elimu ya Kiafro-Ekuadoria:** washiriki 90 wa kielimu, vijana na jamii hii katika Esmeraldas walikadiria utambulisho wa kiafro-desendenti kwa juu zaidi (M = 4.72) na ujuzi wa kukosoa AI kwa chini zaidi (M = 4.60), na kikundi cha washiriki watatu kilichunguza kilifafanua matumizi ya wakati mmoja na yaliyopimwa kwa kazi ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 - **Ujumuishaji wa taasisi na ukosefu wa usawa wa muundo:** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]]' uchanganuzi wa kulinganisha maudhui ya vyuo 45 vya Nigeria (shirikisho/jimbo/binafsi) uligundua kuwa ujumuishaji wa AI unatabiriwa na umri wa taasisi na eneo la kijiografia — si aina ya utawala — na kuwa viungo vya mtandao wa kimataifa na wa viwanda vinaimarisha kila mmoja (r = 0.74), hivyo taasisi zilizounganishwa vizuri huongeza faida huku zingine zikiongeza kuachwa nyuma. Inaweka [[digital-divide|ukosefu wa usawa wa kidijitali]] si tu katika kiwango cha mwanafunzi bali katika uwezo wa muundo wa taasisi za [[higher-ed|elimu ya juu]] zenyewe.
 - **[[educational-development|Maendeleo ya kitaaluma]] kama upatanishi wa kidijitali chini ya kizuizi cha muundo:** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] anahoji wataalam kumi na wawili wa maendeleo ya kitaaluma na wabuni wa kujifunza katika taasisi mbili za Kihistoria za Afrika Kusini zilizokuwa na hasara na anatoa mstari wa kuchanganua ambao fasihi ya Kusini ya Dunia mara nyingi huchanganya: **ukosefu wa usawa wa kidijitali** ni wa kugawa na unaweza kujibiwa kwa kanuni kupitia mgawanyo upya na upatikanaji, huku **ukoloni wa algoriti** ukiwa wa maarifa na ukiendelea hata chini ya upatikanaji kamili kwa sababu unategemea kile mifumo inaweka na maarifa ya nani yanayowekwa katikati. Yote mawili yamechanganyika lakini yanahitaji majibu tofauti, na taasisi imewekwa mara mbili — imetengwa na upungufu wa miundo msingi, na, ikijumuishwa, imedhalilishwa na mifumo iliyoletwa ambayo huweka maarifa na mila za wengine. Hotari ya AI ya taasisi ("utendaji zaidi ya mazoezi") ilifika bila muunganisho thabiti na uhalisia wa nyenzo wa kufundisha, hivyo wataalam walihamisha mazungumzo ya mabadiliko ya kidijitali ya ulimwengu kuwa mazoezi yanayofaa kwa muktadha: kupima na kuvunja zana kwa makusudi katika nafasi za marika, kusisitiza hukumu juu ya ujuzi, na kuchukua gharama ya kihisia ya kuonyesha utaalam ambao bado waliupata.
 - **Kutengwa kwa maarifa:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] anadai kuwa data ya mafunzo inayoelekea Magharibi inatenga maarifa yasiyo ya Magharibi na yanayozingatia ulemavu — kuunganisha wasiwasi wa Kusini ya Dunia na [[equity-in-ai-education]] na [[culturally-relevant-pedagogy]].
@@ -55,7 +61,7 @@ Utafiti wa kawaida wa AI na wa teknolojia ya elimu umeelekezwa kihistoria na dat
 
 - **Usawa ni kipimo kisichochunguzwa zaidi katika mikanda yote.** [[meta-analysis-systematic-review|Mapitio ya PRISMA-ScR]] ya masudio 75 ya Kusini ya Dunia (2022–2025) yaligundua usawa kuwa kipimo kisichochunguzwa zaidi katika maeneo yake matano licha ya umuhimu wake kwa elimu ya ujumuishaji, na yaliripoti pengo kati ya msimamo wa maadili ulioelezwa na wanafunzi na tabia yao ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
 
-### Athari
+## Athari
 
 Kuzingatia miktadha ya Kusini ya Dunia kunahitaji kuenda zaidi ya kudhani kuwa mifano na vigezo vya Magharibi vinahamishika moja kwa moja. Inahitaji data zilizojengwa mahali pa kitu, [[pedagogy]] inayofaa kitamaduni, viwango vya tathmini vinavyozingatia jamii, na utafiti unaochukua maarifa ya maisha na ya jamii ya wanafunzi kama yenye mamlaka — yakilingana na miundo kama kujifunza AI kwa msingi wa jamii na utafiti wa [[technology-acceptance-model|kukubalika kwa teknolojia]] uliobadilishwa kuendana na masharti ya mahali pa kitu.
 

@@ -1,7 +1,7 @@
 ---
 title: Bias di automazione
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -10,13 +10,17 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -72,6 +76,8 @@ L'enunciato più chiaro del meccanismo è nel lavoro rivolto agli insegnanti. [[
 
 Il divario più netto è nel punto del giudizio. [[human-in-the-loop-ai-scoring-national-assessment-2026|Lo studio sull'attribuzione dei punteggi nella valutazione nazionale (2026)]] fa rivedere ai valutatori punteggi automatici, e i suoi autori nominano direttamente il meccanismo non testato: se i valutatori a cui si mostrano punteggi IA prima del giudizio ne siano ancorati o vi si rimettano non è misurato, e propongono come passo successivo esperimenti con valutatori in cieco contro non in cieco. La pretesa di umano nel ciclo in quel disegno è dunque un'assunzione, non un risultato — ed è la versione buona del disegno.
 
+Un esperimento di supervisione della sicurezza fornisce ora la misurazione in un contesto adiacente. Su 416 valutatori e 3.957 item, presentare i candidati del modello prima della risposta umana ha ridotto l'accuratezza dei valutatori sugli item sbagliati dal modello dal 36,7% al 20,6%, mentre l'accuratezza è salita di 7,3 punti sugli item corretti ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). I valutatori sono diventati più accurati nel complesso e meno capaci di intercettare gli errori che erano lì per intercettare, che è il bias operante come sospettavano gli autori dello studio sulla valutazione nazionale: la risposta della macchina fissa il quadro, e l'umano si adatta al suo interno.
+
 ### Dashboard analitiche e la pretesa dell'umano nel ciclo
 
 [[in-the-loop-educational-ai-learning-sciences-2026|La rassegna sulle scienze dell'apprendimento dell'IA educativa nel ciclo (2026)]] dà al fenomeno la sua forma generale: le dashboard inferiscono la partecipazione dai clic, il [[writing-education|feedback automatico sulla scrittura]] privilegia i tratti superficiali rispetto all'argomentazione, e i semafori di allerta precoce pre-interpretano le traiettorie. Il bias di automazione aggrava ciascuno di essi, e la rassegna tratta la [[trust|fiducia]] come un esito sociotecnico plasmato da trasparenza, competenza percepita e un diritto sostanziale di sovrascrivere, anziché come un atteggiamento stabile.
@@ -93,6 +99,8 @@ Due articoli sostengono che il contrappeso è una disposizione, non una regola. 
 ### Quando il bias è nominato come rischio anziché misurato
 
 Una parte consistente del corpus elenca il bias di automazione in un modello di minaccia senza testarlo, e la distinzione conta per quanto peso il concetto può portare. [[ahmadfard-interactive-oer-review-2026|La rassegna sulle OER interattive (2026)]] lo include tra i rischi ricorrenti che erodono l'agentività di chi apprende e degli insegnanti, elencati anziché misurati. [[alshahrani-health-sciences-ai-use-2026|L'indagine sulle scienze della salute (2026)]] legge le preoccupazioni [[ethics|etiche]] di 310 studenti come argomento per una [[professional-training|formazione professionale]] che copra esplicitamente il bias di automazione. [[ai-literacy-legal-translation-2026|Lo studio sulla traduzione giuridica (2026)]] chiede che post-editing e verifica siano insegnati come competenze valutate, nominando le pressioni del bias di automazione e dell'illusione di qualità che rendono facili da mancare gli errori di traduzione. [[morales-cevallos-ai-forensic-science-education-2026|La rassegna sulle scienze forensi (2026)]] trova il bias di automazione documentato negli studi inclusi e propone esercizi basati su casi costruiti a partire da fallimenti riportati. [[rana-genai-design-thinking-2025|Lo studio sul design thinking (2025)]] lo trasforma in un requisito progettuale: [[scaffolding|impalcature]] che tengono il giudizio umano al centro, contrastando sia lo scarico sia il bias di automazione.
+
+Un bias diverso sta nell'output piuttosto che nell'utente. A Esmeraldas, Ecuador, 90 attori educativi e comunitari hanno descritto strumenti di immagine che alteravano il tono della pelle, la texture dei capelli e i tratti dei partecipanti afro-ecuadoriani, uno dei quali lo ha definito "una forma di razzismo, anche se digitale" — un danno rappresentazionale che nessuna metrica di accuratezza registra ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Dove l'evidenza è sottile, mista o invertita
 

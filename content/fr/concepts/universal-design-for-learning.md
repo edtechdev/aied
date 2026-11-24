@@ -1,7 +1,7 @@
 ---
 title: "Conception universelle de l'apprentissage"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]

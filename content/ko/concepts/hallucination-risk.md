@@ -1,7 +1,7 @@
 ---
 title: 환각 위험
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,16 +11,20 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -50,7 +54,7 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 평가 설계 파일럿에서 [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]]는 반복된 프롬프트에도 살아남고 상당한 학술적 수정을 요구한 날조된 참고문헌과 비현실적인 시간 추정을 발견했습니다. 학생 작업이 아니라 교육자용 초안 도구에서의 환각입니다.
 
-**생성과 재형식화는 다르게 실패합니다.** 페로브스카이트 태양전지에 관한 IEEE 형식 참고문헌 목록을 요청받자, ChatGPT는 저자들이 대부분 환각이거나 잘못 인용된 것으로 확인한 항목들을 돌려주었습니다. 잘못된 이니셜, 연도, 권호, 페이지, 그리고 그 연구를 수행한 적 없는 그룹에 귀속된 그럴듯해 보이는 논문 한 편이 있었습니다([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra와 Gong, 2026]]). 대신 이미 검증된 참고문헌 집합을 APA로 변환하라고 요청했을 때, 같은 도구는 정확했고 상당한 시간을 절약해 주었습니다. 위험은 서지 작업이 아니라 출처 확보에 있으며, 이는 과제 루브릭이 명시할 수 있는 경계선입니다.
+**생성과 재형식화는 다르게 실패합니다.** 페로브스카이트 태양전지에 관한 IEEE 형식 참고문헌 목록을 요청받자, ChatGPT는 저자들이 대부분 환각이거나 잘못 인용된 것으로 확인한 항목들을 돌려주었습니다. 잘못된 이니셜, 연도, 권호, 페이지, 그리고 그 연구를 수행한 적 없는 그룹에 귀속된 그럴듯해 보이는 논문 한 편이 있었습니다([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra와 Gong, 2026]]). 대신 이미 검증된 참고문헌 집합을 APA로 변환하라고 요청했을 때, 같은 도구는 정확했고 상당한 시간을 절약해 주었습니다. 위험은 서지 작업이 아니라 출처 확보에 있으며, 이는 과제 [[rubrics|루브릭]]이 명시할 수 있는 경계선입니다.
 
 **전략적 [[misconceptions]]**은 노골적인 환각의 더 미묘한 친척입니다. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]]은 일곱 개의 오픈 웨이트 모델에게 핵심 컴퓨터 과학 개념 35개에 대한 "[[socratic-method|소크라테스식]] 함정", 즉 유창하고 권위 있으면서 미묘한 도메인 특정 오류 위에 서 있는 설명을 만들어 내도록 프롬프트했고, 세 명의 도메인 전문가가 프롬프트된 241개 구간 중 221개(91.7%)를 전략적 오개념으로 확인했으며, CS 도메인 간 유의미한 차이는 없었습니다. 오류는 주로 개념적이었고(66.5% 대 33.5%) 순수하게 논리적인 것은 없었으며, 5점 척도에서 중간에서 높은 수준으로 설득력 있다고 평가되었고(M = 3.71), 모델 정체성이 분산의 43%를 설명했습니다. 개별 진술은 옳으면서도 진술 사이의 관계가 틀릴 수 있기 때문에, 팩트체크는 불충분합니다. 저자들은 [[ai-literacy|학습자]]들에게 개념적 검증과 심적 모형 확인이 필요하다고 주장합니다. 그들은 또한 이 비율이 일상적 사용에서 그런 오류의 유병률이 아니라 적대적 [[prompt-engineering|프롬프트]] 아래에서의 능력을 측정한 것이며, 학생이 시험되지 않았으므로 기만이나 학습 결과는 측정되지 않았다고 주의합니다.
 
@@ -65,6 +69,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **무신뢰로 표시된 것이 보고된 의존을 높이지 않고 낮췄다.** 546명의 참가자가 조작된 정보를 담은 것으로 표시된 동일한 GAI 대화를 읽었을 때, 날조된 표시는 더 낮은 [[trust]]와 인지된 통제 가능성, 더 높은 인지 부조화와 좌절과 나란히 *더 낮은* 의존 점수를 낳았습니다(M = 2.935 대 3.254)([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). 이 결과는 이 페이지의 과의존 논리를 제한합니다. 산출물이 날조되었을 수 있다는 것을 보는 것이 그것에 계속 기대는 것과 같은 것은 아닙니다.
 
 **신뢰도 단서는 오히려 복종을 키울 수 있다.** 신뢰할 수 없는 산출물이 겉모습을 갖추면 반대 방향의 움직임이 나타납니다. ARMADA 토론 인터페이스에 인용과 신뢰도 신호를 더하자, 참가자가 올바른 초기 판단에서 벗어나 틀린 AI 입장으로 옮겨 간 비율이 112% 높아졌으며(31.8% 대 15.0%), 수동 점검 결과 인용된 사례 중 일부는 무관하거나 허구의 참고문헌에 잘못 귀속되어 있었습니다([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+뚜렷이 구별되는 실패 양상은 부정한 문제(ill-posed problem)입니다. [[bauyrzhan-genai-inorganic-chemistry-verification-2026|세 챗봇을 대상으로 한 무기화학 문항 42개의 탐색적 벤치마크]]에서, 모든 챗봇은 결함이 있는 진술에 대해 결함을 표시하거나 확인을 요청하거나 거부하지 않고 자신 있게 답변했으며, 불확실성 표지는 결론에 도달하지 못했습니다. 그 실패는 틀린 답이 아니라 침묵 속에 받아들여진 거짓 전제입니다.
 
 ## 흔한 오해
 

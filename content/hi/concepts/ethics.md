@@ -1,7 +1,7 @@
 ---
 title: "नैतिकता"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-19T10:16:37-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -64,6 +64,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **उपयोग नैतिक सहमति से तेज़ी से बढ़ता है।** एक US [[teacher-education|शिक्षक-शिक्षा]] कार्यक्रम में चार सेमेस्टरों में, छात्रों का GenAI उपयोग मूल्यांकन तैयारी के लिए 57% से 83% और अध्ययन के लिए 44% से 76% चढ़ा, जबकि 'अनिश्चित' नैतिक प्रतिक्रियाँ लगातार बढ़ीं और AI उपयोगकर्ताओं ने इसका शैक्षणिक उपयोग गैर-उपयोगकर्ताओं से अधिक नैतिक माना ([[longitudinal-ai-usage-ethics-policy-teacher-education-2026|Parker et al. (2026)]])।
 - **मानदंडीय ढाँचे परस्पर विनिमेय नहीं हैं।** 151 स्पेनी स्नातक छात्रों में, नैतिक समानता परीक्षा तैयारी में LLM का उपयोग करने के इरादे के लिए एक आवश्यक शर्त थी (d = 0.338) लेकिन पर्याप्त भविष्यवक्ता नहीं थी, जबकि परिणामवादी (β = 0.350) और कर्तव्यवादी (β = 0.329) निर्णय थे — छात्र कई मानदंडीय ढाँचे एक साथ लागू करते हैं ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]])।
 - **एक साझा बहुआयामी संरचना।** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] के छह विषय — जो डेटा नैतिकता, एल्गोरिदम नैतिकता और शिक्षाशास्त्रीय नैतिकता तक फैले हैं — मौलिक सिद्धांतों (पारदर्शिता, जवाबदेही, निष्पक्षता, स्वायत्तता) से व्यावहारिक परिणामों तक एक परस्पर-जुड़ी कारण-श्रृंखला बनाते हैं, और यह रेखांकित करते हैं कि उत्तरदायी AI उपयोग व्यक्तिगत जागरूकता जितना ही स्पष्ट संस्थागत रोडमैप पर निर्भर करता है।
+
+- **नैतिक अनुभूति शैक्षिक स्तर के साथ बढ़ती है।** [[licardo-students-ethical-challenges-genai-2026|Licardo और Šindić (2026)]] ने प्राथमिक, माध्यमिक और उच्च शिक्षा के 1,299 स्लोवेनियाई छात्रों का सर्वेक्षण किया और पाया कि GenAI की नैतिक चुनौतियों का अनुभूत महत्व स्तर के साथ निरंतर बढ़ा। स्व-मूल्यांकित AI ज्ञान और परिचितता से कोई विश्वनीय अंतर नहीं रहा, इसलिए नैतिक चिंता को व्यक्तिगत पूर्व-ज्ञान से नहीं, स्तर के अक्ष से व्यवस्थित किया गया।
 
 **नैतिकता क्षेत्र के केंद्र में है पर शायद ही कभी एक परिणाम है।** 394 GenAI उच्च-शिक्षा अध्ययनों में, नैतिकता और शैक्षणिक सत्यनिष्ठा उन परिणामों में थे जिन्हें सबसे कम लक्षित किया गया, और शासन प्रथाएँ कम रिपोर्ट की गईं ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]])।
 

@@ -7,9 +7,9 @@ connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learn
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/neurodiversity"
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -81,9 +85,13 @@ connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-
 - **শ্রেণি-সীমানা গবেষণাভেদে ভিন্ন,** তাই "একই" নিউরোটাইপের আন্তঃগবেষণা তুলনা সীমিত — আর মেটা-বিশ্লেষণের শ্রেণি-মধ্যবর্তী পার্থক্যগুলো অ-উল্লেখযোগ্য হিসেবে প্রতিবেদিত।
 - **ক্ষেত্রের নিজের পর্যালোচকেরাই এটিকে প্রযুক্তি-চালিত বলেন,** যার অর্থ নকশা-নির্দেশনা যেখানে সবচেয়ে জোরালো, হস্তক্ষেপ-প্রমাণ ঠিক সেখানেই পাতলা।
 
+- **এখন জেনারেটিভ এআই ব্যবহারের জন্য একটি তুলনাকারী গবেষণা আছে।** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji প্রমুখ (2026)]] নিউরোডেভেলপমেন্টাল ডিসঅর্ডারসহ ও ছাড়া 477 জন জাপানি বিশ্ববিদ্যালয় ও স্নাতকোত্তর শিক্ষার্থীকে জরিপ করেন এবং সাপ্তাহিক ব্যবহার, স্ব-মূল্যায়িত দক্ষতা, অনুভূত সুবিধা ও সহায়তার প্রয়োজনীয়তায় দুই দলের মধ্যে কোনো উল্লেখযোগ্য পার্থক্য পাননি। কেবল কণ্ঠ ও ইমেজ-নির্ভর মিথস্ক্রিয়া DD দলে সামান্য বেশি ছিল, তাই উপরের একক-গোষ্ঠী ফাঁকের এখন একটি সরাসরি তুলনাকারী আছে।
+
 ## সংযোগ
 
 নিউরোডাইভার্সিটি যুক্ত [[special-education|বিশেষ শিক্ষা]], [[inclusive-learning|অন্তর্ভুক্তিমূলক শিখন]], [[universal-design-for-learning|শিখনের সার্বজনীন নকশা]] ও [[equity-in-ai-education|এআই শিক্ষায় ন্যায্যতার]] সঙ্গে। এটি [[student-experience|শিক্ষার্থী-অভিজ্ঞতার]] জন্য এআই কীভাবে মোতায়েন হয়, এবং মূল্যায়ন ও সাক্ষরতা-কর্মসূচি সংজ্ঞানাত্মক বৈচিত্র্য জুড়ে ন্যায্যভাবে নকশা করা হয় কি না — দুটোই জানায়। এই ফলাফলগুলো অন্য শিক্ষার্থী-গোষ্ঠীর (ভাষা, লিঙ্গ, আর্থসামাজিক অবস্থা, ভূগোল) পাশে কীভাবে বসে তা দেখুন [[differential-effects-across-learner-groups|শিক্ষার্থী-গোষ্ঠীভেদে পার্থক্যমূলক প্রভাব]]-এ।
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh ও Natoli-এর]] 28টি গবেষণা নিয়ে এআই-সহ কলেজ-শিক্ষার্থীদের জন্য একটি পর্যালোচনা সমর্থন, পূর্বাভাস ও নৈতিকতায় ভাগ করে। পূর্বাভাস সবচেয়ে পাতলা অংশ: একটি পিউপিলোমেট্রিক মডেল AUROC 0.856-এ পৌঁছায়, অথচ একটি SVM শ্রেণিবিন্যাসকারী ৬৬.১ থেকে ৬৮.৮ শতাংশ নির্ভুলতা পায়, চিকিৎসা-ব্যবহারিকতার নিচে। নির্বাহী-কার্যক্রমের বিনিময়টিই নৈতিকতার কেন্দ্র — এমন একটি সরঞ্জাম যা একটি চাহিদার প্রতিবেদন করে তা একইসঙ্গে সেই অনুশীলনও শোষণ করতে পারে যা ক্ষমতা গড়ত পারত ([[executive-function|নির্বাহী কার্যক্রম]])।
 
 ## সাধারণ ভ্রান্তধারণা
 

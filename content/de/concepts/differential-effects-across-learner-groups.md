@@ -1,7 +1,7 @@
 ---
 title: Unterschiedliche Effekte zwischen Gruppen von Lernenden
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -25,8 +25,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
-connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
+connected_articles: [ada-female-coded-chatbot-gender-stereotypes-2026, adhd-video-segmentation-computing-education, ai-divide-ses-personality-primary-education-2026, ai-tutoring-micro-rct-gcse-science-2026, all-girls-genai-makerspace-gender-equity-2026, arc-hubs-k12-ai-robotics-rural-2026, assistive-tech-neurodivergent-higher-ed-review-2026, bjet-genai-engagement-minority-ethnic-students-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, demographic-signals-llm-student-assessment-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, fairness-theatre-early-warning-systems-2026, genai-minoritized-knowledges-disability, gender-bias-transfer-llm-writing, hadra-ai-detector-accuracy-efl-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, marked-pedagogies-linguistic-bias-writing-feedback, nagy-ai-use-domestic-international-students-2026, neurodivergent-computing-students, petricini-ai-literacy-communication-equity-2026, porcaro-ai-grader-reliability-2026, porcaro-ai-grading-benchmark-2026, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, student-ai-inquiry-types-cs2-2026, student-attention-estimation-fairness-2026, wang-genai-metacognitive-prompting-preconceptions-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -124,7 +128,8 @@ Der ehrliche Befund dieser Übersicht ist, wie dünn manche Gruppen sind. Jede d
 - **Studierende der ersten Generation:** eine Studie berichtet einen Nutzungsunterschied statt einen Effekt. In [[student-ai-inquiry-types-cs2-2026|einer CS2-Anfragestudie]] behandelten Studierende der weiterführenden Generation die KI als aktive [[problem-solving|Problemlöse]]-Partnerin, während Studierende der ersten Generation eine bestätigende, validierungsorientierte Rolle einnahmen und insgesamt weniger Fragen stellten.
 - **Studierende der ersten Generation: die erste Effektschätzung, und sie läuft in die falsche Richtung.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]s [[rct|randomisierte Studie]] eines kursintegrierten [[intelligent-tutoring|KI-Tutors]] liefert, was dem Eintrag oben fehlt — einen gemessenen Unterschied statt ein Nutzungsmuster. In der vollen Stichprobe war der Effekt des Tutorzugangs auf die Abschlussnoten für Studierende der ersten Generation um 2.87 Punkte (0.28 SDs) negativer, was −5.10 Punkte (−0.50 SDs) für sie gegenüber −2.23 Punkten (−0.22 SDs) für ihre Peers impliziert; der Unterschied war in der Exakt-Match-Stichprobe größer (−3.89 Punkte, −0.35 SDs), und Studierende der ersten Generation verloren auch mehr Hausaufgabpunkte und Plattform-Seitenaufrufe. Die Studie berichtet keinen Mechanismus und ihre Präzision variiert nach Ergebnis, aber die Richtung ist das Gegenteil der Lücke-schließenden Geschichte: die Studierenden mit dem geringsten früheren Zugang zu [[student-support-and-success|akademischer Unterstützung]] trugen die größte gemessene Kostenlast.
 - **Internationale Studierende:** eine [[mixed-methods-research|Mixed-Methods]]-Studie (Befragung n = 60, Interviews n = 14) zu [[international-students-conversational-ai-adaptation|Unterstützung bei kultureller Anpassung]].
-- **Internationale Studierende: ein gemessenes Engagementmuster, keine Effektschätzung.** Über 270 minoritäre ethnische internationale Studierende in sieben britischen [[business-education|Business Schools]] war berichtete [[generative-ai]]-Nutzung positiv mit allen vier [[student-engagement|Engagement]]-Strängen assoziiert — am stärksten mit agentischem Engagement (β = 0,429) —, wobei erleichternde Bedingungen (β = 0,369) der stärkste Prädiktor der Nutzungsabsicht waren ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
+- **Internationale Studierende: ein gemessenes Engagementmuster, keine Effektschätzung.**
+- **Internationale und im Lande beheimatete Studierende an derselben Hochschule.** [[nagy-ai-use-domestic-international-students-2026|Nagy, Lukács und Torkos (2026)]] befragten 767 Studierende an einer ungarischen Universität und fanden, dass die rohe Häufigkeitslücke zwischen im Lande beheimateten und internationalen Studierenden nach Adjustierung für Alter und Geschlecht verschwand, während die Lücke in der Breite der Nutzung bestehen blieb. Eine Clusteranalyse gewann dann vier Nutzerprofile, die über beide Gruppen verteilt waren, sodass das Gruppenlabel die Breite der Nutzung vorhersagte statt die Menge. Über 270 minoritäre ethnische internationale Studierende in sieben britischen [[business-education|Business Schools]] war berichtete [[generative-ai|generative KI]]-Nutzung positiv mit allen vier [[student-engagement|Engagement]]-Strängen assoziiert — am stärksten mit agentischem Engagement (β = 0,429) —, wobei erleichternde Bedingungen (β = 0,369) der stärkste Prädiktor der Nutzungsabsicht waren ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **Begabte und leistungsstarke Studierende:** als Gruppe in diesem Korpus praktisch unerforscht.
 - **Geflüchtete, migrantische und vertriebene Lernende:** keine Studien.
 - **Geschlecht wird in den meisten der obigen Arbeiten noch binär analysiert**, und Behinderungskategorien variieren zwischen Studien, sodass studienübergreifender Vergleich „derselben“ Gruppe Grenzen hat.

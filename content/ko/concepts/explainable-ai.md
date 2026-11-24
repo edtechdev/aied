@@ -1,7 +1,7 @@
 ---
 title: 설명 가능한 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [trust-calibration, trust, ai-literacy, learning-analytics, automated-assessment, student-modeling, intelligent-tutoring, knowledge-tracing, bias-mitigation, human-in-the-loop-ai, pedagogical-safety, metacognition, self-regulated-learning, cognitive-offloading, privacy, regulation, recommender-systems-and-learning-paths]
 connected_articles: [kares-xai-evaluation-alignment-2027, lund-socially-accountable-data-science-xai-2026, ko-hughes-vsd-student-centered-its-2026, xai-education-framework, xai-teachers-trust-edtech-recommendations-2026, student-perspectives-ai-writing-grading-2026, huang-interpretable-knowledge-tracing-2026, explainable-probabilistic-kt, neural-symbolic-knowledge-tracing, distilling-self-explaining-lm-learning-analytics-2026, villegas-ch-federated-explainable-learning-analytics-2026, sc2r-counterfactual-recourse-educational-2026, fair-explainable-edu-recommendations, multimodal-affective-its-presentation, jacome-vasconez-chatgpt-adoption-xai-2026, li-explainable-trustworthy-llm-teacher-assessment-2025, humble-prompt-injection-ai-grading-red-team-2026, bloom-classifier-ai-assisted-questions-2026, decision-making-agent-student-decision-acceptance-2026, tuo-armada-multi-agent-debate-overreliance-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
@@ -82,7 +86,7 @@ XAI-ED 프레임워크는 주요 설명 양상들을 목록화합니다. **시�
 
 두 가지 주의가 이것을 더 날카롭게 합니다. 이 둘 모두 이 주제에 관한 위키의 최신 기여가 중심에 두는 것입니다. 첫째, 설명 기계 그 자체가 중립적이지 않습니다. LIME과 SHAP 같은 사후 방법은 모델의 실제 행동에 충실하지 않을 수 있으므로, 기술적으로 존재하는 설명이 정보를 주기는커녕 오도할 수 있습니다([[lund-socially-accountable-data-science-xai-2026|Lund et al. 2026]], Chuan et al. 2024에 기대어). 둘째, **설명은 책임이 아니다**. 어떤 특징이 예측을 이끌었는지에 대한 설명은, 그 특징들을 사용하는 것이 적절했는지, 훈련 데이터가 대표적이었는지, 시스템의 설계가 건전한 판단을 반영했는지를 밝히지 않습니다. 설명은 결정을 만들어 낸 구조적 조건은 손대지 않은 채 투명성의 외양을 만들어낼 수 있습니다(Mittelstadt et al. 2019). 교육을 위해 이것은 물어야 할 질문이 설명이 산출되었는지가 아니라, 그것을 받는 사람 — 학생, 교사, 상담가 — 이 그것을 이해하고, 그것에 기반해 행동하고, 그것의 배후 결정에 이의를 제기할 수 있었는지라는 뜻입니다. 같은 가독성의 실패는 [[automated-assessment|자동 평가]]의 보안 쪽에도 나타납니다. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)의 AI 채점 도구 레드팀 평가]]는 그것이 프롬프트 인젝션을 차단한 뒤 대화를 조용히 비활성화하면서도 — 임베디드 지시를 결코 따르지 않겠다고 공지한 뒤 — 같은 파일에 대한 여섯 번의 추가 실행에서 그것들을 따랐음을 발견했습니다. 사용자에게는 의존의 근거로 삼을 신뢰할 만한 신호가 남지 않았습니다.
 
-**설명 가능성을 설계에 내장하는 것**은 사후 충실성 문제에 대한 하나의 답입니다. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]]는 설명 디코더를 [[assessment]]를 결정하는 것과 같은 융합 표현과 예측 점수로 매개변수화하여, [[formative-assessment|형성적]] 질문에 대한 낮은 점수가 불충분한 탐색 질문을 지명하는 근거 제시를 산출하게 하고, 여기에 교육과정 기준과 학문 특정 루브릭 조치에 대한 이중 렌즈 주의를 짝지었습니다. 루브릭에 대한 주의 정렬은 GPT-4 제로샷의 41.7%, BERT의 32.1% 대비 78.0%에 도달하며, 충실성은 루브릭 핵심 구간의 대안적 삭제와 루브릭 고정 체크리스트에 대한 인간 평정을 함께 사용해 검증되어 0.78의 설명 신빙성 점수를 줍니다. 이는 BERT-base 대비 0.31의 증가입니다. 감사는 또한 그 구조적 주장이 얇아지는 지점을 보여줍니다. 정서 단서에서 모델은 주의 가중치의 28.4%를 배정하는 반면 전문가는 15.2%를 배분하며(정렬 0.53), 한 실패 사례는 "frustrated" 토큰에 28%를 할당했는데, 저자들은 이것을 교수학이 아니라 정서에 대한 과적합으로 읽고 개선이 필요한 영역으로 지명합니다. 설명을 결정 경로에 내장하면 그것들을 사후적 정당화보다 더 충실하게 만듭니다. 그것이 옳게 만들지는 못합니다.
+**설명 가능성을 설계에 내장하는 것**은 사후 충실성 문제에 대한 하나의 답입니다. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]]는 설명 디코더를 [[assessment]]를 결정하는 것과 같은 융합 표현과 예측 점수로 매개변수화하여, [[formative-assessment|형성적]] 질문에 대한 낮은 점수가 불충분한 탐색 질문을 지명하는 근거 제시를 산출하게 하고, 여기에 교육과정 기준과 학문 특정 [[rubrics|루브릭]] 조치에 대한 이중 렌즈 주의를 짝지었습니다. 루브릭에 대한 주의 정렬은 GPT-4 제로샷의 41.7%, BERT의 32.1% 대비 78.0%에 도달하며, 충실성은 루브릭 핵심 구간의 대안적 삭제와 루브릭 고정 체크리스트에 대한 인간 평정을 함께 사용해 검증되어 0.78의 설명 신빙성 점수를 줍니다. 이는 BERT-base 대비 0.31의 증가입니다. 감사는 또한 그 구조적 주장이 얇아지는 지점을 보여줍니다. 정서 단서에서 모델은 주의 가중치의 28.4%를 배정하는 반면 전문가는 15.2%를 배분하며(정렬 0.53), 한 실패 사례는 "frustrated" 토큰에 28%를 할당했는데, 저자들은 이것을 교수학이 아니라 정서에 대한 과적합으로 읽고 개선이 필요한 영역으로 지명합니다. 설명을 결정 경로에 내장하면 그것들을 사후적 정당화보다 더 충실하게 만듭니다. 그것이 옳게 만들지는 못합니다.
 
 **모형이 사용했다고 말하는 것은 데이터만큼이나 모형 계열에 달려 있습니다.** 한 코호트의 일곱 모형에 걸쳐, [[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar 등(2026)]]은 기호적 접근이 인지적·[[motivation|동기]] 요인에 기대고, 아기호적 모형은 인지적 측면과 학습된 지식, 성별에 기대며, 둘 다 메타인지 요인은 대체로 간과한 반면, 신경-기호 모형은 더 통합된 집합을 사용했음을 발견했습니다. 같은 학생과 같은 지표가 무엇이 중요했는지에 대해 서로 다른 설명을 산출했으므로, [[learning-theories|학습 이론]]과의 정렬은 정확성에 관한 주장이 아니라 귀인에 관한 주장이 됩니다.
 

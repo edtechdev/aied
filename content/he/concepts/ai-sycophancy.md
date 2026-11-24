@@ -1,7 +1,7 @@
 ---
 title: הסכמה מחניפה (AI Sycophancy)
 created: "2026-10-12T21:23:00-04:00"
-updated: "2026-11-23T13:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]

@@ -6,17 +6,21 @@ foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 source_updated: "2026-11-17T09:26:00-05:00"
 translation_of: concepts/trust
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
 contributors:
 - editor
 ai_assist:
-- model: stepfun/step-5-preview:free
-  role: translation
-  date: '2026-10-11'
-  agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: '2026-10-11'
+    agent: hermes-agent
 connected_concepts: [explainable-ai, trust-calibration, ai-literacy, critical-thinking, cognitive-offloading, educational-robotics, ethics, intelligent-tutoring, ai-sycophancy, human-ai-collaboration, remote-proctoring, social-norms-ai-use]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, lucau-uneven-use-similar-trust-genai-2026, ilieva-agentic-genai-higher-education-2026, mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai, qu-wang-disclose-or-not-genai-2026, genai-teacher-feedback-comparison, care-full-feedback-genai, ai-fallibility-warning-help-seeking, calibrating-trustworthiness-llm-education-2026, ai-overreliance-complex-adaptive-system-2026, fouad-bentley-trust-utility-gap-physics-2026, t2i-competence-paradox-2026, task-context-trust-educational-hri-2026, face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, ai-pedagogical-accompaniment-amico, best-response-student-ai-dialog-2026, ai-adaptation-gap-higher-education-2026, bassett-ai-detectors-education-2026, genai-use-usefulness-student-experience-australia-2026, mejia-domenzain-ml-findings-teachers-blended-2026, xai-teachers-trust-edtech-recommendations-2026, vahedian-children-attitudes-ai-chatbot-2026, student-perspectives-ai-writing-grading-2026, trust-in-ai-psychological-profiles-ml-2026, bounded-reliance-ai-writing-feedback-2026, ai-empowerment-threat-genai-dependence-2026, observer-perceptions-genai-interpersonal-trust-2026, tuo-armada-multi-agent-debate-overreliance-2026, trust-calibration-genai-collaborative-regulation-2026, zhu-creative-agency-trust-genai-art-2026, yan-genai-employability-career-self-efficacy-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, mcgehee-trail-educator-trust-readiness-ai-2026]
 ---

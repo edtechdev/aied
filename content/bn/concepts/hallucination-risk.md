@@ -9,9 +9,9 @@ connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/hallucination-risk"
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -42,11 +46,15 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 একটি 125-গবেষণার পর্যালোচনা প্রচলন ও শনাক্তকরণ-ব্যবধানে একটি পরিসর দেয়: হ্যালুসিনেশনের হার 10-40%, যেখানে চিকিৎসা-শিক্ষার্থীরা কেবল 44-55% সময়ে এআই-ত্রুটি ধরে ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+ঝুঁকিটি ভাষানির্ভরও: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite ও Sun (2026)]] দেখেন, L2 লেখা-প্রতিক্রিয়ায় ইংরেজির জন্য ত্রুটি-শনাক্তকরণ শক্তিশালী, কিন্তু গ্রিক ও চীনা ভাষার জন্য দুর্বল, সেখানে হ্যালুসিনেশন ও লেখকের উদ্দেশ্য ভুল পড়া ঘটে।
+
 **আউটপুটের পরে স্মৃতি-বিকৃতি।** একটি 2026 সালের পরীক্ষায় দেখা যায়, একটি বিভ্রান্তিকর এআই সারাংশ কেবল ভুল তথ্য দেয়নি: এটি 328 জন প্রাপ্তবয়স্কের দেখা একটি ভিডিও সম্পর্কে স্মৃতি বদলে দিয়েছে। বিভ্রান্তিকর সারাংশ পড়া 44.8% পরেই সেই সংকটপূর্ণ বিবরণ সঠিকভাবে চিহ্নিত করেছেন, যেখানে সামঞ্জস্যপূর্ণ সারাংশ পড়া 83.6% পেরেছেন, এবং সারাংশটি মানুষ-লিখিত হিসেবে লেবেল করা হলেও প্রভাবটি টিকে ছিল ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger ও Kohno, 2026]])। সহযোগী নিরীক্ষায় বাদ পড়াই ছিল সবচেয়ে সাধারণ ত্রুটি: 20টি সারাংশেই ভুল ছিল, এবং 95% সংঘর্ষটাই বাদ দিয়েছিল। গবেষণাটি শিক্ষার্থীদের পরীক্ষা করেনি, কিন্তু দেখায় কেন কেবল পাঠ্য পর্যন্ত গিয়ে থামা হ্যালুসিনেশন-যাচাই অসম্পূর্ণ: পাঠ্য চলে যাওয়ার পরেও ত্রুটি পাঠকের স্মৃতিতে টিকে থাকতে পারে।
 
 **মূল্যায়ন-হ্যালুসিনেশন** বিশেষভাবে ক্ষতিকর। **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** দেখে LLM জ্ঞানীয় দক্ষতা নির্ণয়ের সময় শিক্ষার্থীর হাতের লেখায় উপস্থিত নয় এমন প্রমাণ-উদ্ধৃতি বানায়, 58.5% ভুল রোগনির্ণয়ের সঙ্গে প্রমাণগত আত্মবিশ্বাসের মিথ্যা দাবি থাকল। **[[llm-fallacy-misattribution]]** [[llm]] যুক্তিতে প্রমাণের পদ্ধতিগত অতিরিক্ত-আরোপণ নথিভুক্ত করে — মডেলরা প্রমাণ-সমর্থন দাবি করে যেখানে তা নেই। দুটোই [[ai-ed-evaluation]] ও [[knowledge-tracing]]-এর সঙ্গে [[assessment-validity]] নিয়ে উদ্বেগে যুক্ত। [[ivory-psychology-assessment-integrity-2026|Ivory প্রমুখ (2026)]] আরও দুটি ব্যর্থতার ধরন যোগ করেন যা এআই-আউটপুট পরিদর্শন না করে নম্বর দিলে দেখা যায়: বানানো সূক্ষ্ম তথ্য যা গ্রেডিং পার হয় — একটি পর্যালোচিত প্রবন্ধ যা অস্তিত্বহীন, অমীমাংসিত DOI সহ, আর একটি নমুনা-আকার 378 হিসেবে প্রতিবেদিত যেখানে উৎসে ছিল 329 — এবং একক প্রতিক্রিয়ার ভেতরে আত্মবিরোধ, যেখানে মডেল সঠিক বিকল্পে যুক্তি করে পৌঁছে শেষ সারসংক্ষেপে অন্য একটি জানায়। যেহেতু তথ্যসূত্র-তালিকা বর্তমানে নির্ভুলতার বদলে বিন্যাসের জন্য গ্রেড করা হয়, এই শ্রেণির ত্রুটি পাসিং গ্রেডে পৌঁছায় অথচ যে শিক্ষার্থী একই সরঞ্জাম দিয়ে সংশোধন করে তাকে বিভ্রান্ত করে।
 
 একটি মূল্যায়ন-নকশা পাইলটে [[authentic-assessments-generative-ai-pilot-2026|Paula প্রমুখ (2026)]] বারবার প্রম্পট দেওয়ার পরেও টিকে থাকা বানানো তথ্যসূত্র ও অবাস্তব সময়-অনুমান পান, যার জন্য যথেষ্ট একাডেমিক সংশোধন দরকার হয় — শিক্ষার্থীর কাজে নয়, শিক্ষক-মুখী খসড়া-সরঞ্জামে হ্যালুসিনেশন।
+
+**উৎপাদন ও পুনর্বিন্যাস আলাদাভাবে ব্যর্থ হয়।** পোরোভস্কাইট-সৌর-সেল নিয়ে IEEE-ধাঁচের তথ্যসূত্র-তালিকা চাইলে ChatGPT এমন এন্ট্রি দেয় যা লেখকেরা বেশিরভাগ হ্যালুসিনেশনজাত বা ভুলভাবে উদ্ধৃত পেয়েছিলেন: ভুল আদ্যক্ষর, বছর, খণ্ড ও পৃষ্ঠা, আর একটি বিশ্বাসযোগ্য লেখা এমন একটি গোষ্ঠীর নামে আরোপিত যারা কাজটি করেনি ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra ও Gong, 2026]])। বরং ইতিমধ্যে যাচাইকৃত তথ্যসূত্র-সেটকে APA-তে রূপান্তর করতে বললে একই সরঞ্জামটি নির্ভুল ছিল এবং উল্লেখযোগ্য সময় বাঁচায়। ঝুঁকি বিবরণ নয়, উৎস-অনুসন্ধানে বসে, যে রেখা একটি অ্যাসাইনমেন্টের [[rubrics|রুব্রিক]] উল্লেখ করতে পারে।
 
 **কৌশলী [[misconceptions|ভ্রান্ত ধারণা]]** প্রকাশ্য হ্যালুসিনেশনের সূক্ষ্মতর আত্মীয়। [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević প্রমুখ (2026)]] সাতটি মুক্ত-ওজন মডেলকে 35টি মূল কম্পিউটার-বিজ্ঞান ধারণার জন্য একটি "[[socratic-method|সক্রেটিক]] ফাঁদ" তৈরি করতে প্রম্পট দেন — এমন ব্যাখ্যা যা সাবলীল ও কর্তৃত্বপূর্ণ অথচ একটি সূক্ষ্ম, ডোমেইন-নির্দিষ্ট ভুলের উপর দাঁড়ানো — আর তিনজন ডোমেইন-বিশেষজ্ঞ 241টি প্রম্পটেড অংশের 221টি (91.7%) কৌশলী ভ্রান্ত ধারণা হিসেবে নিশ্চিত করেন, CS ডোমেইনের মধ্যে কোনো তাৎপর্যপূর্ণ পার্থক্য ছাড়াই। ত্রুটিগুলো প্রধানত ধারণাগত, তথ্যগত নয় (66.5% বনাম 33.5%) এবং কোনোটিই বিশুদ্ধ যৌক্তিক ছিল না, আর সেগুলো মধ্যম থেকে উচ্চ মাত্রায় প্ররোচনামূলক রেট করা হয়েছে (পাঁচ-দফা স্কেলে M = 3.71), মডেল-পরিচয় ভেদাভেদের 43% ব্যাখ্যা করে। কারণ পৃথক বিবৃতি সঠিক হতে পারে অথচ তাদের মধ্যকার সম্পর্ক ভুল, তথ্য-যাচাই অপর্যাপ্ত; লেখকেরা যুক্তি দেন [[ai-literacy|শিক্ষার্থীদের]] ধারণাগত যাচাই ও মানসিক-মডেল বৈধতা দরকার। তারা এও সতর্ক করেন যে হারটি প্রতিকূল [[prompt-engineering|প্রম্পটিংয়ের]] অধীনে সক্ষমতা মাপে, সাধারণ ব্যবহারে এমন ত্রুটির প্রচলন নয়, আর কোনো শিক্ষার্থী পরীক্ষিত হয়নি, তাই কোনো প্রতারণা বা শিখনফল মাপা হয়নি।
 
@@ -61,6 +69,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **লেবেলকৃত অনির্ভরযোগ্যতা প্রতিবেদিত নির্ভরতা বাড়ায়নি, কমিয়েছে।** যখন 546 অংশগ্রহণকারী একই GAI সংলাপ পড়েন যা হয় বানানো তথ্য ধারণকারী নয় যাচাইকৃত নির্ভুল হিসেবে লেবেলকৃত, বানানো লেবেল কম [[trust|আস্থা]] ও অনুভূত নিয়ন্ত্রণযোগ্যতা এবং বেশি জ্ঞানীয় অসঙ্গতি ও হতাশা তৈরি করে, সঙ্গে *কম* নির্ভরতা-স্কোর (M = 2.935 বনাম 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu প্রমুখ (2026)]])। ফলটি পাতার অতিরিক্ত-নির্ভরশীলতা-যুক্তিকে সীমিত করে: আউটপুট বানানো হতে পারে তা দেখা আর তার উপর ভর করা চালিয়ে যাওয়া এক নয়।
 
 **বিশ্বাসযোগ্যতার সংকেত বরং বশ্যতা বাড়াতে পারে।** বিপরীত নড়াচড়া দেখা যায় যখন অনির্ভরযোগ্য আউটপুট সাজিয়ে দেওয়া হয়: ARMADA বিতর্ক-ইন্টারফেসে সাইটেশন ও বিশ্বাসযোগ্যতা-সংকেত যোগ করলে সঠিক প্রাথমিক বিচার থেকে ভুল এআই অবস্থানে সরে যাওয়া অংশগ্রহণকারীর অনুপাত 112% বাড়ে (31.8% বনাম 15.0%), আর হাতে যাচাইয়ে দেখা যায় কিছু উদ্ধৃত কেস অপ্রাসঙ্গিক বা কাল্পনিক তথ্যসূত্রে ভুলভাবে আরোপিত ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo প্রমুখ, 2026]])।
+
+একটি স্বতন্ত্র ব্যর্থতার ধরন হলো অ-উপযুক্ত সমস্যা। [[bauyrzhan-genai-inorganic-chemistry-verification-2026|তিনটি চ্যাটবটের ওপর 42টি অজৈব রসায়ন-সমস্যার একটি অন্বেষণাত্মক বেঞ্চমার্কে]], প্রতিটি চ্যাটবট ত্রুটিপূর্ণ বিবৃতির উত্তর দৃঢ়ভাবে দেয়, ত্রুটিটি চিহ্নিত না করে, স্পষ্টীকরণ চায় না বা প্রত্যাখ্যান করে না, আর অনিশ্চয়তার সংকেত কখনও উপসংহারে পৌঁছায় না। ব্যর্থতা ভুল উত্তর নয়, বরং নীরবে গৃহীত ভুল প্রতিপাদক।
 
 ## সাধারণ ভুল ধারণা
 

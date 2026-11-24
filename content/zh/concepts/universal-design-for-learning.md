@@ -1,7 +1,7 @@
 ---
 title: 通用学习设计
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-18T03:14:49-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -23,7 +27,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -90,6 +94,8 @@ UDL把"修补学习者"变为"修补设计"。对使用AI的教师与设计者�
 - 防范那些假定单一沟通风格或惩罚神经多样性表达的AI——连接到[[accessibility]]、[[equity-in-ai-education]]与[[neurodiversity]]。
 
 - **瞄准功能性障碍，而非诊断标签。** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel等人（2026）]]发现，面向神经多样性学生的辅助技术40项研究语料围绕便利安排与以诊断为门槛的工具组织，并主张针对学生实际面对的跨领域障碍进行设计，才是使一个工具有理由被称为"通用"的关键。
+
+**等价而不同一。**[[bubnys-sustainable-ai-reflective-learning-2026|Bubnys 等（2026）]]把 UDL 的菜单延伸到 AI 支持的反思性工作中：学生应拥有可比的路径——文本或音频反思、AI 辅助或非 AI 路线、同步的人类支持、不奖励与目标无关的技术流畅度的透明标准——而且至关重要的是，可适用的权利、有意义的学习者选择权与必要的可及性，都是不可补偿的前提，而不是能被其他方面出色表现抵消的分数。其原则是"等价而不同一"：可以使用不同的媒介或不同的自动化程度，但它们必须提供可比的、满足同一成果的机会；包容必须被设计进去，而不是被当作事后的便利安排。
 
 ## 常见误解
 

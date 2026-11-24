@@ -1,5 +1,6 @@
 ---
 title: Диференційовані ефекти в різних групах здобувачів
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T22:05:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
@@ -12,10 +13,14 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -25,7 +30,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
-connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
+connected_articles: [ada-female-coded-chatbot-gender-stereotypes-2026, adhd-video-segmentation-computing-education, ai-divide-ses-personality-primary-education-2026, ai-tutoring-micro-rct-gcse-science-2026, all-girls-genai-makerspace-gender-equity-2026, arc-hubs-k12-ai-robotics-rural-2026, assistive-tech-neurodivergent-higher-ed-review-2026, bjet-genai-engagement-minority-ethnic-students-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, demographic-signals-llm-student-assessment-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, fairness-theatre-early-warning-systems-2026, genai-minoritized-knowledges-disability, gender-bias-transfer-llm-writing, hadra-ai-detector-accuracy-efl-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, marked-pedagogies-linguistic-bias-writing-feedback, nagy-ai-use-domestic-international-students-2026, neurodivergent-computing-students, petricini-ai-literacy-communication-equity-2026, porcaro-ai-grader-reliability-2026, porcaro-ai-grading-benchmark-2026, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, student-ai-inquiry-types-cs2-2026, student-attention-estimation-fairness-2026, wang-genai-metacognitive-prompting-preconceptions-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -91,6 +96,8 @@ connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-ch
 - **Чутливість моделі є властивістю моделі, а не сталою величиною.** У [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]] п’ять тьюторів від 7B до 70B було перевірено на дев’ятьох демографічних рівнях: Qwen2.5-7B перевищував поріг упередженості |r| ≥ 0.10 у 7 із 12 клітин «домен × вимір», тоді як LLaMA-3.1-8B перевищував його один раз. Навчання, специфічне для педагогіки, зменшило деякі упередження й збільшило інші.
 - **Виправлення по одній осі може залишити групу в гіршому стані:** гендерно різноманітні студенти, зведені до категорії «Unknown Gender», мали найнижчі частки справжніх позитивів за кожним методом справедливості, і жоден односівний метод не поліпшив їхнього трактування — та сама варіація групових позначень, але всередині моделі предиктивного раннього попередження, а не тьютора ([[fairness-theatre-early-warning-systems-2026|McConvey та співавт. (2026)]]).
 
+Одного семестру занять з низьким ставленням до ризику з ШІ-грамотності може по-різному змінювати впевненість для різних груп. [[petricini-ai-literacy-communication-equity-2026|Petricini і Cruz (2026)]] вбудували десять заходів упродовж тижнів 2–11 асинхронного курсу публічних виступів і проаналізували 133 придатні відповіді з 200 зарахованих студентів; сприйнята компетентність у середньому впала з 5.63 до 5.12 за шкалою 1–7, і спад був нерівним. Студентки, які ідентифікували себе як жінки, показали значуще зниження до-після за двома пунктами компетентності, тоді як студенти, які ідентифікували себе як чоловіки, знизилися за одним пунктом і зросли за цінності курсу, а також на пост-тесті оцінили себе вище за використання будь-якого нового інструмента в курсі (p = .02). Той самий захід дав студентам, які ідентифікували себе як білих, значуще зниження за всіма трьома пунктами про тиск і напруження, включно з тривогою через успішність із 2.67 до 1.90, тоді як студенти інших расових, етнічних чи спадкових ідентичностей не показали значущих змін за жодним із них.
+
 ## Раса, етнічність і студенти з меншин
 
 Цей напрям є малим за кількістю статей і сильним за механізмом, бо докази стосуються того, що ШІ робить *з* демографічним атрибутом, коли вже його має.
@@ -120,7 +127,8 @@ connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-ch
 - **Студенти першого покоління:** одне дослідження повідомляє про різницю у використанні, а не про ефект. У [[student-ai-inquiry-types-cs2-2026|дослідженні запитів у CS2]] студенти-продовжувачі розглядали ШІ як активного співучасника [[problem-solving]], тоді як студенти першого покоління брали на себе роль, орієнтовану на підтвердження й валідацію, і ставили менше запитань загалом.
 - **Студенти першого покоління: перша оцінка ефекту, і вона йде не в той бік.** [[rct|Рандомізоване дослідження]] [[liu-course-integrated-ai-tutoring-rct-2026|Liu та співавт. (2026)]] про [[intelligent-tutoring|ШІ-тьютора]], інтегрованого в курс, дає те, чого бракує запису вище, — виміряну диференціацію, а не патерн використання. У повній вибірці ефект доступу до тьютора на підсумкові оцінки був на 2.87 більш негативним для студентів першого покоління (0,28 SD), що дає −5.10 балів (−0,50 SD) для них проти −2.23 балів (−0,22 SD) для їхніх ровесників; диференціація була більшою у вибірці з точним збігом (−3.89 бали, −0,35 SD), і студенти першого покоління також втратили більше балів за домашні роботи й перегляди сторінок платформи. Дослідження не повідомляє механізму, а його точність змінюється за результатом, проте напрям протилежний історії про звуження розриву: студенти з найменшим попереднім доступом до [[student-support-and-success|академічної підтримки]] понесли найбільшу виміряну ціну.
 - **Іноземні студенти:** одне [[mixed-methods-research|змішане]] дослідження (опитування n = 60, інтерв’ю n = 14) про [[international-students-conversational-ai-adaptation|підтримку міжкультурної адаптації]].
-- **Іноземні студенти: виміряний патерн залученості, а не оцінка ефекту.** На матеріалі 270 іноземних студентів етнічних меншин у семи [[business-education|бізнес-школах]] Великої Британії повідомлене використання [[generative-ai]] було позитивно пов’язане з усіма чотирма напрямами [[student-engagement|залученості]] — найсильніше з агентною залученістю (β = 0.429), — причому сприятливі умови (β = 0.369) були найсильнішим предиктором наміру використовувати ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya та співавт. (2026)]]).
+- **Іноземні студенти: виміряний патерн залученості, а не оцінка ефекту.**
+- **Іноземні та місцеві студенти в одній установі.** [[nagy-ai-use-domestic-international-students-2026|Nagy, Lukács і Torkos (2026)]] опитували 767 студентів одного угорського університету й виявили, що сира різниця у частоті між місцевими та іноземними студентами зникала після коригування на вік і стать, тоді як різниця у ширині застосування зберігалася. Кластерний аналіз потім відновив чотири профілі користувачів, розподілені між обома групами, тож групова позначка передбачала ширину використання, а не його обсяг. На матеріалі 270 іноземних студентів етнічних меншин у семи [[business-education|бізнес-школах]] Великої Британії повідомлене використання [[generative-ai]] було позитивно пов’язане з усіма чотирма напрямами [[student-engagement|залученості]] — найсильніше з агентною залученістю (β = 0.429), — причому сприятливі умови (β = 0.369) були найсильнішим предиктором наміру використовувати ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya та співавт. (2026)]]).
 - **Обдаровані й високодосягаючі студенти:** фактично не досліджені як група в цьому корпусі.
 - **Біженці, іммігранти та переміщені особи:** досліджень немає.
 - **Стать усе ще аналізується як бінарна** в більшості наведених вище робіт, а категорії інвалідності змінюються між дослідженнями, тому порівняння «однієї і тієї самої» групи між дослідженнями має обмеження.

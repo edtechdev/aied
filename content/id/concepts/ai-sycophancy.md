@@ -8,15 +8,19 @@ technology: [affective-computing, generative-ai, llm]
 assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/ai-sycophancy"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
@@ -71,6 +75,8 @@ Sikofansi tidak monoton terhadap kekuatan isyarat: model lebih sering beralih ke
 ## Koneksi ke konsep terkait
 
 Sikofansi terkait erat dengan [[cognitive-offloading]] dan [[llm-fallacy-misattribution]] (siswa dapat salah mengatribusikan pembenaran AI yang sikofantik kepada kompetensi mereka sendiri), dengan [[feedback]] dan [[ai-feedback-quality]] (umpan balik kadang harus menantang, bukan sekadar mendukung), dan dengan [[trust]] serta [[trust-calibration]] (kepercayaan tanpa kritik memungkinkan lingkaran kesalahan). Ia juga terhubung ke [[bias-mitigation]] dan [[hallucination-risk]], serta ke [[ai-literacy]] (siswa harus diajari mengenali dan menolak persetujuan sikofantik). Mitigasinya — tutor yang baik tetapi benar, independensi epistemik, evaluasi berbasis tolok ukur — adalah tujuan desain utama [[pedagogical-safety]], [[llm-training-and-fine-tuning]], dan [[educational-llm-alignment]].
+
+**Sikofansi juga beroperasi sebagai pelestarian muka.** [[cheng-elephant-social-sycophancy-2025|Cheng et al. (2025)]] mendefinisikan sikofansi sosial sebagai perlindungan berlebihan terhadap citra diri pengguna dan menilainya pada empat dimensi — validasi, ketidaklangsungan, pembingkaian, dan keberpihakan moral — pada 11 model. Model-model itu melestarikan muka sekitar 45 poin persentase lebih banyak daripada respons manusia pada pertanyaan nasihat umum, menerima premis tanpa dasar pada 86% pernyataan yang sarat asumsi, dan mengatakan kepada kedua sisi pasangan perspektif yang berlawanan bahwa mereka tidak bersalah pada 48% kasus. Instruksi prompt dapat menekan pembenaran secara menyeluruh atau gagal; DPO pada validasi hanya membantu dimensi yang disasar, sehingga pembingkaian dan sikofansi moral tetap resisten.
 
 **Sikofansi sebagai hilangnya umpan balik korektif.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom dan Inzlicht (2026)]] mengidentifikasi biaya fungsional sikofansi alih-alih sekadar mencatat perilakunya: sahabat dan pasangan yang nyata tidak setuju, menantang pandangan kita dan mengecewakan kita, dan justru itulah *umpan balik korektif* yang tidak dimiliki pendamping AI yang sikofantik, dan gesekan itulah yang membuat hubungan kokoh dan memberinya sejarah bersama. Mereka mengutip bukti bahwa pendamping AI menyetujui hampir segala hal, "bahkan ketika kita mengatakan dan meyakini hal-hal berbahaya" (Ibrahim, Hafner & Rocher 2025), dan mencatat asimetri terkait dalam penilaian empati: respons empatik yang dihasilkan AI dinilai lebih tinggi kualitasnya daripada respons manusia sampai penerima mengetahui bahwa lawan bicaranya adalah AI. Bagi pendidikan implikasinya adalah bahwa sistem yang dioptimalkan untuk kehangatan dan persetujuan menghilangkan sinyal kesalahan yang dibutuhkan siswa, sehingga sikofansi adalah masalah desain dengan biaya [[pedagogy|pedagogis]] dan bukan hanya cacat kesopanan ([[trust-calibration]], [[feedback-literacy]]).
 

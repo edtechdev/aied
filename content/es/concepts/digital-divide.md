@@ -1,7 +1,7 @@
 ---
 title: Brecha digital
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-23T14:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 connected_resources: [public-ai-libraries]
 type: concept
@@ -15,15 +15,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-11-07"
-    agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
     date: "2026-10-28"
-    agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash
-    role: translation
-    date: "2026-09-28"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation

@@ -1,7 +1,7 @@
 ---
 title: "Effets différentiels selon les groupes d'apprenants"
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -17,10 +17,6 @@ source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
-    role: translation
-    date: "2026-10-10"
-    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"

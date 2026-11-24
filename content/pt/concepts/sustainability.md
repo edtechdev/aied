@@ -1,7 +1,7 @@
 ---
 title: Sustentabilidade
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -23,8 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa.*
@@ -70,7 +74,9 @@ A segunda via diz respeito à própria pegada da IA nos cenários educacionais:
 
 ## A aprendizagem sustentável como objetivo pedagógico
 
-Uma vertente relacionada enquadra a sustentabilidade não apenas como uma preocupação ambiental ou institucional, mas como uma propriedade da própria aprendizagem. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argumentam que a aprendizagem assistida por IA arrisca terceirização cognitiva e desprendimento de contextos autênticos, propondo frameworks (E3-HOT) para a **aprendizagem sustentável** — uma aprendizagem que persiste, se transfere e permanece conectada a problemas reais, em vez de ser curto-circuitada pela [[cognitive-offloading|descarga cognitiva]]. Isso conecta a sustentabilidade à [[agency|agência]] e ao [[critical-thinking|pensamento crítico]].
+Uma vertente relacionada enquadra a sustentabilidade não apenas como uma preocupação ambiental ou institucional, mas como uma propriedade da própria aprendizagem. O argumento mais amplo de que esse reenquadramento serve a interesses específicos está reunido em [[critiques-of-ai-in-education|Críticas à IA na Educação]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argumentam que a aprendizagem assistida por IA arrisca terceirização cognitiva e desprendimento de contextos autênticos, propondo frameworks (E3-HOT) para a **aprendizagem sustentável** — uma aprendizagem que persiste, se transfere e permanece conectada a problemas reais, em vez de ser curto-circuitada pela [[cognitive-offloading|descarga cognitiva]]. Isso conecta a sustentabilidade à [[agency|agência]] e ao [[critical-thinking|pensamento crítico]].
+
+- **Uma visão de portaria.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] define a sustentabilidade pedagógica como valor de aprendizagem duradouro produzido sob condições econômicas, sociais, ambientais e institucionais que podem ser mantidas, e faz desse valor uma porta não compensável, e não um pilar entre cinco.
 
 ## Conexões com outros conceitos
 

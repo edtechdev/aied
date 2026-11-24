@@ -7,9 +7,9 @@ technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/multilingual-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -53,11 +57,15 @@ AI multibahasa harus melampaui terjemahan untuk mencerminkan [[culturally-releva
 
 Translanguaging adalah kemampuan baru [[conversational-ai|chatbot]] generatif yang tidak dimiliki alat bahasa sebelumnya. Dalam [[meta-analysis-systematic-review|tinjauan sistematis]] 24 studi, siswa meminta frasa dan penjelasan kontekstual dalam bahasa sendiri sebagai jembatan ke bahasa target — penggunaan yang diklasifikasikan peninjau sebagai sub-kemampuan baru, bukan kemasan ulang ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
+Biaya bahasa dari onboarding alat terukur: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] menemukan pelajar bahasa Inggris menghabiskan waktu jauh lebih lama pada tutorial pembangunan agen berancah daripada penutur asli, sementara tugas desain terbuka tidak menunjukkan perbedaan.
+
+Bahasa Inggris mendominasi bahkan di tempat empat bahasa dipakai sehari-hari. Di antara 42 siswa di Curaçao dan Aruba, dua pertiga menyebut bahasa Inggris sebagai bahasa pilihan mereka untuk AI, dan hanya sesi GPT yang bergeser ke Papiamentu saat percakapan menjadi lokal ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## Bias penilaian
 
 Kekhawatiran multibahasa juga memengaruhi [[automated-assessment|penilaian otomatis]]: [[ai-scoring-language-bias-physics|penilaian AI dapat menunjukkan bias bahasa]] (misalnya, dalam [[physics-education|fisika]]), menghukum penutur non-asli. Memastikan alat penilaian adil lintas bahasa adalah bagian dari [[assessment-validity]].
 
-Penilaian komparatif berbasis LLM adalah kasus ketika bias mengikuti garis dasar manusia, bukan model: skor tulisan informasional Kelas 3–6 konvergen dengan rubrik peneliti (r = .59–.73) dan menunjukkan pola bias prediktif bagi siswa multibahasa serupa penilaian manusia, tanpa bukti bahwa kemampuan atau biaya model lebih besar meningkatkan validitas ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+Penilaian komparatif berbasis LLM adalah kasus ketika bias mengikuti garis dasar manusia, bukan model: skor tulisan informasional Kelas 3–6 konvergen dengan [[rubrics|rubrik]] peneliti (r = .59–.73) dan menunjukkan pola bias prediktif bagi siswa multibahasa serupa penilaian manusia, tanpa bukti bahwa kemampuan atau biaya model lebih besar meningkatkan validitas ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Implikasi bagi instruktur dalam konteks multibahasa
 
@@ -66,6 +74,8 @@ Penilaian komparatif berbasis LLM adalah kasus ketika bias mengikuti garis dasar
 - **Cerminkan budaya dan konteks, bukan hanya terjemahan.** AI multibahasa harus melampaui terjemahan menuju [[culturally-relevant-pedagogy|pedagogi yang relevan secara budaya]] — menghasilkan konten yang sesuai secara linguistik dan kontekstual ([[llm-cultural-relevance-k12|relevansi budaya K-12]]).
 - **Pasangkan AI dengan struktur dukungan multibahasa.** Gunakan mode voice-first dan lisan ([[kutti-ai-voice-first-learning-companion|pendamping voice-first]]) ketika AI berbasis teks gagal, dan dukung [[self-regulated-learning|pengaturan diri]] dalam konteks bilingual ([[bilingual-llm-lecture-companion-srl-2026|pendamping kuliah bilingual]]).
 - **Perhatikan kesenjangan digital.** Bias monolingual dalam AI memperdalam [[digital-divide]] dan melemahkan akses di [[global-south]] — rencanakan infrastruktur dan akses adil seiring pemilihan alat.
+
+- **Kerja adaptif jatuh pada guru.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] menemukan bahwa guru universitas bahasa selain Inggris mengadaptasi prompt, mengoreksi bahasa model, merekontekstualisasikan konten secara budaya, dan berganti alat sebagai hal rutin. Pekerjaan itu diwajibkan oleh hierarki linguistik, bukan oleh kompetensi digital yang lemah, dan tidak terlihat dalam statistik adopsi yang hanya menghitung apakah alat itu dipakai.
 
 ## Miskonsepsi umum
 

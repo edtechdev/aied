@@ -1,7 +1,7 @@
 ---
 title: אפקטים דיפרנציאליים בין קבוצות לומדים
 created: "2026-10-12T20:30:00-04:00"
-updated: "2026-11-23T12:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]

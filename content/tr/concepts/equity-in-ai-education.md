@@ -1,7 +1,7 @@
 ---
 title: Eşitlik
 created: "2026-10-14T21:40:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-24T01:20:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -80,9 +80,12 @@ YZ kullanma zorunluluğunun kendisi, arkasında eşitsiz sağlama olmadan eşitl
 
 - **Temsil yalnızca öğrenenler için değil, kanıtın kendisi için de geçerlidir.** [[bulut-technology-supported-formative-assessment-2026|Bulut (2026)]], teknoloji destekli değerlendirmede eşitliğin bir tasarımın dayandığı bilginin bağlamsal aktarılabilirliğini de kapsadığını savunur; bu nedenle kaynakları iyi olan ortamlarda doğrulanmış bir sistem, başka yerlerde sınanmamış varsayımlar taşır.
 
-- **İyi performansın kalıpları kültürel sermayeye dönüşür.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner ve Brezovec (2026)]], üretici YZ’nin istek metinlerini, rubrikleri ve türleri iletişimsel olarak makul biçimlere yeniden biçimlendirdiğini göstermektedir; bu, bir katkının işlenmesini kolaylaştırırken öğrenenleri ana akım kalıplara yönlendirebildiği için kapsayıcılığı tanınabilir türlere asimilasyona bağlı kılar.
+- **İyi performansın kalıpları kültürel sermayeye dönüşür.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner ve Brezovec (2026)]], üretici YZ’nin istek metinlerini, [[rubrics|rubrikleri]] ve türleri iletişimsel olarak makul biçimlere yeniden biçimlendirdiğini göstermektedir; bu, bir katkının işlenmesini kolaylaştırırken öğrenenleri ana akım kalıplara yönlendirebildiği için kapsayıcılığı tanınabilir türlere asimilasyona bağlı kılar.
 
 ## Sonuç eşitliği
+
+- **Kanıt tabanı hâlihazırda hizmet verilenleri kapsar.** Eğitimde ajan YZ’si üzerine 170 çalışmayı (Scopus, 2022–2026) inceleyen sistematik bir derleme, kapsamın kayıtları tersine çevirdiğini bulmuştur: lisans düzeyi 37 çalışma ve **%21,8** ile ön plana çıkarken K-12 yalnızca 15 çalışma ve **%8,8** ile yer alır ve 102 çalışma (**%60,0**) hiçbir eğitim düzeyi belirtmez ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman ve ark. (2026)]]). En büyük öğrenme zorluklarıyla karşı karşıya olan popülasyonlar en az görünür: engelli öğrenciler 15 çalışmada (**%8,8**), İngilizce öğrenenler 3’te (**%1,8**) ve risk altındaki öğrenciler 1’de (**%0,6**) yer alırken öğretmenler 68 çalışmada (**%40,0**) bulunur. [[equity-in-ai-education|Eşitliği]] veya kapsayıcılığı açık bir gerekçe olarak ele alan yalnızca 16 çalışmadır (**%9,4**).
+- **Boşluk kendini güçlendirir.** Aynı derleme bir döngüyü betimler: araştırmacılar erişilebilir popülasyonları tanıdık ortamlarda inceler, bunun sonucunda ortaya çıkan kanıt yalnızca orada geçerlidir; başka yerlerdeki uygulayıcılar ona güvenle dayanamaz; fon sağlayıcılar kanıtlanmış etkinliği izler ve yeterince incelenmeyen bağlamlar fonsuz kalır.
 
 394 GenAI yükseköğretim çalışmasını kapsayan bir kapsam derlemesinde eşitlik ve erişim, [[metacognition|üstbiliş]], etik ve [[creativity|yaratıcılıkla]] birlikte en az hedeflenen sonuçlar arasında yer almıştır ([[mapping-genai-higher-ed-scoping-review|Lin ve ark. (2026)]]).
 

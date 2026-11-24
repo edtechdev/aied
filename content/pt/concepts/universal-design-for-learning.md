@@ -1,7 +1,7 @@
 ---
 title: "Design universal para a aprendizagem"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,10 +10,14 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -23,7 +27,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -89,6 +93,8 @@ A escolha só inclui quando as opções parecem igualmente credíveis. Estudante
 - Proteja-se contra IA que presume um único estilo de comunicação ou penaliza a expressão neurodivergente — conecte-se a [[accessibility|acessibilidade]], [[equity-in-ai-education|equidade na educação com IA]] e [[neurodiversity|neurodiversidade]].
 
 - **Mire as barreiras funcionais, não os diagnósticos.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] concluíram que o corpus de 40 estudos de tecnologias assistivas para estudantes neurodivergentes se organiza em torno de acomodação e de ferramentas condicionadas a diagnóstico, e argumentam que projetar para as barreiras transversais que os estudantes de fato enfrentam é o que torna uma ferramenta plausivelmente universal.
+
+**Equivalência sem igualdade.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] estendem o menu do DUA ao trabalho reflexivo apoiado por IA: os estudantes devem ter percursos comparáveis — reflexão em texto ou áudio, rota assistida por IA ou sem IA, apoio humano síncrono, critérios transparentes que não recompensem fluência técnica não relacionada ao objetivo — e, crucialmente, direitos aplicáveis, escolha significativa de quem aprende e acessibilidade essencial são pré-requisitos não compensatórios, e não pontuações que um bom desempenho em outro lugar possa compensar. O princípio é "equivalência sem igualdade": diferentes mídias ou níveis de automação podem ser usados, mas devem oferecer oportunidade comparável de alcançar o mesmo resultado, e a inclusão precisa ser projetada desde o início, e não tratada como acomodação a posteriori.
 
 ## Ideias equivocadas comuns
 

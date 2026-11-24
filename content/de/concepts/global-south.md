@@ -1,7 +1,7 @@
 ---
 title: Globaler Süden
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -13,6 +13,10 @@ source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

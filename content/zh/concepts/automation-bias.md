@@ -1,7 +1,7 @@
 ---
 title: 自动化偏见
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-18T03:28:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -11,16 +11,16 @@ confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-18"
     agent: hermes-agent
 translation_of: concepts/automation-bias
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -99,6 +99,8 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-di
 ### 当偏见被点名为风险而非被测量
 
 文献中有很大一部分把自动化偏见列在威胁模型中而不加检验，这一区别关系到这一概念能承载多少分量。[[ahmadfard-interactive-oer-review-2026|那篇互动式 OER 综述（2026）]]把它列入侵蚀学习者与教师能动性的反复出现的风险之中，只是列出而未测量。[[alshahrani-health-sciences-ai-use-2026|那项健康科学调查（2026）]]把 310 名学生的[[ethics|伦理]]关切读作对[[professional-training|专业培训]]的呼吁，认为培训应明确涵盖自动化偏见。[[ai-literacy-legal-translation-2026|那项法律翻译研究（2026）]]要求把译后编辑与核验作为计分技能来教，并点出使误译容易被忽略的自动化偏见与质量错觉压力。[[morales-cevallos-ai-forensic-science-education-2026|那篇法医学综述（2026）]]发现自动化偏见在其纳入的研究中有记录，并提出用已报告的失败案例构建案例练习。[[rana-genai-design-thinking-2025|那项设计思维研究（2025）]]把它变成一项设计要求：让人类判断居于中心的[[scaffolding|脚手架]]，同时抵御卸载与自动化偏见。
+
+另一种偏见落在输出里，而不是落在用户身上。在厄瓜多尔的埃斯梅拉达斯，90 名教育与社群行动者描述了图像工具改变非裔厄瓜多尔参与者的肤色、发质与面部特征，其中一人称之为“一种种族主义，即便是数字形式的”——这是一种没有任何准确率指标会记录的表征性伤害（[[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales 与 García Iturralde，2026]]）。
 
 ## 证据薄弱、混杂或反向之处
 

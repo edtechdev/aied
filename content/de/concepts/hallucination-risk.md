@@ -1,7 +1,7 @@
 ---
 title: Halluzinationsrisiko
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -54,7 +58,7 @@ Das Risiko ist zudem sprachabhängig: [[genai-l2-written-feedback-scoping-review
 
 In einer Pilotstudie zum Assessment-Design fanden [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] erfundene Quellenangaben und unrealistische Zeitschätzungen, die wiederholtes Prompting überdauerten und eine umfangreiche fachliche Überarbeitung erforderten — Halluzination also in einem Entwurfswerkzeug für Lehrende und nicht in studentischen Arbeiten.
 
-**Generierung und Umformatierung scheitern auf unterschiedliche Weise.** Auf die Bitte nach einem Literaturverzeichnis im IEEE-Stil zu Perowskit-Solarzellen lieferte ChatGPT Einträge, die die Autoren überwiegend als halluziniert oder falsch zitiert bewerteten: falsche Initialen, Jahr, Band und Seitenzahlen sowie ein plausibel aussehender Artikel, der einer Gruppe zugeschrieben wurde, die diese Arbeit nie durchgeführt hat ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). Wurde dasselbe Werkzeug stattdessen gebeten, ein bereits überprüftes Literaturverzeichnis in das APA-Format zu überführen, arbeitete es korrekt und sparte erheblich Zeit. Das Risiko liegt in der Quellenbeschaffung und nicht in der bibliografischen Arbeit — eine Trennlinie, die ein Bewertungsraster für Aufgaben ausdrücklich benennen kann.
+**Generierung und Umformatierung scheitern auf unterschiedliche Weise.** Auf die Bitte nach einem Literaturverzeichnis im IEEE-Stil zu Perowskit-Solarzellen lieferte ChatGPT Einträge, die die Autoren überwiegend als halluziniert oder falsch zitiert bewerteten: falsche Initialen, Jahr, Band und Seitenzahlen sowie ein plausibel aussehender Artikel, der einer Gruppe zugeschrieben wurde, die diese Arbeit nie durchgeführt hat ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). Wurde dasselbe Werkzeug stattdessen gebeten, ein bereits überprüftes Literaturverzeichnis in das APA-Format zu überführen, arbeitete es korrekt und sparte erheblich Zeit. Das Risiko liegt in der Quellenbeschaffung und nicht in der bibliografischen Arbeit — eine Trennlinie, die ein [[rubrics|Bewertungsraster]] für Aufgaben ausdrücklich benennen kann.
 
 **Strategische [[misconceptions|Fehlvorstellungen]]** sind eine subtilere Verwandte der offenkundigen Halluzination. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] veranlassten sieben Open-Weight-Modelle dazu, für 35 zentrale Konzepte der Informatik eine „[[socratic-method|sokratische]] Falle" zu erzeugen — eine Erklärung, die flüssig und autoritativ wirkt, während sie auf einem subtilen, domänenspezifischen Fehler beruht —, und drei Fachleute bestätigten 221 von 241 generierten Segmenten (91,7 %) als strategische Fehlvorstellungen, ohne signifikante Unterschiede zwischen den Informatik-Teilgebieten. Die Fehler waren überwiegend konzeptioneller und nicht faktischer Natur (66,5 % vs. 33,5 %), keiner war rein logischer Art, und sie wurden als mäßig bis stark überzeugend eingeschätzt (M = 3,71 auf einer fünfstufigen Skala), wobei die Modellidentität 43 % der Varianz erklärte. Da einzelne Aussagen korrekt sein können, während die Beziehung zwischen ihnen falsch ist, reicht Faktenchecking nicht aus; die Autoren argumentieren, dass [[ai-literacy|Lernende]] eine konzeptionelle Überprüfung und eine Validierung ihrer mentalen Modelle benötigen. Sie mahnen zudem, dass die Rate die Fähigkeit unter adversariellem [[prompt-engineering|Prompting]] misst und nicht die Häufigkeit solcher Fehler im normalen Gebrauch, und dass keine Studierenden getestet wurden, sodass weder Täuschung noch Lernergebnisse gemessen wurden.
 
@@ -69,6 +73,8 @@ Abwehrmaßnahmen gegen solche Manipulationen sind ihrerseits mit einem Trade-off
 **Eine Kennzeichnung als unzuverlässig senkte die berichtete Abhängigkeit, statt sie zu erhöhen.** Als 546 Teilnehmende denselben GAI-Dialog lasen, der entweder als frei erfundene Informationen enthaltend oder als verifiziert korrekt gekennzeichnet war, führte die Kennzeichnung als erfunden zu geringerem [[trust|Vertrauen]] und geringerer wahrgenommener Kontrollierbarkeit sowie zu stärkerer kognitiver Dissonanz und Frustration – bei zugleich *niedrigeren* Abhängigkeitswerten (M = 2,935 vs. 3,254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Das Ergebnis relativiert die Logik der Überabhängigkeit: Zu erkennen, dass eine Ausgabe erfunden sein könnte, ist nicht dasselbe, wie sich weiterhin auf sie zu stützen.
 
 **Glaubwürdigkeitssignale können die Folgsamkeit stattdessen verstärken.** Die gegenläufige Bewegung zeigt sich, wenn eine unzuverlässige Ausgabe aufgeputzt wird: Das Hinzufügen von Quellenangaben und Glaubwürdigkeitssignalen zur ARMADA-Debattenoberfläche erhöhte den Anteil der Teilnehmenden, die von einem korrekten ersten Urteil zu einer falschen KI-Position wechselten, um 112% (31,8% vs. 15,0%), und eine manuelle Überprüfung ergab, dass einige der zitierten Fälle fälschlich irrelevanten oder fiktiven Quellen zugeschrieben wurden ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+**Ein eigenständiger Fehlermodus ist das schlecht gestellte Problem.** In [[bauyrzhan-genai-inorganic-chemistry-verification-2026|einem explorativen Benchmark von drei Chatbots zu 42 Problemen der anorganischen Chemie]] beantworteten alle Chatbots fehlerhafte Aussagen selbstbewusst, ohne den Fehler zu kennzeichnen, um Klärung zu bitten oder abzulehnen, und Unsicherheitsmarker erreichten nie die Schlussfolgerung. Der Fehler ist keine falsche Antwort, sondern eine falsche Prämisse, die stillschweigend akzeptiert wird.
 
 ## Verbreitete Fehlvorstellungen
 

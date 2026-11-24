@@ -1,7 +1,7 @@
 ---
 title: בעיות משפטיות וסיכונים
 created: "2026-10-12T19:00:00-04:00"
-updated: "2026-11-23T04:42:57-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]

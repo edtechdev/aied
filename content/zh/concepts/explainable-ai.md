@@ -1,7 +1,7 @@
 ---
 title: 可解释 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-18T03:06:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,10 +11,14 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-17T11:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -89,7 +93,7 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 两条进一步的告诫把这一点说得更尖锐，两者都被本 wiki 关于该主题最新的贡献置于核心位置。第一，解释机制本身并不中立：LIME 和 SHAP 之类的事后方法可能对模型的实际行为不忠实，因此一个技术上存在的解释可能误导而非提供信息（[[lund-socially-accountable-data-science-xai-2026|Lund 等人 2026]]，承袭 Chuan 等人 2024）。第二，**解释不等于问责**。一份关于哪些特征驱动了预测的说明，并不能揭示这些特征是否适合使用、训练数据是否具代表性、或者系统的设计是否反映了健全的判断；解释可以制造出透明性的表象，却让产生某项决策的结构性条件原封不动（Mittelstadt 等人 2019）。对教育而言，这意味着要不断追问的问题不是有没有产生解释，而是收到解释的那个人——学生、教师、导师——能否理解它、能否据此行动、能否对背后的决定提出异议。同样的可读性失灵出现在[[automated-assessment|自动评价]]的安全侧：[[humble-prompt-injection-ai-grading-red-team-2026|Humble（2026）对一个 AI 评分工具的红队测试]]发现，它在拦截一次提示注入之后静默地禁用了聊天功能，并——在宣布自己绝不会遵循嵌入指令之后——又在同一文件上于另外六次运行中遵循了它们，让用户没有任何可靠信号可供依赖。
 
-**设计即可解释**是对事后方法不忠实问题的一种回答。[[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang 和 Fang（2025）]]用一个与决定[[assessment]]判断的融合表征和预测分数相同的表征来参数化一个解释解码器，使得[[formative-assessment|形成性]]提问上的低分能产出一份指明提问不足的理由，并配以跨课程标准与学科特定评分量规动作的双透镜注意力。注意力与量规的对齐度达到 78.0%，而 GPT-4 零样本为 41.7%、BERT 为 32.1%；忠实性则通过对量规关键片段的反事实删除，加上在量规锚定清单上的人工评分来检验，得到 0.78 的解释可信度分数——比 BERT-base 提高 0.31。审计也显示出架构主张在何处变薄：在情绪线索上，模型分配了 28.4% 的注意力权重，而专家为 15.2%（对齐度 0.53），其中一个失败案例把 28% 的权重给了 token "frustrated"，作者把这解读为对情绪的过拟合、而非教学，并列为需要改进的领域。把解释嵌入决策路径使它们比事后理由更忠实；但这并不使它们正确。
+**设计即可解释**是对事后方法不忠实问题的一种回答。[[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang 和 Fang（2025）]]用一个与决定[[assessment]]判断的融合表征和预测分数相同的表征来参数化一个解释解码器，使得[[formative-assessment|形成性]]提问上的低分能产出一份指明提问不足的理由，并配以跨课程标准与学科特定[[rubrics|评分量规]]动作的双透镜注意力。注意力与量规的对齐度达到 78.0%，而 GPT-4 零样本为 41.7%、BERT 为 32.1%；忠实性则通过对量规关键片段的反事实删除，加上在量规锚定清单上的人工评分来检验，得到 0.78 的解释可信度分数——比 BERT-base 提高 0.31。审计也显示出架构主张在何处变薄：在情绪线索上，模型分配了 28.4% 的注意力权重，而专家为 15.2%（对齐度 0.53），其中一个失败案例把 28% 的权重给了 token "frustrated"，作者把这解读为对情绪的过拟合、而非教学，并列为需要改进的领域。把解释嵌入决策路径使它们比事后理由更忠实；但这并不使它们正确。
 
 **模型说自己用了什么，既取决于数据，也取决于模型家族。** 在同一批学生上比较七个模型，[[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar 等（2026）]]发现符号方法倚重认知与[[motivation|动机]]因素，子符号模型倚重认知层面、习得知识与性别，而两者都大体忽略了元认知因素，神经符号模型则使用了更为整合的一组因素。同样的学生、同样的指标，产生了关于"什么重要"的不同说法，因此与[[learning-theories|学习理论]]的一致性，成为一个关于归因的主张，而不是关于准确率的主张。
 

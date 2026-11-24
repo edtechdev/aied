@@ -1,6 +1,6 @@
 ---
 title: Dijital Uçurum
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-14T22:40:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept

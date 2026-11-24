@@ -7,9 +7,9 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/ethics"
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -63,6 +67,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **নিয়মতান্ত্রিক কাঠামো বিনিময়যোগ্য নয়।** 151 স্প্যানিশ স্নাতকের মধ্যে পরীক্ষা-প্রস্তুতিতে এলএলএম ব্যবহারের ইচ্ছার জন্য নৈতিক সমতা আবশ্যক শর্ত ছিল (d = 0.338) কিন্তু যথেষ্ট পূর্বাভাসক নয়, অন্যদিকে পরিণামবাদী (β = 0.350) ও কর্তব್ಯবাদী (β = 0.329) বিচার ছিল — শিক্ষার্থীরা কয়েকটি নিয়মতান্ত্রিক কাঠামো প্রয়োগ করে ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella প্রমুখ (2026)]]).
 - **একটি যৌথ বহুমাত্রিক গঠন।** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç ও Sever]]-এর ছয়টি থিম — উপাত্ত-নীতিশাস্ত্র, অ্যালগরিদম-নীতিশাস্ত্র ও শিক্ষাগত নীতিশাস্ত্র জুড়ে — মৌলিক নীতি (স্বচ্ছতা, জবাবদিহিতা, ন্যায্যতা, স্বায়ত্তশাসন) থেকে আচরণগত ফলাফল পর্যন্ত একটি পরস্পরসংযুক্ত কার্যকারণ-শৃঙ্খল গঠন করে, যা রেখা টানে দায়িত্বশীল এআই-ব্যবহার ব্যক্তিগত সচেতনতার মতোই স্পষ্ট প্রতিষ্ঠানগত রোডম্যাপের ওপর নির্ভর করে।
 
+- **শিক্ষাস্তরের সঙ্গে নৈতিক তাৎপর্য বাড়ে।** [[licardo-students-ethical-challenges-genai-2026|Licardo ও Šindić (2026)]] প্রাথমিক, মাধ্যমিক ও উচ্চশিক্ষা জুড়ে 1,299 জন স্লোভেনীয় শিক্ষার্থী সমীক্ষা করে দেখেন, জেনএআই-নৈতিক চ্যালেঞ্জের অনুভূত গুরুত্ব স্তরের সঙ্গে একঘেয়েমিতে বাড়ে। স্ব-মূল্যায়িত এআই-জ্ঞান ও পরিচিতি শনাক্তযোগ্য কিছু যোগ করে না, তাই নৈতিক উদ্বেগকে সংগঠিত করে স্তর-অক্ষ, পূর্ব-জ্ঞান নয়।
+
 ## নীতি থেকে প্রতিষ্ঠানগত শাসন
 
 জ্ঞানভান্ডারের গবেষণা ক্রমশ নীতিশাস্ত্রকে ব্যক্তির বদলে প্রতিষ্ঠান ও কাঠামোয় স্থাপন করে:
@@ -100,6 +106,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 
 নৈতিক সচেতনতা, প্রতিফলনশীল যুক্তি এবং [[self-report-measures|স্ব-প্রতিবেদিত]] দায়িত্বশীল চর্চা মূলত স্বতন্ত্রভাবে বিকশিত হয়। 350 নাইজেরীয় কম্পিউটিং [[higher-ed|স্নাতকের]] তিনটি বার্ষিক তরঙ্গে [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale প্রমুখ (2026)]] দেখেন তিনটিই উল্লেখযোগ্যভাবে বেড়েছে, তবু তাদের বৃদ্ধি-চলকগুলো প্রায় অ-সম্পর্কিত এবং প্রাথমিক সচেতনতা পরবর্তী বৃদ্ধির পূর্বাভাস দেয়নি।
 
+নৈতিক প্রক্রিয়ায় আত্মবিশ্বাস বাড়তে পারে, আত্ম-জ্ঞান তখনও যেখানে ছিল সেখানেই থাকে। [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones ও Hoover (2026)]] একটি স্নাতক নেতৃত্ব-নীতিশাস্ত্র বিকল্প-পাঠে GenAI বসান, একই [[case-based-learning|কেস]] একবার সহায়তাহীন এবং একবার ChatGPT-সহ করান, এবং প্রায় 80 জন শিক্ষার্থীর 38 জোড়া আত্মবিশ্বাস-সমীক্ষা বিশ্লেষণ করেন। 0–10 স্কেলে নৈতিক দ্বন্দ্ব চেনার স্ব-মূল্যায়িত ক্ষমতা 7.24 থেকে 8.39-এ এবং সুশ্রী ও ন্যায়সংগত সিদ্ধান্ত নেওয়ার ক্ষমতা 7.24 থেকে 8.45-এ উঠেছে, দুটোই p < .001-এ, আর সিদ্ধান্ত ব্যাখ্যা করতে নৈতিক তত্ত্ব ব্যবহার 5.39 থেকে 7.08-এ বেড়েছে। দুটি আত্মনিরীক্ষণ-আইটেম — নিজের সদগুণ, মূল্য ও অধিকার চেনা (p = .063) এবং ব্যক্তিগত মূল্য সিদ্ধান্তকে কীভাবে প্রভাবিত করে তা ব্যাখ্যা করা (p = .124) — নড়েনি, যা লাভকে নৈতিক আত্ম-জ্ঞানের বদলে প্রক্রিয়াগত দক্ষতায় স্থান দেয়।
+
 ## সংযোগ
 
 নীতিশাস্ত্র যুক্ত হয় [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]] ও [[governance]]-এর সঙ্গে। এটি অন্য সব এআই-শিক্ষা ধারণার নিয়মতান্ত্রিক ভিত্তি — যে কাঠামোর ভেতরে ন্যায্যতা, স্বচ্ছতা, স্বায়ত্তশাসন ও নিরাপত্তার প্রশ্ন ওঠে ও নিষ্পত্তি হয়।
@@ -109,3 +117,9 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **"প্রতারণা-কাঠামো জেনএআই-নীতিশাস্ত্র নিয়ে ভাবার যথেষ্ট উপায়।"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette প্রমুখ, 2026]] যুক্তি দেন, প্রতিষ্ঠানগুলোর জেনারেটিভ এআই প্রশ্ন নিষ্পত্তি করা উচিত **অংশীদারিত্ব-নীতিশাস্ত্রের মধ্য দিয়ে, প্রতারণা-কাঠামোর মধ্য দিয়ে নয়**। কাঠামোই নির্ধারণ করে কী প্রশ্ন করা হবে, এবং অসদাচরণ-কাঠামো শিক্ষাগত উদ্দেশ্য নিয়ে প্রশ্ন করতে পারে না।
 - **"প্রশিক্ষক ও শিক্ষার্থী একমত কী নৈতিক।"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç ও Sever (2026)]], **971 শিক্ষার্থী ও 135 প্রশিক্ষকের** [[mixed-methods-research|মিশ্র-পদ্ধতি]] গবেষণা, দেখেন নৈতিক মাত্রাগুলো দলগুলোর মধ্যে ভিন্ন হয়। এক দৃষ্টিকোণ থেকে লেখা নীতি অন্যটিকে ভুল উপস্থাপন করবে।
 - **"ব্যবহারের আগে নৈতিক ঐকমত্য আসে।"** **গ্রহণ নৈতিক ঐকমত্যের চেয়ে এগিয়ে চলে**: একটি মার্কিন শিক্ষক-শিক্ষা কর্মসূচিতে চার সেমিস্টারে শিক্ষার্থীদের জেনএআই-ব্যবহার **মূল্যায়ন-প্রস্তুতিতে 57% থেকে 83%-এ ওঠে**। নিয়মগুলো গড়ে উঠছে চর্চা থেকে, উল্টোটা নয়।
+
+## নীতিশাস্ত্র-শিক্ষা কি একেবারে কাজ করে
+
+এআই-নীতিশাস্ত্র-শিক্ষাকে প্রায়ই এমন একটি অনুমানের ওপর ন্যায়সঙ্গত করা হয় যা কেউ পরীক্ষা করেনি: [[ethics|নীতিশাস্ত্র-শিক্ষা]] কিছুই বদলায়। 66 গবেষণা ও 9,978 জন শিক্ষার্থী নিয়ে 2024 সালের একটি পদ্ধতিগত পর্যালোচনা ও মেটা-বিশ্লেষণ সেই অনুমানের শ্রেষ্ঠ উপলব্ধ পরীক্ষা, সাধারণভাবে শিক্ষাক্ষেত্রে। নৈতিক হস্তক্ষেপ নিয়ন্ত্রণ-অবস্থার তুলনায় নৈতিক ও চারিত্রিক ফলাফল বাড়ায় g = 0.55, এবং প্রকৃত প্রভাবের 73% পূর্ব-নিবন্ধিত সহায়ক থ্রেশহোল্ড ছাড়িয়ে যায় — কিন্তু **আহরণ-ধরনই প্রশনন-চলক ছিল**: আলোচনাভিত্তিক ও আলোচনা-যুক্ত-ব্যাখ্যামূলক ধরন কাজ করেছিল (g = 0.56 ও g = 0.68), অথচ কেবল-বক্তৃতা-নির্দেশনা শূন্যের থেকে আলাদা ছিল না (g = 0.10)। অনলাইন আহরণ ব্যক্তিগত উপস্থিতি থেকে আলাদা করা যায়নি। ([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod প্রমুখ, 2024]])
+
+এআই-নীতিশাস্ত্রে স্থানান্তরটি সেই গবেষণার ফলাফল নয়, অনুমান; তবু তা একটি শক্তিশালী অনুমান: পক্ষপাত ও সততা সম্পর্কে বক্তৃতা হিসেবে দেওয়া একটি এআই-নীতিশাস্ত্র মডিউল এই প্রমাণের ভিত্তিতে সবচেয়ে দুর্বল উপলব্ধ ধরন।

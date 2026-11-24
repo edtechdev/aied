@@ -1,7 +1,7 @@
 ---
 title: 信任校准
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-18T03:20:05-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -10,10 +10,14 @@ audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 translation_of: concepts/trust-calibration
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -78,6 +82,8 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, children-verifica
 把校准失当纯粹当作使用者的缺陷——一个靠教人们去检查 AI 输出就能修好的问题——可能是一个范畴错误。[[trust-calibration-chatbots-design-problem-2026|Jaidka 与 Cai（2026）]] 论证说，透明性设计是*惰性*的：它们等待使用者去采取行动，而大多数人不会。在一项对 900 名美国成年人的被动追踪研究中，看到 AI 生成摘要的读者，只有 1% 的访问会点击其中引用的来源，点击任何结果链接的频率约为没看到摘要的读者的一半。调查证据在规模上显示出同样的缺口——在一项覆盖 159 个国家、81,000 人的研究中，不可靠是人们最常提到的对 AI 的担忧，而 47 个国家中超过 48,000 名受访者基本上每天使用 AI，即便他们说自己并不信任它。信任与依赖已经漂移，而论文把原因定位在表层线索上：流畅度、自信与速度取代了可验证性，于是信心与正确性脱钩。值得注意的是，机器署名反而可能抬高可信度——读者在摘要由 GPT 而非人类撰写时，把它评为更可信、更值得信任，主要是因为模型写得更简单。
 
 其设计含义是一个二维的使用者类型学——验证 [[conversational-ai|聊天机器人]]输出的*能力*与这样做的*动机*——它预测了哪类使用者会在哪个方向上校准失当。作者把它与两类必须协同运作的干预配对：[[explainable-ai|可解释性]]设计（理由、引用、不确定性信号）使评估成为可能，以及参与机制使评估真正发生，再通过 Reason 的瑞士奶酪模型层叠为八项可检验的命题。[[ai-literacy|AI 素养]] 被定位为两者之下持久的层次，让使用者在类型学各单元之间移动。这种重新框定对教育很重要，因为它转移了责任：如果普通人群根本不点击透明的引用，那么仅仅让学生接触 AI 的解释并不能校准他们——该设计必须被设计得能迫使人去核查。
+
+AI 自身的概率输出也能教会这项技能。在 300 名新手判断图像的任务中，一个所显示的概率与其自身准确率校准很差的模型，改善了人类后续的校准（从 .063 到 .041），而重新校准后的显示与仅给类别则没有改变任何东西（[[hegeman-miscalibrated-ai-human-calibration-2026|Hegeman et al.，2026]]）。
 
 - **理由可以吸收矛盾的刺痛，却不使信任更校准。** 在四项情境实验中（N = 859），一条与体育教育者判断相冲突的 AI 推荐，把机器信任从 5.42 降到 4.31（d = 1.061）；提供理由把这一惩罚从 -0.811 缩小到 -0.182，尽管建议的准确率从未被确立（[[yang-ai-advice-agreement-trust-self-efficacy-pe-2026|Yang（2026）]]）。
 

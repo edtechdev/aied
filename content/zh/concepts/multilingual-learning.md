@@ -2,17 +2,21 @@
 connected_resources: [mglearn]
 title: 多语言学习
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-18T03:14:54-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -65,7 +69,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 多语言关切也影响[[automated-assessment|自动评价]]：[[ai-scoring-language-bias-physics|AI 评分可能表现出语言偏见]]（如在[[physics-education|物理]]中），惩罚非母语者。确保评价工具跨语言公平，是[[assessment-validity]]的一部分。
 
-基于 LLM 的比较判断是一个偏见追随人类基线而非模型的例子：3–6 年级信息类写作的分数与研究者量规趋同（r = .59–.73），并显示对多语言学习者类似人类评分的预测性偏见模式，且没有证据表明更强的模型能力或更高的成本改善了效度（[[llm-comparative-judgment-writing-screening-2026|Mercer & Reed（2026）]]）。
+基于 LLM 的比较判断是一个偏见追随人类基线而非模型的例子：3–6 年级信息类写作的分数与研究者[[rubrics|量规]]趋同（r = .59–.73），并显示对多语言学习者类似人类评分的预测性偏见模式，且没有证据表明更强的模型能力或更高的成本改善了效度（[[llm-comparative-judgment-writing-screening-2026|Mercer & Reed（2026）]]）。
 
 ## 对多语言语境中教师的启示
 
@@ -74,6 +78,8 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 - **反映文化与语境，而不只是翻译。**多语言 AI 必须超越翻译，走向[[culturally-relevant-pedagogy|文化相关教学法]]——生成在语言上和语境上都恰当的内容（[[llm-cultural-relevance-k12|K-12 文化相关性]]）。
 - **把 AI 与多语言支持结构配对。**在基于文本的 AI 失败处使用语音优先和口头模式（[[kutti-ai-voice-first-learning-companion|语音优先伴侣]]），并在双语语境中支持[[self-regulated-learning|自我调节]]（[[bilingual-llm-lecture-companion-srl-2026|双语讲义伴侣]]）。
 - **留意数字鸿沟。**AI 中的单语偏见会加深[[digital-divide]]并损害泛[[global-south]]的获取——在工具选择之外，还要规划公平的基础设施与获取。
+
+- **适应的劳动落在教师身上。**[[wang-lote-teachers-generative-ai-engagement-2026|Wang、Ding 与 Liu（2026）]]发现，教授英语之外语言的大学教师会例行地调整提示、纠正模型的语言、在文化上重新语境化内容并更换工具。这项工作是由语言等级强加的，而不是由薄弱的数字能力造成的；在只统计工具是否被使用的采用统计中，它是不可见的。
 
 ## 常见误解
 

@@ -9,12 +9,16 @@ ethics: [bias-mitigation, equity-in-ai-education, ethics]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/bias-mitigation"
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"

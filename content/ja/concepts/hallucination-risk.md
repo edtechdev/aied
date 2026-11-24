@@ -1,7 +1,7 @@
 ---
 title: ハルシネーション・リスク
 created: "2026-10-10T22:38:13-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -50,7 +54,7 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 評価設計のパイロットで、[[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]]は、でっち上げの参考文献と現実的でない所要時間の見積もりが、繰り返しのプロンプトや相当の学術的改訂に耐えて残ることを見出しました——学生の成果物ではなく、教育者向けの草案作成ツールにおけるハルシネーションです。
 
-**生成と書式の変換では失敗の仕方が異なります。** ペロブスカイト太陽電池についてIEEE形式の参考文献リストを求めたところ、ChatGPTが返した項目は、著者らの判断ではその大半がハルシネーションか誤った引用でした。イニシャル、年、巻、ページの誤りがあり、実際にはその研究を行っていないグループに帰属された、もっともらしく見える論文も1件ありました([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]])。これに対して、すでに検証済みの参考文献一式をAPA形式に変換するよう求めた場合、同じツールは正確で、大幅な時間を節約しました。リスクは書誌作業ではなく情報源をたどる側にあり、これは課題のルーブリックで明示できる一線です。
+**生成と書式の変換では失敗の仕方が異なります。** ペロブスカイト太陽電池についてIEEE形式の参考文献リストを求めたところ、ChatGPTが返した項目は、著者らの判断ではその大半がハルシネーションか誤った引用でした。イニシャル、年、巻、ページの誤りがあり、実際にはその研究を行っていないグループに帰属された、もっともらしく見える論文も1件ありました([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]])。これに対して、すでに検証済みの参考文献一式をAPA形式に変換するよう求めた場合、同じツールは正確で、大幅な時間を節約しました。リスクは書誌作業ではなく情報源をたどる側にあり、これは課題の[[rubrics|ルーブリック]]で明示できる一線です。
 
 **戦略的な[[misconceptions|誤概念]]**は、顕在的なハルシネーションのより繊細な親類です。[[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]]は、7つのオープンウェイト・モデルに、35のコンピュータサイエンス中核概念について「[[socratic-method|ソクラテス式]]の罠」——流暢で権威ありながら、繊細で分野固有の誤りの上に成り立つ説明——を生成させ、3人の分野の専門家が指示された241セグメントのうち221(91.7%)を戦略的な誤概念として確認し、CSの分野間に有意差はありませんでした。誤りは主に概念的であって事実的ではなく(66.5%対33.5%)、純粋に論理的なものは一つもなく、中程度から高度に説得力があると評価され(5件法で M = 3.71)、モデルの同一性が分散の43%を説明しました。個々の言明は正しくても、言明間の関係が誤っていることがあるため、ファクトチェックは不十分であり、著者らは[[ai-literacy|学習者]]には概念的検証と心的モデルの検証が必要だと論じています。また著者らは、この率は敵対的な[[prompt-engineering|プロンプト付け]]における能力を測定するものであって、通常の利用におけるそうした誤りの頻度ではないこと、そして学生はテストされなかったため、欺瞞も学習の成果も測定されていないことを注意深く指摘しています。
 
@@ -65,6 +69,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **標識を付けられた信頼性の低さは、報告される依存を上げるのではなく下げた。** 546人の参加者が、でっち上げられた情報を含むと標識を付けられたものと、検証済みで正確だと標識を付けられたものと同じGAIの対話を読んだとき、でっち上げの標識は、[[trust|信頼]]と知覚された統制可能性を下げ、認知的不協和と不快感を高め、そして*より低い*依存のスコア(M = 2.935 対 3.254)を伴って生じました([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]])。この結果は、このページの過度の依存の論理に条件を付けます。ある出力がでっち上げかもしれないと見ることは、それに倚りかかり続けることと同じではないのです。
 
 **信頼性の手がかりは、かえって追従を増幅しえます。** 逆の動きは、信頼できない出力が飾り立てられるときに現れます。ARMADAの討論インターフェースに引用と信頼性の信号を加えると、正しい初期判断から誤ったAIの立場へと乗り換えた参加者の割合が112%上昇し(31.8%対15.0%)、手作業による点検では、引用された事例のいくつかが無関係あるいは架空の文献に誤って帰属されていました([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]])。
+
+別の失敗様式は、設定が不適切な問題（ill-posed problem）です。[[bauyrzhan-genai-inorganic-chemistry-verification-2026|3つのチャットボットに42問の無機化学の問題を試す探求的ベンチマーク]]では、どのチャットボットも、欠陥のある言明について、その欠陥を指摘せず、説明を求めず、拒否することもなく、自信をもって答えました。不確実性の標識が結論に到達することはありませんでした。この失敗は間違った答えではなく、黙って受け入れた誤った前提です。
 
 ## よくある誤解
 

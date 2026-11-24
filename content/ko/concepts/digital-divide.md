@@ -1,23 +1,27 @@
 ---
 title: 디지털 격차
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -48,6 +52,8 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 - **코드 전환은 그 자체로 하나의 배제입니다.** 대부분의 [[llm]] 강의 도구는 단일 언어(영어) 오디오와 안정적인 인터넷을 전제로 하여, 영어와 가정 언어가 섞인 교실을 배제합니다. 인도의 UDISE+ 데이터는 학교 인터넷 접근률이 약 54%이며 도시-농촌 간 격차가 24포인트에 이르는 것으로 나타났으며, 온디바이스 전사와 로컬 우선 저장을 쓰는 이중언어 도구가 이에 대응합니다([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
 
 - **공공 디지털 서비스는 격차를 재생산합니다.** 케냐의 eCitizen 전자정부 플랫폼은 주로 영어이고 스와힐리어가 제한적이며 텍스트 전용 인터페이스여서, 낮은 문해력, 시각 장애, 농촌 청년을 배제합니다. 네 개의 생계 플랫폼(Ajira Digital, KRA iTax, HELB, YEDF)에 걸친 인터뷰와 11명 라운드테이블은 언어 기술과 WCAG 2.1에 기반한 설계를 포용의 지렛대로 지목합니다([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
+
+- **사용을 분해하되, 접근만이 아니라.** [[raut-ai-rural-education-india-2026|Raut의 통합적 고찰]]은 인도 농촌 14–16세 청소년 가운데 남학생의 85.5%와 여학생의 79.4%가 스마트폰을 사용할 수 있다고 답했다는 것을 보고하며, 가정 내 가용성이 실질적 사용에서의 성별 간극을 과소평가한다는 점을 시사합니다.
 
 ## AI는 격차를 심화하고(때로는 좁힐 수 있습니다)
 

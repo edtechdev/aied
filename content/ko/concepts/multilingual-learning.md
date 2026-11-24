@@ -2,23 +2,27 @@
 title: 다중언어 학습
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -61,7 +65,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 다중언어 문제는 [[automated-assessment|자동화된 평가]]에도 영향을 미칩니다: [[ai-scoring-language-bias-physics|AI 채점은 언어 편향]]을 보일 수 있어(예: [[physics-education|물리]]에서), 비원어민 화자에게 불리하게 작용합니다. 평가 도구가 여러 언어에 걸쳐 공정한지를 보장하는 것은 [[assessment-validity]]의 일부입니다.
 
-LLM 기반 비교 판단은 편향이 모델이 아니라 인간 기준선을 따랐던 사례입니다: 3~6학년 정보성 글쓰기 점수는 연구자 루브릭과 수렴했고(r = .59~.73), 인간 채점과 유사한 다중언어 학습자에 대한 예측 편향 패턴을 보였으며, 더 큰 모델 역량이나 비용이 타당성을 개선했다는 증거는 없었습니다 ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+LLM 기반 비교 판단은 편향이 모델이 아니라 인간 기준선을 따랐던 사례입니다: 3~6학년 정보성 글쓰기 점수는 연구자 [[rubrics|루브릭]]과 수렴했고(r = .59~.73), 인간 채점과 유사한 다중언어 학습자에 대한 예측 편향 패턴을 보였으며, 더 큰 모델 역량이나 비용이 타당성을 개선했다는 증거는 없었습니다 ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## 다중언어 맥락의 교수자를 위한 함의
 
@@ -70,6 +74,7 @@ LLM 기반 비교 판단은 편향이 모델이 아니라 인간 기준선을 �
 - **번역뿐 아니라 문화와 맥락을 반영하십시오.** 다중언어 AI는 번역을 넘어 [[culturally-relevant-pedagogy|문화적으로 관련된 교수법]]에 이르러야 합니다 — 언어적으로 그리고 맥락적으로 적절한 콘텐츠를 생성하십시오([[llm-cultural-relevance-k12|K-12 문화적 관련성]]).
 - **AI를 다중언어 지원 구조와 결합하십시오.** 텍스트 기반 AI가 실패하는 곳에서 음성 우선 및 구술 방식을([[kutti-ai-voice-first-learning-companion|음성 우선 동반자]]) 사용하고, 이중언어 맥락에서 [[self-regulated-learning|자기조절]]을 지원하십시오([[bilingual-llm-lecture-companion-srl-2026|이중언어 강의 동반자]]).
 - **디지털 격차를 주시하십시오.** AI의 단일언어 편향은 [[digital-divide]]를 심화하고 [[global-south]] 전반에 걸친 접근을 훼손합니다 — 도구 선택과 나란히 형평성 있는 인프라와 접근을 계획하십시오.
+- **적응 노동은 교사에게 떠넘겨진다.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]]는 영어 외의 언어를 가르치는 대학 교수들이 프롬프트를 조정하고, 모델의 언어를 교정하고, 내용을 문화적으로 재맥락화하고, 도구를 수시로 바꾸어 쓰는 것이 일상적임을 밝혔습니다. 그런 작업은 디지털 역량이 부족해서가 아니라 언어 위계에 의해 부과되는 것이며, 도구를 사용했는지만 헤아리는 도입 통계에서는 보이지 않습니다.
 
 ## 흔한 오해
 

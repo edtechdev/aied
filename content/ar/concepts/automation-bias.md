@@ -1,7 +1,7 @@
 ---
 title: انحياز الأتمتة
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]

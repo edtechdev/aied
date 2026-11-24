@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: "Privacy"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T13:19:54-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: "concepts/privacy"
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
 connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
@@ -72,14 +76,21 @@ La privacy è la precondizione per un'IA affidabile nell'educazione. Poiché i s
 
 - **Le interfacce di chat fanno trapelare la conversazione stessa.** Verificando 42 piattaforme di chat con IA, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] hanno trovato che 21 inviavano i titoli delle conversazioni a tracker di terze parti, e le sette piattaforme educative totalizzavano in media circa 367 richieste a tracker ciascuna, con cinque che facevano trapelare il contesto.
 
+- **Competenze e autorità falliscono separatamente.** Un framework di Hypothesis and Theory per la protezione dei dati degli studenti individua due fallimenti contrastanti: insegnanti che riconoscono un problema di privacy ma mancano dell'autorità o di un'alternativa approvata per agire, e istituzioni che offrono servizi tutelati mentre gli insegnanti divulgano informazioni non necessarie o accettano inferenze non supportate ([[kaziya-learner-data-privacy-governance-2026|Kaziya & Lungu (2026)]]). Esso tratta ciascuna decisione di raccogliere, trasmettere, inferire o divulgare dati degli studenti come unità di analisi, con competenza dimostrata e abilitazione istituzionale misurate separatamente.
+
 ## Sicurezza dei bambini e protezioni K-12
 
 Gli ambienti [[k-12]] richiedono garanzie di privacy più forti perché chi apprende è minorenne. Questo estende la privacy oltre la protezione dei dati fino alla [[pedagogical-safety|sicurezza pedagogica]]: gli strumenti che usano i bambini non devono solo proteggere i loro dati, ma anche proteggerli dal danno. La [[child-safety-genai|ricerca sulla sicurezza dei bambini]] mostra che i classificatori di sicurezza generici spesso non riescono a rilevare prompt non sicuri legati all'educazione provenienti da bambini, avvertendo che le scuole non possono dare per scontato che le garanzie standard dei modelli proteggano gli utenti più giovani — hanno bisogno di valutazioni specifiche per l'infanzia, test fondati su incidenti reali e [[human-in-the-loop-ai|supervisione umana]]. L'inquadramento collega la privacy all'[[equity-in-ai-education|equità]]: chi è protetto dalle pratiche di sicurezza e privacy predefinite riflette la sicurezza e l'autonomia di chi il sistema tratta come non negoziabili.
+
+- **Le soglie di età sono previste dalla legge, non dal contratto.** Un prodotto i cui termini dicono "13 anni o più" non elude per questo la COPPA: la norma si applica quando un servizio è rivolto ai bambini o il fornitore ha effettiva conoscenza che un utente ha meno di 13 anni, quindi il controllo dell'età e la minimizzazione dei dati appartengono ai termini di dispiegamento, non al testo del fornitore. A norma degli articoli 8 e 12 del GDPR la soglia equivalente è generalmente 16 anni per il consenso parentale verificabile, con un'informativa adeguata all'età ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
 
 ## La privacy nella pratica
 
 - **Trattare la privacy come requisito progettuale, non come ripensamento politico.** L'esempio di [[teachlm-post-training-llms-education|TeachLM]] mostra che consenso, anonimizzazione e trattamento sicuro dei dati possono essere integrati nella stessa pipeline dei dati — un modello per approvvigionare eticamente i dati autentici che rendono efficaci i [[intelligent-tutoring|tutor di IA]].
 - **Progettare per la minimizzazione dei dati.** Prediligere approcci che raccolgono solo ciò che l'adattamento richiede (IA edge/federata, elaborazione sul dispositivo) anziché accumulare per default i dati di interazione. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] ne dimostrano una forma federata concreta per la [[cognitive-diagnosis|diagnosi cognitiva]]: più [[llm|API LLM]] commerciali collaborano alla diagnosi aggiungendo localmente rumore di differential privacy ε-local alle previsioni di ciascun modello prima dell'aggregazione, così nessun fornitore vede i dati grezzi degli studenti — un'architettura che tutela la privacy e mantiene funzionale l'[[intelligent-tutoring|istruzione con tutor di IA]] senza centralizzare le traiettorie sensibili degli studenti. L'apprendimento federato consente anche **analitiche inter-istituzionali senza condivisione dei dati**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] addestrano un modello multitask di rischio accademico tra più istituzioni tramite aggregazione federata, così i dati grezzi degli studenti restano locali e vengono condivisi solo i parametri del modello — un'alternativa collaborativa, che tutela la privacy, alle [[learning-analytics|learning analytics]] centralizzate, che conserva la sovranità sui dati catturando al contempo pattern inter-istituzionali.
+- **Rimuovere l'identità anziché gestirla.** [[intelligent-tutoring|AI Tutor Pro]] è costruito in modo che gli studenti non abbiano bisogno di un account e non lascino alcun profilo: il modello di privacy è una scelta progettuale che elimina il rischio legato all'identità invece di governarlo a posteriori ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). La maggior parte dei consigli sulla privacy chiede alle istituzioni di verificare, minimizzare e chiedere consenso; questa è l'alternativa strutturale più economica, e si applica ovunque uno strumento non abbia bisogno di sapere chi è lo studente.
+- **Decidere dove ospitare i dati prima della pedagogia.** Wells (2026) ha condotto un pilota di assistente alla ricerca per la sociologia su un Copilot con licenza universitaria anziché su un chatbot pubblico, così che il lavoro degli studenti restasse all'interno dell'ambiente Microsoft 365 dell'istituzione, e ha subordinato l'accesso a un modulo formativo di cinque unità e a un quiz di cinque domande con soglia di superamento dell'80% ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). Il controllo sulla privacy e il gate di competenza sono arrivati come un'unica decisione di dispiegamento.
+
 - **Assicurare un consenso esplicito e informato.** Laddove i dati degli studenti finanziano lo sviluppo o il miglioramento dell'IA, le istituzioni dovrebbero essere trasparenti su raccolta, conservazione e uso — e gli studenti dovrebbero avere opzioni reali, non piattaforme imposte.
 - **Verificare chi è protetto.** Le garanzie di privacy non dovrebbero tendere a proteggere solo alcuni studenti; l'[[equity-in-ai-education|equità]] esige che la stessa cura si applichi a tutte le età, lingue, disabilità e condizioni socioeconomiche.
 

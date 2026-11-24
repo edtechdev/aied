@@ -1,7 +1,7 @@
 ---
 title: 幻觉风险
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-18T03:03:30-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,13 +11,13 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-11-24"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -28,7 +28,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -58,7 +58,7 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 在一项评估设计试点中，[[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] 发现了经反复提示仍存活、需要大量学术修订的编造参考文献与不切实际的时间估计——这是教育者使用的起草工具中的幻觉，而非学生作业中的幻觉。
 
-**生成与改写以不同方式失效。** 当被要求就钙钛矿太阳能电池给出 IEEE 格式的参考文献列表时，ChatGPT 返回的条目被作者发现大多属幻觉或引用有误：姓名缩写、年份、卷号与页码都不对，还有一篇看似合理的文章被归到一个从未做过这项工作的团队名下（[[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra 与 Gong，2026]]）。而当被要求把一组已经核实过的参考文献转换为 APA 格式时，同一个工具却准确无误，还节省了大量时间。风险出在来源选取上，而非文献格式工作上，这是作业评分标准可以写明的一条界线。
+**生成与改写以不同方式失效。** 当被要求就钙钛矿太阳能电池给出 IEEE 格式的参考文献列表时，ChatGPT 返回的条目被作者发现大多属幻觉或引用有误：姓名缩写、年份、卷号与页码都不对，还有一篇看似合理的文章被归到一个从未做过这项工作的团队名下（[[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra 与 Gong，2026]]）。而当被要求把一组已经核实过的参考文献转换为 APA 格式时，同一个工具却准确无误，还节省了大量时间。风险出在来源选取上，而非文献格式工作上，这是作业[[rubrics|评分标准]]可以写明的一条界线。
 
 **策略性[[misconceptions|误解]]** 是显性幻觉更隐蔽的近亲。[[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] 提示七个开放权重模型，为 35 个核心计算机科学概念各生成一个“[[socratic-method|苏格拉底]]陷阱”——一种流畅而权威、却建立在一个微妙的领域特定错误之上的解释——三位领域专家确认 241 个被提示片段中有 221 个（91.7%）为策略性误解，且不同CS领域之间无显著差异。错误以概念性为主而非事实性（66.5% 对 33.5%），没有一个是纯粹逻辑性的；它们被评为中等到高度有说服力（五点量表上 M = 3.71），模型身份解释了 43% 的方差。由于单个陈述可以正确而陈述之间的关系错误，事实核查并不够；作者主张 [[ai-literacy|学习者]]需要概念验证与心智模型校验。他们还告诫，该比率衡量的是对抗性[[prompt-engineering|提示]]下的能力，而非此类错误在日常使用中的流行率，且未测试任何学生，因此未测量任何欺骗或学习结果。
 
@@ -73,6 +73,8 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 **标注为不可靠降低了报告出的依赖而非提高了它。** 当 546 名参与者阅读同一个GAI对话——一段被标注为包含编造信息，另一段被标注为经核实准确——时，被标注为编造的版本产生了更低的 [[trust|信任]] 与感知可控性、更高的认知失调与挫败，同时伴随 *更低* 的依赖得分（M = 2.935 对 3.254）（[[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]）。这一结果对本页的过度依赖逻辑构成了限定：看到输出可能是编造的，与继续依赖它并不是一回事。
 
 **可信度线索反而会放大顺从。**当一个不可靠的输出被装扮起来时，出现了相反的动向：在 ARMADA 辩论界面上加入引注与可信度信号，把参与者从正确的初始判断转向错误的 AI 立场的比例抬高了 112%（31.8% 对 15.0%），而人工核查发现一些被引用的案例被错误归因给无关或虚构的参考文献（[[tuo-armada-multi-agent-debate-overreliance-2026|Tuo 等，2026]]）。
+
+还有一种不同的失效模式是问题本身不成立。[[bauyrzhan-genai-inorganic-chemistry-verification-2026|一项对三个聊天机器人在 42 道无机化学题上的探索性基准测试]]中，每个聊天机器人都自信地回答了有缺陷的陈述，既不指出缺陷，也不请求澄清或拒绝作答，不确定性标记从未出现在结论中。这种失效不是答案错误，而是一个被静默接受的虚假前提。
 
 ## 常见误解
 

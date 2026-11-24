@@ -1,7 +1,7 @@
 ---
 title: "التعلّم الشامل"
 created: "2026-10-12T15:40:00-04:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_resources: [mglearn]
 type: concept
 foundations: [ai-education, learning-design]

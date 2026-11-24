@@ -1,7 +1,7 @@
 ---
 title: Halüsinasyon Riski
 created: "2026-10-14T21:50:00-04:00"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-21T08:52:26-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Risk ayrıca dile bağlıdır: [[genai-l2-written-feedback-scoping-review-2026|C
 
 Bir değerlendirme tasarım pilotunda, [[authentic-assessments-generative-ai-pilot-2026|Paula ve ark. (2026)]], tekrarlanan istem çalışmalarından sağ çıkan ve önemli akademik revizyon gerektiren uydurma referanslar ve gerçekçi olmayan zaman tahminleri buldu — öğrenci çalışmasında değil, eğitimciye yönelik bir taslak aracında halüsinasyon.
 
-**Üretme ve yeniden biçimlendirme farklı başarısız olur.** Perovskite güneş pilleri üzerine IEEE tarzı bir referans listesi istendiğinde, ChatGPT yazarların çoğunlukla halüsinasyon veya yanlış atıf olarak bulduğu girişler döndürdü: yanlış baş harfler, yıl, cilt ve sayfa numaraları ile hiçbir iş yapmamış bir gruba atfedilen makul görünen bir makale ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra ve Gong, 2026]]). Zaten doğrulanmış bir referans kümesini APA biçimine dönüştürmesi istendiğinde ise aynı araç doğruydu ve önemli ölçüde zaman kazandırdı. Risk, bibliyografik işte değil kaynak bulmada yatar; bu, bir ödev rubriğinin ifade edebileceği bir çizgidir.
+**Üretme ve yeniden biçimlendirme farklı başarısız olur.** Perovskite güneş pilleri üzerine IEEE tarzı bir referans listesi istendiğinde, ChatGPT yazarların çoğunlukla halüsinasyon veya yanlış atıf olarak bulduğu girişler döndürdü: yanlış baş harfler, yıl, cilt ve sayfa numaraları ile hiçbir iş yapmamış bir gruba atfedilen makul görünen bir makale ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra ve Gong, 2026]]). Zaten doğrulanmış bir referans kümesini APA biçimine dönüştürmesi istendiğinde ise aynı araç doğruydu ve önemli ölçüde zaman kazandırdı. Risk, bibliyografik işte değil kaynak bulmada yatar; bu, bir [[rubrics|ödev rubriğinin]] ifade edebileceği bir çizgidir.
 
 **Stratejik [[misconceptions]]** yanlış kanılar, açık halüsinasyonun daha incelikli bir akrabasıdır. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević ve ark. (2026)]], yedi açık ağırlıklı modelden 35 temel bilgisayar bilimi kavramı için bir “[[socratic-method|Socratic]] Sokratik tuzak” üretmesini istedi — akıcı ve otoriter görünen ama ince, alana özgü bir hata üzerine oturan bir açıklama — ve üç alan uzmanı istenen 241 segmentin 221’ini (%91,7) stratejik yanlış kanı olarak doğruladı; BT alanları arasında anlamlı fark yoktu. Hatalar ağırlıklı olarak olgusal değil kavramsaldı (%66,5 karşı %33,5) ve hiçbiri salt mantıksal değildi; orta ila yüksek düzeyde ikna edici olarak derecelendirildiler (beş puanlı ölçekte M = 3,71), model kimliği varyansın %43’ünü açıklıyordu. Bireysel ifadeler doğru olabilecekken aralarındaki ilişki yanlış olduğundan, olgu denetimi yetersizdir; yazarlar [[ai-literacy|learners]] öğrenenlerin kavramsal doğrulama ve zihinsel model doğrulamasına ihtiyaç duyduğunu savunurlar. Ayrıca oranın, sıradan kullanımdaki bu tür hataların yaygınlığından ziyade düşmanca [[prompt-engineering|prompting]] istem çalışmaları altında bir yeteneği ölçtüğünü ve hiçbir öğrencinin test edilmediğini, dolayısıyla hiçbir aldatma veya öğrenme sonucunun ölçülmediğini uyarırlar.
 

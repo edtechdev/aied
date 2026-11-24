@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [accessibility, inclusive-learning, special-education, universal-design-for-learning, equity-in-ai-education, educational-policy-ai, neurodiversity, learning-design, speech-and-voice-technologies]
 connected_articles: [shin-ai-policies-sld-2026, zhang-ai-students-disabilities-meta-analysis-2024, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, text-simplification-its, llm-question-generation-deaf-hard-of-hearing-2026, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 ---
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*

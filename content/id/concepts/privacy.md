@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education, ethics]
 level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T13:19:54-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/privacy"
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
 connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
@@ -68,14 +72,20 @@ Privasi adalah prasyarat bagi AI yang tepercaya dalam pendidikan. Karena sistem 
 
 - **Antarmuka chat membocorkan percakapannya sendiri.** Dalam audit atas 42 platform chat AI, [[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos et al. (2026)]] menemukan 21 mengirim judul percakapan ke pelacak pihak ketiga, dan tujuh platform pendidikan rata-rata menerima sekitar 367 permintaan pelacak masing-masing, dengan lima membocorkan konteks.
 
+- **Kompetensi dan otoritas gagal secara terpisah.** Sebuah kerangka *Hypothesis and Theory* untuk perlindungan data siswa menyebut dua kegagalan yang kontras: guru yang mengenali masalah privasi tetapi tidak memiliki otoritas atau alternatif yang disetujui untuk menindaklanjutinya, dan institusi yang menyediakan layanan berpengaman sementara guru mengungkapkan informasi yang tidak perlu atau menerima inferensi yang tidak didukung ([[kaziya-learner-data-privacy-governance-2026|Kaziya & Lungu (2026)]]). Kerangka itu menperlakukan setiap keputusan untuk mengumpulkan, mengirimkan, menyimpulkan, atau mengungkapkan data siswa sebagai unit analisis, dengan kompetensi yang terdemonstrasikan dan pemberdayaan institusional diukur secara terpisah.
+
 ## Keselamatan anak dan perlindungan K-12
 
 Lingkungan [[k-12]] menuntut pengaman privasi yang lebih kuat karena siswa adalah anak di bawah umur. Ini memperluas privasi melampaui perlindungan data ke [[pedagogical-safety]]: alat yang digunakan anak-anak bukan hanya harus melindungi data mereka tetapi juga melindungi mereka dari bahaya. [[child-safety-genai|Penelitian keselamatan anak]] menunjukkan bahwa pengklasifikasi keselamatan serbaguna sering gagal mendeteksi prompt tidak aman terkait pendidikan dari anak-anak, dengan memperingatkan bahwa sekolah tidak dapat mengasumsikan pengaman model standar melindungi pengguna yang lebih muda — mereka memerlukan evaluasi khusus anak, pengujian berbasis insiden, dan [[human-in-the-loop-ai|pengawasan manusia]]. Kerangka ini menghubungkan privasi dengan [[equity-in-ai-education|keadilan]]: siapa yang dilindungi oleh praktik keselamatan dan privasi default mencerminkan keselamatan dan otonomi siapa yang diperlakukan sistem sebagai tidak dapat ditawar.
+
+- **Ambang usia bersifat statutori, bukan kontraktual.** Produk yang ketentuannya berbunyi "13 tahun atau lebih" tidak dengan demikian lepas dari COPPA: aturan itu menempel ketika suatu layanan diarahkan kepada anak-anak atau penyedia memiliki pengetahuan aktual bahwa pengguna berusia di bawah 13 tahun, sehingga penyaringan usia dan minimalisasi data termasuk dalam ketentuan penerapan, bukan dalam teks vendor. Di bawah GDPR Pasal 8 dan 12, lantai yang sebanding umumnya 16 tahun untuk persetujuan orang tua yang dapat diverifikasi, dengan pemberitahuan yang sesuai usia ([[stefanile-middle-secondary-ai-guidance-2026|Stefanile, 2026]]).
 
 ## Privasi dalam praktik
 
 - **Perlakukan privasi sebagai persyaratan desain, bukan pertimbangan kebijakan belakangan.** Contoh [[teachlm-post-training-llms-education|TeachLM]] menunjukkan bahwa persetujuan, anonimisasi, dan penanganan data yang aman dapat dibangun ke dalam pipeline data itu sendiri — model bagi pengadaan data autentik secara etis yang membuat [[intelligent-tutoring|tutor AI]] efektif.
 - **Rancang untuk minimalisasi data.** Utamakan pendekatan yang hanya mengumpulkan apa yang dibutuhkan adaptasi (AI edge/federasi, pemrosesan di perangkat) alih-alih menimbun data interaksi secara default. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] mendemonstrasikan bentuk federasi konkret dari hal ini untuk [[cognitive-diagnosis]]: beberapa API [[llm]] komersial berkolaborasi dalam diagnosis sambil menambahkan noise privasi diferensial lokal-ε secara lokal pada prediksi setiap model sebelum agregasi, sehingga tidak ada penyedia yang melihat data siswa mentah — arsitektur yang menjaga privasi dan membuat [[intelligent-tutoring|tutoring AI]] tetap berfungsi tanpa memusatkan lintasan siswa yang sensitif. Pembelajaran federasi juga memungkinkan **analitik lintas institusi tanpa berbagi data**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] melatih model risiko akademik multitugas lintas institusi melalui agregasi federasi sehingga data siswa mentah tetap lokal dan hanya parameter model yang dibagikan — alternatif kolaboratif dan menjaga privasi terhadap [[learning-analytics]] terpusat yang mempertahankan kedaulatan data sekaligus menangkap pola lintas institusi.
+- **Hapus identitas, jangan kelola identitas.** [[intelligent-tutoring|AI Tutor Pro]] dibangun sedemikian rupa sehingga siswa tidak memerlukan akun dan tidak meninggalkan profil: model privasinya adalah pilihan desain yang menghilangkan risiko identitas alih-alih mengaturnya setelah kejadian ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). Sebagian besar nasihat privasi meminta institusi untuk mengaudit, meminimalkan, dan meminta persetujuan; ini adalah alternatif struktural yang lebih murah, dan berlaku di mana pun suatu alat tidak perlu mengetahui siapa pembelajarnya.
+- **Pilih jenis penempatan (tenancy) sebelum pedagogi.** Wells (2026) menjalankan pilot asisten penelitian sosiologi pada Copilot berlisensi universitas, bukan chatbot publik, agar tugas siswa tetap berada di dalam lingkungan Microsoft 365 institusi, dan mengatur akses di balik modul pelatihan lima unit serta kuis lima butir dengan nilai kelulusan 80% ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). Kendali privasi dan gerbang kompetensi dikirim sebagai satu keputusan penerapan.
 - **Amankan persetujuan yang eksplisit dan terinformasi.** Ketika data siswa membiayai pengembangan atau peningkatan AI, institusi harus transparan tentang pengumpulan, penyimpanan, dan penggunaan — dan siswa harus memiliki pilihan nyata, bukan platform yang diwajibkan.
 - **Audit untuk siapa yang dilindungi.** Pengaman privasi tidak boleh secara default hanya melindungi sebagian siswa; [[equity-in-ai-education|keadilan]] menuntut agar perhatian yang sama berlaku lintas usia, bahasa, disabilitas, dan garis sosioekonomi.
 

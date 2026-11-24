@@ -1,6 +1,6 @@
 ---
 title: "YZ Kullanım ve Açıklama Beyanları"
-updated: "2026-11-21T17:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-14T06:55:12-04:00"
 type: concept
 foundations: [academic-integrity]

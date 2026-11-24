@@ -1,7 +1,7 @@
 ---
 title: בינה מלאכותית מוסברת
 created: "2026-10-12T20:30:00-04:00"
-updated: "2026-11-23T13:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -23,7 +23,6 @@ ai_assist:
     role: translation
     date: "2026-10-12"
     agent: hermes-agent
-
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"

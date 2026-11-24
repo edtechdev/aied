@@ -8,7 +8,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-updated: "2026-11-23T13:45:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]

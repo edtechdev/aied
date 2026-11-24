@@ -1,14 +1,14 @@
 ---
 title: Digitale Kluft
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -20,8 +20,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -54,7 +58,10 @@ Die Wende zur Edge-Inferenz fügt der Kluft erster Ebene eine Hardware-Dimension
 - **Repräsentation und strukturelles Schweigen:** [[structural-silence-underrepresented-language-ai-2026|Forschung zu unterrepräsentierten Sprachen]] verdeutlicht, wie sich die digitale Kluft darauf erstreckt, *welche* Gemeinschaften, Sprachen und Perspektiven in AI-Systemen repräsentiert sind und von ihnen bedient werden — eine kulturelle und epistemische Dimension der Ungleichheit.
 
 - **Code-Switching ist ein eigener Ausschluss.** Die meisten [[llm|LLM]]-Vorlesungstools setzen einsprachiges englisches Audio und zuverlässiges Internet voraus und schließen damit Klassenräume aus, in denen Englisch und eine Herkunftssprache gemischt werden; Indiens UDISE+-Daten beziffern den Internetzugang an Schulen auf rund 54 % bei einer Stadt-Land-Lücke von 24 Prozentpunkten, und ein bilingualer Begleiter antwortet darauf mit Transkription auf dem Gerät und Local-First-Speicherung ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]]).
+
 - **Öffentliche digitale Dienste reproduzieren die Kluft.** Kenias E-Government-Plattform eCitizen ist überwiegend englischsprachig, bietet nur begrenztes Swahili und eine rein textbasierte Oberfläche, was Jugendliche mit geringer Literalität, sehbehinderte Jugendliche und Jugendliche in ländlichen Regionen ausschließt; Interviews sowie ein Roundtable mit elf Personen zu vier Plattformen der Existenzsicherung (Ajira Digital, KRA iTax, HELB, YEDF) verweisen auf Sprachtechnologien und ein an WCAG 2.1 orientiertes Design als Hebel für Inklusion ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
+
+- **Nutzen disaggregieren, nicht nur den Zugang.** [[raut-ai-rural-education-india-2026|Rauts integrativer Review]] berichtet, dass unter ländlichen indischen Jugendlichen im Alter von 14–16 Jahren 85,5 % der Jungen und 79,4 % der Mädchen angaben, ein Smartphone nutzen zu können; die Verfügbarkeit im Haushalt unterschätzt also eine Geschlechterlücke in der praktischen Nutzung.
 
 ## KI vertieft (und kann schließen) Klüfte
 

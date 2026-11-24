@@ -1,7 +1,7 @@
 ---
 title: אתיקה
 created: "2026-10-12T19:40:00-04:00"
-updated: "2026-11-23T12:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]

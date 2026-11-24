@@ -1,5 +1,6 @@
 ---
 title: Етика
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-14T00:45:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
@@ -8,10 +9,14 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -21,7 +26,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -67,6 +72,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **Нормативні рамки не є взаємозамінними.** Серед 151 іспанського студента бакалаврату моральна рівність була необхідною умовою наміру використовувати LLM у підготовці до іспитів (d = 0,338), але не достатнім предиктором, тоді як консеквенціалістські (β = 0,350) та деонтологічні (β = 0,329) розсуди були ним — студенти застосовують кілька нормативних рамок ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]]).
 - **Спільна багатовимірна структура.** Шість тем у [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — що охоплюють етику даних, етику алгоритмів і педагогічну етику — формують взаємопов’язаний причинний ланцюг від фундаментальних принципів (прозорість, підзвітність, справедливість, автономія) до поведінкових результатів, підкреслюючи, що відповідальне використання ШІ залежить не менше від чітких інституційних дорожніх карт, ніж від індивідуальної усвідомленості.
 
+- **Значущість етики зростає з рівнем освіти.** [[licardo-students-ethical-challenges-genai-2026|Licardo & Šindić (2026)]] опитали 1 299 словенських студентів у початковій, середній та вищій освіті й виявили, що сприйнята важливість етичних викликів GenAI монотонно зростала з рівнем. Самооцінене знання ШІ та знайомість із ним не додавали нічого виявного, тож вісь рівня, а не попередні знання, упорядковувала етичну стурбованість.
+
 ## Від принципів до інституційного управління
 
 Дослідження бази знань усе більше розташовують етику в закладах і структурах, а не лише в індивідах:
@@ -105,6 +112,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 
 Етична усвідомленість, рефлексивне міркування та [[self-report-measures|самооповідана]] відповідальна практика розвиваються здебільшого незалежно. У трьох щорічних хвилях 350 нігерійських студентів бакалаврату з [[higher-ed|обчислювальної галузі]] [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] виявили, що всі три суттєво зросли, проте їхні фактори зростання були майже некорельованими, а початкова усвідомленість не передбачала подальшого зростання.
 
+Впевненість у етичній процедурі може зростати, тоді як самоусвідомлення залишається на місці. [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones and Hoover (2026)]] вбудували GenAI до вибіркового курсу з лідерства та етики для студентів бакалаврату, послідовно розглядаючи один і той самий [[case-based-learning|кейс]] спочатку без допомоги, а потім із ChatGPT, і проаналізували 38 зіставленних опитувань впевненості приблизно від 80 студентів. На шкалі 0–10 самооцінена здатність розпізнати етичну дилему зросла з 7,24 до 8,39, а здатність прийняти обґрунтоване та виправдане рішення — з 7,24 до 8,45, обидва при p < 0,001, і використання етичних теорій для пояснення рішення зросло з 5,39 до 7,08. Два інтроспективні пункти — визначення власних чеснот, цінностей і прав (p = 0,063) та пояснення того, як особисті цінності впливають на рішення (p = 0,124) — не зсунулися, що локалізує приріст у процедурній навичці, а не в моральному самоусвідомленні.
+
 ## Зв’язки
 
 Етика пов’язується з [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]] і [[governance]]. Це нормативна основа для всіх інших понять освіти зі ШІ — рамка, у межах якої питання справедливості, прозорості, автономії та безпеки порушуються і розв’язуються.
@@ -114,3 +123,9 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **«Рамка шахрайства є достатнім способом мислити про етику GenAI.»** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] стверджують, що заклади мають вирішувати питання генеративного ШІ через **етику партнерства, а не рамку шахрайства**. Рамка визначає, які питання ставляться, а рамка проступку не може запитати про освітню мету.
 - **«Викладачі та студенти погоджуються щодо того, що є етичним.»** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç and Sever (2026)]], [[mixed-methods-research|змішане]] дослідження **971 студента та 135 викладачів**, виявляють, що етичні виміри розходяться між групами. Політика, написана з однієї перспективи, неправильно опише іншу.
 - **«Етичний консенсус передує використанню.»** **Впровадження випереджає етичну згоду**: протягом чотирьох семестрів у програмі підготовки викладачів у США використання GenAI студентами **зросло з 57% до 83% для підготовки до оцінювання**. Норми формуються практикою, а не навпаки.
+
+## Чи працює взагалі викладання етики
+
+Навчання етики ШІ часто обґрунтовують припущенням, якого ніхто не перевіряє: що [[ethics|викладання етики]] взагалі щось змінює. Систематичний огляд і метааналіз 2024 року, охопивший 66 досліджень та 9 978 студентів, є найкращою доступною перевіркою цього припущення в освіті загалом. Етичні втручання підвищили етичні та моральні результати на g = 0,55 проти контрольних умов, і 73 % справжніх ефектів перевищили заздалегідь зареєстрований корисний поріг — але модератором виступив формат подання: дискусійні формати та дискусійно-дидактичні працювали (g = 0,56 і g = 0,68), тоді як лише лекційне викладання не відрізнялося від нуля (g = 0,10). Онлайн-подання було нерозрізненним з очним.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+Перенесення на етику ШІ — це скоріше умовивід, ніж знахідка того дослідження, але умовивід сильний: модуль з етики ШІ, поданий як лекція про упередженість і доброчесність, за цими даними є найслабшим доступним форматом.

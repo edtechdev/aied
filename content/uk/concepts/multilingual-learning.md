@@ -1,5 +1,6 @@
 ---
 connected_resources: [mglearn]
+updated: "2026-11-24T02:05:00-05:00"
 title: Багатомовне навчання
 created: "2026-10-13T21:30:00-04:00"
 type: concept
@@ -8,10 +9,14 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -21,7 +26,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови.*
@@ -56,11 +61,15 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 Трансмовлення (транслінгвізм) — це можливість, яку генеративні [[conversational-ai|чатботи]] додають, а попередні мовні інструменти не мали. У [[meta-analysis-systematic-review|систематичному огляді]] 24 досліджень здобувачі просили контекстуалізовані фрази та пояснення власною мовою як місток до цільової мови — використання, яке оглядачі класифікують як нову субможливість, а не перепаковану ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
+Мовна вартість онбордингу інструмента є вимірюваною: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] виявили, що здобувачі англійської витрачали значно більше часу на скаффолдений підручник зі створення агентів, ніж носії мови, тоді як на відкритому проєктному завданні різниці не було.
+
+Англійська домінує навіть там, де повсякденно використовуються чотири мови. Серед 42 студентів на Кюрасао та Арубі дві третини назвали англійську своєю бажаною мовою для ШІ, і лише сесії з GPT зсувалися до папьяменту, коли розмова ставала локальною ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## Упередженість оцінювання
 
 Багатомовні занепокоєння також стосуються [[automated-assessment|автоматизованого оцінювання]]: [[ai-scoring-language-bias-physics|оцінювання за допомогою ШІ може виявляти мовну упередженість]] (наприклад, у [[physics-education|фізиці]]), штрафуючи не носіїв мови. Забезпечення справедливості інструментів оцінювання в різних мовах є частиною [[assessment-validity]].
 
-Компаративне судження на базі LLM є випадком, коли упередженість відстежувала людський базовий рівень, а не модель: оцінки інформаційного письма учнів 3–6-го класів збігались із рубриками дослідників (r = 0,59–0,73) і демонстрували патерни передбачувальної упередженості для багатомовних здобувачів, подібні до людського оцінювання, без свідчень того, що більша потужність моделі або витрати покращували валідність ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+Компаративне судження на базі LLM є випадком, коли упередженість відстежувала людський базовий рівень, а не модель: оцінки інформаційного письма учнів 3–6-го класів збігались із [[rubrics|рубриками]] дослідників (r = 0,59–0,73) і демонстрували патерни передбачувальної упередженості для багатомовних здобувачів, подібні до людського оцінювання, без свідчень того, що більша потужність моделі або витрати покращували валідність ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Наслідки для викладачів у багатомовних контекстах
 
@@ -69,6 +78,8 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 - **Відображайте культуру та контекст, а не лише переклад.** Багатомовний ШІ має виходити за межі перекладу до [[culturally-relevant-pedagogy|культурно релевантної педагогіки]] — генеруйте контент, який є лінгвістично та контекстуально доречним ([[llm-cultural-relevance-k12|культурна релевантність у K-12]]).
 - **Поєднуйте ШІ зі структурами багатомовної підтримки.** Використовуйте голосові та усні режими ([[kutti-ai-voice-first-learning-companion|голосові супутники]]) там, де текстовий ШІ не спрацьовує, і підтримуйте [[self-regulated-learning|саморегуляцію]] в двомовних контекстах ([[bilingual-llm-lecture-companion-srl-2026|двомовний лекційний супутник]]).
 - **Стежте за цифровим розривом.** Монолінгвальна упередженість у ШІ поглиблює [[digital-divide]] і підриває доступ у [[global-south]] країнах — плануйте справедливу інфраструктуру та доступ поряд із вибором інструменту.
+
+- **Адаптивна праця лягає на вчителя.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] виявили, що університетські викладачі мов, відмінних від англійської, буденно адаптують підказки, виправляють мову моделі, культурно переосмислюють контент і змінюють інструменти. Ця робота нав’язується лінгвістичною ієрархією, а не слабкою цифровою компетентністю, і вона невидима в статистиці впровадження, яка рахує лише те, чи користувалися інструментом.
 
 ## Поширені хибні уявлення
 

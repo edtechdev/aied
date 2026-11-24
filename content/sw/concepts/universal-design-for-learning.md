@@ -1,5 +1,6 @@
 ---
 title: Ubuni wa Kijumla wa Kujifunza
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T05:42:00-04:00"
 type: concept
 foundations: [learning-design]
@@ -9,16 +10,20 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -73,6 +78,8 @@ UDL hubadilisha "rekebisha mwanafunzi" kuwa "rekebisha ubini." Kwa waalimu na wa
 - Toa uchaguzi wa bidhaa ya tathmini (insha, uwasilishaji, video, mchoro, kodi) iliyounganishwa na matokeo yale yale ya kujifunza.
 - *Mfano:* Mradi unaruhusu kuwasilisha kama ripoti iliyoandikwa, maelezo ya video yanayosaidiwa na AI, au onyesho la moja kwa moja — na [[scaffolding|ngazi za msaada]] za AI zikisaidia kila hali. Katika ubuni wa [[assessment]], hii inafanana na haki ya uwakilishaji ya [[authentic-assessment]].
 
+Chaguo linaingiza tu wakati machaguo yanaonekana ya kuaminika sawa. Wanafunzi katika utafiti mmoja wa Kitivo cha Sayansi walipenda kuchagua kati ya video na insha lakini wakaripoti kuwa wenzao walihofia kuwa insha itapatiwa alama mbaya, kwa hivyo vigezo vilivyoshirikiana na mfumo wa kuweka alama uliowekwa wazi ndicho vinavyogeuza menyu ya miundo kuwa ujumla badala ya kukisia kwa mikakati ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Buni kwa ujuzi wa AI na wakala.**
 - Fundisha wanafunzi jinsi na lini kutumia AI, na ujenge vituo vya kukagua vinavyoweka mwanafunzi (si zana) kama mwenye uwajibikisho — angalia [[ai-literacy]] na [[reducing-ai-misuse]].
 - *Mfano:* Kazi iliyounganishwa na UDL inawaruhusu wanafunzi kutumia AI kuandaa rasimu lakini inahitaji tafakari ya [[metacognition|metaji]] juu ya mchango wao wenyewe, ikihifadhi kanuni za ushirikiano na wakala.
@@ -82,6 +89,8 @@ UDL hubadilisha "rekebisha mwanafunzi" kuwa "rekebisha ubini." Kwa waalimu na wa
 - Linda dhidi ya AI inayodhani mtindo mmoja wa mawasiliano au inayoadhibu maelezo ya watu wenye tofauti za neva — unganisha na [[accessibility]], [[equity-in-ai-education]], na [[neurodiversity]].
 
 - **Lengo vizuizi vya kazi, si utambuzi wa magonjwa.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] waligundua kuwa korpusi ya masudio 40 ya teknolojia za kusaidia kwa wanafunzi wenye tofauti za neva ilipangwa kuzunguka zana za marekebisho na za mlango wa utambuzi, na wanadai kuwa kubuni kwa vizuizi vinavyopita ambavyo wanafunzi wanakabiliwa kweli ni kile kinachofanya zana kuwa ya kijumla kwa uwezekano.
+
+**Usawa bila kufanana.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] wanaupanua menyu ya UDL katika kazi ya tafakari inayosaidiwa na AI: wanafunzi wanapaswa kuwa na njia zinazolinganishwa — tafakari kwa maandishi au sauti, njia iliyosaidiwa na AI au isiyo na AI, msaada wa binadamu kwa wakati mmoja, vigezo vya uwazi visivyotuza ufasaha wa kiufundi usio na uhusiano na lengo — na, muhimu, haki zinazotumika, chaguo la mwanafunzi lenye maana na upatikanaji wa msingi ni vigezo vya awali visivyo na fidia, badala ya alama ambazo utendaji thabiti mahali pengine unaweza kuongeza. Kanuni ni "usawa bila kufanana": media tofauti au viwango vya kiotomatiki vinaweza kutumika, lakini lazima zitoa fursa zinazolinganishwa za kufikia matokeo yale yale, na ujumla unapaswa kujengwa ndani badala ya kutendewa kama marekebisho baada ya tukio.
 
 ## Dhana Potofu za Kawaida
 

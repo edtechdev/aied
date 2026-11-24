@@ -1,6 +1,7 @@
 ---
 title: "Taarifa za Matumizi ya AI na za Kudhihirisha"
 created: "2026-10-13T08:06:00-04:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -11,13 +12,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
 connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
@@ -52,6 +57,7 @@ Kudhihirisha ni mifumo inayofanya kazi iliyoonyeshwa na AI *ionekane* na hivyo i
 
 - **Kudhihirisha ni nadra na kinachosababishwa na wasiwasi.** Kote katika masudio, wanafunzi wengi hawadhihirishi matumizi ya AI kwa waelimishaji. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov na wenzake (2026)]] waligundua kuwa ~34% tu ya wanafunzi wa uchumi walikiri matumizi ya AI na kudhihirisha kulikuwa nadra zaidi, kikichochewa na "wasiwasi wa adhabu." [[vetter-hidden-cost-disclosure-genai-2026|Vetter na wenzake (2026)]] waligundua 66% ya wanafunzi hawakudhihirisha kamwe au mara chache, huku hofu ya adhabu ya kitaaluma ikiwa sababu kuu. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] alidhibitisha **kutokufuata kwa 74%** kwa tangazo la lazima katika Shule ya [[business-education|Biashara]] ya King's.
 - **Sera zisizo wazi na za adhabu zinasababisha kuficha.** Sera za matumizi ya AI zisizo wazi, zisizotekelezwa, au zilizopiga marufuku, wanafunzi huficha matumizi badala ya kushiriki. Sera za "matumizi madogo katika hali fulani" hutabiri kudhihirisha vyema zaidi; sera za "hairuhusiwi" au "hawajui" hutabiri kuficha. Sera wazi, thabiti, na za ushirikiano zinaitwa kwa kurudiarudia.
+- **Wajibu, si adhabu tu.** Kanuni mbili zenye nia ile ile zinatenganisha kudhihirisha na kuficha: [[mehreen-genai-policy-wording-2026|Mehreen na wenzake (2026)]] waligundua kuwa kuweka jukumu kwenye udanganyifu huambatana na wanafunzi kujificha matumizi yao, wakati kuwafanya wanafunzi wajibu kwa matokeo yasiyosahihi huambatana na umiliki na uwazi.
 - **Kudhihirisha kina gharama za kisaikolojia — na gharama zilizofichwa.** Wanafunzi wanaona matangazo kama kujitia hatiani, na baadhi wanaamini kuwa matumizi ya AI ni ya kibinafsi kama kutumia kikokotoo. [[vetter-hidden-cost-disclosure-genai-2026|Vetter na wenzake (2026)]] waligundua kuwa wanafunzi waliokuwa "daima" wakidhihirisha walikuwa na uwezekano zaidi ya mara tatu ya kushutumiwa — uwazi unaweza kuvuta shaka. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang na wenzake (2026)]] waligundua kuwa hangaiko huelekeza kudhihirisha kuelekea marika badala ya kukizuia, na hivyo kuwakata wanafunzi mbali na maoni ya mwalimu.
 - **Kudhihirisha kumefungwa kwa undani na kujifunza kwa kujidhibiti.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang na wenzake (2026)]] wanatafsiri kudhihirisha kunakoelekezwa na mwalimu kama kutafuta msaada kwa njia inayofaa — kufanya msaada uonekane na kualika usawazishaji wa nje — wakati kuficha (hasa miongoni mwa watumiaji wengi wa AI) kunaofanana na usimamizi mbaya. Kudhihirisha kwa muundo, cha kuendelea, kunaweza kukuza tafakari ya [[metacognition|metaji]] na hoja za maadili zinazowezesha kujidhibiti kwa ufanisi.
 
@@ -74,6 +80,8 @@ Kukagua mwongozo wa GenAI wa vyuo 50 vya Marekani vilivyo orodha kuwa vya uvumbu
 
 - **Kudhihirisha kina adhabu ya uaminifu, na uhalali ni mfumo unaodaiwa.** Katika majaribio kumi na matatu, mengi na washiriki wa paneli mtandaoni wa Marekani na yaliyounganyika kwa uchunguzi 4,093 (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), mtu aliyeudhihirisha matumizi ya AI aliaminiwa kidogo kuliko aliyekaa kimya ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke na Reimann (2025)]]). Athari ilidumu mifumo sita ya kudhihirisha, mtathmini ambaye tayari alijua AI imetumika, na mifumo ya lazima na ya hiari. Ni mwenzio wa majaribio kwa ugunduzi wa dodoso hapo juu kuwa wanafunzi wanaodhihirisha daima walikabiliwa na uwezekano zaidi ya mara tatu wa shutuma: uwazi wenyewe unaweza kumgharimu anayedhihirisha. Matokeo moja ya wanafunzi ya karatasi ni kuwa wanafunzi waliamini profesa kidogo alipodhihirisha [[automated-assessment|alama ya AI]].
 - **Lebo ya maudhui hubadilisha maelezo, si hukumu.** Watu wazima 617 waliopangwa kwa bahati nasibu kuona au kutokiona lebo ya "Maudhui Yaliyozalishwa na AI/Video Bandia", lebo hiyo ilipunguza uhalisi unaohisiwa (wastani 4.92 bila na 4.21 na) lakini ikaacha uaminifu (B = -0.130, p = 0.216), hatari, upokeaji na ugawaji bila kubadilika ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang na Zhang (2026)]]).
+
+Waraka ambazo wanafunzi wanazopata huwa na kidogo kuliko zile waelimishaji ambao waliuzandika wanakusudia. [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud na wenzake (2026)]] walichanganua waraka 16 za kozi, taarifa za sera na kazi za wanafunzi zilizojitolea na waelimishaji 56 katika chuo kikuu kimoja cha umma cha utafiti cha Midwest: taarifa ya ruhusa na utambulisho ilikuwa imara kwa 59%, faragha ya data ilikuwa kimya kwa 75%, kanuni za kutaja zilikuwa imara kwa 19%, na 81% haikuwa na kifungu cha marekebisho. Waelimishaji hao wenyewe waliripoti kwa 71% kwamba mwongozo wa taasisi uliumba waraka wao za kozi "hakuna" au "kidogo", jambo ambalo linaweka pengo katika mwongozo kwa kiasi sawa na katika waraka za kozi. Kifungu cha kudhihirisha ni kizuri kama kiolezo na kiwango cha kutaja kilicho nyuma yake.
 
 ## Kubuni kudhihirisha kwa ufanisi
 

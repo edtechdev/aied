@@ -9,7 +9,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -23,9 +23,9 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
 connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
-updated: "2026-11-21T17:00:00-05:00"
-
+updated: "2026-11-24T02:05:00-05:00"
 ---
+
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
 > **Kültürel olarak duyarlı pedagoji** — Gloria Ladson-Billings (1995) tarafından tanıtılan bu yaklaşım, marjinalleştirilmiş öğrencilerin kültürel referanslarını [[curriculum-design|müfredat tasarımının]] merkezine alır. Üç temel üzerine kuruludur: **akademik başarı** (kültüsel kimliği onurlandıran titiz standartlar), **kültürel yetkinlik** (kültür ve iktidar konusunda eleştirel bilinç) ve **[[critical-pedagogy|sosyopolitik bilinç]]** (öğrencileri eşitsiz sistemlere meydan okumaya güçlendirmek). YZ araçları sınıflara girdikçe, kültürel olarak duyarlı pedagoji, [[generative-ai|YZ]]’nin baskın olmayan kültürel bilgiyi yükseltip yükseltmediğini, yoksa sıyırıp atıp atmadığını değerlendirmek için merkezi bir merceğe dönüşmüştür.
@@ -45,7 +45,8 @@ updated: "2026-11-21T17:00:00-05:00"
 
 YZ, öğretmenlerin öğretimi kültürel olarak duyarlı hale getirmesine destek olabilir; ancak hiç yönlendirilmediğinde varsayılan çıktıları **baskın anlatıları pekiştirme** riski de taşır.
 
-- **Öğretmenlere destek:** Wang ve ark. (2025), öğrenci demografik bilgilerini rubrik odaklı rehberlikle (üretime katmanlaştırılmış bir CRT kontrol listesi) birleştirerek [[k-12|K-12]] öğretmenlerinin kültürel olarak duyarlı [[ai-literacy]] etkinlikleri tasarlamasına yardımcı olan, [[llm|LLM]] tabanlı **CulturAIEd** sistemini geliştirdi. Dört öğretmenle yürütülen pilot çalışmada, kültürel duyarlılık fırsatlarını fark etmede ve mevcut etkinlikleri değiştirmede **öğretmenlerin güvenini artırdı**; materyalleri çeşitlendirmede YZ önerilerini yararlı bulanların oranı %78’di. Araç doğrudan kültürel olarak duyarlı pedagojinin uygulanmasını engelleyen zaman, eğitim ve kaynak engellerini hedef alıyor.
+- **Öğretmenlere destek:** Wang ve ark. (2025), öğrenci demografik bilgilerini [[rubrics|rubrik]] odaklı rehberlikle (üretime katmanlaştırılmış bir CRT kontrol listesi) birleştirerek [[k-12|K-12]] öğretmenlerinin kültürel olarak duyarlı [[ai-literacy]] etkinlikleri tasarlamasına yardımcı olan, [[llm|LLM]] tabanlı **CulturAIEd** sistemini geliştirdi. Dört öğretmenle yürütülen pilot çalışmada, kültürel duyarlılık fırsatlarını fark etmede ve mevcut etkinlikleri değiştirmede **öğretmenlerin güvenini artırdı**; materyalleri çeşitlendirmede YZ önerilerini yararlı bulanların oranı %78’di. Araç doğrudan kültürel olarak duyarlı pedagojinin uygulanmasını engelleyen zaman, eğitim ve kaynak engellerini hedef alıyor.
+- **Aşamalı bir uyarlama süreci, tek bir istek metni değil.** CulturAIEd pilotu, öğretmenleri bağımsız uyarlama, kontrol listesiyle rehberlenen revizyon ve ardından araç destekli iyileştirme aşamalarından geçirdi; yazarlar, geniş verili modellerin kültürel kalıpları yeniden üretebileceği konusunda uyararak çıktının, kendi öğrencilerine ilişkin bilgiye göre gözden geçirilecek bir taslak olarak kalması gerektiğini belirtir ([[llm-cultural-relevance-k12|Wang ve ark., 2025]]).
 - **Tek kültürlü çıktı riski:** [[civic-education-ai-lesson-plans|Trust ve ark. (2025)]], YZ tarafından üretilen 310 yurttaşlık ders planını (2.230 etkinlik) analiz etti: **%94’ü ayırt edilebilir çok kültürlü içerik taşımıyordu** ve taşıyan 144 plandan 137’si en düşük “Katkı” düzeyindeydi — **yalnızca biri “Dönüşüm” düzeyine ulaştı ve hiçbiri “Sosyal Eylem” düzeyine ulaşmadı.** Üç [[conversational-ai|sohbet robotu]] da yapısal olarak özdeş, tek kültürlü ders planı şablonları üretti. Bu, [[teacher-ai-competency|öğretmenler]] aktif biçimde müdahale etmedikçe YZ’nin tek tipli müfredatlara varsayılan olarak yöneldiğinin somut kanıtıdır.
 
 ## YZ sistemlerinde epistemik marjinalleşme

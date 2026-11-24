@@ -1,7 +1,7 @@
 ---
 title: Diseño universal para el aprendizaje
 created: "2026-09-28T21:16:52-04:00"
-updated: "2026-11-23T14:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]

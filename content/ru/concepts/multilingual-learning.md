@@ -1,5 +1,6 @@
 ---
 title: Многоязычное обучение
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T20:20:00-04:00"
 connected_resources: [mglearn]
 type: concept
@@ -8,10 +9,14 @@ ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, g
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -21,7 +26,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
@@ -56,11 +61,15 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 Трансязычие — это возможность, которую генеративные [[conversational-ai|чат-боты]] добавляют и которой у более ранних языковых инструментов не было. В [[meta-analysis-systematic-review|систематическом обзоре]] 24 исследований учащиеся просили контекстуализированные фразы и объяснения на своём языке как мост в целевой язык — использование, которое рецензенты классифицируют как новую суб-возможность, а не переупакованную ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
+Языковая стоимость освоения инструмента измерима: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] обнаружили, что изучающие английский язык тратили значительно больше времени на скаффолдированный туториал по созданию агентов, чем носители, тогда как на открытой задаче проектирования различий не было.
+
+Английский доминирует даже там, где в повседневном общении используются четыре языка. Среди 42 студентов Кюрасао и Арубы две трети назвали английский предпочтительным языком для ИИ, и только сессии с GPT смещались в сторону папьяменту по мере того, как разговор становился локальным ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
+
 ## Предвзятость оценивания
 
 Вопросы многоязычия также затрагивают [[automated-assessment|автоматизированное оценивание]]: [[ai-scoring-language-bias-physics|оценивание с помощью ИИ может демонстрировать языковую предвзятость]] (например, в [[physics-education|физике]]), наказывая неносителей языка. Обеспечение справедливости инструментов оценивания между языками является частью [[assessment-validity]].
 
-Сравнительное суждение на базе LLM — это случай, когда предвзятость отслеживала человеческий базовый уровень, а не модель: оценки информационного письма для 3–6 классов сошлись с рубриками исследователей (r = .59–.73) и продемонстрировали паттерны предсказательной предвзятости для многоязычных учащихся, аналогичные человеческому оцениванию, без свидетельств того, что большая способность или стоимость модели улучшала валидность ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
+Сравнительное суждение на базе LLM — это случай, когда предвзятость отслеживала человеческий базовый уровень, а не модель: оценки информационного письма для 3–6 классов сошлись с [[rubrics|рубриками]] исследователей (r = .59–.73) и продемонстрировали паттерны предсказательной предвзятости для многоязычных учащихся, аналогичные человеческому оцениванию, без свидетельств того, что большая способность или стоимость модели улучшала валидность ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Следствия для преподавателей в многоязычных контекстах
 
@@ -69,6 +78,8 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 - **Отражайте культуру и контекст, а не только перевод.** Многоязычный ИИ должен выходить за рамки перевода к [[culturally-relevant-pedagogy|культурно релевантной педагогике]] — создавайте контент, который является лингвистически и контекстуально уместным ([[llm-cultural-relevance-k12|культурная релевантность в K-12]]).
 - **Сочетайте ИИ со структурами многоязычной поддержки.** Используйте голосовые и устные режимы ([[kutti-ai-voice-first-learning-companion|компаньоны, ориентированные на голос]]), где текстовый ИИ не справляется, и поддерживайте [[self-regulated-learning|саморегуляцию]] в двуязычных контекстах ([[bilingual-llm-lecture-companion-srl-2026|двуязычный компаньон для лекций]]).
 - **Следите за цифровым разрывом.** Одноязычная предвзятость в ИИ углубляет [[digital-divide]] и подрывает доступ на [[global-south]] — планируйте справедливую инфраструктуру и доступ наряду с выбором инструмента.
+
+- **Адаптивный труд ложится на преподавателя.** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding & Liu (2026)]] обнаружили, что университетские преподаватели языков, отличных от английского, по необходимости адаптируют промпты, исправляют язык модели, культурно переосмысливают содержание и меняют инструменты. Эта работа навязывается лингвистической иерархией, а не слабой цифровой компетенцией, и она невидима в статистике внедрения, которая считает лишь то, использовался ли инструмент.
 
 ## Распространённые заблуждения
 

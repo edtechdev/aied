@@ -1,7 +1,7 @@
 ---
 title: "Risque d'hallucination"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -15,10 +15,6 @@ source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
-    role: translation
-    date: "2026-10-10"
-    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-15"

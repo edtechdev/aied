@@ -1,7 +1,7 @@
 ---
 title: טכנולוגיה מסייעת
 created: "2026-10-12T19:32:00-04:00"
-updated: "2026-11-23T04:42:57-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]

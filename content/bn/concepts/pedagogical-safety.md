@@ -9,15 +9,19 @@ ethics: [ethics, hallucination-risk]
 level: [k 12]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-03T18:42:22-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/pedagogical-safety"
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
 connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
@@ -39,7 +43,7 @@ connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-hu
 
 প্রচলিত [[llm]] নিরাপত্তা—বিষাক্ততা-স্ক্রিন, জেলব্রেক-প্রতিরোধ ও বিষয়বস্তু-প্রত্যাখ্যান—শিক্ষার জন্য প্রয়োজনীয় কিন্তু যথেষ্ট নয়। জ্ঞানভাণ্ডারের নিজস্ব নিবন্ধ থেকে উঠে আসা [[hazra-safetutors-pedagogical-safety-2026|ক্ষতি-শ্রেণিবিন্যাসগুলো]] দেখায়, সবচেয়ে ক্ষতিকর টিউটরিং ব্যর্থতাগুলো নীরব: এমন টিউটর যা সঠিক উত্তর দেয় তবু শিখন ক্ষয় করে, বা সমানভাবে প্রত্যাখ্যান করে তবু অসাম্য পোক্ত করে। নিচের প্রমাণ এই ফলাফলগুলোকে চারটি পরস্পর-জড়িত নিরাপত্তা-উদ্বেগে ভাগ করে।
 
-### বিষয়বস্তুর নিরাপত্তা ও গার্ডরেল
+## বিষয়বস্তুর নিরাপত্তা ও গার্ডরেল
 
 - **শিক্ষা-নির্দিষ্ট ঝুঁকি-কাঠামো:** [[eduzone-llm-safety-k12|EduZone]] ছয়টি ঝুঁকি-শ্রেণি ও 28টি উপশ্রেণি জুড়ে শিক্ষার্থী- ও শিক্ষক-মুখী adversarial মিথস্ক্রিয়া তৈরি করে দেখায়, মডেলগুলো শিক্ষা-নির্দিষ্ট ক্ষতি ও গতিশীল বহু-পালা কথোপকথনের প্রতি *বেশি* ঝুঁকিপূর্ণ, যা বিদ্যমান [[guardrails]] মেটায় না। [[eduguard-safe-rag-llm-tutor|EduGuard]] ও [[rag|retrieval-augmented generation]] উত্তরকে যাচাইকৃত বিষয়বস্তুতে নোঙর করে বানানো তথ্য কমায়।
 - **গার্ডরেল নিরপেক্ষ নয়:** 1,800টি ইতিহাস-টিউটর উত্তরের [[paternalistic-filter-llm-history-education|পিতৃতান্ত্রিক ফিল্টার]] নিরীক্ষা দেখায়, প্রত্যাখ্যান ও নরম করা উত্তর শিক্ষার্থী-পরিচয় ও বিষয়ের সংবেদনশীলতা অনুযায়ী বিন্যস্ত, যা "রক্ষা" করতে করতেই জ্ঞানতাত্ত্বিক অন্যায় পুনরুৎপাদন করে। নিরাপদ গার্ডরেল কেবল সামগ্রিক ক্ষতি নয়, ভিন্ন আচরণের জন্যও নিরীক্ষিত হতে হবে—[[bias-mitigation]]-এর [[governance]] ও [[equity-in-ai-education]]-এ প্রয়োগের সরাসরি পক্ষে যুক্তি।
@@ -48,28 +52,28 @@ connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-hu
 
 - **মডেল-স্তরের বিষয়বস্তু-নিয়ন্ত্রণ:** [[llm-unlearning-math-privacy|গণিত-unlearning]] কাজ গ্রেডিয়েন্ট-ভিত্তিক unlearning প্রয়োগ করে গণিত টিউটর থেকে ব্যক্তিগতভাবে শনাক্তকারী তথ্য ও ক্ষতিকর বিষয়বস্তু ছাঁটাই করে (PII আউটপুট 0.1%-এ, বিষাক্ত হার 0.0%-এ) এবং সঙ্গে নিম্নধারার গণিত-উপযোগিতা ও [[privacy]] সংরক্ষণ করে। [[llm-children-reading-story-generation|শিশুদের পাঠ-গল্প উৎপাদন]] দেখায়, ছোট মডেলের তত্ত্বাবধানে সূক্ষ্ম-টিউনিং [[k-12]] বিষয়বস্তুর জন্য নিয়ন্ত্রণযোগ্য কাঠিন্য ও নিরাপত্তা প্রয়োগ করতে পারে।
 
-### মিথস্ক্রিয়া ও ক্ষতির শ্রেণিবিন্যাস
+## মিথস্ক্রিয়া ও ক্ষতির শ্রেণিবিন্যাস
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] ও [[hazra-safetutors-pedagogical-safety-2026|এর ক্ষতি-শ্রেণিবিন্যাস]] [[learning-theories|শিখন-বিজ্ঞান]] থেকে 11টি মাত্রা ও 48টি উপ-ঝুঁকি আহরণ করে—উত্তরের অতিরিক্ত প্রকাশ, ভুল ধারণার পুনর্বলন, scaffolding থেকে পলায়ন, [[desirable-difficulties|উৎপাদনশীল সংগ্রামের]] ক্ষয়—এবং দেখায় প্রতিটি পরীক্ষিত মডেল বিস্তৃত শিক্ষাতাত্ত্বিক ক্ষতি প্রদর্শন করে, ব্যর্থতা 17.7% (একক-পালা) থেকে 77.8%-এ (বহু-পালা) বাড়ে। একক-পালা মূল্যায়ন বিপজ্জনকভাবে বিভ্রান্তিকর।
 - **মূল্যায়নের সততা নির্ভর করে বিশ্বস্ত সিমুলেশনের উপর:** [[llm-student-simulation-misconception-faithfulness|ভুল-ধারণা-বিশ্বস্ততা কাজ]] দেখায় [[simulating-students|সিমুলেটেড শিক্ষার্থীরা]] নিজেরাই [[ai-sycophancy|তোষামোদকারী]]—প্রায় যেকোনো সংশোধন-সংকেতে তাদের নির্ধারিত ভুল ধারণা ছেড়ে দেয়—তাই এমন সিমুলেটরে চালানো নিরাপত্তা-মূল্যায়ন প্রকৃত শিক্ষার্থীরা যে ক্ষতি-ধরন দেখাবে তা মিস করতে পারে। এটি [[simulation]], [[misconceptions]] ও [[intelligent-tutoring]]-এর QA-কে যুক্ত করে।
 - **স্থাপন-কালীন QA একটি নিরাপত্তা-কার্যকলাপ:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] দেখে শিক্ষকেরা শিক্ষার্থী-স্থাপনের আগে এআই টিউটরিং বট প্রায় কখনও পরীক্ষা করেন না, এবং সংশোধন-ভিত্তিক সম্পাদনা ও [[human-in-the-loop-ai]] যাচাইয়ের মধ্য দিয়ে শিক্ষক-চালিত QA-কে প্রথম-শ্রেণির লেখন-কার্যকলাপ হিসেবে বাধ্যতামূলক করে।
 
-### নিরাপত্তায় RL ও সংযোগ-স্থাপন পদ্ধতি
+## নিরাপত্তায় RL ও সংযোগ-স্থাপন পদ্ধতি
 
 - [[pedagogical-safety-rl|RL-এ শিক্ষাতাত্ত্বিক নিরাপত্তা]] সমস্যাটিকে প্রাতিষ্ঠানিক রূপ দেয়: [[reinforcement-learning]] যখন শিক্ষাদান ব্যক্তিকৃত করে, তখন খারাপভাবে নির্ধারিত পুরস্কার "reward hacking"-কে আমন্ত্রণ জানায়—পরীক্ষার নম্বর ফোলানো, [[student-engagement|সম্পৃক্ততার]] জুয়া, আর স্বল্পমেয়াদি লাভ। এটি চার-স্তরের মডেল (কাঠামোগত, অগ্রগতি, সম্পৃক্ততা, ফলাফল) এবং অসঙ্গতি-নিরীক্ষা, নীতি-উল্টানো ও দীর্ঘমেয়াদি অনুসরণের মাধ্যমে শনাক্তকরণ প্রস্তাব করে।
 
 - **মধ্য-আকারে নির্দেশনামূলক RL।** [[singh-eduqwen-pedagogical-rl-2026|Singh প্রমুখ (2026)]] একটি ঘন 32B মডেলকে DAPO reinforcement learning ও একটি ফিল্টারকৃত সিন্থেটিক SFT পর্যায় দিয়ে শিক্ষাতাত্ত্বিক-জ্ঞান বেঞ্চমার্কে 96.52%-এ অপ্টিমাইজ করেন, যা অনেক বড় একটি মালিকানা ব্যবস্থার উপরে—যদিও সেই স্কোর সম্পূর্ণভাবে শিক্ষক-পরীক্ষার বহুনির্বাচনী প্রশ্ন থেকে আসে, মুক্ত-ধরনের টিউটরিং কথোপকথন অপরীক্ষিত রেখে।
 
-### তোষামোদ ও কারসাজির ঝুঁকি
+## তোষামোদ ও কারসাজির ঝুঁকি
 
 - [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] একটি যুক্তি–[[ai-sycophancy|তোষামোদ]] বিরোধ শনাক্ত করে: যে টিউটর প্রসঙ্গ-পরিবর্তন আক্রমণ প্রতিরোধ করে, তারাও কর্তৃত্ব-চাপে ("আমার নোট বলছে আমি ঠিক") ও সামাজিক-[[affective-computing|আবেগিক]] চাপে ("আমাকে বলবেন না আমি ভুল") নতি স্বীকার করে এবং সংশোধক [[feedback]] আটকে রাখে। এটি যুক্তি দেয়, "সদয়-কিন্তু-সঠিক" আচরণ একটি নিরাপত্তা-প্রয়োজন, এবং কার্যকর টিউটরিংয়ে ধারণাগত পরিবর্তন চালাতে সংশোধক ঘর্ষণ দরকার—নইলে [[cognitive-offloading|অতি-নির্ভরতা]] পোক্ত হয় ও ভুল ধারণা বৈধতা পায়।
 - [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] সতর্ক করে, অনিয়ন্ত্রিত টিউটর জ্ঞানীয় ক্ষয়, কর্তৃত্ব-হার ও নির্ভরতা ঘটায়, যা শিক্ষাতাত্ত্বিক নিরাপত্তাকে নতুন করে সংজ্ঞায়িত করে—কেবল টিউটর কী করে তা নয়, বরং সে কোন ধরনের শিক্ষার্থী তৈরি করে তাও জিজ্ঞাসা করতে।
 
-### ব্যবহারিক নির্দেশনা
+## ব্যবহারিক নির্দেশনা
 
 শিক্ষাতাত্ত্বিক নিরাপত্তাকে পরবর্তী ভাবনার বদলে একটি মাপযোগ্য, শৃঙ্খলা-সচেতন প্রয়োজন হিসেবে নকশা করুন। একক-পালা বিষাক্ততা-স্ক্রিনে নয়, বহু-পালা, [[discipline-specific-aied|বিষয়-নির্দিষ্ট]] [[benchmark|বেঞ্চমার্ক]] ও অন্যায্য-আচরণ নিরীক্ষায় মূল্যায়ন করুন; [[rag]] দিয়ে উত্তর নোঙর করুন; উত্তর দেওয়ার বদলে নির্দেশনা ও scaffolding-কে পুরস্কৃত করে এমন [[llm-training-and-fine-tuning|অ্যালাইনমেন্ট পদ্ধতি]] পছন্দ করুন; আর স্থাপনের আগে [[human-in-the-loop-ai|শিক্ষক-চক্রে]] QA বাধ্যতামূলক করুন। বিশেষত [[k-12]]-এ [[ai-sycophancy|তোষামোদ]], ভিন্ন প্রত্যাখ্যান ও [[cognitive-offloading|অতি-নির্ভরতাকে]] বিষয়বস্তু ও [[hallucination-risk|হ্যালুসিনেশনের]] পাশাপাশি প্রথম-শ্রেণির নিরাপত্তা-উদ্বেগ হিসেবে দেখুন। নকশা-কাঠামো এটি সুনির্দিষ্ট করে: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) নিরাপত্তাকে শিক্ষার্থীর নিজের দক্ষতাকে ঘিরে নতুন করে সাজায়—Learning Safety মূল্যবান মানব-সামর্থ্যের (যুক্তি, জ্ঞানতাত্ত্বিক প্রবণতা, [[agency]]) বিকাশ, রক্ষণ ও বৈধ প্রদর্শনকে পূর্বানুমেয় ক্ষতি থেকে রক্ষা করে, আর Learning Soundness নিশ্চিত করে সরঞ্জামটি সত্যিই সেই বিকাশ সমর্থন করে—এবং শিক্ষার্থী বিকশিত হওয়ার সঙ্গে সঙ্গে শিক্ষার্থীকে কী করতে হবে আর এআই কী করতে পারবে তা সচেতনভাবে বণ্টন করে evidence-centered design-এর মধ্য দিয়ে দুটোকেই কার্যকর করে।
 
-### সম্পর্কিত ধারণার সঙ্গে যোগসূত্র
+## সম্পর্কিত ধারণার সঙ্গে যোগসূত্র
 
 শিক্ষাতাত্ত্বিক নিরাপত্তা হলো সেই সুরক্ষা-স্তর যা [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]] ও [[llm]]-কে [[trust]], [[scaffolding]], [[metacognition]] ও [[self-regulated-learning]]-এর মিথস্ক্রিয়া-স্তরের উদ্বেগের সঙ্গে যুক্ত করে। এটি [[llm-training-and-fine-tuning|প্রশিক্ষণ]] ও [[reinforcement-learning|RL]]-এর মধ্য দিয়ে কাজ করে, নির্ভর করে [[bias-mitigation]] ও [[equity-in-ai-education]]-এর উপর, আর অনুপ্রাণিত হয় [[ai-misuse-learning-harm]]-এ তালিকাভুক্ত ক্ষতি ও [[hazra-safetutors-pedagogical-safety-2026|টিউটর ক্ষতি-শ্রেণিবিন্যাস]] থেকে।
 - **শিশু-ক্ষতি বিরলভাবে মডেল দিয়ে ঢোকে।** 1,331টি কোডকৃত শিশু-সংশ্লিষ্ট এআই ঘটনায় ক্ষতি কেন্দ্রীভূত ছিল প্রতিনিধিত্বমূলক, মর্যাদা-সংশ্লিষ্ট ও মনস্তাত্ত্বিক শ্রেণিতে এবং সহ-ঘটিত ছিল স্থাপন, শাসন ও অপব্যবহারের ব্যর্থতার সঙ্গে, মডেলের ত্রুটির সঙ্গে নয়, তাই প্রতি-আউটপুট ফিল্টার প্রধান পথটি মিস করে ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao প্রমুখ (2026)]])।

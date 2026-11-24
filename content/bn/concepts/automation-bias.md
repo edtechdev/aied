@@ -1,7 +1,7 @@
 ---
 title: "স্বয়ংক্রিয়তা পক্ষপাত"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -10,13 +10,17 @@ audience: [instructors, learners, administrators, software developers]
 confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 translation_of: "concepts/automation-bias"
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -72,6 +76,7 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-di
 
 সবচেয়ে তীক্ষ্ণ ব্যবধান বিচারের বিন্দুতে। [[human-in-the-loop-ai-scoring-national-assessment-2026|জাতীয়-মূল্যায়ন স্কোরিং গবেষণা (2026)]] রেটারদের মেশিন-স্কোর পর্যালোচনা করতে দেয়, এবং এর লেখকেরা অপরীক্ষিত প্রক্রিয়াটির নাম সরাসরি দেন: বিচারের আগে এআই-স্কোর দেখানো রেটাররা তা দিয়ে অ্যাঙ্কর হন কি না বা তার কাছে নত হন কি না তা অমাপা, এবং তাঁরা পরবর্তী পদক্ষেপ হিসেবে ব্লাইন্ড বনাম অ-ব্লাইন্ড রেটার পরীক্ষার প্রস্তাব দেন। তাই সেই নকশায় লুপে-মানুষ দাবিটি একটি অনুমান, একটি ফলাফল নয় — এবং এটি নকশার ভালো সংস্করণ।
 
+এখন একটি নিরাপত্তা-তদারকি পরীক্ষা সংলগ্ন পরিবেশে পরিমাপ সরবরাহ করেছে। 416 রেটার ও 3,957 আইটেম জুড়ে, মানব উত্তরের আগে মডেলের প্রস্তাবনাগুলো উপস্থাপন মডেল ভুল করা আইটেমে রেটারের নির্ভুলতা 36.7% থেকে 20.6%-এ কমিয়েছে, অথচ মডেল সঠিক করা আইটেমে নির্ভুলতা 7.3 পয়েন্ট বাড়িয়েছে ([[shi-human-ai-complementarity-safety-2026|Shi ও অন্যান্য, 2026]])। রেটাররা সামগ্রিকভাবে আরও নির্ভুল হয়েছেন, অথচ যে ভুলগুলো ধরাই তাদের কাজ ছিল তা ধরতে আরও কম সক্ষম — এটি সেই পক্ষপাত, যা জাতীয়-মূল্যায়ন লেখকেরা সন্দেহ করেছিলেন: মেশিন-উত্তরই ফ্রেম স্থাপন করে, আর মানুষ তার ভিতরেই মানিয়ে নেয়।
 ### বিশ্লেষণ ড্যাশবোর্ড ও লুপে-মানুষ দাবি
 
 [[in-the-loop-educational-ai-learning-sciences-2026|লুপে থাকা শিক্ষামূলক এআই নিয়ে শিখন-বিজ্ঞান পর্যালোচনা (2026)]] ধরনটির সাধারণ রূপ দেয়: ড্যাশবোর্ড ক্লিক থেকে অংশগ্রহণ অনুমান করে, স্বয়ংক্রিয় [[writing-education|লেখা-প্রতিক্রিয়া]] যুক্তির উপরে পৃষ্ঠতল-বৈশিষ্ট্যকে প্রাধান্য দেয়, এবং প্রাথমিক-সতর্কতার ট্রাফিক-বাতি গতিপথ আগেই ব্যাখ্যা করে ফেলে। স্বয়ংক্রিয়তা পক্ষপাত প্রতিটিকে যৌগিক করে, আর পর্যালোচনা [[trust|বিশ্বাসকে]] স্বচ্ছতা, অনুভূত যোগ্যতা ও অর্থপূর্ণ ওভাররাইড-অধিকার দ্বারা গঠিত সামাজিক-কারিগরি ফলাফল হিসেবে দেখে, স্থির মনোভাব হিসেবে নয়।
@@ -94,6 +99,7 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-di
 
 জ্ঞানভিত্তির বড় অংশ স্বয়ংক্রিয়তা পক্ষপাতকে হুমকি-মডেলে তালিকা করে, পরীক্ষা করে না, আর এই পার্থক্য গুরুত্বপূর্ণ ধারণাটি কত ভার বহন করতে পারে তার জন্য। [[ahmadfard-interactive-oer-review-2026|ইন্টারঅ্যাকটিভ OER পর্যালোচনা (2026)]] এটিকে শিক্ষার্থী ও শিক্ষকের এজেন্সি ক্ষয়ে করা পুনরাবৃত্ত ঝুঁকির মধ্যে রাখে — তালিকাভুক্ত, মাপা নয়। [[alshahrani-health-sciences-ai-use-2026|স্বাস্থ্য-বিজ্ঞান জরিপ (2026)]] 310 জন শিক্ষার্থীর [[ethics|নৈতিক]] উদ্বেগকে [[professional-training|পেশাগত প্রশিক্ষণের]] পক্ষে যুক্তি হিসেবে পড়ে, যা স্বয়ংক্রিয়তা পক্ষপাত স্পষ্টভাবে কভার করবে। [[ai-literacy-legal-translation-2026|আইনি-অনুবাদ গবেষণা (2026)]] পোস্ট-এডিটিং ও যাচাইকে গ্রেডেড দক্ষতা হিসেবে শেখানোর দাবি করে, সেই স্বয়ংক্রিয়তা-পক্ষপাত ও গুণমানের-বিভ্রমের চাপের নাম দিয়ে যা ভুল অনুবাদ সহজে মিস হতে দেয়। [[morales-cevallos-ai-forensic-science-education-2026|ফরেনসিক-বিজ্ঞান পর্যালোচনা (2026)]] তার অন্তর্ভুক্ত গবেষণায় স্বয়ংক্রিয়তা পক্ষপাত লিপিবদ্ধ পায় এবং প্রতিবেদিত ব্যর্থতা থেকে গড়া কেস-ভিত্তিক অনুশীলনের প্রস্তাব দেয়। [[rana-genai-design-thinking-2025|ডিজাইন-চিন্তন গবেষণা (2025)]] এটিকে নকশা-শর্তে পরিণত করে: [[scaffolding|স্ক্যাফোল্ড]] যা মানব বিচারকে কেন্দ্রে রাখে, অফলোডিং ও স্বয়ংক্রিয়তা পক্ষপাত — দুটিরই পাল্টা।
 
+আরেকটি পক্ষপাত ব্যবহারকারীতে নয়, আউটপুটে বসেছে। ইকুয়েডরের এসমেরালদাসে 90 জন শিক্ষামূলক ও সাম্প্রদায়িক অংশীদার বর্ণনা করেন চিত্র-সরঞ্জাম অ্যাফ্রো-ইকুয়েডরীয় অংশগ্রহণকারীদের ত্বকের রং, চুলের গাঁথুনি ও মুখের বৈশিষ্ট্য বদলে দেয়, একজন একে “একটি জাতিভেদের রূপ, এমনকি তা ডিজিটাল হলেও” বলেন — এমন উপস্থাপনামূলক ক্ষতি যা কোনো নির্ভুলতা-মেট্রিক রেকর্ড করে না ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales ও García Iturralde, 2026]])।
 ## যেখানে প্রমাণ পাতলা, মিশ্র বা উল্টো
 
 **একটি পূর্বাভাস যা ব্যর্থ হলো।** স্বয়ংক্রিয়তা-পক্ষপাত সাহিত্য পূর্বাভাস দেয় যে যারা নিজেদের বিচার সন্দেহ করে তারা যন্ত্রের উপর সবচেয়ে বেশি ভরসা করে, তাই নিম্ন [[self-efficacy|স্ব-কার্যকারিতা]] উঁচু অতিরিক্ত-বিশ্বাস তৈরি করা উচিত। [[kim-overtrust-ai-literacy-2026|অতিরিক্ত-বিশ্বাস গবেষণা (2026)]] উল্টো চিহ্ন পায়: আত্মবিশ্বাসী শিক্ষার্থীরা [[generative-ai|জেনারেটিভ এআই]] আগে গ্রহণ করে, ইতিবাচক অভিজ্ঞতা জমায়, এবং সরঞ্জামটিকে বেশি বিশ্বাস করে। নকশাটি প্রস্থচ্ছেদমূলক এবং কোনো ক্রম প্রতিষ্ঠা করতে পারে না, যা লেখকেরা একাধিকবার বলেন, তাই ফলাফলটি প্রক্রিয়াটিকে উল্টে দেয় না — কিন্তু তা দেখায় শ্রেণিকক্ষের সংস্করণটি পরীক্ষাগারের সংস্করণ যে দিকে পূর্বাভাস দেয় সেদিকে নাও চলতে পারে।

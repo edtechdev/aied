@@ -7,15 +7,19 @@ technology: [generative-ai]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/global-south"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
 connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
@@ -36,17 +40,18 @@ connected_articles: [genai-assessment-african-higher-education-review-2026, aden
 
 ## Pendahuluan
 
-### Mengapa ini penting bagi AIED
+## Mengapa ini penting bagi AIED
 
 Riset AI dan teknologi pendidikan arus utama secara historis didominasi oleh kumpulan data dan konteks [[governance|institusional]] Barat yang berbahasa Inggris. Ini menciptakan dua masalah: (1) [[ai-technologies|sistem AI]] yang dilatih pada data semacam itu mungkin berkinerja lebih rendah atau merepresentasikan pembelajar secara keliru di latar Global South, dan (2) [[benchmark|tolok ukur]] evaluasi yang dibangun di Global North mungkin tidak mencerminkan realitas pendidikan, bahasa, atau tradisi pengetahuan kawasan lain. Riset dari konteks Global South dalam basis pengetahuan ini mencakup kumpulan data yang berlandaskan budaya, tolok ukur, dan studi adopsi teknologi, dengan implikasi bagi [[ai-literacy]] serta pendidikan [[higher-ed|tinggi]] dan [[k-12|K-12]].
 
-### Penerapan dalam basis pengetahuan
+## Penerapan dalam basis pengetahuan
 
 - **Data dan tolok ukur yang berlandaskan budaya:** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] menyediakan kumpulan data instruksi Sistem Pengetahuan India yang [[multilingual-learning|multibahasa]]; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] memperkenalkan tolok ukur [[stem-education|STEM]] berbasis Ghana, salah satu kumpulan data evaluasi pendidikan Global South yang pertama.
 - **Kesadaran etika AI di pendidikan tinggi Ghana:** [[ai-ethical-awareness-ghana-students-2026|Acquah et al. (2026)]] memvalidasi skala kesadaran etis AI tiga faktor (otonomi, berbuat baik, keadilan) pada 509 mahasiswa [[higher-ed|universitas]] di Ghana, menemukan lima profil laten dari kesadaran yang seragamnya sangat tinggi hingga klaster kecil yang nyaris tidak ada — paling lemah pada berbuat baik — dan tanpa perbedaan gender, sehingga menyediakan jangkar pengukuran Global South bagi literatur [[ethics|etika]] AI.
 - **Penalaran etis guru dalam konteks bersumber daya rendah:** [[teachers-contextual-ethical-reasoning-ai-2026|Adelana et al. (2026)]] menemukan guru STEAM menengah yang sudah bertugas dalam konteks bersumber daya rendah menalar etika AI melalui identitas profesional, realitas kelas, dan norma kultural alih-alih daftar prinsip formal, yang menangkal asumsi "etika kosong" tentang Global South.
 - **Adopsi kontekstual:** [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] memodelkan adopsi [[generative-ai|GenAI]] di kalangan mahasiswa [[engineering-education|teknik]] Bangladesh, dan [[connected-ai-lesson-planning-vietnam|ConnectED]] menerapkan sistem perencanaan pelajaran selaras [[curriculum-design|kurikulum]] untuk pendidikan Vietnam.
 - **Peningkatan kapasitas, bukan infrastruktur, yang menggerakkan adopsi fakultas.** Di antara 255 fakultas Bangladesh, sikap terhadap GenAI secara kuat memprediksi penggunaan (β = 0.556) dan relevansi spesifik domain menggerakkan sikap (β = 0.413), sementara penyediaan teknologi institusional dan norma subjektif bukan prediktor signifikan ([[genai-integration-constructivist-higher-ed-bangladesh-2026|Alam et al. (2026)]]).
+- **Literasi AI yang mengutamakan identitas dalam pendidikan Afro-Ekuador:** 90 aktor pendidikan, pemuda, dan komunitas di Esmeraldas menilai identitas keturunan Afrika sebagai yang paling tinggi (M = 4,72) dan literasi AI kritis sebagai yang paling rendah (M = 4,60), dan kelompok fokus tiga peserta menggambarkan penggunaan yang bersifat kadangkala dan terikat tugas ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 - **Integrasi institusional dan ketimpangan struktural:** analisis konten komparatif [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] atas 45 universitas Nigeria (federal/negara bagian/swasta) menemukan bahwa integrasi AI diprediksi oleh usia dan lokasi geografis institusi — bukan jenis tata kelola — dan bahwa ikatan jaringan internasional dan industri saling memperkuat (r = 0.74), sehingga institusi yang terhubung baik melipatgandakan keunggulan sementara yang lain tertinggal lebih jauh. Studi itu menempatkan [[digital-divide|ketimpangan digital]] bukan hanya pada tingkat pembelajar tetapi dalam kapasitas struktural institusi [[higher-ed|pendidikan tinggi]] itu sendiri.
 - **[[educational-development|Pengembangan akademik]] sebagai mediasi digital di bawah kendala struktural:** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] mewawancarai dua belas pengembang akademik dan perancang pembelajaran di dua Institusi Sejarah Kurang Beruntung di Afrika Selatan dan menarik garis analitis yang sering dikaburkan literatur Global South: **ketimpangan digital** bersifat distributif dan pada prinsipnya dapat dijawab melalui redistribusi dan akses, sementara **kolonialitas algoritmik** bersifat epistemik dan tetap bertahan bahkan di bawah akses penuh karena ia melekat pada apa yang disandikan sistem dan pengetahuan siapa yang dipusatkannya. Keduanya terjerat tetapi menuntut respons berbeda, dan institusi berada dalam posisi ganda — dikecualikan oleh kelangkaan infrastruktur, dan, ketika disertakan, disubordinasikan oleh sistem impor yang menyandikan pengetahuan dan norma lain. Retorika AI institusional ("kinerja lebih dari praktik") hadir secara longgar terkait dengan realitas material pengajaran, sehingga para pengembang menerjemahkan wacana transformasi digital global ke praktik yang layak secara kontekstual: menguji dan sengaja "merusak" alat di ruang sejawat, bersikeras pada pertimbangan alih-alih keterampilan, dan menyerap biaya afektif dari memproyeksikan keahlian yang masih mereka peroleh.
 - **Marginalisasi epistemik:** [[genai-minoritized-knowledges-disability|Tali-Otmani]] berargumen bahwa data pelatihan yang berpusat Barat memarginalkan pengetahuan non-Barat dan yang berpusat pada disabilitas — menghubungkan kekhawatiran Global South dengan [[equity-in-ai-education]] dan [[culturally-relevant-pedagogy]].
@@ -56,7 +61,7 @@ Riset AI dan teknologi pendidikan arus utama secara historis didominasi oleh kum
 
 - **Keadilan adalah dimensi yang paling sedikit diteliti di seluruh kawasan.** [[meta-analysis-systematic-review|Tinjauan cakupan]] PRISMA-ScR atas 75 studi Global South (2022–2025) menemukan keadilan sebagai area yang paling sedikit ditelaah di antara lima areanya meskipun menjadi pusat pendidikan inklusif, dan melaporkan kesenjangan antara posisi etis yang dinyatakan siswa dan perilaku mereka ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
 
-### Implikasi
+## Implikasi
 
 Menaruh perhatian pada konteks Global South menuntut melampaui asumsi bahwa model dan tolok ukur Barat bertransfer secara langsung. Ini menyerukan kumpulan data yang berlandaskan lokal, [[pedagogy|pedagogi]] yang relevan secara kultural, standar evaluasi yang berpusat komunitas, dan riset yang memperlakukan epistemologi hidup dan komunitas pembelajar sebagai otoritatif — sejalan dengan kerangka seperti pembelajaran AI berbasis komunitas dan riset [[technology-acceptance-model|penerimaan teknologi]] yang disesuaikan dengan kondisi lokal.
 

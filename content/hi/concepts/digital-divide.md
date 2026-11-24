@@ -1,14 +1,14 @@
 ---
 title: "डिजिटल विभाजन"
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
 translation_of: concepts/digital-divide
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -56,6 +56,8 @@ connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-
 - **कोड-स्विचिंग स्वयं एक बहिष्कार है।** अधिकांश [[llm|LLM]] व्याख्यान उपकरण एकल-भाषा अंग्रेज़ी ऑडियो और विश्वसनीय इंटरनेट मानते हैं, जिससे अंग्रेज़ी और घरेलू भाषा को मिलाने वाली कक्षाएँ बाहर हो जाती हैं; भारत के UDISE+ डेटा ने स्कूल इंटरनेट पहुँच लगभग 54% बताई, 24-अंक के शहरी-ग्रामीण अंतर के साथ, और एक द्विभाषी साथी ऑन-डिवाइस प्रतिलेखन और स्थानीय-प्रथम संग्रहण के साथ उत्तर देता है ([[bilingual-llm-lecture-companion-srl-2026|Malhotra, 2026]])।
 
 - **सार्वजनिक डिजिटल सेवाएँ विभाजन को दोहराती हैं।** केन्या का eCitizen ई-गवर्नेंस प्लेटफ़ॉर्म मुख्य रूप से अंग्रेज़ी में है, सीमित स्वाहिली और केवल-पाठ इंटरफ़ेस के साथ, जो कम-साक्षर, दृष्टिबाधित और ग्रामीण युवाओं को बाहर करता है; चार आजीविका प्लेटफ़ॉर्मों (Ajira Digital, KRA iTax, HELB, YEDF) के आर-पार साक्षात्कार और ग्यारह-व्यक्ति गोलमेज ने भाषा-तकनीकों और WCAG 2.1-सूचित डिज़ाइन को समावेशन के उत्तोलक बताया ([[amol-ai-egovernance-digital-inclusion-2026|Amol और Wanzare (2026)]])।
+
+- **उपयोग को नहीं, केवल पहुँच को टूटा नहीं मानें।** [[raut-ai-rural-education-india-2026|Raut की समेकन समीक्षा]] बताती है कि भारतीय ग्रामीण 14–16 वर्षीय किशोरों में 85.5% लड़कों और 79.4% लड़कियों ने कहा कि वे स्मार्टफोन चला सकते हैं, इसलिए प्राप्यता व्यक्तिगत उपयोग में लैंगिक अंतर को कम आँकती है।
 
 ## एआई विभाजनों को गहरा (और बंद भी कर सकता है) करता है
 

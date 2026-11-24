@@ -1,7 +1,7 @@
 ---
 title: Apprendimento multilingue
 created: "2026-10-14T22:40:00-04:00"
-updated: "2026-11-22T12:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_resources: [mglearn]
 type: concept
 technology: [llm]

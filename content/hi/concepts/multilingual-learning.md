@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: बहुभाषी अधिगम
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-17T09:26:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, language-learning, llm, equity-in-ai-education, global-south, digital-divide, culturally-relevant-pedagogy, inclusive-learning, generative-ai]
-connected_articles: [genai-chatbots-language-learning-affordances-review-2026, llm-comparative-judgment-writing-screening-2026, multilingual-adaptive-learning-nigeria-2026, bilingual-llm-lecture-companion-srl-2026, structural-silence-underrepresented-language-ai-2026, llm-cultural-relevance-k12, scaffolding-critical-engagement-genai-minority-students, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, ai-scoring-language-bias-physics, bush-quadrilingual-code-switching-conversational-ai-2026]
+connected_articles: [ai-scoring-language-bias-physics, bilingual-llm-lecture-companion-srl-2026, bush-quadrilingual-code-switching-conversational-ai-2026, genai-chatbots-language-learning-affordances-review-2026, iks-instruct-dataset-indian-knowledge, kutti-ai-voice-first-learning-companion, llm-comparative-judgment-writing-screening-2026, llm-cultural-relevance-k12, multilingual-adaptive-learning-nigeria-2026, scaffolding-critical-engagement-genai-minority-students, structural-silence-underrepresented-language-ai-2026, wang-lote-teachers-generative-ai-engagement-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -65,7 +65,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 
 बहुभाषी चिंताएँ [[automated-assessment|स्वचालित मूल्यांकन]] को भी प्रभावित करती हैं: [[ai-scoring-language-bias-physics|एआई स्कोरिंग में भाषाई पूर्वाग्रह दिखाई दे सकता है]] (जैसे, [[physics-education|भौतिकी]] में), जो मूल भाषी न होने वाले वक्ताओं को दंडित करता है। मूल्यांकन उपकरणों को भाषाओं के बीच निष्पक्ष बनाना [[assessment-validity]] का हिस्सा है।
 
-एलएलएम-आधारित तुलनात्मक निर्णय एक ऐसा मामला है जहाँ पूर्वाग्रह मॉडल के बजाय मानव आधाररेखा का अनुसरण करता था: कक्षा 3–6 के सूचनात्मक लेखन के स्कोर शोधकर्ता रूब्रिक के साथ अभिसरित हुए (r = .59–.73) और बहुभाषी शिक्षार्थियों के लिए मानव स्कोरिंग के समान पूर्वानुमान-पूर्वाग्रह पैटर्न दिखाए, इस बिना किसी साक्ष्य के कि अधिक मॉडल क्षमता या लागत ने वैधता में सुधार किया ([[llm-comparative-judgment-writing-screening-2026|मर्सर और रीड (2026)]])।
+एलएलएम-आधारित तुलनात्मक निर्णय एक ऐसा मामला है जहाँ पूर्वाग्रह मॉडल के बजाय मानव आधाररेखा का अनुसरण करता था: कक्षा 3–6 के सूचनात्मक लेखन के स्कोर शोधकर्ता [[rubrics|रूब्रिक]] के साथ अभिसरित हुए (r = .59–.73) और बहुभाषी शिक्षार्थियों के लिए मानव स्कोरिंग के समान पूर्वानुमान-पूर्वाग्रह पैटर्न दिखाए, इस बिना किसी साक्ष्य के कि अधिक मॉडल क्षमता या लागत ने वैधता में सुधार किया ([[llm-comparative-judgment-writing-screening-2026|मर्सर और रीड (2026)]])।
 
 ## बहुभाषी संदर्भों में प्रशिक्षकों के लिए निहितार्थ
 
@@ -73,7 +73,8 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, l
 - **मूल्यांकन को भाषाई पूर्वाग्रह से सुरक्षित रखें।** [[ai-scoring-language-bias-physics|एआई स्कोरिंग]] मूल भाषी न होने वाले वक्ताओं को दंडित कर सकता है — [[assessment-validity]] और [[equity-in-ai-education|निष्पक्षता]] की रक्षा के लिए भाषा-जागरूक या मानव-मध्यस्थ मूल्यांकन का उपयोग करें।
 - **संस्कृति और संदर्भ को प्रतिबिंबित करें, केवल अनुवाद को नहीं।** बहुभाषी एआई को अनुवाद से आगे बढ़कर [[culturally-relevant-pedagogy|सांस्कृतिक रूप से प्रासंगिक शिक्षाशास्त्र]] तक जाना चाहिए — ऐसी सामग्री बनाएँ जो भाषाई और संदर्भगत रूप से उपयुक्त हो ([[llm-cultural-relevance-k12|के-12 सांस्कृतिक प्रासंगिकता]])।
 - **एआई को बहुभाषी सहायता संरचनाओं के साथ जोड़ें।** जहाँ पाठ-आधारित एआई विफल रहता है वहाँ आवाज-प्रथम और मौखिक मोड ([[kutti-ai-voice-first-learning-companion|आवाज-प्रथम साथी]]) का उपयोग करें, और द्विभाषी संदर्भों में [[self-regulated-learning|स्व-नियमन]] का समर्थन करें ([[bilingual-llm-lecture-companion-srl-2026|द्विभाषी व्याख्यान साथी]])।
-- **डिजिटल विभाजन पर नज़र रखें।** एआई में एकभाषी पूर्वाग्रह [[digital-divide]] को गहरा करते हैं और [[global-south]] भर में पहुँच को कमजोर करते हैं — उपकरण-चयन के साथ-साथ समान बुनियादी ढाँचा और पहुँच की योजना बनाएँ।
+- **डिजिटल विभाजन पर नज़र रखें।**
+- **अनुकूलन-श्रम प्रशिक्षक के कंधे पर पड़ता है।** [[wang-lote-teachers-generative-ai-engagement-2026|Wang, Ding और Liu (2026)]] ने पाया कि अंग्रेज़ी से भिन्न भाषाओं के विश्वविद्यालय-प्रशिक्षक प्रॉम्प्ट को अनुकूलित करते हैं, मॉडल की भाषा को सुधारते हैं, सामग्री को सांस्कृतिक रूप से नए संदर्भ में रखते हैं और सामयिक रूप से उपकरण बदलते हैं। यह श्रम डिजिटल क्षमता की कमज़ोरी से नहीं बल्कि भाषाई पदानुक्रम से थोपा जाता है, और वह अपनाने के आँकड़ों में अदृश्य रहता है जो केवल इतना गिनते हैं कि उपकरण उपयोग हुआ या नहीं। एआई में एकभाषी पूर्वाग्रह [[digital-divide]] को गहरा करते हैं और [[global-south]] भर में पहुँच को कमजोर करते हैं — उपकरण-चयन के साथ-साथ समान बुनियादी ढाँचा और पहुँच की योजना बनाएँ।
 
 ## सामान्य भ्रांतियाँ
 

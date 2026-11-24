@@ -1,7 +1,7 @@
 ---
 title: "पाठ्य-सुरक्षा: शिक्षा में पेडागॉजिकल सेफ्टी"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-20T17:32:04-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [cognitive-offloading]
@@ -15,6 +15,10 @@ source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"

@@ -1,7 +1,7 @@
 ---
 title: 학습자 집단에 따른 차등적 효과
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-07T23:52:36-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,16 +13,20 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-21T08:41:49-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, inclusive-learning, digital-divide, neurodiversity, accessibility, special-education, multilingual-learning, language-learning, bias-mitigation, culturally-relevant-pedagogy, universal-design-for-learning, assistive-technology, global-south, personalized-learning, learners, learner-identity, interpreting-and-applying-aied-research]
-connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, bjet-genai-engagement-minority-ethnic-students-2026, assistive-tech-neurodivergent-higher-ed-review-2026, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-minoritized-knowledges-disability, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, hadra-ai-detector-accuracy-efl-2026, ada-female-coded-chatbot-gender-stereotypes-2026, gender-bias-transfer-llm-writing, all-girls-genai-makerspace-gender-equity-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, marked-pedagogies-linguistic-bias-writing-feedback, demographic-signals-llm-student-assessment-2026, student-attention-estimation-fairness-2026, ai-divide-ses-personality-primary-education-2026, arc-hubs-k12-ai-robotics-rural-2026, ai-tutoring-micro-rct-gcse-science-2026, student-ai-inquiry-types-cs2-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, fairness-theatre-early-warning-systems-2026, wang-genai-metacognitive-prompting-preconceptions-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, petricini-ai-literacy-communication-equity-2026]
+connected_articles: [ada-female-coded-chatbot-gender-stereotypes-2026, adhd-video-segmentation-computing-education, ai-divide-ses-personality-primary-education-2026, ai-tutoring-micro-rct-gcse-science-2026, all-girls-genai-makerspace-gender-equity-2026, arc-hubs-k12-ai-robotics-rural-2026, assistive-tech-neurodivergent-higher-ed-review-2026, bjet-genai-engagement-minority-ethnic-students-2026, caeai-chatgpt-interdisciplinary-stem-nonstem-2026, demographic-signals-llm-student-assessment-2026, edufair-bench-pedagogical-fairness-llm-tutors-2026, fairness-theatre-early-warning-systems-2026, genai-minoritized-knowledges-disability, gender-bias-transfer-llm-writing, hadra-ai-detector-accuracy-efl-2026, international-students-conversational-ai-adaptation, liu-course-integrated-ai-tutoring-rct-2026, marked-pedagogies-linguistic-bias-writing-feedback, nagy-ai-use-domestic-international-students-2026, neurodivergent-computing-students, petricini-ai-literacy-communication-equity-2026, porcaro-ai-grader-reliability-2026, porcaro-ai-grading-benchmark-2026, robot-assisted-language-learning-meta-analysis-2026, structural-silence-underrepresented-language-ai-2026, student-ai-inquiry-types-cs2-2026, student-attention-estimation-fairness-2026, wang-genai-metacognitive-prompting-preconceptions-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -120,7 +124,8 @@ connected_articles: [zhang-ai-students-disabilities-meta-analysis-2024, caeai-ch
 - **첫 세대 학생들:** 한 연구가 효과가 아닌 사용 차이를 보고합니다. [[student-ai-inquiry-types-cs2-2026|한 CS2 탐구 연구]]에서, 계속 세대 학생들은 AI를 능동적인 [[problem-solving]] 파트너로 대한 반면, 첫 세대 학생들은 확인적이고 검증 지향적인 역할을 취하고 전반적으로 더 적은 질문을 했습니다.
 - **첫 세대 학생들: 첫 효과 추정치이며, 그것은 잘못된 방향으로 향한다.** [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]]의 강좌 통합 [[intelligent-tutoring|AI 튜터]]의 [[rct|무작위 시험]]은 위 항목이 결여한 것을 제공합니다. 즉 사용 패턴이 아닌 측정된 차등. 전체 표본에서 튜터 접근의 기말 성적에 대한 효과는 첫 세대 학생에게 2.87점(0.28 SD) 더 부정적이었으며, 그들에게 −5.10점(−0.50 SD)을 암시하고 또래에게는 −2.23점(−0.22 SD)을 암시합니다. 차등은 정확 일치 표본에서 더 컸으며(−3.89점, −0.35 SD), 첫 세대 학생들은 또한 더 많은 숙제 점수와 플랫폼 페이지 조회를 잃었습니다. 이 연구는 메커니즘을 보고하지 않으며 정밀도는 결과에 따라 다르지만, 방향은 격차 축소 이야기의 반대입니다: [[student-support-and-success|학업 지원]]에 대한 사전 접근이 가장 적었던 학생들이 측정된 가장 큰 비용을 짊어졌습니다.
 - **국제 학생들:** [[international-students-conversational-ai-adaptation|문화 간 적응 지원]]에 관한 한 개의 [[mixed-methods-research|혼합 방법]] 연구(설문 n = 60, 인터뷰 n = 14).
-- **국제 학생들: 측정된 참여 패턴이며, 효과 추정치가 아니다.** 영국 일곱 개 [[business-education|경영대학]]의 270명의 소수 민족 국제 학생에 걸쳐, 보고된 [[generative-ai]] 사용은 네 가지 [[student-engagement|참여]] 계열 모두와 긍정적으로 연관되었으며, 주체적 참여(agentic engagement)에서 가장 강하게(β = 0.429), 사용 의도의 가장 강한 예측 변인은 촉진 조건(β = 0.369)이었습니다([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
+- **국제 학생들: 측정된 참여 패턴이며, 효과 추정치가 아니다.**
+- **같은 기관의 국제 학생과 국내 학생.** [[nagy-ai-use-domestic-international-students-2026|Nagy, Lukács & Torkos(2026)]]는 헝가리의 한 대학에서 767명의 학생을 설문하고, 국내 학생과 국제 학생 사이의 원래 빈도 차이는 연령과 성별을 보정한 뒤 사라졌지만 적용 폭의 차이는 남았다는 것을 발견했습니다. 군집 분석은 이어서 양 집단에 걸쳐 분포하는 네 가지 사용자 프로파일을 복원했으므로, 집단 라벨은 사용의 양이 아니라 폭을 예측했습니다. 영국 일곱 개 [[business-education|경영대학]]의 270명의 소수 민족 국제 학생에 걸쳐, 보고된 [[generative-ai]] 사용은 네 가지 [[student-engagement|참여]] 계열 모두와 긍정적으로 연관되었으며, 주체적 참여(agentic engagement)에서 가장 강하게(β = 0.429), 사용 의도의 가장 강한 예측 변인은 촉진 조건(β = 0.369)이었습니다([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
 - **영재 및 고성취 학생들:** 이 코퍼스에서 집단으로서 사실상 연구되지 않았습니다.
 - **난민, 이주, 실향 학습자들:** 연구 없음.
 - **성별은 여전히 대부분의 위 작업에서 이분법적으로 분석되며**, 장애 범주는 연구마다 다르므로, "같은" 집단의 연구 간 비교에는 한계가 있습니다.

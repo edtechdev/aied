@@ -9,7 +9,7 @@ level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
 source_updated: "2026-11-19T09:45:00-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

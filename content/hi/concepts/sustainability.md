@@ -1,7 +1,7 @@
 ---
 title: सस्टेनेबिलिटी
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-20T17:32:04-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
 
@@ -65,8 +69,9 @@ AIED में सस्टेनेबिलिटी तीन आपस म�
 
 ## एक शैक्षणिक लक्ष्य के रूप में सस्टेनेबल शिक्षा
 
-एक संबंधित धारा सस्टेनेबिलिटी को केवल पर्यावरणीय या संस्थागत चिंता के रूप में नहीं, बल्कि शिक्षा की ही एक विशेषता के रूप में देखती है। [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] तर्क देते हैं कि AI-सहायित शिक्षा में संज्ञानात्मक बाह्यीकरण और वास्तविक संदर्भों से विच्छेद का जोखिम है, और वे **सस्टेनेबल शिक्षा** के लिए ढांचे (E3-HOT) प्रस्तावित करते हैं — ऐसी शिक्षा जो टिकती है, स्थानांतरित होती है, और वास्तविक समस्याओं से जुड़ी रहती है, न कि [[cognitive-offloading]] द्वारा बीच में कटी रहती है। यह सस्टेनेबिलिटी को [[agency]] और [[critical-thinking]] से जोड़ता है।
+एक संबंधित धारा सस्टेनेबिलिटी को केवल पर्यावरणीय या संस्थागत चिंता के रूप में नहीं, बल्कि शिक्षा की ही एक विशेषता के रूप में देखती है। इस पुनर्ढांचे कि विशेष हितों की सेवा करता है, यह व्यापक तर्क [[critiques-of-ai-in-education|शिक्षा में AI की आलोचना]] के अंतर्गत एकत्रित है। [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] तर्क देते हैं कि AI-सहायित शिक्षा में संज्ञानात्मक बाह्यीकरण और वास्तविक संदर्भों से विच्छेद का जोखिम है, और वे **सस्टेनेबल शिक्षा** के लिए ढांचे (E3-HOT) प्रस्तावित करते हैं — ऐसी शिक्षा जो टिकती है, स्थानांतरित होती है, और वास्तविक समस्याओं से जुड़ी रहती है, न कि [[cognitive-offloading]] द्वारा बीच में कटी रहती है। यह सस्टेनेबिलिटी को [[agency]] और [[critical-thinking]] से जोड़ता है।
 
+- **एक अनुमति-नियंत्रण (gatekeeping) विवरण।** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] शैक्षणिक सस्टेनेबिलिटी को ऐसे आर्थिक, सामाजिक, पर्यावरणीय और संस्थागत शर्तों के तहत उत्पन्न टिकाऊ शिक्षण-मूल्य के रूप में परिभाषित करते हैं जिन्हें बनाए रखा जा सकता है, और फिर उस मूल्य को पाँच स्तंभों में से एक के बजाय एक गैर-प्रतिपूरक द्वार बनाते हैं।
 ## अन्य अवधारणाओं से संबंध
 
 शिक्षा में सस्टेनेबिलिटी और AI, [[ethics]], [[governance]], [[ai-education]], और पर्यावरणीय/ऊर्जा विज्ञानों के संगम पर स्थित है। यह क्षमता-निर्माण के लिए [[teacher-education]] और [[teacher-role]] पर, शिक्षाशास्त्र के लिए [[learning-design]] पर निर्भर करता है, और "सस्टेनेबल शिक्षा" दृष्टि के माध्यम से ज्ञान आधार के [[cognitive-offloading]] और [[critical-thinking]] के प्रयोगों से जुड़ता है। चूँकि दोनों मार्ग अनुभवजन्य (cross-cutting) हैं, सस्टेनेबिलिटी एक आधारभूत थीम है जो [[higher-ed|उच्च शिक्षा]], K-12, और व्यावसायिक संदर्भों में दिखाई देती है।

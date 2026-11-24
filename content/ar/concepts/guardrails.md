@@ -12,6 +12,10 @@ source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -20,7 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_concepts: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, llm-training-and-fine-tuning, reinforcement-learning, bias-mitigation, ai-sycophancy, scaffolding, socratic-method, hallucination-risk, cognitive-offloading, k-12, ethics, governance, intelligent-tutoring, misconceptions, trust, llm]
 connected_articles: [ai-security-literacy-k12-framework-2026, reflection-agent-fidelity-career-2026, scaffolding-student-ai-dialogue-framework-2026, generative-ai-guardrails-harm-learning, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, paternalistic-filter-llm-history-education, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, ai-tutor-authoring-promptdecipher, llm-unlearning-math-privacy, pedagogical-safety-rl, residencyrl-clinical-rl-training-2026, rule-integrated-llm-tutoring-primary-math-2026, instructional-governance-design-computing-education-2026, guardrails-ai-teaching-assistants-programming-2026, instruction-partners-ai-in-action-learning-tour-2026]
 ---

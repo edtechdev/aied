@@ -1,7 +1,7 @@
 ---
 title: Nachhaltigkeit
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -23,8 +23,12 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
@@ -70,7 +74,9 @@ Der zweite Weg betrifft KIs eigenen Fußabdruck in Bildungssettings:
 
 ## Nachhaltiges Lernen als pädagogisches Ziel
 
-Ein verwandter Strang rahmt Nachhaltigkeit nicht nur als ökologisches oder institutionelles Anliegen, sondern als Eigenschaft des Lernens selbst. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argumentieren, KI-assistiertes Lernen riskiere kognitives Auslagern und Abkopplung von authentischen Kontexten, und schlagen Rahmenwerke (E3-HOT) für **nachhaltiges Lernen** vor — Lernen, das fortbesteht, überträgt und mit echten Problemen verbunden bleibt, statt durch [[cognitive-offloading|kognitive Entlastung]] kurzgeschlossen zu werden. Das verbindet Nachhaltigkeit mit [[agency|Handlungsfähigkeit]] und [[critical-thinking|kritischem Denken]].
+Ein verwandter Strang rahmt Nachhaltigkeit nicht nur als ökologisches oder institutionelles Anliegen, sondern als Eigenschaft des Lernens selbst. Das weiterreichende Argument, dass diese Neurahmung bestimmten Interessen dient, ist unter [[critiques-of-ai-in-education|Kritik an KI in der Bildung]] versammelt. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argumentieren, KI-assistiertes Lernen riskiere kognitives Auslagern und Abkopplung von authentischen Kontexten, und schlagen Rahmenwerke (E3-HOT) für **nachhaltiges Lernen** vor — Lernen, das fortbesteht, überträgt und mit echten Problemen verbunden bleibt, statt durch [[cognitive-offloading|kognitive Entlastung]] kurzgeschlossen zu werden. Das verbindet Nachhaltigkeit mit [[agency|Handlungsfähigkeit]] und [[critical-thinking|kritischem Denken]].
+
+- **Eine Gatekeeping-Haltung.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] definiert pädagogische Nachhaltigkeit als dauerhaften Lernwert, der unter wirtschaftlichen, sozialen, ökologischen und institutionellen Bedingungen erzeugt wird und aufrechterhalten werden kann, und macht diesen Wert zu einer nicht kompensierbaren Hürde statt zu einer Säule unter fünf.
 
 ## Verbindungen zu anderen Konzepten
 

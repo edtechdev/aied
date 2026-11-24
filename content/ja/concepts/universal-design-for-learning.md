@@ -8,19 +8,23 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high
-updated: "2026-11-19T06:40:00-05:00"
-source_updated: "2026-11-16T05:34:40-05:00"
+updated: "2026-11-24T02:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_of: concepts/universal-design-for-learning
 translation_note: 英語ページの自動翻訳です。母語話者による確認はまだ行われていません。
 contributors:
 - editor
 ai_assist:
-- model: stepfun/step-5-preview:free
-  role: translation
-  date: '2026-10-11'
-  agent: hermes-agent
+  - model: stepfun/step-5-preview:free
+    role: translation
+    date: '2026-10-11'
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -87,6 +91,8 @@ UDLは「学習者を直す」を「デザインを直す」に変えます。AI
 - 単一のコミュニケーションスタイルを前提としたり神経多様性のある表現にペナルティを課すAIに対して警戒する——[[accessibility|アクセシビリティ]]、[[equity-in-ai-education|AI教育における公平性]]、[[neurodiversity|神経多様性]]と接続してください。
 
 - **診断ではなく機能的な障壁を標的にする。** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempelら（2026）]]は、神経多様性のある学生のための支援技術の40研究のコーパスが、配慮と診断を条件とするツールを中心に組織化されていることを見出し、学生が実際に直面する横断的な障壁に向けて設計することがツールを説得的にユニバーサルにするものだと論じています。
+
+**相同性なき等価性。** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys ら（2026）]]は、UDLのメニューをAI支援の振り返り作業へと拡張しています。学生は同等の経路を持つべきです——テキストまたは音声による振り返り、AI支援のルートあるいは非AIのルート、同期的な人間の支援、目標と無関係な技術的な習熟を報いない透明な基準——そして決定的に、適用される権利、意味のある学習者の選択、必須のアクセシビリティは、他の場面での好成績によって相殺できる採点ではなく、補償不能な前提条件です。原則は「相同性なき等価性」です。異なるメディアや自動化の水準を用いてよいとしても、同じ成果を満たす同等の機会を提供しなければならず、インクルージョンは事後的な配慮として扱われるのではなく、デザインに組み込まれたものでなければなりません。
 
 ## よくある誤解
 

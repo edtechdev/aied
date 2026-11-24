@@ -1,7 +1,7 @@
 ---
 title: הפער הדיגיטלי
 created: "2026-10-12T19:15:00-04:00"
-updated: "2026-11-23T13:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]

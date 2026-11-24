@@ -7,18 +7,22 @@ connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learn
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
-updated: "2026-11-08T13:08:24-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/neurodiversity"
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -80,9 +84,13 @@ AI کے دور میں یہ نظریہ نعرے کے بجائے ڈیزائن کا
 - **اقسام کی حدیں مطالعات میں مختلف ہیں،** چنانچہ "ایک ہی" عصبی نمونے کا بین الدراساتی موازنہ محدود ہے — اور میٹا تجزیے میں اقسام کے درمیان فرق غیر معنی خیز بتایا گیا ہے۔
 - **میدان کے اپنے جائزہ لینے والے اُسے ٹیکنالوجی سے چلنے والا بتاتے ہیں،** جس کا مطلب یہ ہے کہ مداخلت کا ثبوت ٹھیک وہاں پتلا ہے جہاں ڈیزائن کی رہنمائی سب سے مضبوط ہے۔
 
+- **اب جنریٹو AI کے استعمال کے لیے ایک موازنہ کرنے والا مطالعہ موجود ہے۔** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji وغیرہ (2026)]] نے 477 جاپانی یونیورسٹی اور گریجویٹ طلبہ کا سروے کیا — بعض عصبی نشوونما کے امراض (DD) والے اور بعض بغیر — اور پایا کہ ہفتہ وار استعمال، خود جانے جانے والی مہارتوں، سمجھے گئے فوائد یا معاونت کی ضروریات میں دونوں گروہوں کے درمیان کوئی معنی خیز فرق نہیں۔ صرف صوتی اور تصویری تعاملات DD گروہ میں کمی جیسے ہلکے زیادہ رہے، چنانچہ اوپر والا یک گروہی خلا اب ایک براہِ راست موازنہ رکھتا ہے۔
+
 ## روابط
 
 عصبی تنوع [[special-education]]، [[inclusive-learning]]، [[universal-design-for-learning]] اور [[equity-in-ai-education]] سے جڑتا ہے۔ یہ دونوں باتوں کی رہنمائی کرتا ہے کہ [[student-experience]] کے لیے AI کیسے تعینات کیا جاتا ہے، اور یہ کہ جانچ اور خواندگی کے پروگرام علمی تغیر کے پار منصفانہ ہونے کے لیے کیسے ڈیزائن کیے جاتے ہیں۔ اِن دریافتوں کے دیگر سیکھنے والے گروپوں — زبان، صنف، سماجی و معاشی حیثیت، جغرافیہ — کے ساتھ کیسے بیٹھنے کے لیے دیکھیں [[differential-effects-across-learner-groups|مختلف سیکھنے والے گروپوں میں تفریقی اثرات]]۔
+
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh اور Natoli کا]] ADHD والے کالج طلبہ کے لیے AI پر 28 مطالعات کا جائزہ شواہد کو سہارا، پیشگوئی اور اخلاقیات میں تقسیم کرتا ہے۔ پیشگوئی سب سے پتلا حصہ ہے: ایک پلک ماپی والا ماڈل AUROC 0.856 تک پہنچا، جبکہ ایک SVM درجہ بند کرنے والا 66.1 سے 68.8 فیصد درستگی پر رہا، جو طبی افادیت سے کم ہے۔ [[executive-function|ایگزیکٹو فنکشن]] کا مقابلہ اخلاقی مرکز ہے — ایسا ٹول جو کسی ضرورت کی تلافی کرتا ہے وہ اُس مشق کو بھی نگل سکتا ہے جو اُس صلاحیت کو بنا دیتی۔
 
 ## عام غلط فہمیاں
 

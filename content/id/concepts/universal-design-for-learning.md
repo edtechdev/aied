@@ -8,9 +8,9 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high
-updated: "2026-11-08T14:14:01-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/universal-design-for-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -18,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -75,6 +79,8 @@ UDL mengubah "perbaiki pembelajar" menjadi "perbaiki desain". Bagi instruktur da
 - Sediakan pilihan produk penilaian (esai, presentasi, video, diagram, kode) yang selaras dengan hasil belajar yang sama.
 - *Contoh:* Sebuah proyek memungkinkan penyerahan sebagai laporan tertulis, penjelas video berbantuan AI, atau demonstrasi langsung — dengan [[scaffolding|perancah]] AI mendukung setiap mode. Dalam desain [[assessment]], ini sejajar dengan keadilan representasional [[authentic-assessment]].
 
+Pilihan hanya benar-benar memasukkan ketika semua opsi terlihat sama kredibelnya. Siswa dalam satu studi Fakultas Sains menyukai pilihan antara video dan esai tetapi melaporkan bahwa teman sebaya mereka takut esai akan dinilai lebih buruk, sehingga kriteria bersama dan logika penilaian yang dijelaskan itulah yang mengubah menu format menjadi inklusi alih-alih menebak secara strategis ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Rancang untuk literasi AI dan agensi.**
 - Ajari siswa bagaimana dan kapan memakai AI, dan bangun titik pemeriksaan yang menjaga pembelajar (bukan alat) tetap akuntabel — lihat [[ai-literacy]] dan [[reducing-ai-misuse]].
 - *Contoh:* Tugas selaras UDL memungkinkan siswa memakai AI untuk menyusun draf tetapi mewajibkan refleksi [[metacognition|metakognitif]] atas kontribusi mereka sendiri, sehingga prinsip keterlibatan dan agensi tetap terjaga.
@@ -84,6 +90,8 @@ UDL mengubah "perbaiki pembelajar" menjadi "perbaiki desain". Bagi instruktur da
 - Waspadai AI yang mengasumsikan satu gaya komunikasi atau menghukum ekspresi neurodivergen — hubungkan dengan [[accessibility]], [[equity-in-ai-education]], dan [[neurodiversity]].
 
 - **Sasar hambatan fungsional, bukan diagnosis.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] menemukan korpus 40 studi tentang teknologi asistif bagi siswa neurodivergen tersusun di sekitar akomodasi dan alat yang dibatasi diagnosis, dan berargumen bahwa merancang untuk hambatan lintas sektor yang benar-benar dihadapi siswa itulah yang membuat sebuah alat masuk akal disebut universal.
+
+**Kesetaraan tanpa keseragaman.** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]] memperluas menu UDL ke pekerjaan reflektif yang didukung AI: siswa harus memiliki jalur yang sebanding — refleksi teks atau audio, dibantu AI atau jalur non-AI, dukungan manusia sinkron, kriteria transparan yang tidak mengharga kecakapan teknis yang tidak relevan dengan tujuan — dan, secara penting, hak yang berlaku, pilihan pembelajar yang bermakna, serta aksesibilitas esensial adalah prasyarat yang tidak dapat dikompensasi alih-alih skor yang bisa ditutupi oleh kinerja kuat di tempat lain. Prinsipnya ialah "kesetaraan tanpa keseragaman": media atau tingkat otomatisasi berbeda boleh dipakai, tetapi keduanya harus menawarkan peluang yang sebanding untuk mencapai hasil yang sama, dan inklusi harus dirancang sejak awal alih-alih diperlakukan sebagai akomodasi setelah kejadian.
 
 ## Miskonsepsi Umum
 

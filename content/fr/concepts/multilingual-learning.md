@@ -2,7 +2,7 @@
 title: "Apprentissage multilingue"
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]

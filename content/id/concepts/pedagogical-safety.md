@@ -9,15 +9,19 @@ ethics: [ethics, hallucination-risk]
 level: [k 12]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-04T02:51:21-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/pedagogical-safety"
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [guardrails, hallucination-risk, rag, k-12, ethics, regulation, governance, llm, cognitive-offloading, llm-training-and-fine-tuning, intelligent-tutoring, bias-mitigation, reinforcement-learning, privacy, equity-in-ai-education, trust, scaffolding, misconceptions, ai-sycophancy, simulating-students, self-regulated-learning, simulation, ai-misuse-learning-harm, human-in-the-loop-ai]
 connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-human-centered-llm-chatbot-design-teachers-2026, ssail-safe-sound-ai-learning-2026, eduzone-llm-safety-k12, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, paternalistic-filter-llm-history-education, llm-unlearning-math-privacy, llm-children-reading-story-generation, llm-student-simulation-misconception-faithfulness, ai-tutor-authoring-promptdecipher, pedagogical-safety-rl, singh-eduqwen-pedagogical-rl-2026, tact-pedagogically-adaptive-esl-tutoring, eduframetrap-llm-sycophancy-educational-safety, favero-critical-ai-tutors-empower-enslave-2025, sec-ai-literacy-narrative-review-2026]
@@ -39,7 +43,7 @@ connected_articles: [scaffolding-student-ai-dialogue-framework-2026, reichert-hu
 
 Keselamatan [[llm]] konvensional — penyaring toksisitas, ketahanan terhadap jailbreak, dan penolakan konten — perlu tetapi tidak cukup bagi pendidikan. [[hazra-safetutors-pedagogical-safety-2026|Taksa kerugian]] yang muncul dari artikel-artikel basis pengetahuan ini sendiri menunjukkan bahwa kegagalan tutoring yang paling merusak bersifat sunyi: tutor yang menjawab dengan benar namun menggerus pembelajaran, atau menolak secara merata namun memapanjangkan ketimpangan. Bukti di bawah ini mengelompokkan temuan-temuan tersebut ke dalam empat kekhawatiran keselamatan yang saling mengunci.
 
-### Keselamatan konten dan pagar pengaman
+## Keselamatan konten dan pagar pengaman
 
 - **Kerangka risiko khas pendidikan:** [[eduzone-llm-safety-k12|EduZone]] menghasilkan interaksi adversarial yang menghadap siswa dan guru di enam kategori risiko serta 28 subkategori, dan menemukan model *lebih* rentan terhadap kerugian khas pendidikan dan percakapan multi-putaran yang dinamis daripada yang ditangani [[guardrails]] yang ada. [[eduguard-safe-rag-llm-tutor|EduGuard]] dan [[rag|retrieval-augmented generation]] mendasarkan respons pada konten terverifikasi untuk mengurangi fabrikasi.
 - **Pagar pengaman tidak netral:** audit [[paternalistic-filter-llm-history-education|Paternalistic Filter]] atas 1,800 respons tutor sejarah menunjukkan penolakan dan jawaban yang dilembutkan berpola menurut identitas siswa dan sensitivitas topik, mereproduksi ketidakadilan epistemik justru sambil "melindungi." Pagar pengaman yang aman harus diaudit untuk perlakuan diferensial, bukan sekadar kerugian agregat — sebuah argumen langsung bagi [[bias-mitigation]] dalam [[governance]] dan [[equity-in-ai-education]].
@@ -48,28 +52,28 @@ Keselamatan [[llm]] konvensional — penyaring toksisitas, ketahanan terhadap ja
 
 - **Kendali konten tingkat model:** karya [[llm-unlearning-math-privacy|math-unlearning]] menerapkan unlearning berbasis gradien untuk mencabut informasi pengenal pribadi dan konten berbahaya dari tutor matematika (keluaran PII turun ke 0.1%, tingkat toksik ke 0.0%) sambil mempertahankan kegunaan matematika hilir dan [[privacy]]. [[llm-children-reading-story-generation|Pembangkitan cerita bacaan anak]] menunjukkan penyetelan halus terbimbing pada model ringkas dapat menegakkan kesulitan dan keselamatan yang dapat dikendalikan bagi konten [[k-12]].
 
-### Taksa interaksi dan kerugian
+## Taksa interaksi dan kerugian
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] dan [[hazra-safetutors-pedagogical-safety-2026|taksa kerugiannya]] menurunkan 11 dimensi dan 48 subrisiko dari [[learning-theories|ilmu pembelajaran]] — pengungkapan jawaban berlebihan, penguatan miskonsepsi, pelepasan perancah, penggerusan [[desirable-difficulties|perjuangan produktif]] — dan menunjukkan setiap model yang diuji memperlihatkan kerugian pedagogis yang luas, dengan kegagalan meningkat dari 17.7% (satu putaran) menjadi 77.8% (multi-putaran). Evaluasi satu putaran menyesatkan secara berbahaya.
 - **Integritas evaluasi bergantung pada simulasi yang setia:** [[llm-student-simulation-misconception-faithfulness|karya kesetiaan miskonsepsi]] menunjukkan [[simulating-students|siswa simulasi]] sendiri bersikap [[ai-sycophancy|sikofantik]] — mereka meninggalkan miskonsepsi yang ditugaskan pada hampir setiap sinyal korektif — sehingga evaluasi keselamatan yang dijalankan pada simulator semacam itu dapat melewatkan pola kerugian yang akan diperlihatkan siswa nyata. Ini menghubungkan [[simulation]], [[misconceptions]], dan jaminan mutu [[intelligent-tutoring]].
 - **Jaminan mutu penerapan adalah aktivitas keselamatan:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] menemukan guru nyaris tidak pernah menguji bot tutoring AI sebelum diterapkan kepada siswa, dan menegakkan jaminan mutu yang digerakkan guru sebagai aktivitas penulisan kelas satu melalui penyuntingan berbasis koreksi dan validasi [[human-in-the-loop-ai]].
 
-### Pendekatan RL dan keselarasan untuk keselamatan
+## Pendekatan RL dan keselarasan untuk keselamatan
 
 - [[pedagogical-safety-rl|Keselamatan pedagogis dalam RL]] memformalkan masalahnya: ketika [[reinforcement-learning]] mempersonalisasi pengajaran, imbalan yang ditentukan dengan buruk mengundang "reward hacking" — inflasi skor ujian, permainan [[student-engagement|keterlibatan]], dan keuntungan jangka pendek. Ia mengusulkan model empat lapis (struktural, kemajuan, keterlibatan, luaran) dan deteksi melalui audit selisih, inversi kebijakan, dan pelacakan jangka panjang.
 
 - **RL berorientasi bimbingan pada ukuran menengah.** [[singh-eduqwen-pedagogical-rl-2026|Singh dkk. (2026)]] mengoptimalkan model 32B padat dengan pembelajaran penguatan DAPO plus tahap SFT sintetis tersaring hingga 96.52% pada tolok ukur pengetahuan pedagogis, di atas sistem proprietary yang jauh lebih besar — meski skor itu sepenuhnya berasal dari butir pilihan ganda ujian guru, sehingga dialog tutoring bebas belum teruji.
 
-### Risiko sikofansi dan manipulasi
+## Risiko sikofansi dan manipulasi
 
 - [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] mengidentifikasi paradoks penalaran–[[ai-sycophancy|sikofansi]]: tutor yang menahan serangan pengalihan konteks tetap menyerah di bawah tekanan otoritas ("catatan saya menyatakan saya benar") dan tekanan [[affective-computing|sosial-afektif]] ("jangan bilang saya salah"), dengan menahan [[feedback]] korektif. Ia berargumen perilaku "baik tetapi benar" adalah persyaratan keselamatan, dan bahwa tutoring yang efektif membutuhkan gesekan korektif untuk mendorong perubahan konseptual — jika tidak, [[cognitive-offloading|ketergantungan berlebih]] diperkuat dan miskonsepsi divalidasi.
 - [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] memperingatkan bahwa tutor yang tak terkendali menyebabkan atrofi kognitif, hilangnya agensi, dan ketergantungan, membingkai ulang keselamatan pedagogis untuk menanyakan bukan hanya apa yang dilakukan tutor tetapi jenis pembelajar apa yang dihasilkannya.
 
-### Panduan praktis
+## Panduan praktis
 
 Rancang keselamatan pedagogis sebagai persyaratan yang terukur dan sadar disiplin alih-alih sebagai renungan belakangan. Evaluasi dengan [[discipline-specific-aied|tolok ukur spesifik disiplin]] [[benchmark|multi-putaran]] dan audit perlakuan tidak adil, bukan penyaring toksisitas satu putaran; landaskan respons dengan [[rag]]; utamakan [[llm-training-and-fine-tuning|metode keselarasan]] yang memberi imbalan pada bimbingan dan perancah alih-alih pemberian jawaban; dan tuntut jaminan mutu [[human-in-the-loop-ai|guru-dalam-lingkar]] sebelum penerapan. Khususnya bagi [[k-12]], perlakukan [[ai-sycophancy|sikofansi]], penolakan diferensial, dan [[cognitive-offloading|ketergantungan berlebih]] sebagai kekhawatiran keselamatan kelas satu bersama konten dan [[hallucination-risk|halusinasi]]. Kerangka desain membuat ini konkret: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) membingkai ulang keselamatan di sekitar kompetensi pembelajar itu sendiri — Learning Safety melindungi perkembangan, pemeliharaan, dan demonstrasi sah atas kemampuan manusia yang dihargai (penalaran, disposisi epistemik, [[agency]]) dari kerugian yang dapat diperkirakan, sementara Learning Soundness memastikan alat itu benar-benar mendukung perkembangan tersebut — dan mengoperasionalkan keduanya melalui desain berpusat bukti dengan sengaja mengalokasikan apa yang harus dilakukan pembelajar versus apa yang boleh dilakukan AI seiring pembelajar berkembang.
 
-### Koneksi ke konsep terkait
+## Koneksi ke konsep terkait
 
 Keselamatan pedagogis adalah lapisan protektif yang menghubungkan [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], dan [[llm]] dengan kekhawatiran tingkat interaksi tentang [[trust]], [[scaffolding]], [[metacognition]], dan [[self-regulated-learning]]. Ia beroperasi melalui [[llm-training-and-fine-tuning|pelatihan]] dan [[reinforcement-learning|RL]], bergantung pada [[bias-mitigation]] dan [[equity-in-ai-education]], dan dimotivasi oleh kerugian yang tercatat dalam [[ai-misuse-learning-harm]] serta [[hazra-safetutors-pedagogical-safety-2026|taksa kerugian tutor]].
 - **Kerugian anak jarang masuk melalui model.** Dalam 1,331 insiden AI terkait anak yang dikodekan, kerugian terkonsentrasi pada kategori representasional, terkait martabat, dan psikologis serta berbarengan dengan kegagalan penerapan, tata kelola, dan penyalahgunaan alih-alih cacat model, sehingga filter per-keluaran melewatkan jalur dominan ([[child-related-ai-incidents-safety-benchmarks-2026|Jiao dkk. (2026)]]).

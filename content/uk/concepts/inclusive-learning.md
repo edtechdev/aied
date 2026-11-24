@@ -1,5 +1,6 @@
 ---
 connected_resources: [mglearn]
+updated: "2026-11-24T02:05:00-05:00"
 title: Інклюзивне навчання
 created: "2026-10-13T21:55:00-04:00"
 type: concept
@@ -9,10 +10,14 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -79,6 +84,8 @@ connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segme
 **Воротарство формальної діагностики виключає здобувачів, яких інструмент нібито має обслуговувати.** У огляді [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al.'s (2026)]] 40 досліджень цифрових асистивних технологій для нейровідмінних студентів 28 зробили формальну діагностику умовою участі, і лише три розглядали середовище, а не студента.
 
 **Доступні інструменти на практиці** показують, як ШІ може розширювати участь. **[[suacode-african-students-motivations|SuaCode]]** продемонстрував, що курси програмування на основі смартфонів досягають студентів в африканських контекстах із обмеженими ресурсами, де менше 1% мають навички програмування. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** працювали зі сліпими та слабозорими музикантами, щоб розробити невізуальні стратегії навчання, ставлячи в центр керований інвалідністю [[embodied-learning|embodied]] дизайн. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** надає безкоштовного, приватного, багатомовного помічника для міркувань, що пов’язує освітян із принципами UDL. **[[special-r1-rl-special-education|Special-R1]]** розширює [[reinforcement-learning|reinforcement learning]] на моделювання когнітивного та комунікаційного різноманіття між профілями інвалідності.
+
+**Політика відстає від розгортання.** Жоден із 100 найвище рейтингованих університетів не мав політики доступності ШІ, хоча 93 % розгорнули кампусні сервіси на основі ШІ ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### Зв’язки зі спорідненими поняттями
 

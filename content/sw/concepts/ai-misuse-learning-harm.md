@@ -1,6 +1,7 @@
 ---
 title: Matumizi Mabaya ya AI na Madhara ya Kujifunza
 created: "2026-10-13T06:32:00-04:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -9,13 +10,17 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
 connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
@@ -24,7 +29,6 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rh
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
 > **Matumizi mabaya ya AI na madhara ya kujifunza** — uhusiano wa sababu na athari kati ya wanafunzi kuhamisha [[cognitive-offloading|kazi ya kiakili]] kwa [[generative-ai|generative AI]] na kupungua kwa kujifunza kwa kudumu, hata pale utendaji wa papo hapo wa kazi unapopanda. Sifa inayoitangaza ni pengo la utendaji–kujifunza: AI hupanua utendaji uliosaidiwa huku ikiharibu matokeo yasiyosaidiwa, ya kitabu kilichofungwa, na ya ukumbukumbu.
-
 ## Maswali ya Kutafakari
 
 - Mwanafunzi anaweza kufanya vizuri zaidi kwa wakati huo huo akijifunza kidogo kwa muda mrefu — AI inaweza kupanda utendaji uliosaidiwa huku ikiharibu mafanikio ya baadaye yasiyosaidiwa. Umewahi kuhisi umekuwa umejifunza kitu kilichotoweka mara zana ilipoondolewa?
@@ -40,11 +44,11 @@ Matarajio ya madhara yenyewe yanaandikwa: katika data ya dodoso na vikundi lengw
 
 Matumizi mabaya ya AI ni tofauti na matumizi ya AI. Matumizi yanaelezea kutumia AI kama nyongeza ya kujifunza — [[feedback]], kuzalisha mawazo, au msaada wa marekebisho unaoendelea kumuweka mwanafunzi katika kazi ya kiakili. Matumizi mabaya yanaelezea kubadilisha: kuhamisha kwa AI michakato hiyo hiyo ya kiakili (kuandika, kukumbuka, kuchanganua, marekebisho) ambayo hujenga ufahamu unaodumu. Madhara yaliyorekodiwa katika msingi wa ushahidi wa hifadhi ya maarifa si kuwa matumizi mabaya yanashindwa kusaidia; ni kwamba matumizi mabaya yanaharibu kwa njia inayotenda mafanikio ya baadaye yasiyosaidiwa.
 
-### Pengo la utendaji–kujifunza
+## Pengo la utendaji–kujifunza
 
 Dhana ya msingi, iliyoelezewa katika [[genai-performance-vs-learning]], ni kwamba generative AI ina urahisi kupanda **utendaji** — ufanisi wa papo hapo na ubora wa matokeo — huku mara nyingi ikipuuza uchakataji wa kina wa kiakili na wa [[metacognition|metaji]] unaohitajika kwa **kujifunza**. Zana inayoboresha utendaji kwa hivyo inaweza kudhoofisha kujifunza. Pengo sasa linaonyeshwa kwa sababu na athari katika kiwango cha uwanja: [[rct|jaribio la kubahatisha linalodhibitiwa]] lilipata kuwa msaada wa AI usio na vizuizi ulipanda utendaji wa mazoezi lakini ulipunguza alama za mitihani ya baadaye yasiyosaidiwa.
 
-### Mikakati ya madhara
+## Mikakati ya madhara
 
 - **[[cognitive-surrender]]** — neno ambalo watafiti hutumia kwa wanafunzi kuhamisha kufikiri kwa AI kama utegemezi wa kupitisha, usio na tafakari, tofauti na aina ya kimakusudi na ya kimkakati ya [[cognitive-offloading]]. Huzalisha kupungua kwa kiwango cha kujua kudumu kwa watu wengi.
 - **Kunakili majibu kama tegemeo** — matumizi mabaya yanahamasishwa kidogo na makosa ya AI kuwapotosha wanafunzi kuliko na wanafunzi kunakili majibu badala ya kujifunza. Pale uchanganuzi wa [[student-engagement|mahususi]] unaonyesha wanafunzi wengi "wanaomba jibu," madhara ya kujifunza yanafuatia.
@@ -52,41 +56,31 @@ Dhana ya msingi, iliyoelezewa katika [[genai-performance-vs-learning]], ni kwamb
 - **Kupokonywa kwa kujifunza** — kubadilishwa kwa matokeo ya AI kwa michakato inayohitaji juhudi (kueleza kwa kina, kukumbuka, kujieleza mwenyewe) ambayo inaimarisha maarifa, kulingana na [[cognitive-offloading|Kutegemea Kupita Kiasi]].
 - **Mkanganyiko unasomwa kama nia.** Waelimishaji wanapotaja jukumu linalokusudiwa la AI katika kazi, wanafunzi hulifasili kwa urahisi zaidi, na walimu husoma tofauti inayotokana nao kama wizi wa kitaaluma badala ya mpaka ambao haukuwahi kutajwa ([[this-is-how-we-ai-teaching-guide-2026|Hanshaw et al., 2026]]).
 
-### Msingi wa ushahidi
+## Msingi wa ushahidi
 
 - **Jaribio la uwanja la sababu na athari (wanafunzi takribani 1,000 wa hisabati wa sekondari):** mkufunzi wa mtindo wa ChatGPT asiye na vizuizi alipanda utendaji wa mazoezi uliosaidiwa **+48%** lakini alipunguza alama za [[summative-assessment|mitihani ya kitabu kilichofungwa]] yasiyosaidiwa **−17%** — wanafunzi ambao hawakuwahi kupata ufikiaji wa AI walifanya vizuri zaidi kuliko wale waliokuwa nao. Mkufunzi yenye vizuizi ya "dokezo-si-jibu" aliondoa madhara. Ni muhimu, wanafunzi katika mkono uliodhiriwa hawakuhisi walijifunza kidogo.
 - **Data ya tabia ya kiwango cha watu wengi (mwingiliano milioni 3.2 ya ALEKS):** muda wa kusoma kwenye matatizo yanayoweza kuathiriwa na AI ulipungua **−26.9%** kwa jumla kwa wanafunzi wa chuo kikuu (sekondari −31.3%) baada ya kutolewa kwa ChatGPT, pamoja na **kupungua kwa 25% katika nafasi za jibu sahihi kwenye vipimo vya ukumbukumbu vilivyo na usimamizi**. Athari ilitoweka kabisa chini ya usimamizi, ikiiweka kwenye matumizi ya AI ya nje ya jukwaa.
 - **Tokeo kubwa lisilo na athari:** kutumia kupungua kwa kipindi cha majira ya matumizi ya ChatGPT msimu wa joto kulionyesha **hakuna mabadiliko ya jumla katika wastani wa mitihani ya kawaida ya sekondari** — pengine kwa sababu madhara ya matumizi mabaya yanasawazishwa kwa jumla na matumizi ya AI yenye tija. Hii haikanushi madhara ya sababu na athari kwa kujifunza kudumu; inaonya dhidi ya kupanua kwa ujumla kutoka alama za mitihani za jumla.
 
-### Utegemezi kama njia ya kuchoka
+## Utegemezi kama njia ya kuchoka
 
 Matumizi mabaya yanadhuru zaidi ya mafanikio. Dodoso la wanafunzi 276 wa chuo kikuu wa Kichina ([[ai-dependency-self-efficacy-teacher-support-burnout-2026|Huang et al., 2026]]) liliiga utegemezi wa AI kama mpatanishi kati ya rasilimali za ulinzi za mwanafunzi na kuchoka kwa kujifunza, na lilipata lilibeba athari yote: [[self-efficacy|uwezo binafsi wa kitaaluma]] na, kwa udhaifu zaidi, msaada wa [[teacher-role|mwalimu]] zote zilipunguza utegemezi wa AI, ambao kwa upande wake ulitabiri kuchoka. Njia zote mbili zisizo za moja kwa moja zilikuwa na umuhimu na zilikuwa za kupatanisha kikamilifu — athari za moja kwa moja zilikuwa hazina umuhimu mara utegemezi ulipoingia katika mfano — na njia ya uwezo binafsi ilikuwa yenye nguvu zaidi ya zile mbili. Kusomwa pamoja na pengo la utendaji–kujifunza lililo juu, tokeo linaongeza gharama ya matumizi mabaya kutoka maarifa yaliyoharibiwa ya kudumu hadi kuchoka na kutokuwa na mahusiano ya mwanafunzi, na linaweka mkakati katika utegemezi wenyewe badala ya katika matumizi ya AI kama yenyewe: rasilimali zinazotoa ulinzi dhidi ya matumizi mabaya zinaonekana kufanya kazi kwa kuzuia utegemezi, si kwa kupinga athari zake baadaye. Waandishi wanabainisha tahadhari ya upimaji — Kipimo chao cha Utegemezi wa AI kimetoka kwa Mtihani wa Utegemezi wa Intaneti na uhalali wake wa maudhui kwa AI haujathibitishwa — kwa hivyo njia inafaa kutendewa kama nadharia iliyopangwa vizuri badala ya ukubwa wa athari uliokwisha.
 
-### Asili ya madhara inayotegemea tathmini
+## Asili ya madhara inayotegemea tathmini
 
 Ufafanuzi wa vitendo muhimu zaidi ni kwamba madhara **yanateua kwa aina ya tathmini**. Yanaonekana kwenye vipimo vilivyo **na usimamizi, vya kitabu kilichofungwa, na visivyosaidiwa** vya maarifa ya kudumu. Kwenye kazi za kawaida za alama ambazo hazina uwezo wa kutofautisha kazi iliyosaidiwa na AI na kazi huru, matumizi mabaya yanaweza *kupanua* alama za papo hapo. Hii ni kwa nini pengo la linalohisika–halisi ni la hatari: wanafunzi (na wakati mwingine makufunzi) wanaona faida za utendaji za muda mfupi na wanakosa uthabiti wa kujifunza ambao unaonekana tu wakati zana inapoondolewa.
 
 **Tegemeo gani, si wingi wake.** Dodoso la wanafunzi 118 katika kozi 12 zenye mzigo mkubwa wa AI ([[uneven-impact-generative-ai-student-learning-2026|Manikonda et al. 2026]]) linatenganisha tabia mbili ambazo vipimo vya mara ya matumizi huzisawazisha. **Tegemeo la kiakili** — kutumia GenAI kupanga, kutathmini, kuunganisha na kugawa — lilikuwa mtibiri mwenye nguvu zaidi wa athari chanya inayohisika (β = .495, p < .001), na kupunguza mzigo unaoelezewa hauna madhara kwa ujumla: kupanga na kufupisha mawazo na kugundua ufahamu mapya vilikuwa miongoni mwa sifa zilizohusishwa na ujifunza bora unaohisika. **Tegemeo la mapema** — kushauriana na GenAI *kabla ya* fikra huru, utafutaji wa kawaida, au mkufunzi — lilitabiri faida ya kitaaluma (β = .301, p < .001) *na* athari hasi (β = .402, p = .004) kwa wakati mmoja. Upatanishi ni sehemu ambayo inahusiana na dawa ya ujuzi iliyo juu: uhusiano kati ya tegemeo la mapema na athari hasi haukuwa na uwepo katika [[ai-literacy|ujuzi wa kutathmini]] wa chini (b = .025, p = .861) na ulikuwa na nguvu zaidi miongoni mwa wanafunzi wanaohukumu matokeo ya AI vizuri zaidi (b = .688, p < .001), kwa hivyo ujuzi wa kutathmini haukuwa ulinzi dhidi ya gharama ya kumuuliza AI kwanza — wanafunzi waliokuwa katika nafasi bora zaidi ya kugundua gharama ndio waliokuwa wakiiripoti. Wito la uendeshaji ni kwamba matumizi mabaya kwa kiasi fulani ni swali la *muda* unaohusiana na jaribio la mwanafunzi mwenyewe, si tu la wingi, ambayo ni kwa nini miingiliajo inayolenga wakati wa kushauriana na AI inaingia kando ya dawa za kubuni tathmini zilizo chini.
 
-### Athari na dawa
+## Athari na dawa
 
 - **[[guardrails]] badala ya ufikiaji wa kawaida:** kuweka ilani kwa [[prompt-engineering|dokezo-si-jibu]] na [[scaffolding]] iliyoandikwa na mwalimu huzima athari ya tegemeo (ona [[generative-ai-guardrails-harm-learning]]).
 - **[[assessment|Kubuni tathmini]]:** tathmini zinazopinga AI na zilizo na usimamizi/zisizosaidiwa zinahitajika kufichua — na kuvunja — matumizi mabaya.
 - **Ujuzi na metaji:** mafunzo ya [[ai-literacy]] na [[self-regulated-learning]] yanayosaidia wanafunzi kutambua mifumo ya tegemeo na gharama ya kupuuza kazi yao ya kiakili.
 
-### Kutokuwa na mahusiano ya mazungumzo katika zama za LLM
+## Kutokuwa na mahusiano ya mazungumzo katika zama za LLM
 
 Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa zama ya mazungumzo: kutokuwa na mahusiano ya mazungumzo — kumdhalilisha wakala, kujibu kwa makusudi vibaya, kumtenga, kuiga maandishi yake, au kuzuia majibu. [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] wanatoa toleo la kwanza la kimfumo la jambo hili katika [[student-ai-interaction|mazungumzo ya mwanafunzi–AI]], na somo lake kuu ni la tafsiri badala ya la tahadhari. *Geugeu* lisilo na mahusiano ni hatua ya mwingiliano, si hali thabiti ya kutokuwa na mahusiano. Uhusiano unaoonekana wa Kujibu Kwa Makosa na alama za baada ya jaribio haukustahimili ukaguzi wa ufahamu wa binadamu, na waandizi wanaisoma kama kuchunguza *ndani ya* njia ambazo mara nyingi hurudi kwenye mahusiano (kikundi chenye utendaji wa juu zaidi kilirudi kwa p = 0.42). Tabia ambayo kweli ilitenganisha njia ilikuwa Kuzuia — kukataa kujibu, ambayo kilidumu badala ya kutatuliwa. Kwa wabuni hii hubadilisha kipaumbele cha kawaida: kutokuwa na mahusiano kwa kelele, kinachoonekana, mara nyingi hujirekebisha, huku kujiondoa kwa utulivu kukiashiria kuwa mwingiliano umevunjika.
-
-## Dhana Potofu za Kawaida
-
-**"Wanafunzi wangeona kama AI ingekuwa inadhuru kujifunza kwao."** Hawaoni, na hili ni jambo lenye matokeo makubwa zaidi katika ukurasa huu: **wanafunzi katika kikundi kilichodhurika hawakuhisi kuwa walijifunza kidogo.** [[self-report-measures|Kujiripoti]] kwa hivyo si ishara ya mapema inayoweza kutumika. Muundo wa mazoezi yaliyo juu kwa asilimia 48 na mtihani ulio chini kwa asilimia 17 hauonekani kwa mtu anayeupitia, ndiyo sababu ugunduzi wa madhara unapaswa kutegemea upimaji badala ya ushuhuda.
-
-**"Hatari ni kiasi cha AI anachotumia mwanafunzi."** Hatari ni kile ambacho AI inabadilishwa nacho. Matumizi mabaya hapa yanamaanisha kukabidhi uandishi wa rasimu, ukumbusho au uchanganuzi unaojenga ufahamu wa kudumu: uingizwaji badala ya nyongeza, na mwanafunzi anaweza kuweka uingizwaji mwingi katika kazi moja na kuongeza kwa tija katika inayofuata. Kiasi cha matumizi ni kigezo kibaya; mgawanyo wa kazi ya kiakili ndicho kigezo sahihi.
-
-**"Ikiwa utendaji wa mazoezi unaimarika, zana inafanya kazi."** Katika jaribio la uwanja la nasibu la sababu lenye takriban wanafunzi 1,000 wa hisabati wa shule ya upili, mwalimu wa mtindo wa ChatGPT asiye na ulinzi ulipandisha utendaji wa mazoezi unaosaidiwa kwa **asilimia 48** huku *ikipunguza* alama za [[summative-assessment|mtihani wa kitabu kilichofungwa]] usiosaidiwa kwa **asilimia 17**. Mielekeo ni kinyume, hivyo tathmini yoyote inayosoma namba ya mazoezi kama matokeo itathibitisha madhara hasa ambayo inakusudiwa kuyagundua.
-
-**"Wanaojifunza wanaotumia AI wana wasiwasi hasa kuhusu kukamatwa."** Wasiwasi wao wanaoutaja ni wa maendeleo. Katika utafiti mmoja **asilimia 51 ya washiriki (n = 106)** walikuwa na wasiwasi kuwa matumizi ya GenAI yanaweza kuzuia maendeleo ya mtu binafsi, wakitaja upotevu wa [[critical-thinking|ufikiri wa kina]], ubunifu na uhuru badala ya kuvunja kanuni. Mfumo wa [[academic-integrity|uadilifu]] unaotawala mazungumzo ya kitaasisi si ule ambao wanafunzi wenyewe wanaufikia.
 
 ## Maana kwa Mazoezi
 
@@ -107,3 +101,13 @@ Fasihi ya mchezo wa mfumo (dhuluma ya dokezo, niajo za kimfumo) ina mwenza wa za
 
 - Ripoti kila wakati kipimo kisichosaidiwa, na ripoti mtazamo pamoja nacho badala ya badala yake.
 - Ripoti muundo wa uingizwaji wa kazi, si mara ya matumizi tu, unapohusisha madhara.
+
+## Dhana Potofu za Kawaida
+
+**"Wanafunzi wangeona kama AI ingekuwa inadhuru kujifunza kwao."** Hawaoni, na hili ni jambo lenye matokeo makubwa zaidi katika ukurasa huu: **wanafunzi katika kikundi kilichodhurika hawakuhisi kuwa walijifunza kidogo.** [[self-report-measures|Kujiripoti]] kwa hivyo si ishara ya mapema inayoweza kutumika. Muundo wa mazoezi yaliyo juu kwa asilimia 48 na mtihani ulio chini kwa asilimia 17 hauonekani kwa mtu anayeupitia, ndiyo sababu ugunduzi wa madhara unapaswa kutegemea upimaji badala ya ushuhuda.
+
+**"Hatari ni kiasi cha AI anachotumia mwanafunzi."** Hatari ni kile ambacho AI inabadilishwa nacho. Matumizi mabaya hapa yanamaanisha kukabidhi uandishi wa rasimu, ukumbusho au uchanganuzi unaojenga ufahamu wa kudumu: uingizwaji badala ya nyongeza, na mwanafunzi anaweza kuweka uingizwaji mwingi katika kazi moja na kuongeza kwa tija katika inayofuata. Kiasi cha matumizi ni kigezo kibaya; mgawanyo wa kazi ya kiakili ndicho kigezo sahihi.
+
+**"Ikiwa utendaji wa mazoezi unaimarika, zana inafanya kazi."** Katika jaribio la uwanja la nasibu la sababu lenye takriban wanafunzi 1,000 wa hisabati wa shule ya upili, mwalimu wa mtindo wa ChatGPT asiye na ulinzi ulipandisha utendaji wa mazoezi unaosaidiwa kwa **asilimia 48** huku *ikipunguza* alama za [[summative-assessment|mtihani wa kitabu kilichofungwa]] usiosaidiwa kwa **asilimia 17**. Mielekeo ni kinyume, hivyo tathmini yoyote inayosoma namba ya mazoezi kama matokeo itathibitisha madhara hasa ambayo inakusudiwa kuyagundua.
+
+**"Wanaojifunza wanaotumia AI wana wasiwasi hasa kuhusu kukamatwa."** Wasiwasi wao wanaoutaja ni wa maendeleo. Katika utafiti mmoja **asilimia 51 ya washiriki (n = 106)** walikuwa na wasiwasi kuwa matumizi ya GenAI yanaweza kuzuia maendeleo ya mtu binafsi, wakitaja upotevu wa [[critical-thinking|ufikiri wa kina]], ubunifu na uhuru badala ya kuvunja kanuni. Mfumo wa [[academic-integrity|uadilifu]] unaotawala mazungumzo ya kitaasisi si ule ambao wanafunzi wenyewe wanaufikia.

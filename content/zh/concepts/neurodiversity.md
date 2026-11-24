@@ -1,7 +1,7 @@
 ---
 title: 神经多样性
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-18T03:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,10 +9,14 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-11-18"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -83,6 +87,8 @@ connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-
 - **样本很小。** 计算研究24名学生、四次访谈；ADHD视频研究17人与10人；阅读障碍综述72项研究且脉络仍未耦合。
 - **类别边界在各研究间不同，** 因此跨研究比较"同一个"神经类型受限 —— 而元分析中的类别间差异被报告为不显著。
 - **该领域自己的综述者把它描述为技术驱动的，** 这意味着干预证据在设计指导最强之处恰恰薄弱。
+
+- **现在有了一项针对生成式 AI 使用的对照研究。**[[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji 等人（2026）]]调查了 477 名有与没有神经发育障碍的日本大学生与研究生，发现两组在每周使用、自评技能、感知益处或支持需求上没有显著差异。只有语音与图像交互在 DD 组略高，因此上文那个单组差距现在有了一个直接的对照。
 
 ## 关联
 

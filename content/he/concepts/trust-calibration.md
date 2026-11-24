@@ -1,7 +1,7 @@
 ---
 title: כיול אמון
 created: "2026-10-12T22:05:00-04:00"
-updated: "2026-11-23T10:00:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -21,10 +21,6 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
-    agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
-    date: "2026-10-30"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation

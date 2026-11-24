@@ -9,18 +9,22 @@ discipline: [teacher education]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/sustainability"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -66,7 +70,9 @@ AIED میں پائیداری تین ایک دوسرے میں پیوست تشکی
 
 ## پائیدار سیکھنا بطور تدریسی ہدف
 
-ایک متعلقہ دھارہ پائیداری کو صرف ماحولیاتی یا اداراتی معاملہ نہیں بلکہ خود سیکھنے کی ایک خصوصیت سمجھتا ہے۔ [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] استدلال کرتے ہیں کہ AI کے سہارے سیکھنا علمی آؤٹ سورسنگ اور حقیقی سیاق و سباق سے علیحدگی کا خطرہ رکھتا ہے، اور **پائیدار سیکھنے** کے لیے فریم ورک (E3-HOT) تجویز کرتے ہیں — ایسی سیکھنا جو برقرار رہے، منتقل ہو، اور حقیقی مسائل سے جڑی رہے، بجائے اِس کے کہ [[cognitive-offloading|علمی منتقلی]] اُسے مختصر کر دے۔ یہ پائیداری کو [[agency|خودمختاری]] اور [[critical-thinking|تنقیدی سوچ]] سے جوڑتا ہے۔
+ایک متعلقہ دھارہ پائیداری کو صرف ماحولیاتی یا اداراتی معاملہ نہیں بلکہ خود سیکھنے کی ایک خصوصیت سمجھتا ہے۔ [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] استدلال کرتے ہیں کہ AI کے سہارے سیکھنا علمی آؤٹ سورسنگ اور حقیقی سیاق و سباق سے علیحدگی کا خطرہ رکھتا ہے، اور **پائیدار سیکھنے** کے لیے فریم ورک (E3-HOT) تجویز کرتے ہیں — ایسی سیکھنا جو برقرار رہے، منتقل ہو، اور حقیقی مسائل سے جڑی رہے، بجائے اِس کے کہ [[cognitive-offloading|علمی منتقلی]] اُسے مختصر کر دے۔ یہ پائیداری کو [[agency|خودمختاری]] اور [[critical-thinking|تنقیدی سوچ]] سے جوڑتا ہے۔ یہ نئی تشکیل کہ وہ مخصوص مفادوں کی خدمت کرتی ہے، اس پر اِس سے آگے کی دلیل [[critiques-of-ai-in-education|تعلیم میں AI کی تنقید]] میں اکٹھی کی گئی ہے۔
+
+- **ایک دربازہ والا بیان۔** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] تدریسی پائیداری کی تعریف ایسی پائیدار سیکھنے کی قدر کے طور پر کرتے ہیں جو اقتصادی، سماجی، ماحولیاتی اور ادارتی حالات کے تحت پیدا ہو جنہیں برقرار رکھا جا سکے، اور پھر اُس قدر کو پانچ ستونوں میں سے ایک کے بجائے ایک ناقابلِ تلافی دربازہ بنا دیتے ہیں۔
 
 ## دیگر تصورات سے روابط
 

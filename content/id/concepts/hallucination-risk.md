@@ -9,9 +9,9 @@ connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/hallucination-risk"
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -42,11 +46,15 @@ Halusinasi dalam AI pendidikan mengambil beberapa bentuk yang terdokumentasi dal
 
 Tinjauan atas 125 studi memberi rentang pada prevalensi dan celah deteksinya: tingkat halusinasi 10–40%, dengan mahasiswa kedokteran hanya mendeteksi kesalahan AI 44–55% dari waktu ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]]).
 
+Risiko ini juga bergantung pada bahasa: [[genai-l2-written-feedback-scoping-review-2026|Crosthwaite dan Sun (2026)]] menemukan deteksi kesalahan kuat untuk bahasa Inggris tetapi lebih lemah untuk bahasa Yunani dan Mandarin, dengan halusinasi dan salah baca niat penulis dalam umpan balik menulis L2.
+
 **Distorsi memori setelah keluaran.** Sebuah eksperimen 2026 menemukan bahwa ringkasan AI yang menyesatkan melakukan lebih dari sekadar salah informasi: ia mengubah apa yang diingat 328 orang dewasa tentang video yang telah mereka tonton. Hanya 44,8% yang membaca ringkasan menyesatkan kemudian mengidentifikasi detail kritis dengan benar, berbanding 83,6% yang membaca ringkasan konsisten, dan efeknya bertahan ketika ringkasan diberi label tulisan manusia ([[sim-ai-summary-memory-distortion-2026|Sim, Eiger & Kohno, 2026]]). Kelalaian adalah kesalahan paling umum dalam audit pendampingnya: seluruh 20 ringkasan memuat kesalahan, dan 95% menghilangkan tabrakan itu sendiri. Studi itu tidak menguji siswa, tetapi ia menunjukkan mengapa pemeriksaan halusinasi yang berhenti pada teks tidak lengkap: kesalahan dapat bertahan dalam memori pembaca setelah teksnya hilang.
 
 **Halusinasi penilaian** sangat merusak. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** menemukan bahwa LLM memfabrikasi kutipan bukti yang tidak ada dalam tulisan tangan siswa ketika mendiagnosis keterampilan kognitif, dengan 58.5% diagnosis yang keliru disertai klaim palsu akan keyakinan evidensial. **[[llm-fallacy-misattribution]]** mendokumentasikan kelebihan atribusi bukti yang sistematis dalam penalaran [[llm]] — model mengklaim dukungan evidensial di tempat yang tidak ada. Keduanya terhubung ke [[ai-ed-evaluation]] dan kekhawatiran [[knowledge-tracing]] tentang [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] menambahkan dua mode kegagalan yang terlihat ketika keluaran AI dinilai alih-alih diperiksa: perincian yang difabrikasi yang lolos penilaian — makalah yang ditinjau yang tidak ada, lengkap dengan DOI yang tak dapat diselesaikan, dan ukuran sampel yang dilaporkan 378 padahal sumbernya menyebut 329 — dan kontradiksi diri dalam satu respons, di mana model menalar jalan menuju opsi yang benar lalu melaporkan opsi lain dalam ringkasan penutupnya. Karena daftar referensi saat ini dinilai untuk format alih-alih akurasi, kelas kesalahan ini mencapai nilai kelulusan sambil menyesatkan siswa yang menggunakan alat yang sama untuk merevisi.
 
 Dalam percontohan desain penilaian, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] menemukan referensi yang difabrikasi dan perkiraan waktu yang tidak realistis yang bertahan melalui prompting berulang dan menuntut revisi akademik substansial — halusinasi dalam alat penyusunan draf yang menghadap pendidik, bukan dalam pekerjaan siswa.
+
+**Pembangkitan dan pengubahan format gagal secara berbeda.** Ketika diminta membuat daftar referensi gaya IEEE untuk sel surya perovskit, ChatGPT mengembalikan entri yang menurut para penulisnya sebagian besar halusinasi atau salah sitasi: inisial, tahun, jilid, dan halaman yang keliru, serta satu artikel yang tampak masuk akal dikaitkan kepada kelompok yang tidak pernah mengerjakannya ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra dan Gong, 2026]]). Ketika diminta sebaliknya mengubah kumpulan referensi yang sudah terverifikasi menjadi APA, alat yang sama itu akurat dan menghemat banyak waktu. Risikonya terletak pada penyediaan sumber, bukan pada pekerjaan bibliografis — garis yang dapat dinyatakan oleh [[rubrics|rubrik]] tugas.
 
 **[[misconceptions|Miskonsepsi]] strategis** adalah kerabat yang lebih halus dari halusinasi terang-terangan. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] meminta tujuh model berbobot terbuka menghasilkan "jebakan [[socratic-method|Sokrates]]" untuk 35 konsep ilmu komputer inti — penjelasan yang lancar dan otoritatif sementara bersandar pada kesalahan halus yang spesifik domain — dan tiga pakar domain mengonfirmasi 221 dari 241 segmen yang diprompt (91.7%) sebagai miskonsepsi strategis, tanpa perbedaan signifikan antar-domain ilmu komputer. Kesalahannya sebagian besar konseptual alih-alih faktual (66.5% vs. 33.5%) dan tidak ada yang murni logis, dan semuanya dinilai cukup hingga sangat persuasif (M = 3.71 pada skala lima poin), dengan identitas model menjelaskan 43% varians. Karena pernyataan individual dapat benar sementara relasi di antaranya salah, pemeriksaan fakta tidak memadai; para penulis berargumen [[ai-literacy|pembelajar]] membutuhkan verifikasi konseptual dan validasi model mental. Mereka juga memperingatkan bahwa angka itu mengukur kapabilitas di bawah [[prompt-engineering|prompting]] adversarial alih-alih prevalensi kesalahan semacam itu dalam penggunaan biasa, dan bahwa tidak ada siswa yang diuji, sehingga tidak ada penipuan atau hasil belajar yang diukur.
 
@@ -61,6 +69,8 @@ Pertahanan terhadap manipulasi semacam itu membawa pertukarannya sendiri: alur p
 **Ketidakandalan yang diberi label menurunkan ketergantungan yang dilaporkan alih-alih menaikkannya.** Ketika 546 partisipan membaca dialog GAI yang sama yang diberi label entah memuat informasi yang difabrikasi atau terverifikasi akurat, label fabrikasi menghasilkan [[trust]] dan persepsi kendali yang lebih rendah serta disonansi kognitif dan frustrasi yang lebih tinggi bersamaan dengan skor ketergantungan yang *lebih rendah* (M = 2.935 vs. 3.254) ([[frontiers-gai-hallucination-dependence-2026|Liu et al. (2026)]]). Hasil ini mengualifikasi logika ketergantungan berlebih pada halaman ini: melihat bahwa sebuah keluaran mungkin difabrikasi tidak sama dengan terus bersandar padanya.
 
 **Isyarat kredibilitas dapat memperkuat kepatuhan alih-alih sebaliknya.** Gerakan sebaliknya muncul ketika keluaran yang tidak andal didandani: menambahkan sitasi dan sinyal kredibilitas ke antarmuka debat ARMADA menaikkan proporsi partisipan yang beralih dari pertimbangan awal yang benar ke posisi AI yang keliru sebesar 112% (31.8% vs. 15.0%), dan pemeriksaan manual menemukan beberapa kasus yang dikutip salah diatribusikan ke referensi yang tidak relevan atau fiktif ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]).
+
+Mode kegagalan yang berbeda adalah masalah yang tidak terbentuk dengan baik. Dalam [[bauyrzhan-genai-inorganic-chemistry-verification-2026|sebuah tolok ukur eksploratori atas tiga chatbot pada 42 soal kimia anorganik]], setiap chatbot menjawab pernyataan yang cacat dengan percaya diri, tanpa menandai cacatnya, meminta klarifikasi, atau menolak, dan penanda ketidakpastian tidak pernah mencapai kesimpulan. Kegagalannya bukan jawaban yang salah melainkan premis palsu yang diterima dalam keheningan.
 
 ## Miskonsepsi Umum
 

@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: 隐私
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-18T03:03:18-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,13 +11,13 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-16T05:34:25-05:00"
+source_updated: "2026-11-18T10:35:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
-  - model: stepfun/step-5-preview:free
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-11-24"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -81,6 +81,8 @@ connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextu
 ## 儿童安全与 K-12 保护
 
 [[k-12|K-12]]情境要求更强的隐私保障，因为学习者未成年。这使隐私延伸到数据保护之外的[[pedagogical-safety|教学安全]]：儿童使用的工具必须不只保护他们的数据，还要保护他们免受伤害。[[child-safety-genai|儿童安全研究]]表明，通用安全分类器常常漏掉来自儿童、与教育相关的不安全提示，警告学校不能假定标准模型保障能保护较年幼的用户 —— 他们需要儿童特定的评价、基于事件的测试，与[[human-in-the-loop-ai|人工监督]]。这一框定把隐私连接到[[equity-in-ai-education|公平]]：默认安全与隐私实践保护了谁，反映了一个系统把谁的安全与自主视为不可谈判。
+
+- **年龄门槛是法定的，而非合同约定的。**一款条款写着“13 岁及以上”的产品并不能因此规避 COPPA：当服务面向儿童、或提供者明知用户未满 13 岁时，该规则即适用，因此年龄筛查与数据最小化应写进部署条款，而非供应商的宣传文案。在 GDPR 第 8 条与第 12 条下，可核验的家长同意的可比下限通常为 16 岁，并须附适龄告知（[[stefanile-middle-secondary-ai-guidance-2026|Stefanile，2026]]）。
 
 ## 隐私实践
 

@@ -12,7 +12,7 @@ confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
 source_updated: "2026-11-16T05:33:47-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

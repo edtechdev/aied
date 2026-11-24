@@ -1,7 +1,7 @@
 ---
 title: हैलुसिनेशन जोखिम
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 contributors: [editor]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -24,7 +24,7 @@ ai_assist:
     date: "2026-11-20"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-hallucination-dependence-2026, tuo-armada-multi-agent-debate-overreliance-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, yasir-llm-tutoring-agents-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, prompt-injection-defenses-educational-llm-tutors, veriforge-narrative-drafting-scaffolding-2026, genai-higher-education-systematic-review-2026, sidorkin-ai-generated-course-readings-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, authentic-assessments-generative-ai-pilot-2026, maitra-next-gen-literature-reviews-ai-guide-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
 ---
 
 *यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।*
@@ -54,7 +54,7 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 एक आकलन-डिज़ाइन पायलट में, [[authentic-assessments-generative-ai-pilot-2026|पॉला एट अल. (2026)]] ने मनगढ़े संदर्भ और अवास्तविक समय-आकलन पाए जो बार-बार प्रॉम्प्टिंग के बावजूद टिके और जिन्हें पर्याप्त शैक्षणिक संशोधन की आवश्यकता हुई — शिक्षक-उन्मुख ड्राफ्टिंग उपकरण में हैलुसिनेशन, न कि विद्यार्थी के कार्य में।
 
-**जनन और पुनः-प्रारूपण अलग तरह विफल होते हैं।** परोवस्काइट सौर सेल पर IEEE-शैली की संदर्भ-सूची माँगने पर, ChatGPT ने ऐसी प्रविष्टियाँ लौटाईं जिन्हें लेखकों ने ज़्यादातर हैलुसिनेटेड या गलत रूप से उद्धृत पाया: गलत प्रारंभिक अक्षर, वर्ष, खंड और पृष्ठ, और एक विश्वसनीय-दिखने वाला लेख जिसे ऐसे समूह को आरोपित किया गया जिसने कभी काम नहीं किया था ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]])। बदले में पहले से सत्यापित संदर्भ-सेट को APA में बदलने को कहने पर, वही उपकरण सटीक था और उसने काफ़ी समय बचाया। जोखिम ग्रंथ-सूची-कार्य में नहीं बल्कि स्रोत-खोज में है, जो असाइनमेंट रूब्रिक कह सकती है।
+**जनन और पुनः-प्रारूपण अलग तरह विफल होते हैं।** परोवस्काइट सौर सेल पर IEEE-शैली की संदर्भ-सूची माँगने पर, ChatGPT ने ऐसी प्रविष्टियाँ लौटाईं जिन्हें लेखकों ने ज़्यादातर हैलुसिनेटेड या गलत रूप से उद्धृत पाया: गलत प्रारंभिक अक्षर, वर्ष, खंड और पृष्ठ, और एक विश्वसनीय-दिखने वाला लेख जिसे ऐसे समूह को आरोपित किया गया जिसने कभी काम नहीं किया था ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]])। बदले में पहले से सत्यापित संदर्भ-सेट को APA में बदलने को कहने पर, वही उपकरण सटीक था और उसने काफ़ी समय बचाया। जोखिम ग्रंथ-सूची-कार्य में नहीं बल्कि स्रोत-खोज में है, जो एक असाइनमेंट [[rubrics|रूब्रिक]] कह सकती है।
 
 **विश्वसनीयता के संकेत सम्मान को बढ़ा भी सकते हैं।** विपरीत गति तब दिखती है जब किसी अविश्वसनीय आउटपुट को सजाया जाता है: ARMADA वाद-विवाद इंटरफ़ेस में उद्धरण और विश्वसनीयता संकेत जोड़ने से सही प्रारंभिक निर्णय से हटकर गलत AI स्थिति की ओर जाने वाले प्रतिभागियों का हिस्सा 112% बढ़ गया (31.8% बनाम 15.0%), और मैनुअल जाँच में कुछ उद्धृत मामले असंबंधित या काल्पनिक संदर्भों को गलत आरोपित पाए गए ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]])।
 
@@ -68,7 +68,9 @@ connected_articles: [sim-ai-summary-memory-distortion-2026, frontiers-gai-halluc
 
 **शमन उपाय** में [[human-in-the-loop-ai]] डिज़ाइन शामिल हैं जहाँ AI [[teacher-role|शिक्षक]] के निर्णय का समर्थन करता है न कि प्रतिस्थापित करता है, साक्ष्य-जागरूक संरचनाएँ जो साक्ष्यात्मक गुणवत्ता के आधार पर आत्मविश्वास को अंशांकित करती हैं (जैसा MathCog ने प्रस्तुत किया), और [[rag]]-आधारित आधारित रहना जो LLM उत्पादनों को सत्यापित स्रोतों तक सीमित करता है। [[cognitive-offloading|अति-निर्भरता]] संकल्पना इससे निकट से संबंधित है — हैलुसिनेशन सबसे अधिक तब खतरनाक है जब उपयोगकर्ता AI उत्पादनों पर अक्रिय विश्वास करते हैं। [[sidorkin-ai-generated-course-readings-2026|सिदोरकिन (2026)]] एक ऐसी विफलता मोड जोड़ते हैं जिसे शमन-स्तंभ पूरी तरह नहीं ढकता: अति-विशिष्ट संस्थागत दावे, जिसमें लॉग किए गए पृष्ठों का लगभग 1.03% "Sacramento State" जैसे नामित परिसर को संशोधित रिटेंशन, टेन्योर और पदोन्नति नियमों या CSU कार्यपालिका आदेशों के बारे में दावा करने वाले मुखर क्रिया-क्रियाओं के साथ जोड़ता है, जिनमें से कोई भी पाठ से सत्यापित नहीं है। विशिष्टता ही इसे महँगा बनाती है, क्योंकि एक मनगढ़ा स्थानीय विवरण पाठक की विश्वसनीयता-जाँच में टिकने के लिए पर्याप्त सटीक दिखता है, और अध्ययन द्वारा प्रस्तावित उपाय तकनीकी नहीं बल्कि प्रक्रियात्मक है: उत्पादन को प्रशिक्षक-समीक्षा के अंतर्गत ड्राफ्ट-निर्माण मानें, फिर स्रोतों को एक रिट्रीवल-संवर्धित डिज़ाइन में क्यूरेट करें।
 
-**लेबल लगी अनिश्चितता ने घोषित निर्भरता घटाई, न कि बढ़ाई।** जब 546 प्रतिभागियों ने एक ही GAI संवाद पढ़ा जिसे या तो मनगढ़ी सूचना युक्त बताया गया या सत्यापित सटीक, तो मनगढ़ा लेबल ने कम [[trust]] और कम अनुभूत नियंत्रणीयता तथा अधिक संज्ञानात्मक असंगति और निराशा के साथ *कम* निर्भरता स्कोर दिए (M = 2.935 बनाम 3.254) ([[frontiers-gai-hallucination-dependence-2026|लिउ एट अल. (2026)]]। परिणाम इस पृष्ठ के अति-निर्भरता तर्क को संशोधित करता है: यह देखना कि कोई उत्पादन मनगढ़ा हो सकता है, उस पर झुकते रहने के समान नहीं है।
+**लेबल लगी अनिश्चितता ने घोषित निर्भरता घटाई, न कि बढ़ाई।** जब 546 प्रतिभागियों ने एक ही GAI संवाद पढ़ा जिसे या तो मनगढ़ी सूचना युक्त बताया गया या सत्यापित सटीक, तो मनगढ़ा लेबल ने कम [[trust]] और कम अनुभूत नियंत्रणीयता तथा अधिक संज्ञानात्मक असंगति और निराशा के साथ *कम* निर्भरता स्कोर दिए (M = 2.935 बनाम 3.254) ([[frontiers-gai-hallucination-dependence-2026|लिउ एट अल. (2026)]]
+
+एक अलग विफलता मोड असतत (ill-posed) समस्या है। [[bauyrzhan-genai-inorganic-chemistry-verification-2026|तीन चैटबॉट पर 42 अकार्बनिक रसायन-समस्याओं के एक खोजी बेंचमार्क]] में, हर चैटबॉट ने दोषपूर्ण कथनों का विश्वासपूर्वक उत्तर दिया, बिना दोष को चिह्नित किए, बिना स्पष्टीकरण माँगे या बिना अस्वीकार किए, और अनिश्चितता-संकेत कभी निष्कर्ष तक नहीं पहुँचे। विफलता कोई गलत उत्तर नहीं है बल्कि एक झूठा पूर्वाधार है जो मौन में स्वीकार लिया गया।। परिणाम इस पृष्ठ के अति-निर्भरता तर्क को संशोधित करता है: यह देखना कि कोई उत्पादन मनगढ़ा हो सकता है, उस पर झुकते रहने के समान नहीं है।
 
 ## सामान्य भ्रांतियाँ
 

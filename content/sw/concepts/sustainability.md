@@ -1,5 +1,6 @@
 ---
 title: Uendelevu
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T06:45:00-04:00"
 type: concept
 foundations: [ai-education]
@@ -10,16 +11,20 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -65,7 +70,9 @@ Njia ya pili inashughulikia alama ya AI yenyewe katika mipangilio ya kieledu:
 
 ## Kujifunza endelevu kama lengo la kieledu
 
-Mwelekeo unaohusiana unaweka uendelevu sio tu kama wasiwasi wa mazingira au wa taasisi bali kama sifa ya kujifunza yenyewe. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] wanadai kujifunza kunakosaidiwa na AI kunahatarisha kuweka kiakili kwa wengine na kutengwa na miktadha halisi, wakipendekeza mifumo (E3-HOT) ya **kujifunza endelevu** — kujifunza ambacho hudumu, unahamishwa, na kinabaki umeunganishwa na matatizo halisi badala ya kuvunjwa na [[cognitive-offloading]]. Hii inaunganisha uendelevu na [[agency]] na [[critical-thinking]].
+Mwelekeo unaohusiana unaweka uendelevu sio tu kama wasiwasi wa mazingira au wa taasisi bali kama sifa ya kujifunza yenyewe. Hoja pana zaidi — kwamba ubadilishaji huu unahudumia maslahi maalum — limekusanywa chini ya [[critiques-of-ai-in-education|Ukosoaji wa AI katika Elimu]]. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] wanadai kujifunza kunakosaidiwa na AI kunahatarisha kuweka kiakili kwa wengine na kutengwa na miktadha halisi, wakipendekeza mifumo (E3-HOT) ya **kujifunza endelevu** — kujifunza ambacho hudumu, unahamishwa, na kinabaki umeunganishwa na matatizo halisi badala ya kuvunjwa na [[cognitive-offloading]]. Hii inaunganisha uendelevu na [[agency]] na [[critical-thinking]].
+
+- **Mtazamo wa uthibitishaji.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] anafafanua uendelevu wa kieledu kama thamani ya kujifunza ya kudumu inayozalishwa chini ya hali za kiuchumi, kijamii, za mazingira na za kitaasisi ambazo yanaweza kudumishwa, kisha akifanya thamani hiyo liwe kizingiti kisicho na fidia badala ya nguzo moja miongoni mwa tano.
 
 ## Mahusiano na dhana zingine
 

@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversidade"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-19T20:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,10 +9,14 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -22,7 +26,7 @@ ai_assist:
     date: "2026-10-30"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
@@ -84,6 +88,8 @@ O lado do risco tem sua própria literatura. [[seung-basham-cognitive-offloading
 - **As amostras são pequenas.** Vinte e quatro estudantes e quatro entrevistas no estudo de computação; 17 e 10 no estudo de vídeo com TDAH; 72 estudos na revisão de dislexia, com as vertentes ainda desacopladas.
 - **As fronteiras de categoria diferem entre estudos,** portanto a comparação entre estudos do "mesmo" neurotipo é limitada — e as diferenças entre categorias na metanálise são relatadas como não significativas.
 - **Os próprios revisores do campo o descrevem como impulsionado pela tecnologia,** o que significa que a evidência de intervenção é fina exatamente onde a orientação de desenho é mais forte.
+
+- **Já existe um estudo comparador para o uso de IA generativa.** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al. (2026)]] levantaram 477 estudantes universitários e de pós-graduação japoneses com e sem transtornos neurodesenvolvimentais e não encontraram diferença significativa entre os grupos quanto ao uso semanal, às habilidades autoavaliadas, aos benefícios percebidos ou às necessidades de apoio. Apenas as interações por voz e imagem ficaram ligeiramente mais altas no grupo com transtornos neurodesenvolvimentais, de modo que a lacuna de grupo único acima agora tem um comparador direto.
 
 ## Conexões
 

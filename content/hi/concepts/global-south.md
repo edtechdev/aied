@@ -1,7 +1,7 @@
 ---
 title: "ग्लोबल साउथ"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-20T18:49:23-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]

@@ -1,7 +1,7 @@
 ---
 title: 보편적 학습 설계
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,16 +10,20 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-20T09:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-11"
     agent: hermes-agent
 connected_concepts: [inclusive-learning, accessibility, assistive-technology, equity-in-ai-education, special-education, neurodiversity, learning-design, personalized-learning, culturally-relevant-pedagogy, authentic-assessment, student-experience, generative-ai, pedagogy, bias-mitigation, reducing-ai-misuse, k-12]
-connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026]
+connected_articles: [seung-basham-cognitive-offloading-swld-2026, authentic-products-authenticated-processes-2026, tactile-statistical-graphs-accessibility, neurodivergent-computing-students, ai-learning-tools-engineering-education-needs, assistive-tech-neurodivergent-higher-ed-review-2026, faculty-accessible-course-design-ai-2026, alenezi-ai-universal-design-learning-kuwait-2026, mcdonald-inclusive-assessment-genai-2026, bubnys-sustainable-ai-reflective-learning-2026]
 ---
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
@@ -85,6 +89,8 @@ UDL은 "학습자를 고치는 것"을 "설계를 고치는 것"으로 바꿉니
 - 하나의 의사소통 방식을 전제하거나 신경다양성적 표현을 불이익하게 다루는 AI에 대비하라. [[accessibility]], [[equity-in-ai-education]], [[neurodiversity]]와 연결하라.
 
 - **기능적 장벽을 목표로 하라, 진단이 아니라.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]]는 신경다양성 학생을 위한 보조 기술의 40개 연구 말뭉치가 수정 조치와 진단에 의해 접근이 제한되는 도구들을 중심으로 조직되어 있다는 것을 발견하고, 학생들이 실제로 마주하는 가로지르는 장벽들을 목표로 설계하는 것이 도구를 그럴듯하게 보편적으로 만드는 것이라고 주장합니다.
+
+**동일함이 없는 동등함(equivalence without sameness).** [[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]]은 UDL의 선택지를 AI 지원 성찰 작업으로까지 확장합니다. 학생들은 비교 가능한 경로를 가져야 합니다 — 텍스트 또는 오디오 성찰, AI 지원 또는 비AI 경로, 실시간 인간 지원, 목표와 무관한 기술적 유창성을 보상하지 않는 투명한 기준 — 그리고 결정적으로, 적용되는 권리, 의미 있는 학습자 선택, 필수적인 접근성은 다른 곳에서의 강한 수행으로 상쇄할 수 있는 점수가 아니라 보상할 수 없는 전제 조건입니다. 그 원칙은 "동일함이 없는 동등함"입니다. 서로 다른 매체나 자동화 수준이 쓰일 수 있지만, 그것들은 같은 결과에 도달할 비교 가능한 기회를 제공해야 하고, 포용은 사후에 덧붙이는 수정 조치가 아니라 설계되어야 합니다.
 
 ## 흔한 오해
 

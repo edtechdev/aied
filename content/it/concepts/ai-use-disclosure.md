@@ -1,7 +1,7 @@
 ---
 title: Dichiarazioni sull'uso e la divulgazione dell'IA
 created: "2026-10-14T21:59:00-04:00"
-updated: "2026-11-08T11:15:12-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-use-disclosure"
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ethics, trust, trust-calibration, governance, educational-policy-ai, assessment, authentic-assessment, ai-literacy, self-regulated-learning, help-seeking, equity-in-ai-education, generative-ai, higher-ed, ai-misuse-learning-harm, ai-detection, parents-and-families, social-norms-ai-use]
 connected_articles: [liu-genai-truthful-declaration-tpb-deterrence-2026, wu-lam-genai-writing-assessment-professors-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, student-perspectives-ai-writing-grading-2026, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, ai-written-admissions-essays-penalized-2026, obhdp-ai-disclosure-erodes-trust-2025, authorial-warrant-ai-supported-scholarship-2026, fu-ai-label-authenticity-trust-generated-videos-2026, benmessaoud-genai-course-materials-faculty-2026]
@@ -57,6 +61,7 @@ La divulgazione è il meccanismo che rende il lavoro assistito dall'IA *visibile
 
 - **La divulgazione è rara e guidata dall'ansia.** Attraverso gli studi, la maggior parte degli studenti non divulga l'uso dell'IA ai docenti. [[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] hanno trovato che solo ~34% degli studenti di economia ammettevano l'uso dell'IA e la divulgazione era più rara, guidata dall'"ansia da sanzione." [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] hanno trovato che il 66% degli studenti non divulgava mai o raramente, con la paura della sanzione accademica come motivo principale. [[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] ha documentato il **74% di non conformità** con una dichiarazione obbligatoria alla [[business-education|Business School]] di King's.
 - **Politiche ambigue e punitive guidano l'occultamento.** Quando le politiche d'uso dell'IA sono poco chiare, non applicate, o divieti, gli studenti nascondono l'uso anziché impegnarsi. Le politiche di "uso limitato in certe situazioni" predicono meglio la divulgazione; le politiche "non permesso" o "non a conoscenza" predicono l'occultamento. Politiche chiare, coerenti e collaborative sono ripetutamente invocate.
+- **L'obbligo, non solo la sanzione.** Due regole con la stessa intenzione separano la divulgazione dall'occultamento: [[mehreen-genai-policy-wording-2026|Mehreen et al. (2026)]] hanno trovato che l'inquadramento come disonestà si associava agli studenti che nascondevano il proprio uso, mentre rendere gli studenti responsabili di output inesatti si associava a senso di proprietà e trasparenza.
 - **La divulgazione ha costi psicologici — e costi nascosti.** Gli studenti considerano le dichiarazioni come autoincriminazione, e alcuni credono che l'uso dell'IA sia privato come usare una calcolatrice. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] hanno trovato che gli studenti che divulgavano "sempre" avevano oltre 3× le probabilità di essere accusati — la trasparenza può invitare il sospetto. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] hanno trovato che la preoccupazione ridirige la divulgazione verso i pari anziché sopprimerla, tagliando fuori gli studenti dal feedback del docente.
 - **La divulgazione è intrecciata con l'apprendimento autoregolato.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpretano la divulgazione diretta dal docente come ricerca di aiuto adattiva — rendere l'assistenza visibile e invitare la calibrazione esterna — mentre l'occultamento (specialmente tra gli utilizzatori pesanti dell'IA) assomiglia a una regolazione disadattiva. La divulgazione strutturata e formativa può promuovere la riflessione [[metacognition|metacognitiva]] e il ragionamento etico che caratterizzano l'autoregolazione efficace.
 - **La struttura della deterrenza si divide per bersaglio.** Tra 466 studenti, la certezza che la non divulgazione sarebbe stata rilevata si associava ad atteggiamenti più favorevoli (β = 0,643), mentre la certezza che dichiarare avrebbe esposto un uso improprio si associava ad atteggiamenti meno favorevoli (β = −2,175), e sanzioni più pesanti per la non divulgazione erano associate negativamente sia all'atteggiamento sia al controllo. Le stime sull'uso improprio poggiano su predittori collineari (fattore di inflazione della varianza superiore a 9), quindi sono instabili ([[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu et al., 2026]]).
@@ -77,6 +82,8 @@ Passando in rassegna le linee guida GenAI delle 50 università statunitensi clas
 
 - **La divulgazione comporta una penalità di fiducia, e la legittimità è il meccanismo argomentato.** In tredici esperimenti, per lo più con panelist online statunitensi e raccolti a 4.093 osservazioni (θ = 0,81, z = 10,52, 95% CI [0,66, 0,96]), un attore che divulgava l'uso dell'IA era ritenuto meno affidabile di uno che restava in silenzio ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke e Reimann (2025)]]). L'effetto è sopravvissuto a sei inquadramenti di divulgazione, a un valutatore che già sapeva che l'IA era stata usata, e a regimi sia obbligatori sia volontari. È la controparte sperimentale del risultato del sondaggio sopra riportato che gli studenti che divulgavano sempre affrontavano oltre tre volte le probabilità di un'accusa: la trasparenza stessa può costare a chi divulga. L'unico risultato dello studio rivolto agli studenti è che gli studenti si fidavano meno di un professore quando lei divulgava la [[automated-assessment|valutazione con l'IA]].
 - **Un'etichetta sul contenuto cambia la descrizione, non il verdetto.** Con 617 adulti assegnati casualmente a vedere o non vedere un'etichetta "Contenuto generato dall'IA/Video sintetico", l'etichetta abbassava l'autenticità percepita (medie di 4,92 senza e 4,21 con) ma lasciava invariati fiducia (B = -0,130, p = 0,216), rischio, adozione e condivisione ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang e Zhang (2026)]]).
+
+I documenti che gli studenti ricevono davvero contengono meno di quanto intendessero gli insegnanti che li hanno scritti. [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud et al. (2026)]] hanno codificato 16 syllabi, dichiarazioni di politica e compiti forniti volontariamente da 56 docenti di un grande ateneo pubblico del Midwest statunitense: l'indicazione di permesso e riconoscimento era solida nel 59%, la privacy dei dati era silente nel 75%, le norme di citazione erano solide nel 19% e l'81% non prevedeva alcuna clausola di revisione. Gli stessi docenti riportavano che le linee guida istituzionali avevano plasmato i materiali didattici "per nulla" o "poco" nel 71% dei casi, il che colloca il divario tanto nelle linee guida quanto nel syllabus. Una clausola di divulgazione vale quanto il modello e lo standard di citazione su cui poggia.
 
 ## Progettare una divulgazione efficace
 

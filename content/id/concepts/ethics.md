@@ -7,9 +7,9 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/ethics"
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -62,6 +66,7 @@ Penggunaan AI yang etis bukan hanya persoalan prinsip tetapi tentang bagaimana o
 
 - **Kerangka normatif tidak dapat saling ditukar.** Di antara 151 mahasiswa sarjana Spanyol, keadilan moral merupakan syarat perlu untuk berniat menggunakan LLM dalam persiapan ujian (d = 0.338) tetapi bukan prediktor yang cukup, sementara pertimbangan konsekuensialis (β = 0.350) dan deontologis (β = 0.329) adalah — mahasiswa menerapkan beberapa kerangka normatif ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella dkk. (2026)]]).
 - **Struktur multidimensi yang dibagi.** Enam tema dalam [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] — yang mencakup etika data, etika algoritma, dan etika pedagogis — membentuk rantai kausal yang saling terhubung dari prinsip dasar (transparansi, akuntabilitas, keadilan, otonomi) ke hasil perilaku, menegaskan bahwa penggunaan AI yang bertanggung jawab bergantung sama besar pada peta jalan institusional yang jelas seperti pada kesadaran individu.
+- **Kesadaran etis naik seiring tingkat pendidikan.** [[licardo-students-ethical-challenges-genai-2026|Licardo & Šindić (2026)]] mensurvei 1.299 siswa Slovenia di jenjang dasar, menengah, dan tinggi dan menemukan bahwa persepsi pentingnya tantangan etis GenAI naik secara monoton seiring tingkat. Pengetahuan AI yang dinilai sendiri dan keakraban dengannya tidak menambahkan apa pun yang terdeteksi, sehingga sumbu tingkat, bukan pengetahuan awal, yang mengorganisasi kekhawatiran etis.
 
 ## Dari prinsip ke tata kelola institusional
 
@@ -101,6 +106,8 @@ Argumen praktis itu diperkuat oleh kerja empiris tentang bagaimana etika berfung
 
 Kesadaran etis, penalaran reflektif, dan praktik bertanggung jawab yang [[self-report-measures|dilaporkan sendiri]] berkembang sebagian besar secara independen. Di tiga gelombang tahunan atas 350 mahasiswa [[higher-ed|sarjana]] komputasi Nigeria, [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale dkk. (2026)]] menemukan ketiganya naik secara substansial, namun faktor pertumbuhannya nyaris tidak berkorelasi dan kesadaran awal tidak memprediksi pertumbuhan berikutnya.
 
+**Keyakinan pada prosedur etis dapat naik sementara pengetahuan diri tetap di tempatnya.** [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones, dan Hoover (2026)]] memasukkan GenAI ke dalam mata kuliah pilihan etika kepemimpinan sarjana, menyusun [[case-based-learning|kasus]] yang sama sekali tanpa bantuan dan sekali dengan ChatGPT, serta menganalisis 38 survei keyakinan berpasangan dari sekitar 80 mahasiswa. Pada skala 0–10, kemampuan mengenali dilema etis yang dinilai sendiri bergerak dari 7,24 menjadi 8,39 dan kemampuan membuat keputusan yang tepat serta dapat dibenarkan dari 7,24 menjadi 8,45, keduanya pada p < .001, dan penggunaan teori etis untuk menjelaskan suatu keputusan naik dari 5,39 menjadi 7,08. Dua butir introspektif — mengidentifikasi kebajikan, nilai, dan hak dirinya sendiri (p = 0,063) dan menjelaskan bagaimana nilai pribadi memengaruhi keputusan (p = 0,124) — tidak bergerak, yang menempatkan perolehan itu pada keterampilan prosedural alih-alih pengetahuan diri moral.
+
 ## Keterkaitan
 
 Etika terhubung ke [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]], [[regulation]], [[pedagogical-safety]], [[academic-integrity]], dan [[governance]]. Ini adalah fondasi normatif bagi semua konsep pendidikan AI lainnya — kerangka di mana pertanyaan tentang keadilan, transparansi, otonomi, dan keselamatan diajukan dan diselesaikan.
@@ -110,3 +117,9 @@ Etika terhubung ke [[equity-in-ai-education]], [[privacy]], [[bias-mitigation]],
 - **"Kerangka kecurangan adalah cara yang memadai untuk memikirkan etika GenAI."** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette dkk., 2026]] berargumen institusi sebaiknya memutuskan pertanyaan AI generatif melalui **etika kemitraan alih-alih kerangka kecurangan**. Kerangka menentukan pertanyaan apa yang diajukan, dan kerangka pelanggaran tidak dapat menanyakan tentang tujuan pendidikan.
 - **"Fakultas dan mahasiswa sepakat tentang apa yang etis."** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç dan Sever (2026)]], studi [[mixed-methods-research|metode campuran]] atas **971 mahasiswa dan 135 fakultas**, menemukan dimensi etis menyimpang antar kelompok. Kebijakan yang ditulis dari satu perspektif akan salah menggambarkan yang lain.
 - **"Konsensus etis mendahului penggunaan."** **Penggunaan naik lebih cepat daripada konsensus etis**: selama empat semester di program pendidikan guru Amerika Serikat, penggunaan GenAI oleh mahasiswa **naik dari 57% menjadi 83% untuk persiapan penilaian**. Norma sedang dibentuk oleh praktik, bukan sebaliknya.
+
+## Apakah pengajaran etika berfungsi sama sekali
+
+Pengajaran etika AI sering dibenarkan oleh asumsi yang tidak pernah diuji: bahwa [[ethics|pendidikan etika]] mengubah sesuatu. Sebuah tinjauan sistematis dan meta-analisis tahun 2024 atas 66 studi dan 9.978 siswa adalah uji terbaik yang tersedia atas asumsi itu dalam pendidikan secara umum. Intervensi etika menaikkan hasil etis dan moral sebesar g = 0,55 dibanding kondisi kontrol, dan 73% dari efek sejati melampaui ambang membantu yang diprategister — tetapi **format penyampaianlah yang membawa moderasi itu**: format berbasis diskusi dan diskusi-plus-didaktik berhasil (g = 0,56 dan g = 0,68), sementara instruksi ceramah saja tidak berbeda dari nol (g = 0,10). Penyampaian daring tidak dapat dibedakan dari tatap muka.([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod dkk., 2024]])
+
+Pemindahan temuan itu ke etika AI adalah inferensi, bukan temuan dari studi tersebut, tetapi inferensi yang kuat: modul etika AI yang disampaikan sebagai ceramah tentang bias dan integritas adalah, berdasarkan bukti ini, format terlemah yang tersedia.

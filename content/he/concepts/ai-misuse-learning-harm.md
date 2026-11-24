@@ -1,7 +1,7 @@
 ---
 title: שימוש לרעה בבינה מלאכותית ונזק ללמידה
 created: "2026-10-12T19:20:00-04:00"
-updated: "2026-11-23T13:45:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]

@@ -1,24 +1,28 @@
 ---
 title: ニューロダイバーシティ
 created: "2026-10-10T22:45:44-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T09:01:46-05:00"
 translation_of: concepts/neurodiversity
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
     agent: hermes-agent
 connected_concepts: [special-education, inclusive-learning, universal-design-for-learning, equity-in-ai-education, differential-effects-across-learner-groups, student-experience, personalized-learning, learning-analytics, generative-ai, cognitive-offloading, student-modeling, executive-function]
-connected_articles: [gibson-neuro-inclusive-edtech-scoping-2026, assistive-tech-neurodivergent-higher-ed-review-2026, zhang-ai-students-disabilities-meta-analysis-2024, adhd-video-segmentation-computing-education, neurodivergent-computing-students, genai-reliance-executive-functioning-2026, seung-basham-cognitive-offloading-swld-2026, dabaghi-ai-dyslexia-education-review-2026, genai-minoritized-knowledges-disability, tactile-statistical-graphs-accessibility, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, deep-adhd-ai-cognitive-emotional-ethical-2026]
+connected_articles: [adhd-video-segmentation-computing-education, ai-learning-tools-engineering-education-needs, angelier-ai-detection-pitfalls-inclusive-assessment-2026, assistive-tech-neurodivergent-higher-ed-review-2026, dabaghi-ai-dyslexia-education-review-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, genai-minoritized-knowledges-disability, genai-reliance-executive-functioning-2026, gibson-neuro-inclusive-edtech-scoping-2026, neurodivergent-computing-students, seung-basham-cognitive-offloading-swld-2026, tactile-statistical-graphs-accessibility, tanji-genai-japanese-students-neurodevelopmental-2026, zhang-ai-students-disabilities-meta-analysis-2024]
 ---
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
@@ -80,6 +84,8 @@ AI時代において、この捉え方はスローガンではなく設計上の
 - **標本は小さいです。** 情報系の研究では24人の学生と四件のインタビュー。ADHDの動画研究では17人と10人。ディスレクシアのレビューでは72件の研究で、潮流は依然として結合していません。
 - **カテゴリの境界は研究ごとに異なる**ため、「同じ」ニューロタイプの研究間比較は限られています — そして、メタ分析におけるカテゴリ間の差異は非有意と報告されています。
 - **この分野自身のレビュアーがそれを技術駆動的であると記述している**ため、介入の証拠は、設計上の指針が最も強いところと正確に薄くなっています。
+
+- **生成的AIの利用について、比較研究が存在する。** [[tanji-genai-japanese-students-neurodevelopmental-2026|Tanji et al.（2026）]]は、神経発達症のあるなしを問わず477人の日本の大学生・大学院生を調査し、週次の利用、自己評価のスキル、知覚された利益、支援の必要性のいずれにおいても両群間に有意な差がないことを見出しました。音声と画像の相互作用のみがDD群でやや高かったため、上記の単一集団のギャップに対し、今や直接的な比較研究が一つ存在します。
 
 ## つながり
 

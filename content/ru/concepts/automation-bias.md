@@ -1,7 +1,7 @@
 ---
 title: Перекос автоматизации
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-04T19:42:56-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -15,8 +15,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 translation_of: concepts/automation-bias
-source_updated: "2026-11-04T18:49:36-05:00"
+source_updated: "2026-11-19T09:45:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 connected_concepts: [trust-calibration, bias-mitigation, cognitive-offloading, human-in-the-loop-ai, explainable-ai, learning-analytics, recommender-systems-and-learning-paths, automated-assessment, scaffolding, self-efficacy, ai-detection, remote-proctoring, ai-literacy]
 connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026, human-in-the-loop-ai-scoring-national-assessment-2026, in-the-loop-educational-ai-learning-sciences-2026, factria-responsible-institutional-analytics-2026, ludia-udl-ai-thought-partner-2026, extended-minds-coupling-flexibility-2026, ground-truth-reliability-aied, polished-artifacts-fragile-engagement-2026, page-cognitive-partnership-cycle-human-ai-2026, eight-mode-ai-engagement-typology-2026, assessing-student-drive-framework-2025, sun-llm-nursing-education-professional-identity-2026, geoscience-field-learning-genai-2026, ahmadfard-interactive-oer-review-2026, alshahrani-health-sciences-ai-use-2026, ai-literacy-legal-translation-2026, morales-cevallos-ai-forensic-science-education-2026, rana-genai-design-thinking-2025, kim-overtrust-ai-literacy-2026, haiml-human-centered-ai-metacognitive-model-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, academic-erasure-complexity-ai-writing-2026, llm-fallacy-misattribution]
@@ -72,6 +76,8 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-di
 
 Самый резкий разрыв — в точке суждения. [[human-in-the-loop-ai-scoring-national-assessment-2026|Исследование оценивания в национальном экзамене (2026)]] заставляет оценщиков просматривать машинные баллы, и его авторы прямо называют непроверенный механизм: неизмеренным остаётся, якорятся ли оценщики, которым показали баллы ИИ перед суждением, на этих баллах или уступают им, и они предлагают в качестве следующего шага эксперименты со слепыми и неслепыми оценщиками. Утверждение о человеке в цикле в этом дизайне, таким образом, является допущением, а не находкой — и это ещё хорошая версия дизайна.
 
+Эксперимент по надзору за безопасностью теперь даёт измерение в смежных условиях. На выборке из 416 оценщиков и 3 957 заданий предъявление кандидатов модели до человеческого ответа снизило точность оценщиков на заданиях, которые модель решила неверно, с 36,7 % до 20,6 %, тогда как на заданиях, решённых моделью верно, точность выросла на 7,3 пункта ([[shi-human-ai-complementarity-safety-2026|Shi et al., 2026]]). Оценщики стали точнее в целом и менее способны ловить ошибки, для выявления которых они и были нужны, — то есть перекос действует так, как подозревали авторы национального экзамена: машинный ответ задаёт рамку, а человек подстраивается внутри неё.
+
 ### Дашборды аналитики и утверждение о человеке в цикле
 
 [[in-the-loop-educational-ai-learning-sciences-2026|Обзор образовательного ИИ «в цикле» с точки зрения наук об обучении (2026)]] придаёт этому паттерну общую форму: дашборды выводят участие из кликов, автоматическая [[writing-education|обратная связь по письму]] отдаёт предпочтение поверхностным признакам перед аргументом, а светофоры раннего оповещения предынтерпретируют траектории. Перекос автоматизации усиливает каждое из этого, и обзор трактует [[trust|доверие]] как социотехнический результат, формируемый прозрачностью, воспринимаемой компетентностью и содержательным правом отменить решение, а не как устойчивую установку.
@@ -93,6 +99,8 @@ connected_articles: [shi-human-ai-complementarity-safety-2026, hoppe-teachers-di
 ### Когда перекос назван риском, а не измерен
 
 Значительная доля корпуса перечисляет перекос автоматизации в модели угроз, не проверяя его, и это различение важно для того, какой вес концепция может нести. [[ahmadfard-interactive-oer-review-2026|Обзор интерактивных открытых образовательных ресурсов (2026)]] включает его в число повторяющихся рисков, подрывающих агентность учащегося и преподавателя, — перечисленных, а не измеренных. [[alshahrani-health-sciences-ai-use-2026|Опрос в науках о здоровье (2026)]] читает [[ethics|этические]] заботы 310 студентов как довод за [[professional-training|профессиональную подготовку]], явно охватывающую перекос автоматизации. [[ai-literacy-legal-translation-2026|Исследование юридического перевода (2026)]] просит преподавать постредактирование и верификацию как оцениваемые навыки, называя давления перекоса автоматизации и иллюзии качества, из-за которых ошибки перевода легко пропустить. [[morales-cevallos-ai-forensic-science-education-2026|Обзор в судебных науках (2026)]] находит перекос автоматизации зафиксированным в включённых исследованиях и предлагает кейс-упражнения, построенные на описанных сбоях. [[rana-genai-design-thinking-2025|Исследование дизайн-мышления (2025)]] превращает его в проектное требование: [[scaffolding|скаффолдинги]], удерживающие человеческое суждение в центре и противодействующие и разгрузке, и перекосу автоматизации.
+
+Другой перекос сидит в результате, а не в пользователе. В Эсмеральдасе, Эквадор, 90 образовательных и общественных деятелей описали, как инструменты обработки изображений изменяют тон кожи, текстуру волос и черты лица афроэквадорских участников, причём один из них назвал это «формой расизма, пусть даже цифровой» — репрезентационный вред, который не регистрирует ни одна метрика точности ([[medranda-morales-ethnoeducation-ai-literacy-ecuador-2026|Medranda Morales & García Iturralde, 2026]]).
 
 ## Где доказательства тонки, смешаны или обращены
 

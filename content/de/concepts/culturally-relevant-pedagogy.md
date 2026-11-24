@@ -1,7 +1,7 @@
 ---
 title: Kulturell relevante Pädagogik
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-19T03:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
 connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
@@ -45,8 +49,9 @@ connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cul
 
 KI kann Lehrkräfte dabei unterstützen, Unterricht kulturell responsiv zu gestalten, doch ihre Standardergebnisse bergen das Risiko, **dominante Narrative zu verstärken**, wenn sie nicht ausdrücklich anders angeleitet werden.
 
-- **Unterstützung für Lehrkräfte:** Wang et al. (2025) entwickelten **CulturAIEd**, ein [[llm|LLM]]-gestütztes System, das [[k-12|K-12]]-Lehrkräfte hilft, kulturell responsive [[ai-literacy]]-Aktivitäten zu entwerfen, indem es demografische Informationen der Studierenden mit rastergestützter Anleitung verbindet (eine CRT-Checkliste, die in die Generierung eingeschichtet ist). In einem Pilotversuch mit vier Lehrkräften **stärkte es das Vertrauen der Lehrkräfte** darin, Gelegenheiten zu kultureller Responsivität zu erkennen und bestehende Aktivitäten zu verändern, wobei 78% die KI-Vorschläge für hilfreich zur Diversifizierung von Materialien hielten. Das Werkzeug zielt direkt auf die Zeit-, Weiterbildungs- und Ressourcenbarrieren ab, die der Umsetzung von CRP entgegenstehen.
+- **Unterstützung für Lehrkräfte:** Wang et al. (2025) entwickelten **CulturAIEd**, ein [[llm|LLM]]-gestütztes System, das [[k-12|K-12]]-Lehrkräfte hilft, kulturell responsive [[ai-literacy]]-Aktivitäten zu entwerfen, indem es demografische Informationen der Studierenden mit [[rubrics|rastergestützter]] Anleitung verbindet (eine CRT-Checkliste, die in die Generierung eingeschichtet ist). In einem Pilotversuch mit vier Lehrkräften **stärkte es das Vertrauen der Lehrkräfte** darin, Gelegenheiten zu kultureller Responsivität zu erkennen und bestehende Aktivitäten zu verändern, wobei 78% die KI-Vorschläge für hilfreich zur Diversifizierung von Materialien hielten. Das Werkzeug zielt direkt auf die Zeit-, Weiterbildungs- und Ressourcenbarrieren ab, die der Umsetzung von CRP entgegenstehen.
 - **Risiko monokultureller Ergebnisse:** [[civic-education-ai-lesson-plans|Trust et al. (2025)]] analysierten 310 KI-generierte Unterrichtspläne für politische Bildung (2.230 Aktivitäten): **94% enthielten keinen erkennbaren multikulturellen Inhalt**, und von den 144, die es taten, lagen 137 auf der niedrigsten „Additive“-Stufe — **nur eines erreichte „Transformation“ und keines „Social Action“.** Alle drei [[conversational-ai|Chatbots]] erzeugten strukturell identische, monokulturelle Unterrichtsvorlagen. Das ist konkreter Beleg dafür, dass KI standardmäßig zu homogenisierten Curricula tendiert, sofern [[teacher-ai-competency|Lehrkräfte]] nicht aktiv eingreifen.
+- **Ein gestufter Anpassungsprozess, kein einzelner Prompt.** Der CulturAIEd-Pilotversuch führte die Lehrkräfte durch eigenständige Anpassung, dann checklistenleitete Überarbeitung und schließlich werkzeuggestützte Verfeinerung; die Autoren warnen, dass Modelle mit breiter Datenbasis kulturelle Klischees reproduzieren können, sodass das Ergebnis stets als Entwurf zu überarbeiten ist, anhand der Kenntnis über die eigenen Studierenden ([[llm-cultural-relevance-k12|Wang et al., 2025]]).
 
 ## Epistemische Marginalisierung in KI-Systemen
 

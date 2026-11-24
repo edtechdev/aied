@@ -13,6 +13,10 @@ source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-12"
@@ -21,7 +25,7 @@ ai_assist:
     role: translation
     date: "2026-10-30"
     agent: hermes-agent
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_concepts: [self-directed-learning, remote-proctoring, cognitive-offloading, academic-integrity, assessment, self-regulated-learning, motivation, metacognition, scaffolding, generative-ai, student-experience, cognitive-surrender]
 connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, rho-disengaged-conversational-behaviors-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, genai-performance-vs-learning, ai-availability-student-motivation, genai-skill-bypass-literacy, cognitive-shift-ai-education, misiejuk-cognitive-offloading-prompting-2026, cognitive-commons-ai-expertise-regeneration, lodge-loble-cognitive-offloading-2026, ai-overreliance-complex-adaptive-system-2026, academic-erasure-complexity-ai-writing-2026, ai-dependency-self-efficacy-teacher-support-burnout-2026, uneven-impact-generative-ai-student-learning-2026, this-is-how-we-ai-teaching-guide-2026]
 ---

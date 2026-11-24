@@ -1,7 +1,7 @@
 ---
 title: सांस्कृतिक रूप से प्रासंगिक शिक्षाशास्त्र
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-20T04:25:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,13 +10,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [equity-in-ai-education, curriculum-design, ai-literacy, k-12, teacher-ai-competency, teacher-role, bias-mitigation, critical-pedagogy, human-in-the-loop-ai, student-experience, higher-ed, language-learning, cs-education, pedagogy]
 connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cultural-relevance-k12, civic-education-ai-lesson-plans, ojeda-ramirez-community-based-ai-learning, genai-minoritized-knowledges-disability, nsmq-riddles-science-math-benchmark, cross-cultural-student-perceptions-genai-computing, international-students-conversational-ai-adaptation, connected-ai-lesson-planning-vietnam, culturally-aware-student-stress-chatbot-2026]
@@ -41,7 +45,8 @@ connected_articles: [zhai-science-literacy-generative-ai-coherence-2026, llm-cul
 
 एआई शिक्षकों को शिक्षण को सांस्कृतिक रूप से अनुक्रामील बनाने में सहायता कर सकता है, लेकिन बिना संकेत के छोड़े जाने पर उसके डिफ़ॉल्ट उत्पादन **प्रमुख कथाओं को सुदृढ़ करने** का भी जोखिम रखते हैं।
 
-- **शिक्षकों के लिए सहायता:** वांग एट अल. (2025) ने **कल्चरएआईएड** बनाया, एक [[llm|एलएलएम]]-संचालित प्रणाली जो [[k-12|के-12]] शिक्षकों को छात्र-जनसांख्यिकीय जानकारी को रूब्रिक-आधारित मार्गदर्शन (जनरेशन में जोड़ी गई सीआरटी जाँच-सूची) के साथ जोड़कर सांस्कृतिक रूप से अनुक्रामील [[ai-literacy]] गतिविधियाँ डिज़ाइन करने में मदद करती है। चार-शिक्षक पायलट में इसने सांस्कृतिक अनुक्रियता के अवसरों को पहचानने और मौजूदा गतिविधियों को संशोधित करने में **शिक्षकों के आत्मविश्वास को बढ़ाया**, जबकि 78% ने सामग्री को विविध बनाने में एआई सुझावों को सहायक पाया। यह उपकरण सीधे उस समय, प्रशिक्षण और संसाधन बाधाओं पर ध्यान केंद्रित करता है जो सीआरपी के क्रियान्वयन को रोकती हैं।
+- **शिक्षकों के लिए सहायता:** वांग एट अल. (2025) ने **कल्चरएआईएड** बनाया, एक [[llm|एलएलएम]]-संचालित प्रणाली जो [[k-12|के-12]] शिक्षकों को छात्र-जनसांख्यिकीय जानकारी को [[rubrics|रुब्रिक]]-आधारित मार्गदर्शन (जनरेशन में जोड़ी गई सीआरटी जाँच-सूची) के साथ जोड़कर सांस्कृतिक रूप से अनुक्रामील [[ai-literacy]] गतिविधियाँ डिज़ाइन करने में मदद करती है। चार-शिक्षक पायलट में इसने सांस्कृतिक अनुक्रियता के अवसरों को पहचानने और मौजूदा गतिविधियों को संशोधित करने में **शिक्षकों के आत्मविश्वास को बढ़ाया**, जबकि 78% ने सामग्री को विविध बनाने में एआई सुझावों को सहायक पाया। यह उपकरण सीधे उस समय, प्रशिक्षण और संसाधन बाधाओं पर ध्यान केंद्रित करता है जो सीआरपी के क्रियान्वयन को रोकती हैं।
+- **एक चरण-दर-चरण अनुकूलन प्रक्रिया, एक ही प्रॉम्प्ट नहीं।** कल्चरएआईएड के पायलट ने शिक्षकों को स्वतंत्र अनुकूलन, जाँच-सूची-संचालित संशोधन, फिर उपकरण-सहायित परिष्करण से आगे बढ़ाया, और लेखक चेतावनी देते हैं कि व्यापक-डेटा वाले मॉडल सांस्कृतिक दृष्टियों को दोहरा सकते हैं, इसलिए आउटपुट अपने छात्रों के ज्ञान के साथ संशोधन करने के लिए एक मसौदा ही रहता है ([[llm-cultural-relevance-k12|Wang et al., 2025]])।
 - **एकसांस्कृतिक उत्पादन का जोखिम:** [[civic-education-ai-lesson-plans|ट्रस्ट एट अल. (2025)]] ने 310 एआई-जनित नागरिक शिक्षा पाठ्यक्रम योजनाओं (2,230 गतिविधियाँ) का विश्लेषण किया: इनके **94% में कोई पहचानने योग्य बहुसांस्कृतिक सामग्री नहीं थी**, और जिन 144 में थी, उनमें से 137 सबसे निचले "जोड़ने वाले" स्तर पर थीं — **केवल एक ही "परिवर्तन" स्तर तक पहुँची और कोई भी "सामाजिक कार्रवाई" तक नहीं पहुँची।** तीनों [[conversational-ai|चैटबॉटों]] ने संरचनात्मक रूप से समान, एकसांस्कृतिक पाठ्यक्रम टेम्पलेट तैयार किए। यह ठोस प्रमाण है कि एआई डिफ़ॉल्ट रूप से समरूपी पाठ्यक्रम तैयार करता है जब तक [[teacher-ai-competency|शिक्षक]] सक्रिय रूप से हस्तक्षेप न करें।
 
 ## एआई प्रणालियों में ज्ञान-सिद्धांतगत हाशिया पर रखना

@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-23T14:15:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,29 +12,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T01:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
-    date: "2026-11-07"
-    agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
     date: "2026-10-29"
-    agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash
-    role: translation
-    date: "2026-09-25"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
-    agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash
-    role: translation
-    date: "2026-09-28"
     agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: translation
@@ -98,6 +86,9 @@ Exigir el uso de la IA puede ser en sí mismo el daño de equidad, sin que haya 
 - **Las plantillas de buen desempeño se convierten en capital cultural.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner y Brezovec (2026)]] muestran que la IA generativa reformatea las consignas, las [[rubrics|rúbricas]] y los géneros en formas comunicativamente verosímiles, lo que puede facilitar el procesamiento de una contribución al tiempo que orienta a quienes aprenden hacia las plantillas mayoritarias, de modo que la inclusión queda condicionada a la asimilación a los géneros reconocibles.
 
 ## Equidad de resultados
+
+- **La base de evidencia cubre a quienes ya están siendo atendidos.** Una revisión sistemática de 170 artículos sobre IA agéntica en educación (Scopus, 2022–2026) encontró una cobertura que invierte la matrícula: los contextos de grado dominan con 37 artículos (**21,8%**) frente a 15 de educación primaria y secundaria (K-12) (**8,8%**), mientras que 102 (**60,0%**) no nombran ningún nivel educativo ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]]). Las poblaciones que enfrentan los mayores desafíos de aprendizaje aparecen menos: estudiantes con discapacidad en 15 artículos (**8,8%**), estudiantes de inglés en 3 (**1,8%**) y estudiantes en situación de riesgo en 1 (**0,6%**), mientras que los docentes aparecen en 68 (**40,0%**). Abordar la [[equity-in-ai-education|equidad]] o la inclusión como justificación explícita solo aparece en 16 artículos (**9,4%**).
+- **La brecha se refuerza a sí misma.** La misma revisión describe un ciclo: los investigadores estudian poblaciones accesibles en entornos familiares, de modo que la evidencia resultante solo se aplica allí; los profesionales en otros lugares no pueden actuar con confianza a partir de ella; los financiadores siguen la efectividad demostrada, y los contextos poco examinados quedan sin financiación.
 
 En una revisión de alcance de 394 estudios sobre IA generativa en la educación superior, la equidad y el acceso estuvieron entre los resultados menos abordados, junto con la [[metacognition|metacognición]], la ética y la [[creativity|creatividad]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 

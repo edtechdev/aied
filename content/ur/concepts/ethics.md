@@ -7,18 +7,22 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/ethics"
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-21T08:52:26-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
 connected_concepts: [business-education, equity-in-ai-education, privacy, bias-mitigation, regulation, pedagogical-safety, academic-integrity, ai-use-disclosure, governance, ai-literacy, cognitive-offloading, teacher-role, teacher-education, chemistry-education, biology-education, civic-and-political-education]
-connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu-ai-competence-ethical-awareness-anxiety-2026, learning-analytics-to-educational-interventions-2026, kirsanov-beyond-detection-ai-online-assessments-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, vetter-hidden-cost-disclosure-genai-2026, gonsalves-student-non-compliance-ai-declarations-2025, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, ethical-use-ai-engineering-education-review-2026, ai-ethics-education-public-discourse, ethical-ai-higher-ed-game-theory, cost-of-ethics-crisis-cs-ethics-education, xai-education-framework, daoism-ai-education-philosophy-2026, hazra-safetutors-pedagogical-safety-2026, raffaghelli-situated-ai-ethics-2026, ethically-mediated-ai-tpack-china-2026, ai-ethics-bibliometric-2026, adarkwah-genai-unesco-policy-2026, luo-eaton-ai-student-feedback-ethics-2026, fekete-ethical-ai-literacy-gaps-2026, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ethical-conditions-llm-exam-preparation-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, agarwal-ethical-values-norms-aied-2026, genai-higher-ed-agency-responsibility-discourse-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, qi-information-ethics-ai-judgment-2026, pal-ethically-aware-learning-ai-classroom-2026, ethics-education-meta-analysis-moral-outcomes-2026]
+connected_articles: [adarkwah-genai-unesco-policy-2026, agarwal-ethical-values-norms-aied-2026, ai-ethics-bibliometric-2026, ai-ethics-education-public-discourse, alharbi-ethical-genai-eap-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, ayanwale-ethical-engagement-ai-growth-modeling-2026, bilgic-sever-ethical-dimensions-ai-higher-ed-2026, chang-should-i-tell-my-teacher-ai-disclosure-2026, cost-of-ethics-crisis-cs-ethics-education, daoism-ai-education-philosophy-2026, ethical-ai-higher-ed-game-theory, ethical-conditions-llm-exam-preparation-2026, ethical-use-ai-engineering-education-review-2026, ethically-mediated-ai-tpack-china-2026, ethics-education-meta-analysis-moral-outcomes-2026, fekete-ethical-ai-literacy-gaps-2026, genai-higher-ed-agency-responsibility-discourse-2026, gillette-partnership-ethics-genai-higher-education-2026, gonsalves-student-non-compliance-ai-declarations-2025, hazra-safetutors-pedagogical-safety-2026, kirsanov-beyond-detection-ai-online-assessments-2026, learning-analytics-to-educational-interventions-2026, licardo-students-ethical-challenges-genai-2026, longitudinal-ai-usage-ethics-policy-teacher-education-2026, luo-eaton-ai-student-feedback-ethics-2026, mu-ai-competence-ethical-awareness-anxiety-2026, pal-ethically-aware-learning-ai-classroom-2026, qi-information-ethics-ai-judgment-2026, raffaghelli-situated-ai-ethics-2026, vetter-hidden-cost-disclosure-genai-2026, xai-education-framework]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -61,6 +65,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 **اخلاقیات میدان میں مرکزی ہیں مگر شاذ و نادر ہی کوئی نتیجہ۔** 394 GenAI اعلیٰ تعلیمی مطالعات میں اخلاقیات اور علمی سالمیت اُن نتائج میں تھیں جنہیں سب سے کم ہدف بنایا گیا، اور گورننس کے طریقوں کی رپورٹنگ کم رہی ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]])۔
 
 - **معیاری فریم ایک دوسرے کے متبادل نہیں۔** 151 ہسپانوی انڈرگریجویٹس میں اخلاقی مساوات امتحان کی تیاری میں LLMs استعمال کرنے کے ارادے کی لازم شرط تھی (d = 0.338) مگر کافی پیشگوئی نہیں، جبکہ نتیجہ خیز (β = 0.350) اور فرض شناس (β = 0.329) فیصلے تھے — طلبہ کئی معیاری فریم بیک وقت لاگو کرتے ہیں ([[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella et al. (2026)]])۔
+- **اخلاقی اہمیت تعلیمی سطح کے ساتھ بڑھتی ہے۔** [[licardo-students-ethical-challenges-genai-2026|Licardo اور Šindić (2026)]] نے ابتدائی، ثانوی اور اعلیٰ تعلیم کے 1,299 سلووینی طلبہ کا سروے کیا اور پایا کہ GenAI کی اخلاقی چیلنجز کی سمجھی جانے والی اہمیت سطح کے ساتھ مسلسل بڑھتی گئی۔ خود سے درجہ بندی شدہ AI علم اور واقفیت نے کچھ قابلِ تشخیص اضافہ نہیں کیا، اس لیے پہلوؤں کی محور نے، پہلے علم نہیں، اخلاقی فکر کو منظم کیا۔
+
 - **ایک مشترک کثیر جہتی ساخت۔** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç & Sever]] کے چھ موضوعات — جو ڈیٹا اخلاقیات، الگورتھم اخلاقیات اور تدریسی اخلاقیات پر پھیلے ہیں — بنیادی اصولوں (شفافیت، جواب دہی، انصاف، خودمختاری) سے رویّاتی نتائج تک ایک جڑی ہوئی سببی زنجیر بناتے ہیں، اور اِس بات پر زور دیتے ہیں کہ ذمہ دار AI استعمال انفرادی آگاہی جتنا ہی واضح اداراتی روڈ میپس پر بھی منحصر ہے۔
 
 ## اصولوں سے اداراتی گورننس تک
@@ -101,6 +107,8 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 
 اخلاقی آگاہی، عکاسی والا استدلال، اور [[self-report-measures|خود رپورٹ شدہ]] ذمہ دارانہ مشق بڑی حد تک الگ الگ ترقی کرتے ہیں۔ نائجیریا کے 350 کمپیوٹنگ [[higher-ed|انڈرگریجویٹس]] کی تین سالانہ لہروں میں [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] نے پایا کہ تینوں کافی بڑھے، پھر بھی اُن کے ترقی کے عوامل تقریباً غیر مربوط تھے اور ابتدائی آگاہی نے بعد کی ترقی کی پیشگوئی نہیں کی۔
 
+اخلاقی طریقہ کار پر اعتماد بڑھ سکتا ہے جبکہ خود شناخت وہیں رہ سکتی ہے۔ [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones اور Hoover (2026)]] نے GenAI کو ایک انڈرگریجویٹ لیڈرشپ اخلاقیات کے اختیاری مضمون میں شامل کیا، ایک ہی [[case-based-learning|کیس]] کو ایک بار بغیر مدد اور ایک بار ChatGPT کے ساتھ پیش کیا، اور تقریباً 80 طلبہ کے 38 موازنہ شدہ اعتماد سروے کا تجزیہ کیا۔ 0–10 پیمانے پر، خود سے درجہ بندی شدہ صلاحیت کہ اخلاقی دوراہہ پہچانیں 7.24 سے 8.39 ہوئی اور درست اور جواز پذیر فیصلہ لیں 7.24 سے 8.45 ہوئی، دونوں p < .001 پر، اور اخلاقی نظریات کے ذریعے فیصلے کی تشریح 5.39 سے 7.08 ہوئی۔ دو اندرونی سوالات — اپنی فضیلت، قدروں اور حقوق کی نشاندہی (p = .063) اور یہ کہ ذاتی اقدار فیصلے پر کیسے اثر ڈالتے ہیں (p = .124) — نہیں ہلے، جو یہ اضافہ اخلاقی خود شناخت نہیں بلکہ طریقہ کار کی مہارت میں رکھتا ہے۔
+
 ## تعلق
 
 اخلاقیات [[equity-in-ai-education]]، [[privacy]]، [[bias-mitigation]]، [[regulation]]، [[pedagogical-safety]]، [[academic-integrity]] اور [[governance]] سے جڑتی ہیں۔ یہ دیگر تمام AI تعلیمی تصورات کی معیاری بنیاد ہے — وہ فریم جس کے اندر انصاف، شفافیت، خودمختاری اور حفاظت کے سوال اٹھائے اور حل کیے جاتے ہیں۔
@@ -110,3 +118,9 @@ connected_articles: [gillette-partnership-ethics-genai-higher-education-2026, mu
 - **"نقل کا فریم GenAI اخلاقیات کے بارے میں سوچنے کا کافی طریقہ ہے۔"** [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al., 2026]] دلیل دیتے ہیں کہ اداروں کو جنریٹو AI کے سوالات **نقل کے فریم کے بجائے شراکت داری کی اخلاقیات** سے طے کرنے چاہئیں۔ فریم طے کرتا ہے کہ کون سے سوال پوچھے جائیں گے، اور بدانتظامی کا فریم تعلیمی مقصد کے بارے میں نہیں پوچھ سکتا۔
 - **"اساتذہ اور طلبہ اِس پر متفق ہیں کہ کیا اخلاقی ہے۔"** [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgiç and Sever (2026)]]، **971 طلبہ اور 135 اساتذہ** کا [[mixed-methods-research|مخلوط طریقہ]] مطالعہ، پاتے ہیں کہ اخلاقی جہتیں گروہوں کے درمیان ہٹ جاتی ہیں۔ ایک نقطۂ نظر سے لکھی گئی پالیسی دوسرے کو غلط بیان کرے گی۔
 - **"اخلاقی اتفاقِ رائے استعمال سے پہلے آتا ہے۔"** **اپنانا اخلاقی اتفاق سے آگے نکلتا ہے**: امریکی استاد-تعلیم پروگرام میں چار سمسٹرز کے دوران طلبہ کا GenAI استعمال **جانچ کی تیاری کے لیے 57% سے 83% تک چڑھ گیا**۔ معیارات مشق سے بن رہے ہیں، نہ کہ اُلٹا۔
+
+## کیا اخلاقیات کی تدریس ایک بالکل کام کرتی ہے
+
+AI اخلاقیات کی ہدایت اکثر ایسے مفروضے پر جائز لی جاتی ہے جس کا امتحان کوئی نہیں لیتا: یہ کہ [[ethics|اخلاقیات کی تعلیم]] کچھ بدلتی ہے۔ تعلیم میں عام طور پر اُس مفروضے کا بہترین دستیاب امتحان 66 مطالعات اور 9,978 طلبہ پر 2024 کا ایک منظم جائزہ اور میٹا تجزیہ ہے۔ اخلاقی مداخلتوں نے کنٹرول حالات کے مقابلے میں اخلاقی اور اخلاقی نتائج کو g = 0.55 تک بڑھایا، اور حقیقی اثرات کا 73% پہلے سے درج مفید حد سے تجاوز کیا — مگر **ترسیل کی شکل نے میڈیٹنگ کا کام کیا**: بحث پر مبنی اور بحث کے ساتھ تلقینی شکلیں کام کریں (g = 0.56 اور g = 0.68)، جبکہ صرف لیکچر کی ہدایت صفر سے مختلف نہ تھی (g = 0.10)۔ آن لائن ترسیل حضوری سے فرق نہیں تھی۔([[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2024]])
+
+اس مطالعے کا AI اخلاقیات میں منتقلی ایک نتیجہ نہیں بلکہ ایک تردد ہے، مگر مضبوط تردد: تعصب اور سالمیت کے بارے میں لیکچر کے طور پر پیش کیا جانے والا ایک AI اخلاقیات کا ماڈیول، اِس شواہد کے مطابق، دستیاب سب سے کمزور شکل ہے۔

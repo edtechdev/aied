@@ -1,7 +1,7 @@
 ---
 title: L'équité
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-23T14:30:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T01:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -67,7 +67,6 @@ La préparation compte davantage que la préférence, et le droit de refuser est
 
 **Le loyer se paie en trois monnaies, et la compétence possédée sort avec le diplômé.** [[rented-self-decoupling-performance-becoming-2026|de Barba (2026)]] soutient qu'une capacité résidant dans un outil commercial n'est disponible qu'aux conditions du fournisseur, si bien que les licences institutionnelles déplacent le propriétaire plutôt qu'elles ne le suppriment : l'accès prend généralement fin avec l'inscription, et la capacité louée ne persiste alors que pour les diplômés capables de continuer à payer. Elle ajoute deux autres distributions que les débats sur l'accès manquent habituellement — les coûts du soi se concentrent dans l'acclimatation, où les apprenants disposant de moins de connaissances disciplinaires préalables passent le plus de temps, et les normes louées portent les points de référence du modèle, dont on prédit qu'ils déplaceront davantage les normes des apprenants dont les points de référence culturels et linguistiques diffèrent de ceux du modèle. Le même outil élargit l'accès et déplace les normes à la fois, ce qui explique qu'elle traite le fait de nommer les capacétences qu'un cours doit construire lui-même comme une mesure d'équité autant qu'une mesure pédagogique.
 
-
 L'obligation d'utiliser l'IA peut être elle-même le préjudice d'équité, sans provision inégale derrière. [[mcdonald-inclusive-assessment-genai-2026|McDonald, Saunders, Kennedy et Tansell (2026)]] ont mené trois groupes de discussion avec 19 étudiants en sciences d'une université du Russell Group et ont trouvé le préjudice présent dans les deux sens. Exiger l'IA générative pénalisait les étudiants à qui on ne l'avait jamais apprise et qui manquaient de matériel, tandis que la refuser quand les pairs l'utilisaient donnait le sentiment d'accepter un désavantage ; les versions payantes contre gratuites étaient nommées comme un biais, et le travail de groupe comme le lieu où l'usage inégal devient une charge de travail inégale. Le choix entre formats n'était valorisé que lorsque les options étaient équivalentes, les étudiants craignant que la dissertation soit notée plus mal que la vidéo.
 
 ## L'équité de représentation
@@ -83,6 +82,9 @@ L'obligation d'utiliser l'IA peut être elle-même le préjudice d'équité, san
 - **Les modèles de bonne performance deviennent un capital culturel.** [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner et Brezovec (2026)]] montrent que l'IA générative reforme les invites, les [[rubrics|grilles d'évaluation]] et les genres en formes communicationnellement plausibles, ce qui peut rendre une contribution plus facile à traiter tout en orientant les apprenants vers des modèles dominants, si bien que l'inclusion devient conditionnelle à l'assimilation à des genres reconnaissables.
 
 ## L'équité des résultats
+
+- **La base de données probantes couvre déjà ceux qui sont servis.** Une revue systématique de 170 articles sur l'IA agentique en éducation (Scopus, 2022–2026) a constaté une couverture qui inverse la répartition des inscrits : les contextes universitaires dominent avec 37 articles (**21.8%**) contre 15 pour le primaire et le secondaire (K-12) (**8.8%**), tandis que 102 (**60.0%**) ne mentionnent aucun niveau d'enseignement ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman et al. (2026)]]). Les populations confrontées aux plus grands défis d'apprentissage apparaissent le moins : les étudiants en situation de handicap dans 15 articles (**8.8%**), les apprenants d'anglais dans 3 (**1.8%**) et les étudiants à risque dans 1 (**0.6%**), tandis que les enseignants apparaissent dans 68 (**40.0%**). Prendre en compte l'[[equity-in-ai-education|équité]] ou l'inclusion comme justification affirmée n'apparaît que dans 16 articles (**9.4%**).
+- **L'écart se renforce lui-même.** La même revue décrit un cycle : les chercheurs étudient des populations accessibles dans des contextes familiers, si bien que les données probantes obtenues ne s'appliquent qu'à ces milieux ; les praticiens d'ailleurs ne peuvent pas agir en s'y fiant avec assurance ; les bailleurs suivent l'efficacité démontrée, et les contextes peu étudiés restent sans financement.
 
 Dans une revue exploratoire de 394 études sur l'IAG dans l'enseignement supérieur, l'équité et l'accès figuraient parmi les résultats les moins ciblés, aux côtés de la [[metacognition|métacognition]], de l'éthique et de la [[creativity|créativité]] ([[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]).
 

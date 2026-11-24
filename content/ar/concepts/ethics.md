@@ -2,7 +2,7 @@
 title: الأخلاقيات
 created: "2026-10-12T18:20:00-04:00"
 source_updated: "2026-11-21T08:52:26-05:00"
-updated: "2026-11-22T16:05:00-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]

@@ -1,5 +1,6 @@
 ---
 title: Устойчивое развитие
+updated: "2026-11-24T02:05:00-05:00"
 created: "2026-10-13T21:05:00-04:00"
 type: concept
 foundations: [ai-education]
@@ -10,10 +11,14 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -22,8 +27,8 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
-connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source]
-connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026]
+connected_concepts: [ethics, governance, ai-education, higher-ed, k-12, teacher-education, teacher-role, learning-design, engineering-education, critical-thinking, cognitive-offloading, agency, open-source, critiques-of-ai-in-education]
+connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partnership-ethics-genai-higher-education-2026, daniel-ai-sustainability-scoping-review-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, llm-environmental-impact-student-usage-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, caruana-pre-university-ai-education-slr-2026, komodromos-generative-ai-pedagogical-sustainability-2026]
 ---
 *Автоматический перевод данной английской страницы, не проверенный носителем языка.*
 
@@ -68,7 +73,9 @@ connected_articles: [lim-ai-wearables-environmental-empathy-2024, gillette-partn
 
 ## Устойчивое обучение как педагогическая цель
 
-Смежное направление рассматривает устойчивость не только как экологическую или институциональную проблему, но и как свойство самого обучения. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] утверждают, что ИИ-поддерживаемое обучение рискует привести к когнитивному аутсорсингу и отрыву от аутентичных контекстов, и предлагают рамки (E3-HOT) для **устойчивого обучения** — обучения, которое сохраняется, переносится в новые ситуации и остаётся связанным с реальными проблемами, а не коротко замыкается [[cognitive-offloading]]. Это связывает устойчивость с [[agency]] и [[critical-thinking]].
+Смежное направление рассматривает устойчивость не только как экологическую или институциональную проблему, но и как свойство самого обучения. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] утверждают, что ИИ-поддерживаемое обучение рискует привести к когнитивному аутсорсингу и отрыву от аутентичных контекстов, и предлагают рамки (E3-HOT) для **устойчивого обучения** — обучения, которое сохраняется, переносится в новые ситуации и остаётся связанным с реальными проблемами, а не коротко замыкается [[cognitive-offloading|когнитивной разгрузкой]]. Это связывает устойчивость с [[agency|агентностью]] и [[critical-thinking|критическим мышлением]]. Более широкий аргумент о том, что это переосмысление обслуживает определённые интересы, собран в разделе [[critiques-of-ai-in-education|Критика ИИ в образовании]].
+
+- **Рамка отсечения.** [[komodromos-generative-ai-pedagogical-sustainability-2026|Komodromos (2026)]] определяет педагогическую устойчивость как долговечную учебную ценность, производимую в экономических, социальных, экологических и институциональных условиях, которые могут поддерживаться, а затем делает эту ценность некомпенсируемым порогом, а не одним из пяти столпов.
 
 ## Связи с другими концепциями
 

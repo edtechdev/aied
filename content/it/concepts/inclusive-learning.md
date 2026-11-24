@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Apprendimento inclusivo
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T14:01:53-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: "concepts/inclusive-learning"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, accessibility, assistive-technology, special-education, learning-design, universal-design-for-learning, neurodiversity, student-experience, ai-literacy, higher-ed, k-12, cs-education, assessment, academic-integrity, privacy, generative-ai, ai-education, educational-robotics, educational-nlp, sociocultural-learning, adaptive-learning, speech-and-voice-technologies]
 connected_articles: [prompt-privilege-equitable-ai-access-2026, adhd-video-segmentation-computing-education, llm-question-generation-deaf-hard-of-hearing-2026, text-simplification-its, kutti-ai-voice-first-learning-companion, tactile-statistical-graphs-accessibility, pepper-robot-sign-language-lis-2025, behaviorally-adaptive-visual-diversion-assessment-2026, dyslexlens-dyslexic-learners-ai, neurodivergent-computing-students, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, suacode-african-students-motivations, ludia-udl-ai-thought-partner-2026, special-r1-rl-special-education, gemini-lualatex-physics-video-transcription-2026, khlaif-assistive-genai-visually-impaired-2026, assistive-tech-neurodivergent-higher-ed-review-2026]
@@ -80,6 +84,8 @@ Anche i video ricchi di equazioni possono essere resi accessibili anziché trasc
 **Il gatekeeping della diagnosi formale esclude proprio chi uno strumento afferma di servire.** Nella revisione esplorativa (scoping review) di [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] su 40 studi di tecnologie assistive digitali per studenti neurodivergenti, 28 hanno reso la diagnosi formale una condizione di partecipazione e solo tre hanno trattato l'ambiente piuttosto che lo studente.
 
 **Strumenti accessibili nella pratica** mostra come l'IA possa espandere la partecipazione. **[[suacode-african-students-motivations|SuaCode]]** ha dimostrato che i corsi di programmazione basati su smartphone raggiungono studenti in contesti africani a basse risorse dove meno dell'1% ha competenze di programmazione. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** hanno lavorato con musicisti ciechi e ipovedenti per sviluppare strategie di apprendimento non visive, ponendo al centro il design [[embodied-learning|incorporato]] guidato dalla disabilità. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** fornisce un partner di pensiero con IA gratuito, privato e multilingue che collega gli educatori ai principi dell'UDL. **[[special-r1-rl-special-education|Special-R1]]** estende l'[[reinforcement-learning|apprendimento per rinforzo]] per modellare la diversità cognitiva e comunicativa attraverso i profili di disabilità.
+
+**La politica è in ritardo rispetto al dispiegamento.** Nessuna delle 100 università ai vertici delle classifiche aveva una politica di accessibilità sull'IA, anche se il 93% aveva dispiegato servizi campus basati sull'IA ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 
 ### Connessioni con i concetti correlati
 

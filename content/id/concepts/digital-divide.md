@@ -6,9 +6,9 @@ type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-24T02:05:00-05:00"
 translation_of: "concepts/digital-divide"
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-21T10:00:49-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -16,8 +16,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [amol-ai-egovernance-digital-inclusion-2026, watanabe-genai-education-gap-europe-2026, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, prompt-privilege-equitable-ai-access-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, oecd-digital-education-outlook-2026, aaai2026-prompting-literacy-k12, structural-silence-underrepresented-language-ai-2026, sec-ai-literacy-narrative-review-2026, bilingual-llm-lecture-companion-srl-2026, multilingual-adaptive-learning-nigeria-2026, ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, llmersion-local-first-language-learning-2026, caee-digital-twins-stem-education-systematic-review-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -38,7 +42,7 @@ Kesenjangan digital umumnya dipahami beroperasi dalam **tiga tingkat** (van Deur
 
 Pergeseran ke inferensi tepi (edge inference) menambahkan dimensi perangkat keras pada kesenjangan tingkat pertama. Ketika tutor berjalan di peramban alih-alih di cloud — [[browser-sized-agents-slm-webllm-tutor-2026|tutor SLM yang bersemayam di peramban]] melalui WebLLM — hambatan biaya langganan hilang tetapi hambatan kapabilitas menggantikannya: pada laptop konsumen sistem yang sama membutuhkan sekitar 180 detik per percobaan berbanding 10–58 detik untuk API jarak jauh, dan perangkat kelas Chromebook tidak dapat menjalankan model 8B sama sekali. Siswa dengan perangkat keras modern memperoleh generasi yang cepat dan mulus sementara siswa dengan perangkat lama menghadapi latensi atau kehabisan memori, sehingga lokal dan murah tidak sama dengan adil secara default.
 
-### Bagaimana kesenjangan digital muncul dalam penelitian
+## Bagaimana kesenjangan digital muncul dalam penelitian
 
 - **Literasi AI sebagai mekanisme keadilan:** [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|Kerangka SAIL]] dirancang secara eksplisit untuk menangani kesenjangan tingkat kedua dan ketiga, menyediakan jalur literasi AI yang adil, berperancah, dan tidak terikat usia di semua tahap pendidikan, berlandaskan argumen bahwa literasi AI tidak dapat dipisahkan dari keadilan dan partisipasi.
 
@@ -53,7 +57,9 @@ Pergeseran ke inferensi tepi (edge inference) menambahkan dimensi perangkat kera
 
 - **Layanan digital publik mereproduksi kesenjangan.** Platform e-government eCitizen Kenya terutama berbahasa Inggris dengan bahasa Swahili terbatas dan antarmuka hanya teks, sehingga mengecualikan kaum melek huruf rendah, penyandang gangguan penglihatan, dan pemuda pedesaan; wawancara ditambah meja bundar sebelas orang di empat platform penghidupan (Ajira Digital, KRA iTax, HELB, YEDF) menunjuk teknologi bahasa dan desain berbasis WCAG 2.1 sebagai tuas inklusi ([[amol-ai-egovernance-digital-inclusion-2026|Amol & Wanzare (2026)]]).
 
-### AI memperdalam (dan dapat menutup) kesenjangan
+- **Disaggregasi penggunaan, bukan hanya akses.** [[raut-ai-rural-education-india-2026|Tinjauan integratif Raut]] melaporkan bahwa di antara remaja India pedesaan usia 14–16, 85.5% laki-laki dan 79.4% perempuan mengatakan mereka dapat menggunakan ponsel pintar, sehingga ketersediaan di tingkat rumah tangga meremehkan kesenjangan gender dalam penggunaan praktis.
+
+## AI memperdalam (dan dapat menutup) kesenjangan
 
 AI menambahkan lapisan baru pada implikasi keadilan teknologi. Bias algoritmik dapat berdampak tidak proporsional pada pembelajar dari komunitas marginal, dan [[ai-literacy|literasi AI]] — kemampuan memahami, mengevaluasi secara kritis, dan memitigasi bias serta risiko AI — itu sendiri merupakan faktor kunci apakah AI memperlebar atau mempersempit jurang. [[research-methods-aied|Penelitian]] menunjukkan pendidik dengan literasi AI lebih tinggi lebih efektif dalam mengidentifikasi dan memitigasi hasil yang bias. Kesenjangan digital di era AI karena itu bukan sekadar masalah penyediaan teknis melainkan pertanyaan tentang keadilan dan partisipasi: siapa yang dapat mengakses AI, siapa yang dapat menggunakannya secara kritis, dan siapa yang memperoleh manfaat.
 
@@ -79,16 +85,11 @@ Pengajaran AI terstruktur di sekolah adalah katalis psikologis tetapi bukan peme
 
 - **Kesenjangan ini mungkin lebih dangkal daripada kesenjangan internet.** Dengan mencocokkan penggunaan AI generatif 2025 setiap negara dengan tahun internet yang penggunaan keseluruhannya sebanding, jurang pendidikan lebih kecil di 13 dari 16 negara yang dapat dicocokkan, dari 35 negara ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
 
-### Koneksi ke konsep terkait
+- **Tingkat kapabilitas berada di dalam akses.** Dosen yang membayar langganan bulanan \$20 sendiri melaporkan lebih banyak galat dan fungsionalitas terbatas daripada kolega pada akun institusional berbayar, sebuah kesenjangan dalam hal apa yang dapat dilakukan alat, bukan apakah ia terjangkau ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
+
+## Koneksi ke konsep terkait
 
 Kesenjangan digital adalah kekhawatiran inti penelitian [[equity-in-ai-education]], terkait erat dengan [[ai-literacy]] (yang diposisikan sebagai mekanisme sentral untuk menangani hambatan struktural), serta dengan [[ethics]] dan [[bias-mitigation]] (karena bias algoritmik berdampak tidak proporsional pada kelompok marginal). Ini terhubung dengan [[ai-education]] dan [[higher-ed]] sebagai latar tempat jurang akses dan kapabilitas terwujud, dan berkaitan dengan [[student-experience]] karena membentuk siapa yang dapat berpartisipasi secara bermakna dalam pembelajaran yang dibentuk AI.
-
-## Miskonsepsi Umum
-
-- **"Akses ke alat adalah kesenjangannya."** Akses adalah lapisan pertama dan literatur telah bergerak melampauinya. **Keterampilan merumuskan adalah kesenjangan tingkat kedua tersendiri**: pada MedQA, akurasi naik seiring kecanggihan prompt dari **82.4% untuk perumusan literasi rendah menjadi 83.4% untuk perumusan ahli**, yang berarti dua siswa dengan akses identik memperoleh kualitas berbeda dari model yang sama karena satu tahu cara bertanya. Lapisan penulisan ulang prompt mempersempit jurang itu — kesenjangannya ada pada antarmuka dan kefasihan pengguna, bukan hanya pada langganan.
-- **"Jika berjalan di peramban, berarti tersedia."** Sebagian besar alat kuliah LLM mengasumsikan **audio bahasa Inggris satu bahasa dan internet yang andal**, yang justru menyingkirkan kelas yang mencampur bahasa Inggris dengan bahasa rumah. Data UDISE+ India menempatkan akses internet sekolah jauh di bawah level yang diasumsikan itu. Alat yang dibangun di atas infrastruktur yang diasumsikan secara senyap mengecualikan latar dengan kebutuhan terkuat.
-- **"Literasi digital dan penggunaan AI adalah variabel mediasi yang sama."** Sebuah studi atas **4,497 siswa Kelas 6** di Belanda memisahkan **dua jalur mediasi yang berbeda** — penggunaan AI dan literasi digital — yang menghubungkan latar belakang dan kepribadian dengan capaian belajar. Keduanya tidak dapat dipertukarkan, dan intervensi yang menaikkan salah satunya tidak otomatis menaikkan yang lain.
-- **"[[simulation|Simulasi]] menghilangkan hambatan biaya."** Tinjauan sistematis atas **11 studi digital-twin** dalam pendidikan tinggi STEM menemukan biaya perangkat keras **\$2,000-\$15,000** per penyiapan. Laboratorium simulasi dapat mereproduksi tagihan peralatan yang seharusnya dihindarinya, sehingga argumen biaya untuk penyediaan virtual harus diperiksa alih-alih diasumsikan.
 
 ## Apa artinya bagi praktik
 
@@ -103,3 +104,11 @@ Kesenjangan digital adalah kekhawatiran inti penelitian [[equity-in-ai-education
 - Jangan memperlakukan distribusi perangkat sebagai penutup kesenjangan. Jurang yang terukur berada pada keterampilan merumuskan, bahasa antarmuka, dan konektivitas, dan tidak satu pun darinya diperbaiki oleh perangkat keras.
 - Publikasikan infrastruktur yang diasumsikan suatu alat. Persyaratan yang dinyatakan dengan jelas memungkinkan latar dengan sumber daya terbatas menilai kesesuaian sebelum berinvestasi.
 - Hitung biaya penerapan penuh, bukan lisensi perangkat lunak. Bukti digital-twin menunjukkan tagihan perangkat keras dapat bertahan dari virtualisasi.
+
+## Miskonsepsi Umum
+
+- **"Akses ke alat adalah kesenjangannya."** Akses adalah lapisan pertama dan literatur telah bergerak melampauinya. **Keterampilan merumuskan adalah kesenjangan tingkat kedua tersendiri**: pada MedQA, akurasi naik seiring kecanggihan prompt dari **82.4% untuk perumusan literasi rendah menjadi 83.4% untuk perumusan ahli**, yang berarti dua siswa dengan akses identik memperoleh kualitas berbeda dari model yang sama karena satu tahu cara bertanya. Lapisan penulisan ulang prompt mempersempit jurang itu — kesenjangannya ada pada antarmuka dan kefasihan pengguna, bukan hanya pada langganan.
+- **"Jika berjalan di peramban, berarti tersedia."** Sebagian besar alat kuliah LLM mengasumsikan **audio bahasa Inggris satu bahasa dan internet yang andal**, yang justru menyingkirkan kelas yang mencampur bahasa Inggris dengan bahasa rumah. Data UDISE+ India menempatkan akses internet sekolah jauh di bawah level yang diasumsikan itu. Alat yang dibangun di atas infrastruktur yang diasumsikan secara senyap mengecualikan latar dengan kebutuhan terkuat.
+- **"Literasi digital dan penggunaan AI adalah variabel mediasi yang sama."** Sebuah studi atas **4,497 siswa Kelas 6** di Belanda memisahkan **dua jalur mediasi yang berbeda** — penggunaan AI dan literasi digital — yang menghubungkan latar belakang dan kepribadian dengan capaian belajar. Keduanya tidak dapat dipertukarkan, dan intervensi yang menaikkan salah satunya tidak otomatis menaikkan yang lain.
+- **"[[simulation|Simulasi]] menghilangkan hambatan biaya."** Tinjauan sistematis atas **11 studi digital-twin** dalam pendidikan tinggi STEM menemukan biaya perangkat keras **\$2,000-\$15,000** per penyiapan. Laboratorium simulasi dapat mereproduksi tagihan peralatan yang seharusnya dihindarinya, sehingga argumen biaya untuk penyediaan virtual harus diperiksa alih-alih diasumsikan.
+
