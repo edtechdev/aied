@@ -1,13 +1,13 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-24T07:20:00-05:00"
+updated: "2026-11-24T08:15:00-05:00"
 connected_resources: [nowcomment]
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
 ethics: [equity-in-ai-education]
-connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
+connected_faqs: [ai-help-hurt-collaborative-learning, asynchronous-online-courses-ai, group-work-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high

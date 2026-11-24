@@ -54,6 +54,7 @@ export const faqIndex: FaqSection[] = [
       'designing-ai-into-learning',
       'asynchronous-online-courses-ai',
       'group-work-ai',
+      'ai-help-hurt-collaborative-learning',
       'incorporating-ai-literacy',
       'ai-save-instructor-time',
       'ai-agents-support-students-instructors',
