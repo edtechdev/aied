@@ -1,6 +1,7 @@
 ---
 title: Формирование представлений об использовании ИИ для студентов
 created: "2026-10-13T21:22:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -10,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -79,6 +84,8 @@ connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, 
 ## Медиа и общественное представление
 
 О студентах формируют представления также более широкие медиа и общественный дискурс вокруг [[ai-education|AI in education]], который определяет их базовые ожидания до любого сообщения преподавателя. Анализы общественного дискурса и того, как платформы вроде YouTube формируют представление об использовании ChatGPT в образовании, показывают, что преобладающие рамки — ажиотаж, гибель или прагматизм — влияют на то, как обучающиеся и [[teacher-role|educators]] подходят к технологии ([[youtube-frames-chatgpt-education]]) ([[ai-ethics-education-public-discourse]]). Эффективное формирование представлений со стороны преподавателей часто означает осознанное противодействие этим фоновым нарративам или их перенаправление.
+
+Рамка также задает цену диплому вниз по течению: среди ~1750 американских специалистов по найму описание использования студентами ИИ как подстановки, а не как помощи, снижало вероятность приглашения на собеседование и готовность вести переговоры о зарплате, сильнее всего у кандидатов с высоким средним баллом ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Практические рекомендации
 

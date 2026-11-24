@@ -12,8 +12,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -74,7 +78,7 @@ Tam, gdzie [[agentic-ai-education-scoping-review|przegląd zakresowy 474 badań]
 - **Testowanie odporności adwersaryjnej:** [[adversarial-stress-testing-role-playing-agents|Testowanie obciążeniowe wieloagentowe]] koordynuje agentów Przesłuchującego, Celu i Sędziego, aby ujawnić tryby awarii niewidoczne w testowaniu jedną strategią, obniżając wyniki odporności o 0,17-0,20 punktu - co jest krytyczne dla spójności persony i [[pedagogical-safety|bezpiecznego wdrożenia]] z uczniami.
 - **Zastosowania dziedzinowe:** systemy agentowe pojawiają się w różnych dziedzinach, m.in. [[learnmate2-llm-adaptive-learning|agenci uczenia adaptacyjnego]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogiczni agenci LLM]], [[guided-llm-scaffolding-independent-learning|kierowane rusztowanie LLM]], [[cyberagents-gamified-cybersecurity-learning-2026|agenty gamifikowanego uczenia się cyberbezpieczeństwa]] oraz [[hdr-brachytherapy-agentic-ai-simulation-2026|agenty symulacji klinicznej]].
 - **Agenci webowi jako ewaluatorzy doświadczenia uczenia się:** pojedynczy autonomiczny agent webowy „opisujący", który nawiguje po lekcji online [[learning-design|projektu nauczania]] jak student - [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] - tworzy opis wystarczająco bogaty, by przewidzieć rezygnację studenta i dać projektantowi wykonalne informacje zwrotne, zanim zaangażują się prawdziwi uczniowie, bijąc pełną symulowaną kohortę i wszystkie punkty odniesienia na globalnym kursie CS1. To sytuuje ocenę agentową (agent jako zastępczy krytyk doświadczenia uczenia się) jako odrębne, tanie zastosowanie SI agentowej obok agentów, którzy uczą lub projektują.
-- **Ocenianie agentowe to najpierw pytanie o rzetelność, a dopiero potem o obciążenie pracą.** Agentowemu wdrożeniu Claude Code dano trzy pliki rubryk i 60 zeskanowanych odręcznych prac z egzaminu śródrocznego z kursu grafiki komputerowej. Jego oceny zgadzały się z prowadzącym na poziomie r = 0.97, ze średnim błędem bezwzględnym 0.85 punktu na 20-punktowej pracy, średnią stronniczością na korzyść SI 0.68 i ICC test-retest = 0.96 w dwóch sesjach tydzień po tygodniu. Agregat ukrywa, gdzie zawodzi: ważona kappa wahała się od 0.98 przy pytaniach wielokrotnego wyboru do 0.65 przy pozycjach oceniających, a najsłabszym przypadkiem były odręczne rysunki ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Jeden kurs, jeden prowadzący i jeden zestaw rubryk lokalizują wariancję; nie ustalają, czy ocenianie agentowe się generalizuje.
+- **Ocenianie agentowe to najpierw pytanie o rzetelność, a dopiero potem o obciążenie pracą.** Agentowemu wdrożeniu Claude Code dano trzy pliki [[rubrics|rubryk]] i 60 zeskanowanych odręcznych prac z egzaminu śródrocznego z kursu grafiki komputerowej. Jego oceny zgadzały się z prowadzącym na poziomie r = 0.97, ze średnim błędem bezwzględnym 0.85 punktu na 20-punktowej pracy, średnią stronniczością na korzyść SI 0.68 i ICC test-retest = 0.96 w dwóch sesjach tydzień po tygodniu. Agregat ukrywa, gdzie zawodzi: ważona kappa wahała się od 0.98 przy pytaniach wielokrotnego wyboru do 0.65 przy pozycjach oceniających, a najsłabszym przypadkiem były odręczne rysunki ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Jeden kurs, jeden prowadzący i jeden zestaw rubryk lokalizują wariancję; nie ustalają, czy ocenianie agentowe się generalizuje.
 
 ### Systemy wieloagentowe
 
@@ -140,6 +144,8 @@ SI agentowa stwarza odrębne zagrożenia dla uczciwości, wykraczające poza jed
 
 To łączy dyskusję o SI agentowej z pokryciem [[academic-integrity|uczciwości akademickiej]] w bazie wiedzy, które ramuje odpowiedź jako przeprojektowanie oceniania i [[ai-literacy|kompetencje w zakresie SI]], a nie samo wykrywanie.
 
+- **Artefakt kontroli też może być napisany przez agenta.** [[pinto-student-ownership-ai-agents-code-2026|Pinto i wsp. (2026)]] poprowadzili 18 par studentów przez budowę systemów w rozwoju sterowanym specyfikacją i stwierdzili, że agenci napisali 69% specyfikacji mających trzymać studentów w kontroli, czasami z kilku słów promptu, więc specyfikacja, która miała poświadczać ucznia, była sama autorstwa agenta.
+
 ## Produktywny opór i interakcja społeczna
 
 Nie każde zachowanie agentowe musi być gładką pomocą. [[ai-agents-constructive-conflict-design-education-2026|Badania nad adwersaryjnymi agentami projektowymi]] pokazują, że agenci odgrywający **konstruktywny konflikt** wywoływali istotnie więcej iteracji projektu, szerszą eksplorację alternatyw i wyżej oceniane projekty końcowe wśród początkujących projektantów interakcji (N=48) - dynamika *produktywnego oporu*, w której agent konfliktu był frustrujący, ale ostatecznie pomocny. Łączy się to z [[socratic-method|sokratejskim pytaniem]] i [[design-thinking|myśleniem projektowym]] oraz pokazuje, jak SI agentowa może wspierać głębokie przemyślenie, a nie pasywną akceptację.
@@ -158,6 +164,8 @@ Dla nauczycieli, kadry akademickiej i [[learning-design|projektantów nauczania]
 - **Budowanie [[ai-literacy|kompetencji w zakresie SI]] u wykładowców.** Nauczyciele i projektanci potrzebują trafnych modeli mentalnych SI agentowej, aby konfigurować, monitorować i krytykować te systemy - oraz modelować odpowiedzialne korzystanie przed uczniami. Łączy się to z [[teacher-ai-competency|kompetencjami nauczycieli w zakresie SI]] i [[educational-development|rozwojem kadry]].
 - **Uważność na równość.** Narzędzia agentowe grożą pogłębieniem luk, jeśli dostęp jest nierówny lub jeśli automatyzacja eroduje wsparcie dla uczniów, którzy potrzebują go najbardziej; projektuj z myślą o [[equity-in-ai-education|równości]].
 - **Zbudowanie rusztowania instytucjonalnego przed skalowaniem.** Pytanie o wdrożenie nie jest tylko kwestią projektu, ale i instytucji. Synteza [[baradziej-agentic-ai-higher-education-2026|Baradzieja (2026)]] kondensuje dowody zarządzania w trzy filary: rozwijać [[ai-literacy|kompetencje w zakresie SI]] wśród studentów *i* pracowników; zbudować [[ethics|etyczną]] infrastrukturę (polityki ochrony danych, ramy odpowiedzialności algorytmicznej i uczciwości akademickiej) *przed* wdrożeniem na dużą skalę; oraz zapewnić oparte na kompetencjach [[educational-development|szkolenie nauczycieli]], które wykracza poza oswajanie z narzędziem ku ramom pedagogicznym chroniącym ludzką sprawczość. Biorąc pod uwagę, że w niektórych kontekstach krajowych tylko około 6,5% kadry deklaruje bezpośrednie korzystanie z SI, luka szkoleniowa jest wiążącym ograniczeniem odpowiedzialnej adopcji.
+
+- **Zmierz, gdzie ludzie tracą granicę delegowania.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang i Nedungadi (2026)]] przeprowadzili randomizowany eksperyment wyboru behawioralnego z 290 nauczycielami akademickimi: 92% delegowało pisanie pytań, ale tylko 20% zwalniało quiz na platformę bez nadzoru, a zaledwie 5% wybierało automatyczną publikację. Preferowane były konfiguracje „tylko szkic" i zatwierdzane warianty, więc granica biegnie wzdłuż nieodwracalnych działań platformy, a nie wzdłuż generowania treści.
 
 ### Techniki zapewniania uczciwości akademickiej z SI agentową
 

@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Tieto vysvetľujú mechanizmy: pomenúvajú časti, ktoré prácu robia, a predp
 ## Rámce výučby, integrácie a osvojenia
 
 - **[[tpack|TPACK]]** — vedomosti učiteľa, ktoré spájajú technológiu, pedagogiku a obsah; predvolený rámec pre štúdie AI orientované na učiteľov.
+- **[[bloom-taxonomy|Taxonómia Blooma]]** — spoločná slovná zásoba pre kognitívnu náročnosť úloh, používaná na kódovanie aj na ich poradie; v AI vo vzdelávaní sa stala rovnako meracím problémom ako dizajnovým.
 - **[[technology-acceptance-model|Modely osvojenia]]** — zámer ako funkcia vnímanej užitočnosti a ľahkosti používania. Používajú sa dosť široko na to, aby bola závislosť odboru na zámere namiesto správania trvalou kritikou.
+- **Model potvrdenia očakávaní (ECM)** — spokojnosť ako potvrdenie predchádzajúcich očakávaní, pričom výsledkom je pokračovanie, nie počiatočné osvojenie. V jednosemesačnom piloti z sociológie s 24 bakalármi hodnotilo 87 % Copilota ako dobrého alebo vynikajúceho a 91 % by ho odporučilo, no len 57 % malo v úmysle ho naďalej používať ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Medzera je podstatou modelu: spokojný používateľ sa môže stále rozhodnúť nevrátiť sa, takže spokojnosť a pokračovanie treba merať oddelene.
 - **[[icap-framework|ICAP]]** — zoraďuje angažovanosť na pasívnu, aktívnu, konštruktívnu, interaktívnu; užitočný na otázku, aký mód [[student-ai-interaction|interakcia s AI]] skutočne umožňuje.
 - **[[samr-model|SAMR]]** — od substitúcie po redefiníciu. Populárny ako príbeh zrelosti, slabý ako merací nástroj.
 - **[[universal-design-for-learning|Univerzálny dizajn pre učenie]]**, **[[inclusive-learning|inkluzívne učenie]]** a **[[accessibility|prístupnosť]]** — dizajnové rámce pre to, komu sa dostáva, a tie najčastejšie uvádzané v práci o postihnutí a [[equity-in-ai-education|rovnosti]].
@@ -104,7 +110,7 @@ Slová sa v literatúre používajú voľne a rozdiel si zaslúži jeden odsek, 
 
 ## Súvisiace vrstvy
 
-Dve susedné stránky sú zámerne o niečom inom. [[philosophy-of-ai-in-education|Filozofia AI vo vzdelávaní]] kladie normatívne a konceptuálne otázky — *na čo* je vzdelávanie, či stroj dokáže učiť — a nepredpovedá veľkosti efektu; štúdia môže byť filozoficky naivná a teoreticky správna, alebo naopak. [[theory-development-aied|Vývoj teórie]] je metačinnosťou budovania, preberania a revidovania teórie vrátane trvalej kritiky, že veľká časť práce [[ai-education|AIED]] uplatňuje existujúcu teóriu namiesto jej testovania. Táto stránka je inventárom; vývoj teórie je o produkovaní a revidovaní inventára.
+Dve susedné stránky sú zámerne o niečom inom. [[philosophy-of-ai-in-education|Filozofia AI vo vzdelávaní]] kladie normatívne a konceptuálne otázky — *na čo* je vzdelávanie, či stroj dokáže učiť — a nepredpovedá veľkosti efektu; štúdia môže byť filozoficky naivná a teoreticky správna, alebo naopak. [[theory-development-aied|Vývoj teórie]] je metačinnosťou budovania, preberania a revidovania teórie vrátane trvalej kritiky, že veľká časť práce [[ai-education|AIED]] uplatňuje existujúcu teóriu namiesto jej testovania. Táto stránka je inventárom; vývoj teórie je o produkovaní a revidovaní inventára. [[learning-environments-as-systems|učebné prostredia ako systémy]] je tretí sused. Nie je to teória učenia a nepredpovedá veľkosti efektu, ale postoj k jednotke analýzy: učebné prostredie je viacúrovňový systém, ktorého časti spolu interagujú, takže úroveň, ktorú štúdia merá, je teoretické rozhodnutie, nie pohodlie výberu vzorky.
 
 ## Výber šošovky, keď je otázka praktická
 

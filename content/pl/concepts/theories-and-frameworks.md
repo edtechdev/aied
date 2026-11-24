@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Te wyjaśniają mechanizmy: nazywają części, które wykonują pracę, i przew
 ## Ramy nauczania, integracji i adopcji
 
 - **[[tpack|TPACK]]** — wiedza nauczyciela łącząca technologię, pedagogikę i treść; domyślna rama badań nad SI skierowanych do nauczycieli.
+- **[[bloom-taxonomy|Taksonomia Blooma]]** — wspólny słownik zapotrzebowania poznawczego zadań, używany zarówno do kodowania pozycji, jak i do ich sekwencjonowania; w edukacji z SI stała się w równym stopniu problemem pomiaru, co projektowania.
 - **[[technology-acceptance-model|Modele adopcji]]** — intencja jako funkcja postrzeganej użyteczności i łatwości użycia. Używane tak szeroko, że poleganie dziedziny na intencji, a nie zachowaniu, jest stałą krytyką.
+- **Model potwierdzenia oczekiwań (ECM)** — satysfakcja jako potwierdzenie wcześniejszych oczekiwań, z kontynuacją, a nie pierwotną adopcją jako wynikiem. W jednosemestralnym pilocie z metodologii socjologii na 24 studentach 87% oceniło Copilota jako dobrego lub doskonałego, a 91% poleciłoby go, ale tylko 57% zamierzało nadal z niego korzystać ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Lupa jest tu sednem modelu: zadowolony użytkownik może mimo to zrezygnować z powrotu, więc satysfakcję i kontynuację trzeba mierzyć osobno.
 - **[[icap-framework|ICAP]]** — szereguje zaangażowanie jako pasywne, aktywne, konstruktywne, interaktywne; przydatny do pytania, jaki tryb faktycznie umożliwia [[student-ai-interaction|interakcja z SI]].
 - **[[samr-model|SAMR]]** — od podstawienia do redefinicji. Popularny jako opowieść o dojrzałości, słaby jako instrument pomiarowy.
 - **[[universal-design-for-learning|Uniwersalne projektowanie uczenia się]]**, **[[inclusive-learning|uczenie się inkluzywne]]** i **[[accessibility|dostępność]]** — ramy projektowe mówiące, kto jest obsługiwany, i te najczęściej przywoływane w pracy nad niepełnosprawnością i [[equity-in-ai-education|równością]].
@@ -104,7 +110,7 @@ Słowa są w literaturze używane luźno, a różnica zasługuje na jeden akapit
 
 ## Powiązane warstwy
 
-Dwie sąsiednie strony celowo dotyczą czegoś innego. [[philosophy-of-ai-in-education|Filozofia SI w edukacji]] stawia pytania normatywne i pojęciowe — *po co* jest edukacja, czy maszyna może nauczać — i nie przewiduje wielkości efektów; badanie może być filozoficznie naiwne i teoretycznie solidne albo odwrotnie. [[theory-development-aied|Rozwój teorii]] to metaaktywność budowania, zapożyczania i rewidowania teorii, w tym stała krytyka, że znaczna część pracy nad [[ai-education|AIED]] stosuje istniejącą teorię, zamiast ją testować. Ta strona jest inwentarzem; rozwój teorii dotyczy wytwarzania i rewidowania inwentarza.
+Dwie sąsiednie strony celowo dotyczą czegoś innego. [[philosophy-of-ai-in-education|Filozofia SI w edukacji]] stawia pytania normatywne i pojęciowe — *po co* jest edukacja, czy maszyna może nauczać — i nie przewiduje wielkości efektów; badanie może być filozoficznie naiwne i teoretycznie solidne albo odwrotnie. [[theory-development-aied|Rozwój teorii]] to metaaktywność budowania, zapożyczania i rewidowania teorii, w tym stała krytyka, że znaczna część pracy nad [[ai-education|AIED]] stosuje istniejącą teorię, zamiast ją testować. Ta strona jest inwentarzem; rozwój teorii dotyczy wytwarzania i rewidowania inwentarza. [[learning-environments-as-systems|Środowiska uczenia się jako systemy]] są trzecim sąsiadem. To nie teoria uczenia się i nie przewiduje wielkości efektów, lecz stanowisko wobec jednostki analizy: środowisko uczenia się jest systemem wielopoziomowym, którego części wchodzą ze sobą w interakcje, więc poziom, na którym mierzy badanie, jest decyzją teoretyczną, a nie wygodą próbkowania.
 
 ## Wybór soczewki, gdy pytanie jest praktyczne
 

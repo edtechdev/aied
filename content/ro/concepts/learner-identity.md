@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Introducere
 
 Identitatea învățăcelului privește cine înțelege un învățăcel că este și cine devine într-un domeniu — un construct motivațional și de dezvoltare distinct de convingerile despre abilitate precum [[self-efficacy|autoeficacitatea]], care răspund la întrebarea mai îngustă *pot să fac asta?* Identitatea se formează prin participare, recunoaștere și autorat: a te vedea reflectat într-un domeniu și a avea acea imagine de sine validată de ceilalți. IA remodelează toate cele trei condiții, pentru că schimbă cine face munca, ce contează ca contribuție proprie și dacă un învățăcel este recunoscut ca autor al propriei învățări ([[agency]], [[metacognition]]).
+
+Notele sunt o relație la fel de mult ca un simbol: studenții ajung să se vadă prin ele, astfel încât o reformă care le lasă neschimbate lasă neschimbată și acea relație ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## De ce contează identitatea pentru IA în educație
 
@@ -59,6 +65,9 @@ O condiție distinctă a autoratului, nu doar o amenințare la adresa lui: când
 
 - **Adoptare precaută: utilizarea selectivă a IA ca protecție a identității.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] a sondat 484 de studenți de la o universitate australiană și a constatat că studenții cu rezultate mai bune raportau o implicare activă *mai scăzută* cu [[generative-ai|IA generativă]], un afect pozitiv mai scăzut față de IA, un impact mai scăzut asupra [[self-report-measures|învățării percepute]] și o dezangajare mai scăzută legată de IA, cu cele mai puternice asocieri la rho = -0,395 pentru impactul asupra învățării percepute și rho = -0,359 pentru afectul pozitiv. Răspunsurile lor deschise descriau o utilizare selectivă (clarificare, rezumare, sprijin pentru fluxul de lucru), verificată și ținută subordonată propriei judecăți, iar rezultatele la nivel de item arătau un acord mai mare că dependența de IA împiedică [[critical-thinking|gândirea critică]] și [[problem-solving|rezolvarea independentă de probleme]]. Autorii citesc aceasta ca muncă de identitate: pentru studenții al căror sentiment de sine ca învățăcei de succes se sprijină pe propriul efort și pe propria judecată, delimitarea utilizării IA apără [[agency|agentivitatea epistemică]] de care depinde identitatea — ceea ce înseamnă și că tiparul nu este nici tehnofobie, nici implicare scăzută.
 - **Un scop declarat nu guvernează neapărat o decizie privind IA.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] au intervievat 14 studenți de licență și au codat fiecare interviu pentru relația dintre [[self-determination-theory|scopul]] studentului — o intenție semnificativă personal de a contribui dincolo de sine — și alegerile sale privind IA. Doar unii au făcut legătura: unul a refuzat IA pentru că costurile ei de mediu și umane contraziceau scopul său, iar trei au lăsat identitatea profesională viitoare să le modeleze alegerile („contribuie la psihologul care voi fi în lume cândva”). Alții cu un simț la fel de clar al scopului nu au făcut o astfel de legătură, descriind scopul și IA ca „oarecum separate”, așa că a avea o identitate de protejat nu era același lucru cu a te sprijini pe ea. Lucrarea separă de asemenea motivele pe care studenții le invocă pentru a-și păstra munca proprie — dezvoltarea competenței, [[evaluative-judgment|proprietatea și mândria]] și obiecția morală — care apar prin mecanisme diferite și nu ar trebui puse la un loc într-un singur motiv.
+
+- **Capacitatea poate să ajungă înaintea apartenenței.** O autoetnografie de 73 de zile a unui educator de bioinformatică care construia un joc într-un domeniu necunoscut a constatat că [[generative-ai|GenAI]] a furnizat capacitatea, dar nu și identitatea: apartenența a venit prin participarea la comunități de practică și prin reinterpretări repetate, iar atingerea ei a cerut un ritm uman ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Refuzul este și el muncă de identitate: printre cinci practicieni de culoare din învățământul secundar, nefolosirea afirma controlul, se conforma regulilor instituționale sau semnaliza valori epistemice, în timp ce răspunsurile neutre ale IA produceau o „plateală culturală” care lăsa experiențele lor nerecunoscute ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Relația cu agenția învățăcelului
 

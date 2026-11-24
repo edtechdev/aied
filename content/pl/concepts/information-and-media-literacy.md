@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -49,6 +53,8 @@ Przedmiotem kompetencji informacyjnych jest źródło, a ich pytaniem rdzeniowym
 
 Literatury empiryczne odzwierciedlają ten podział. Badanie ankietowe 236 studentów amerykańskich uniwersytetów pytało, gdzie zaczynają się poszukiwania akademickie, i stwierdziło wyszukiwarki na poziomie 45.5%, stronę domową biblioteki na 27.9% i chatbota SI na 26.6%, przy czym studenci międzynarodowi zastępowali zasoby biblioteczne SI mniej więcej dwukrotnie częściej niż studenci krajowi ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund i wsp., 2026]]). Przegląd systematyczny 32 badań stwierdził, że integracja [[ai-literacy|kompetencji w zakresie SI]] w nauczaniu kompetencji informacyjnych jest w „fazie niemowlęcej", realizowana przez LibGuides i warsztaty, a nie przez program nauczania ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza i Arif, 2026]]). Po stronie medialnej wywiady z siedmioma ekspertami i ankieta 141 studentów wykazały, że włączanie technologii do programu krytycznych kompetencji medialnych jest „ograniczone i często powierzchowne", a nauczyciele są niedostatecznie przeszkoleni w zakresie narzędzi wytwarzających dezinformację i deepfake'i ([[critical-media-literacy-education-2026|badanie krytycznych kompetencji medialnych, 2026]]).
 
+Międzynarodowa ocena wkracza w fazę scalania tych konstruktów. PISA 2029 wprowadza ocenę Media and AI Literacy (MAIL) dla piętnastolatków, a przegląd iRAISE z 2026 r. buduje swoją definicję na tej samej integracji — kompetencje w zakresie SI jako najnowsza warstwa kompetencji cyfrowych, same oparte na dekadach kompetencji medialnych i informacyjnych ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Integracja niesie koszt wdrożenia, którego przewiduje argument o rozchodzeniu się konstruktów. Mapowanie UNESCO z 2025 r. wykazało, że 171 ze 194 państw członkowskich przywołuje kompetencje medialne i informacyjne w ramach krajowych, ale tylko 84 (43%) włącza do programów nauczania elementy wykraczające poza techniczne umiejętności cyfrowe — czyli konstrukt, którego ocena będzie dotyczyć, jest tym, czego szkoły uczą najmniej.
+
 ## Jak SI komplikuje kompetencje informacyjne
 
 Pierwsza komplikacja to fabrykacja na skalę. Model produkuje przekonujący tekst, wiarygodne odnośniki i pewne siebie statystyki, które mogą nie istnieć; czytelnik otrzymuje syntezę, której ślad poszukiwań został wymazany. Sprawdzanie staje się inną umiejętnością: nie „czy to dobre źródło", ale „czy to źródło istnieje i czy mówi to, co twierdzi odpowiedź".
@@ -60,6 +66,8 @@ Trzecia to zdolności kadry. W ankiecie 412 bibliotekarzy akademickich z 38 nige
 ## Jak SI komplikuje kompetencje medialne
 
 Fundamentowe pytania kompetencji medialnych zakładały twórcę z celem. Deepfake'i, klonowanie głosu i zautomatyzowane boty łamią to założenie na trzy sposoby: artefakt może nie mieć ludzkiego autora, publiczność może być syntetyczna, a intencja może być optymalizacją pod zaangażowanie, a nie perswazją kogokolwiek.
+
+**Spersonalizowany argument to obecny model zagrożenia perswazyjnego.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi i wsp. (2025)]] randomizowali 900 dorosłych Amerykanów do dziesięciominutowych debat online z człowiekiem albo GPT-4, z sześcioma zwykłymi polami demograficznymi lub bez nich. Niepersonalizowany GPT-4 był statystycznie nieodróżnialny od ludzkiego przeciwnika, podczas gdy spersonalizowany GPT-4 podnosił szanse na porozumienie po debacie o 81,2% i był bardziej przekonujący w 64,4% przypadków. Uczestnicy rozpoznali przeciwnika SI w około trzech na cztery debaty, a przesuwali się jeszcze bardziej, gdy wierzyli, że przeciwnikiem jest SI, więc wykrywanie źródła nie działało jako uodparnienie. Manipulacja była niewidoczna w prozie: miary stylu niewiele się różniły między warunkami, lokalizując przewagę w tym, które argumenty zostały wybrane, a nie w tym, jak zostały napisane.
 
 Dowody z programów nauczania sugerują, że szkoły nie nadążyły. Wywiady eksperckie opisują [[teacher-education|szkolenie nauczycieli]] jako wiążące ograniczenie, a nie opór uczniów, i argumentują za ramowaniem przez [[critical-pedagogy|pedagogikę krytyczną]], które traktuje ewaluację jako praktykę etyczną i partycypacyjną, a nie szkolenie z narzędzi. Raport zamówiony dla mediów służby publicznej stwierdził, że oferta dla osób w wieku 14–19 lat przechyla się w stronę funkcjonalnych umiejętności SI i odchodzi od oceny krytycznej, mimo przejrzenia ponad 40 ram i wywiadów z 35 ekspertami ([[ai-literacies-young-adults-2025|raport o kompetencjach w zakresie SI, 2025]]).
 
@@ -75,12 +83,25 @@ Czytane razem, obie strony bilansu sugerują regułę: SI może nieść obciąż
 
 ## Co to oznacza dla praktyki
 
-- **Ucz jednej procedury, dwóch przedmiotów.** Możliwa do sprawdzenia rutyna — prześledź twierdzenie do źródła, prześledź źródło do autora, zapytaj, co artefakt robi — działa zarówno dla cytowania, jak i dla wideo. Nazwij, który przedmiot zadanie ocenia.
-- **Traktuj detekcję jako dowód, nie wyrok.** Wynik detektora jest prawdopodobieństwem; ucz studentów potwierdzania drugą metodą i mówienia, co zmieniłoby ich zdanie.
-- **Zachowaj produkcję w programie.** Tworzenie mediów było pedagogiką, która czyniła krytykę konkretną; generowanie z SI może je wspierać tylko wtedy, gdy studenci badają wybory, które narzędzie podjęło za nich.
-- **Umieść bibliotekarza lub specjalistę od mediów w przepływie pracy.** Najmocniejszy wynik dydaktyczny w tej literaturze pochodzi z projektu, w którym ludzką konsultację wbudowano, a nie oferowano po fakcie.
-- **Oceń zdolności kadry przed pisaniem sylabusa.** Zmierzony deficyt leży w projektowaniu celów i ocenianiu wyników, nie w obsłudze narzędzi.
+**Ucz jednej procedury, dwóch przedmiotów.** Możliwa do sprawdzenia rutyna — prześledź twierdzenie do źródła, prześledź źródło do autora, zapytaj, co artefakt robi — działa zarówno dla cytowania, jak i dla wideo. Nazwij, który przedmiot zadanie ocenia.
+
+**Traktuj detekcję jako dowód, nie wyrok.** Wynik detektora jest prawdopodobieństwem; ucz studentów potwierdzania drugą metodą i mówienia, co zmieniłoby ich zdanie.
+
+**Zachowaj produkcję w programie.** Tworzenie mediów było pedagogiką, która czyniła krytykę konkretną; generowanie z SI może je wspierać tylko wtedy, gdy studenci badają wybory, które narzędzie podjęło za nich.
+
+**Ocenianie konstruktu jako wykonania, a nie postawy, wysuwa najsłabszy punkt na plan pierwszy.** W ośmiotygodniowym badaniu Code Craft z 28 tajskimi studentami kompetencje cyfrowe wzrosły z 1,51 do 2,82 w trzypoziomowej [[rubrics|rubryce]], ale porządkowanie informacji wyniosło średnio 1,92, a tworzenie informacji 2,05, wobec 2,36 dla komunikowania się i pracy z innymi ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij i Khlaisang, 2026]]). Najniższe wyniki przypadały stronie wytwórczej konstruktu, do której kurs kończący się na wyszukiwaniu i ocenie nigdy nie dociera.
+
+**Umieść bibliotekarza lub specjalistę od mediów w przepływie pracy.** Najmocniejszy wynik dydaktyczny w tej literaturze pochodzi z projektu, w którym ludzką konsultację wbudowano, a nie oferowano po fakcie.
+
+**Oceń zdolności kadry przed pisaniem sylabusa.** Zmierzony deficyt leży w projektowaniu celów i ocenianiu wyników, nie w obsłudze narzędzi.
 
 ## Ograniczenia dowodów
 
 Większość badań tutaj jest mała, oparta na [[self-report-measures|samoocenie]] albo jedno i drugie: 236 studentów w jednej ankiecie, 36 dzieci w jednej interwencji, 412 bibliotekarzy oceniających siebie. Widoczność bibliometryczna nie jest praktyką, a autorzy scientometryczni mówią to wprost. Żadne badanie w korpusie nie ocenia połączonego programu kompetencji informacyjnych i medialnych, a narzędzia detekcji i fact-checkingu, które zaleca literatura praktyczna, są w tych źródłach w dużej mierze niezmierzone. Twierdzenie, że weryfikacja oparta na SI poprawia wyniki, należy traktować jako hipotezę projektową, dopóki ktoś nie przetestuje jej wobec grupy kontrolnej.
+
+## Częste błędne wyobrażenia
+
+- **Detektor rozstrzyga pytanie.** Detektor zwraca prawdopodobieństwo; potwierdź je drugą metodą, zamiast traktować go jak klucz odpowiedzi.
+- **Dwie kompetencje to jedna umiejętność pod dwiema nazwami.** Ich przedmioty się różnią — wiarygodność źródła wobec autorstwa i intencji — więc jedna rubryka nie ocenia żadnej z nich dobrze.
+- **Rozpoznawanie SI uodparnia na nią.** W najsilniejszym eksperymencie perswazyjnym w tym korpusie wykrywanie było wysokie, a przesunięcie ku stanowisku SI wciąż rosło.
+- **Kompetencje biblioteczne przenoszą się na kompetencje w zakresie SI.** Niedobór kadry widać w projektowaniu celów (M = 2,70) i ocenianiu wyników (M = 2,62), nie w obsłudze narzędzi.

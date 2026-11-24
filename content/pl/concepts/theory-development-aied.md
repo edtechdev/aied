@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Inne prace rozszerzają istniejącą teorię na kontekst SI, zamiast zakładać 
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin i Chang (2026)]] rozszerzają [[self-regulated-learning|uczenie się samoregulowane]] i regulację człowiek–SI, nazywając to, czym zarządza uczący się — standardy, [[evaluative-judgment|osądy ewaluacyjne]] i upoważnienie do kontroli — a nie tylko to, co robi SI.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai i Flenady (2026)]] wprowadzają do teorii informacji zwrotnej pojęcie uznania Honnetha i Brandoma, argumentując, że komentarz staje się powodem do działania dzięki wzajemnemu przypisaniu społecznej pozycji, a nie dzięki jakości informacji.
+
 Paradoks tarcia oferuje kolejne rozszerzenie istniejącej teorii: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] stosuje [[desirable-difficulties|pożądane trudności]] Bjorka i Bjork oraz [[productive-failure|produktywną porażkę]] Kapura do spotkań relacyjnych w edukacji za granicą, twierdząc, że liczy się to, ile sprawczości interpretacyjnej student [[transfer-of-learning|przenosi]] na asystenta generatywnego, a nie jak często go używa. Rama jest pojęciowa i formułuje pięć propozycji jako konkurencyjne hipotezy.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri i Biagini (2026)]] rozwijają funkcjonalną taksonomię dziedziny Zawacki-Richtera i wsp. (2019): spośród 154 publikacji z klasyfikowalną funkcją zastosowania 90 (58,4%) wymykało się jej czterem kategoriom, a ich rama krzyżuje funkcję z delegowaną kontrolą, pozycją epistemiczną i osadzoną pedagogiką.
@@ -93,15 +99,7 @@ Teoretyzowanie w dziedzinie jest nierówne. [[limitations-in-aied-research|Ogran
 
 ## Relacja z filozofią SI w edukacji
 
-Rozwój teorii i [[philosophy-of-ai-in-education|filozofia SI w edukacji]] to komplementarne, ale odrębne nurty pracy fundamentalnej w bazie wiedzy. **Rozwój teorii** wytwarza i empirycznie testuje *mechanizmy* uczenia się z SI — nazwane teorie i ramy, takie jak generatywizm, epistemiczna współsprawczość i nieobecna linia bazowa poznawcza, które wyjaśniają i przewidują, jak uczący się i SI oddziałują. **Filozofia** bada *presupozycje*, na których te mechanizmy się opierają: co liczy się jako wiedza, kto liczy się jako znawca i czym uczący się fundamentalnie jest. Teoria taka jak [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemiczna współsprawczość]] proponuje mechanizm, przyjmując jednocześnie implicytne zobowiązania filozoficzne dotyczące poznania rozproszonego i [[agency|sprawczości]]; filozofia czyni te zobowiązania jawnymi i podważalnymi. Tam, gdzie rozwój teorii pyta, czy rama dobrze wyjaśnia uczenie się, filozofia pyta, czy ujmuje to, czym uczenie się i umysł naprawdę są — oba nurty spotykają się w najbardziej fundamentalnych artykułach dziedziny, które często robią jedno i drugie naraz.
-
-## Częste błędne wyobrażenia
-
-**„Ustalenie, że narzędzie zadziałało, to wkład teoretyczny".** Nie jest, a przyczyna jest strukturalna. Gdy propozycje ramy przewidują *różnice między konfiguracjami*, badanie raportujące tylko średni efekt **nie może ich potwierdzić ani obalić** — projekt nie widzi rozróżnienia, o którym mówi teoria. Próba pokazująca średni zysk mówi, że coś się stało, a nie który mechanizm to spowodował, więc teoria pozostaje dokładnie tak wsparta, jak była wcześniej.
-
-**„Stosowanie ugruntowanej teorii do SI to rozwój teorii".** Problem użycia teorii opisany na tej stronie mówi inaczej: zastosowanie nie jest rozwojem, a powracającym wzorcem dziedziny są zapożyczone konstrukty używane jako słownik, a nie jako testowalne przewidywania. Rozróżnienie ma znaczenie, ponieważ zapożyczona rama, która nie potrafi wygenerować falsyfikowalnej różnicy, jest dekoracją, a nie teorią.
-
-**„Istniejące taksonomie pedagogicznej funkcji SI już obejmują to, co robią te systemy".** Nie obejmują znacznej części tego. Spośród 154 publikacji z klasyfikowalną funkcją zastosowania **90 (58,4%) wymykało się czterem kategoriom** wcześniejszej ramy — dlatego nowsze prace krzyżują funkcję z delegowaną kontrolą, pozycją epistemiczną i osadzoną pedagogiką. Taksonomia, która błędnie klasyfikuje prawie trzy na pięć przypadków, nie może służyć jako wspólny słownik dziedziny, a luka jest ustaleniem o zjawisku, a nie luką w artykule.
+Rozwój teorii i [[philosophy-of-ai-in-education|filozofia SI w edukacji]] to komplementarne, ale odrębne nurty pracy fundamentalnej w bazie wiedzy. **Rozwój teorii** wytwarza i empirycznie testuje *mechanizmy* uczenia się z SI — nazwane teorie i ramy, takie jak generatywizm, epistemiczna współsprawczość i nieobecna linia bazowa poznawcza, które wyjaśniają i przewidują, jak uczący się i SI oddziałują. **Filozofia** bada *presupozycje*, na których te mechanizmy się opierają: co liczy się jako wiedza, kto liczy się jako znawca i czym uczący się fundamentalnie jest. Teoria taka jak [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemiczna współsprawczość]] proponuje mechanizm, przyjmując jednocześnie implicytne zobowiązania filozoficzne dotyczące poznania rozproszonego i [[agency|sprawczości]]; filozofia czyni te zobowiązania jawnymi i podważalnymi. Tam, gdzie rozwój teorii pyta, czy rama dobrze wyjaśnia uczenie się, filozofia pyta, czy ujmuje to, czym uczenie się i umysł naprawdę są — oba nurty spotykają się w najbardziej fundamentalnych artykułach dziedziny, które często robią jedno i drugie naraz. To, co krytycy dziedziny mówią o kierunkach, które te teorie otwierają lub zamykają, to osobne pytanie, zebrane w [[critiques-of-ai-in-education|Krytyce sztucznej inteligencji w edukacji]].
 
 ## Implikacje dla praktyki
 
@@ -120,3 +118,11 @@ Rozwój teorii i [[philosophy-of-ai-in-education|filozofia SI w edukacji]] to ko
 
 - Projektuj kontrasty konfiguracji, jeśli zamierzasz wnieść wkład teoretyczny. Próba ze średnim efektem opublikowana jako rozwój teorii to najczęstszy i najmniej użyteczny produkt dziedziny.
 - Dołączaj jawne falsyfikowalne propozycje do każdej ramy, którą wprowadzasz, i raportuj, które różnice konfiguracji by je obaliły.
+
+## Częste błędne wyobrażenia
+
+**„Ustalenie, że narzędzie zadziałało, to wkład teoretyczny".** Nie jest, a przyczyna jest strukturalna. Gdy propozycje ramy przewidują *różnice między konfiguracjami*, badanie raportujące tylko średni efekt **nie może ich potwierdzić ani obalić** — projekt nie widzi rozróżnienia, o którym mówi teoria. Próba pokazująca średni zysk mówi, że coś się stało, a nie który mechanizm to spowodował, więc teoria pozostaje dokładnie tak wsparta, jak była wcześniej.
+
+**„Stosowanie ugruntowanej teorii do SI to rozwój teorii".** Problem użycia teorii opisany na tej stronie mówi inaczej: zastosowanie nie jest rozwojem, a powracającym wzorcem dziedziny są zapożyczone konstrukty używane jako słownik, a nie jako testowalne przewidywania. Rozróżnienie ma znaczenie, ponieważ zapożyczona rama, która nie potrafi wygenerować falsyfikowalnej różnicy, jest dekoracją, a nie teorią.
+
+**„Istniejące taksonomie pedagogicznej funkcji SI już obejmują to, co robią te systemy".** Nie obejmują znacznej części tego. Spośród 154 publikacji z klasyfikowalną funkcją zastosowania **90 (58,4%) wymykało się czterem kategoriom** wcześniejszej ramy — dlatego nowsze prace krzyżują funkcję z delegowaną kontrolą, pozycją epistemiczną i osadzoną pedagogiką. Taksonomia, która błędnie klasyfikuje prawie trzy na pięć przypadków, nie może służyć jako wspólny słownik dziedziny, a luka jest ustaleniem o zjawisku, a nie luką w artykule.

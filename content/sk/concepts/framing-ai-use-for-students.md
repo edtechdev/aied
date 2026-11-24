@@ -10,14 +10,18 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ Formulovanie sa spája s [[motivation|motiváciou]] prostredníctvom [[self-dete
 ## Médiá a verejné formulovanie
 
 Študentov formulujú aj širšie médiá a verejný diskurz o [[ai-education|AI vo vzdelávaní]], ktorý formuje ich základné očakávania ešte pred akoukoľvek správou vyučujúceho. Analýzy verejného diskurzu a toho, ako platformy ako YouTube formulujú používanie ChatGPT vo vzdelávaní, ukazujú, že prevládajúce rámce, teda hype, skaza alebo pragmatizmus, ovplyvňujú, ako študenti a [[teacher-role|učitelia]] pristupujú k technológii.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Účinné formulovanie zo strany vyučujúcich často znamená zámerne čeliť týmto okolitým naratívom alebo ich presmerovať.
+
+Rámec tiež ovplyvňuje hodnotu certifikátu ďalej v reťazci: s vzorkou asi 1 750 amerických odborníkov na výber zamestnancov vyznenie používania AI študentmi skôr ako náhrady ako pomoci znížilo pravdepodobnosť pracovného rozhovoru a ochotu vyjednávať o platových podmienkach, najviac u študentov s vysokým priemerom ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Praktické usmernenie
 

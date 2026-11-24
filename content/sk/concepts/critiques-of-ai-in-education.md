@@ -2,7 +2,7 @@
 title: Kritika AI vo vzdelávaní
 type: concept
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 research_method: [literature review]
 confidence: high
 foundations: [ai-education, philosophy-of-ai-in-education, theories-and-frameworks]
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Druhá skupina útočí na slovník, nie na stroj. Wang a Jin čítajú politick
 
 ## Infraštruktúra, transdukcia a nesprávne rozpoznanie
 
-Tretia skupina presúva pozornosť z nástroja na okolitú infraštruktúru. Watson, Morgner a Brezovec generatívnu AI zaobchádzajú ako infraštruktúru sprostredkujúcu zmysel a jej mechanizmus nazývajú *sémantickou transdukcí*: preformátovaním vzdelávacieho dopytu — promptu, zadania, rubriky, skúškovej otázky, žánra alebo politiky — do komunikačne presvedčivej podoby ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). Pretože transdukcia je selektívna, môže zahŕňať alebo vylúčať. Tri miesta sa opakujú: rozdiely v prístupe a schopnostiach; nesprávne rozpoznanie prostredníctvom šablón toho, ako by mal znieť dobrá odpoveď alebo dobrý študent; a normatívny drift v tom, čo sa považuje za pedagogiku. Vylúčenie je častejšie kliešťami než zákazom — inštitúcie zvyšujú očakávania o tempe, vylepšovaní a idiomatickoj plynulosti a zároveň zväzujú režimy autenticity.
+Tretia skupina presúva pozornosť z nástroja na okolitú infraštruktúru. Watson, Morgner a Brezovec generatívnu AI zaobchádzajú ako infraštruktúru sprostredkujúcu zmysel a jej mechanizmus nazývajú *sémantickou transdukcí*: preformátovaním vzdelávacieho dopytu — promptu, zadania, [[rubrics|rubriky]], skúškovej otázky, žánra alebo politiky — do komunikačne presvedčivej podoby ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). Pretože transdukcia je selektívna, môže zahŕňať alebo vylúčať. Tri miesta sa opakujú: rozdiely v prístupe a schopnostiach; nesprávne rozpoznanie prostredníctvom šablón toho, ako by mal znieť dobrá odpoveď alebo dobrý študent; a normatívny drift v tom, čo sa považuje za pedagogiku. Vylúčenie je častejšie kliešťami než zákazom — inštitúcie zvyšujú očakávania o tempe, vylepšovaní a idiomatickoj plynulosti a zároveň zväzujú režimy autenticity.
 
 ## Stanovenie agendy, simulovaná inovácia a experimentálne futurologia
 

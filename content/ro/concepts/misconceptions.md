@@ -1,7 +1,7 @@
 ---
 title: "Concepții greșite despre IA"
 created: "2026-11-12T04:00:00-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Introducere
 
-Concepțiile greșite despre IA contează pentru că sunt precursorul cognitiv al comportamentelor dăunătoare pe care baza de cunoștințe le documentează sub [[cognitive-offloading|supra-dependență]] și în problemele de [[academic-integrity|integritate academică]]. Oamenii rareori pornesc să [[ai-misuse-learning-harm|utilizeze greșit]] IA; o fac pentru că modelele mentale inexacte îi fac să plaseze greșit încrederea, să sară peste verificare și să trateze rezultatul ca înțelegere. În educație, aceste erori modelează totul, de la modul în care studenții învață până la modul în care profesorii și instituțiile proiectează curriculumul, [[assessment|evaluarea]] și politica.
+Concepțiile greșite despre IA contează pentru că sunt precursorul cognitiv al comportamentelor dăunătoare pe care baza de cunoștințe le documentează sub [[cognitive-offloading|supra-dependență]] și în problemele de [[academic-integrity|integritate academică]]. Oamenii rareori pornesc să [[ai-misuse-learning-harm|utilizeze greșit]] IA; o fac pentru că modelele mentale inexacte îi fac să plaseze greșit încrederea, să sară peste verificare și să trateze rezultatul ca înțelegere. În educație, aceste erori modelează totul, de la modul în care studenții învață până la modul în care profesorii și instituțiile proiectează curriculumul, [[assessment|evaluarea]] și politica. O lucrare separată contestă încadrarea care produce acele concepții greșite de la bun început; a se vedea [[critiques-of-ai-in-education|Critici ale IA în educație]].
 
 ## Ce sunt concepțiile greșite despre IA
 

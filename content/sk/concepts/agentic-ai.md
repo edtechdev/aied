@@ -12,8 +12,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -77,7 +81,7 @@ Kým [[agentic-ai-education-scoping-review|scoping review so 474 štúdiami]] a 
 
 Agentické architektúry kupujú pokrytie za merateľnú cenu v presnosti. Na benchmarku [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumaha a spol. (2026)]] s 926 vzorkami pracovných inzerátov a 1 696 zlatými štandardmi zručností viedol ReAct agent s nástrojom na vyhľadávanie v ESCO v rozšírenom recalli na 89,7 % oproti 83,7 % najlepšej generatívnej konfigurácie a 49,1 % najlepšieho embeddingového modelu. Jeho presnosť bola 22,7 %, čo nechalo F1 na 36,3 %, pod hodnotou nástrojovo ukotveného Gemini 2.5 Flash s 51,6 %, a bežal približne 16 sekúnd na vzorku. Recall je správnou metrikou vtedy, keď zoznam preosieva ľudský poradca; nesprostredkovaný výstup potrebuje ukotvenú alternatívu.
 
-- **Agentické známkovanie je otázkou spoľahlivosti skôr než pracovnej záťaže.** Nasadenie agentického Claude Code dostalo tri súbory rubrík a 60 naskenovaných ručne písaných písomiek zo stredného termínu z kurzu počítačovej grafiky. Jeho známky sa zhodovali s inštruktorom pri r = 0,97, s priemernou absolútnou chybou 0,85 známky z 20-bodovej písomky, priemerným pozitívnym skreslením AI 0,68 a test-retest ICC = 0,96 naprieč dvoma sedeniami s odstupom týždňa. Agregát skrýva, kde zlyháva: vážená kappa išla od 0,98 pri multiple choice po 0,65 pri hodnotiacich položkách, pričom ručne kreslené diagramy boli najslabším prípadom ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Jeden kurz, jeden inštruktor a jedna sada rubrík lokalizujú varianciu; nedokazujú, že agentické známkovanie zovšeobecňuje.
+- **Agentické známkovanie je otázkou spoľahlivosti skôr než pracovnej záťaže.** Nasadenie agentického Claude Code dostalo tri súbory [[rubrics|rubrík]] a 60 naskenovaných ručne písaných písomiek zo stredného termínu z kurzu počítačovej grafiky. Jeho známky sa zhodovali s inštruktorom pri r = 0,97, s priemernou absolútnou chybou 0,85 známky z 20-bodovej písomky, priemerným pozitívnym skreslením AI 0,68 a test-retest ICC = 0,96 naprieč dvoma sedeniami s odstupom týždňa. Agregát skrýva, kde zlyháva: vážená kappa išla od 0,98 pri multiple choice po 0,65 pri hodnotiacich položkách, pričom ručne kreslené diagramy boli najslabším prípadom ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Jeden kurz, jeden inštruktor a jedna sada rubrík lokalizujú varianciu; nedokazujú, že agentické známkovanie zovšeobecňuje.
 - **Weboví agenti ako hodnotitelia učebnej skúsenosti:** jediný autonómny „opisujúci" webový agent, ktorý prechádza online [[learning-design|lekciu]] ako študent — [[ai-web-agents-lesson-design-2025|Wang, Mitchell a Piech (2025)]] — vytvára opis natolik bohatý, že predpovedá odpadnutie študentov a dáva dizajnérovi použiteľnú spätnú väzbu ešte predtým, než sa zapoja skutoční študenti, pričom prekonáva plnú simulovanú kohortu aj všetky základy v globálnom kurze CS1. To stavia agentické hodnotenie (agent ako zástupný kritik učebnej skúsenosti) ako samostatné, lacné použitie agentickej AI popri agentoch, ktorí učia alebo navrhujú.
 
 ### Multiagentové systémy
@@ -142,6 +146,8 @@ Agentická AI predstavuje osobitné hrozby pre integritu, ktoré idú nad rámec
 
 To spája diskusiu o agentickej AI s pokrytím [[academic-integrity|akademickej integrity]] vo vedomostnej báze, ktoré rámcuje odpoveď ako prepracovanie hodnotenia a [[ai-literacy|AI gramotnosť]] a nie ako detekciu samotnú.
 
+- **Kontrolný artefakt môže byť napísaný aj agentom.** [[pinto-student-ownership-ai-agents-code-2026|Pinto a spol. (2026)]] nechali 18 študentských párov stavať systémy podľa vývoja riadeného špecifikáciou a zistili, že agenti napísali 69 % špecifikácií, ktoré mali študentov držať v kontrole, niekedy z pár slov promptu, takže špecifikácia, ktorá mala osvedčovať študenta, bola sama napísaná agentom.
+
 ## Produktívne trenie a sociálna interakcia
 
 Nie každé agentické správanie musí byť hladkou pomocou. [[ai-agents-constructive-conflict-design-education-2026|Výskum agentov adversariálneho dizajnu]] ukazuje, že agenti stelesňujúci **konštruktívny konflikt** podnietili významne viac iterácií dizajnu, širšie skúmanie alternatív a vyššie hodnotené konečné dizajny u začínajúcich dizajnérov interakcií (N = 48), čo je dynamika *produktívneho trenia*, v ktorej bol agent konfliktu frustrujúci, ale napokon nápomocný. To sa spája so [[socratic-method|sokratovským kladením otázok]] a s [[design-thinking|dizajnovým myslením]] a ukazuje, ako agentická AI môže podporiť hlboké prehodnotenie a nie pasívne prijatie.
@@ -160,6 +166,8 @@ Pre učiteľov, vysokoškolských pedagógov a [[learning-design|inštrukčných
 - **Budujte [[ai-literacy|AI gramotnosť]] vyučujúcich.** Učitelia a dizajnéri potrebujú presné mentálne modely agentickej AI, aby tieto systémy dokázali nastaviť, monitorovať a kritizovať, a aby modelovali zodpovedné používanie pre študentov. To sa spája s [[teacher-ai-competency|kompetenciou učiteľa v AI]] a s [[educational-development|rozvojom pedagogických pracovníkov]].
 - **Strážte rovnosť.** Agentické nástroje riskujú prehlbovanie medzier, ak je prístup nerovnaký alebo ak automatizácia eroduje podporu pre študentov, ktorí ju potrebujú najviac; navrhujte s ohľadom na [[equity-in-ai-education|rovnosť]].
 - **Postavte inštitucionálne lešenie skôr, než začnete škálovať.** Otázka nasadenia nie je len na úrovni dizajnu, ale aj inštitúcie. Syntéza [[baradziej-agentic-ai-higher-education-2026|Baradzieja (2026)]] zhŕňa dôkazy o riadení do troch pilierov: rozvíjať [[ai-literacy|AI gramotnosť]] u študentov *aj* zamestnancov; vybudovať [[ethics|etickú]] infraštruktúru (politiky ochrany dát, rámce algoritmickej zodpovednosti a akademickej integrity) *pred* rozsiahlym nasadením; a poskytnúť [[educational-development|vzdelávanie pedagógov]] založené na kompetenciách, ktoré ide nad rámec oboznámenia s nástrojmi k pedagogickým rámcom zachovávajúcim ľudskú agentúru. Keďže len približne 6,5 % pedagógov v niektorých národných kontextoch uvádza priame používanie AI, medzera vo vzdelávaní je limitujúcim obmedzením zodpovedného prijatia.
+
+- **Zmerajte, kde ľudia tieža hranicu delegovania.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang a Nedungadi (2026)]] robili randomizovaný behaviorálny experiment s výberom s 290 univerzitných pedagógov: 92 % delegovalo písanie otázok, ale len 20 % vydalo kvíz na platformu bez dohľadu a iba 5 % si zvolilo automatické zverejnenie. Preferované boli konfigurácie iba návrhov a s schvaľovaním, takže hranica leží pri nezvratných akciách platformy a nie pri generovaní obsahu.
 
 ### Techniky na zabezpečenie akademickej integrity pri agentickej AI
 

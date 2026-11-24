@@ -13,13 +13,17 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Pytania do rozważenia
 
-1. Jeśli student przyjmuje odpowiedź SI, która przypadkiem jest poprawna, czy zajęcia odniosły sukces? Co musiałoby być prawdą, aby samo przyjęcie było tym, co się liczy?
-2. Czy skalibrowany delegujący, który zna swoje ograniczenia, różni się rodzajowo od studenta, który po prostu nie potrafi odróżnić? Jak [[teacher-role|wykładowca]] odróżniłby jedno od drugiego w jednej pracy?
-3. Jeśli pewność rośnie, a trafność spada - jak dzieje się, gdy dostępna jest rada SI - co to robi z własnym wykrywaniem błędów przez ucznia?
-4. Gdzie weryfikacji można nauczyć, a gdzie jest ona problemem obciążenia pracą dla [[educational-policy-ai|polityki]]? Które części [[curriculum-design|programu nauczania]] musiałyby się zmienić, aby sprawdzanie stało się normą, a nie wyjątkiem?
-5. Czy instytucje powinny w ogóle mierzyć kapitulację, czy pomiar zaprasza ten sam nadzór, z którym zmagają się [[ai-use-disclosure|zasady ujawniania]]?
-6. Jak wyglądałoby zadanie, które nagradza studenta za odrzucenie błędnej odpowiedzi SI, a nie za wyprodukowanie wypolerowanej?
+- Jeśli student przyjmuje odpowiedź SI, która przypadkiem jest poprawna, czy zajęcia odniosły sukces? Co musiałoby być prawdą, aby samo przyjęcie było tym, co się liczy?
+- Czy skalibrowany delegujący, który zna swoje ograniczenia, różni się rodzajowo od studenta, który po prostu nie potrafi odróżnić? Jak [[teacher-role|wykładowca]] odróżniłby jedno od drugiego w jednej pracy?
+- Jeśli pewność rośnie, a trafność spada - jak dzieje się, gdy dostępna jest rada SI - co to robi z własnym wykrywaniem błędów przez ucznia?
+- Gdzie weryfikacji można nauczyć, a gdzie stanowi ona problem obciążenia pracą? Które części [[curriculum-design|programu nauczania]] musiałyby się zmienić, aby sprawdzanie stało się normą, a nie wyjątkiem?
+- Czy instytucje powinny w ogóle mierzyć kapitulację, czy pomiar zaprasza ten sam nadzór, z którym zmagają się [[ai-use-disclosure|zasady ujawniania]]?
+- Jak wyglądałoby zadanie, które nagradza studenta za odrzucenie błędnej odpowiedzi SI, a nie za wyprodukowanie wypolerowanej?
 
 ## Wprowadzenie
 

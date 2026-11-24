@@ -6,15 +6,19 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,17 +39,19 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Wprowadzenie
 
-To strona koncepcji poświęcona filozoficznym i teoretycznym fundamentom [[ai-education|SI w edukacji]]. Podczas gdy [[learning-theories|teorie uczenia się]] dokumentują teorie empiryczne i projektowe ([[behaviorism|behawioryzm]], [[constructivist|konstruktywizm]], [[cognitive-offloading|obciążenie poznawcze]], [[self-regulated-learning|samoregulowane uczenie się]] itd.), nurt filozoficzny zajmuje się pytaniami ontologicznymi, epistemologicznymi i etycznymi, które te teorie zakładają. Oba są blisko powiązane: stanowiska filozoficzne kształtują, które teorie uczenia się wydają się wiarygodne i które cele edukacyjne warto realizować.
+To strona koncepcji poświęcona filozoficznym i teoretycznym fundamentom [[ai-education|SI w edukacji]]. Podczas gdy [[learning-theories|teorie uczenia się]] dokumentują teorie empiryczne i projektowe ([[behaviorism|behawioryzm]], [[constructivist|konstruktywizm]], [[cognitive-offloading|obciążenie poznawcze]], [[self-regulated-learning|samoregulowane uczenie się]] itd.), nurt filozoficzny zajmuje się pytaniami ontologicznymi, epistemologicznymi i etycznymi, które te teorie zakładają. Oba są blisko powiązane: stanowiska filozoficzne kształtują, które teorie uczenia się wydają się wiarygodne i które cele edukacyjne warto realizować. Normatywny nurt tej pracy — argumenty o tym, w co sztuczna inteligencja w edukacji zamienia edukację — jest opisany na stronie [[critiques-of-ai-in-education|Krytyka sztucznej inteligencji w edukacji]].
 
-### Kluczowe pytania filozoficzne
+## Kluczowe pytania filozoficzne
 
 - **Natura umysłu i poznania.** Czy myślenie wymaga świadomości i ciała? Czy SI może uczestniczyć w prawdziwie poznawczych procesach? Ramy takie jak **poznanie zespołowe** argumentują, że SI sprawuje *sprawczość funkcjonalną* — prawdziwą przyczynową skuteczność w procesach poznawczych — bez świadomości, i że myślenie wyłania się z dynamicznej interakcji człowiek–[[student-ai-interaction|SI]].([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Poznanie rozproszone]] i teza o rozszerzonym umyśle wysuwają pokrewne twierdzenia o poznaniu rozłożonym na systemy.
 - **Czym jest uczący się?** Filozofia posthumanistyczna rekonceptualizuje uczącego się jako istotę „postludzką", której procesy poznawcze są naprawdę hybrydowe i rozproszone między systemami [[biology-education|biologicznymi]] i sztucznymi.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Podważa to założenie, że uczący się to ograniczony, autonomiczny indywidualny umysł.
 - **Ucieleśnienie i granice ucieleśnionej SI.** [[embodied-learning|Ucieleśniona]] i postkognitywistyczna filozofia krytykuje dominację symbolicznych, nieucieleśnionych modeli SI, argumentując, że poznanie jest zakorzenione w sytuacyjności, emergencji i sprzężeniu sensomotorycznym, których obecna [[generative-ai|generatywna SI]] nie ma.([[videla-embodied-ai-education-choreography]])
+- **Automatyzacja jako kontynuacja, nie przełom.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross i Aros (2026)]] argumentują, że sztuczna inteligencja pasuje do szkolnictwa, bo rozszerza kognitywistyczny i instruktażowy model traktujący uczenie się jako przetwarzanie informacji, a nauczanie jako transmisję; automatyzacja edukacji jest więc iluzją ontologiczną, która abstrahuje uczenie się od ucieleśnionych, relacyjnych warunków, w których powstaje znaczenie i odpowiedzialność.
 - **Praca emocjonalna jako przypadek testowy dla umysłów maszynowych.** Argumenty dziedziny o tym, czy SI może nauczać, często obracają się wokół tego, czy potrafi *troszczyć się* — pytania rozważanego na długo przed powstaniem [[affective-computing|afektywnego przetwarzania]]. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] rekonstruuje debatę z lat 1950–1996, w której twierdzenie Ziffa, że tylko istoty żywe mogą dosłownie mieć uczucia, zostało odpowiedziane teorią tożsamości Smarta i behawioralnym kryterium Putnama, pozostawiając nierozstrzygnięte trzy rywalizujące ontologie. Jego wniosek to ciężar uzasadnienia, a nie twierdzenie o niemożliwości — reprezentacja, symulacja i mimikra nie określają pracy emocjonalnej jednoznacznie — co przenosi ciężar na każdego, kto chciałby delegować pracę opiekuńczo-wychowawczą systemowi.
 - **Sprawczość, autorstwo i znaczenie.** Gdy SI zapośredniczy interpretację i tworzenie znaczenia, filozofia pyta, jak autorstwo, epistemiczna [[agency|sprawczość]] i autonomia interpretacyjna są przeformułowane.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **Ontologia obiektów naukowych generowanych przez SI.** W [[chemistry-education|chemii]] związki przewidywane przez SI i krzywe miareczkowania zajmują „liminalną przestrzeń ontologiczną" — ani całkowicie hipotetyczną, ani w pełni realną, dopóki nie zostaną empirycznie potwierdzone — co przesuwa dyscyplinę od realizmu ku konstruktywistycznemu poglądowi, w którym rzeczywistość jest współpracą człowieka i maszyny ([[philosophy-experimentation-ai-chemistry-2026|Reyes i Regala (2026)]]).
 - **Pasywność poznawcza jako szkoda epistemiczna.** Bai i Costa (2026) czerpią z Arendtowskiego ujęcia myślenia jako aktywności wewnętrznej i nieprzenoszalnej, by argumentować, że generatywna SI, która dostarcza pracę, nie tylko odciąża myślenie, lecz je zamyka, lokując ryzyko w strukturach instytucjonalnych przez pola i habitus Bourdieu ([[genai-chinese-higher-education-integrity-2026|Bai i Costa (2026)]]).
+- Obok tego ujęcia [[corbin-essay-time-genai-2026|Corbin i in. (2026)]] rekonstruują esej jako formę myślenia: próbę Montaigne'a, fragmenty Adorna, medytacyjne myślenie Heideggera — jego wartość tkwi w myśleniu, które akt pisania produkuje, a nie w tym, jaki produkt zostaje dostarczony.
 - **Wartości, sprawiedliwość i cel edukacji.** Analiza filozoficzna bada, czy edukacja napędzana SI służy ludzkiemu rozkwitowi i sprawiedliwości edukacyjnej, czy instrumentalizuje uczenie się w służbie produktywności.([[avraamidou-ai-colonization-science-education]]) Łączy się to z [[critical-pedagogy|pedagogiką krytyczną]] i [[ethics|etyką]].
 - **„Zorientowanie na człowieka" jako dyskurs antropocentryczny, a nie neutralna etyka.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang i Jin (2026)]] czytają dokumenty UNESCO, OECD i Deklarację montrealską, by argumentować, że zorientowany na człowieka AIED dziedziczy wykluczenia humanizmu oświeceniowego, że transhumanizm je zachowuje, a etykieta może legitymizować komercyjną infrastrukturę.
 
@@ -55,29 +61,19 @@ To strona koncepcji poświęcona filozoficznym i teoretycznym fundamentom [[ai-e
 - **Sprawczość bez odpowiedzialności.** Analiza dyskursu wspomagana korpusem 366 abstraktów o generatywnej SI w szkolnictwie wyższym stwierdza, że [[generative-ai|SI]] jest nazywana 2 050 razy i wchodzi w 447 ścisłych relacji podmiot–orzeczenie — najczęstszy aktor dziedziny — a jednak dominują w nich predykaty działania (78.7%) i żadne zdanie nie czyni systemu odpowiedzialnym: ze 166 wyrażeń zobowiązania żadne nie przypisało odpowiedzialności systemowi, a jedyna klauzula łącząca SI z rozliczalnością mówi, że SI nie jest rozliczalna. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] czyta to jako sprawczość funkcjonalną uznawaną w języku, bez relacyjnej odpowiedzialności, która przypisałaby ją komukolwiek.
 **Ani narzędzie, ani współpracownik: agent mediacyjny.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate i Ritchie (2026)]] argumentują, że nazywanie generatywnej SI zwykłym narzędziem umniejsza jej interakcyjny wpływ, a nazywanie jej współpracownikiem błędnie przyznaje jej intencjonalność i rozliczalność, i proponują *agenta mediacyjnego* — responsywny system nieponoszący odpowiedzialności, którego nowością jest uczestnictwo, a nie inteligencja.
 
-### Relacja z teoriami uczenia się
+## Relacja z teoriami uczenia się
 
 Filozofia SI w edukacji i [[learning-theories|teorie uczenia się]] to komplementarne soczewki. Teorie uczenia się wyjaśniają mechanizmy uczenia się (np. jak [[feedback|informacja zwrotna]], [[scaffolding|rusztowanie]] czy obciążenie poznawcze kształtują wyniki); filozofia przesłuchuje założenia tych mechanizmów — co liczy się jako wiedza, kto liczy się jako znawca i czym uczący się jest fundamentalnie. Prace posthumanistyczne i krytyczno-filozoficzne w szczególności stawiają dziedzinie wyzwanie, by wyszła poza instrumentalistyczne ramy, takie jak [[tpack|TPACK]] i SAM, ku głębszej reorientacji ontologicznej.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Relacja z rozwojem teorii
+## Relacja z rozwojem teorii
 
 Filozofia SI w edukacji i [[theory-development-aied|rozwój teorii w AIED]] są komplementarne, ale odrębne. Filozofia stawia pytania ontologiczne i epistemologiczne — czym umysł, wiedza i uczący się są fundamentalnie w warunkach zapośredniczonych przez SI — podczas gdy rozwój teorii tworzy i empirycznie testuje *mechanizmy*, które operacjonalizują odpowiedzi na te pytania (generatywizm, epistemiczna współsprawczość, nieobecna poznawcza linia bazowa). Oba wzajemnie się informują: filozofia wyjaśnia założenia, które teorie niosą (np. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemiczna współsprawczość]] zakłada rozproszony, nieindywidualistyczny model poznania), a rozwój teorii nadaje stanowiskom filozoficznym testowalną, falsyfikowalną formę. Najbardziej fundamentalne artykuły dziedziny robią oba naraz, leżąc na granicy między tymi dwiema koncepcjami.
-
-## Częste błędne wyobrażenia
-
-**„Filozofia SI w edukacji to to samo co katalogowanie teorii uczenia się".** Leżą na różnych głębokościach. Strona [[learning-theories|teorii uczenia się]] pyta *jak zachodzi uczenie się*; filozofia pyta *czym uczenie się, umysł i uczący się są fundamentalnie* w warunkach zapośredniczonych przez SI. Badanie może rozstrzygnąć pytanie teorii uczenia się i pozostawić pytanie filozoficzne nietknięte, dlatego technicznie udana interwencja może nadal być niewłaściwą rzeczą do zrobienia.
-
-**„Odciążanie poznawcze to szkoda, którą można odwrócić większym wysiłkiem".** Dostępne jest mocniejsze twierdzenie. Bai i Costa (2026) czerpią z Arendtowskiego ujęcia myślenia jako aktywności wewnętrznej i nieprzenoszalnej, by argumentować, że generatywna SI, która *dostarcza* pracę, nie tylko odciąża myślenie, lecz je zamyka — i lokują ryzyko instytucjonalnie, przez pola i habitus Bourdieu, a nie w indywidualnej sile woli. Jeśli argument się utrzymuje, „używaj ostrożnie" nie jest wystarczającym lekarstwem, bo praktykę kształtuje pole, które nagradza wynik.
-
-**„Filozofia nie-zachodnia to treść do dodania do niezmienionych ram".** Może być źródłem innych fundamentów. Jedna rekonstrukcja traktuje pojęcia daoistyczne — „naturę Dao" (道性), samokultywację (修道) i „Zhenren" (真人) — nie jako „wschodnią treść" dołączoną do zachodnich ram, lecz jako zasoby, które przekształcają koncepcyjne fundamenty, przez które rozumie się SI w edukacji. Dodanie tradycji jako ilustracji i użycie jej do przeformułowania pytań to różne akty naukowe.
-
-**„Krytyka filozoficzna jest nieprzekładalna na działanie".** Ustala, co liczy się jako sukces. Czy wynik systemu jest osiągnięciem uczącego się, i czy zmierzony zysk jest dobrem edukacyjnym, to pytania wcześniejsze, na które żadna wielkość efektu nie odpowie — a instytucje, które je pomijają, będą optymalizować to, co mierzalne, i nazywać to poprawą.
 
 ## Implikacje dla praktyki
 
 **Dla wykładowców**
 
-- Zdecyduj, zanim przyjmiesz narzędzie, co jesteś gotów uznać za własne osiągnięcie studenta. Jeśli wypolerowana praca wyprodukowana przez system zadowoliłaby Twoje ocenianie, odpowiedziałeś „nic" — i żadna późniejsza zmiana rubryki nie odzyska tego pytania.
+- Zdecyduj, zanim przyjmiesz narzędzie, co jesteś gotów uznać za własne osiągnięcie studenta. Jeśli wypolerowana praca wyprodukowana przez system zadowoliłaby Twoje ocenianie, odpowiedziałeś „nic" — i żadna późniejsza [[rubrics|zmiana rubryki]] nie odzyska tego pytania.
 - Traktuj argument o zamykaniu poważnie przy projektowaniu zadań: jeśli generatywna SI, która dostarcza pracę, zamyka myślenie, a nie tylko je odciąża, to „używaj odpowiedzialnie" nie jest wystarczającym zabezpieczeniem, bo otaczające pole nagradza wynik. Projektuj zadania, których dowód myślenia powstaje, zanim narzędzie jest dostępne.
 - Zapytaj, czyje pojęcie uczenia się koduje Twój kurs. Bezkrytyczne przyjęcie ram importuje ich założenia o tym, czym jest uczący się, a te założenia są sporne.
 
@@ -91,3 +87,13 @@ Filozofia SI w edukacji i [[theory-development-aied|rozwój teorii w AIED]] są 
 
 - Nazwij pojęcie uczenia się, które zakłada Twoja ewaluacja, bo zmierzony zysk jest dobrem edukacyjnym tylko względem jakiegoś ujęcia tego, po co jest edukacja.
 - Finansuj pracę filozoficzną obok pracy empirycznej: pytania o to, co liczy się jako osiągnięcie uczącego się, ustalają kryteria sukcesu, których potem używają badania empiryczne.
+
+## Częste błędne wyobrażenia
+
+**„Filozofia SI w edukacji to to samo co katalogowanie teorii uczenia się".** Leżą na różnych głębokościach. Strona [[learning-theories|teorii uczenia się]] pyta *jak zachodzi uczenie się*; filozofia pyta *czym uczenie się, umysł i uczący się są fundamentalnie* w warunkach zapośredniczonych przez SI. Badanie może rozstrzygnąć pytanie teorii uczenia się i pozostawić pytanie filozoficzne nietknięte, dlatego technicznie udana interwencja może nadal być niewłaściwą rzeczą do zrobienia.
+
+**„Odciążanie poznawcze to szkoda, którą można odwrócić większym wysiłkiem".** Dostępne jest mocniejsze twierdzenie. Bai i Costa (2026) czerpią z Arendtowskiego ujęcia myślenia jako aktywności wewnętrznej i nieprzenoszalnej, by argumentować, że generatywna SI, która *dostarcza* pracę, nie tylko odciąża myślenie, lecz je zamyka — i lokują ryzyko instytucjonalnie, przez pola i habitus Bourdieu, a nie w indywidualnej sile woli. Jeśli argument się utrzymuje, „używaj ostrożnie" nie jest wystarczającym lekarstwem, bo praktykę kształtuje pole, które nagradza wynik.
+
+**„Filozofia nie-zachodnia to treść do dodania do niezmienionych ram".** Może być źródłem innych fundamentów. Jedna rekonstrukcja traktuje pojęcia daoistyczne — „naturę Dao" (道性), samokultywację (修道) i „Zhenren" (真人) — nie jako „wschodnią treść" dołączoną do zachodnich ram, lecz jako zasoby, które przekształcają koncepcyjne fundamenty, przez które rozumie się SI w edukacji. Dodanie tradycji jako ilustracji i użycie jej do przeformułowania pytań to różne akty naukowe.
+
+**„Krytyka filozoficzna jest nieprzekładalna na działanie".** Ustala, co liczy się jako sukces. Czy wynik systemu jest osiągnięciem uczącego się, i czy zmierzony zysk jest dobrem edukacyjnym, to pytania wcześniejsze, na które żadna wielkość efektu nie odpowie — a instytucje, które je pomijają, będą optymalizować to, co mierzalne, i nazywać to poprawą.

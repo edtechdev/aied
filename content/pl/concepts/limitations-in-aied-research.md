@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Jak bardzo zaufałbyś nagłówkowi typu „korepetycje SI poprawiają uczenie się o 30%", gdybyś dowiedział się, że pochodzi od 30 studentów na jednym kursie w jednej instytucji? Strona wskazuje uogólnialność i małe próby jako powracające ograniczenia — co chciałbyś wiedzieć, zanim zadziałasz na podstawie pojedynczego ustalenia?
 - Uderzającym ograniczeniem jest „problem tempa": SI ewoluuje szybciej, niż publikowane są ustalenia, więc badanie jednej generacji modeli może już opisywać przestarzały system. Jak powinno to zmienić zaufanie, które pokładasz w badaniach nad edukacją SI?
 - Wiele badań opiera się na [[self-report-measures|samoopisowych]] postawach i sposobie korzystania, które są obciążone — ludzie przeceniają swoje kompetencje i zaniżają nadużycia. Czy zdarzyło Ci się odpowiedzieć w ankiecie o własnych umiejętnościach lub zachowaniu w sposób, który nie odpowiadał rzeczywistości? Dlaczego miary oparte na percepcji tak często rozchodzą się z obiektywnym wykonaniem?
-- Strona zauważa, że znane ramy, takie jak taksonomia Blooma, są często błędnie czytane jako ścisłe drabiny, a nawet szeroko stosowane teorie, jak teoria [[cognitive-offloading|obciążenia poznawczego]], zostały zakwestionowane. Kiedy widziałeś teorię przywoływaną jako ustaloną prawdę w kontekście, w którym jej własne dowody były w rzeczywistości sporne?
+- Strona zauważa, że znane ramy, takie jak [[bloom-taxonomy|taksonomia Blooma]], są często błędnie czytane jako ścisłe drabiny, a nawet szeroko stosowane teorie, jak teoria [[cognitive-offloading|obciążenia poznawczego]], zostały zakwestionowane. Kiedy widziałeś teorię przywoływaną jako ustaloną prawdę w kontekście, w którym jej własne dowody były w rzeczywistości sporne?
 - Większość badań nad SI opiera się na własnościowych, nieprzejrzystych modelach, których danych i aktualizacji nie możesz zbadać. Jeśli nie możesz zweryfikować, który dokładnie model wytworzył wynik, jak bardzo możesz ufać twierdzeniom na nim zbudowanym — i co uczyniłoby ustalenia bardziej powtarzalnymi?
 - Jeśli jesteś wykładowcą lub projektantem bez czasu na czytanie badań pierwotnych, jak decydujesz, które twierdzenia o SI są wystarczająco wiarygodne, by zmienić Twoją praktykę — biorąc pod uwagę, że literatura jest rozdrobniona, tymczasowa i pisana dla badaczy?
 
 ## Wprowadzenie
 
-SI w edukacji to szybko zmieniająca się, heterogeniczna dziedzina, a jej baza dowodowa niesie ze sobą charakterystyczny zestaw ograniczeń, które badacze, praktycy i decydenci powinni ważyć, korzystając z każdego ustalenia. Część z nich jest wspólna z szerszą literaturą [[learning-sciences|nauk o uczeniu się]] i psychologii; inne są wzmocnione lub swoiste ze względu na naturę samej SI. Ta strona porządkuje je w czterech obszarach przekrojowych.
+SI w edukacji to szybko zmieniająca się, heterogeniczna dziedzina, a jej baza dowodowa niesie ze sobą charakterystyczny zestaw ograniczeń, które badacze, praktycy i decydenci powinni ważyć, korzystając z każdego ustalenia. Część z nich jest wspólna z szerszą literaturą [[learning-sciences|nauk o uczeniu się]] i psychologii; inne są wzmocnione lub swoiste ze względu na naturę samej SI. Ta strona porządkuje je w czterech obszarach przekrojowych. To problemy dowodu; osobny zbiór argumentów o celach, jakim ten dowód służy, znajduje się na stronie [[critiques-of-ai-in-education|Krytyka sztucznej inteligencji w edukacji]].
 
 ## Ograniczenia metodologiczne
 
@@ -65,6 +69,9 @@ Strona bazy wiedzy poświęcona [[research-methods-aied|metodom badawczym]] szcz
 
 - **Etykiety generowane przez model nie są prawdą odniesienia.** Gdy etykiety, które trenują lub oceniają system, są same produkowane przez modele językowe, zgodność między anotatorami nie może ustalić trafności: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado i wsp. (2026)]] nigdy nie zwalidowali swoich adnotacji asercji wobec ludzkich etykiet referencyjnych, a 49 udostępnianych przez nich klasyfikatorów enkoderowych dziedziczy to pochodzenie i może nie być trafnych tam, gdzie aplikacje różnią się w istotnych wymiarach. Ich schemat także wyraźnie ustępował dostrojonemu klasyfikatorowi trenowanemu na danych anotowanych przez ekspertów (macro-F1 0.673 wobec 0.76), co pozostawia korpusy etykietowane przez ekspertów wartościowymi, gdy wymagana jest wysoka pewność.
 - **Sama baza dowodowa jest nierównomiernie rozłożona.** Przegląd zakresowy 407 badań nad [[formative-assessment|ocenianiem kształtującym]] wspieranym technologią korzystał tylko z Web of Science i Scopus. Wykluczył też 61 rekordów na podstawie kryteriów językowych, więc nierównowaga geograficzna raportowana przez dziedzinę może częściowo odzwierciedlać to, które miejsca są indeksowane ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Brakuje projektu z trzema warunkami.** W dwunastu przejrzanych badaniach GenAI żadne nie mierzyło wyniku wspieranego równolegle z natychmiastowym i odroczonym testem bez SI ze zweryfikowanym wykluczeniem, więc zyski wspierane nigdy nie są powiązane z retencją ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Wykonalność to klasa wyniku, a nie prezentacja.** Pilot z dwiema kohortami symulowanego przez SI pacjenta rekrutował 19 z 72 zaproszonych studentów (26%), zrealizował każde spotkanie i ankietę (100%) i nie zakończył żadnej sesji z powodu awarii technicznej — prawdziwe wyniki, ale wyniki dotyczące wykonalności i akceptowalności zostały zdefiniowane po zbieraniu danych, a kryteria progresji nie były wstępnie określone ([[tischkau-ai-simulated-patient-formats-2026|Tischkau i wsp. (2026)]]). Wskaźnik ukończeń jest informacyjny tylko wobec kryteriów ustalonych z góry; inaczej „działało” i „było skuteczne” to to samo zdanie.
 
 ## Problem tempa: SI zmienia się szybciej niż ustalenia
 
@@ -121,6 +128,8 @@ Dwie konkretne praktyki raportowania zawyżają lub zniekształcają syntezę, i
 **Nagłówkowy odsetek może być artefaktem terminów wyszukiwania.** Przegląd zakresowy 195 badań kształcenia nauczycieli uczynił kompetencję cyfrową i [[tpack|TPACK]] wyraźnymi deskryptorami wyszukiwania, podczas gdy projektowanie nauczania i ocenianie nie miały równoważnego terminu, więc raportowane **46.5% i 1.9%** to wskaźniki skonstruowane przez samo zapytanie. Twierdzenie o rozpowszechnieniu jest tak sensowne, jak wyszukiwanie za nim.
 
 **A wskaźnik bazowy to liczba, której nikt nie podaje.** Ograniczenia metodologiczne są tu mierzalne, a nie impresjonistyczne: w krytycznym przeglądzie 80 badań HCI nad myśleniem krytycznym z SI **42 (52%) nie miały grupy kontrolnej**, a większość pozostałych opierała się na samoopisie. Gdy ponad połowa pozytywnych ustaleń dziedziny pochodzi z projektów, które nie potrafią oddzielić efektu SI od zwykłej aktywności, właściwym priorem dla każdego pojedynczego ustalenia jest sceptycyzm, a nie warunkowa akceptacja.
+
+Praktyczną konsekwencją tych ograniczeń jest to, że kilka powszechnie stosowanych praktyk edukacyjnych opiera się na dowodach, których nie mogą udźwignąć; [[what-not-to-do-ai-education|czego edukatorzy powinni unikać przy używaniu SI]] zbiera te praktyki według ról i wymienia konkretne ograniczenie za każdą ostrożnością.
 
 ## Częste błędne wyobrażenia
 

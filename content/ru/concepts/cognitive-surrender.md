@@ -1,6 +1,7 @@
 ---
 title: Когнитивная капитуляция
 created: "2026-10-13T20:20:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -24,6 +25,10 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
@@ -34,12 +39,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Вопросы для размышления
 
-1. Когда студент принимает ответ ИИ, который случайно оказывается верным, можно ли считать, что занятие прошло успешно? Что должно было бы быть правдой, чтобы сам факт принятия имел значение?
-2. Отличается ли по своей природе откалиброванный делегирующий, знающий собственные пределы, от студента, который просто не может их распознать? Как [[teacher-role|преподавателю]] отличить одно от другого по одной-единственной работе?
-3. Если уверенность растёт, а точность падает — как это и происходит при доступности советов ИИ, — что при этом происходит со способностью учащегося обнаруживать собственные ошибки?
-4. Где проверяемость преподаваема, а где это проблема нагрузки, относящаяся к [[educational-policy-ai|политике]]? Какие части [[curriculum-design|учебной программы]] пришлось бы изменить, чтобы проверка стала нормой, а не исключением?
-5. Следует ли учреждениям вообще измерять капитуляцию, или само измерение провоцирует то же наблюдение, с которым борются [[ai-use-disclosure|правила раскрытия]]?
-6. Как выглядело бы задание, поощряющее студента за отмену неверного ответа ИИ, а не за создание отполированного ответа?
+- Когда студент принимает ответ ИИ, который случайно оказывается верным, можно ли считать, что занятие прошло успешно? Что должно было бы быть правдой, чтобы сам факт принятия имел значение?
+- Отличается ли по своей природе откалиброванный делегирующий, знающий собственные пределы, от студента, который просто не может их распознать? Как [[teacher-role|преподавателю]] отличить одно от другого по одной-единственной работе?
+- Если уверенность растёт, а точность падает — как это и происходит при доступности советов ИИ, — что при этом происходит со способностью учащегося обнаруживать собственные ошибки?
+- Где проверяемость преподаваема, а где это проблема нагрузки? Какие части [[curriculum-design|учебной программы]] пришлось бы изменить, чтобы проверка стала нормой, а не исключением?
+- Следует ли учреждениям вообще измерять капитуляцию, или само измерение провоцирует то же наблюдение, с которым борются [[ai-use-disclosure|правила раскрытия]]?
+- Как выглядело бы задание, поощряющее студента за отмену неверного ответа ИИ, а не за создание отполированного ответа?
 
 ## Введение
 

@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Introducere
 
-### Gândirea computațională într-o sală de clasă din era IA
+## Gândirea computațională într-o sală de clasă din era IA
 
 Articolele conexe din baza de cunoștințe converg spre o afirmație centrală: gândirea computațională (GC) este fundamentul conceptual de care studenții au nevoie pentru a se angaja critic cu IA și este totodată competența aprofundată cel mai direct de o învățare bine proiectată cu sprijin IA. Mai jos, dovezile sunt grupate în patru teme fundamentate pe articolele conexe.
 
@@ -53,7 +57,22 @@ Competențele durabile se schimbă odată ce implementarea este automatizată: u
 
 - **Un instrument validat arată unde GC este cea mai dificilă.** Un test de gândire computațională cu 34 de itemi, construit prin Designul Centrat pe Dovezi și validat prin teoria răspunsului la itemi pe 461 de studenți la programare cu IA, a concentrat dificultatea în reprezentarea datelor, secvențierea operatorilor logici și structurile de bucle, iar nu uniform în programa analitică ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
 
-### GC și trecerea de la consumatori de IA la producători, creatori și designeri
+- **Alegerea măsurătorii schimbă verdictul:** intrările despre gândire computațională și critică au ajuns la concluzii discordante sau mixte în 13 din 23 de perechi cu același construct, astfel încât un chestionar GC auto raportat și o măsurătoare pe sarcină nu coincid adeseori ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+- Gândirea computațională este măsurată și ca dispoziție: într-un studiu de joc cu elevi de clasa a cincea, pe trei săptămâni, tendințele GC auto raportate ajustate au favorizat clasa GenAI, 4,325 față de 4,037 (p = ,046, eta pătrat parțial = ,052, n = 78). Un test de cunoștințe algorithmice nu i-a separat (80,7 față de 74,9), astfel încât măsurătorile de tendință și cunoștințe au urmărit constructe diferite ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
+
+Profilurile pe sub-competențe complică scorul GC unic pe care îl raportează un design pre-post. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij și Khlaisang (2026)]] au urmărit 28 de studenți thailandezi în afara calculatoarelor, pe opt săptămâni de sesiuni de trei ore care îmbinau un ciclu [[design-thinking|de gândire de design]] în cinci pași cu construirea de aplicații low-code, punctând lucrările de proiect pe o [[rubrics|rubrică]] cu trei puncte. Gândirea computațională medie a crescut de la 1,13 în prima sesiune la 1,80 și apoi 2,49, gândirea algorithmică fiind cea mai puternică dimensiune, la 2,08, cu o traiectorie de la 1,46 la 1,93 și 2,86. Gândirea logică a avut medie 1,54 și s-a mișcat abia între primele două sesiuni, de la 1,04 la 1,29, înainte de a atinge 2,29 în a treia — o reamintire că câștigurile dintr-o componentă nu implică faptul că celelalte au urmat.
+
+## Gândirea sistemică ca practică de GC
+
+Gândirea sistemică este unul dintre cele patru domenii ale taxonomiei gândirii computaționale pentru matematică și științe dezvoltată de Weintrop și colegii, alături de Practicile de date, Practicile de rezolvare computațională a problemelor și Practicile de modelare și simulare. Definirea sa este precisă: **capacitatea de a defini granițele sistemului și de a sintetiza interacțiunile la nivel micro în comportament la nivel macro**. Aceasta este o capacitate cognitivă la nivel de învățăcel — un mod de a raționa despre un sistem — și se deosebe de poziția la nivel de mediu de a trata mediul de învățare ca pe un sistem ([[learning-environments-as-systems|mediile de învățare ca sisteme]]).
+
+Este și domeniul în care evaluarea se rupe prima dată. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch și Rebello (2026)]] au codificat explicațiile scrise a 936 de studenți dintr-un curs introductiv de fizică computațională după taxonomie, calibrând o bază umană pe 10 studenți (60 de răspunsuri, κ Fleiss = 0,53) și apoi codificând 50 de studenți (300 de răspunsuri) prin vot majoritar. Studenții au progresat cel mai mult la Practicile de date (p < 0,001, d = 1,03), cu câștiguri moderate la Rezolvarea computațională a problemelor (d = 0,52) și la Gândirea sistemică (d = 0,45). Dar Gândirea sistemică a fost constructul cel mai puțin fiabil atât pentru oameni, cât și pentru modele: acordul uman κ = 0,51 și κ LLM = 0,48, față de κ = 0,90 pentru Practicile de date și κ = 0,78 pentru Modelare și simulare. Citirea autorilor este că dificultatea vine de la complexitatea constructului, nu de la deficiența modelului — un construct multi-componentă care cere unui student să identifice componente *și* să explice interacțiunile și consecințele lor este mai greu de codificat decât unul bine definit. Modelarea și simularea a arătat d = 0,00 din un motiv fără legătură, un efect de tavan: media pre-instrucție era deja 1,62 din 2, astfel încât acel item măsura cunoștințele de bază, nu creșterea.
+
+Implicația practică este o problemă de proiectare a rubricii, nu una de model. Recomandarea lor este de a rescrie rubrica astfel încât identificarea componentelor sistemului să fie punctată separat de explicarea modului în care acele componente interacționează, și de a citi acordul automat scăzut pe un construct integrat ca pe un semnal de revizuire a instrumentului, nu de abandonare a automatizării. Este aceeași mișcare la care ajunge cercetarea [[rubrics|a rubricilor]] din partea de punctare: instrumentul, nu modelul, este ceea ce calibrează.
+
+Constructul călătorește dincolo de fizică. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz și Castro Samayoa (2026)]] numesc gândirea sistemică una dintre capacitățile pe care Aoun le numește *rezistente la roboți* — gândirea critică, gândirea sistemică și agilitatea culturală — pe care le construiește practica și pe care delegarea nu le construiește. [[huang-ai-literacy-vocational-problem-solving-2026|Huang și colegii (2026)]] își delimitează propriul construct de „gândire sistematică” față de el, tratându-l ca o măsură îngustă pe patru dimensiuni (structurare, raționament, prioritizare, integrare) și refuzând explicit să-l numească gândire sistemică în sens larg. Iar [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea și Valencia-Silva (2026)]] avertizează că implicarea nu este gândire sistemică — o distincție importantă atunci când o rubrică este folosită pentru a certifica o competență pentru care nu a fost scrisă.
+
+## GC și trecerea de la consumatori de IA la producători, creatori și designeri
 
 Un obiectiv central pentru GC în era IA este să îi ducă pe studenți și pe instructori dincolo de *consumul pasiv* al rezultatelor IA, spre *crearea, construirea și proiectarea* cu IA și pentru IA, o agendă care aliniază GC cu învățarea construcționistă (învățarea prin a face). Articolele conexe din baza de cunoștințe fac din ce în ce mai explicită această întoarcere spre producător, creator și designer. [[ai-writes-code-student-writes-model-2026|Cercetarea privind paternitatea modelului]] reîncadrează învățarea prin construcție cu GenAI ca proces măsurabil de „paternitate a modelului”: studenții creează, depanează și iterează modele de IA, iar nu doar consumă cod sau răspunsuri generate de IA. [[code-to-learn-genai-artifact-construction-2026|Cadrul CtL-GenAI]] operaționalizează această abordare ca [[constructivist|construcționism]] pentru era GenAI, tratând artefactele pe care studenții le construiesc cu IA drept motorul dezvoltării GC. [[computational-thinking-ai-agent-creation|GC prin crearea de agenți de IA]] arată că proiectarea, iar nu doar folosirea agenților de IA, exersează direct descompunerea, abstractizarea și raționamentul algoritmic.
 
@@ -63,11 +82,11 @@ Concluzia practică este că instruirea în GC ar trebui proiectată astfel înc
 
 Reutilizarea modelelor altora ține de poziția de producător: implementarea unui model de IA publicat (selectarea, instalarea, rularea și validarea lui) poate fi predată ca o competență structurată, învățabilă, cu o rută de rezervă pentru fiecare eșec anticipat, iar trei studenți de licență la [[chemistry-education|chimie]] fără pregătire în programare au reprodus și extins un model de predicție a interacțiunii enzimă-substrat în patru luni ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Îndrumări practice
+## Îndrumări practice
 
 Pentru educatori, mesajul constant este că GC se dezvoltă prin angajament *explicit, sprijinit și observabil*, iar nu prin folosirea pasivă a IA. Îmbină robotica cu o corelare explicită a conceptelor de GC la curriculum; folosește LLM-urile pentru [[simulation|simulare]], control în limbaj natural și evaluarea scalabilă a creșterii GC, rezervând judecata umană pentru constructe precum gândirea sistemică; și reproiectează evaluările astfel încât să pună accent pe evaluarea și diagnosticarea rezultatului IA, mai degrabă decât pe generarea brută. Oricare ar fi contextul (joc neconectat în educația timpurie, roboți în [[stem-education|educația STEM]] secundară sau tutori virtuali în [[higher-ed|învățământul superior]]), structurează activitatea astfel încât studenții să raționeze despre descompunere, tipar, abstractizare și algoritm, iar nu să primească soluții gata făcute.
 
-### Conexiuni cu concepte înrudite
+## Conexiuni cu concepte înrudite
 
 Gândirea computațională este fundamentul cognitiv comun sub [[ai-literacy|alfabetizarea în IA]] și [[critical-thinking|gândirea critică]], nucleul curricular al [[cs-education|educației informatice]] și al informaticii din [[k-12]], și ținta conceptuală pe care [[educational-robotics|robotica educațională]], [[game-based-learning|învățarea bazată pe joc]] și [[project-based-learning|învățarea bazată pe proiecte]] sunt cel mai bine proiectate să o servească. Este aprofundată de [[llm|modelele lingvistice mari]] și de [[generative-ai|IA generativă]] atunci când acestea sunt folosite ca instrumente de sprijinire și este competența pe care taxonomiile concepțiilor greșite ale studenților și evaluările conștiente de GC urmăresc să o măsoare. Profesorii o dezvoltă prin [[teacher-education|formarea profesorilor]] și [[professional-training|formarea profesională]], iar ea se transferă între domenii, inclusiv în [[physics-education|fizică]] și în [[stem-education|STEM]] în general.
 

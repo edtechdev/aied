@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Cât ai avea încredere într-un titlu precum „Tutoriatul cu IA îmbunătățește învățarea cu 30%” dacă ai afla că provine de la 30 de studenți dintr-un singur curs, la o singură instituție? Pagina semnalează generalizabilitatea și eșantioanele mici ca limite recurente — ce ai vrea să știi înainte de a acționa pe baza unei singure constatări?
 - O limitare izbitoare este „problema vitezei”: IA evoluează mai repede decât se publică constatările, așa că un studiu despre o generație de modele poate descrie deja un sistem obsolet. Cum ar trebui să schimbe aceasta încrederea pe care o acorzi cercetării din educația IA?
 - Multe studii se bazează pe atitudini și utilizare [[self-report-measures|autoevaluate]], care sunt părtinitoare — oamenii își supraestimează competența și raportează prea puțin utilizarea necorespunzătoare. Ai răspuns vreodată la un sondaj despre propriile competențe sau comportament într-un mod care nu corespundea realității? De ce divergează atât de des măsurătorile bazate pe percepție de performanța obiectivă?
-- Pagina notează că cadre familiare precum taxonomia lui Bloom sunt adesea citite greșit ca scări stricte și că până și teorii larg folosite precum teoria [[cognitive-offloading|încărcării cognitive]] au fost contestate. Când ai văzut o teorie invocată ca adevăr stabilit într-un context în care dovezile ei erau de fapt contestate?
+- Pagina notează că cadre familiare precum [[bloom-taxonomy|taxonomia lui Bloom]] sunt adesea citite greșit ca scări stricte și că până și teorii larg folosite precum teoria [[cognitive-offloading|încărcării cognitive]] au fost contestate. Când ai văzut o teorie invocată ca adevăr stabilit într-un context în care dovezile ei erau de fapt contestate?
 - Cea mai mare parte a cercetării despre IA depinde de modele proprietare, opace, ale căror date și actualizări nu le poți inspecta. Dacă nu poți verifica exact ce model a produs un rezultat, cât de mult poți avea încredere în afirmațiile construite pe el — și ce ar face constatările mai reproductibile?
 - Dacă ești instructor sau designer fără timp să citești cercetarea primară, cum decizi care afirmații despre IA sunt suficient de demne de încredere pentru a-ți schimba practica — dat fiind că literatura este fragmentată, provizorie și scrisă pentru cercetători?
 
 ## Introducere
 
-IA în educație este un domeniu care se mișcă rapid și este eterogen, iar baza sa de dovezi poartă un set distinctiv de limitări pe care cercetătorii, practicienii și factorii de decizie politică ar trebui să le cântărească atunci când folosesc orice constatare. Unele sunt comune cu literatura mai largă din [[learning-sciences|științele învățării]] și psihologie; altele sunt amplificate sau făcute unice de natura IA înseși. Această pagină le organizează în patru arii transversale.
+IA în educație este un domeniu care se mișcă rapid și este eterogen, iar baza sa de dovezi poartă un set distinctiv de limitări pe care cercetătorii, practicienii și factorii de decizie politică ar trebui să le cântărească atunci când folosesc orice constatare. Unele sunt comune cu literatura mai largă din [[learning-sciences|științele învățării]] și psihologie; altele sunt amplificate sau făcute unice de natura IA înseși. Această pagină le organizează în patru arii transversale. Acestea sunt probleme ale dovezilor; un corpus separat de argumente despre scopurile pe care dovezile le servesc este adunat sub titlul [[critiques-of-ai-in-education|Critici ale IA în educație]].
 
 ## Limitări metodologice
 
@@ -61,6 +65,9 @@ Pagina de [[research-methods-aied|metode de cercetare]] a bazei de cunoștințe 
 - **Standardizarea în interiorul fiecărui set de date poate ascunde o declarație greșită despre dispersie.** Când cohortele educaționale sintetice au fost standardizate după propria dispersie, faptul că structura lor săptămânală varia de 2,6 până la 4,9 ori mai puțin decât cea a cohortelor reale a devenit invizibil pentru statisticile raportate — preprocesare de rutină, în cuvintele autorilor, nu o îngrijorare ipotetică ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 - **Etichetele generate de modele nu sunt adevăr de referință.** Acolo unde etichetele care antrenează sau evaluează un sistem sunt ele însele produse de modele de limbaj, acordul între adnotatori nu poate stabili validitatea: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] nu au validat niciodată adnotările lor de afirmații față de etichete umane de referință, iar cei 49 de clasificatori encoder pe care îi publică moștenesc acea proveniență și pot să nu fie valizi acolo unde aplicațiile diferă în dimensiuni semnificative. Schema lor a avut de asemenea rezultate strict inferioare clasificatorului fin-reglat antrenat pe date adnotate de experți (macro-F1 0,673 față de 0,76), ceea ce lasă corpusurile etichetate de experți valoroase atunci când este cerută încredere ridicată.
 - **Baza de dovezi în sine este distribuită inegal.** O recenzie de scop asupra a 407 studii de [[formative-assessment|evaluare formativă]] sprijinită de tehnologie s-a bazat doar pe Web of Science și Scopus. A exclus și 61 de înregistrări pe criterii de limbă, așa că dezechilibrul geografic pe care îl raportează domeniul poate reflecta parțial ce publicații sunt indexate ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Lipseste designul cu trei condiții.** Din cele douăsprezece studii GenAI recenzate, niciunul nu a măsurat performanța asistată alături atât de un test imediat fără IA, cât și de unul amânat, cu excludere verificată, astfel încât câștigurile asistate nu sunt niciodată legate de retenție ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Fezabilitatea este o clasă de rezultate, nu un prefață.** Un pilot pe două cohorte cu un pacient simulat de IA a recrutat 19 din cei 72 de studenți invitați (26%), a finalizat fiecare întâlnire și chestionar (100%) și nu a încheiat nicio sesiune pe o defecțiune tehnică — rezultate reale, dar criteriile de fezabilitate și acceptabilitate au fost definite după colectare și niciun criteriu de progresie nu a fost specificat înainte ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al., 2026]]). O rată de finalizare este informativă doar față de criterii fixate în prealabil; altfel „a funcționat” și „a mers” sunt aceeași propoziție.
 
 ## Problema vitezei: IA evoluează mai repede decât constatările
 
@@ -117,6 +124,8 @@ Două practici specifice de raportare umflă sau distorsionează o sinteză și 
 **Procentul din titlu poate fi un artefact al termenilor de căutare.** O recenzie de scop asupra a 195 de studii de formare a profesorilor a făcut din competența digitală și [[tpack|TPACK]] descriptori expliciți de căutare, în timp ce proiectarea instrucțională și evaluarea nu aveau un termen echivalent, așa că procentele raportate de **46,5% și 1,9%** sunt rate pe care interogarea însăși le-a construit. O afirmație de prevalență este doar atât de semnificativă pe cât este căutarea din spatele ei.
 
 **Iar rata de bază este numărul pe care nimeni nu îl afirmă.** Limitările metodologice de aici sunt măsurabile, nu impresioniste: într-o recenzie critică a 80 de studii HCI despre gândirea critică cu IA, **42 (52%) nu au avut grup de control**, iar majoritatea celorlalte s-au bazat pe autoevaluare. Când peste jumătate dintre constatările pozitive ale unui domeniu provin din designuri care nu pot separa efectul IA de activitatea obișnuită, priorul adecvat pentru orice constatare individuală este scepticismul, nu acceptarea provizorie.
+
+O consecință practică a acestor limite este că mai multe practici educaționale larg folosite se sprijină pe dovezi care nu le pot susține; [[what-not-to-do-ai-education|ce cei care eduquează ar trebui să evite să facă cu IA]] le adună pe roluri și numește limita specifică din spatele fiecărei recomandări de prudență.
 
 ## Idei greșite frecvente
 

@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Acestea explică mecanisme: numesc părțile care fac munca și prezic ce urmeaz
 ## Cadre de predare, integrare și adoptare
 
 - **[[tpack|TPACK]]** — cunoașterea profesorului care îmbină tehnologia, pedagogia și conținutul; cadrul implicit pentru studiile despre IA adresate profesorilor.
+- **[[bloom-taxonomy|Taxonomia lui Bloom]]** — vocabularul comun pentru cerința cognitivă a sarcinilor, folosit atât pentru a codifica itemii, cât și pentru a-i secvenția; în IA în educație a devenit la fel de mult o problemă de măsurare ca una de design.
 - **[[technology-acceptance-model|Modelele de adoptare]]** — intenția ca funcție a utilității percepute și a ușurinței de utilizare. Folosite atât de larg încât dependența domeniului de intenție, mai degrabă decât de comportament, este o critică permanentă.
+- **Modelul confirmării așteptărilor (ECM)** — satisfacția ca confirmarea așteptărilor anterioare, cu continuarea, nu adoptarea inițială, ca rezultat. Într-un pilot de metodologie sociologică pe un semestru cu 24 de studenți de licență, 87% l-au evaluat Copilot ca bun sau excelent și 91% l-ar recomanda, dar doar 57% aveau intenția să-l continue folosind ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Decalajul este tocmai ideea modelului: un utilizator satisfăcut poate refuza totuși să se întoarcă, astfel încât satisfacția și continuarea au nevoie de măsuri separate.
 - **[[icap-framework|ICAP]]** — ierarhizează implicarea ca pasivă, activă, constructivă, interactivă; util pentru a întreba ce mod permite de fapt o [[student-ai-interaction|interacțiune cu IA]].
 - **[[samr-model|SAMR]]** — de la substituire la redefinire. Popular ca poveste a maturității, slab ca instrument de măsurare.
 - **[[universal-design-for-learning|Designul universal pentru învățare]]**, **[[inclusive-learning|învățarea incluzivă]]** și **[[accessibility|accesibilitatea]]** — cadre de design pentru cine este servit și cele mai des invocate în munca despre dizabilitate și [[equity-in-ai-education|echitate]].
@@ -104,7 +110,7 @@ Cuvintele sunt folosite lejer în literatură, iar diferența merită un paragra
 
 ## Straturi înrudite
 
-Două pagini vecine sunt în mod deliberat despre altceva. [[philosophy-of-ai-in-education|Filosofia IA în educație]] pune întrebări normative și conceptuale — *pentru ce* este educația, dacă o mașină poate preda — și nu prezice dimensiuni de efect; un studiu poate fi filosofic naiv și teoretic solid, sau invers. [[theory-development-aied|Dezvoltarea teoriei]] este meta-activitatea de a construi, împrumuta și revizui teorie, inclusiv critica permanentă că multă muncă [[ai-education|AIED]] aplică teorie existentă în loc să o testeze. Această pagină este inventarul; dezvoltarea teoriei privește producerea și revizuirea inventarului.
+Două pagini vecine sunt în mod deliberat despre altceva. [[philosophy-of-ai-in-education|Filosofia IA în educație]] pune întrebări normative și conceptuale — *pentru ce* este educația, dacă o mașină poate preda — și nu prezice dimensiuni de efect; un studiu poate fi filosofic naiv și teoretic solid, sau invers. [[theory-development-aied|Dezvoltarea teoriei]] este meta-activitatea de a construi, împrumuta și revizui teorie, inclusiv critica permanentă că multă muncă [[ai-education|AIED]] aplică teorie existentă în loc să o testeze. Această pagină este inventarul; dezvoltarea teoriei privește producerea și revizuirea inventarului. [[learning-environments-as-systems|Mediile de învățare ca sisteme]] este o a treia vecină. Nu este o teorie a învățării și nu prezice dimensiuni de efect, ci o poziție privind unitatea de analiză: un mediu de învățare este un sistem multiveluric ale cărui părți interacționează, astfel încât nivelul pe care îl măsoară un studiu este o decizie teoretică, nu o facilitate de eșantionare.
 
 ## Alegerea unei lentile când întrebarea este practică
 

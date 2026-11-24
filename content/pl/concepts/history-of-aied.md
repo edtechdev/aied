@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ Przyjście [[generative-ai|generatywnej SI]] — szerokiej rodziny obejmującej 
 - **Świadomie ważyć kontrolę i sprawczość.** To, czy SI powinna optymalizować ku standardowym wynikom, czy umożliwiać zróżnicowane, kierowane przez uczącego się wyniki, jest prawdziwym wyborem o konsekwencjach instytucjonalnych i politycznych, a nie daną techniczną.
 - **Zachowaj sprawczość uczącego się.** Powracający opór wobec standaryzacji i kontroli na rzecz otwartych, skoncentrowanych na uczniu podejść jest trwałą nicią wartą obrony.
 
-## Częste błędne wyobrażenia
-
-**„SI w edukacji zaczęła się od ChatGPT."** Nie zaczęła się, a to przekonanie jest kosztowne, ponieważ czyni każdą wcześniejszą lekcję niewidoczną. [[intelligent-tutoring|Korepetycje inteligentne]] wywodzą się z prac nad przeszukiwaniem heurystycznym i systemami ekspertowymi z lat 60. i 70., a społeczność AIED uformowała się wokół nich dekady przed [[llm|dużymi modelami językowymi]]. [[mishra-control-vs-agency-history-2025|Mishra i wsp.]] pokazują, że obecne debaty odtwarzają podział już wyraźny w korepetytorach poznawczych Andersona i konstrukcjonizmie Paperta, więc czytelnik datujący dziedzinę na 2022 r. ponownie wyprowadzi argumenty, które dziedzina już raz rozstrzygnęła, porzuciła lub przegrała.
-
-**„Dziedzina systematycznie porzucała SI jako analogię na rzecz narzędzi stosowanych, a generatywna SI kontynuuje ten trend."** To najbardziej pouczająca korekta na tej stronie, ponieważ trajektoria jest realna, ale nie monotoniczna. [[rismanchian-ai-education-four-decades-aixed-2026|Analiza pozycyjna AIED 1985, 1993, 2021 i 2024 oraz IJAIED 2004, 2014 i 2021 autorstwa Rismanchiana i Doroudi]] rzeczywiście pokazuje dryf od mieszanej dziedziny ku niemal wyłącznej instrumentalności stosowanej w latach 2000. Ale na AIED 2024 trzy z czterech artykułów w kwadrancie SI jako analogia były oparte na LLM, w tym praca nagrodzona za najlepszy artykuł o agentach nauczalnych opartych na LLM. Generatywna SI częściowo **odwraca** ten trend, zamiast go przedłużać, dlatego traktowanie jej jako „następnego korepetytora inteligentnego" błędnie odczytuje to, gdzie faktycznie przesunął się front badań.
-
-**„Personalizacja oznacza dostosowanie trudności do każdego uczącego się."** To tylko jedno z dwóch niezgodnych znaczeń, a ich stapianie ukrywa wybór polityczny. W pierwszym znaczeniu wynik jest ustalony, a zmienia się tylko ścieżka; linia wiedzie od maszyn nauczających Skinnera przez korepetycje oparte na mistrzostwie. W drugim różnicują się same wyniki, gdy uczący się realizują indywidualne zainteresowania nieograniczone standardowym programem (Zhao, 2024). [[intelligent-tutoring|ITS]] realizuje pierwsze; [[constructivist|konstrukcjonizm]] drugie. Narzędzie opisane jako „spersonalizowane" nie powiedziało nic, dopóki nie wiesz, które z nich ma na myśli.
-
-**„Sztuczna inteligencja" była po prostu oczywistą nazwą dla tej dziedziny.** Ten termin był świadomym wyborem. Kiedy McCarthy planował projekt w Dartmouth w 1956 r., preferował *sztuczną inteligencję* nad *cybernetyką* częściowo po to, by zdystansować pracę od tradycji analogowego sprzężenia zwrotnego Wienera. Ta jedna decyzja ujęła maszyny w bezpośrednie porównanie z ludzkim poznaniem, a ramowanie antropomorficzne, które zainstalowała, wciąż kształtuje priorytety badawcze, język produktów i pytania etyczne, które zadaje publiczność.
-
 ## Wprowadzanie w praktykę
 
 **Dla instruktorów i projektantów nauczania**
@@ -98,4 +92,14 @@ Przyjście [[generative-ai|generatywnej SI]] — szerokiej rodziny obejmującej 
 **Dla badaczy**
 
 - Używaj korpusów historycznych jako punktu odniesienia, zamiast traktować teraźniejszość jako jedyne dostępne porównanie. Materiały AIED z 1985, 1993, 2021 i 2024 oraz IJAIED z 2004, 2014 i 2021 są gotową próbą podłużną twierdzeń samej dziedziny.
-- Cytuj rodowód, gdy twierdzisz nowość. Twierdzenie, że system „personalizuje uczenie się" lub „modeluje uczącego się", jest nowe tylko względem konkretnej wcześniejszej tradycji, a ta tradycja jest udokumentowana.
+- Cytuj rodowód, gdy twierdzysz nowość. Twierdzenie, że system „personalizuje uczenie się" lub „modeluje uczącego się", jest nowe tylko względem konkretnej wcześniejszej tradycji, a ta tradycja jest udokumentowana.
+
+## Częste błędne wyobrażenia
+
+**„SI w edukacji zaczęła się od ChatGPT."** Nie zaczęła się, a to przekonanie jest kosztowne, ponieważ czyni każdą wcześniejszą lekcję niewidoczną. [[intelligent-tutoring|Korepetycje inteligentne]] wywodzą się z prac nad przeszukiwaniem heurystycznym i systemami ekspertowymi z lat 60. i 70., a społeczność AIED uformowała się wokół nich dekady przed [[llm|dużymi modelami językowymi]]. [[mishra-control-vs-agency-history-2025|Mishra i wsp.]] pokazują, że obecne debaty odtwarzają podział już wyraźny w korepetytorach poznawczych Andersona i konstrukcjonizmie Paperta, więc czytelnik datujący dziedzinę na 2022 r. ponownie wyprowadzi argumenty, które dziedzina już raz rozstrzygnęła, porzuciła lub przegrała.
+
+**„Dziedzina systematycznie porzucała SI jako analogię na rzecz narzędzi stosowanych, a generatywna SI kontynuuje ten trend."** To najbardziej pouczająca korekta na tej stronie, ponieważ trajektoria jest realna, ale nie monotoniczna. [[rismanchian-ai-education-four-decades-aixed-2026|Analiza pozycyjna AIED 1985, 1993, 2021 i 2024 oraz IJAIED 2004, 2014 i 2021 autorstwa Rismanchiana i Doroudi]] rzeczywiście pokazuje dryf od mieszanej dziedziny ku niemal wyłącznej instrumentalności stosowanej w latach 2000. Ale na AIED 2024 trzy z czterech artykułów w kwadrancie SI jako analogia były oparte na LLM, w tym praca nagrodzona za najlepszy artykuł o agentach nauczalnych opartych na LLM. Generatywna SI częściowo **odwraca** ten trend, zamiast go przedłużać, dlatego traktowanie jej jako „następnego korepetytora inteligentnego" błędnie odczytuje to, gdzie faktycznie przesunął się front badań.
+
+**„Personalizacja oznacza dostosowanie trudności do każdego uczącego się."** To tylko jedno z dwóch niezgodnych znaczeń, a ich stapianie ukrywa wybór polityczny. W pierwszym znaczeniu wynik jest ustalony, a zmienia się tylko ścieżka; linia wiedzie od maszyn nauczających Skinnera przez korepetycje oparte na mistrzostwie. W drugim różnicują się same wyniki, gdy uczący się realizują indywidualne zainteresowania nieograniczone standardowym programem (Zhao, 2024). [[intelligent-tutoring|ITS]] realizuje pierwsze; [[constructivist|konstrukcjonizm]] drugie. Narzędzie opisane jako „spersonalizowane" nie powiedziało nic, dopóki nie wiesz, które z nich ma na myśli.
+
+**„Sztuczna inteligencja" była po prostu oczywistą nazwą dla tej dziedziny.** Ten termin był świadomym wyborem. Kiedy McCarthy planował projekt w Dartmouth w 1956 r., preferował *sztuczną inteligencję* nad *cybernetyką* częściowo po to, by zdystansować pracę od tradycji analogowego sprzężenia zwrotnego Wienera. Ta jedna decyzja ujęła maszyny w bezpośrednie porównanie z ludzkim poznaniem, a ramowanie antropomorficzne, które zainstalowała, wciąż kształtuje priorytety badawcze, język produktów i pytania etyczne, które zadaje publiczność.

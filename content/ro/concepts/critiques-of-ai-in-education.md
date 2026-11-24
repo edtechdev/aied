@@ -2,7 +2,7 @@
 title: Critici ale IA în educație
 type: concept
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 research_method: [literature review]
 confidence: high
 foundations: [ai-education, philosophy-of-ai-in-education, theories-and-frameworks]
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Un al doilea grup atacă vocabularul, nu mașinăria. Wang și Jin citesc docume
 
 ## Infrastructura, transducția și derecunoaștere
 
-Un al treilea grup mută atenția de la instrument la infrastructura din jurul său. Watson, Morgner și Brezovec tratează IA generativă ca o infrastructură mediatoare a sensului și-i numesc mecanismul *transducție semantică*: reformatarea unei cerințe educaționale — un prompt, un brief, o grilă de evaluare, o întrebare de examen, un gen sau o politică — într-o formă plauzibilă din punct de vedere comunicativ ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner și Brezovec (2026)]]). Deoarece transducția este selectivă, poate include sau excluze. Trei locuri revin: decalajele de acces și de capabilitate, derecunoașterea prin șabloane despre cum sună un răspuns bun sau un student bun, și deriva normativă a ceea ce este considerată pedagogia. Excluderea este adesea un clește și nu o interdicție — instituțiile cresc așteptările legate de ritm, finisaj și fluență idiomatică, strâns în același timp regimurile de autenticitate.
+Un al treilea grup mută atenția de la instrument la infrastructura din jurul său. Watson, Morgner și Brezovec tratează IA generativă ca o infrastructură mediatoare a sensului și-i numesc mecanismul *transducție semantică*: reformatarea unei cerințe educaționale — un prompt, un brief, [[rubrics|o rubrică]], o întrebare de examen, un gen sau o politică — într-o formă plauzibilă din punct de vedere comunicativ ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner și Brezovec (2026)]]). Deoarece transducția este selectivă, poate include sau excluze. Trei locuri revin: decalajele de acces și de capabilitate, derecunoașterea prin șabloane despre cum sună un răspuns bun sau un student bun, și deriva normativă a ceea ce este considerată pedagogia. Excluderea este adesea un clește și nu o interdicție — instituțiile cresc așteptările legate de ritm, finisaj și fluență idiomatică, strâns în același timp regimurile de autenticitate.
 
 ## Stabilirea agendei, inovația simulată și proiectarea experimentală a viitorului
 

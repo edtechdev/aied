@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Úvod
 
-### Počítačové myslenie v triede éry AI
+## Počítačové myslenie v triede éry AI
 
 Prepojené články tejto vedomostnej bázy sa zhodujú na ústrednom tvrdení: počítačové myslenie (CT) je konceptuálny základ, ktorý študenti potrebujú, aby sa dokázali kriticky angažovať s AI, a zároveň zručnosť, ktorú dobre navrhnuté učenie podporené AI najpriamejšie prehlbuje. Dôkazy sú nižšie zoskupené do štyroch tém zakotvených v prepojených článkoch.
 
@@ -52,8 +56,22 @@ Trváce kompetencie sa posúvajú, keď sa implementácia automatizuje: správa 
 - **CT naprieč K-12, prípravou učiteľov a redizajnom hodnotenia.** CT sa rozprestiera po celom spektre od [[k-12|K-12]] po [[higher-ed|vysoké školstvo]] a pretvára hodnotenie. Na konci raného detstva AI-Play rozširuje CT a AI gramotnosť na študentov predškolského veku až do 2. ročníka a na netechnické rodiny; na univerzitnom konci [[genai-oop-programming-assessments-2026|štúdia hodnotenia OOP]] zistila, že systémy generatívnej AI z roku 2026 prekonávajú priemerného študenta na autentických programátorských skúškach, no stále zlyhávajú na rozhraniach, abstraktných triedach a dedičnosti — opakujúce sa konceptuálne medzery, ktoré presne vyznačujú, kde zostáva CT ťažké automatizovať. [[solving-vs-evaluating-genai-solutions|Randomizovaná štúdia A/B s krížením]] ukázala, že úlohy hodnotenia a kritiky prinášajú výsledky porovnateľné s generovaním, čo naznačuje, že CT možno precvičovať posudzovaním chybných riešení AI, hoci prírastky vyžadujú zámerné podporné lešenie. Pod všetkým stojí učiteľ: štúdia microbit spája výučbu CT priamo s [[teacher-education|vzdelávaním učiteľov]] a [[hashmi-socratic-physics-chatbot-2025|výskum sokratovského chatbota]] spája presnú formuláciu problému, ktorú CT vyžaduje, s merateľným výkonom v kurze.
 
 - **Validovaný nástroj lokalizuje, kde je CT najťažšie.** Test počítačového myslenia s 34 položkami, vytvorený pomocou dizajnu zameraného na dôkazy a validovaný teóriou odpovedí na položku u 461 študentov programovania s AI, sústredil ťažkosť do reprezentácie dát, sekvencovania logických operátorov a štruktúr cyklov, a nie rovnomerne naprieč sylabom ([[zhang-ct-ai-training-test-2026|Zhang a Zhang (2026)]]).
+- Voľba meracieho nástroja mení verdikt: záznamy o počítačovom a kritickom myslení dosiahli rozdielne alebo zmiešané závery u 13 z 23 párov tej istého konštruktu, takže prieskum CT formou samovyhlásenia a meranie na úlohe sa často rozchádzajú ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan a spol. (2026)]]).
+- Počítačové myslenie sa meria aj ako dispozícia: v týždňovej hernej štúdii piatich ročníkov upravené samovyhlásené tendencie CT uprednostňovali triedu s generatívnou AI, 4,325 oproti 4,037 (p = ,046, čiastková eta-kvadrát = ,052, n = 78). Algoritmický test vedomostí ich neoddelil (80,7 oproti 74,9), takže tendencia a vedomosti sledovali odlišné konštrukty ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou a spol., 2026]]).
 
-### Počítačové myslenie a posun od spotrebiteľov AI k producentom, tvorcom a dizajnérom
+Profily podzručností komplikujú jediné skóre CT, ktoré návrh pred-po reportuje. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij a Khlaisang (2026)]] viedli 28 thajských bakalárov mimo informatiky cez osem týždňov trojhodinových sedení, ktoré spájali päťkrokový cyklus [[design-thinking|designového myslenia]] s tvorbou aplikácií na nízkokódovom princípe, pričom projektové práce hodnotili trojbodovou [[rubrics|rubrikou]]. Priemerné počítačové myslenie stúplo z 1,13 v prvom sedení na 1,80 a potom 2,49, pričom algoritmické myslenie bolo najsilnejšou žilou na hodnote 2,08 s priebehom 1,46, 1,93 a 2,86. Logické myslenie malo priemer 1,54 a medzi prvými dvoma sedeniami sa takmer nepohlo (1,04 na 1,29), predtým než v tretej dosiahlo 2,29 — pripomienka, že prírastky v jednej zložke neznamenajú, že nasledovali aj ostatné.
+
+## Systémové myslenie ako praktika CT
+
+Systémové myslenie je jednou zo štyroch domén taxonómie počítačového myslenia pre matematiku a prírodné vedy, ktorú vyvinuli Weintrop a kolegovia, popri dátových praktikách, praktikách výpočtového riešenia problémov a modelovaní a simuláciách. Jeho definícia je presná: **schopnosť definovať hranice systému a syntetizovať interakcie na mikroúrovni do správania na makroúrovni**. Je to kognitívna kapacita na úrovni študenta — spôsob uvažovania o systéme — a líši sa od postoja na úrovni prostredia, ktorý pokladá učebné prostredie za systém ([[learning-environments-as-systems|učebné prostredia ako systémy]]).
+
+Je to aj doména, kde sa hodnotenie zlyháva ako prvé. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch a Rebello (2026)]] zakódovali písomné vysvetlenia 936 študentov v úvodnom kurze výpočtovej fyziky proti taxonómii, kalibrovali ľudský základ na 10 študentoch (60 odpovedí, Fleissove κ = 0,53) a potom zakódovali 50 študentov (300 odpovedí) hlasovaním väčšiny. Študenti viac najviac v dátových praktikách (p < 0,001, d = 1,03), s miernymi prírastkami vo výpočtovom riešení problémov (d = 0,52) a v systémovom myslení (d = 0,45). Systémové myslenie však bolo najmenej spoľahlivým konštruktom pre *ľudí aj modely*: ľudská zhoda κ = 0,51 a LLM κ = 0,48 oproti κ = 0,90 pre dátové praktiky a κ = 0,78 pre modelovanie a simuláciu. Autori čítajú ťažkosť ako dôsledok zložitosti konštruktu, nie nedostatku modelu — viaczložkový konštrukt, ktorý žiada od študenta identifikovať zložky *a* vysvetliť ich interakcie a dôsledky, je ťažšie zakódovať než dobre definovaný. Modelovanie a simulácia ukázalo d = 0,00 z nesúvisiaceho dôvodu, efektu stropu: priemer pred výučbou bol už 1,62 z 2, takže táto položka merala základné vedomosti, nie rast.
+
+Praktický dôsledok je problémom návrhu rubriky, nie problémom modelu. Odporúčajú prepísať rubriku tak, aby sa identifikácia zložiek systému hodnotila oddelene od vysvetľovania toho, ako tieto zložky spolu interagujú, a nízku automatizovanú zhodu na integrovanom konštrukte čítať ako signál revidovať nástroj, a nie ako dôvod vzdať sa automatizácie. Je to ten istý krok, ktorý výskum [[rubrics|rubrík]] dosahuje z hodnotiacej strany: kalibruje nástroj, nie model.
+
+Tento konštrukt cestuje aj za hranice fyziky. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz a Castro Samayoa (2026)]] pomenúvajú systémové myslenie ako jednu zo schopností, ktoré Aoun nazýva *odolné voči robotom* — kritické myslenie, systémové myslenie a kultúrna agilita — tie, ktoré buduje prax a delegovanie nie. [[huang-ai-literacy-vocational-problem-solving-2026|Huang a kolegovia (2026)]] vymedzujú svoj vlastný konštrukt „systematického myslenia“ proti nemu, pričom svoj pokladajú za úzke štvordimenzionálne meranie (štruktúrovanie, uvažovanie, prioritizovanie, integrovanie) a výslovne sa odklonujú nazývať ho systémovým myslením v širšom zmysle. A [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea a Valencia-Silva (2026)]] varujú, že angažovanosť nie je systémové myslenie — rozlíšenie, ktoré má význam, keď sa rubrika používa na certifikáciu kompetencie, ktorú nebola napísaná na meranie.
+
+## Počítačové myslenie a posun od spotrebiteľov AI k producentom, tvorcom a dizajnérom
 
 Ústredným cieľom CT v ére AI je posunúť študentov a učiteľov za *pasívnu konzumáciu* výstupov AI smerom k *tvoreniu, budovaniu a navrhovaniu* s AI a pre AI — agenda, ktorá zlaďuje CT s konštrukcionistickým učením (učenie sa tvorbou). Prepojené články tejto vedomostnej bázy čoraz zjavnejšie artikulujú tento obrat k producentovi, tvorcovi a dizajnérovi. [[ai-writes-code-student-writes-model-2026|Výskum autorstva modelov]] prerámuje učenie sa tvorbou s generatívnou AI ako merateľný proces „autorstva modelu“ — študenti autorsky tvoria, ladia a iterujú modely AI, namiesto toho aby len konzumovali AI generovaný kód alebo odpovede. [[code-to-learn-genai-artifact-construction-2026|Rámec CtL-GenAI]] to operacionalizuje ako [[constructivist|konštrukcionizmus]] pre éru generatívnej AI a pokladá artefakty, ktoré študenti s AI budujú, za motor rozvoja CT. [[computational-thinking-ai-agent-creation|CT cez tvorbu AI agentov]] ukazuje, že navrhovanie — a nielen používanie — AI agentov priamo precvičuje dekompozíciu, abstrakciu a algoritmické uvažovanie.
 
@@ -63,11 +81,11 @@ Praktický dôsledok je, že výučba CT by mala byť navrhnutá tak, aby štude
 
 Opätovné použitie modelov iných patrí k producentskému postoju: implementácia publikovaného modelu AI — výber, inštalácia, spustenie a validácia — sa dá učiť ako naučiteľná, štruktúrovaná zručnosť s náhradnou cestou pre každé očakávané zlyhanie, a traja bakalári [[chemistry-education|chémie]] bez programátorského zázemia reprodukovali a rozšírili model predikcie enzým–substrát za štyri mesiace ([[praise-non-programmer-ai-model-implementation-2026|Achterweust a spol. (2026)]]).
 
-### Praktické usmernenie
+## Praktické usmernenie
 
 Pre pedagógov je konzistentná správa taká, že CT sa rozvíja *explicitnou, podopretou a pozorovateľnou* angažovanosťou, a nie pasívnym používaním AI. Spájajte robotiku s explicitným mapovaním konceptov CT na kurikulum; používajte LLM na [[simulation|simuláciu]], ovládanie prirodzeným jazykom a škálovateľné hodnotenie rastu CT, pričom si vyhradzujte ľudský úsudok pre konštrukty ako systémové myslenie; a redizajnujte hodnotenie tak, aby zdôrazňovalo hodnotenie a diagnostiku výstupu AI nad surovým generovaním. Nech je prostredie akékoľvek — nepočítačová hra v ranom detstve, roboty na strednej škole v [[stem-education|STEM vzdelávaní]] alebo virtuálni tútori vo [[higher-ed|vysokom školstve]] — štruktúrujte činnosť tak, aby študenti museli uvažovať o dekompozícii, vzore, abstrakcii a algoritme, a nie prijímať hotové riešenia.
 
-### Súvislosti s príbuznými konceptmi
+## Súvislosti s príbuznými konceptmi
 
 Počítačové myslenie je spoločný kognitívny základ pod [[ai-literacy|AI gramotnosťou]] a [[critical-thinking|kritickým myslením]], kurikulárne jadro [[cs-education|informatického vzdelávania]] a výpočtovej výučby v [[k-12|K-12]] a konceptuálny cieľ, ktorému majú byť [[educational-robotics|vzdelávacia robotika]], [[game-based-learning|učenie založené na hrách]] a [[project-based-learning|projektovo založené učenie]] najlepšie navrhnuté. Prehlbujú ho [[llm|veľké jazykové modely]] a [[generative-ai|generatívna AI]], keď sa používajú ako nástroje podporného lešenia, a je zručnosťou, ktorú majú merať taxonómie mylných predstáv študentov a hodnotenia citlivé na CT. Učitelia ho rozvíjajú cez [[teacher-education|vzdelávanie učiteľov]] a [[professional-training|profesijnú prípravu]] a prenáša sa naprieč doménami vrátane [[physics-education|fyzikálneho vzdelávania]] a [[stem-education|STEM]] vo všeobecnosti.
 

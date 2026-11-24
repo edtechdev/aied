@@ -1,6 +1,7 @@
 ---
 title: Теории и фреймворки
 created: "2026-10-13T20:30:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -8,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -19,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -71,7 +76,9 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## Фреймворки преподавания, интеграции и внедрения
 
 - **[[tpack|TPACK]]** — знания преподавателя, объединяющие технологии, педагогику и содержание; фреймворк по умолчанию для исследований ИИ, ориентированных на преподавателей.
+- **[[bloom-taxonomy|Таксономия Блума]]** — общая лексика для когнитивной сложности заданий, используемая и для кодирования заданий, и для их упорядочивания; в ИИ в образовании она стала в такой же мере измерительной проблемой, как и проектной.
 - **[[technology-acceptance-model|Adoption models]]** — намерение как функция воспринимаемой полезности и простоты использования. Применяются настолько широко, что опора поля на намерение, а не на поведение, стала устойчивой критикой.
+- **Модель подтверждения ожиданий (ECM)** — удовлетворённость как подтверждение прежних ожиданий, где результатом является продолжение использования, а не первоначальное принятие. В одном семестровом пилоте по социологическим методам с 24 студентами бакалавриата 87% оценили Copilot как хороший или отличный и 91% рекомендовали бы его, но лишь 57% намеревались продолжать использовать ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Разрыв и есть суть модели: удовлетворённый пользователь может всё же отказаться возвращаться, поэтому удовлетворённость и продолжение требуют отдельных измерений.
 - **[[icap-framework|ICAP]]** — ранжирует вовлечённость как пассивную, активную, конструктивную, интерактивную; полезен для вопроса о том, какой режим фактически обеспечивает [[student-ai-interaction|ИИ-взаимодействие]].
 - **[[samr-model|SAMR]]** — от подстановки до переопределения. Популярен как история зрелости, слаб как измерительный инструмент.
 - **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusive learning]]** и **[[accessibility|accessibility]]** — рамки проектирования для вопроса о том, кого обслуживают, чаще всего используемые в работе по инвалидности и [[equity-in-ai-education|справедливости]].
@@ -109,7 +116,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## Связанные слои
 
-Две соседние страницы намеренно посвящены другому. [[philosophy-of-ai-in-education|Philosophy of AI in education]] задаёт нормативные и концептуальные вопросы — зачем нужно образование *вообще*, может ли машина учить — и не предсказывает размеров эффекта; исследование может быть философски наивным и теоретически состоятельным, или наоборот. [[theory-development-aied|Theory development]] — это мета-активность построения, заимствования и пересмотра теории, включая устойчивую критику, что большая часть работ в области [[ai-education|AIEd]] применяет существующую теорию, а не проверяет её. Эта страница — перечень; разработка теории касается производства и пересмотра перечня.
+Две соседние страницы намеренно посвящены другому. [[philosophy-of-ai-in-education|Philosophy of AI in education]] задаёт нормативные и концептуальные вопросы — зачем нужно образование *вообще*, может ли машина учить — и не предсказывает размеров эффекта; исследование может быть философски наивным и теоретически состоятельным, или наоборот. [[theory-development-aied|Theory development]] — это мета-активность построения, заимствования и пересмотра теории, включая устойчивую критику, что большая часть работ в области [[ai-education|AIEd]] применяет существующую теорию, а не проверяет её. Эта страница — перечень; разработка теории касается производства и пересмотра перечня. [[learning-environments-as-systems|Среда обучения как система]] — третий сосед. Это не теория обучения и не предсказывает размеров эффекта, а позиция относительно единицы анализа: среда обучения — многоуровневая система, части которой взаимодействуют, поэтому уровень, измеряемый исследованием, является теоретическим решением, а не удобством выборки.
 
 ## Выбор оптики, когда вопрос практический
 

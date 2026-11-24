@@ -13,13 +13,17 @@ connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Otázky na zamyslenie
 
-1. Ak študent prijme odpoveď AI, ktorá náhodou je správna, podarilo sa hodine uspieť? Čo by muselo platiť, aby práve to prijatie bolo tým, na čom záleží?
-2. Odlišuje sa kalibrovaný delegátor, ktorý pozná svoje hranice, druhom od študenta, ktorý to jednoducho nedokáže rozpoznať? Ako by [[teacher-role|učiteľ]] rozlišoval medzi nimi v jednej jedinej práci?
-3. Ak sebadôvera rastie, kým presnosť klesá, ako sa to deje pri dostupnosti rád od AI, čo to robí s vlastným odhaľovaním chýb zo strany študenta?
-4. Kde sa dá overovanie naučiť a kde je skôr problémom pracovnej záťaže, ktorý patrí [[educational-policy-ai|politike]]? Ktoré časti [[curriculum-design|kurikula]] by sa museli zmeniť, aby sa kontrola stala normou a nie výnimkou?
-5. Mali by inštitúcie kapituláciu vôbec merať, alebo meranie samo prináša ten istý dohľad, s ktorým sa [[ai-use-disclosure|pravidlá zverejňovania]] trápia?
-6. Ako by vyzerala úloha, ktorá odmeňuje študenta za to, že prepíše nesprávnu odpoveď AI, a nie za to, že vytvorí vyhladenú odpoveď?
+- Ak študent prijme odpoveď AI, ktorá náhodou je správna, podarilo sa hodine uspieť? Čo by muselo platiť, aby práve to prijatie bolo tým, na čom záleží?
+- Odlišuje sa kalibrovaný delegátor, ktorý pozná svoje hranice, druhom od študenta, ktorý to jednoducho nedokáže rozpoznať? Ako by [[teacher-role|učiteľ]] rozlišoval medzi nimi v jednej jedinej práci?
+- Ak sebadôvera rastie, kým presnosť klesá, ako sa to deje pri dostupnosti rád od AI, čo to robí s vlastným odhaľovaním chýb zo strany študenta?
+- Kde sa dá overovanie naučiť a kde je skôr problémom pracovnej záťaže, ktorý patrí politike? Ktoré časti [[curriculum-design|kurikula]] by sa museli zmeniť, aby sa kontrola stala normou a nie výnimkou?
+- Mali by inštitúcie kapituláciu vôbec merať, alebo meranie samo prináša ten istý dohľad, s ktorým sa [[ai-use-disclosure|pravidlá zverejňovania]] trápia?
+- Ako by vyzerala úloha, ktorá odmeňuje študenta za to, že prepíše nesprávnu odpoveď AI, a nie za to, že vytvorí vyhladenú odpoveď?
 
 ## Úvod
 

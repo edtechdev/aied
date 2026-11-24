@@ -10,14 +10,18 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ Enunțarea se leagă de [[motivation|motivație]] prin [[self-determination-theo
 ## Mass-media și enunțarea publică
 
 Elevii sunt încadrați și de mass-media și de discursul public mai larg despre [[ai-education|IA în educație]], care le modelează așteptările de bază înainte de orice mesaj al unui instructor. Analizele discursului public și ale modului în care platforme precum YouTube încadrează folosirea ChatGPT în educație arată că cadrele dominante - entuziasm exagerat, pesimism sau pragmatism - influențează felul în care învățăceii și [[teacher-role|educatorii]] abordează tehnologia.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Enunțarea eficace din partea instructorilor înseamnă des contracararea sau redirecționarea deliberată a acestor narative ambientale.
+
+Felul în care se enunță IA influențează și valoarea ulterioară a credentialului: pe un eșantion de aproximativ 1.750 de profesioniști din SUA cu privire la angajare, descrierea folosirii IA de către studenți ca substituție, mai degrabă decât ca asistență, a coborât probabilitatea interviului și disponibilitatea de a negocia salariul, cel mai aspru pentru candidații cu medii mari ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Îndrumare practică
 

@@ -13,13 +13,17 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Întrebări de luat în considerare
 
-1. Când un elev acceptă un răspuns al IA care se întâmplă să fie corect, a reușit orele? Ce ar trebui să fie adevărat pentru ca acceptarea însăși să fie lucrul care conta?
-2. Un delegator calibrat, care își cunoaște propriile limite, este diferit ca natură de un elev care pur și simplu nu poate distinge? Cum ar distinge [[teacher-role|un instructor]] diferența într-o singură lucrare?
-3. Dacă încrederea crește în timp ce acuratețea scade - cum se întâmplă când sfatul IA este disponibil - ce efect are asta asupra detectării erorilor de către învățăcelul însuși?
-4. Unde este verificarea ceva ce se poate preda și unde este o problemă de volum de muncă pentru [[educational-policy-ai|politică]]? Ce părți ale unui [[curriculum-design|curriculum]] ar trebui schimbate pentru ca verificarea să fie norma, nu excepția?
-5. Ar trebui instituțiile să măsoare deloc capitularea, sau măsurarea ei atrage aceeași supraveghere cu care se luptă [[ai-use-disclosure|regulile de dezvăluire]]?
-6. Cum ar arăta o sarcină care răsplătește un elev pentru că infirmă un răspuns greșit al IA, în loc să producă unul lustruit?
+- Când un elev acceptă un răspuns al IA care se întâmplă să fie corect, a reușit orele? Ce ar trebui să fie adevărat pentru ca acceptarea însăși să fie lucrul care conta?
+- Un delegator calibrat, care își cunoaște propriile limite, este diferit ca natură de un elev care pur și simplu nu poate distinge? Cum ar distinge [[teacher-role|un instructor]] diferența într-o singură lucrare?
+- Dacă încrederea crește în timp ce acuratețea scade - cum se întâmplă când sfatul IA este disponibil - ce efect are asta asupra detectării erorilor de către învățăcelul însuși?
+- Unde este verificarea o abilitate ce se poate preda și unde este o problemă de volum de muncă? Ce părți ale unui [[curriculum-design|curriculum]] ar trebui schimbate pentru ca verificarea să fie norma, nu excepția?
+- Ar trebui instituțiile să măsoare deloc capitularea, sau măsurarea ei atrage aceeași supraveghere cu care se luptă [[ai-use-disclosure|regulile de dezvăluire]]?
+- Cum ar arăta o sarcină care răsplătește un elev pentru că infirmă un răspuns greșit al IA, în loc să producă unul lustruit?
 
 ## Introducere
 

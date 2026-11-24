@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Wprowadzenie
 
 Tożsamość uczącego się dotyczy tego, kim uczący się rozumie sam siebie i kim się staje w obrębie dziedziny — to konstrukt motywacyjny i rozwojowy, odrębny od przekonań o zdolnościach, takich jak [[self-efficacy|poczucie własnej skuteczności]], które odpowiadają na węższe pytanie *czy potrafię to zrobić?* Tożsamość formuje się przez uczestnictwo, uznanie i autorstwo: przez widzenie siebie odzwierciedlonym w dziedzinie i walidację tego obrazu siebie przez innych. SI przekształca wszystkie trzy warunki, bo zmienia, kto wykonuje pracę, co liczy się jako własny wkład i czy uczący się jest uznawany za autora własnego uczenia się ([[agency|sprawczość]], [[metacognition|metapoznanie]]).
+
+Oceny są relacją i symbolem jednocześnie: studenci uczą się widzieć siebie przez nie, więc reforma, która zostawia transkrypcję bez zmian, zostawia bez zmian i tę relację ([[nieminen-grading-assessment-reform-2026|Nieminen i wsp. (2026)]]).
 
 ## Dlaczego tożsamość ma znaczenie dla SI w edukacji
 
@@ -59,6 +65,8 @@ To odrębny warunek autorstwa, a nie tylko zagrożenie dla autorstwa: gdy samoks
 - **Sposób, w jaki studenci ramują narzędzie, kształtuje ich stawanie się zawodowe.** Studenci, którzy ujmowali generatywną SI wyłącznie jako partnera społeczno-emocjonalnego, tworzyli mniej zróżnicowane refleksje o własnym uczeniu się zawodowym niż ci, którzy ramowali ją także jako technikę, materiał do uczenia się lub strukturę ([[genai-professionalization-metaphors-2026|Bohmer i wsp., 2026]]).
 - **Ostrożna adopcja: selektywne korzystanie z SI jako ochrona tożsamości.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] przebadał 484 studentów jednego australijskiego uniwersytetu i stwierdził, że studenci osiągający lepsze wyniki raportowali *niższe* aktywne [[generative-ai|zaangażowanie w generatywną SI]], niższy pozytywny afekt wobec SI, niższy [[self-report-measures|postrzegany wpływ na uczenie się]] i niższe wycofanie związane z SI, z najsilniejszymi związkami rho = -0.395 dla postrzeganego wpływu na uczenie się i rho = -0.359 dla pozytywnego afektu. Ich odpowiedzi otwarte opisywały korzystanie selektywne (wyjaśnianie, streszczanie, wsparcie przepływu pracy), weryfikowane i podporządkowane własnemu osądowi, a wyniki na poziomie pozycji pokazywały większą zgodę, że poleganie na SI utrudnia [[critical-thinking|myślenie krytyczne]] i niezależne [[problem-solving|rozwiązywanie problemów]]. Autorzy czytają to jako pracę tożsamościową: dla studentów, których poczucie bycia dobrym uczącym się opiera się na własnym wysiłku i osądzie, ograniczanie korzystania z SI broni [[agency|sprawczości epistemicznej]], od której ta tożsamość zależy — co oznacza też, że wzorzec nie jest ani technofobią, ani niskim zaangażowaniem.
 - **Deklarowany cel nie musi rządzić decyzją o SI.** [[ting-ai-learning-ownership-purpose-2026|Ting i wsp. (2026)]] przeprowadzili wywiady z 14 studentami studiów licencjackich i zakodowali każdy wywiad pod kątem związku między [[self-determination-theory|celem]] studenta — osobiście znaczącą intencją wniesienia czegoś poza siebie — a jego wyborami dotyczącymi SI. Tylko część dokonała tego połączenia: jedna osoba odmówiła korzystania z SI, bo koszty środowiskowe i ludzkie SI były sprzeczne z jej celem, a trzy pozwoliły przyszłej tożsamości zawodowej kształtować swoje wybory („przyczynia się do tego, że pewnego dnia będę psychologiem w świecie"). Inni z równie jasnym poczuciem celu nie tworzyli takiego związku, opisując cel i SI jako „raczej osobne", więc posiadanie tożsamości do ochrony nie było tym samym co czerpanie z niej. Artykuł rozdziela też powody, które studenci podają, by zachować pracę dla siebie — rozwój umiejętności, [[evaluative-judgment|autorstwo i dumę]] oraz sprzeciw moralny — a te przychodzą przez różne mechanizmy i nie powinny być łączone w jeden motyw.
+- **Zdolność może dotrzeć przed poczuciem przynależności.** 73-dniowa autoetnografia edukatora bioinformatyki budującego grę w nieznanej dziedzinie wykazała, że [[generative-ai|GenAI]] dostarczyła zdolność, ale nie tożsamości: przynależność przychodziła przez uczestnictwo w społecznościach praktyki i wielokrotne nadawanie sensu, a jej osiągnięcie wymagało ludzkiego tempa ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- **Odmowa jest również pracą tożsamościową:** wśród pięciu gimnazjalistów odbywających praktyki zawodowe i niebędących białymi nieużywanie SI stanowiło kontrolę, podporządkowanie się instytucjonalnym regułom lub sygnał wartości epistemicznych, podczas gdy neutralne reakcje SI tworzyły „kulturową płaskość", która pozostawiała ich doświadczenia nierozpoznane ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Relacja ze sprawczością uczącego się
 

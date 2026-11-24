@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ Sosirea [[generative-ai|IA generative]] — o familie largă care include [[llm|
 - **Cântăriți deliberat controlul față de agenție.** Dacă IA ar trebui să optimizeze spre rezultate standard sau să permită rezultate diverse, dirijate de cursant, este o alegere autentică, cu consecințe instituționale și politice, nu un dat tehnic.
 - **Păstrați agenția cursantului.** Rezistența recurentă la standardizare și control în favoarea abordărilor deschise, centrate pe cursant, este un fir durabil care merită apărat.
 
-## Idei greșite frecvente
-
-**„IA în educație a început cu ChatGPT.”** Nu a început atunci, iar convingerea este costisitoare pentru că face invizibilă fiecare lecție anterioară. [[intelligent-tutoring|Tutoriatul inteligent]] descinde din munca de căutare euristică și sisteme expert din anii 1960 și 70, iar comunitatea AIED s-a format în jurul ei cu decenii înainte de [[llm|modelele lingvistice mari]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] arată că dezbaterile actuale reproduc o diviziune deja explicită în tutorii cognitivi ai lui Anderson și în constructionismul lui Papert, așa că un cititor care datează domeniul în 2022 va rederiva argumente pe care domeniul le-a rezolvat, abandonat sau pierdut odată.
-
-**„Domeniul a abandonat constant IA-ca-analogie în favoarea instrumentelor aplicate, iar IA generativă continuă această tendință.”** Aceasta este corecția cea mai instructivă de pe pagină, pentru că traiectoria este reală, dar nu monotonă. [[rismanchian-ai-education-four-decades-aixed-2026|Analiza pozițională a lui Rismanchian și Doroudi]] asupra AIED 1985, 1993, 2021 și 2024 și a IJAIED 2004, 2014 și 2021 arată într-adevăr o derivă de la un domeniu mixt spre o instrumentalitate aplicată aproape exclusivă până în anii 2000. Dar la AIED 2024, trei dintre cele patru lucrări din cadranul IA-ca-analogie erau bazate pe LLM, inclusiv o lucrare distinsă cu premiu despre agenți predabili bazați pe LLM. IA generativă **inversează** parțial tendința, în loc să o extindă, motiv pentru care tratarea ei ca „următorul tutore inteligent” citește greșit locul în care s-a mutat de fapt frontiera cercetării.
-
-**„Personalizarea înseamnă adaptarea dificultății la fiecare cursant.”** Acesta este doar unul dintre două sensuri incompatibile, iar confundarea lor ascunde o alegere politică. În primul sens, rezultatul este ținut fix și variază doar traseul, linia descendenței mergând de la mașinile de predare ale lui Skinner până la tutoriatul bazat pe stăpânire. În al doilea, rezultatele însele se diversifică, pe măsură ce cursanții urmăresc interese individuale neconstrânse de curriculumul standard (Zhao, 2024). Un [[intelligent-tutoring|ITS]] îl implementează pe primul; [[constructivist|constructionismul]], pe al doilea. Un instrument descris drept „personalizat” nu ți-a spus nimic până nu știi pe care dintre ele îl înseamnă.
-
-**„«Inteligența artificială» a fost pur și simplu numele evident al domeniului.”** Termenul a fost o alegere deliberată. Când McCarthy a planificat proiectul Dartmouth din 1956, a preferat *inteligența artificială* în locul *ciberneticii* în parte pentru a distanța munca de tradiția feedbackului analogic a lui Wiener. Acea singură decizie a încadrat mașinile în comparație directă cu cogniția umană, iar încadrarea antropomorfă pe care a instalat-o modelează și astăzi prioritățile de cercetare, limbajul produselor și întrebările etice pe care le pune publicul.
-
 ## Punerea în practică
 
 **Pentru instructori și designerii instrucționali**
@@ -99,3 +93,13 @@ Sosirea [[generative-ai|IA generative]] — o familie largă care include [[llm|
 
 - Folosiți corpusurile istorice ca linie de bază, în loc să tratați prezentul ca singura comparație disponibilă. Procedurile AIED pentru 1985, 1993, 2021 și 2024 și IJAIED pentru 2004, 2014 și 2021 sunt un eșantion longitudinal gata făcut al propriilor afirmații ale domeniului.
 - Citați linia de descendență când revendicați noutate. O afirmație că un sistem „personalizează învățarea” sau „modelează cursantul” este novatoare doar în raport cu o tradiție anterioară specifică, iar tradiția este documentată.
+
+## Idei greșite frecvente
+
+**„IA în educație a început cu ChatGPT.”** Nu a început atunci, iar convingerea este costisitoare pentru că face invizibilă fiecare lecție anterioară. [[intelligent-tutoring|Tutoriatul inteligent]] descinde din munca de căutare euristică și sisteme expert din anii 1960 și 70, iar comunitatea AIED s-a format în jurul ei cu decenii înainte de [[llm|modelele lingvistice mari]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] arată că dezbaterile actuale reproduc o diviziune deja explicită în tutorii cognitivi ai lui Anderson și în constructionismul lui Papert, așa că un cititor care datează domeniul în 2022 va rederiva argumente pe care domeniul le-a rezolvat, abandonat sau pierdut odată.
+
+**„Domeniul a abandonat constant IA-ca-analogie în favoarea instrumentelor aplicate, iar IA generativă continuă această tendință.”** Aceasta este corecția cea mai instructivă de pe pagină, pentru că traiectoria este reală, dar nu monotonă. [[rismanchian-ai-education-four-decades-aixed-2026|Analiza pozițională a lui Rismanchian și Doroudi]] asupra AIED 1985, 1993, 2021 și 2024 și a IJAIED 2004, 2014 și 2021 arată într-adevăr o derivă de la un domeniu mixt spre o instrumentalitate aplicată aproape exclusivă până în anii 2000. Dar la AIED 2024, trei dintre cele patru lucrări din cadranul IA-ca-analogie erau bazate pe LLM, inclusiv o lucrare distinsă cu premiu despre agenți predabili bazați pe LLM. IA generativă **inversează** parțial tendința, în loc să o extindă, motiv pentru care tratarea ei ca „următorul tutore inteligent” citește greșit locul în care s-a mutat de fapt frontiera cercetării.
+
+**„Personalizarea înseamnă adaptarea dificultății la fiecare cursant.”** Acesta este doar unul dintre două sensuri incompatibile, iar confundarea lor ascunde o alegere politică. În primul sens, rezultatul este ținut fix și variază doar traseul, linia descendenței mergând de la mașinile de predare ale lui Skinner până la tutoriatul bazat pe stăpânire. În al doilea, rezultatele însele se diversifică, pe măsură ce cursanții urmăresc interese individuale neconstrânse de curriculumul standard (Zhao, 2024). Un [[intelligent-tutoring|ITS]] îl implementează pe primul; [[constructivist|constructionismul]], pe al doilea. Un instrument descris drept „personalizat” nu ți-a spus nimic până nu știi pe care dintre ele îl înseamnă.
+
+**„«Inteligența artificială» a fost pur și simplu numele evident al domeniului.”** Termenul a fost o alegere deliberată. Când McCarthy a planificat proiectul Dartmouth din 1956, a preferat *inteligența artificială* în locul *ciberneticii* în parte pentru a distanța munca de tradiția feedbackului analogic a lui Wiener. Acea singură decizie a încadrat mașinile în comparație directă cu cogniția umană, iar încadrarea antropomorfă pe care a instalat-o modelează și astăzi prioritățile de cercetare, limbajul produselor și întrebările etice pe care le pune publicul.

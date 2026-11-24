@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ Príchod [[generative-ai|generatívnej AI]] — širokej rodiny, ktorá zahŕňa
 - **Zámerne vyvažujte kontrolu a agentúru.** Či má AI optimalizovať k štandardným výsledkom, alebo umožniť rôznorodé, študentom riadené výsledky, je skutočná voľba s inštitucionálnymi a politickými dôsledkami, a nie technický fakt.
 - **Zachovajte agentúru študenta.** Opakujúci sa odpor voči štandardizácii a kontrole v prospech otvorených prístupov zameraných na študenta je trvácne vlákno, ktoré stojí za obranu.
 
-## Bežné mylné predstavy
-
-**„AI vo vzdelávaní začala s ChatGPT.“** Nezačala a toto presvedčenie je nákladné, pretože robí každú skoršiu lekciu neviditeľnou. [[intelligent-tutoring|Inteligentné doučovanie]] pochádza z práce na heuristickom hľadaní a expertných systémoch 60. a 70. rokov a komunita AIED sa okolo neho sformovala desaťročia pred [[llm|veľkými jazykovými modelmi]]. [[mishra-control-vs-agency-history-2025|Mishra a spol.]] ukazujú, že súčasné debaty reprodukujú delenie už zjavné v Andersonových kognitívnych tútoroch a Papertovom konštrukcionizme, takže čitateľ, ktorý datuje obor do roku 2022, znovu odvodí argumenty, ktoré obor už raz vyriešil, opustil alebo prehral.
-
-**„Obor sústavne opúšťal AI ako analógiu v prospech aplikovaných nástrojov a generatívna AI v tomto trende pokračuje.“** To je najinštruktívnejšia korekcia na stránke, pretože trajektória je reálna, ale nie monotónna. [[rismanchian-ai-education-four-decades-aixed-2026|Pozičná analýza Rismanchiana a Doroudiho]] z AIED 1985, 1993, 2021 a 2024 a IJAIED 2004, 2014 a 2021 skutočne ukazuje posun od zmiešaného oboru k takmer výlučnej aplikovanej inštrumentalite v 2000. rokoch. Ale na AIED 2024 boli tri zo štyroch článkov v kvadrante AI ako analógia založené na LLM, vrátane najlepšieho článku o učiteľných agentoch založených na LLM. Generatívna AI tento trend čiastočne **obracia**, a nie predlžuje, a preto jej pokladanie za „ďalšieho inteligentného tútora“ nesprávne číta, kam sa výskumná hranica vlastne posunula.
-
-**„Personalizácia znamená prispôsobenie náročnosti každému študentovi.“** To je len jeden z dvoch nezlučiteľných zmyslov a ich zamiešanie skrýva politickú voľbu. V prvom zmysle je výsledok pevne daný a mení sa len cesta, s líniou od Skinnerových vyučovacích strojov po doučovanie založené na zvládnutí. V druhom sa samotné výsledky diverzifikujú, keď študenti sledujú individuálne záujmy bez obmedzenia štandardným kurikulom (Zhao, 2024). [[intelligent-tutoring|ITS]] implementuje prvý; [[constructivist|konštrukcionizmus]] druhý. Nástroj opísaný ako „personalizovaný“ vám nepovedal nič, kým neviete, ktorý z nich má na mysli.
-
-**„‚Umelá inteligencia‘ bol jednoducho zjavný názov oboru.“** Termín bol zámernou voľbou. Keď McCarthy plánoval Dartmouthský projekt v roku 1956, uprednostnil *umelú inteligenciu* pred *kybernetikou* čiastočne preto, aby prácu vzdialil od Wienerovej tradície analógovej spätnej väzby. Toto jediné rozhodnutie rámovalo stroje v priamom porovnaní s ľudským poznávaním a antropomorfné rámovanie, ktoré zaviedlo, stále formuje výskumné priority, jazyk produktov a etické otázky, ktoré verejnosť kladie.
-
 ## Uvedenie do praxe
 
 **Pre inštruktorov a inštrukčných dizajnérov**
@@ -99,3 +93,13 @@ Príchod [[generative-ai|generatívnej AI]] — širokej rodiny, ktorá zahŕňa
 
 - Používajte historické korpusy ako základnú líniu, namiesto pokladania prítomnosti za jediné dostupné porovnanie. Proceedings AIED z 1985, 1993, 2021 a 2024 a IJAIED z 2004, 2014 a 2021 sú hotovou longitudinálnou vzorkou tvrdení samotného oboru.
 - Pri tvrdení o novosti citujte líniu. Tvrdenie, že systém „personalizuje učenie“ alebo „modeluje študenta“, je nové len vo vzťahu ku konkrétnej predchádzajúcej tradícii, a tá tradícia je zdokumentovaná.
+
+## Bežné mylné predstavy
+
+**„AI vo vzdelávaní začala s ChatGPT.“** Nezačala a toto presvedčenie je nákladné, pretože robí každú skoršiu lekciu neviditeľnou. [[intelligent-tutoring|Inteligentné doučovanie]] pochádza z práce na heuristickom hľadaní a expertných systémoch 60. a 70. rokov a komunita AIED sa okolo neho sformovala desaťročia pred [[llm|veľkými jazykovými modelmi]]. [[mishra-control-vs-agency-history-2025|Mishra a spol.]] ukazujú, že súčasné debaty reprodukujú delenie už zjavné v Andersonových kognitívnych tútoroch a Papertovom konštrukcionizme, takže čitateľ, ktorý datuje obor do roku 2022, znovu odvodí argumenty, ktoré obor už raz vyriešil, opustil alebo prehral.
+
+**„Obor sústavne opúšťal AI ako analógiu v prospech aplikovaných nástrojov a generatívna AI v tomto trende pokračuje.“** To je najinštruktívnejšia korekcia na stránke, pretože trajektória je reálna, ale nie monotónna. [[rismanchian-ai-education-four-decades-aixed-2026|Pozičná analýza Rismanchiana a Doroudiho]] z AIED 1985, 1993, 2021 a 2024 a IJAIED 2004, 2014 a 2021 skutočne ukazuje posun od zmiešaného oboru k takmer výlučnej aplikovanej inštrumentalite v 2000. rokoch. Ale na AIED 2024 boli tri zo štyroch článkov v kvadrante AI ako analógia založené na LLM, vrátane najlepšieho článku o učiteľných agentoch založených na LLM. Generatívna AI tento trend čiastočne **obracia**, a nie predlžuje, a preto jej pokladanie za „ďalšieho inteligentného tútora“ nesprávne číta, kam sa výskumná hranica vlastne posunula.
+
+**„Personalizácia znamená prispôsobenie náročnosti každému študentovi.“** To je len jeden z dvoch nezlučiteľných zmyslov a ich zamiešanie skrýva politickú voľbu. V prvom zmysle je výsledok pevne daný a mení sa len cesta, s líniou od Skinnerových vyučovacích strojov po doučovanie založené na zvládnutí. V druhom sa samotné výsledky diverzifikujú, keď študenti sledujú individuálne záujmy bez obmedzenia štandardným kurikulom (Zhao, 2024). [[intelligent-tutoring|ITS]] implementuje prvý; [[constructivist|konštrukcionizmus]] druhý. Nástroj opísaný ako „personalizovaný“ vám nepovedal nič, kým neviete, ktorý z nich má na mysli.
+
+**„‚Umelá inteligencia‘ bol jednoducho zjavný názov oboru.“** Termín bol zámernou voľbou. Keď McCarthy plánoval Dartmouthský projekt v roku 1956, uprednostnil *umelú inteligenciu* pred *kybernetikou* čiastočne preto, aby prácu vzdialil od Wienerovej tradície analógovej spätnej väzby. Toto jediné rozhodnutie rámovalo stroje v priamom porovnaní s ľudským poznávaním a antropomorfné rámovanie, ktoré zaviedlo, stále formuje výskumné priority, jazyk produktov a etické otázky, ktoré verejnosť kladie.

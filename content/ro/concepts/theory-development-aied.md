@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -73,6 +77,8 @@ Alte lucrări extind teoria existentă în contextul IA, în loc să fondeze par
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin și Chang (2026)]] extind [[self-regulated-learning|învățarea autoreglată]] și reglarea om–IA numind ce guvernează învățăcelul — standarde, [[evaluative-judgment|judecăți evaluative]] și autorizarea controlului — nu doar ce face IA.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai și Flenady (2026)]] importă recunoașterea lui Honneth și a lui Brandom în teoria feedbackului, susținând că atribuirea reciprocă a statutului, nu calitatea informației, este ceea ce face dintr-un comentariu un motiv de acționat.
+
 Paradoxul fricțiunii oferă o altă extensie a teoriei consacrate: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] aplică [[desirable-difficulties|dificultățile dezirabile]] ale lui Bjork și Bjork și [[productive-failure|eșecul productiv]] al lui Kapur la întâlnirile relaționale din educația în străinătate, susținând că contează câtă agenție interpretativă [[transfer-of-learning|transferă]] un student unui asistent generativ, nu cât de des îl folosește. Cadrul este conceptual și enunță cinci propoziții ca ipoteze concurente.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] avansează taxonomia funcțională a domeniului a lui Zawacki-Richter et al. (2019): dintre cele 154 de publicații cu o funcție de aplicare clasificabilă, 90 (58,4%) au scăpat celor patru categorii ale ei, iar cadrul lor încrucișează funcția cu controlul delegat, poziția epistemică și pedagogia încorporată.
@@ -91,15 +97,7 @@ Teoretizarea domeniului este inegală. [[limitations-in-aied-research|Limităril
 
 ## Relația cu filosofia IA în educație
 
-Dezvoltarea teoriei și [[philosophy-of-ai-in-education|filosofia IA în educație]] sunt fire complementare, dar distincte ale muncii fundamentale a bazei de cunoștințe. **Dezvoltarea teoriei** produce și testează empiric *mecanismele* învățării cu IA — teorii și cadre numite precum generativismul, co-agenția epistemică și baza cognitivă absentă, care explică și prezic modul în care interacționează învățăceii și IA. **Filosofia** interoghează *presupunerile* pe care se sprijină acele mecanisme: ce contează ca cunoaștere, cine contează ca cunoscător și ce este în mod fundamental învățăcelul. O teorie precum [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agenția epistemică]] propune un mecanism, adoptând implicit angajamente filosofice despre cogniția distribuită și [[agency|agenție]]; filosofia face acele angajamente explicite și contestabile. Acolo unde dezvoltarea teoriei întreabă dacă un cadru explică bine învățarea, filosofia întreabă dacă surprinde ce sunt cu adevărat învățarea și mintea — cele două fire se întâlnesc în cele mai fundamentale articole ale domeniului, care adesea fac ambele deodată.
-
-## Idei greșite frecvente
-
-**„O constatare că instrumentul a funcționat este o contribuție teoretică.”** Nu este, iar motivul este structural. Acolo unde propozițiile unui cadru prezic *diferențe între configurații*, un studiu care raportează doar un efect mediu **nu le poate confirma sau infirma** — designul nu poate vedea distincția despre care este teoria. Un trial care arată un câștig mediu îți spune că s-a întâmplat ceva, nu care mecanism l-a cauzat, așa că teoria rămâne exact la fel de susținută ca înainte.
-
-**„Aplicarea unei teorii consacrate la IA este dezvoltare de teorie.”** Problema utilizării teoriei a acestei pagini spune altfel: aplicarea nu este avansare, iar tiparul recurent al domeniului este folosirea constructelor împrumutate ca vocabular, nu ca predicții testabile. Distincția contează pentru că un cadru împrumutat care nu poate genera o diferență falsificabilă este decorațiune, nu teorie.
-
-**„Taxonomiile existente ale funcției pedagogice a IA acoperă deja ce fac aceste sisteme.”** Nu acoperă mare parte din asta. Dintre 154 de publicații cu o funcție de aplicare clasificabilă, **90 (58,4%) au scăpat celor patru categorii** ale cadrului anterior, motiv pentru care lucrările mai noi încrucișează funcția cu controlul delegat, poziția epistemică și pedagogia încorporată. O taxonomie care clasifică greșit aproape trei din cinci cazuri nu poate servi drept vocabular comun al domeniului, iar decalajul este o constatare despre fenomen, nu o lipsă într-o lucrare.
+Dezvoltarea teoriei și [[philosophy-of-ai-in-education|filosofia IA în educație]] sunt fire complementare, dar distincte ale muncii fundamentale a bazei de cunoștințe. **Dezvoltarea teoriei** produce și testează empiric *mecanismele* învățării cu IA — teorii și cadre numite precum generativismul, co-agenția epistemică și baza cognitivă absentă, care explică și prezic modul în care interacționează învățăceii și IA. **Filosofia** interoghează *presupunerile* pe care se sprijină acele mecanisme: ce contează ca cunoaștere, cine contează ca cunoscător și ce este în mod fundamental învățăcelul. O teorie precum [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agenția epistemică]] propune un mecanism, adoptând implicit angajamente filosofice despre cogniția distribuită și [[agency|agenție]]; filosofia face acele angajamente explicite și contestabile. Acolo unde dezvoltarea teoriei întreabă dacă un cadru explică bine învățarea, filosofia întreabă dacă surprinde ce sunt cu adevărat învățarea și mintea — cele două fire se întâlnesc în cele mai fundamentale articole ale domeniului, care adesea fac ambele deodată. Ce spun criticii domeniului despre direcțiile pe care acele teorii le deschid sau le închide este o întrebare separată, adunată sub [[critiques-of-ai-in-education|Critici ale IA în educație]].
 
 ## Implicații pentru practică
 
@@ -118,3 +116,11 @@ Dezvoltarea teoriei și [[philosophy-of-ai-in-education|filosofia IA în educaț
 
 - Proiectează contraste între configurații dacă intenționezi o contribuție teoretică. Un trial cu efect mediu publicat ca dezvoltare de teorie este cel mai comun și cel mai puțin util rezultat al domeniului.
 - Atașează propoziții falsificabile explicite oricărui cadru pe care îl introduci și raportează care diferențe între configurații le-ar fi infirmat.
+
+## Idei greșite frecvente
+
+**„O constatare că instrumentul a funcționat este o contribuție teoretică.”** Nu este, iar motivul este structural. Acolo unde propozițiile unui cadru prezic *diferențe între configurații*, un studiu care raportează doar un efect mediu **nu le poate confirma sau infirma** — designul nu poate vedea distincția despre care este teoria. Un trial care arată un câștig mediu îți spune că s-a întâmplat ceva, nu care mecanism l-a cauzat, așa că teoria rămâne exact la fel de susținută ca înainte.
+
+**„Aplicarea unei teorii consacrate la IA este dezvoltare de teorie.”** Problema utilizării teoriei a acestei pagini spune altfel: aplicarea nu este avansare, iar tiparul recurent al domeniului este folosirea constructelor împrumutate ca vocabular, nu ca predicții testabile. Distincția contează pentru că un cadru împrumutat care nu poate genera o diferență falsificabilă este decorațiune, nu teorie.
+
+**„Taxonomiile existente ale funcției pedagogice a IA acoperă deja ce fac aceste sisteme.”** Nu acoperă mare parte din asta. Dintre 154 de publicații cu o funcție de aplicare clasificabilă, **90 (58,4%) au scăpat celor patru categorii** ale cadrului anterior, motiv pentru care lucrările mai noi încrucișează funcția cu controlul delegat, poziția epistemică și pedagogia încorporată. O taxonomie care clasifică greșit aproape trei din cinci cazuri nu poate servi drept vocabular comun al domeniului, iar decalajul este o constatare despre fenomen, nu o lipsă într-o lucrare.

@@ -2,7 +2,7 @@
 title: Krytyka sztucznej inteligencji w edukacji
 type: concept
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 research_method: [literature review]
 confidence: high
 foundations: [ai-education, philosophy-of-ai-in-education, theories-and-frameworks]
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Druga grupa atakuje raczej słownictwo niż maszynę. Wang i Jin czytają dokume
 
 ## Infrastruktura, transdukcja i nierozpoznanie
 
-Trzecia grupa przenosi uwagę z narzędzia na otaczającą infrastrukturę. Watson, Morgner i Brezovec traktują generatywną SI jako infrastrukturę pośredniczącą w sensie i nazywają jej mechanizm *transdukcją semantyczną*: przeformatowaniem edukacyjnego żądania — promptu, zadania, rubryki, pytania egzaminacyjnego, gatunku lub polityki — w komunikacyjnie przekonującą formę ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). Ponieważ transdukcja jest selektywna, może włączać lub wykluczać. Trzy miejsca powtarzają się: podziały dostępu i zdolności; nierozpoznanie przez szablony tego, jak powinno brzmieć dobra odpowiedź lub dobry uczeń; i dryf normatywny w tym, co się uznaje za pedagogikę. Wykluczenie jest często raczej pincetą niż zakazem — instytucje podnoszą oczekiwania co do tempa, szlifu i idiomatycznej płynności, jednocześnie zaostrzając reżimy autentyczności.
+Trzecia grupa przenosi uwagę z narzędzia na otaczającą infrastrukturę. Watson, Morgner i Brezovec traktują generatywną SI jako infrastrukturę pośredniczącą w sensie i nazywają jej mechanizm *transdukcją semantyczną*: przeformatowaniem edukacyjnego żądania — promptu, zadania, [[rubrics|rubryki]], pytania egzaminacyjnego, gatunku lub polityki — w komunikacyjnie przekonującą formę ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). Ponieważ transdukcja jest selektywna, może włączać lub wykluczać. Trzy miejsca powtarzają się: podziały dostępu i zdolności; nierozpoznanie przez szablony tego, jak powinno brzmieć dobra odpowiedź lub dobry uczeń; i dryf normatywny w tym, co się uznaje za pedagogikę. Wykluczenie jest często raczej pincetą niż zakazem — instytucje podnoszą oczekiwania co do tempa, szlifu i idiomatycznej płynności, jednocześnie zaostrzając reżimy autentyczności.
 
 ## Wyznaczanie porządku, symulowana innowacja i eksperymentalne futurowanie
 
