@@ -1,7 +1,7 @@
 ---
 title: Executive Function
 created: "2026-11-12T18:35:44-05:00"
-updated: "2026-11-24T07:40:00-05:00"
+updated: "2026-11-24T08:05:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -18,6 +18,7 @@ connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cog
 connected_notebooks:
   - title: "Executive function"
     url: https://notebooklm.link.google/Q0iPRc8FGXFu
+connected_videos: [why-students-use-ai]
 
 ---
 

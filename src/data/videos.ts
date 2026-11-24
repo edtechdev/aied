@@ -167,6 +167,16 @@ export const VIDEOS: Video[] = [
     concepts: ['writing-education'],
     faqs: [],
   },
+  {
+    slug: 'why-students-use-ai',
+    youtubeId: 'A0Y8oG0U_e0',
+    title: 'Why Students Use AI',
+    summary:
+      'A reading of the Klarin et al. evidence that adolescents with more everyday executive-functioning difficulties come to prefer generative AI for schoolwork, and why that may be compensation rather than habit risk.',
+    seconds: 450,
+    concepts: ['executive-function'],
+    faqs: [],
+  },
 ];
 
 export const VIDEO_BY_SLUG = new Map(VIDEOS.map(v => [v.slug, v]));
