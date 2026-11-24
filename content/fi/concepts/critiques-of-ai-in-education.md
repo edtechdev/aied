@@ -2,7 +2,7 @@
 title: Kriittinen näkökulma tekoälyyn koulutuksessa
 type: concept
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 research_method: [literature review]
 confidence: high
 foundations: [ai-education, philosophy-of-ai-in-education, theories-and-frameworks]
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Toinen ryhmä hyökkää koneen sijaan sanaston kimppuun. Wang ja Jin lukevat UN
 
 ## Infrastruktuuri, transduktio ja väärät tunnistamiset
 
-Kolmas ryhmä siirtää huomion välineestä ympäröivään infrastruktuuriin. Watson, Morgner ja Brezovec pitävät generatiivista tekoälyä merkitystä välittävänä infrastruktuurina ja nimeävät sen mekanismin *semanttiseksi transduktioksi*: koulutuskysyntä — prompti, tehtävä, rubriikki, tenttikysymys, genre tai politiikka — muotoillaan uudelleen kommunikatiivisesti uskottavaan muotoon ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). Koska transduktio on valikoiva, se voi sisällyttää tai rajoittaa. Kolme paikkaa toistuu: pääsyn ja kyvyn kuilut; väärät tunnistamiset siinä, miltä hyvän vastauksen tai hyvän oppilaan tulisi kuulostaa; ja normatiivinen driftaus siinä, mitä opetuskäytäntönä pidetään. Sulkeutuminen on useammin hakkasin kuin kielto — laitokset korottavat odotuksia tahdista, viimeistellyestä muodosta ja idioomaattisesta sujuvuudesta samalla kun kiristävät autenttisuusjärjestelmiä.
+Kolmas ryhmä siirtää huomion välineestä ympäröivään infrastruktuuriin. Watson, Morgner ja Brezovec pitävät generatiivista tekoälyä merkitystä välittävänä infrastruktuurina ja nimeävät sen mekanismin *semanttiseksi transduktioksi*: koulutuskysyntä — prompti, tehtävä, [[rubrics|rubriikki]], tenttikysymys, genre tai politiikka — muotoillaan uudelleen kommunikatiivisesti uskottavaan muotoon ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, Brezovec, 2026]]). Koska transduktio on valikoiva, se voi sisällyttää tai rajoittaa. Kolme paikkaa toistuu: pääsyn ja kyvyn kuilut; väärät tunnistamiset siinä, miltä hyvän vastauksen tai hyvän oppilaan tulisi kuulostaa; ja normatiivinen driftaus siinä, mitä opetuskäytäntönä pidetään. Sulkeutuminen on useammin hakkasin kuin kielto — laitokset korottavat odotuksia tahdista, viimeistellyestä muodosta ja idioomaattisesta sujuvuudesta samalla kun kiristävät autenttisuusjärjestelmiä.
 
 ## Agenda-asetus, simuloitu innovaatio ja kokeellinen tulevaisuus
 

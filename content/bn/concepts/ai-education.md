@@ -1,7 +1,7 @@
 ---
 title: "শিক্ষায় কৃত্রিম বুদ্ধিমত্তা"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -33,6 +33,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -86,7 +90,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## শিক্ষায় কৃত্রিম বুদ্ধিমত্তার ভিত্তি
 
-ক্ষেত্রের আড়ালপর্বে-ছাঁটাপ্রাপ্ত এবং ভিত্তিগত ধারণাগুলো জ্ঞানভিত্তির ব্যাপ্তিকে সংযুক্ত করে এবং সাইডবারে প্রথমে উপস্থিত হয়। এগুলো একটি **অপরিহার্য** গোষ্ঠীর সাথে শুরু হয় — যে ধারণাগুলো দিয়ে প্রতিটি পাঠকের শুরু করা উচিত: নিজেই ছাতা, [[misconceptions|AI সম্পর্কে ভুল ধারণা]], [[ai-literacy|AI সাক্ষরতা]], [[agentic-ai|এজেন্টিক AI]], [[cognitive-offloading|সংজ্ঞানাত্মক অফলোডিং]], [[framing-ai-use-for-students|শিক্ষার্থীদের জন্য AI ব্যবহার কীভাবে ফ্রেম করা হয়]], [[reducing-ai-misuse|AI অপব্যবহার কমানো]], [[academic-integrity|শিক্ষাগত সততা]], [[teacher-role|শিক্ষাদান]], [[learning-design|লার্নিং ডিজাইন]], এবং [[educational-development|শিক্ষামূলক উন্নয়ন]]। এরপর **ক্ষেত্র** ধারা অন্তর্ভুক্ত করে [[history-of-aied|ক্ষেত্রের ইতিহাস]], প্রমাণভিত্তির [[limitations-in-aied-research|আড়ালপর্বের সীমাবদ্ধতা]], [[philosophy-of-ai-in-education|তার দর্শন]], [[theories-and-frameworks|তত্ত্ব ও কাঠামো]]র মানচিত্র, এবং [[theory-development-aied|তত্ত্ব উন্নয়ন]]। আড়ালপর্বের থিমগুলো — [[human-ai-collaboration|মানুষ–AI সহযোগিতা]], [[agency|শিক্ষার্থীর এজেন্সি]], [[learner-identity|শিক্ষার্থীর পরিচয়]], [[design-thinking|ডিজাইন চিন্তা]], [[curriculum-design|পাঠ্যক্রম নকশা]], [[critical-thinking|সমালোচনামূলক চিন্তা]], এবং [[computational-thinking|গণনীয় চিন্তা]] — প্রতিটি ধারাকে ছেদ করে, কারণ AI সম্পর্কে মানুষের ভুল মানসিক মডেলগুলো [[ai-misuse-learning-harm|অপব্যবহার]] এবং অপর্যাপ্তভাবে-মান-নির্ধারিত [[trust-calibration|বিশ্বাস]] এর অ্যাপস্ট্রিম।
+ক্ষেত্রের আড়ালপর্বে-ছাঁটাপ্রাপ্ত এবং ভিত্তিগত ধারণাগুলো জ্ঞানভিত্তির ব্যাপ্তিকে সংযুক্ত করে এবং সাইডবারে প্রথমে উপস্থিত হয়। এগুলো একটি **অপরিহার্য** গোষ্ঠীর সাথে শুরু হয় — যে ধারণাগুলো দিয়ে প্রতিটি পাঠকের শুরু করা উচিত: নিজেই ছাতা, [[misconceptions|AI সম্পর্কে ভুল ধারণা]], [[ai-literacy|AI সাক্ষরতা]], [[agentic-ai|এজেন্টিক AI]], [[cognitive-offloading|সংজ্ঞানাত্মক অফলোডিং]], [[framing-ai-use-for-students|শিক্ষার্থীদের জন্য AI ব্যবহার কীভাবে ফ্রেম করা হয়]], [[reducing-ai-misuse|AI অপব্যবহার কমানো]], [[academic-integrity|শিক্ষাগত সততা]], [[teacher-role|শিক্ষাদান]], [[learning-design|লার্নিং ডিজাইন]], এবং [[educational-development|শিক্ষামূলক উন্নয়ন]]। এরপর **ক্ষেত্র** ধারা অন্তর্ভুক্ত করে [[history-of-aied|ক্ষেত্রের ইতিহাস]], প্রমাণভিত্তির [[limitations-in-aied-research|আড়ালপর্বের সীমাবদ্ধতা]], [[philosophy-of-ai-in-education|তার দর্শন]], [[theories-and-frameworks|তত্ত্ব ও কাঠামো]]র মানচিত্র, এবং [[theory-development-aied|তত্ত্ব উন্নয়ন]], এবং [[learning-environments-as-systems|শিখন-পরিবেশকে ব্যবস্থা হিসেবে]], যা একটি শিখন-পরিবেশকে অন্য স্তরের প্রভাবশালী বহু-স্তরবিশিষ্ট ব্যবস্থা হিসেবে দেখে। আড়ালপর্বের থিমগুলো — [[human-ai-collaboration|মানুষ–AI সহযোগিতা]], [[agency|শিক্ষার্থীর এজেন্সি]], [[learner-identity|শিক্ষার্থীর পরিচয়]], [[design-thinking|ডিজাইন চিন্তা]], [[curriculum-design|পাঠ্যক্রম নকশা]], [[critical-thinking|সমালোচনামূলক চিন্তা]], এবং [[computational-thinking|গণনীয় চিন্তা]] — প্রতিটি ধারাকে ছেদ করে, কারণ AI সম্পর্কে মানুষের ভুল মানসিক মডেলগুলো [[ai-misuse-learning-harm|অপব্যবহার]] এবং অপর্যাপ্তভাবে-মান-নির্ধারিত [[trust-calibration|বিশ্বাস]] এর অ্যাপস্ট্রিম।
 
 ## শিখন ও শিক্ষাদান
 
@@ -132,7 +136,7 @@ AI বিষয়বস্তু ও শিক্ষার স্তর জু�
 
 AI রূপ দেয় — আমরা কীভাবে শিক্ষার্থীদের মূল্যায়ন করি এবং আমরা কীভাবে AI সিস্টেম নিজেকেই মূল্যায়ন করি, উভয়কেই:
 
-- **মূল্যায়ন ও ফিডব্যাক:** [[assessment|মূল্যায়ন]], [[formative-assessment|গঠনমূলক মূল্যায়ন]], [[summative-assessment|সারসংক্ষেপমূলক মূল্যায়ন]], [[authentic-assessment|বাস্তবসম্মত মূল্যায়ন]], [[eportfolio|ই-পোর্টফোলিও]], [[feedback|ফিডব্যাক]] এবং [[feedback-literacy|ফিডব্যাক সাক্ষরতা]], [[ai-feedback-quality|AI ফিডব্যাকের মান]], [[peer-assessment|সহপাঠী মূল্যায়ন]], [[oral-assessment|মৌখিক মূল্যায়ন]], [[automated-assessment|স্বয়ংক্রিয় মূল্যায়ন]], [[automated-essay-scoring|স্বয়ংক্রিয় প্রবন্ধ মূল্যায়ন]], এবং [[automated-question-generation|স্বয়ংক্রিয় প্রশ্ন সৃষ্টি]]। কারণ একটি মডেল এখন চাহিদামতো বিশ্বাসযোগ্য সম্পূর্ণ কাজ তৈরি করতে পারে, জ্ঞানভিত্তি সেই ক্ষমতাকে অগ্রভাগ দেয় যা শিক্ষার্থীর নিজের থাকে: [[evaluative-judgment|মূল্যায়নমূলক বিচার]], নিজের কাজ, সহপাঠীদের কাজ এবং যুক্তিনির্ভর মানদণ্ডের বিপরীতে AI আউটপুটের মান মূল্যায়ন করার সামর্থ্য। এটি সেই কনস্ট্রাক্ট যার দিকে কয়েকটি ফিডব্যাক ও বাস্তবসম্মত-মূল্যায়ন গবেষণা অভিসারি — একটি মাল্টিসাইট পরীক্ষায় হাইব্রিড ফিডব্যাক অবস্থা সরাসরি AI ফিডব্যাককে ছাপিয়ে যায়, AI গঠনমূলক ফিডব্যাকে স্থায়িত্বের ফাঁক, এবং শিক্ষার্থীদের সিদ্ধান্ত মূল্যায়ন করার বাস্তব চলন কেবল আর্টিফ্যাক্ট নয় — এবং এটি AI-যুগের পুনর্নকশা কেন [[ai-detection|সনাক্তকরণ]] থেকে পরীক্ষায় টিকে থাকা নিষ্ঠার কাজগুলির দিকে সরে তার একটি মূল কারণ। [[group-work|দলগত কাজ]]ও সমানভাবে প্রক্রিয়া ও উৎপাদন উভয়ভাবে মূল্যায়ন হয়, যেখানে দলগুলোরকে আলোচনাতে ঠিক করতে হয় কার এবং কোন ধরনের AI সম্পৃক্ততা গ্রহণযোগ্য হিসেবে গণ্য।
+- **মূল্যায়ন ও ফিডব্যাক:** [[assessment|মূল্যায়ন]], [[formative-assessment|গঠনমূলক মূল্যায়ন]], [[summative-assessment|সারসংক্ষেপমূলক মূল্যায়ন]], [[authentic-assessment|বাস্তবসম্মত মূল্যায়ন]], [[eportfolio|ই-পোর্টফোলিও]], [[feedback|ফিডব্যাক]] এবং [[feedback-literacy|ফিডব্যাক সাক্ষরতা]], [[ai-feedback-quality|AI ফিডব্যাকের মান]], [[peer-assessment|সহপাঠী মূল্যায়ন]], [[oral-assessment|মৌখিক মূল্যায়ন]], [[automated-assessment|স্বয়ংক্রিয় মূল্যায়ন]], [[automated-essay-scoring|স্বয়ংক্রিয় প্রবন্ধ মূল্যায়ন]], এবং [[automated-question-generation|স্বয়ংক্রিয় প্রশ্ন সৃষ্টি]], এবং [[rubrics|রুব্রিক]]। রুব্রিক হলো সেই যন্ত্র যা মানদণ্ড বহন করে: ঘোষিত মাত্রা ও স্তর-বর্ণনা যা কোনো কাজের একটি পাঠকে পুনরুত্পাদনযোগ্য করে, এবং সেই স্পেসিফিকেশন যা মডেল পড়ে যখন নম্বর দেয়। কারণ একটি মডেল এখন চাহিদামতো বিশ্বাসযোগ্য সম্পূর্ণ কাজ তৈরি করতে পারে, জ্ঞানভিত্তি সেই ক্ষমতাকে অগ্রভাগ দেয় যা শিক্ষার্থীর নিজের থাকে: [[evaluative-judgment|মূল্যায়নমূলক বিচার]], নিজের কাজ, সহপাঠীদের কাজ এবং যুক্তিনির্ভর মানদণ্ডের বিপরীতে AI আউটপুটের মান মূল্যায়ন করার সামর্থ্য। এটি সেই কনস্ট্রাক্ট যার দিকে কয়েকটি ফিডব্যাক ও বাস্তবসম্মত-মূল্যায়ন গবেষণা অভিসারি — একটি মাল্টিসাইট পরীক্ষায় হাইব্রিড ফিডব্যাক অবস্থা সরাসরি AI ফিডব্যাককে ছাপিয়ে যায়, AI গঠনমূলক ফিডব্যাকে স্থায়িত্বের ফাঁক, এবং শিক্ষার্থীদের সিদ্ধান্ত মূল্যায়ন করার বাস্তব চলন কেবল আর্টিফ্যাক্ট নয় — এবং এটি AI-যুগের পুনর্নকশা কেন [[ai-detection|সনাক্তকরণ]] থেকে পরীক্ষায় টিকে থাকা নিষ্ঠার কাজগুলির দিকে সরে তার একটি মূল কারণ। [[group-work|দলগত কাজ]]ও সমানভাবে প্রক্রিয়া ও উৎপাদন উভয়ভাবে মূল্যায়ন হয়, যেখানে দলগুলোরকে আলোচনাতে ঠিক করতে হয় কার এবং কোন ধরনের AI সম্পৃক্ততা গ্রহণযোগ্য হিসেবে গণ্য।
 - **পরিমাপ ও বৈধতা:** [[assessment-validity|মূল্যায়নের বৈধতা]], [[psychometrically-aware-ai|সাইকোমেট্রিকভাবে-সচেতন AI]], [[educational-measurement|শিক্ষামূলক পরিমাপ]], [[item-response-theory|আইটেম রেসপন্স থিওরি]], [[self-report-measures|স্ব-প্রতিবেদনের পরিমাপ]] (এই প্রমাণের একটি বৃহৎ অংশের পেছনের যন্ত্র, এবং একটি পুনরাবৃত্ত সীমাবদ্ধতা), [[ai-detection|AI সনাক্তকরণ]], [[remote-proctoring|রিমোট প্রক্টরিং]], এবং [[academic-integrity|শিক্ষাগত সততা]]।
 
 ## গবেষণা পদ্ধতি ও মূল্যায়ন

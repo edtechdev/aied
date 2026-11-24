@@ -1,7 +1,7 @@
 ---
 title: Kritike umjetne inteligencije u obrazovanju
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Drugi klaster napada vokabular, a ne strojarje. Wang i Jin čitaju političke do
 
 ## Infrastruktura, transdukcija i neprepoznavanje
 
-Treći klaster pomiće pozornost s alata na infrastrukturu koja ga okružuje. Watson, Morgner i Brezovec generativnu umjetnu inteligenciju tretiraju kao infrastrukturu koja posreduje značenje, a njezin mehanizam nazivaju *semantičkom transdukcijom*: ponovnim oblikovanjem obrazovnog zahtjeva — poticaja, brifinga, rubrike, ispitnog pitanja, žanra ili politike — u komunikativno uvjerljiv oblik ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner i Brezovec (2026.)]]). Budući da je transdukcija selektivna, može uključivati ili isključivati. Tri se mjesta ponavljaju: jazovi u pristupu i sposobnostima, neprepoznavanje na temelju predložaka o tome kako zvuči dobar odgovor ili dobar učenik, te normativni pomak u tome što se smatra pedagogijom. Isključivanje je često kliješta, a ne zabrana — ustanove istovremeno podižu očekivanja o tempu, uglađenosti i idiomatskoj tečnosti dok istodobno oštre režime autentičnosti.
+Treći klaster pomiće pozornost s alata na infrastrukturu koja ga okružuje. Watson, Morgner i Brezovec generativnu umjetnu inteligenciju tretiraju kao infrastrukturu koja posreduje značenje, a njezin mehanizam nazivaju *semantičkom transdukcijom*: ponovnim oblikovanjem obrazovnog zahtjeva — poticaja, brifinga, [[rubrics|rubrike]], ispitnog pitanja, žanra ili politike — u komunikativno uvjerljiv oblik ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner i Brezovec (2026.)]]). Budući da je transdukcija selektivna, može uključivati ili isključivati. Tri se mjesta ponavljaju: jazovi u pristupu i sposobnostima, neprepoznavanje na temelju predložaka o tome kako zvuči dobar odgovor ili dobar učenik, te normativni pomak u tome što se smatra pedagogijom. Isključivanje je često kliješta, a ne zabrana — ustanove istovremeno podižu očekivanja o tempu, uglađenosti i idiomatskoj tečnosti dok istodobno oštre režime autentičnosti.
 
 ## Postavljanje agende, simulirana inovacija i eksperimentalno oblikovanje budućnosti
 

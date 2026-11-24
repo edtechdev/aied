@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -31,9 +35,9 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif
 ## Pohdittavaksi
 
 - Kun chatbotti palauttaa varman oloisen kappaleen, jossa on kolme lähdeviitettä, harjoittaako opiskelija informaatiolukutaitoa, medialukutaitoa vai ei kumpaakaan — ja tekeekö tehtävä tuon eron näkyväksi?
-- Deepfaket ja keksityt lähdeviitteet ovat erilaisia epäonnistumisia: toinen on väärä merkintä maailmasta, toinen väärä merkintä kirjallisuudesta. Voiko yksi kurssi opettaa molempia opettamatta kumpaakaan huonosti?
-- Tekoälytunnistimet ja faktantarkistajat ovat itsekin malleja, joilla on virheasteet. Mitä varmentamisen opetussuunnitelmalle tapahtuu, kun varmentava työkalu on probabilistinen?
-- Medialukutaitoa on opetettu tuottamisen kautta — opiskelijat tekevät mediaa ymmärtääkseen sitä. Jos malli nyt tekee artefaktin, mikä osa pedagogiikasta säilyy?
+- [[ai-avatars-and-synthetic-instructors|Deepfaket]] ja keksityt lähdeviitteet ovat erilaisia epäonnistumisia: toinen on väärä merkintä maailmasta, toinen väärä merkintä kirjallisuudesta. Voiko yksi kurssi opettaa molempia opettamatta kumpaakaan huonosti?
+- Tekoälytunnistimet ja faktantarkistajat ovat itsekin malleja, joilla on virheasteet. Mitä varmentamisen [[curriculum-design|opetussuunnitelmalle]] tapahtuu, kun varmentava työkalu on probabilistinen?
+- Medialukutaitoa on opetettu tuottamisen kautta — opiskelijat tekevät mediaa ymmärtääkseen sitä. Jos malli nyt tekee artefaktin, mikä osa [[pedagogy|pedagogiikasta]] säilyy?
 
 ## Johdanto
 
@@ -47,7 +51,9 @@ Tämä sivu käsittelee paria, koska korpus kohtelee niitä yhtenä opetuksellis
 
 Informaatiolukutaidon kohde on lähde, ja sen ydinkysymys on, onko väite tosi ja sen takana oleva näyttö uskottavaa. Medialukutaidon kohde on viesti, ja sen ydinkysymys on, kuka sen teki, miten, kenelle ja mitä varten. Keksitty lähdeviite epäonnistuu ensimmäisessä testissä; deepfake voi läpäistä jokaisen faktatarkistuksen, jonka opiskelija osaa tehdä, ja epäonnistua toisessa.
 
-Empiiriset kirjallisuudet heijastavat jakoa. Kyselyssä 236 yhdysvaltalaiselta yliopisto-opiskelijalta kysyttiin, mistä akateeminen haku alkaa, ja hakukoneiden osuudeksi tuli 45,5 %, kirjaston etusivun 27,9 % ja tekoälychatbotin 26,6 %, kun kansainväliset opiskelijat korvasivat kirjastoresursseja tekoälyllä suunnilleen kaksinkertaisella osuudella kotimaisiin verrattuna ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Systemaattinen katsaus 32 tutkimuksesta havaitsi tekoälylukutaidon integroinnin informaatiolukutaidon opetukseen olevan "varhaisasteella", toteutettuna LibGuides-oppaiden ja työpajojen kautta opetussuunnitelman sijaan ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza ja Arif, 2026]]). Mediapuolella seitsemän asiantuntijan haastattelut ja 141 opiskelijan kysely havaitsivat teknologian sisällyttämisen kriittisen medialukutaidon opetussuunnitelmaan "rajalliseksi ja usein pinnalliseksi", ja opettajat olivat alikoulutettuja työkaluihin, jotka tuottavat disinformaatiota ja deepfakeja ([[critical-media-literacy-education-2026|kriittisen medialukutaidon tutkimus, 2026]]).
+Empiiriset kirjallisuudet heijastavat jakoa. Kyselyssä 236 yhdysvaltalaiselta yliopisto-opiskelijalta kysyttiin, mistä akateeminen haku alkaa, ja hakukoneiden osuudeksi tuli 45,5 %, kirjaston etusivun 27,9 % ja tekoälychatbotin 26,6 %, kun kansainväliset opiskelijat korvasivat kirjastoresursseja tekoälyllä suunnilleen kaksinkertaisella osuudella kotimaisiin verrattuna ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). [[meta-analysis-systematic-review|Systemaattinen katsaus]] 32 tutkimuksesta havaitsi [[ai-literacy|tekoälylukutaidon]] integroinnin informaatiolukutaidon opetukseen olevan "varhaisasteella", toteutettuna LibGuides-oppaiden ja työpajojen kautta opetussuunnitelman sijaan ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza ja Arif, 2026]]). Mediapuolella seitsemän asiantuntijan haastattelut ja 141 opiskelijan kysely havaitsivat teknologian sisällyttämisen kriittisen medialukutaidon opetussuunnitelmaan "rajalliseksi ja usein pinnalliseksi", ja opettajat olivat alikoulutettuja työkaluihin, jotka tuottavat disinformaatiota ja deepfakeja ([[critical-media-literacy-education-2026|kriittisen medialukutaidon tutkimus, 2026]]).
+
+Kansainvälinen arviointi on pian yhdistämässä kaksi konstruktia. PISA 2029 esittelee Media and AI Literacy (MAIL) -arvioinnin 15-vuotiaille, ja iRAISEn vuoden 2026 katsaus rakentaa määritelmänsä samasta integraatiosta — tekoälylukutaito on uusin digitaalisen lukutaidon kerros, joka nojaa vuosikymmeniin medialukutaidon ja informaatiolukutaidon historiasta ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Integraatio tuo mukanaan toteutuskustannuksen, jonka divergenssiargumentti ennustaa. UNESCO:n vuoden 2025 kartoitus havaitsi 171 jäsenvaltion 194:stä mainitsevan media- ja informaatiolukutaidon kansallisissa viitekehyksissä, mutta vain 84 (43 %) sisällyttävän opetussuunnitelmiin elementtejä teknisten digitaalisten taitojen ulkopuolelta — eli arvioinnin mittaama konstrukti on se, jota koulut opettavat vähiten.
 
 ## Miten tekoäly monimutkaistaa informaatiolukutaitoa
 
@@ -61,26 +67,41 @@ Kolmas on kapasiteetti. Kyselyssä 412 akateemisesta kirjastonhoitajasta 38 nige
 
 Medialukutaidon perustavat kysymykset olettivat tekijän, jolla oli tarkoitus. Deepfaket, äänen kloonaus ja automatisoidut botit rikkovat tuon oletuksen kolmella tavalla: artefaktilla ei ehkä ole inhimillistä tekijää, yleisö voi olla synteettinen, ja tarkoitus voi olla sitouttamisen optimointi eikä kenenkään suostuttelu.
 
-Opetussuunnitelmanäyttö viittaa siihen, etteivät koulut ole pysyneet mukana. Asiantuntijahaastattelut kuvaavat opettajankoulutuksen sitovana rajoitteena opiskelijoiden vastustuksen sijaan ja argumentoivat [[critical-pedagogy|kriittisen pedagogiikan]] kehyksen puolesta, joka kohtelee arviointia eettisenä ja osallistavana käytäntönä työkalukoulutuksen sijaan. Julkisen palvelun medialle tehty tilaustyö havaitsi 14–19-vuotiaille suunnatun tarjonnan kallistuvan toiminnallisiin tekoälytaitoihin ja pois kriittisestä arvioinnista, vaikka siinä tarkasteltiin yli 40 viitekehystä ja haastateltiin 35 asiantuntijaa ([[ai-literacies-young-adults-2025|tekoälylukutaitojen raportti, 2025]]).
+**Personoitu väittely on nykyinen suostuttelun uhkamalli.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] satunnaisti 900 yhdysvaltalaista aikuista kymmenminuutisiin verkkoväittelyihin ihmistä tai GPT-4:ttä vastaan, joko kuuden tavanomaisen demografisen kentän kanssa tai ilman. Personoimaton GPT-4 ei tilastollisesti erottunut ihmisvastustajasta, kun taas personoitu GPT-4 nosti todennäköisyyttä päästä väittelyn jälkeen yhteisymmärrykseen 81,2 % ja oli vakuuttavampi 64,4 % ajasta. Osallistujat tunnistivat tekoälyvastustajan noin kolmeno neljästä väittelystä, mutta siirtyivät silti pidemmälle, kun he uskoivat vastustajan olevan tekoäly, joten alkuperän havaitseminen ei toiminut rokotteena. Manipulaatio jäi näkymättömäksi tekstissä: tyylimittaukset erosivat vähän toisistaan, mikä sijoittaa edun siihen, mitä argumentteja valittiin, ei siihen, miten ne kirjoitettiin.
+
+Opetussuunnitelmanäyttö viittaa siihen, etteivät koulut ole pysyneet mukana. Asiantuntijahaastattelut kuvaavat [[teacher-education|opettajankoulutuksen]] sitovana rajoitteena opiskelijoiden vastustuksen sijaan ja argumentoivat [[critical-pedagogy|kriittisen pedagogiikan]] kehyksen puolesta, joka kohtelee arviointia eettisenä ja osallistavana käytäntönä työkalukoulutuksen sijaan. Julkisen palvelun medialle tehty tilaustyö havaitsi 14–19-vuotiaille suunnatun tarjonnan kallistuvan toiminnallisiin tekoälytaitoihin ja pois kriittisestä arvioinnista, vaikka siinä tarkasteltiin yli 40 viitekehystä ja haastateltiin 35 asiantuntijaa ([[ai-literacies-young-adults-2025|tekoälylukutaitojen raportti, 2025]]).
 
 ## Tekoäly puolustavana työkaluna — väitteet ja varaukset
 
-Perustelu tekoälyn käytölle puolustavassa roolissa on uskottava ja laajalti esitetty: automatisoidut uskottavuustarkistukset, jotka skannaavat lähteen historian ja kielen vinoumasignaalien varalta, deepfake-tunnistimet, metatietoanalysaattorit, jotka etsivät alkuperämerkintöjä, ja simulaatiot, joissa opiskelijat harjoittelevat arviointia realistisella synteettisellä aineistolla. Nämä kyvykkyydet ovat todellisia tuotteita, ja luokkahuonekäyttö on todellista käytäntöä.
+Perustelu tekoälyn käytölle puolustavassa roolissa on uskottava ja laajalti esitetty: automatisoidut uskottavuustarkistukset, jotka skannaavat lähteen historian ja kielen vinoumasignaalien varalta, deepfake-tunnistimet, metatietoanalysaattorit, jotka etsivät alkuperämerkintöjä, ja [[simulation|simulaatiot]], joissa opiskelijat harjoittelevat arviointia realistisella synteettisellä aineistolla. Nämä kyvykkyydet ovat todellisia tuotteita, ja luokkahuonekäyttö on todellista käytäntöä.
 
 Näyttö on ohuempaa kuin väitteet. Tunnistimet ovat probabilistisia ja heikkenevät generaattoreiden parantuessa; faktantarkistusmalli on itsekin malli, joten opiskelijan on yhä arvioitava tarkistajaa; ja alkuperämetatiedot auttavat vain, kun tuottaja päättää liittää ne. Yksi korpuksen lujimmista tuloksista on, että tekoälytuettu medialukutaidon opetus voi toimia pienessä mittakaavassa: 5E-malliin rakennettu 18 tunnin ohjelma tuotti suuria parannuksia 36 neljäsluokkalaisella yhdessä turkkilaisessa koulussa ([[demir-akar-ai-media-literacy-children-2026|Demir ja Akar, 2026]]). Kolmekymmentäkuusi opiskelijaa on konseptin todistus, ei hankintaperustelu.
 
-Kirjastoalan mielipidekirjoitus vie samaa ajatusta pidemmälle: tekoäly voisi kantaa informaatiolukutaidon *välityksen* haun, adaptiivisten opetusohjelmien, chatbotien ja automatisoidun faktantarkistuksen kautta, kun [[librarians|kirjastonhoitajat]] eivätkä toimittajat omistaisivat integraation ([[offem-ai-information-literacy-library-users-2026|Offem ja Arikpo, 2026]]). Kirjoitus ei raportoi dataa, joten se on suunnittelumuistio siitä, missä opetus voisi sijaita, ei näyttöä siitä, että se toimii.
+Kirjastoalan mielipidekirjoitus vie samaa ajatusta pidemmälle: tekoäly voisi kantaa informaatiolukutaidon *välityksen* haun, adaptiivisten opetusohjelmien, [[conversational-ai|chatbottien]] ja automatisoidun faktantarkistuksen kautta, kun [[librarians|kirjastonhoitajat]] eivätkä toimittajat omistaisivat integraation ([[offem-ai-information-literacy-library-users-2026|Offem ja Arikpo, 2026]]). Kirjoitus ei raportoi dataa, joten se on suunnittelumuistio siitä, missä opetus voisi sijaita, ei näyttöä siitä, että se toimii.
 
 Yhdessä luettuina nämä kaksi puolta ehdottavat sääntöä: tekoäly voi kantaa *harjoituksen* kuorman — realistiset skenaariot, välittömän palautteen, mittakaavan — mutta *harkinnan* kuorma jää oppijalle, ja mikä tahansa työkalu, joka väittää korvaavansa sen, tulisi arvioida tunnistimena, jolla on mitattu virheaste, eikä omaksua vastausavaimena.
 
 ## Mitä tämä tarkoittaa käytännössä
 
-- **Opeta yksi menettely, kaksi kohdetta.** Tarkistettava rutiini — jäljitä väite lähteeseen, jäljitä lähde tekijään, kysy mitä artefakti tekee — toimii sekä lähdeviitteelle että videolle. Nimeä, kumpaa kohdetta tehtävä arvioi.
-- **Kohtele havaitsemista näyttönä, ei tuomiona.** Tunnistimen tuotos on todennäköisyys; opeta opiskelijat vahvistamaan toisella menetelmällä ja sanomaan, mikä saisi heidät muuttamaan mielensä.
-- **Pidä tuottaminen opetussuunnitelmassa.** Median tekeminen oli pedagogiikka, joka teki kritiikistä konkreettista; tekoälyllä tuottaminen voi tukea sitä vain, jos opiskelijat tarkastelevat valintoja, jotka työkalu teki heidän puolestaan.
-- **Sijoita kirjastonhoitaja tai media-asiantuntija työnkulun sisään.** Tämän kirjallisuuden vahvin opetuksellinen tulos tulee suunnittelusta, jossa inhimillinen konsultaatio rakennettiin sisään eikä tarjottu jälkikäteen.
-- **Arvioi henkilöstön kapasiteetti ennen opetussuunnitelman kirjoittamista.** Mitattu vaje on tavoitteiden suunnittelussa ja tulosten arvioinnissa, ei työkalujen käytössä.
+**Opeta yksi menettely, kaksi kohdetta.** Jäljitä väite lähteeseen, jäljitä lähde tekijään ja kysy, mitä artefakti tekee. Rutiini toimii sekä lähdeviitteelle että videolle, ja tehtävän tulisi nimetä, kumpaa kohdetta se arvioi.
+
+**Kohtele tunnistimen tuotosta näyttönä, ei tuomiona.** Tunnistimen tuotos on todennäköisyys; opiskelijoiden tulisi vahvistaa se toisella menetelmällä ja sanoa ääneen, mikä saisi heidät muuttamaan mielensä.
+
+**Pidä tuottaminen osana kurssia.** Median tekeminen on se, mikä teki kritiikistä konkreettista tässä kirjallisuudessa; tekoälyllä tuottaminen tukee sitä vain, jos opiskelijat tarkastelevat valintoja, jotka työkalu teki heidän puolestaan.
+
+**Konstruktin arviointi suoriutumisena, ei asenteena, tuo heikon kohdan esiin.** Kahdeksan viikon Code Craft -kokeilussa nousi 28 thaimaalaisen korkeakouluopiskelijan digitaalinen lukutaito 1,51:sta 2,82:een kolminasteisella [[rubrics|rubriikilla]], mutta tiedon hallinta oli keskiarvoltaan 1,92 ja tiedon luominen 2,05, kun taas viestiminen ja yhteistyö olivat 2,36 ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij ja Khlaisang, 2026]]). Alhaisimmat pisteet osuivat konstruktin tuottavalle puolelle, jonne kurssi, joka pysähtyy hakuun ja arviointiin, ei koskaan pääse.
+
+**Sijoita kirjastonhoitaja tai media-asiantuntija työnkulkuun.** Tämän kirjallisuuden vahvin opetuksellinen tulos tulee suunnittelusta, jossa inhimillinen konsultaatio rakennettiin osaksi työtä eikä tarjottu jälkikäteen.
+
+**Arvioi henkilöstön kapasiteetti, ennen kuin osasto kirjoittaa oman opetussuunnitelmansa.** Mitattu vaje on tavoitteiden suunnittelussa ja tulosten arvioinnissa, ei työkalujen käytössä.
 
 ## Näytön rajoitukset
 
-Useimmat tämän sivun tutkimukset ovat pieniä, itsearvioituja tai molempia: 236 opiskelijaa yhdessä kyselyssä, 36 lasta yhdessä interventiossa, 412 kirjastonhoitajaa arvioimassa itseään. Bibliometrinen näkyvyys ei ole käytäntöä, ja scientometrian kirjoittajat sanovat sen suoraan. Mikään korpuksen tutkimus ei arvioi yhdistettyä informaatio- ja medialukutaidon opetussuunnitelmaa, ja käytäntökirjallisuuden suosittelemat tunnistin- ja faktantarkistustyökalut ovat näissä lähteissä suurelta osin mittaamattomia. Väitettä, että tekoälyvoimainen varmentaminen parantaa tuloksia, tulisi pitää suunnitteluhypoteesina, kunnes joku testaa sitä kontrollia vastaan.
+Useimmat tämän sivun tutkimukset ovat pieniä, [[self-report-measures|itsearvioituja]] tai molempia: 236 opiskelijaa yhdessä kyselyssä, 36 lasta yhdessä interventiossa, 412 kirjastonhoitajaa arvioimassa itseään. Bibliometrinen näkyvyys ei ole käytäntöä, ja scientometrian kirjoittajat sanovat sen suoraan. Mikään korpuksen tutkimus ei arvioi yhdistettyä informaatio- ja medialukutaidon opetussuunnitelmaa, ja käytäntökirjallisuuden suosittelemat tunnistin- ja faktantarkistustyökalut ovat näissä lähteissä suurelta osin mittaamattomia. Väitettä, että tekoälyvoimainen varmentaminen parantaa tuloksia, tulisi pitää suunnitteluhypoteesina, kunnes joku testaa sitä kontrollia vastaan.
+
+## Yleiset väärinkäsitykset
+
+- **Tunnistin ratkaisee kysymyksen.** Tunnistin palauttaa todennäköisyyden; vahvista se toisella menetelmällä sen sijaan, että kohtelisit sitä vastausavaimena.
+- **Kaksi lukutaitoa on yksi taito kahdella nimellä.** Niiden kohteet eroavat — lähteen uskottavuus tekijyyden ja tarkoituksen vastaan — joten yksi rubriikki ei arvioi kumpaakaan hyvin.
+- **Tekoälyn havaitseminen rokottaa sitä vastaan.** Tämän kirjallisuuden vahvimmassa suostuttelukokeessa havaitsemisen taso oli korkea, ja siirtymä tekoälyn kantaan kasvoi silti.
+- **Kirjastonhoitajan osaaminen siirtyy tekoälylukutaitoon.** Henkilöstövaje näkyy tavoitteiden suunnittelussa (M = 2,70) ja tulosten arvioinnissa (M = 2,62), ei työkalujen käytössä.

@@ -10,14 +10,18 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, 
 ## গণমাধ্যম ও জনসাধারণের ফ্রেমিং
 
 শিক্ষার্থীদের ফ্রেম করে [[ai-education|শিক্ষায় AI]] নিয়ে বিস্তৃত গণমাধ্যম ও জনসাধারণের বক্তৃতাও, যা কোনো শিক্ষকের বার্তার আগেই তাদের ভিত্তি-প্রত্যাশা গড়ে তোলে। জনসাধারণের বক্তৃতা এবং YouTube-এর মতো প্ল্যাটফর্ম শিক্ষায় ChatGPT ব্যবহার কীভাবে ফ্রেম করে তার বিশ্লেষণ দেখায় যে প্রচলিত ফ্রেমগুলো (হাইপ, ধ্বংস বা প্রায়োগিকতা) প্রভাবিত করে শিক্ষার্থী ও [[teacher-role|শিক্ষকরা]] প্রযুক্তির কাছে কীভাবে যান।([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) শিক্ষকদের কার্যকর ফ্রেমিং প্রায়ই এই পরিবেষ্টক বর্ণনাগুলোকে সচেতনভাবে মোকাবিলা বা পুনর্নির্দেশ করা বোঝায়।
+
+ফ্রেমটি নিচের দিকে শংসাপত্রের দামও ঠিক করে: প্রায় 1,750 জন মার্কিন নিয়োগকারকের মধ্যে শিক্ষার্থীর এআই-ব্যবহারকে সহায়তার বদলে প্রতিস্থাপন হিসেবে বর্ণনা করলে ইন্টারভিউর সম্ভাবনা ও বেতন-আলোচনার ইচ্ছা কমে যায়, উচ্চ-GPA আবেদনকারীদের ক্ষেত্রে সবচেয়ে তীক্ষ্ণভাবে ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan ও Reynolds, 2026]])।
 
 ## ব্যবহারিক নির্দেশনা
 

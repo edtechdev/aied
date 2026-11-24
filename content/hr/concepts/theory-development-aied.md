@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Drugi radovi proširuju postojeću teoriju u kontekst umjetne inteligencije, umj
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin i Chang (2026.)]] proširuju [[self-regulated-learning|samoregulirano učenje]] i ljudsko-UI regulaciju tako što imenuju čime učenik upravlja — standardima, [[evaluative-judgment|evaluativnim prosudbama]] i ovlaštenjem za kontrolu — a ne samo što umjetna inteligencija čini.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai i Flenady (2026.)]] uvoze Honnetovu i Brandomovu ideju priznanja u teoriju povratnih informacija, tvrdeći da međusobno pripisivanje statusa, a ne kvaliteta informacije, čini komentar razlogom za djelovanje.
+
 Paradoks trenja nudi još jedno proširenje etablirane teorije: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026.)]] primjenjuje [[desirable-difficulties|poželjne teškoće]] Bjorka i Bjorka te Kapurov [[productive-failure|produktivni neuspjeh]] na relacijske susrete u obrazovanju u inozemstvu, tvrdeći da je važno koliko interpretativne djelotvornosti student [[transfer-of-learning|prenosi]] na generativnog pomoćnika, a ne koliko se često njime služi. Okvir je konceptualan i iznosi pet propozicija kao konkurentske hipoteze.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri i Biagini (2026.)]] unapređuju funkcionalnu taksonomiju područja Zawacki-Richtera i sur. (2019.): među 154 publikacije s klasificirajućom funkcijom primjene, 90 (58,4 %) izmaklo je njezinim četirima kategorijama, a njihov okvir križa funkciju s delegiranom kontrolom, epistemičkom pozicijom i ugrađenom pedagogijom.
@@ -94,14 +100,7 @@ Teoretiziranje područja je neravnomjerno. [[limitations-in-aied-research|Ograni
 ## Odnos prema filozofiji umjetne inteligencije u obrazovanju
 
 Razvoj teorije i [[philosophy-of-ai-in-education|filozofija umjetne inteligencije u obrazovanju]] komplementarne su, ali različite niti temeljnog rada baze znanja. **Razvoj teorije** proizvodi i empirijski testira *mehanizme* učenja s umjetnom inteligencijom — imenovane teorije i okvire poput generativizma, epistemičke sudjelotvornosti i odsutne kognitivne osnovice koji objašnjavaju i predviđaju kako učenici i umjetna inteligencija djeluju zajedno. **Filozofija** propituje *presupozicije* na kojima ti mehanizmi počivaju: što se računa kao znanje, tko se računa kao znalac i što učenik u temelju jest. Teorija poput [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemičke sudjelotvornosti]] predlaže mehanizam, dok implicitno usvaja filozofske obveze o distribuiranoj kogniciji i [[agency|djelotvornosti]]; filozofija te obveze čini izričitima i osporivima. Dok razvoj teorije pita objašnjava li okvir učenje dobro, filozofija pita obuhvaća li ono što učenje i um doista jesu — dvije se niti susreću u najtemeljnijim člancima područja, koji često čine oboje istovremeno.
-
-## Uobičajene zablude
-
-**„Nalaz da je alat djelovao teorijski je doprinos.“** Nije, i razlog je strukturni. Ako propozicije okvira predviđaju *razlike među konfiguracijama*, studija koja izvješćuje samo o prosječnom učinku **ne može ih potvrditi ni opovrgnuti** — nacrt ne može vidjeti razliku o kojoj teorija govori. Ispitivanje koje pokaže prosječni dobitak kaže da se nešto dogodilo, ali ne koji je mehanizam to uzrokovao, pa teorija ostaje točno onoliko potkrijepljena koliko je bila i prije.
-
-**„Primjena etablirane teorije na umjetnu inteligenciju jest razvoj teorije.“** Problem upotrebe teorije na ovoj stranici kaže suprotno: primjena nije unapređenje, a ponavljajući obrazac područja jesu posuđeni konstrukti rabljeni kao rječnik, a ne kao provjerljiva predviđanja. Razlika je važna jer posuđeni okvir koji ne može proizvesti opovrgljivu razliku jest ukras, a ne teorija.
-
-**„Postojeće taksonomije pedagoške funkcije umjetne inteligencije već pokrivaju ono što ti sustavi čine.“** Ne pokrivaju velik dio toga. Među 154 publikacije s klasificirajućom funkcijom primjene, **90 (58,4 %) izmaklo je četirima kategorijama** prethodnog okvira, zbog čega noviji rad križa funkciju s delegiranom kontrolom, epistemičkom pozicijom i ugrađenom pedagogijom. Taksonomija koja pogrešno klasificira gotovo tri od pet slučajeva ne može služiti kao zajednički rječnik područja, a praznina je nalaz o fenomenu, a ne praznina u radu.
+ Ono što kritičari područja kažu o smjerovima koje te teorije otvaraju ili zatvaraju odvojeno je pitanje, prikupljeno na stranici [[critiques-of-ai-in-education|Kritike umjetne inteligencije u obrazovanju]].
 
 ## Implikacije za praksu
 
@@ -120,3 +119,11 @@ Razvoj teorije i [[philosophy-of-ai-in-education|filozofija umjetne inteligencij
 
 - Dizajnirajte kontraste konfiguracija ako namjeravate dati teorijski doprinos. Ispitivanje prosječnog učinka objavljeno kao razvoj teorije najčešći je i najmanje koristan proizvod područja.
 - Svakom okviru koji uvedete pridružite izričite opovrgljive propozicije i izvijestite koje bi ih razlike među konfiguracijama opovrgle.
+
+## Uobičajene zablude
+
+**„Nalaz da je alat djelovao teorijski je doprinos.“** Nije, i razlog je strukturni. Ako propozicije okvira predviđaju *razlike među konfiguracijama*, studija koja izvješćuje samo o prosječnom učinku **ne može ih potvrditi ni opovrgnuti** — nacrt ne može vidjeti razliku o kojoj teorija govori. Ispitivanje koje pokaže prosječni dobitak kaže da se nešto dogodilo, ali ne koji je mehanizam to uzrokovao, pa teorija ostaje točno onoliko potkrijepljena koliko je bila i prije.
+
+**„Primjena etablirane teorije na umjetnu inteligenciju jest razvoj teorije.“** Problem upotrebe teorije na ovoj stranici kaže suprotno: primjena nije unapređenje, a ponavljajući obrazac područja jesu posuđeni konstrukti rabljeni kao rječnik, a ne kao provjerljiva predviđanja. Razlika je važna jer posuđeni okvir koji ne može proizvesti opovrgljivu razliku jest ukras, a ne teorija.
+
+**„Postojeće taksonomije pedagoške funkcije umjetne inteligencije već pokrivaju ono što ti sustavi čine.“** Ne pokrivaju velik dio toga. Među 154 publikacije s klasificirajućom funkcijom primjene, **90 (58,4 %) izmaklo je četirima kategorijama** prethodnog okvira, zbog čega noviji rad križa funkciju s delegiranom kontrolom, epistemičkom pozicijom i ugrađenom pedagogijom. Taksonomija koja pogrešno klasificira gotovo tri od pet slučajeva ne može služiti kao zajednički rječnik područja, a praznina je nalaz o fenomenu, a ne praznina u radu.

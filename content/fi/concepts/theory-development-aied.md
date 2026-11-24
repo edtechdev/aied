@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Muu työ laajentaa olemassa olevaa teoriaa tekoälykontekstiin uusien paradigmoj
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin ja Chang (2026)]] laajentavat [[self-regulated-learning|itsesäänneltyä oppimista]] ja ihmisen ja tekoälyn sääntelyä nimeämällä, mitä oppija hallitsee — standardit, [[evaluative-judgment|arvioivat päätökset]] ja kontrollin valtuuttamisen — eikä vain sitä, mitä tekoäly tekee.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai ja Flenady (2026)]] tuovat Honnethin ja Brandomin tunnustuksen palauteoriaan ja väittävät, että kommentti muuttuu toimintasyyksi ei informaation laadun vaan molemminpuolisen aseman myöntämisen kautta.
+
 Kitkaparadoksi tarjoaa toisen laajennuksen vakiintuneeseen teoriaan: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] soveltaa Bjorkin ja Bjorkin [[desirable-difficulties|toivottuja vaikeuksia]] ja Kapurin [[productive-failure|tuottavaa epäonnistumista]] ulkomailla tapahtuvan koulutuksen relationaalisiin kohtaamisiin ja väittää, että ratkaisee se, kuinka paljon tulkinnallista toimijuutta opiskelija [[transfer-of-learning|siirtää]] generatiiviselle avustajalle, ei se, kuinka usein sitä käytetään. Viitekehys on käsitteellinen ja esittää viisi väitettä kilpailevina hypoteeseina.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] edistävät Zawacki-Richterin et al. (2019) toiminnallista taksonomiaa: 154 julkaisusta, joilla oli luokiteltavissa oleva sovellustoiminto, 90 (58,4 %) vältti sen neljä kategoriaa, ja heidän viitekehyksensä risteyttää toiminnon delegoidun kontrollin, episteemisen aseman ja sisäänrakennetun pedagogiikan kanssa.
@@ -93,15 +99,7 @@ Alan teoretisointi on epätasaista. [[limitations-in-aied-research|AIEd-tutkimuk
 
 ## Suhde tekoälyn koulutusfilosofiaan
 
-Teorian kehittäminen ja [[philosophy-of-ai-in-education|tekoälyn koulutusfilosofia]] ovat täydentäviä mutta erillisiä tietopohjan perustatyön säikeitä. **Teorian kehittäminen** tuottaa ja testaa empiirisesti tekoälyn kanssa oppimisen *mekanismeja* — nimettyjä teorioita ja viitekehyksiä, kuten generativismi, episteeminen yhteistoimijuus ja puuttuva kognitiivinen perustaso, jotka selittävät ja ennustavat, miten oppijat ja tekoäly ovat vuorovaikutuksessa. **Filosofia** kuulustelee *presuppositioita*, joihin nuo mekanismit nojaavat: mikä lasketaan tiedoksi, kuka lasketaan tietäjäksi ja mikä oppija pohjimmiltaan on. Teoria kuten [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|episteeminen yhteistoimijuus]] ehdottaa mekanismia samalla kun se implisiittisesti omaksuu filosofisia sitoumuksia hajautetusta kognitiosta ja [[agency|toimijuudesta]]; filosofia tekee nuo sitoumukset eksplisiittisiksi ja kiistanalaisiksi. Kun teorian kehittäminen kysyy, selittääkö viitekehys oppimista hyvin, filosofia kysyy, tavoittaako se, mitä oppiminen ja mieli todella ovat — säikeet kohtaavat alan perustavimmissa artikkeleissa, jotka usein tekevät molempia yhtä aikaa.
-
-## Yleiset väärinkäsitykset
-
-**"Löydös siitä, että työkalu toimi, on teoreettinen kontribuutio."** Se ei ole, ja syy on rakenteellinen. Kun viitekehyksen väitteet ennustavat *eroja konfiguraatioiden välillä*, tutkimus, joka raportoi vain keskimääräisen vaikutuksen, **ei voi vahvistaa tai kumota niitä** — asetelma ei näe sitä erottelua, josta teoriassa on kyse. Keskimääräisen parannuksen osoittava koe kertoo, että jotain tapahtui, ei sitä, mikä mekanismi sen aiheutti, joten teoria pysyy täsmälleen yhtä tuettuna kuin ennen.
-
-**"Vakiintuneen teorian soveltaminen tekoälyyn on teorian kehittämistä."** Sivun oma teorian käytön ongelma sanoo toisin: soveltaminen ei ole edistämistä, ja alan toistuva kuvio on lainatut konstruktit sanastona eikä testattavina ennusteina. Erottelu on merkityksellinen, koska lainattu kehys, joka ei pysty tuottamaan kumottavaa eroa, on koristetta eikä teoriaa.
-
-**"Olemassa olevat taksonomiat tekoälyn pedagogisesta toiminnosta kattavat jo sen, mitä nämä järjestelmät tekevät."** Ne eivät kata suurta osaa siitä. 154 julkaisusta, joilla oli luokiteltavissa oleva sovellustoiminto, **90 (58,4 %) vältti aiemman viitekehyksen neljä kategoriaa**, minkä vuoksi uudempi työ risteyttää toiminnon delegoidun kontrollin, episteemisen aseman ja sisäänrakennetun pedagogiikan kanssa. Taksonomia, joka luokittelee väärin lähes kolme viidestä tapauksesta, ei voi toimia alan yhteisenä sanastona, ja aukko on löydös ilmiöstä eikä aukko artikkelissa.
+Teorian kehittäminen ja [[philosophy-of-ai-in-education|tekoälyn koulutusfilosofia]] ovat täydentäviä mutta erillisiä tietopohjan perustatyön säikeitä. **Teorian kehittäminen** tuottaa ja testaa empiirisesti tekoälyn kanssa oppimisen *mekanismeja* — nimettyjä teorioita ja viitekehyksiä, kuten generativismi, episteeminen yhteistoimijuus ja puuttuva kognitiivinen perustaso, jotka selittävät ja ennustavat, miten oppijat ja tekoäly ovat vuorovaikutuksessa. **Filosofia** kuulustelee *presuppositioita*, joihin nuo mekanismit nojaavat: mikä lasketaan tiedoksi, kuka lasketaan tietäjäksi ja mikä oppija pohjimmiltaan on. Teoria kuten [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|episteeminen yhteistoimijuus]] ehdottaa mekanismia samalla kun se implisiittisesti omaksuu filosofisia sitoumuksia hajautetusta kognitiosta ja [[agency|toimijuudesta]]; filosofia tekee nuo sitoumukset eksplisiittisiksi ja kiistanalaisiksi. Kun teorian kehittäminen kysyy, selittääkö viitekehys oppimista hyvin, filosofia kysyy, tavoittaako se, mitä oppiminen ja mieli todella ovat — säikeet kohtaavat alan perustavimmissa artikkeleissa, jotka usein tekevät molempia yhtä aikaa. Se, mitä alan kriitikot sanovat niistä suunnista, jotka nuo teoriat avaavat tai sulkevat, on erillinen kysymys, joka on koottu sivulle [[critiques-of-ai-in-education|Kritiikkiä tekoälystä koulutuksessa]].
 
 ## Käytännön seuraukset
 
@@ -120,3 +118,12 @@ Teorian kehittäminen ja [[philosophy-of-ai-in-education|tekoälyn koulutusfilos
 
 - Suunnittele konfiguraatiokontrasteja, jos aiot tuottaa teoreettisen kontribuution. Keskimääräisvaikutuksen koe, joka julkaistaan teorian kehittämisenä, on alan yleisin ja vähiten hyödyllinen tuotos.
 - Liitä eksplisiittiset kumottavissa olevat väitteet jokaiseen viitekehykseen, jonka esittelet, ja raportoi, mitkä konfiguraatioerot olisivat kumonneet ne.
+
+## Yleiset väärinkäsitykset
+
+**"Löydös siitä, että työkalu toimi, on teoreettinen kontribuutio."** Se ei ole, ja syy on rakenteellinen. Kun viitekehyksen väitteet ennustavat *eroja konfiguraatioiden välillä*, tutkimus, joka raportoi vain keskimääräisen vaikutuksen, **ei voi vahvistaa tai kumota niitä** — asetelma ei näe sitä erottelua, josta teoriassa on kyse. Keskimääräisen parannuksen osoittava koe kertoo, että jotain tapahtui, ei sitä, mikä mekanismi sen aiheutti, joten teoria pysyy täsmälleen yhtä tuettuna kuin ennen.
+
+**"Vakiintuneen teorian soveltaminen tekoälyyn on teorian kehittämistä."** Sivun oma teorian käytön ongelma sanoo toisin: soveltaminen ei ole edistämistä, ja alan toistuva kuvio on lainatut konstruktit sanastona eikä testattavina ennusteina. Erottelu on merkityksellinen, koska lainattu kehys, joka ei pysty tuottamaan kumottavaa eroa, on koristetta eikä teoriaa.
+
+**"Olemassa olevat taksonomiat tekoälyn pedagogisesta toiminnosta kattavat jo sen, mitä nämä järjestelmät tekevät."** Ne eivät kata suurta osaa siitä. 154 julkaisusta, joilla oli luokiteltavissa oleva sovellustoiminto, **90 (58,4 %) vältti aiemman viitekehyksen neljä kategoriaa**, minkä vuoksi uudempi työ risteyttää toiminnon delegoidun kontrollin, episteemisen aseman ja sisäänrakennetun pedagogiikan kanssa. Taksonomia, joka luokittelee väärin lähes kolme viidestä tapauksesta, ei voi toimia alan yhteisenä sanastona, ja aukko on löydös ilmiöstä eikä aukko artikkelissa.
+

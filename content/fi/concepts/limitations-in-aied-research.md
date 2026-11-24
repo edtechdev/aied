@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Kuinka paljon luottaisit otsikkoon kuten 'tekoälytutorointi parantaa oppimista 30%:lla', jos saisit tietää, että se tulee 30 opiskelijasta yhdellä kurssilla yhdessä instituutiossa? Sivu nostaa esiin yleistettävyyden ja pienet otokset toistuvina rajoina — mitä haluaisit tietää ennen kuin toimisit minkään yksittäisen havainnon perusteella?
 - Silmiinpistävä rajoitus on 'nopeusongelma': tekoäly kehittyy nopeammin kuin havainnot ehtivät julkaista, joten yhden mallisukupolven tutkimus voi jo kuvata vanhentunutta järjestelmää. Miten tämän pitäisi muuttaa sitä luottamusta, jonka asetat tekoälykoulutuksen tutkimukseen?
 - Moni tutkimus nojautuu [[self-report-measures|itsearvioituihin]] asenteisiin ja käyttöön, jotka ovat vinoutuneita — ihmiset yliarvioivat kompetenssiaan ja aliraportoivat väärinkäyttöä. Oletko koskaan vastannut kyselyyn omista taidoistasi tai käyttäytymisestäsi tavalla, joka ei vastannut todellisuutta? Miksi havaintoihin perustuvat mittarit poikkeavat niin usein objektiivisesta suoriutumisesta?
-- Sivu huomauttaa, että tutut viitekehykset kuten Bloomin taksonomia tulkitaan usein väärin jäykiksi tikkaiksi ja että jopa laajalti käytettyihin teorioihin kuten [[cognitive-offloading|kognitiivisen kuorman]] teoriaan on esitetty haasteita. Milloin olet nähnyt teorian esitettävän vakiintuneena totuutena asiayhteydessä, jossa sen oma näyttö oli itse asiassa kiistanalaista?
+- Sivu huomauttaa, että tutut viitekehykset kuten [[bloom-taxonomy|Bloomin taksonomia]] tulkitaan usein väärin jäykiksi tikkaiksi ja että jopa laajalti käytettyihin teorioihin kuten [[cognitive-offloading|kognitiivisen kuorman]] teoriaan on esitetty haasteita. Milloin olet nähnyt teorian esitettävän vakiintuneena totuutena asiayhteydessä, jossa sen oma näyttö oli itse asiassa kiistanalaista?
 - Suurin osa tekoälytutkimuksesta riippuu suljetuista, läpinäkymättömistä malleista, joiden dataa ja päivityksiä et voi tarkastaa. Jos et voi varmistaa, mikä malli tuloksen täsmälleen tuotti, kuinka paljon voit luottaa siihen rakennettuihin väitteisiin — ja mikä tekisi havainnoista toistettavampia?
 - Jos olet opettaja tai suunnittelija, jolla ei ole aikaa lukea primaaritutkimusta, miten päätät, mitkä tekoälyväitteet ovat tarpeeksi luotettavia muuttaaksesi käytäntöäsi — kun kirjallisuus on pirstaleista, alustavaa ja tutkijoille kirjoitettua?
 
 ## Johdanto
 
-Tekoäly koulutuksessa on nopeasti liikkuva, heterogeeninen ala, ja sen näyttöpohjalla on oman erityisen rajoitustensa joukkonsa, joka tutkijoiden, käytännön tekijöiden ja päättäjien tulisi punnita käyttäessään mitä tahansa havaintoa. Osa näistä on yhteisiä laajemmalle [[learning-sciences|oppimistieteiden]] ja psykologian kirjallisuudelle; toisia tekoälyn luonne vahvistaa tai tekee ainutlaatuisiksi. Tämä sivu järjestää ne neljään poikkileikkaavaan alueeseen.
+Tekoäly koulutuksessa on nopeasti liikkuva, heterogeeninen ala, ja sen näyttöpohjalla on oman erityisen rajoitustensa joukkonsa, joka tutkijoiden, käytännön tekijöiden ja päättäjien tulisi punnita käyttäessään mitä tahansa havaintoa. Osa näistä on yhteisiä laajemmalle [[learning-sciences|oppimistieteiden]] ja psykologian kirjallisuudelle; toisia tekoälyn luonne vahvistaa tai tekee ainutlaatuisiksi. Tämä sivu järjestää ne neljään poikkileikkaavaan alueeseen. Nämä ovat näyttöön liittyviä ongelmia; erillinen argumenttikehys näytön palveluttamista tavoitteista on koottu sivulle [[critiques-of-ai-in-education|tekoälyn kritiikki koulutuksessa]].
 
 ## Menetelmälliset rajoitukset
 
@@ -64,7 +68,10 @@ Tietopohjan [[research-methods-aied|tutkimusmenetelmät]]-sivu erittelee kunkin 
 - **Kunkin aineiston sisäinen standardointi voi piilottaa väärän kuvauksen hajonnasta.** Kun synteettiset koulutusryhmät standardoitiin oman hajontansa mukaan, se tosiasia, että niiden viikkorakenne vaihteli 2.6–4.9 kertaa vähemmän kuin todellisten ryhmien, muuttui raportoidulle tilastolle näkymättömäksi — rutiininomaista esikäsittelyä, kirjoittajien sanoin ei hypoteettinen huoli ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 
 - **Mallin tuottamat leimat eivät ole perustotuutta.** Kun leimat, joilla järjestelmä koulutetaan tai joilla sitä arvioidaan, ovat itse kielimallien tuottamia, arvioijien välinen yksimielisyys ei voi osoittaa validiteettia: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] eivät koskaan validoineet väiteluokituksiaan ihmisen kultaleimoja vasten, ja heidän julkaisemansa 49 kooderiluokittelijaa perivät tuon alkuperän eivätkä välttämättä ole valideja sovelluksissa, jotka eroavat merkittävissä ulottuvuuksissa. Heidän skeemansa myös alisuoriutui selvästi asiantuntijaleimatuilla tiedoilla koulutetusta hienosäädetystä luokittelijasta (macro-F1 0.673 vastaan 0.76), joten asiantuntijaleimatut korpukset ovat edelleen vaivan arvoisia, kun tarvitaan korkeaa luottamusta.
-- **Näyttöpohja itsessään on jakautunut epätasaisesti.** Katsaus 407 teknologiatuetusta [[formative-assessment|formatiivisen arvioinnin]] tutkimuksesta nojautui vain Web of Scienceen ja Scopukseen. Se myös sulki pois 61 tietuetta kielikriteerien vuoksi, joten alan raportoima maantieteellinen epätasapaino voi osittain heijastaa sitä, mitä foorumeita indeksoidaan ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Näyttöpohja itsessään on jakautunut epätasaisesti.** Katsaus 407 teknologiatuetusta [[formative-assessment|formatiivisen arvioinnin]] tutkimuksesta perustui vain Web of Scienceen ja Scopukseen ja sulki pois 61 tietuetta kielikriteereillä, joten ala raportoima maantieteellinen epätasapaino saattaa osittain heijastaa sitä, mitkä kanavat ovat indeksoituja ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Kolmitila-asetelma puuttuu.** Kahdessatoista katsotussa GenAI-tutkimuksessa yksikään ei mitannut avustettua suoriutumista sekä välittömässä että viivästetyssä ei-tekoälytestissä varmistetulla poissulonnalla, joten avustetut voitot eivät koskaan kytkeydy pidempään säilymiseen ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Toteutettavuus on tulosluokka, ei johdanto.** Kahden kohortin pilotti tekoälyn simuloidusta potilaasta rekrytoi 19 72 kutsutusta opiskelijasta (26 %), suoritti jokaisen kohtaamisen ja kyselyn loppuun (100 %) eikä päättänyt yhtään istuntoa tekniseen vikaan — todellisia tuloksia, mutta toteutettavuuden ja hyväksyttävyyden tulokset määriteltiin vasta keruun jälkeen, eikä jatkamiskriteerejä oltu esitetty etukäteen ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Valmistumisprosentti on informatiivinen vain etukäteen määritettyjen kriteerien vastaisesti; muuten "se käynnistyi" ja "se toimi" ovat sama lause.
 
 ## Nopeusongelma: tekoäly kehittyy havaintoja nopeammin
 
@@ -121,6 +128,8 @@ Kaksi tiettyä raportointikäytäntöä paisuttaa tai vääristää synteesiä, 
 **Otsikkoprosentti voi olla hakusanojen artefakti.** Katsaus 195 opettajankoulutustutkimuksesta teki digitaalisesta kompetenssista ja [[tpack|TPACK]]:sta eksplisiittisiä hakusanoja, kun taas opetussuunnittelulla ja arvioinnilla ei ollut vastaavaa termiä, joten raportoidut **46.5% ja 1.9%** ovat osuuksia, jotka haku itse rakensi. Esiintyvyysväite on vain niin merkityksellinen kuin sen takana oleva haku.
 
 **Ja perustaso on luku, jota kukaan ei mainitse.** Menetelmälliset rajat täällä ovat mitattavissa eivätkä vaikutelmia: kriittisessä katsauksessa 80 HCI-tutkimuksesta kriittisestä ajattelusta tekoälyn kanssa **42 (52%) ei käyttänyt kontrolliryhmää** ja useimmat loput nojautuivat itsearviointiin. Kun yli puolet alan myönteisistä havainnoista tulee asetelmista, jotka eivät pysty erottamaan tekoälyn vaikutusta tavallisesta toiminnasta, asianmukainen ennakko-oletus yksittäisestä havainnosta on skeptisyys, ei väliaikainen hyväksyntä.
+
+Käytännön seuraus näistä rajoista on, että useat laajalti käytetyt koulutuskäytännöt nojaavat näyttöön, joka ei kestä niitä; [[what-not-to-do-ai-education|mitä kouluttajien tulisi välttää tekoälyn kanssa]] kokoaa nämä käytännöt roolin mukaan ja nimeää kunkin varoituksen taustalla olevan erityisen rajan.
 
 ## Yleiset väärinkäsitykset
 

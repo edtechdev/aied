@@ -13,13 +13,17 @@ connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Ερωτήματα προς διερεύνηση
 
-1. Όταν ένας μαθητής αποδέχεται μια απάντηση της ΤΝ που τυχαίνει να είναι σωστή, έχει πετύχει το μάθημα; Τι θα έπρεπε να ισχύει για να είναι η ίδια η αποδοχή το πράγμα που μετράει;
-2. Ένας βαθμονομημένος αναθέτων που γνωρίζει τα όριά του διαφέρει ως προς το είδος από έναν μαθητή που απλώς δεν μπορεί να ξεχωρίσει; Πώς θα διέκρινε τη διαφορά [[teacher-role|ένας διδάσκων]] σε ένα μόνο έργο;
-3. Αν η αυτοπεποίθηση ανεβαίνει ενώ η ακρίβεια πέφτει - όπως συμβαίνει όταν υπάρχει διαθέσιμη συμβουλή ΤΝ - τι κάνει αυτό στην ανίχνευση λαθών από τον ίδιο τον μαθητή;
-4. Πού είναι διδάξιμη η επαλήθευση και πού είναι ζήτημα φόρτου εργασίας για την [[educational-policy-ai|πολιτική]]; Ποια μέρη ενός [[curriculum-design|προγράμματος σπουδών]] θα έπρεπε να αλλάξουν για να γίνει ο έλεγχος ο κανόνας και όχι η εξαίρεση;
-5. Θα έπρεπε τα ιδρύματα να μετρούν καθόλου τη συνθηκολόγηση, ή η μέτρησή της επισύρει την ίδια επιτήρηση με την οποία παλεύουν οι [[ai-use-disclosure|κανόνες γνωστοποίησης]];
-6. Πώς θα έμοιαζε ένα έργο που επιβραβεύει έναν μαθητή επειδή υπερκέρασε μια λανθασμένη απάντηση της ΤΝ και όχι επειδή παρήγαγε μια στιλβωμένη;
+- Όταν ένας μαθητής αποδέχεται μια απάντηση της ΤΝ που τυχαίνει να είναι σωστή, έχει πετύχει το μάθημα; Τι θα έπρεπε να ισχύει για να είναι η ίδια η αποδοχή το πράγμα που μετράει;
+- Ένας βαθμονομημένος αναθέτων που γνωρίζει τα όριά του διαφέρει ως προς το είδος από έναν μαθητή που απλώς δεν μπορεί να ξεχωρίσει; Πώς θα διέκρινε τη διαφορά [[teacher-role|ένας διδάσκων]] σε ένα μόνο έργο;
+- Αν η αυτοπεποίθηση ανεβαίνει ενώ η ακρίβεια πέφτει - όπως συμβαίνει όταν υπάρχει διαθέσιμη συμβουλή ΤΝ - τι κάνει αυτό στην ανίχνευση λαθών από τον ίδιο τον μαθητή;
+- Πού είναι διδάξιμη η επαλήθευση και πού είναι ζήτημα φόρτου εργασίας για την πολιτική; Ποια μέρη ενός [[curriculum-design|προγράμματος σπουδών]] θα έπρεπε να αλλάξουν για να γίνει ο έλεγχος ο κανόνας και όχι η εξαίρεση;
+- Θα έπρεπε τα ιδρύματα να μετρούν καθόλου τη συνθηκολόγηση, ή η μέτρησή της επισύρει την ίδια επιτήρηση με την οποία παλεύουν οι [[ai-use-disclosure|κανόνες γνωστοποίησης]];
+- Πώς θα έμοιαζε ένα έργο που επιβραβεύει έναν μαθητή επειδή υπερκέρασε μια λανθασμένη απάντηση της ΤΝ και όχι επειδή παρήγαγε μια στιλβωμένη;
 
 ## Εισαγωγή
 

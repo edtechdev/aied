@@ -10,14 +10,18 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ Kehystäminen yhdistyy [[motivation|motivaatioon]] [[self-determination-theory|i
 ## Media ja julkinen kehystäminen
 
 Opiskelijoita kehystävät myös laajempi media ja julkinen keskustelu [[ai-education|tekoälystä koulutuksessa]], mikä muovaa heidän perusodotuksiaan ennen mitään opettajan viestiä. Julkisen keskustelun analyysit ja se, miten esimerkiksi YouTube kehystää ChatGPT:n käyttöä koulutuksessa, osoittavat, että vallitsevat kehykset - hypetys, tuomiopäivä tai pragmatismi - vaikuttavat siihen, miten oppijat ja [[teacher-role|kouluttajat]] lähestyvät teknologiaa.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Tehokas opettajan kehystäminen tarkoittaa usein näiden ympäröivien narratiivien tarkoituksellista vastustamista tai uudelleenohjaamista.
+
+Kehys vaikuttaa myös opinahkon arvoon: noin 1 750 Yhdysvaltojen rekrytoijaa haastateltiin, ja kun opiskelijoiden tekoälyn käyttö kuvattiin korvaamisena eikä avustamisena, haastattelun todennäköisyys ja valmius neuvotella palkasta laskivat, voimakkaimmin korkean keskiarvon omaavien hakijoiden kohdalla ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Käytännön ohjeita
 

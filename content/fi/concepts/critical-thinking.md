@@ -9,15 +9,19 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/critical-thinking"
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
 connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -41,7 +45,7 @@ Kriittinen ajattelu on keskeinen [[ai-literacy|tekoälylukutaidolle]] — opiske
 
 Jäsennelty dialogin ohjaus, ei parempi kehote, erottaa harhaluulojen ohjaajan väittelychatbotista: ohjaamalla jokainen vuoro Toulmin-pohjaisen intentiotunnistuksen, kiinteän strategiajärjestyksen ja verifioija-agentin läpi yksi sokraattinen järjestelmä läpäisi 84,5 % dialogin laatumittareista heuristiikkabaselineä vastaan, joka sai 61,5 % ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
-### Kriittinen ajattelu tekoälykoulutuksen tutkimuksessa
+## Kriittinen ajattelu tekoälykoulutuksen tutkimuksessa
 
 Tietopohjan artikkelit tarkastelevat kriittistä ajattelua [[design-based-research|suunnittelupohjaisten]] ja empiiristen linssien kautta. [[ai-agents-constructive-conflict-design-education-2026|Vastakkaiset tekoälyagentit]] toteuttavat rakentavaa konfliktia saadakseen noviisisuunnittelijat harkitsemaan uudelleen — sokraattinen muunnelma, joka pakottaa kriittiseen uudelleenarviointiin. [[genai-can-harm-teaching-rct-2026|RCT-tutkimus GenAI:sta opetuksessa]] nostaa esiin kysymyksen siitä, voivatko pinnallisiin tuloksiin optimoivat tekoälytyökalut tahattomasti tukahduttaa syvempään oppimiseen johtavaa kriittistä ajattelua. Mitattu näyttö terävöittää väitettä: kriittisen ajattelun liikkeet riippuvat siitä, miten tekoälyn välittämä palaute ja tehtävät suunnitellaan, ja oppijoiden [[metacognition|metakognitiivisesta]] säätelystä, eivät mallin saatavuudesta.
 
@@ -79,12 +83,18 @@ Suurempi poikkileikkauskysely osoittaa toiseen suuntaan: 1 157 kiinalaisella jat
 
 - **Lukukausi tekoälyn käyttöä jätti kriittisen ajattelun tasolle, kun taas reflektiivinen käyttö seurasi sitä.** Melanou, Beege ja Kimmig (2026) seurasivat 87 liiketaloustieteen opiskelijaa yhdeksänviikkoisen kurssin läpi kolmessa rinnakkaisessa ehdossa (ohjaajakehystetty tekoäly, ohjaamaton tekoäly ja ei tekoälyä) kolme kertaa mitattuna. Tietämys nousi jokaisessa ryhmässä ilman etua kummallekaan tekoälyehdolle eikä Matteus-vaikutusta (BF01 = 8,70), kun taas itse raportoitu kriittinen ajattelu ja [[motivation|motivaatio]] pysyivät vakaina. Opiskelijat erotti reflektiivinen käyttö, käytäntö tarkistaa lähteet ja verifioida tekoälyn tuotos ennen sen omaksumista: se oli korkeampi tekoälyehdossa kuin kontrolliryhmässä (keskiarvot 3,72 vs. 2,82) ja ennusti kriittistä ajattelua loppumittauksessa (R² = 0,183, β = 0,43, p < 0,001). Tulos rajaa odotusta, että tekoälyn käyttökurssi itsessään liikuttaisi kriittistä ajattelua: [[metacognition|metakognitiivinen]] säätely, ei työkalun saatavuus, on se, missä yhteys asuu, ja tekijät huomauttavat, että lukukausi on todennäköisesti liian lyhyt kestävän muutoksen näkemiseksi. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
 
-### Yhteydet muihin käsitteisiin
+- **Arviointi liikkui, muodollinen päättely ei.** Neljävaiheinen tekoälypalaute nosti Argumenttien arvioinnin 1,74 oikaistulla pisteellä, kun taas Päättely liikkui 0,30 (p = 0,383), mikä sijoittaa edistymisen väittelyjen arviointiin eikä muodolliseen logiikkaan ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
+- **Verkossa tapahtuva päättely voidaan mitata hakukäyttäytymisestä, ja se jakautuu kahtia.** 459 ensimmäisen vuoden opiskelijalla, joilla oli analyysoitavissa olevat lokit avoimessa verkossa hakemassa, [[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)]] havaitsivat kyselyn muotoilun ja tulossivun tarkastelun muodostavan erilliset, korreloimattomat tekijät, joten yksi hankintapistemäärä vääristää konstruktia.
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez et al. (2026)]] tarjosivat ensimmäisen erikoistyökalun kriittiselle ajattelulle tekoälyn kanssa ja havaitsivat, että sen kolme ehdotettua ulottuvuutta olivat vahvasti limittyneitä keskenään: latentit korrelaatiot olivat erittäin korkeita, keskimääräinen selitetty varianssi jäi neliöidytyihin korrelaatioihin verrattuna, eikä missään tekijässä täyttynyt diskriminanttivaliditeetin kriteeri. Kokonaispistemäärä on luotettava, mutta ulottuvuudet ovat vielä alustavia.
+
+## Yhteydet muihin käsitteisiin
 
 Kriittinen ajattelu leikkaa [[scaffolding|tukemisen]] (tekoälytuen suunnittelu, joka säilyttää kognitiivisen vaatimuksen), [[prompt-engineering|kehoitetekniikan]] (kriittistä analyysia esiin tuovien kysymysten muotoilu) ja [[cognitive-offloading|liiallisen nojautumisen]] (tietäminen, milloin luottaa ja milloin kyseenalaistaa tekoäly) kanssa. Se on [[academic-integrity|akateemisen rehellisyyden]] perusta ja toimii keskeisenä ulottuvuutena [[ai-literacy|tekoälylukutaidon]] viitekehyksissä sekä [[k-12|K-12]]- että [[higher-ed|korkeakoulu]]konteksteissa.
 
 - **Tekoälyn virheet korkeamman asteen ajattelun provokaatioina:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationalisoi Bloomin korkeamman asteen tasot (Analyze, Evaluate, Create) antamalla opiskelijoiden kuulustella tekoälyn tuottamia virheitä tietokantakurssilla, merkittävin esi- ja jälkivoitoin (Cohenin *d*=1,49) aineosaamisessa.
-- **Tekoälyn tuotoksen kritiikki on tuettava taito, ei ongelmanratkaisun sivutuote.** Ryhmät, jotka vain ratkaisivat aiheeseen liittyvän fysiikan ongelman, hyväksyivät viimeistellyn tekoälyratkaisun tai arvostelivat sitä omien [[misconceptions|väärinkäsitystensä]] pohjalta, kun taas MAPS-rubriikin ohjaama reflektio tuotti asiantuntijoiden kanssa linjassa olevia kritiikkejä puuttuvasta integraatiosta ja määrittelemättömästä notaatiosta ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **Tekoälyn tuotoksen kritiikki on tuettava taito, ei ongelmanratkaisun sivutuote.** Ryhmät, jotka vain ratkaisivat aiheeseen liittyvän fysiikan ongelman, hyväksyivät viimeistellyn tekoälyratkaisun tai arvostelivat sitä omien [[misconceptions|väärinkäsitystensä]] pohjalta, kun taas [[rubrics|MAPS-arviointiasteikon]] ohjaama reflektio tuotti asiantuntijoiden kanssa linjassa olevia kritiikkejä puuttuvasta integraatiosta ja määrittelemättömästä notaatiosta ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **Kritiikkiä voi lainata tekoälyn omasta itsearvioinnista.** Kaksitoista opettajaksi opiskelevaa, jotka vertailetivat vesihuollon mallejaan ChatGPT-4o-malliin, tuottivat kritiikkiä, joka vastasi niitä heikkouksia, jotka tekoäly oli itsestään luetellut, eivätkä yksikään huomannut tuotokseen jäänyttä laskennallista ristiriitaa — hiottua tulosta voi ihaila ilman, että sitä vahvistaa ([[cetin-ai-comparative-reflection-modelling-2026|Çetin ja Bilgili, 2026]]).
 
 - **Rajaa tekoäly kognitiivisen toimijuuden säilyttämiseksi.** E3-HOT-sinikartta kartoittaa kolme [[embodied-learning|kehollista]] polkua — tilanteellinen upotus, kehollinen osallistuminen, kognitiivinen luominen — Analyze-, Evaluate- ja Create-tasoille ja rajaa tekoälyn kehotteisiin, kritiikkiin ja strategiaehtoihin, jotta opiskelijoiden on esitettävä perustelunsa ja viitattava näyttöön ennen väitteen hyväksymistä ([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]]).
 
@@ -106,3 +116,9 @@ Kriittinen ajattelu leikkaa [[scaffolding|tukemisen]] (tekoälytuen suunnittelu,
 - **"Parempi kehote tuottaa parempaa kriittistä ajattelua."** **Jäsennelty dialogin ohjaus, ei parempi kehote**, erottaa harhaluulojen ohjaajan väittelychatbotista: jokaisen vuoron ohjaaminen **Toulmin-pohjaisen intentiotunnistuksen** läpi teki työn. Mekanismi on vuorovaikutuksen rakenne eikä sanamuoto.
 - **"GenAI:n käyttö nostaa kriittistä ajattelua suoraan."** GenAI:n käytön yhteys **itse raportoituun** kriittiseen ajatteluun kulki **lähes kokonaan GenAI-[[feedback-literacy|palautelukutaidon]] kautta** — **421 kiinalaisella perusopiskelijalla** palautelukutaito välitti **71 %** yhteydestä. Lukutaito on polku.
 - **"Meta-analyyttinen vaikutus on yhdenmukainen."** **29 kokeessa** GenAI nosti korkeamman asteen ajattelua kohtalaisesti (**g = 0,609**), kriittisen ajattelun ollessa **ES = 0,691**. Kohtalaiset yhdistetyt vaikutukset heterogeenisten interventioiden yli tukevat kategoriaa eivätkä tiettyä suunnittelua.
+
+## Kaksi polkua, yksi nettovaikutus
+
+Parantaako tekoälyn käyttö [[critical-thinking|kriittistä ajattelua]] vai haittaako se siitä, riippuu siitä, mitä mekanismia mitataan. Vuoden 2026 meta-analyyttinen rakenneyhtälömalli, jossa yhdistettiin 31 tutkimusta ja 16 357 oppijaa, havaitsi **kaksi lähes yhtä suurta, vastakkaissuuntaista epäsuoraa polkua**: tekoälyn käyttö nosti riippuvuutta, mikä laski kriittistä ajattelua (β = −0,212), ja nosti [[motivation|oppimismotivaatiota]], mikä nosti sitä (β = +0,217). Polut kumoivat lähes täsmälleen — epäsuorien vaikutusten summa β = 0,004 — jättäen pienen positiivisen suoran vaikutuksen (β = 0,149) ja 40 % selitetyistä variansseista. ([[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]])
+
+Nollatason korrelaatio tuossa kirjallisuudessa ei ole merkitsevä (r = 0,156, 95 %:n luottamusväli [−0,040, 0,353]), ja näin kumoaminen näyttää silloin, kun tutkimus mittaa vain lopputulosta. Suunnitteluseuraus on, että [[cognitive-offloading|siirtokuormitus]] ei ole työkalun ominaisuus vaan se, miten tehtävä asetetaan: työkalut, jotka pitävät kokonaisratkaisut poissa, ja metakognitiiviset varmistuspisteet, jotka pakottavat arvioimaan, kallistavat balanssin motivaatiopolulle.

@@ -9,15 +9,19 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/critical-thinking"
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
 connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -41,7 +45,7 @@ Kritičko mišljenje središnje je za [[ai-literacy|pismenost o umjetnoj intelig
 
 Strukturirana kontrola dijaloga, a ne bolji poticaj, ono je što razlikuje tutora za logičke pogreške od chatbota za debatu: usmjeravanje svakog poteza kroz Toulminovu detekciju namjere, fiksni redoslijed strategija i agent za provjeru omogućili su jednom sokratovskom sustavu da prođe 84,5 % metrika kvalitete dijaloga prema 61,5 % za heurističku osnovnu liniju ([[lftutor-logical-fallacy-education-2026|Shi i sur. (2026.)]]).
 
-### Kritičko mišljenje u istraživanju umjetne inteligencije u obrazovanju
+## Kritičko mišljenje u istraživanju umjetne inteligencije u obrazovanju
 
 Članci baze znanja istražuju kritičko mišljenje kroz [[design-based-research|dizajnirane]] i empirijske perspektive. [[ai-agents-constructive-conflict-design-education-2026|Adverzarni UI agenti]] provode konstruktivni sukob kako bi potaknuli preispitivanje kod dizajnera početnika — sokratovska varijanta koja prisiljava na kritičku ponovnu procjenu. [[genai-can-harm-teaching-rct-2026|RCT istraživanje o genAI-u u poučavanju]] postavlja pitanje mogu li UI alati koji optimiziraju površinske ishode nenamjerno potisnuti kritičko mišljenje koje vodi dubljem učenju. Izmjereni dokazi izoštravaju poantu: pomiče li se kritičko mišljenje, ovisi o tome kako su UI-posredovana povratna informacija i zadaci osmišljeni te o učeničkoj [[metacognition|metakognitivnoj]] regulaciji, a ne o pristupu modelu.
 
@@ -79,12 +83,20 @@ Veće presječno istraživanje upućuje u suprotnom smjeru: među 1.157 kineskih
 
 - **Semestar pristupa umjetnoj inteligenciji ostavio je kritičko mišljenje nepromijenjenim, dok ga je refleksivna upotreba pratila.** Melanou, Beege i Kimmig (2026.) pratili su 87 studenata poslovne informatike kroz devetotjedni kolegij u tri paralelna uvjeta (UI u okviru tutora, nevođena UI i bez UI) mjereno tri puta. Znanje je poraslo u svakoj skupini bez prednosti ni jednog UI uvjeta i bez Matejevog učinka (BF01 = 8,70), dok su samoprijavljeno kritičko mišljenje i [[motivation|motivacija]] ostali stabilni. Ono što je razlikovalo studente bila je refleksivna upotreba, praksa provjere izvora i verifikacije UI rezultata prije usvajanja: bila je viša u UI uvjetu nego u kontrolnoj skupini (prosjeci 3,72 prema 2,82) i predviđala je kritičko mišljenje na završnom mjerenju (R² = 0,183, β = 0,43, p < 0,001). Rezultat relativizira svako očekivanje da će kolegij s umjetnom inteligencijom sam po sebi pokrenuti kritičko mišljenje: [[metacognition|metakognitivna]] regulacija, a ne pristup alatu, mjesto je na kojem veza živi, a autori napominju da je semestar vjerojatno prekratak za trajnu promjenu. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou i sur. 2026.]])
 
-### Veze s drugim konceptima
+- **Procjena se pomakla; formalna dedukcija nije.** Četverofazna UI povratna informacija podigla je vrednovanje argumenata za 1,74 prilagođena boda, dok se dedukcija pomaknula za 0,30 (p = 0,383), što dobitak smješta u suđenje tvrdnjama, a ne u formalnu logiku ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin i sur. (2026.)]]).
+
+- **Mrežno rasuđivanje može se mjeriti iz ponašanja pretraživanja, a dijeli se na dva dijela.** Kod 459 studenata prve godine s analiziranim zapisima pretraživanja otvorenog weba, [[illmann-gen-cor-log-data-indicators-2026|Illmann i sur. (2026)]] pronašli su da su formuliranje upita i pregledavanje stranice rezultata činili odvojene, nekorelirane faktore, pa pojedinačan rezultat prikupljanja pogrešno predstavlja konstrukt.
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez i sur. (2026)]] ponudili su prvu namjensku mjeru kritičkog mišljenja s umjetnom inteligencijom i pronašli da se njezina tri predložena domena previše preklapaju pa ih je teško razdvojiti: latentne korelacije bile su vrlo visoke, prosječna objašnjena varijanca pali su ispod kvadrata korelacija, a kriterij diskriminantne valjanosti nije ispunjen ni za jedan faktor. Ukupni je rezultat pouzdan, ali dimenzije ostaju privremene.
+
+## Veze s drugim konceptima
 
 Kritičko mišljenje presijeca se s [[scaffolding|postupnom potporom]] (osmišljavanje UI podrške koja održava kognitivni zahtjev), [[prompt-engineering|inženjerstvom poticaja]] (formuliranje pitanja koja izazivaju kritičku analizu) i [[cognitive-offloading|pretjeranim oslanjanjem]] (znanje kada vjerovati, a kada propitivati umjetnu inteligenciju). Temeljno je za [[academic-integrity|akademsku čestitost]] i služi kao ključna dimenzija okvira [[ai-literacy|pismenosti o umjetnoj inteligenciji]] u kontekstima [[k-12|K-12]] i [[higher-ed|visokog obrazovanja]].
 
 - **UI pogreške kao provokacije za mišljenje višeg reda:** [[pedagogy-ai-mistakes|Hosseini (2026.)]] operacionalizira Bloomove razine višeg reda (analizirati, vrednovati, stvarati) tako što studenti propituju UI-generirane pogreške na kolegiju baza podataka, uz značajne dobitke prije i poslije (Cohenov *d*=1,49) u predmetnoj kompetenciji.
-- **Kritika UI rezultata vještina je kojoj se može pružiti potpora, a ne nusproizvod rješavanja problema.** Skupine koje su samo riješile povezani fizikalni problem prihvatile su uglađeno UI rješenje ili ga kritizirale iz vlastitih [[misconceptions|zabluda]], dok je refleksija vođena MAPS rubrikom proizvela kritike usklađene sa stručnjacima o nedostajućoj integraciji i nedefiniranoj notaciji ([[probing-ai-generated-physics-solutions-2026|Borse i sur. (2026.)]]).
+- **Kritika UI rezultata vještina je kojoj se može pružiti potpora, a ne nusproizvod rješavanja problema.** Skupine koje su samo riješile povezani fizikalni problem prihvatile su uglađeno UI rješenje ili ga kritizirale iz vlastitih [[misconceptions|zabluda]], dok je refleksija vođena MAPS-[[rubrics|rubrikom]] proizvela kritike usklađene sa stručnjacima o nedostajućoj integraciji i nedefiniranoj notaciji ([[probing-ai-generated-physics-solutions-2026|Borse i sur. (2026.)]]).
+
+- **Kritiku je moguće posuditi iz vlastite samoprocjene umjetne inteligencije.** Dvanaest budućih nastavnika koja su uspoređivala svoje modele potrošnje vode s modelom ChatGPT-4o proizvelo je kritike koje su odgovarale slabostima koje je umjetna inteligencija navela o sebi, a nijedan nije primijetio računalnu neusklađenost zadržanu u njezinu rezultatu — uglađenom se rezultatu može diviti bez da ga se provjeri ([[cetin-ai-comparative-reflection-modelling-2026|Çetin i Bilgili, 2026]]).
 
 - **Ograničite UI da sačuvate kognitivnu djelotvornost.** Nacrt E3-HOT preslikava tri [[embodied-learning|utjelovljena]] puta — situacijsko usađivanje, utjelovljeno sudjelovanje, kognitivno stvaranje — na analizirati, vrednovati i stvarati, i ograničava UI na poticaje, kritiku i prijedloge strategija, pa studenti moraju artikulirati obrazloženja i citirati dokaze prije nego što se tvrdnja prihvati ([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu i sur. (2026.)]]).
 
@@ -106,3 +118,10 @@ Kritičko mišljenje presijeca se s [[scaffolding|postupnom potporom]] (osmišlj
 - **„Bolji poticaj proizvodi bolje kritičko mišljenje.“** **Strukturirana kontrola dijaloga, a ne bolji poticaj**, razdvaja tutora za logičke pogreške od chatbota za debatu: posao je obavilo **usmjeravanje svakog poteza kroz Toulminovu detekciju namjere**. Mehanizam je struktura interakcije, a ne formulacija.
 - **„Upotreba genAI-a izravno podiže kritičko mišljenje.“** Veza upotrebe genAI-a sa **samoprijavljenim** kritičkim mišljenjem išla je **gotovo u cijelosti kroz genAI [[feedback-literacy|pismenost o povratnim informacijama]]** — kod **421 kineskog studenta** pismenost o povratnim informacijama posredovala je **71 %** veze. Pismenost je put.
 - **„Metaanalitički učinak je jednoličan.“** Kroz **29 eksperimenata** genAI je umjereno podigao mišljenje višeg reda (**g = 0,609**), s kritičkim mišljenjem na **ES = 0,691**. Umjereni objedinjeni učinci kroz heterogene intervencije podupiru kategoriju, ali ne određeni dizajn.
+
+
+## Dva puta, jedan neto učinak
+
+Pomaže li upotreba umjetne inteligencije ili šteti [[critical-thinking|kritičkom mišljenju]], ovisi o tome koji se mehanizam mjeri. Metaanalitički model strukturalnih jednadžbi iz 2026. koji objedinjuje 31 studiju i 16 357 učenika našao je **dva neizravna puta gotovo jednake veličine koji idu u suprotnim smjerovima**: upotreba umjetne inteligencije podigla je ovisnost, koja je snizila kritičko mišljenje (β = −0,212), i podigla [[motivation|motivaciju za učenje]], koja ga je podigla (β = +0,217). Putovi su se gotovo točno poništili — ukupni neizravni β = 0,004 — ostavljajući mali pozitivan izravan učinak (β = 0,149) i 40 % objašnjene varijance. ([[motivational-gain-trumping-cognitive-offloading-2026|Wang i sur., 2026]])
+
+Korelacija nultog reda u toj literaturi nije značajna (r = 0,156, 95 % CI [−0,040, 0,353]), što je ono kako poništavanje izgleda kad studija mjeri samo ishod. Dizajnerska implikacija jest da [[cognitive-offloading|rasterećenje]] nije svojstvo alata, nego načina na koji je zadatak postavljen: alati koji uskraćuju odgovore od početka do kraja i metakognitivne kontrolne točke koje prisiljavaju na vrednovanje pomjeraju ravnotežu prema motivacijskom putu.

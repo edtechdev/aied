@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ One objašnjavaju mehanizme: imenuju dijelove koji obavljaju posao i predviđaju
 ## Okviri poučavanja, integracije i usvajanja
 
 - **[[tpack|TPACK]]** — nastavničko znanje koje spaja tehnologiju, pedagogiju i sadržaj; zadani okvir za studije o umjetnoj inteligenciji usmjerene na nastavnike.
+- **[[bloom-taxonomy|Bloomova taksonomija]]** — zajednički rječnik za kognitivnu zahtjevnost zadataka, koji se koristi i za kodiranje stavki i za njegov slijed; u umjetnoj inteligenciji u obrazovanju postala je ujedno mjernim i dizajnerskim problemom.
 - **[[technology-acceptance-model|Modeli usvajanja]]** — namjera kao funkcija percipirane korisnosti i lakoće upotrebe. Rabi se dovoljno široko da je oslanjanje područja na namjeru, a ne na ponašanje, stalna kritika.
+- **Model potvrđivanja očekivanja (ECM)** — zadovoljstvo kao potvrda prethodnih očekivanja, s nastavkom kao ishodom, a ne početnim usvajanjem. U pilotu iz sociologije metoda tijekom jednog semestra s 24 studenta preddiplomskog studija, 87 % ih je ocijenilo Copilot dobrim ili odličnim, a 91 % bi ga preporučilo, ali ih je samo 57 % namjeravalo nastaviti koristiti ([[wells-genai-research-assistant-sociology-2026|Wells, 2026.]]). Taj jaz srž je samega modela: zadovoljan korisnik ipak se može odlučiti ne vratiti, pa zadovoljstvo i nastavak trebaju zasebne mjere.
 - **[[icap-framework|ICAP]]** — rangira angažman kao pasivan, aktivan, konstruktivan i interaktivan; koristan za pitanje koji način [[student-ai-interaction|interakcija s umjetnom inteligencijom]] doista omogućuje.
 - **[[samr-model|SAMR]]** — od supstitucije do redefinicije. Popularan kao priča o zrelosti, slab kao mjerni instrument.
 - **[[universal-design-for-learning|Univerzalni dizajn za učenje]]**, **[[inclusive-learning|uključivo učenje]]** i **[[accessibility|pristupačnost]]** — dizajnerski okviri za pitanje kome se služi, i oni koji se najčešće zazivaju u radu na invaliditetu i [[equity-in-ai-education|ravnopravnosti]].
@@ -104,7 +110,7 @@ Riječi se u literaturi rabe labavo, a razliku vrijedi objasniti jednim odlomkom
 
 ## Susjedni slojevi
 
-Dvije susjedne stranice namjerno se bave nečim drugim. [[philosophy-of-ai-in-education|Filozofija umjetne inteligencije u obrazovanju]] postavlja normativna i konceptualna pitanja — čemu obrazovanje *služi*, može li stroj poučavati — i ne predviđa veličine učinka; studija može biti filozofski naivna i teorijski valjana, ili obrnuto. [[theory-development-aied|Razvoj teorije]] metadjelatnost je građenja, posuđivanja i revidiranja teorije, uključujući stalnu kritiku da velik dio rada u [[ai-education|umjetnoj inteligenciji u obrazovanju]] primjenjuje postojeću teoriju, a ne testira je. Ova stranica inventar je; razvoj teorije bavi se proizvodnjom i revidiranjem inventara.
+Dvije susjedne stranice namjerno se bave nečim drugim. [[philosophy-of-ai-in-education|Filozofija umjetne inteligencije u obrazovanju]] postavlja normativna i konceptualna pitanja — čemu obrazovanje *služi*, može li stroj poučavati — i ne predviđa veličine učinka; studija može biti filozofski naivna i teorijski valjana, ili obrnuto. [[theory-development-aied|Razvoj teorije]] metadjelatnost je građenja, posuđivanja i revidiranja teorije, uključujući stalnu kritiku da velik dio rada u [[ai-education|umjetnoj inteligenciji u obrazovanju]] primjenjuje postojeću teoriju, a ne testira je. Ova stranica inventar je; razvoj teorije bavi se proizvodnjom i revidiranjem inventara. [[learning-environments-as-systems|Okruženja za učenje kao sustavi]] treći su susjed. To nije teorija učenja i ne predviđa veličine učinka, nego stajalište o jedinici analize: okruženje za učenje višerazinski je sustav čiji dijelovi međusobno djeluju, pa je razina koju studija mjeri teorijska odluka, a ne udobnost uzorkovanja.
 
 ## Odabir leće kada je pitanje praktično
 

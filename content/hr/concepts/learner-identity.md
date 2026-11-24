@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Uvod
 
 Identitet učenika tiče se toga kako učenik razumije sebe i toga što postaje unutar neke domene — motivacijski i razvojni konstrukt različit od uvjerenja o sposobnostima poput [[self-efficacy|samoučinkovitosti]], koja odgovaraju na uže pitanje *mogu li to učiniti?* Identitet se oblikuje kroz sudjelovanje, priznanje i autorstvo: gledajući sebe u nekome polju i imajući taj pogled na sebe potvrđen od drugih. Umjetna inteligencija preoblikuje sva tri uvjeta jer mijenja tko obavlja rad, što se računa kao vlastiti doprinos i biva li učenik prepoznat kao autor vlastitoga učenja ([[agency]], [[metacognition]]).
+
+Ocjene su odnos, a ne samo simbol: studenti se kroz njih doživljavaju, pa reforma koja ostavlja protok netaknutim ostavlja netaknutim i taj odnos ([[nieminen-grading-assessment-reform-2026|Nieminen i sur., 2026.]]).
 
 ## Zašto je identitet važan za umjetnu inteligenciju u obrazovanju
 
@@ -59,6 +65,9 @@ Zaseban uvjet autorstva, a ne samo prijetnja autorstvu: kada se samotvorni dijal
 
 - **Suzdržano prihvaćanje: selektivna upotreba umjetne inteligencije kao zaštita identiteta.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026.)]] anketirao je 484 studenta jednog australskog sveučilišta i utvrdio da su akademski uspješniji studenti izvješćivali o *nižem* aktivnom angažmanu s [[generative-ai|generativnom umjetnom inteligencijom]], nižem pozitivnom afektu prema umjetnoj inteligenciji, nižem percipiranom učinku na [[self-report-measures|učenje]] i nižem odustajanju povezanom s umjetnom inteligencijom, s najjačim povezanostima pri rho = −0,395 za percipirani učinak na učenje i rho = −0,359 za pozitivni afekt. Njihovi otvoreni odgovori opisivali su upotrebu koja je bila selektivna (pojašnjavanje, sažimanje, podrška radnom tijeku), provjerena i podređena vlastitoj prosudbi, a rezultati na razini čestica pokazali su veće slaganje s tvrdnjom da oslanjanje na umjetnu inteligenciju ometa [[critical-thinking|kritičko mišljenje]] i samostalno [[problem-solving|rješavanje problema]]. Autori to čitaju kao rad na identitetu: za studente čiji se osjećaj uspješnog učenika temelji na vlastitom trudu i prosudbi, ograničavanje upotrebe umjetne inteligencije brani [[agency|epistemičku djelotvornost]] o kojoj identitet ovisi — što ujedno znači da taj obrazac nije ni tehnofobija ni nizak angažman.
 - **Navedena svrha ne upravlja nužno odlukom o umjetnoj inteligenciji.** [[ting-ai-learning-ownership-purpose-2026|Ting i sur. (2026.)]] intervjuirali su 14 studenata preddiplomskog studija i kodirali svaki intervju prema odnosu između studentove [[self-determination-theory|svrhe]] — osobno smislene namjere da doprinese izvan sebe — i njihovih izbora u vezi s umjetnom inteligencijom. Samo su neki uspostavili tu vezu: jedna je odbila umjetnu inteligenciju jer su njezini ekološki i ljudski troškovi proturječili njezinoj svrsi, a troje je pustilo da budući profesionalni identitet oblikuje njihove izbore („doprinosi psihologu kakav ću jednoga dana biti“). Drugi s jednako jasnom svrhom nisu uspostavili takvu vezu, opisujući svrhu i umjetnu inteligenciju kao „nekako odvojeno“, pa imati identitet koji treba zaštititi nije bilo isto što i crpiti iz njega. Rad također razdvaja razloge koje studenti navode za zadržavanje rada kao vlastitoga — razvoj vještina, [[evaluative-judgment|vlasništvo i ponos]] te moralni prigovor — koji nastaju kroz različite mehanizme i ne bi ih trebalo objediniti u jedan motiv.
+
+- **Sposobnost može doći prije pripadnosti.** Tridesetsednodnevna autoetnografija edukatorice bioinformatike koja je gradila igru u nepoznatoj domeni otkrila je da je [[generative-ai|generativna umjetna inteligencija]] dala sposobnost, ali ne i identitet: pripadnost je dolazila kroz sudjelovanje u zajednicama prakse i višestruko smisleno oblikovanje značenja, a postizanje je išlo ljudskim tempom ([[kim-solo-game-development-autoethnography-2026|Kim, 2026.]]).
+- Odbijanje je također rad na identitetu: među pet učenicima sekundarnog obrazovanja koji su pripadali rasnoj manjini, ne-upotreba je izražavala kontrolu, poštivala institucionalna pravila ili signalizirala epistemološke vrijednosti, dok su neutralni odgovori umjetne inteligencije proizveli „kulturnu zaravnjelost“ koja je njihova iskustva ostavila neprepoznatima ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026.]]).
 
 ## Odnos prema djelotvornosti učenika
 

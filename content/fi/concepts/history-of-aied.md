@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ Alan historia ei ole lineaarinen kehityskulku vaan sarja ehdollisia päätöksi�
 - **Punnitse kontrollia ja toimijuutta tarkoituksellisesti.** Onko tekoälyn optimoitava kohti standardituloksia vai mahdollistettava moninaisia, oppijalähtöisiä tuloksia, on aito valinta, jolla on institutionaalisia ja poliittisia seurauksia, ei tekninen itsestäänselvyys.
 - **Säilytä oppijan toimijuus.** Toistuva vastarinta standardointia ja kontrollia vastaan avoimien, oppijakeskeisten lähestymistapojen hyväksi on kestävä juonne, jota kannattaa puolustaa.
 
-## Yleiset väärinkäsitykset
-
-**"Tekoäly koulutuksessa alkoi ChatGPT:stä."** Ei alkanut, ja uskomus on kallista, koska se tekee jokaisen aiemman oppitunnin näkymättömäksi. [[intelligent-tutoring|Älykäs opastus]] polveutuu 1960- ja 70-lukujen heuristisen haun ja asiantuntijajärjestelmien työstä, ja AIED-yhteisö muodostui sen ympärille vuosikymmeniä ennen [[llm|suuria kielimalleja]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] osoittavat nykyisten keskustelujen toisintavan jakoa, joka oli jo eksplisiittinen Andersonin kognitiivisissa tutoreissa ja Papertin konstruktionismissa, joten lukija, joka ajoittaa alan vuoteen 2022, johtaa uudelleen argumentit, jotka ala on jo kerran ratkaissut, hylännyt tai häviänyt.
-
-**"Ala on vakaasti hylännyt tekoälyn analogiana sovellettujen työkalujen hyväksi, ja generatiivinen tekoäly jatkaa tätä suuntausta."** Tämä on sivun opettavaisin korjaus, koska kehityskulku on todellinen mutta ei monotoninen. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchianin ja Doroudin]] positioanalyysi AIED:stä 1985, 1993, 2021 ja 2024 sekä IJAIEDistä 2004, 2014 ja 2021 osoittaa todella ajautumisen sekoittuneesta alasta lähes yksinomaan sovellettuun instrumentaalisuuteen 2000-luvulle tultaessa. Mutta AIED 2024:ssä kolme neljästä tekoäly-analogia-kvadrantin artikkelista oli LLM-pohjaisia, mukaan lukien parhaan artikkelin työ LLM-pohjaisista opetettavista agenteista. Generatiivinen tekoäly osittain **kääntää** suuntausta sen jatkamisen sijaan, minkä vuoksi sen kohteleminen "seuraavana älykkäänä tutorina" lukee väärin sen, mihin tutkimuksen eturintama todella siirtyi.
-
-**"Personointi tarkoittaa vaikeustason mukauttamista kullekin oppijalle."** Se on vain yksi kahdesta yhteensopimattomasta merkityksestä, ja niiden sekoittaminen kätkee poliittisen valinnan. Ensimmäisessä merkityksessä lopputulos pidetään kiinteänä ja vain polku vaihtelee, ja perinne kulkee Skinnerin opetuslaitteista mestaruuspohjaiseen tutorointiin. Toisessa itse lopputulokset moninaistuvat, kun oppijat tavoittelevat yksilöllisiä kiinnostuksen kohteita ilman standardin opetussuunnitelman rajoja (Zhao, 2024). [[intelligent-tutoring|ITS]] toteuttaa ensimmäistä; [[constructivist|konstruktionismi]] toista. Työkalu, jota kuvataan "personoiduksi", ei ole kertonut sinulle mitään ennen kuin tiedät, kumpaa se tarkoittaa.
-
-**"'Tekoäly' oli yksinkertaisesti alan ilmeinen nimi."** Termi oli tarkoituksellinen valinta. Kun McCarthy suunnitteli vuoden 1956 Dartmouth-projektia, hän suosi *tekoälyä* *kybernetiikan* sijaan osittain erottaakseen työn Wienerin analogisen palautteen perinteestä. Tuo yksittäinen päätös kehysti koneet suoraan vertailuun ihmiskognition kanssa, ja sen asentama antropomorfinen kehystys muovaa yhä tutkimusprioriteetteja, tuotekieltä ja eettisiä kysymyksiä, joita yleisö esittää.
-
 ## Käytäntöön vieminen
 
 **Opettajille ja opetussuunnittelijoille**
@@ -99,3 +93,14 @@ Alan historia ei ole lineaarinen kehityskulku vaan sarja ehdollisia päätöksi�
 
 - Käytä historiallisia korpuksia lähtötasona sen sijaan, että kohtelisit nykyhetkeä ainoana saatavilla olevana vertailukohtana. AIED-tapahtumien vuosikerrat 1985, 1993, 2021 ja 2024 sekä IJAIEDin 2004, 2014 ja 2021 ovat valmis pitkittäisotos alan omista väitteistä.
 - Viittaa perinteeseen, kun väität uutuutta. Väite, että järjestelmä "personoi oppimista" tai "mallintaa oppijaa", on uusi vain suhteessa tiettyyn aikaisempaan perinteeseen, ja perinne on dokumentoitu.
+
+## Yleiset väärinkäsitykset
+
+**"Tekoäly koulutuksessa alkoi ChatGPT:stä."** Ei alkanut, ja uskomus on kallista, koska se tekee jokaisen aiemman oppitunnin näkymättömäksi. [[intelligent-tutoring|Älykäs opastus]] polveutuu 1960- ja 70-lukujen heuristisen haun ja asiantuntijajärjestelmien työstä, ja AIED-yhteisö muodostui sen ympärille vuosikymmeniä ennen [[llm|suuria kielimalleja]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] osoittavat nykyisten keskustelujen toisintavan jakoa, joka oli jo eksplisiittinen Andersonin kognitiivisissa tutoreissa ja Papertin konstruktionismissa, joten lukija, joka ajoittaa alan vuoteen 2022, johtaa uudelleen argumentit, jotka ala on jo kerran ratkaissut, hylännyt tai häviänyt.
+
+**"Ala on vakaasti hylännyt tekoälyn analogiana sovellettujen työkalujen hyväksi, ja generatiivinen tekoäly jatkaa tätä suuntausta."** Tämä on sivun opettavaisin korjaus, koska kehityskulku on todellinen mutta ei monotoninen. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchianin ja Doroudin]] positioanalyysi AIED:stä 1985, 1993, 2021 ja 2024 sekä IJAIEDistä 2004, 2014 ja 2021 osoittaa todella ajautumisen sekoittuneesta alasta lähes yksinomaan sovellettuun instrumentaalisuuteen 2000-luvulle tultaessa. Mutta AIED 2024:ssä kolme neljästä tekoäly-analogia-kvadrantin artikkelista oli LLM-pohjaisia, mukaan lukien parhaan artikkelin työ LLM-pohjaisista opetettavista agenteista. Generatiivinen tekoäly osittain **kääntää** suuntausta sen jatkamisen sijaan, minkä vuoksi sen kohteleminen "seuraavana älykkäänä tutorina" lukee väärin sen, mihin tutkimuksen eturintama todella siirtyi.
+
+**"Personointi tarkoittaa vaikeustason mukauttamista kullekin oppijalle."** Se on vain yksi kahdesta yhteensopimattomasta merkityksestä, ja niiden sekoittaminen kätkee poliittisen valinnan. Ensimmäisessä merkityksessä lopputulos pidetään kiinteänä ja vain polku vaihtelee, ja perinne kulkee Skinnerin opetuslaitteista mestaruuspohjaiseen tutorointiin. Toisessa itse lopputulokset moninaistuvat, kun oppijat tavoittelevat yksilöllisiä kiinnostuksen kohteita ilman standardin opetussuunnitelman rajoja (Zhao, 2024). [[intelligent-tutoring|ITS]] toteuttaa ensimmäistä; [[constructivist|konstruktionismi]] toista. Työkalu, jota kuvataan "personoiduksi", ei ole kertonut sinulle mitään ennen kuin tiedät, kumpaa se tarkoittaa.
+
+**"'Tekoäly' oli yksinkertaisesti alan ilmeinen nimi."** Termi oli tarkoituksellinen valinta. Kun McCarthy suunnitteli vuoden 1956 Dartmouth-projektia, hän suosi *tekoälyä* *kybernetiikan* sijaan osittain erottaakseen työn Wienerin analogisen palautteen perinteestä. Tuo yksittäinen päätös kehysti koneet suoraan vertailuun ihmiskognition kanssa, ja sen asentama antropomorfinen kehystys muovaa yhä tutkimusprioriteetteja, tuotekieltä ja eettisiä kysymyksiä, joita yleisö esittää.
+

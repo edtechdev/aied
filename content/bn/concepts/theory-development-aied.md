@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:40:25-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -73,6 +77,8 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 
 অন্য কাজগুলো নতুন দৃষ্টান্ত প্রতিষ্ঠা না করে বিদ্যমান তত্ত্বকে এআই-প্রসঙ্গে বাড়ায়: [[critical-thinking-paradox-genai-learning-2026|critical-thinking-paradox]] কাজ [[cognitive-offloading|cognitive-load theory]]-কে ভার-হ্রাস শিক্ষার সঙ্গে একটি তিন-স্তরের কাঠামোয় সংহত করে; [[dollinger-equitable-assessment-ai-2026|equitable assessment]] GenAI-ব্যাঘাতের অধীনে [[assessment]] পুনরায় তত্ত্বায়িত করে। [[reconceptualizing-community-inquiry-generative-ai|Ba, Gašević, Lim ও Anderson (2026)]] [[community-of-inquiry|Community of Inquiry]] কাঠামোটিকেই পুনর্ব্যাখ্যা করেন: GenAI-কে সরঞ্জাম, সংলাপ-সঙ্গী বা অনুমানমূলক "চতুর্থ উপস্থিতি" হিসেবে ফ্রেম না করে তাঁরা এটিকে একটি *জ্ঞানতাত্ত্বিক শর্ত* হিসেবে পুনঃস্থাপন করেন যা জ্ঞানীয়, সামাজিক ও [[teacher-role|শিক্ষাদান]] উপস্থিতি কীভাবে কার্যকর, প্রমাণিত ও শাসিত হয় তা পুনর্বিন্যাস করে — CoI উপস্থিতিগুলোকে মানব–GenAI সমাহারের সামাজিক-প্রযুক্তিগত অর্জন হিসেবে পুনর্গঠন করে এবং একটি কনফিগারেশন-ভিত্তিক হিউরিস্টিক প্রস্তাব করে যেখানে GenAI-সম্পৃক্ততা ও অনুসন্ধান-গুণমান মানব জবাবদিহির মাধ্যমে শর্তসাপেক্ষে সম্পর্কিত। এর অনেকটাই ধারণাগত-কাঠামোর কাজ ([[drummond-genai-business-schools-framework-2026|ব্যবসায়-বিদ্যালয় কাঠামো]], [[valid-student-simulation-llm-2026|বৈধ সিমুলেশন]]) যা অনুশীলনের জন্য তত্ত্বকে পরিচালনাযোগ্য করে।
 
+[[corbin-recognition-feedback-2026|Corbin, Tai ও Flenady (2026)]] Honneth ও Brandom-এর স্বীকৃতি-ধারণাকে ফিডব্যাক-তত্ত্বে আমদানি করেন, যুক্তি দিয়ে যে পারস্পরিক মর্যাদা-আরোপ, তথ্যের গুণমান নয়, তাই একটি মন্তব্যকে কাজ করার কারণে পরিণত করে।
+
 [[metacognitive-ownership-human-ai-regulation-2026|Lin ও Chang (2026)]] [[self-regulated-learning]] ও মানব–এআই নিয়ন্ত্রণকে বাড়ান শিক্ষার্থী কী শাসন করে তা নাম দিয়ে — মানদণ্ড, [[evaluative-judgment|মূল্যায়নমূলক বিচার]] ও নিয়ন্ত্রণ-অনুমোদন — কেবল এআই কী করে তা নয়।
 
 ঘর্ষণ-বিরোধিতা প্রতিষ্ঠিত তত্ত্বের আরেকটি সম্প্রসারণ দেয়: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] বিদেশে শিক্ষার আন্তঃসম্পর্কীয় সাক্ষাতে Bjork ও Bjork-এর [[desirable-difficulties|desirable difficulties]] এবং Kapur-এর [[productive-failure|productive failure]] প্রয়োগ করেন, যুক্তি দিয়ে যে একটি জেনারেটিভ সহায়ক কতবার ব্যবহৃত হয় তা নয়, বরং শিক্ষার্থী তার কাছে কতটা ব্যাখ্যামূলক কর্তৃত্ব [[transfer-of-learning|স্থানান্তর]] করে তা গুরুত্বপূর্ণ। কাঠামোটি ধারণাগত এবং পাঁচটি প্রস্তাব প্রতিদ্বন্দ্বী অনুমান হিসেবে বলে।
@@ -93,15 +99,7 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 
 ## শিক্ষায় এআই-এর দর্শনের সঙ্গে সম্পর্ক
 
-তত্ত্ব-উন্নয়ন এবং [[philosophy-of-ai-in-education|শিক্ষায় এআই-এর দর্শন]] জ্ঞানভিত্তির মৌলিক কাজের পরিপূরক অথচ স্বতন্ত্র ধারা। **তত্ত্ব-উন্নয়ন** এআই-সহ শিখনের *প্রক্রিয়াগুলো* উৎপাদন ও অভিজ্ঞতামূলকভাবে পরীক্ষা করে — নামকরণকৃত তত্ত্ব ও কাঠামো যেমন generativism, epistemic co-agency এবং the absent cognitive baseline, যা ব্যাখ্যা ও পূর্বানুমান করে শিক্ষার্থী ও এআই কীভাবে মিথস্ক্রিয়া করে। **দর্শন** সেই প্রক্রিয়াগুলো যে *পূর্বধারণার* উপর দাঁড়িয়ে আছে তা জেরা করে: কী জ্ঞান হিসেবে গণ্য, কে জ্ঞানধারী হিসেবে গণ্য, এবং শিক্ষার্থী মৌলিকভাবে কী। [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]]-র মতো একটি তত্ত্ব একটি প্রক্রিয়া প্রস্তাব করে অথচ বিতরিত জ্ঞান ও [[agency]] নিয়ে দার্শনিক প্রতিশ্রুতি নীরবে গ্রহণ করে; দর্শন সেই প্রতিশ্রুতিগুলোকে স্পষ্ট ও বিতর্কযোগ্য করে। যেখানে তত্ত্ব-উন্নয়ন জিজ্ঞাসা করে একটি কাঠামো শিখনকে ভালো ব্যাখ্যা করে কি না, দর্শন জিজ্ঞাসা করে এটি শিখন ও মন আসলে কী তা ধরে রাখে কি না — দুটি ধারা ক্ষেত্রের সবচেয়ে মৌলিক নিবন্ধগুলোতে মেলে, যা প্রায়ই দুটোই একসঙ্গে করে।
-
-## সাধারণ ভুল ধারণা
-
-**"সরঞ্জামটি কাজ করেছে — এই ফল একটি তাত্ত্বিক অবদান।"** তা নয়, এবং কারণটি গঠনগত। যেখানে একটি কাঠামোর প্রস্তাব *কনফিগারেশনের মধ্যে পার্থক্য* পূর্বানুমান করে, সেখানে কেবল গড় এফেক্ট প্রতিবেদন করা একটি গবেষণা **সেগুলো নিশ্চিত বা খণ্ডন করতে পারে না** — নকশাটি যে পার্থক্য নিয়ে তত্ত্ব কথা বলে তা দেখতেই পারে না। গড় লাভ দেখানো একটি ট্রায়াল আপনাকে বলে কিছু ঘটেছে, কোন প্রক্রিয়া তা ঘটিয়েছে তা নয়, তাই তত্ত্বটি আগে যতটা সমর্থিত ছিল ঠিক ততটাই সমর্থিত থাকে।
-
-**"প্রতিষ্ঠিত তত্ত্ব এআইয়ে প্রয়োগ করাই তত্ত্ব-উন্নয়ন।"** পৃষ্ঠার নিজের তত্ত্ব-ব্যবহার সমস্যা অন্যথা বলে: প্রয়োগ অগ্রগতি নয়, এবং ক্ষেত্রের বারবার আসা ধরন হলো ধার করা নির্মাণকে পরীক্ষণযোগ্য পূর্বানুমানের বদলে শব্দভাণ্ডার হিসেবে ব্যবহার করা। পার্থক্যটি গুরুত্বপূর্ণ কারণ যে ধার করা কাঠামো পরীক্ষণযোগ্য পার্থক্য তৈরি করতে পারে না তা অলংকার, তত্ত্ব নয়।
-
-**"এআইয়ের শিক্ষাদানগত কার্যের বিদ্যমান শ্রেণিবিন্যাস ইতিমধ্যে এই ব্যবস্থাগুলো যা করে তা কভার করে।"** তারা এর অনেকটাই কভার করে না। শ্রেণিবদ্ধযোগ্য প্রয়োগ-কার্য আছে এমন 154টি প্রকাশনার মধ্যে **90টি (58.4%) পূর্ববর্তী কাঠামোর চারটি শ্রেণি এড়িয়ে গেছে**, তাই নতুন কাজ কার্যকে delegated control, epistemic position ও embedded pedagogy-র সঙ্গে ক্রস করে। যে শ্রেণিবিন্যাস প্রতি পাঁচটির মধ্যে প্রায় তিনটি ক্ষেত্রেই ভুল শ্রেণিবদ্ধ করে তা ক্ষেত্রের সাধারণ শব্দভাণ্ডার হতে পারে না, আর এই ফাঁক কোনো নিবন্ধের ঘাটতি নয়, ঘটনাটির বিষয়ে একটি ফল।
+তত্ত্ব-উন্নয়ন এবং [[philosophy-of-ai-in-education|শিক্ষায় এআই-এর দর্শন]] জ্ঞানভিত্তির মৌলিক কাজের পরিপূরক অথচ স্বতন্ত্র ধারা। **তত্ত্ব-উন্নয়ন** এআই-সহ শিখনের *প্রক্রিয়াগুলো* উৎপাদন ও অভিজ্ঞতামূলকভাবে পরীক্ষা করে — নামকরণকৃত তত্ত্ব ও কাঠামো যেমন generativism, epistemic co-agency এবং the absent cognitive baseline, যা ব্যাখ্যা ও পূর্বানুমান করে শিক্ষার্থী ও এআই কীভাবে মিথস্ক্রিয়া করে। **দর্শন** সেই প্রক্রিয়াগুলো যে *পূর্বধারণার* উপর দাঁড়িয়ে আছে তা জেরা করে: কী জ্ঞান হিসেবে গণ্য, কে জ্ঞানধারী হিসেবে গণ্য, এবং শিক্ষার্থী মৌলিকভাবে কী। [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemic co-agency]]-র মতো একটি তত্ত্ব একটি প্রক্রিয়া প্রস্তাব করে অথচ বিতরিত জ্ঞান ও [[agency]] নিয়ে দার্শনিক প্রতিশ্রুতি নীরবে গ্রহণ করে; দর্শন সেই প্রতিশ্রুতিগুলোকে স্পষ্ট ও বিতর্কযোগ্য করে। যেখানে তত্ত্ব-উন্নয়ন জিজ্ঞাসা করে একটি কাঠামো শিখনকে ভালো ব্যাখ্যা করে কি না, দর্শন জিজ্ঞাসা করে এটি শিখন ও মন আসলে কী তা ধরে রাখে কি না — দুটি ধারা ক্ষেত্রের সবচেয়ে মৌলিক নিবন্ধগুলোতে মেলে, যা প্রায়ই দুটোই একসঙ্গে করে। ক্ষেত্রের সমালোচকদের সেই তত্ত্বগুলো কোন দিক খুলে বা বন্ধ করে সে নিয়ে যা বলেন তা আলাদা প্রশ্ন, যা [[critiques-of-ai-in-education|শিক্ষায় এআই-এর সমালোচনা]]-তে সংগৃহীত।
 
 ## অনুশীলনের জন্য তাৎপর্য
 
@@ -120,3 +118,11 @@ AIEd-এ তত্ত্ব-উন্নয়ন ক্ষেত্রটি �
 
 - তাত্ত্বিক অবদান চাইলে কনফিগারেশন-বৈপরীত্যের জন্য নকশা করুন। তত্ত্ব-উন্নয়ন হিসেবে প্রকাশিত একটি গড়-এফেক্ট ট্রায়াল ক্ষেত্রের সবচেয়ে সাধারণ ও সবচেয়ে কম উপযোগী উৎপাদন।
 - আপনি যে কাঠামোই উপস্থাপন করুন তাতে স্পষ্ট পরীক্ষণযোগ্য প্রস্তাব যুক্ত করুন, এবং কোন কনফিগারেশন-পার্থক্য সেগুলো খণ্ডন করত তা প্রতিবেদন করুন।
+
+## সাধারণ ভুল ধারণা
+
+**"সরঞ্জামটি কাজ করেছে — এই ফল একটি তাত্ত্বিক অবদান।"** তা নয়, এবং কারণটি গঠনগত। যেখানে একটি কাঠামোর প্রস্তাব *কনফিগারেশনের মধ্যে পার্থক্য* পূর্বানুমান করে, সেখানে কেবল গড় এফেক্ট প্রতিবেদন করা একটি গবেষণা **সেগুলো নিশ্চিত বা খণ্ডন করতে পারে না** — নকশাটি যে পার্থক্য নিয়ে তত্ত্ব কথা বলে তা দেখতেই পারে না। গড় লাভ দেখানো একটি ট্রায়াল আপনাকে বলে কিছু ঘটেছে, কোন প্রক্রিয়া তা ঘটিয়েছে তা নয়, তাই তত্ত্বটি আগে যতটা সমর্থিত ছিল ঠিক ততটাই সমর্থিত থাকে।
+
+**"প্রতিষ্ঠিত তত্ত্ব এআইয়ে প্রয়োগ করাই তত্ত্ব-উন্নয়ন।"** পৃষ্ঠার নিজের তত্ত্ব-ব্যবহার সমস্যা অন্যথা বলে: প্রয়োগ অগ্রগতি নয়, এবং ক্ষেত্রের বারবার আসা ধরন হলো ধার করা নির্মাণকে পরীক্ষণযোগ্য পূর্বানুমানের বদলে শব্দভাণ্ডার হিসেবে ব্যবহার করা। পার্থক্যটি গুরুত্বপূর্ণ কারণ যে ধার করা কাঠামো পরীক্ষণযোগ্য পার্থক্য তৈরি করতে পারে না তা অলংকার, তত্ত্ব নয়।
+
+**"এআইয়ের শিক্ষাদানগত কার্যের বিদ্যমান শ্রেণিবিন্যাস ইতিমধ্যে এই ব্যবস্থাগুলো যা করে তা কভার করে।"** তারা এর অনেকটাই কভার করে না। শ্রেণিবদ্ধযোগ্য প্রয়োগ-কার্য আছে এমন 154টি প্রকাশনার মধ্যে **90টি (58.4%) পূর্ববর্তী কাঠামোর চারটি শ্রেণি এড়িয়ে গেছে**, তাই নতুন কাজ কার্যকে delegated control, epistemic position ও embedded pedagogy-র সঙ্গে ক্রস করে। যে শ্রেণিবিন্যাস প্রতি পাঁচটির মধ্যে প্রায় তিনটি ক্ষেত্রেই ভুল শ্রেণিবদ্ধ করে তা ক্ষেত্রের সাধারণ শব্দভাণ্ডার হতে পারে না, আর এই ফাঁক কোনো নিবন্ধের ঘাটতি নয়, ঘটনাটির বিষয়ে একটি ফল।

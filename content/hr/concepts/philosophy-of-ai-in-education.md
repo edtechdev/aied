@@ -6,15 +6,19 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,17 +39,19 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Uvod
 
-Ovo je konceptualna stranica o filozofskim i teorijskim temeljima [[ai-education|umjetne inteligencije u obrazovanju]]. Dok [[learning-theories]] dokumentira empirijske i dizajnerski usmjerene teorije ([[behaviorism]], [[constructivist|konstruktivizam]], [[cognitive-offloading|kognitivno opterećenje]], [[self-regulated-learning|samoregulirano učenje]] itd.), filozofska struka zahvaća ontološka, epistemološka i etička pitanja koja te teorije pretpostavljaju. Dvije su struke blisko povezane: filozofske pozicije oblikuju to koje teorije učenja izgledaju uvjerljivo i koji obrazovni ciljevi vrijedi da ih slijedimo.
+Ovo je konceptualna stranica o filozofskim i teorijskim temeljima [[ai-education|umjetne inteligencije u obrazovanju]]. Dok [[learning-theories]] dokumentira empirijske i dizajnerski usmjerene teorije ([[behaviorism]], [[constructivist|konstruktivizam]], [[cognitive-offloading|kognitivno opterećenje]], [[self-regulated-learning|samoregulirano učenje]] itd.), filozofska struka zahvaća ontološka, epistemološka i etička pitanja koja te teorije pretpostavljaju. Dvije su struke blisko povezane: filozofske pozicije oblikuju to koje teorije učenja izgledaju uvjerljivo i koji obrazovni ciljevi vrijedi da ih slijedimo. Normativni lanac toga rada, argumenti o tome u što umjetna inteligencija u obrazovanju pretvara obrazovanje, prikupljen je pod [[critiques-of-ai-in-education|Kritikama umjetne inteligencije u obrazovanju]].
 
-### Ključna filozofska pitanja
+## Ključna filozofska pitanja
 
 - **Priroda uma i kognicije.** Zahtijeva li mišljenje svijest i tijelo? Može li umjetna inteligencija sudjelovati u doista kognitivnim procesima? Okviri poput **ansambl kognicije** tvrde da umjetna inteligencija ostvaruje *funkcionalnu djelotvornost* — stvarnu uzročnu učinkovitost u kognitivnim procesima — bez svijesti, te da mišljenje nastaje iz dinamičke interakcije čovjeka i [[student-ai-interaction|umjetne inteligencije]].([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Distribuirana kognicija]] i teza o proširenom umu iznose srodne tvrdnje o kogniciji raspršenoj po sustavima.
 - **Što je učenik?** Posthumanistička filozofija rekonceptualizira učenika kao „posthumano“ biće čiji su kognitivni procesi doista hibridni i raspodijeljeni između [[biology-education|bioloških]] i umjetnih sustava.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Time se osporava pretpostavka da je učenik ograničen, autonoman pojedinačni um.
 - **Utjelovljenje i granice ne-utjelovljene umjetne inteligencije.** [[embodied-learning|Utjelovljena]] i postkognitivistička filozofija kritizira dominaciju simboličkih, ne-utjelovljenih modela umjetne inteligencije, tvrdeći da je kognicija utemeljena u situiranosti, emergenciji i senzomotoričkoj sprezi koju sadašnja [[generative-ai|generativna umjetna inteligencija]] nema.([[videla-embodied-ai-education-choreography]])
+- **Automatizacija kao kontinuitet, a ne prekid.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross i Aros (2026.)]] tvrde da umjetna inteligencija pristaje školstvu jer produljuje kognitivistički i instrukcijski model koji učenje tretira kao obradu informacija, a poučavanje kao prijenos; automatiziranje obrazovanja stoga je ontološka iluzija koja učenje apstrahira od utjelovljenih, relacijskih uvjeta u kojima nastaju značenje i odgovornost.
 - **Emocionalni rad kao testni slučaj za strojne umove.** Argumenti u području o tome može li umjetna inteligencija poučavati često se okreću pitanju može li *brinuti*, a o tome se raspravljalo davno prije nego što je [[affective-computing|afektivno računarstvo]] postojalo. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] rekonstruira raspravu od 1950. do 1996., u kojoj je Ziffova tvrdnja da samo živa bića mogu doslovno imati osjećaje dobila odgovor u Smartovoj teoriji identiteta i Putnamovu bihevioralnom kriteriju, ostavljajući tri suparničke ontologije neriješenima. Njegov je zaključak teret opravdanja, a ne tvrdnja o nemogućnosti — reprezentacija, simulacija i mimikrija nedovoljno određuju emocionalni rad — čime teret prebacuje na svakoga tko bi pastoralni rad povjerio sustavu.
 - **Djelotvornost, autorstvo i značenje.** Kada umjetna inteligencija posreduje tumačenje i stvaranje značenja, filozofija pita kako se autorstvo, epistemička [[agency|djelotvornost]] i interpretativna autonomija preuređuju.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **Ontologija znanstvenih objekata koje generira umjetna inteligencija.** U [[chemistry-education|kemiji]] spojevi koje predviđa umjetna inteligencija i titracijske krivulje zauzimaju „liminalni ontološki prostor“ — ni posve hipotetičan ni posve stvaran dok se empirijski ne dokaže — što disciplinu pomiče od realizma prema konstruktivističkom gledištu u kojem je stvarnost suradnja čovjeka i stroja ([[philosophy-experimentation-ai-chemistry-2026|Reyes i Regala (2026)]]).
 - **Kognitivna pasivnost kao epistemička šteta.** Bai i Costa (2026) oslanjaju se na Arendtino poimanje mišljenja kao unutarnje, neprenosive aktivnosti kako bi tvrdili da generativna umjetna inteligencija koja *isporučuje* rad ne samo da rasterećuje mišljenje nego ga zatvara, a Bourdieuovo polje i habitus smještaju rizik u institucionalne strukture ([[genai-chinese-higher-education-integrity-2026|Bai i Costa (2026)]]).
+- Uz taj prikaz, [[corbin-essay-time-genai-2026|Corbin i sur. (2026.)]] rekonstruiraju esej kao oblik mišljenja: Montaigneov pokušaj, Adornove fragmente, Heideggerovo meditativno mišljenje — njegova vrijednost leži u mišljenju koje pisanje proizvodi, a ne u proizvodu koji ono donosi.
 - **Vrijednosti, pravednost i svrha obrazovanja.** Filozofska analiza ispituje služi li obrazovanje vođeno umjetnom inteligencijom ljudskom procvatu i obrazovnoj pravednosti ili učenje instrumentalizira u službi produktivnosti.([[avraamidou-ai-colonization-science-education]]) To se povezuje s [[critical-pedagogy|kritičkom pedagogijom]] i [[ethics|etikom]].
 - **„Usmjereno na čovjeka“ kao antropocentrični diskurs, a ne neutralna etika.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang i Jin (2026)]] čitaju dokumente UNESCO-a, OECD-a i Montrealske deklaracije kako bi tvrdili da AIED usmjeren na čovjeka nasljeđuje isključenja prosvjetiteljskog humanizma, da ih transhumanizam čuva i da oznaka može legitimirati komercijalnu infrastrukturu.
 
@@ -55,29 +61,19 @@ Ovo je konceptualna stranica o filozofskim i teorijskim temeljima [[ai-education
 - **Djelotvornost bez odgovornosti.** Analiza diskursa uz pomoć korpusa na 366 sažetaka o generativnoj umjetnoj inteligenciji u visokom obrazovanju nalazi da se [[generative-ai|umjetna inteligencija]] imenuje 2.050 puta i ulazi u 447 strogih veza aktera i predikata — najčešći je akter u području — ali u njima prevladavaju predikati djelovanja (78,7 %) i nijedna rečenica ne čini sustav odgovornim: od 166 izraza obveze nijedan nije dodijelio odgovornost sustavu, a jedina klauzula koja povezuje umjetnu inteligenciju s odgovornošću kaže da umjetna inteligencija nije odgovorna. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] to čita kao funkcionalnu djelotvornost priznatu u jeziku, ali bez relacijske odgovornosti koja bi je pripojila bilo kome.
 **Ni alat ni suradnik: medijacijski agent.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate i Ritchie (2026)]] tvrde da nazivanje generativne umjetne inteligencije pukim alatom podcjenjuje njezin interakcijski utjecaj, dok joj nazivanje suradnikom pogrešno pripisuje intencionalnost i odgovornost, te predlažu *medijacijskog agenta* — responzivan sustav koji ne snosi odgovornost i čija je novost sudjelovanje, a ne inteligencija.
 
-### Odnos prema teorijama učenja
+## Odnos prema teorijama učenja
 
 Filozofija umjetne inteligencije u obrazovanju i [[learning-theories]] komplementarne su leće. Teorije učenja objašnjavaju mehanizme učenja (npr. kako [[feedback]], [[scaffolding]] ili kognitivno opterećenje oblikuju ishode); filozofija propituje pretpostavke tih mehanizama — što se računa kao znanje, tko se računa kao onaj koji zna i što je učenik u temelju. Posthumanistički i kritičko-filozofski rad posebno izazivaju područje da prijeđe okvire instrumentalizma poput [[tpack]] i SAM-a prema dubljoj ontološkoj preorijentaciji.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Odnos prema razvoju teorije
+## Odnos prema razvoju teorije
 
 Filozofija umjetne inteligencije u obrazovanju i [[theory-development-aied|razvoj teorije u AIED-u]] komplementarni su, ali različiti. Filozofija postavlja ontološka i epistemološka pitanja — što su um, znanje i učenik u temelju u uvjetima posredovanim umjetnom inteligencijom — dok razvoj teorije proizvodi i empirijski provjerava *mehanizme* koji operacionaliziraju odgovore na ta pitanja (generativizam, epistemička sudjelotvornost, odsutna kognitivna osnovica). Dvije se struke međusobno obavještavaju: filozofija pojašnjava pretpostavke koje teorije nose (npr. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemička sudjelotvornost]] pretpostavlja distribuiran, neindividualistički model kognicije), dok razvoj teorije filozofskim pozicijama daje provjerljiv, opovrgljiv oblik. Najtemeljniji članci u području čine oboje istodobno, nalazeći se na granici dvaju koncepata.
-
-## Uobičajene zablude
-
-**„Filozofija umjetne inteligencije u obrazovanju isto je što i katalogiziranje teorija učenja.“** One leže na različitim dubinama. Stranica [[learning-theories]] pita *kako se učenje događa*; filozofija pita *što učenje, um i učenik u temelju jesu* u uvjetima posredovanim umjetnom inteligencijom. Studija može riješiti pitanje teorije učenja i ostaviti filozofsko pitanje netaknutim, zbog čega tehnički uspješna intervencija ipak može biti pogrešna stvar koju treba činiti.
-
-**„Kognitivno rasterećenje je šteta i ono se može poništiti većim trudom.“** Dostupna je snažnija tvrdnja. Bai i Costa (2026) oslanjaju se na Arendtino poimanje mišljenja kao unutarnje, neprenosive aktivnosti kako bi tvrdili da generativna umjetna inteligencija koja *isporučuje* rad ne samo da rasterećuje mišljenje nego ga zatvara — a rizik smještaju institucionalno, kroz Bourdieuovo polje i habitus, a ne u individualnu volju. Ako argument stoji, „koristite je pažljivo“ nije dovoljan lijek, jer praksu oblikuje polje koje nagrađuje rezultat.
-
-**„Nezapadna filozofija sadržaj je koji se dodaje nepromijenjenom okviru.“** Ona može biti izvor drukčijih temelja. Jedna rekonstrukcija daoističke pojmove — „Dao prirodu“ (道性), samooblikovanje (修道) i „Zhenrena“ (真人) — ne tretira kao „istočni sadržaj“ priložen zapadnom okviru, nego kao izvore koji preoblikuju konceptualne temelje kroz koje se razumije umjetna inteligencija u obrazovanju. Dodati tradiciju kao ilustraciju i upotrijebiti je za preokretanje pitanja dva su različita znanstvena čina.
-
-**„Filozofska kritika nije primjenjiva.“** Ona postavlja što se računa kao uspjeh. Je li rezultat sustava postignuće učenika i je li izmjereni napredak obrazovno dobro, prethodna su pitanja na koja nijedna veličina učinka ne može odgovoriti — a institucije koje ih preskoče optimizirat će ono što je mjerljivo i nazvati to poboljšanjem.
 
 ## Implikacije za praksu
 
 **Za nastavnike**
 
-- Prije nego što usvojite alat, odlučite što ste spremni smatrati vlastitim postignućem učenika. Ako bi uglađen uradak koji je proizveo sustav zadovoljio vašu procjenu, odgovorili ste „ništa“ — i nikakva kasnija promjena rubrike ne vraća to pitanje.
+- Prije nego što usvojite alat, odlučite što ste spremni smatrati vlastitim postignućem učenika. Ako bi uglađen uradak koji je proizveo sustav zadovoljio vašu procjenu, odgovorili ste „ništa“ — i nikakva kasnija promjena [[rubrics|rubrike]] ne vraća to pitanje.
 - Uzmite argument o zatvaranju ozbiljno kada osmislite zadatke: ako generativna umjetna inteligencija koja isporučuje rad zatvara mišljenje, a ne samo rasterećuje, tada „koristite je odgovorno“ nije dovoljna zaštita, jer okolno polje nagrađuje rezultat. Osmislite zadatke u kojima dokaz mišljenja nastaje prije nego što je alat dostupan.
 - Pitajte čije poimanje učenja vaš kolegij kodira. Nekritično usvajanje okvira prenosi njegove pretpostavke o tome što je učenik, a te su pretpostavke osporive.
 
@@ -91,3 +87,13 @@ Filozofija umjetne inteligencije u obrazovanju i [[theory-development-aied|razvo
 
 - Navedite poimanje učenja koje vaša evaluacija pretpostavlja, jer je izmjereni napredak obrazovno dobro samo u odnosu na neko poimanje svrhe obrazovanja.
 - Financirajte filozofski rad uz empirijski: pitanja o tome što se računa kao postignuće učenika postavljaju kriterije uspjeha koje empirijske studije zatim upotrebljavaju.
+
+## Uobičajene zablude
+
+**„Filozofija umjetne inteligencije u obrazovanju isto je što i katalogiziranje teorija učenja.“** One leže na različitim dubinama. Stranica [[learning-theories]] pita *kako se učenje događa*; filozofija pita *što učenje, um i učenik u temelju jesu* u uvjetima posredovanim umjetnom inteligencijom. Studija može riješiti pitanje teorije učenja i ostaviti filozofsko pitanje netaknutim, zbog čega tehnički uspješna intervencija ipak može biti pogrešna stvar koju treba činiti.
+
+**„Kognitivno rasterećenje je šteta i ono se može poništiti većim trudom.“** Dostupna je snažnija tvrdnja. Bai i Costa (2026) oslanjaju se na Arendtino poimanje mišljenja kao unutarnje, neprenosive aktivnosti kako bi tvrdili da generativna umjetna inteligencija koja *isporučuje* rad ne samo da rasterećuje mišljenje nego ga zatvara — a rizik smještaju institucionalno, kroz Bourdieuovo polje i habitus, a ne u individualnu volju. Ako argument stoji, „koristite je pažljivo“ nije dovoljan lijek, jer praksu oblikuje polje koje nagrađuje rezultat.
+
+**„Nezapadna filozofija sadržaj je koji se dodaje nepromijenjenom okviru.“** Ona može biti izvor drukčijih temelja. Jedna rekonstrukcija daoističke pojmove — „Dao prirodu“ (道性), samooblikovanje (修道) i „Zhenrena“ (真人) — ne tretira kao „istočni sadržaj“ priložen zapadnom okviru, nego kao izvore koji preoblikuju konceptualne temelje kroz koje se razumije umjetna inteligencija u obrazovanju. Dodati tradiciju kao ilustraciju i upotrijebiti je za preokretanje pitanja dva su različita znanstvena čina.
+
+**„Filozofska kritika nije primjenjiva.“** Ona postavlja što se računa kao uspjeh. Je li rezultat sustava postignuće učenika i je li izmjereni napredak obrazovno dobro, prethodna su pitanja na koja nijedna veličina učinka ne može odgovoriti — a institucije koje ih preskoče optimizirat će ono što je mjerljivo i nazvati to poboljšanjem.

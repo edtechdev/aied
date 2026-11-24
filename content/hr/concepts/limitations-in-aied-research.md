@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Koliko biste vjerovali naslovu poput „UI poduka povećava učenje za 30 %“ kada biste saznali da dolazi od 30 studenata na jednom kolegiju u jednoj ustanovi? Stranica ističe generalizabilnost i male uzorke kao ponavljajuća ograničenja — što biste željeli znati prije nego što postupite prema bilo kojem pojedinačnom nalazu?
 - Upečatljivo ograničenje je „problem brzine“: umjetna inteligencija se razvija brže nego što se nalazi objavljuju, pa studija jedne generacije modela već može opisivati zastarjeli sustav. Kako bi to trebalo promijeniti povjerenje koje polažete u istraživanja umjetne inteligencije u obrazovanju?
 - Mnoge se studije oslanjaju na [[self-report-measures|samoprocjenu]] stavova i upotrebe, koja je pristrana — ljudi precjenjuju svoju kompetentnost i podcjenjuju zloupotrebu. Jeste li ikada odgovorili na anketu o vlastitim vještinama ili ponašanju na način koji nije odgovarao stvarnosti? Zašto se mjere utemeljene na percepciji tako često razilaze s objektivnom izvedbom?
-- Stranica napominje da se poznati okviri poput Bloomove taksonomije često pogrešno čitaju kao stroge ljestvice i da su čak i široko korištene teorije poput teorije [[cognitive-offloading|kognitivnog opterećenja]] osporene. Kada ste vidjeli da se neka teorija poziva kao ustaljena istina u kontekstu u kojem su njezini vlastiti dokazi zapravo bili sporni?
+- Stranica napominje da se poznati okviri poput [[bloom-taxonomy|Bloomove taksonomije]] često pogrešno čitaju kao stroge ljestvice i da su čak i široko korištene teorije poput teorije [[cognitive-offloading|kognitivnog opterećenja]] osporene. Kada ste vidjeli da se neka teorija poziva kao ustaljena istina u kontekstu u kojem su njezini vlastiti dokazi zapravo bili sporni?
 - Većina UI istraživanja ovisi o vlasničkim, neprozirnim modelima čije podatke i ažuriranja ne možete pregledati. Ako ne možete provjeriti koji je točno model proizveo rezultat, koliko možete vjerovati tvrdnjama izgrađenima na njemu — i što bi nalaze učinilo reproducibilnijima?
 - Ako ste nastavnik ili dizajner bez vremena za čitanje primarnih istraživanja, kako odlučujete koje su UI tvrdnje dovoljno pouzdane da promijenite svoju praksu — s obzirom na to da je literatura rascjepkana, privremena i pisana za istraživače?
 
 ## Uvod
 
-Umjetna inteligencija u obrazovanju brzo se razvija i heterogeno je područje, a njegova dokazna osnova nosi osebujan skup ograničenja koja istraživači, praktičari i kreatori politika trebaju odvagnuti pri upotrebi bilo kojeg nalaza. Neka su od njih zajednička sa širom literaturom [[learning-sciences|znanosti o učenju]] i psihologije; druga su pojačana ili jedinstvena zbog same prirode umjetne inteligencije. Ova ih stranica organizira u četiri područja koja se međusobno presijecaju.
+Umjetna inteligencija u obrazovanju brzo se razvija i heterogeno je područje, a njegova dokazna osnova nosi osebujan skup ograničenja koja istraživači, praktičari i kreatori politika trebaju odvagnuti pri upotrebi bilo kojeg nalaza. Neka su od njih zajednička sa širom literaturom [[learning-sciences|znanosti o učenju]] i psihologije; druga su pojačana ili jedinstvena zbog same prirode umjetne inteligencije. Ova ih stranica organizira u četiri područja koja se međusobno presijecaju. Ovo su problemi u dokazima; zaseban korpus argumenata o svrhama koje dokazi služe okuplja [[critiques-of-ai-in-education|kritičke rasprave o umjetnoj inteligenciji u obrazovanju]].
 
 ## Metodološka ograničenja
 
@@ -65,6 +69,10 @@ Stranica o [[research-methods-aied|istraživačkim metodama]] ove baze znanja de
 
 - **Oznake koje generiraju modeli nisu zlatni standard.** Kada su oznake kojima se sustav trenira ili evaluira i same proizveli jezični modeli, slaganje među anotatorima ne može utvrditi valjanost: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado i sur. (2026.)]] nikada nisu validirali svoje anotacije tvrdnji prema ljudskim zlatnim oznakama, a 49 klasifikatora kodera koje objavljuju nasljeđuju to podrijetlo i možda nisu valjani tamo gdje se primjene značajno razlikuju. Njihova je shema također izrazito zaostajala za fino podešenim klasifikatorom treniranim na podacima koje su anotirali stručnjaci (macro-F1 0,673 prema 0,76), pa korpusi s oznakama stručnjaka ostaju vrijedni kada je potrebno visoko povjerenje.
 - **Sama dokazna osnova nejednako je raspoređena.** Scoping pregled 407 studija [[formative-assessment|formativne procjene]] potpomognute tehnologijom oslonio se samo na Web of Science i Scopus. Također je isključio 61 zapis zbog jezičnih kriterija, pa zemljopisna neravnoteža o kojoj područje izvješćuje dijelom može odražavati to koji su izvori indeksirani ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026.]]).
+
+- **Nedostaje dizajn s tri uvjeta.** Kroz dvanaest pregledanih genAI studija nijedna nije izmjerila potpomognutu izvedbu zajedno i s neposrednim i s odgođenim testom bez umjetne inteligencije uz provjerenu isključenost, pa se dobici uz pomoć nikada ne povezuju sa zadržanjem ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Izvedivost je razred ishoda, a ne predgovor.** Dvokohortni pilot AI-simuliranog pacijenta registrirao je 19 od 72 pozvanoga studenta (26 %), dovršio sve susrete i ankete (100 %) i nije završio nijednu sesiju tehničkim neuspjehom — stvarni rezultati, ali su ishodi izvedivosti i prihvatljivosti definirani nakon prikupljanja i nisu prethodno specificirani kriteriji napredovanja ([[tischkau-ai-simulated-patient-formats-2026|Tischkau i sur. (2026)]]). Stopa dovršenosti mjerljiva je samo u odnosu na kriterije fiksne unaprijed; inače su „izvelo se“ i „radilo je“ ista rečenica.
 
 ## Problem brzine: umjetna inteligencija se razvija brže od nalaza
 
@@ -121,6 +129,8 @@ Dvije specifične prakse izvješćivanja napuhuju ili iskrivljuju sintezu, a obj
 **Naslovni postotak može biti artefakt pojmova pretraživanja.** Scoping pregled 195 studija obrazovanja nastavnika učinio je digitalnu kompetenciju i [[tpack|TPACK]] eksplicitnim deskriptorima pretraživanja, dok nastavni dizajn i procjena nisu imali ekvivalentan pojam, pa su prijavljenih **46,5 % i 1,9 %** stope koje je sam upit konstruirao. Tvrdnja o prevalenciji smislena je onoliko koliko je smisleno pretraživanje iza nje.
 
 **A osnovna stopa je broj koji nitko ne navodi.** Metodološka ograničenja ovdje su mjerljiva, a ne impresionistička: u kritičkom pregledu 80 HCI studija kritičkog mišljenja s umjetnom inteligencijom **42 (52 %) nije imalo kontrolnu skupinu**, a većina ostalih oslanjala se na samoprocjenu. Kada više od polovice pozitivnih nalaza nekog područja dolazi iz dizajna koji ne mogu odvojiti učinak umjetne inteligencije od obične aktivnosti, primjerena prethodna vjerojatnost za bilo koji pojedinačni nalaz je skepticizam, a ne privremeno prihvaćanje.
+
+Praktična posljedica tih ograničenja jest da se nekoliko široko korištenih obrazovnih praksi oslanja na dokaze koji ih ne mogu poduprijeti; [[what-not-to-do-ai-education|što edukatori ne bi trebali činiti s umjetnom inteligencijom]] skuplja te prakse prema ulozi i naziva konkretno ograničenje iza svake opomene.
 
 ## Uobičajene zablude
 

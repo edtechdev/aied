@@ -12,8 +12,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: "concepts/agentic-ai"
-source_updated: "2026-11-16T05:33:47-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -28,6 +28,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -93,7 +97,7 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 
 **একটি প্রাতিষ্ঠানিক উত্তর: শিক্ষার্থী প্রাপক নয়, অংশগ্রহণকারী সদস্য।** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan প্রমুখ (2026)]] এমন একটি মানব-অংশগ্রহণমূলক বহু-এজেন্ট প্রতিষ্ঠান দাঁড় করান যেখানে বিশেষায়িত এজেন্টরা একটি সংশোধনযোগ্য সক্ষমতা-কর্মসূচি রাখে যা ব্যক্তিগত লক্ষ্য, [[multimodal|বহুমাত্রিক]] কার্যক্রম ও স্তরভিত্তিক মূল্যায়নকে সংযুক্ত করে, আর একটি সংশোধনযোগ্য "মানব-নোড" শিক্ষার্থীর নিজের প্রমাণ ও চ্যালেঞ্জ পরবর্তী সংশোধনে বহন করে নিয়ে যায়। 96টি সিমুলেটেড শিক্ষার্থী-কেস জুড়ে নিকটতম বহু-এজেন্ট বেসলাইনের বিপরীতে সুবিধাটি কেন্দ্রীভূত হয়েছিল [[assessment|মূল্যায়ন-নকশায়]]: [[assessment-validity|মূল্যায়ন-বৈধতায়]] 19.32 পয়েন্ট বেশি (95% CI [17.55, 21.04]) এবং সক্ষমতা-আবরণে 5.89, যেখানে ব্যক্তিগতকরণ আলাদা হতে পারেনি (1.35 পয়েন্ট, ব্যবধান শূন্য অতিক্রম করে)। 32 জন শিক্ষার্থীর একটি র‍্যান্ডমাইজড গবেষণায় একটি বস্তুনিষ্ঠ 50-পয়েন্ট পরীক্ষায় জ্ঞান-লাভ ছিল 12.19 বনাম 5.61 পয়েন্ট।
 
-- **এজেন্টিক নম্বর দেওয়া কর্মভারের আগে নির্ভরযোগ্যতার প্রশ্ন।** একটি এজেন্টিক Claude Code স্থাপনাকে তিনটি রুব্রিক ফাইল ও কম্পিউটার-গ্রাফিক্স কোর্সের 60টি স্ক্যান করা হাতে লেখা মধ্যম পরীক্ষার খাতা দেওয়া হয়। এর নম্বর প্রশিক্ষকের সঙ্গে r = 0.97-এ মিলেছে, 20-নম্বরের খাতায় গড় পরম ত্রুটি 0.85, গড় এআই-পক্ষপাত 0.68, এবং এক সপ্তাহ ব্যবধানে দুই সেশনে টেস্ট-রিটেস্ট ICC = 0.96। সমষ্টিটি কোথায় ব্যর্থ হয় তা ঢেকে রাখে: ভারিত kappa বহুনির্বাচনে 0.98 থেকে মূল্যায়নমূলক আইটেমে 0.65-এ নেমেছে, সবচেয়ে দুর্বল ক্ষেত্র হাতে আঁকা চিত্র ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]])। একটি কোর্স, একজন প্রশিক্ষক ও একটি রুব্রিক-সেট বৈচিত্র্যের জায়গা দেখায়; এজেন্টিক নম্বর দেওয়া সাধারণভাবে প্রযোজ্য তা তারা প্রতিষ্ঠা করে না।
+- **এজেন্টিক নম্বর দেওয়া কর্মভারের আগে নির্ভরযোগ্যতার প্রশ্ন।** একটি এজেন্টিক Claude Code স্থাপনাকে তিনটি [[rubrics|রুব্রিক]] ফাইল ও কম্পিউটার-গ্রাফিক্স কোর্সের 60টি স্ক্যান করা হাতে লেখা মধ্যম পরীক্ষার খাতা দেওয়া হয়। এর নম্বর প্রশিক্ষকের সঙ্গে r = 0.97-এ মিলেছে, 20-নম্বরের খাতায় গড় পরম ত্রুটি 0.85, গড় এআই-পক্ষপাত 0.68, এবং এক সপ্তাহ ব্যবধানে দুই সেশনে টেস্ট-রিটেস্ট ICC = 0.96। সমষ্টিটি কোথায় ব্যর্থ হয় তা ঢেকে রাখে: ভারিত kappa বহুনির্বাচনে 0.98 থেকে মূল্যায়নমূলক আইটেমে 0.65-এ নেমেছে, সবচেয়ে দুর্বল ক্ষেত্র হাতে আঁকা চিত্র ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]])। একটি কোর্স, একজন প্রশিক্ষক ও একটি রুব্রিক-সেট বৈচিত্র্যের জায়গা দেখায়; এজেন্টিক নম্বর দেওয়া সাধারণভাবে প্রযোজ্য তা তারা প্রতিষ্ঠা করে না।
 
 এজেন্টিক স্থাপত্য নির্ভুলতায় মাপযোগ্য মূল্যে কভারেজ কেনে। [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah প্রমুখের (2026)]] 926 চাকরি-বিজ্ঞাপনের নমুনা ও 1,696 স্বর্ণমান দক্ষতার বেঞ্চমার্কে ESCO লুকআপ-সহ একটি ReAct এজেন্ট বর্ধিত রিকলে 89.7%-এ শীর্ষে, সেরা জেনারেটিভ কনফিগারেশনের 83.7% ও সেরা এমবেডিং মডেলের 49.1%-এর বিপরীতে। এর নির্ভুলতা ছিল 22.7%, F1 রাখে 36.3%-এ, যা টুল-ভিত্তিক Gemini 2.5 Flash-এর 51.6%-এর নিচে, এবং তা প্রতি নমুনায় প্রায় 16 সেকেন্ডে চলেছে। যখন একজন মানব পরামর্শক তালিকা ছাঁটেন তখন রিকলই সঠিক মাপকাঠি; অমধ্যস্থিত আউটপুটের দরকার ভিত্তিযুক্ত বিকল্প।
 
@@ -146,6 +150,7 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 
 এটি এজেন্টিক-AI আলোচনাকে জ্ঞানভিত্তির [[academic-integrity]] আচ্ছাদনের সঙ্গে যুক্ত করে, যা প্রতিক্রিয়াকে কেবল সনাক্তকরণের বদলে মূল্যায়ন পুনর্নকশা ও [[ai-literacy]] হিসেবে ধরে।
 
+- **নিয়ন্ত্রণ-আর্টিফ্যাক্টও এজেন্ট-লিখিত হতে পারে।** [[pinto-student-ownership-ai-agents-code-2026|Pinto প্রমুখ (2026)]] 18 জন ছাত্র-জোড়াকে স্পেস-চালিত উন্নয়নের অধীনে সিস্টেম তৈরি করতে দেন এবং দেখেন শিক্ষার্থীদের নিয়ন্ত্রণে রাখার জন্য নকশাকৃত স্পেসিফিকেশনের 69% এজেন্ট নিজে লিখেছে, কখনো কখনো কয়েকটি শব্দের প্রম্পট থেকেই, ফলে যে স্পেসিফিকেশন শিক্ষার্থীকে সনদ দেওয়ার কথা তা নিজেই এজেন্ট-লিখিত হয়ে গেছে।
 ## উৎপাদনশীল ঘর্ষণ ও সামাজিক মিথস্ক্রিয়া
 
 সব এজেন্টিক আচরণই মসৃণ সহায়তা হতে হবে না। [[ai-agents-constructive-conflict-design-education-2026|প্রতিকূল নকশা-এজেন্ট নিয়ে গবেষণা]] দেখায় **গঠনমূলক সংঘাত** প্রকাশকারী এজেন্টরা নবীন ইন্টারঅ্যাকশন ডিজাইনারদের মধ্যে (N=48) উল্লেখযোগ্যভাবে বেশি নকশা-পুনরাবৃত্তি, বিকল্পের বিস্তৃত অন্বেষণ এবং উচ্চতর রেটিংপ্রাপ্ত চূড়ান্ত নকশা উত্সাহিত করেছে, যা একটি *উৎপাদনশীল ঘর্ষণ* গতিশীলতা, যেখানে সংঘাত-এজেন্ট হতাশাজনক কিন্তু শেষ পর্যন্ত সহায়ক ছিল। এটি [[socratic-method|সক্রেটিক প্রশ্ন]] ও [[design-thinking]]-এর সঙ্গে যুক্ত, এবং দেখায় কীভাবে এজেন্টিক AI নিষ্ক্রিয় গ্রহণের বদলে গভীর পুনর্বিবেচনাকে সমর্থন করতে পারে।
@@ -166,6 +171,8 @@ connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-
 - **স্কেল করার আগে প্রাতিষ্ঠানিক স্ক্যাফোল্ডিং দাঁড় করান।** মোতায়েন-প্রশ্ন কেবল নকশা-স্তরের নয়, প্রতিষ্ঠান-স্তরেরও। [[baradziej-agentic-ai-higher-education-2026|Baradziej-এর (2026)]] সংশ্লেষ শাসন-প্রমাণকে তিনটি স্তম্ভে ঘনীভূত করে: শিক্ষার্থী *এবং* কর্মীদের মধ্যে [[ai-literacy]] গড়া; বড় মাপের মোতায়েনের *আগে* [[ethics|নৈতিক]] পরিকাঠামো (ডেটা-সুরক্ষা নীতি, অ্যালগরিদমিক-জবাবদিহি ও শিক্ষাগত-সততা কাঠামো) তৈরি; এবং কেবল সরঞ্জাম-পরিচিতির বাইরে গিয়ে মানব এজেন্সি সংরক্ষণকারী পেডাগজিক্যাল কাঠামোর উপর ভিত্তিক [[educational-development|শিক্ষক প্রশিক্ষণ]] দেওয়া। কিছু জাতীয় প্রেক্ষাপটে অনুষদের মাত্র প্রায় 6.5% সরাসরি AI ব্যবহারের কথা জানান, ফলে প্রশিক্ষণের ঘাটতি দায়িত্বশীল গ্রহণের একটি বাঁধাসৃষ্টিকারী সীমাবদ্ধতা।
 
 ### এজেন্টিক AI-এর সঙ্গে শিক্ষাগত সততা নিশ্চিত করার কৌশল
+
+- **মানুষ কোথায় অর্পণের সীমা টেনে দেয় তা মাপুন।** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang ও Nedungadi (2026)]] 290 জন বিশ্ববিদ্যালয় শিক্ষকের সঙ্গে একটি র‍্যান্ডমাইজড আচরণগত পছন্দ-পরীক্ষা চালান: 92% প্রশ্ন লেখার কাজ অর্পণ করেন, কিন্তু কেবল 20% কুইজ প্ল্যাটফর্মে অনিরীক্ষিতভাবে ছেড়ে দেন, আর মাত্র 5% স্বয়ং-প্রকাশ বেছে নেন। কেবল-খসড়া ও অনুমোদন-নির্ভর কনফিগারেশন পছন্দ পায়, তাই সী্মা টেকে বিষয়বস্তু-জননের বদলে অপরিবর্তনীয় প্ল্যাটফর্ম-কাজে।
 
 স্বায়ত্তশাসিত এজেন্টরা সনাক্তকরণকে নিষ্ফল করে দেয়, তাই শিক্ষকেরা পুলিশি কার্যক্রমের বদলে **শিখন যাচাই** এবং **সৎ কাজ দৃশ্যমান করা** এমন কৌশলে মনোযোগ দেবেন:
 

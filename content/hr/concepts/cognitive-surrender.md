@@ -13,13 +13,17 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Pitanja za razmatranje
 
-1. Kad učenik prihvati odgovor umjetne inteligencije koji je slučajno točan, je li razred uspio? Što bi moralo biti istinito da bi samo prihvaćanje bilo ono što je važno?
-2. Razlikuje li se po vrsti kalibrirani učenik koji prenosi rad i poznaje vlastite granice od učenika koji jednostavno ne može razlikovati? Kako bi [[teacher-role|nastavnik]] to razlikovao u jednom uratku?
-3. Ako samopouzdanje raste dok točnost pada - kao što biva kad je savjet umjetne inteligencije dostupan - što to čini s učenikovim vlastitim otkrivanjem pogrešaka?
-4. Gdje je provjeru moguće poučavati, a gdje je ona pitanje radnog opterećenja [[educational-policy-ai|politike]]? Koji bi se dijelovi [[curriculum-design|kurikuluma]] morali promijeniti da provjera postane norma, a ne iznimka?
-5. Trebaju li institucije uopće mjeriti predaju, ili mjerenje poziva isti nadzor s kojim se [[ai-use-disclosure|pravila otkrivanja]] bore?
-6. Kako bi izgledao zadatak koji nagrađuje učenika za nadglasavanje netočnog odgovora umjetne inteligencije, a ne za stvaranje uglađenog?
+- Kad učenik prihvati odgovor umjetne inteligencije koji je slučajno točan, je li razred uspio? Što bi moralo biti istinito da bi samo prihvaćanje bilo ono što je važno?
+- Razlikuje li se po vrsti kalibrirani učenik koji prenosi rad i poznaje vlastite granice od učenika koji jednostavno ne može razlikovati? Kako bi [[teacher-role|nastavnik]] to razlikovao u jednom uratku?
+- Ako samopouzdanje raste dok točnost pada - kao što biva kad je savjet umjetne inteligencije dostupan - što to čini s učenikovim vlastitim otkrivanjem pogrešaka?
+- Gdje je provjeru moguće poučavati, a gdje je ona pitanje radnog opterećenja politike? Koji bi se dijelovi [[curriculum-design|kurikuluma]] morali promijeniti da provjera postane norma, a ne iznimka?
+- Trebaju li institucije uopće mjeriti predaju, ili mjerenje poziva isti nadzor s kojim se [[ai-use-disclosure|pravila otkrivanja]] bore?
+- Kako bi izgledao zadatak koji nagrađuje učenika za nadglasavanje netočnog odgovora umjetne inteligencije, a ne za stvaranje uglađenog?
 
 ## Uvod
 
@@ -79,7 +83,7 @@ Nalazi iz laboratorija podudaraju se s terenskim i opservacijskim radom koji je 
 
 - **Premještanje na razini populacije.** [[generative-ai-reduced-study-time-math|Rismanchian i sur. (2026)]] analiziraju 3,2 milijuna interakcija u učenju na platformi ALEKS i 12,2 milijuna vremena odziva na [[assessment|razvrstajnoj procjeni]] kroz desetogodišnji panel, pri čemu su zadatci temeljeni na grafovima služili kao kontrola za one tekstualne. Učenici su brže dovršavali posao osjetljiv na umjetnu inteligenciju i postizali na njemu više, dok su nadzirani zadatci za provjeru zadržanog znanja pokazali 25-postotni kumulativni pad izgleda za točan odgovor; autori taj obrazac nazivaju kognitivnom predajom na razini populacije.
 - **Provjera kao razlikovna varijabla.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis i sur. (2026)]] nalaze da *kako* učenici upotrebljavaju generativnu umjetnu inteligenciju predviđa [[learning-gains|izvedbu]], dok *koliko* je upotrebljavaju ne predviđa ni jedno ni drugo: prihvaćanje s malo provjere - nekritičko prihvaćanje rezultata - bilo je povezano s lošijim ishodima, a procjenjivačka integracija s boljima.
-- **Nepromišljena upotreba nagriza resurse koje samousmjerenost treba.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao i Gu (2026)]] modeliraju upravo prihvaćanje bez procjene: kod 487 studenata nepromišljena upotreba generativne umjetne inteligencije bila je povezana sa slabijim [[self-regulated-learning|samousmjerenim učenjem]] (β = -0,42), dijelom kroz smanjenu [[motivation|motivaciju]] i [[self-efficacy|samoučinkovitost]].
+- **Nepromišljena upotreba nagriza resurse koje samousmjerenost treba.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao i Gu (2026)]] modeliraju upravo prihvaćanje bez procjene: kod 487 studenata nepromišljena upotreba generativne umjetne inteligencije bila je povezana sa slabijim [[self-directed-learning|samousmjerenom učenju]] (β = -0,42), dijelom kroz smanjenu [[motivation|motivaciju]] i [[self-efficacy|samoučinkovitost]].
 - **Neuralni trag i trag vlasništva.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|studija kognitivnog duga s EEG-om]] mjerila je [[writing-education|pisanje eseja]] uz [[llm]], uz tražilicu i bez alata: skupina koja je upotrebljavala LLM pokazala je najslabiju neuralnu povezanost, prijavila najmanje autorstva nad vlastitim radom i teško je citirala ono što je napisala.
 - **Predaja može doći i nepozvana.** [[ai-advice-suppresses-ikt-suspension-2026|Rad o suspenziji prosudbe]] pokazao je da je sama dostupnost savjeta umjetne inteligencije srušila spremnost ljudi da kažu „ne znam“ (0,06 prema 0,36 i 0,03 prema 0,44 u dvije studije), dok je točnost pala, a samopouzdanje poraslo s oko 30 na 76. Ulozi nisu vratili suspenziju, iako su poticaji poboljšali točnost potičući nadglasavanja. Četvrta studija pokazala je učinak i bez ikakva savjetovanja, obrazac automatskog dovršavanja ili sažetka pretraživanja, a ne razgovornog poticaja.
 - **Zavisni i autonomni načini razlikuju se samo po posljedici.** [[family-school-autonomy-support-genai-2026|Fan, Li i Zhang (2026)]] prate 589 učenika i radnika na početku karijere kroz tri vala: zavisno rasterećenje prenosilo je sržno mišljenje i bilo povezano sa slabijom unutarnjom motivacijom, dok autonomno rasterećenje nije, a neposredna je izvedba izgledala jednako u oba slučaja.

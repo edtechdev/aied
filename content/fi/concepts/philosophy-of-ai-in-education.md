@@ -6,15 +6,19 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,17 +39,19 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Johdanto
 
-Tämä konseptisivu käsittelee [[ai-education|tekoälyn koulutuksessa]] -alan filosofisia ja teoreettisia perusteita. Siinä missä [[learning-theories]] dokumentoi empiiriset ja suunnitteluun suuntautuvat teoriat ([[behaviorism]], [[constructivist|konstruktivismi]], [[cognitive-offloading|kognitiivinen kuorma]], [[self-regulated-learning|itsesäännelty oppiminen]] jne.), filosofinen haara käsittelee ontologisia, epistemologisia ja eettisiä kysymyksiä, jotka nuo teoriat edellyttävät. Nämä kaksi liittyvät läheisesti toisiinsa: filosofiset kannat muovaavat sitä, mitkä oppimisteoriat vaikuttavat uskottavilta ja mitkä koulutukselliset tavoitteet ovat tavoittelemisen arvoisia.
+Tämä konseptisivu käsittelee [[ai-education|tekoälyn koulutuksessa]] -alan filosofisia ja teoreettisia perusteita. Siinä missä [[learning-theories]] dokumentoi empiiriset ja suunnitteluun suuntautuvat teoriat ([[behaviorism]], [[constructivist|konstruktivismi]], [[cognitive-offloading|kognitiivinen kuorma]], [[self-regulated-learning|itsesäännelty oppiminen]] jne.), filosofinen haara käsittelee ontologisia, epistemologisia ja eettisiä kysymyksiä, jotka nuo teoriat edellyttävät. Nämä kaksi liittyvät läheisesti toisiinsa: filosofiset kannat muovaavat sitä, mitkä oppimisteoriat vaikuttavat uskottavilta ja mitkä koulutukselliset tavoitteet ovat tavoittelemisen arvoisia. Normatiivinen haara siitä työstä, väittelyt siitä, mihin tekoäly koulutuksessa on muovaamassa koulutusta, on koottu sivulle [[critiques-of-ai-in-education|Kritiikkiä tekoälystä koulutuksessa]].
 
-### Keskeiset filosofiset kysymykset
+## Keskeiset filosofiset kysymykset
 
 - **Mielen ja kognition luonne.** Vaatiiko ajattelu tietoisuutta ja kehoa? Voiko tekoäly osallistua aidosti kognitiivisiin prosesseihin? Viitekehykset kuten **ensemble-kognitio** väittävät, että tekoäly harjoittaa *toiminnallista toimijuutta* — todellista kausaalista vaikutusvaltaa kognitiivisissa prosesseissa — ilman tietoisuutta, ja että ajattelu nousee dynaamisesta ihmisen ja [[student-ai-interaction|tekoälyn vuorovaikutuksesta]].([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Hajautettu kognitio]] ja laajennetun mielen teesi esittävät samankaltaisia väitteitä kognition jakautumisesta järjestelmien kesken.
 - **Mikä on oppija?** Posthumanistinen filosofia käsitteellistää oppijan uudelleen "posthumanistiseksi" olennoksi, jonka kognitiiviset prosessit ovat aidosti hybridejä ja jakautuneet [[biology-education|biologisten]] ja keinotekoisten järjestelmien kesken.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Tämä haastaa oletuksen oppijasta rajattuna, autonomisena yksilömielenä.
 - **Kehollisuus ja kehottoman tekoälyn rajat.** [[embodied-learning|Kehollinen]] ja postkognitivistinen filosofia kritisoi symbolisten, kehottomien tekoälymallien valta-asemaa väittäen, että kognitio on ankkuroitunut situaationaalisuuteen, emergenssiin ja sensorimotoriseen kytkökseen, joka nykyiseltä [[generative-ai|generatiiviselta tekoälyltä]] puuttuu.([[videla-embodied-ai-education-choreography]])
+- **Automaatio jatkuvuutena, ei katkeamana.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross ja Aros (2026)]] väittävät, että tekoäly sopii koulunkäyntiin, koska se laajentaa kognitiivista ja ohjaavaa mallia, joka kohtelee oppimista informaation käsittelynä ja opettamisen välittämisenä; koulutuksen automatisointi on siksi ontologinen illuusio, joka abstrahoi oppimisen kehollisista, relationaalisista olosuhteista, joissa merkitys ja vastuu syntyvät.
 - **Emotionaalinen työ koneellisten mielten testitapauksena.** Alan väitteet siitä, voiko tekoäly opettaa, kääntyvät usein siihen, voiko se *välittää*, kysymys jota on väitelty kauan ennen kuin [[affective-computing|affektiivista tietojenkäsittelyä]] oli olemassa. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] rekonstruoi vuosien 1950–1996 väittelyn, jossa Ziffin väite siitä, että vain elävillä olennoilla voi kirjaimellisesti olla tunteita, sai vastauksekseen Smartin identiteettiteorian ja Putnamin behavioraalisen kriteerin, jättäen kolme kilpailevaa ontologiaa ratkaisematta. Hänen johtopäätöksensä on perusteluvelvollisuus eikä mahdottomuusväite — representaatio, simulaatio ja jäljittely alimääräävät emotionaalisen työn — mikä asettaa velvollisuuden kenelle tahansa, joka aikoisi delegoida pastoraalisen työn järjestelmälle.
 - **Toimijuus, tekijyys ja merkitys.** Kun tekoäly välittää tulkintaa ja merkityksenantoa, filosofia kysyy, miten tekijyys, episteeminen [[agency|toimijuus]] ja tulkitseva autonomia järjestyvät uudelleen.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **Tekoälyn tuottamien tieteellisten objektien ontologia.** [[chemistry-education|Kemiassa]] tekoälyn ennustamat yhdisteet ja titrauskäyrät asuttavat "liminaalista ontologista tilaa" — eivät täysin hypoteettisia eivätkä täysin todellisia ennen empiiristä todistamista — mikä siirtää oppiainetta realismista kohti konstruktivistista näkemystä, jossa todellisuus on ihmisen ja koneen yhteistyötä ([[philosophy-experimentation-ai-chemistry-2026|Reyes ja Regala (2026)]]).
 - **Kognitiivinen passiivisuus episteemisenä haittana.** Bai ja Costa (2026) nojaavat Arendtin kuvaukseen ajattelusta sisäänpäin suuntautuvana, siirtämättömänä toimintana väittääkseen, ettei työn valmiiksi tuottava GenAI vain siirrä ajattelua kuormituksesi vaan sulkee sen pois, ja sijoittavat riskin Bourdieun kentän ja habituksen kautta institutionaalisiin rakenteisiin ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- Sivutuokin tuon kertomuksen rinnalle, [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] rekonstruoi essän ajattelun muotona: Montaignen yritys, Adornon fragmentit, Heideggerin miettivä ajattelu — sen arvo on siinä ajattelussa, jonka kirjoittaminen tuottaa, eikä saadussa tuotoksessa.
 - **Arvot, oikeudenmukaisuus ja koulutuksen tarkoitus.** Filosofinen analyysi tarkastelee, palveleeko tekoälyvetoinen koulutus ihmisen kukoistusta ja koulutuksellista oikeudenmukaisuutta vai välineellistääkö se oppimisen tuottavuuden palvelukseen.([[avraamidou-ai-colonization-science-education]]) Tämä liittyy [[critical-pedagogy|kriittiseen pedagogiikkaan]] ja [[ethics|etiikkaan]].
 - **"Ihmiskeskeinen" antroposentrisenä diskurssina, ei neutraalina etiikkana.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] lukevat UNESCO:n, OECD:n ja Montrealin julistuksen dokumentteja ja väittävät, että ihmiskeskeinen AIED perii valistuksen humanismin ulossulkemiset, että transhumanismi säilyttää ne ja että nimike voi legitimoida kaupallista infrastruktuuria.
 
@@ -55,29 +61,19 @@ Tämä konseptisivu käsittelee [[ai-education|tekoälyn koulutuksessa]] -alan f
 - **Toimijuus ilman vastuuvelvollisuutta.** Korpusavusteinen diskurssianalyysi 366 GenAI-korkeakouluabstraktista löytää [[generative-ai|tekoälyn]] nimettynä 2,050 kertaa ja esiintyvän 447 tiukassa toimija–predikaatti-assosiaatiossa — alan yleisimpänä toimijana — mutta toimintapredikaatit hallitsevat niitä (78.7%) eikä yksikään lause tee järjestelmää vastuulliseksi: 166 velvollisuusilmauksesta yksikään ei antanut vastuuta järjestelmälle, ja ainoa tekoälyn vastuuvelvollisuuteen yhdistävä lauseke sanoo, ettei tekoäly ole vastuuvelvollinen. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] lukee tämän toiminnalliseksi toimijuudeksi, joka tunnustetaan kielessä ilman sitä relationaalista vastuuta, joka kiinnittäisi sen johonkuhun.
 **Ei työkalu eikä kumppani: medioiva agentti.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate ja Ritchie (2026)]] väittävät, että generatiivisen tekoälyn kutsuminen pelkäksi työkaluksi aliarvioi sen vuorovaikutuksellista vaikutusta, kun taas sen kutsuminen kumppaniksi myöntää sille virheellisesti intentionaalisuuden ja vastuuvelvollisuuden, ja ehdottavat *medioivaa agenttia* — responsiivista, ei-vastuuvelvollista järjestelmää, jonka uutuus on osallistumisessa eikä älyssä.
 
-### Suhde oppimisteorioihin
+## Suhde oppimisteorioihin
 
 Tekoälyn filosofia koulutuksessa ja [[learning-theories]] ovat täydentäviä linssejä. Oppimisteoriat selittävät oppimisen mekanismeja (esim. miten [[feedback|palaute]], [[scaffolding|tukeminen]] tai kognitiivinen kuorma muovaavat tuloksia); filosofia kuulustelee noiden mekanismien ennakko-oletuksia — mikä lasketaan tiedoksi, kuka lasketaan tietäjäksi ja mitä oppija perustavanlaatuisesti on. Erityisesti posthumanistinen ja kriittisfilosofinen työ haastaa alan menemään instrumentaalisten viitekehysten, kuten [[tpack|TPACK]] ja SAM, tuolle puolen kohti syvempää ontologista uudelleensuuntautumista.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Suhde teoriankehitykseen
+## Suhde teoriankehitykseen
 
 Tekoälyn filosofia koulutuksessa ja [[theory-development-aied|teorian kehittäminen AIEd:ssa]] ovat täydentäviä mutta erillisiä. Filosofia kysyy ontologiset ja epistemologiset kysymykset — mitä mieli, tieto ja oppija perustavanlaatuisesti ovat tekoälyn välittämissä olosuhteissa — kun taas teoriankehitys tuottaa ja testaa empiirisesti ne *mekanismit*, jotka operationalisoivat vastaukset noihin kysymyksiin (generativismi, episteeminen yhteistoimijuus, puuttuva kognitiivinen perustaso). Nämä kaksi valaisevat toisiaan: filosofia selventää niitä ennakko-oletuksia, joita teoriat kantavat (esim. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|episteeminen yhteistoimijuus]] edellyttää hajautettua, ei-individualistista kognition mallia), kun taas teoriankehitys antaa filosofisille kannoille testattavan, falsifioitavan muodon. Alan perustavanlaatuisimmat artikkelit tekevät molempia yhtä aikaa ja asettuvat näiden kahden käsitteen rajalle.
-
-## Yleiset väärinkäsitykset
-
-**"Tekoälyn filosofia koulutuksessa on sama asia kuin oppimisteorioiden luettelointi."** Ne sijaitsevat eri syvyyksillä. [[learning-theories]]-sivu kysyy *miten oppiminen tapahtuu*; filosofia kysyy *mitä oppiminen, mieli ja oppija perustavanlaatuisesti ovat* tekoälyn välittämissä olosuhteissa. Tutkimus voi ratkaista oppimisteoreettisen kysymyksen ja jättää filosofisen kysymyksen koskemattomaksi, minkä vuoksi teknisesti onnistunut interventio voi silti olla väärä asia tehdä.
-
-**"Kognitiivinen siirtokuormitus on se haitta, ja se on palautettavissa lisäämällä vaivannäköä."** Tarjolla on vahvempi väite. Bai ja Costa (2026) nojaavat Arendtin kuvaukseen ajattelusta sisäänpäin suuntautuvana, siirtämättömänä toimintana väittääkseen, ettei työn *valmiiksi tuottava* GenAI vain siirrä ajattelua kuormituksesi vaan sulkee sen pois — ja he sijoittavat riskin institutionaalisesti Bourdieun kentän ja habituksen kautta eivätkä yksilön tahdonvoimaan. Jos väite pitää, "käytä sitä varoen" ei ole riittävä lääke, koska käytäntöä muovaa kenttä, joka palkitsee tuotoksen.
-
-**"Länsimaisen ulkopuolinen filosofia on sisältöä, joka lisätään muuttumattomaan kehykseen."** Se voi olla erilaisten perusteiden lähde. Eräs rekonstruktio kohtelee daoistisia käsitteitä — "Daon luonto" (道性), itsensä kehittäminen (修道) ja "Zhenren" (真人) — ei länsimaiseen viitekehykseen liitettynä "itämaisena sisältönä" vaan resursseina, jotka muovaavat uudelleen niitä käsitteellisiä perusteita, joiden kautta tekoälyä koulutuksessa ymmärretään. Tradition lisääminen esimerkiksi ja sen käyttäminen kysymysten uudelleenkehystämiseen ovat eri tutkimustekoja.
-
-**"Filosofinen kritiikki ei ole toimittavissa teoiksi."** Se asettaa sen, mikä lasketaan onnistumiseksi. Onko järjestelmän tuotos oppijan saavutus ja onko mitattu parannus koulutuksellinen hyvä, ovat ennakkokysymyksiä, joihin mikään vaikutussuuruus ei voi vastata — ja instituutiot, jotka ohittavat ne, optimoivat mitattavissa olevaa ja kutsuvat sitä parannukseksi.
 
 ## Käytännön seuraukset
 
 **Opettajille**
 
-- Päätä ennen työkalun käyttöönottoa, mitä olet valmis laskemaan opiskelijan omaksi saavutukseksi. Jos järjestelmän tuottama hiottu palautus tyydyttäisi arviointisi, olet vastannut "ei mitään" — eikä myöhempi arviointikriteerien muutos palauta kysymystä.
+- Päätä ennen työkalun käyttöönottoa, mitä olet valmis laskemaan opiskelijan omaksi saavutukseksi. Jos järjestelmän tuottama hiottu palautus tyydyttäisi arviointisi, olet vastannut "ei mitään" — eikä myöhempi [[rubrics|arviointikriteeristön]] muutos palauta kysymystä.
 - Ota työn sulkemisen argumentti vakavasti tehtäviä suunnitellessasi: jos työn valmiiksi tuottava GenAI sulkee ajattelun pois eikä vain siirrä sitä, silloin "käytä sitä vastuullisesti" ei ole riittävä suojakeino, koska ympäröivä kenttä palkitsee tuotoksen. Suunnittele tehtäviä, joissa ajattelun näyttö tuotetaan ennen kuin työkalu on saatavilla.
 - Kysy, kenen käsityksen oppimisesta kurssisi koodaa. Viitekehyksen kritiikitön omaksuminen tuo mukanaan sen oletukset siitä, mitä oppija on, ja nuo oletukset ovat kiistanalaisia.
 
@@ -91,3 +87,14 @@ Tekoälyn filosofia koulutuksessa ja [[theory-development-aied|teorian kehittäm
 
 - Kerro se oppimiskäsitys, jonka arviointisi olettaa, koska mitattu parannus on koulutuksellinen hyvä vain suhteessa johonkin käsitykseen siitä, mitä koulutus on varten.
 - Rahoita filosofista työtä empiirisen työn rinnalla: kysymykset siitä, mikä lasketaan oppijan saavutukseksi, asettavat ne onnistumiskriteerit, joita empiiriset tutkimukset sitten käyttävät.
+
+## Yleiset väärinkäsitykset
+
+**"Tekoälyn filosofia koulutuksessa on sama asia kuin oppimisteorioiden luettelointi."** Ne sijaitsevat eri syvyyksillä. [[learning-theories]]-sivu kysyy *miten oppiminen tapahtuu*; filosofia kysyy *mitä oppiminen, mieli ja oppija perustavanlaatuisesti ovat* tekoälyn välittämissä olosuhteissa. Tutkimus voi ratkaista oppimisteoreettisen kysymyksen ja jättää filosofisen kysymyksen koskemattomaksi, minkä vuoksi teknisesti onnistunut interventio voi silti olla väärä asia tehdä.
+
+**"Kognitiivinen siirtokuormitus on se haitta, ja se on palautettavissa lisäämällä vaivannäköä."** Tarjolla on vahvempi väite. Bai ja Costa (2026) nojaavat Arendtin kuvaukseen ajattelusta sisäänpäin suuntautuvana, siirtämättömänä toimintana väittääkseen, ettei työn *valmiiksi tuottava* GenAI vain siirrä ajattelua kuormituksesi vaan sulkee sen pois — ja he sijoittavat riskin institutionaalisesti Bourdieun kentän ja habituksen kautta eivätkä yksilön tahdonvoimaan. Jos väite pitää, "käytä sitä varoen" ei ole riittävä lääke, koska käytäntöä muovaa kenttä, joka palkitsee tuotoksen.
+
+**"Länsimaisen ulkopuolinen filosofia on sisältöä, joka lisätään muuttumattomaan kehykseen."** Se voi olla erilaisten perusteiden lähde. Eräs rekonstruktio kohtelee daoistisia käsitteitä — "Daon luonto" (道性), itsensä kehittäminen (修道) ja "Zhenren" (真人) — ei länsimaiseen viitekehykseen liitettynä "itämaisena sisältönä" vaan resursseina, jotka muovaavat uudelleen niitä käsitteellisiä perusteita, joiden kautta tekoälyä koulutuksessa ymmärretään. Tradition lisääminen esimerkiksi ja sen käyttäminen kysymysten uudelleenkehystämiseen ovat eri tutkimustekoja.
+
+**"Filosofinen kritiikki ei ole toimittavissa teoiksi."** Se asettaa sen, mikä lasketaan onnistumiseksi. Onko järjestelmän tuotos oppijan saavutus ja onko mitattu parannus koulutuksellinen hyvä, ovat ennakkokysymyksiä, joihin mikään vaikutussuuruus ei voi vastata — ja instituutiot, jotka ohittavat ne, optimoivat mitattavissa olevaa ja kutsuvat sitä parannukseksi.
+

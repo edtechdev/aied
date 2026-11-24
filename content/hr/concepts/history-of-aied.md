@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ Dolazak [[generative-ai|generativne umjetne inteligencije]] — široke obitelji
 - **Odmjerite kontrolu i djelotvornost namjerno.** Treba li umjetna inteligencija optimizirati prema standardnim ishodima ili omogućiti raznolike ishode koje usmjerava učenik, istinski je izbor s institucionalnim i političkim posljedicama, a ne tehnički podatak.
 - **Čuvajte učeničku djelotvornost.** Ponavljajući otpor standardizaciji i kontroli u korist otvorenih pristupa usmjerenih na učenika trajna je nit koju vrijedi braniti.
 
-## Uobičajene zablude
-
-**„Umjetna inteligencija u obrazovanju počela je s ChatGPT-om.“** Nije, a vjerovanje je skupo jer svaku raniju lekciju čini nevidljivom. [[intelligent-tutoring|Inteligentno poučavanje]] potječe iz rada na heurističkom pretraživanju i ekspertnim sustavima 1960-ih i 70-ih, a zajednica AIED formirala se oko njega desetljećima prije [[llm|velikih jezičnih modela]]. [[mishra-control-vs-agency-history-2025|Mishra i sur.]] pokazuju da današnje rasprave reproduciraju podjelu već izričitu u Andersonovim kognitivnim tutorima i Papertovu konstrukcionizmu, pa će čitatelj koji područje datira u 2022. iznova izvesti argumente koje je područje već jednom riješilo, napustilo ili izgubilo.
-
-**„Područje je postupno napustilo UI kao analogiju u korist primijenjenih alata, a generativna umjetna inteligencija nastavlja taj trend.“** To je najpoučnija korekcija na stranici, jer je putanja stvarna, ali nije monotona. [[rismanchian-ai-education-four-decades-aixed-2026|Pozicijska analiza Rismanchian i Doroudi]] radova AIED 1985., 1993., 2021. i 2024. te IJAIED 2004., 2014. i 2021. doista pokazuje pomak od mješovitog područja prema gotovo isključivoj primijenjenoj instrumentalnosti do 2000-ih. No na AIED-u 2024. tri od četiri rada u kvadrantu UI kao analogije bila su utemeljena na LLM-ovima, uključujući rad nagrađen kao najbolji o poučivim agentima utemeljenima na LLM-u. Generativna umjetna inteligencija djelomice **preokreće** trend, a ne produljuje ga, zbog čega je tretiranje kao „sljedećeg inteligentnog tutora“ pogrešno čitanje toga kamo se istraživačka fronta doista pomaknula.
-
-**„Personalizacija znači prilagodbu težine svakom učeniku.“** To je samo jedno od dva nespojiva značenja, a njihovo poistovjećivanje skriva politički izbor. U prvom je značenju ishod fiksiran i mijenja se samo put, a loza ide od Skinnerovih nastavnih strojeva do poučavanja do ovladanosti. U drugom se sami ishodi razlikuju, dok učenici slijede pojedinačne interese neograničene standardnim kurikulumom (Zhao, 2024.). [[intelligent-tutoring|ITS]] ostvaruje prvo; [[constructivist|konstrukcionizam]] drugo. Alat opisan kao „personaliziran“ nije vam rekao ništa dok ne znate koje od toga znači.
-
-**„Umjetna inteligencija“ bila je jednostavno očit naziv za područje.** Termin je bio namjeran izbor. Kad je McCarthy planirao Dartmouthski projekt 1956., preferirao je *umjetnu inteligenciju* umjesto *kibernetike* dijelom da bi rad udaljio od Wienerove tradicije analogne povratne veze. Ta je jedna odluka uokvirila strojeve u izravnu usporedbu s ljudskom kognicijom, a antropomorfno uokvirivanje koje je uspostavila i danas oblikuje istraživačke prioritete, jezik proizvoda i etička pitanja koja javnost postavlja.
-
 ## Praktična primjena
 
 **Za instruktore i dizajnere poučavanja**
@@ -99,3 +93,13 @@ Dolazak [[generative-ai|generativne umjetne inteligencije]] — široke obitelji
 
 - Rabite povijesne korpuse kao osnovu, umjesto da sadašnjost tretirate kao jedinu dostupnu usporedbu. Zbornici AIED za 1985., 1993., 2021. i 2024. te IJAIED za 2004., 2014. i 2021. gotov su longitudinalni uzorak tvrdnji samog područja.
 - Citirajte lozu kada tvrdite novost. Tvrdnja da sustav „personalizira učenje“ ili „modelira učenika“ nova je samo u odnosu na određenu prethodnu tradiciju, a tradicija je dokumentirana.
+
+## Uobičajene zablude
+
+**„Umjetna inteligencija u obrazovanju počela je s ChatGPT-om.“** Nije, a vjerovanje je skupo jer svaku raniju lekciju čini nevidljivom. [[intelligent-tutoring|Inteligentno poučavanje]] potječe iz rada na heurističkom pretraživanju i ekspertnim sustavima 1960-ih i 70-ih, a zajednica AIED formirala se oko njega desetljećima prije [[llm|velikih jezičnih modela]]. [[mishra-control-vs-agency-history-2025|Mishra i sur.]] pokazuju da današnje rasprave reproduciraju podjelu već izričitu u Andersonovim kognitivnim tutorima i Papertovu konstrukcionizmu, pa će čitatelj koji područje datira u 2022. iznova izvesti argumente koje je područje već jednom riješilo, napustilo ili izgubilo.
+
+**„Područje je postupno napustilo UI kao analogiju u korist primijenjenih alata, a generativna umjetna inteligencija nastavlja taj trend.“** To je najpoučnija korekcija na stranici, jer je putanja stvarna, ali nije monotona. [[rismanchian-ai-education-four-decades-aixed-2026|Pozicijska analiza Rismanchian i Doroudi]] radova AIED 1985., 1993., 2021. i 2024. te IJAIED 2004., 2014. i 2021. doista pokazuje pomak od mješovitog područja prema gotovo isključivoj primijenjenoj instrumentalnosti do 2000-ih. No na AIED-u 2024. tri od četiri rada u kvadrantu UI kao analogije bila su utemeljena na LLM-ovima, uključujući rad nagrađen kao najbolji o poučivim agentima utemeljenima na LLM-u. Generativna umjetna inteligencija djelomice **preokreće** trend, a ne produljuje ga, zbog čega je tretiranje kao „sljedećeg inteligentnog tutora“ pogrešno čitanje toga kamo se istraživačka fronta doista pomaknula.
+
+**„Personalizacija znači prilagodbu težine svakom učeniku.“** To je samo jedno od dva nespojiva značenja, a njihovo poistovjećivanje skriva politički izbor. U prvom je značenju ishod fiksiran i mijenja se samo put, a loza ide od Skinnerovih nastavnih strojeva do poučavanja do ovladanosti. U drugom se sami ishodi razlikuju, dok učenici slijede pojedinačne interese neograničene standardnim kurikulumom (Zhao, 2024.). [[intelligent-tutoring|ITS]] ostvaruje prvo; [[constructivist|konstrukcionizam]] drugo. Alat opisan kao „personaliziran“ nije vam rekao ništa dok ne znate koje od toga znači.
+
+**„Umjetna inteligencija“ bila je jednostavno očit naziv za područje.** Termin je bio namjeran izbor. Kad je McCarthy planirao Dartmouthski projekt 1956., preferirao je *umjetnu inteligenciju* umjesto *kibernetike* dijelom da bi rad udaljio od Wienerove tradicije analogne povratne veze. Ta je jedna odluka uokvirila strojeve u izravnu usporedbu s ljudskom kognicijom, a antropomorfno uokvirivanje koje je uspostavila i danas oblikuje istraživačke prioritete, jezik proizvoda i etička pitanja koja javnost postavlja.

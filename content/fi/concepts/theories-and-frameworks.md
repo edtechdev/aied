@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Nämä selittävät mekanismeja: ne nimeävät osat, jotka tekevät työn, ja en
 ## Opetuksen, integroinnin ja omaksumisen viitekehykset
 
 - **[[tpack|TPACK]]** — opettajan tietämys, joka yhdistää teknologian, pedagogiikan ja sisällön; opettajiin kohdistuvien tekoälytutkimusten oletusviitekehys.
+- **[[bloom-taxonomy|Bloomin taksonomia]]** — yhteinen sanasto tehtävien kognitiiviselle kuormalle, jota käytetään sekä kohteiden koodaamiseen että niiden järjestämiseen; tekoälyssä koulutuksessa siitä on tullut yhtä paljon mittaamisongelma kuin suunnittelukysymys.
 - **[[technology-acceptance-model|Omaksumismallit]]** — aikomus koetun hyödyllisyyden ja helppokäyttöisyyden funktiona. Käytetty niin laajasti, että alan nojautuminen aikomukseen käyttäytymisen sijaan on pysyvä kritiikin kohde.
+- **Odotus-vahvistusmalli (ECM)** — tyytyväisyys aiempien odotusten vahvistumisena, ja tuloksena jatkuvuus pikemminkin kuin alkuun omaksuminen. Yhden lukukauden sosiologian menetelmiin liittyvässä pilotissa, johon osallistui 24 perusopiskelijaa, 87 % arvioi Copilotin hyväksi tai erinomaiseksi ja 91 % suosittelisi sitä, mutta vain 57 % aioi jatkaa sen käyttöä ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Tuo ero on mallin pointti: tyytyväinen käyttäjä voi silti kieltäytyä palaamasta, joten tyytyväisyys ja jatkuvuus tarvitsevat erilliset mittarit.
 - **[[icap-framework|ICAP]]** — asettaa sitoutumisen järjestykseen passiivinen, aktiivinen, konstruktiivinen, interaktiivinen; hyödyllinen kysyttäessä, mitä tilaa [[student-ai-interaction|tekoälyvuorovaikutus]] todella tarjoaa.
 - **[[samr-model|SAMR]]** — korvaamisesta uudelleenmäärittelyyn. Suosittu kypsyystarinana, heikko mittausinstrumenttina.
 - **[[universal-design-for-learning|Kaikille sopiva oppimissuunnittelu]]**, **[[inclusive-learning|inklusiivinen oppiminen]]** ja **[[accessibility|saavutettavuus]]** — suunnittelukehykset sille, ketä palvellaan, ja ne, joihin vammaisuus- ja [[equity-in-ai-education|tasa-arvo]]työssä useimmin vedotaan.
@@ -104,7 +110,7 @@ Sanoja käytetään kirjallisuudessa löyhästi, ja ero ansaitsee yhden kappalee
 
 ## Vierekkäiset kerrokset
 
-Kaksi naapurisivua käsittelevät tarkoituksellisesti jotain muuta. [[philosophy-of-ai-in-education|Tekoälyn koulutusfilosofia]] esittää normatiivisia ja käsitteellisiä kysymyksiä — mitä varten koulutus on, voiko kone opettaa — eikä ennusta vaikutuskokoja; tutkimus voi olla filosofisesti naiivi ja teoreettisesti pitävä tai päinvastoin. [[theory-development-aied|Teorian kehittäminen]] on meta-aktiviteetti, jossa teoriaa rakennetaan, lainataan ja uudistetaan, mukaan lukien pysyvä kritiikki siitä, että suuri osa [[ai-education|AIED]]-työstä soveltaa olemassa olevaa teoriaa sen testaamisen sijaan. Tämä sivu on luettelo; teorian kehittäminen koskee luettelon tuottamista ja uudistamista.
+Kaksi naapurisivua käsittelevät tarkoituksellisesti jotain muuta. [[philosophy-of-ai-in-education|Tekoälyn koulutusfilosofia]] esittää normatiivisia ja käsitteellisiä kysymyksiä — mitä varten koulutus on, voiko kone opettaa — eikä ennusta vaikutuskokoja; tutkimus voi olla filosofisesti naiivi ja teoreettisesti pitävä tai päinvastoin. [[theory-development-aied|Teorian kehittäminen]] on meta-aktiviteetti, jossa teoriaa rakennetaan, lainataan ja uudistetaan, mukaan lukien pysyvä kritiikki siitä, että suuri osa [[ai-education|AIED]]-työstä soveltaa olemassa olevaa teoriaa sen testaamisen sijaan. Tämä sivu on luettelo; teorian kehittäminen koskee luettelon tuottamista ja uudistamista. [[learning-environments-as-systems|Oppimisympäristöt järjestelminä]] on kolmas naapuri. Se ei ole oppimisen teoria eikä ennusta vaikutuskokoja, vaan näkemys analyysiyksiköstä: oppimisympäristö on monitasoinen järjestelmä, jonka osat ovat vuorovaikutuksessa, joten tutkimuksen mittaama taso on teoreettinen päätös eikä otannan mukavuus.
 
 ## Linssin valinta, kun kysymys on käytännöllinen
 

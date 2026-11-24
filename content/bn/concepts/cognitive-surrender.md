@@ -13,7 +13,7 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
@@ -35,12 +39,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## বিবেচনার প্রশ্ন
 
-1. যখন একজন শিক্ষার্থী এমন একটি AI উত্তর গ্রহণ করে যা ভুলক্রমে সঠিক, তখন কি ক্লাস সফল হয়েছে? গ্রহণটাই যদি মূল্যবান জিনিস হয়, তবে কী সত্য হতে হবে?
-2. নিজের সীমা জানে এমন একটি সু-নির্ধারিত অর্পণকারী কি সেই শিক্ষার্থী থেকে গুণগতভাবে আলাদা যে কেবল পার্থক্য করতে পারে না? [[teacher-role|একজন শিক্ষক]] কাজের একক টুকরোয় কীভাবে পার্থক্য বুঝবেন?
-3. যদি আত্মবিশ্বাস বাড়ে আর নির্ভুলতা কমে, যেমনটি AI পরামর্শ উপলব্ধ থাকলে ঘটে, তবে তা শিক্ষার্থীর নিজের ত্রুটি-সনাক্তকরণে কী করে?
-4. যাচাই কোথায় শেখানো যায়, আর কোথায় তা [[educational-policy-ai|নীতির]] কাজের-চাপের সমস্যা? [[curriculum-design|পাঠ্যক্রমের]] কোন অংশ বদলাতে হবে যাতে যাচাই নিয়মের পরিবর্তে ব্যতিক্রম হয়?
-5. প্রতিষ্ঠানগুলো আদৌ আত্মসমর্পণ মাপবে, নাকি মাপা মানেই সেই নজরদারিকে আমন্ত্রণ জানানো যা [[ai-use-disclosure|প্রকাশের নিয়মগুলো]] নিয়ে হিমশিম খায়?
-6. এমন একটি কাজ কেমন হবে যা শিক্ষার্থীকে একটি মসৃণ কাজ তৈরি করার বদলে ভুল AI উত্তর অগ্রাহ্য করার জন্য পুরস্কৃত করে?
+- যখন একজন শিক্ষার্থী এমন একটি AI উত্তর গ্রহণ করে যা ভুলক্রমে সঠিক, তখন কি ক্লাস সফল হয়েছে? গ্রহণটাই যদি মূল্যবান জিনিস হয়, তবে কী সত্য হতে হবে?
+- নিজের সীমা জানে এমন একটি সু-নির্ধারিত অর্পণকারী কি সেই শিক্ষার্থী থেকে গুণগতভাবে আলাদা যে কেবল পার্থক্য করতে পারে না? [[teacher-role|একজন শিক্ষক]] কাজের একক টুকরোয় কীভাবে পার্থক্য বুঝবেন?
+- যদি আত্মবিশ্বাস বাড়ে আর নির্ভুলতা কমে, যেমনটি AI পরামর্শ উপলব্ধ থাকলে ঘটে, তবে তা শিক্ষার্থীর নিজের ত্রুটি-সনাক্তকরণে কী করে?
+- যাচাই কোথায় শেখানো যায়, আর কোথায় তা নীতির কাজের-চাপের সমস্যা? [[curriculum-design|পাঠ্যক্রমের]] কোন অংশ বদলাতে হবে যাতে যাচাই নিয়মের পরিবর্তে ব্যতিক্রম হয়?
+- প্রতিষ্ঠানগুলো আদৌ আত্মসমর্পণ মাপবে, নাকি মাপা মানেই সেই নজরদারিকে আমন্ত্রণ জানানো যা [[ai-use-disclosure|প্রকাশের নিয়মগুলো]] নিয়ে হিমশিম খায়?
+- এমন একটি কাজ কেমন হবে যা শিক্ষার্থীকে একটি মসৃণ কাজ তৈরি করার বদলে ভুল AI উত্তর অগ্রাহ্য করার জন্য পুরস্কৃত করে?
 
 ## পরিচিতি
 

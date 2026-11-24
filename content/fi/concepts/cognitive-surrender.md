@@ -13,13 +13,17 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Pohdittavaksi
 
-1. Kun opiskelija hyväksyy tekoälyn vastauksen, joka sattuu olemaan oikea, onko opetus onnistunut? Mitä pitäisi olla totta, jotta hyväksyminen itsessään olisi se, jolla olisi merkitystä?
-2. Onko kalibroitu siirtäjä, joka tuntee omat rajansa, laadullisesti erilainen kuin opiskelija, joka ei yksinkertaisesti pysty erottamaan? Miten [[teacher-role|opettaja]] erottaisi eron yhdestä työnäytteestä?
-3. Jos varmuus kasvaa samalla kun tarkkuus laskee - kuten käy, kun tekoälyn neuvo on saatavilla - mitä se tekee oppijan omalle virheentunnistukselle?
-4. Missä tarkistaminen on opetettavissa ja missä se on työmääräkysymys [[educational-policy-ai|politiikalle]]? Mitkä [[curriculum-design|opetussuunnitelman]] osat pitäisi muuttaa, jotta tarkistamisesta tulisi normi eikä poikkeus?
-5. Pitäisikö instituutioiden mitata antautumista lainkaan, vai kutsuuko sen mittaaminen samaa valvontaa, jonka kanssa [[ai-use-disclosure|ilmoitusäännöt]] painivat?
-6. Millainen olisi tehtävä, joka palkitsee opiskelijan väärän tekoälyvastauksen ohittamisesta sen sijaan, että se palkitsisi kiillotetun tuotoksen tuottamisesta?
+- Kun opiskelija hyväksyy tekoälyn vastauksen, joka sattuu olemaan oikea, onko opetus onnistunut? Mitä pitäisi olla totta, jotta hyväksyminen itsessään olisi se, jolla olisi merkitystä?
+- Onko kalibroitu siirtäjä, joka tuntee omat rajansa, laadullisesti erilainen kuin opiskelija, joka ei yksinkertaisesti pysty erottamaan? Miten [[teacher-role|opettaja]] erottaisi eron yhdestä työnäytteestä?
+- Jos varmuus kasvaa samalla kun tarkkuus laskee - kuten käy, kun tekoälyn neuvo on saatavilla - mitä se tekee oppijan omalle virheentunnistukselle?
+- Missä tarkistaminen on opetettavissa ja missä se on työmääräkysymys politiikalle? Mitkä [[curriculum-design|opetussuunnitelman]] osat pitäisi muuttaa, jotta tarkistamisesta tulisi normi eikä poikkeus?
+- Pitäisikö instituutioiden mitata antautumista lainkaan, vai kutsuuko sen mittaaminen samaa valvontaa, jonka kanssa [[ai-use-disclosure|ilmoitusäännöt]] painivat?
+- Millainen olisi tehtävä, joka palkitsee opiskelijan väärän tekoälyvastauksen ohittamisesta sen sijaan, että se palkitsisi kiillotetun tuotoksen tuottamisesta?
 
 ## Johdanto
 
@@ -79,7 +83,7 @@ Laboratoriolöydökset sopivat yhteen kenttä- ja havainnointityön kanssa, joka
 
 - **Väestötason syrjäyttäminen.** [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] analysoivat 3,2 miljoonaa ALEKS-oppimisvuorovaikutusta ja 12,2 miljoonaa [[assessment|sijoittumisarvioinnin]] vasteaikaa kymmenen vuoden paneelissa, ja tekstipohjaisten tehtävien kontrolleina toimivat graafipohjaiset tehtävät. Opiskelijat suorittivat tekoälylle alttiin työn nopeammin ja saivat siitä korkeampia pisteitä, kun taas valvotut muistamistehtävät osoittivat 25 %:n kumulatiivisen laskun oikean vastauksen vetosuhteissa; tekijät kutsuvat kuviota kognitiiviseksi antautumiseksi väestön mittakaavassa.
 - **Tarkistaminen erottelevana muuttujana.** [[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]] havaitsevat, että *miten* opiskelijat käyttävät generatiivista tekoälyä ennustaa [[learning-gains|suoriutumista]], kun taas *kuinka paljon* he sitä käyttävät ei ennusta kumpaakaan: vähäisen tarkistamisen omaksuminen - tuotoksen kritiikitön hyväksyminen - liittyi huonompiin tuloksiin ja arvioiva integrointi parempiin.
-- **Ajattelematon käyttö rapauttaa resurssit, joita itseohjautuvuus tarvitsee.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao ja Gu (2026)]] mallintavat omaksumisen ilman arviointia suoraan: 487 kandidaatin keskuudessa generatiivisen tekoälyn ajattelematon käyttö liittyi heikompaan [[self-regulated-learning|itseohjautuvaan oppimiseen]] (β = −0,42), osittain vähentyneen [[motivation|motivaation]] ja [[self-efficacy|itsetehokkuuden]] kautta.
+- **Ajattelematon käyttö rapauttaa resurssit, joita itseohjautuvuus tarvitsee.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao ja Gu (2026)]] mallintavat omaksumisen ilman arviointia suoraan: 487 kandidaatin keskuudessa generatiivisen tekoälyn ajattelematon käyttö liittyi heikompaan [[self-directed-learning|itseohjautuvaan oppimiseen]] (β = −0,42), osittain vähentyneen [[motivation|motivaation]] ja [[self-efficacy|itsetehokkuuden]] kautta.
 - **Neuraalinen ja omistajuuden jälki.** [[your-brain-on-chatgpt-cognitive-debt-essay-writing|kognitiivisen velan EEG-tutkimus]] mittasi [[writing-education|esseen kirjoittamista]] [[llm|LLM:n]], hakukoneen ja ilman työkalua kanssa: LLM-ryhmässä oli heikoin neuraalinen kytkeytyneisyys, se raportoi alhaisinta omistajuutta omasta työstään ja se vaikeutui siteerata kirjoittamaansa.
 - **Antautuminen voi saapua pyytämättä.** [[ai-advice-suppresses-ikt-suspension-2026|Harkinnan keskeyttämistä koskeva työ]] havaitsi, että pelkkä tekoälyn neuvon saatavuus romahdutti ihmisten halukkuuden sanoa "en tiedä" (0,06 vastaan 0,36 ja 0,03 vastaan 0,44 kahdessa tutkimuksessa), samalla kun oikeellisuus laski ja varmuus nousi noin 30:stä 76:een. Panokset eivät palauttaneet keskeytystä, vaikka kannustimet paransivat tarkkuutta rohkaisemalla ohituksiin. Neljäs tutkimus osoitti vaikutuksen ilman mitään neuvon kysymistä, eli automaattitäydennyksen tai hakutulosyhteenvedon kuvion eikä chat-kehoitteen.
 - **Riippuvainen ja autonominen tila erottuvat vain seurauksissa.** [[family-school-autonomy-support-genai-2026|Fan, Li ja Zhang (2026)]] seuraavat 589 opiskelijaa ja uran alkuvaiheen työntekijää kolmen aallon yli: riippuvainen siirtokuormitus siirsi ydinaiheen ajattelua ja seurasi heikompaa sisäistä motivaatiota, kun taas autonominen siirtokuormitus ei, ja välitön suoriutuminen näytti molemmissa samalta.

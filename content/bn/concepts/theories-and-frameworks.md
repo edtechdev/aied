@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## শিক্ষণ, সংহতি ও গ্রহণ-কাঠামো
 
 - **[[tpack|TPACK]]** — প্রযুক্তি, শিক্ষাবিজ্ঞান ও বিষয়বস্তু মিলিয়ে গড়া শিক্ষকের জ্ঞান; শিক্ষক-মুখী এআই-গবেষণার ডিফল্ট কাঠামো।
+- **[[bloom-taxonomy|Bloom-এর শ্রেণিবিন্যাস]]** — কাজের সংজ্ঞানাত্মক চাহিদার জন্য সাধারণ শব্দভান্ডার, প্রশ্ন কোড করতে ও সাজাতে দুইভাবেই ব্যবহৃত; শিক্ষায় এআই-তে এটি নকশা-সমস্যার মতোই পরিমাপ-সমস্যায় পরিণত হয়েছে।
 - **[[technology-acceptance-model|গ্রহণ-মডেল]]** — অনুভূত উপযোগিতা ও ব্যবহার-সহজতার ফাংশন হিসেবে অভিপ্রায়। এতটাই ব্যাপকভাবে ব্যবহৃত যে ক্ষেত্রের আচরণের বদলে অভিপ্রায়ের ওপর নির্ভরতা একটি স্থায়ী সমালোচনা।
+- **প্রত্যাশা-নিশ্চিতকরণ মডেল (ECM)** — সন্তুষ্টি পূর্ববর্তী প্রত্যাশার নিশ্চিতকরণ, ফলাফল হিসেবে প্রাথমিক গ্রহণ নয়, অনুসরণ। 24 জন স্নাতক নিয়ে এক সেমিস্টারের সমাজবিজ্ঞান-পদ্ধতি পাইলটে 87% Copilot-কে ভালো বা চমৎকার রেট করেন এবং 91% তা সুপারিশ করবেন, কিন্তু কেবল 57% তা ব্যবহার চালিয়ে যেতে চান ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]])। এই ফাঁকটিই মডেলের মূল কথা: একজন সন্তুষ্ট ব্যবহারকারীও ফিরে আসতে অস্বীকার করতে পারেন, তাই সন্তুষ্টি ও অনুসরণ আলাদা আলাদা মাপতে হবে।
 - **[[icap-framework|ICAP]]** — সম্পৃক্ততাকে নিষ্ক্রিয়, সক্রিয়, গঠনমূলক, মিথস্ক্রিয়ামূলক হিসেবে ক্রমবিন্যাস করে; একটি [[student-ai-interaction|এআই-মিথস্ক্রিয়া]] আসলে কোন ধরনকে সুযোগ দেয় তা জিজ্ঞাসার কাজে লাগে।
 - **[[samr-model|SAMR]]** — প্রতিস্থাপন থেকে পুনর্সংজ্ঞায়ন। পরিণতির আখ্যান হিসেবে জনপ্রিয়, পরিমাপ-যন্ত্র হিসেবে দুর্বল।
 - **[[universal-design-for-learning|শিখনের জন্য সর্বজনীন নকশা]]**, **[[inclusive-learning|অন্তর্ভুক্তিমূলক শিখন]]**, এবং **[[accessibility|অভিগম্যতা]]** — কে সেবা পাবে তার নকশা-কাঠামো, এবং প্রতিবন্ধকতা ও [[equity-in-ai-education|সমতা]]-কাজে সবচেয়ে বেশি আহ্বান করা হয় যাদের।
@@ -104,7 +110,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## সম্পর্কিত স্তর
 
-পাশের দুটি পাতা ইচ্ছাকৃতভাবে অন্য কিছু নিয়ে। [[philosophy-of-ai-in-education|শিক্ষায় এআই-এর দর্শন]] নীতিগত ও ধারণাগত প্রশ্ন করে — শিক্ষা *কীসের জন্য*, একটি যন্ত্র কি শিক্ষা দিতে পারে — এবং প্রভাবের আকারের ভবিষ্যদ্বাণী করে না; একটি গবেষণা দার্শনিকভাবে নিষ্পাপ কিন্তু তাত্ত্বিকভাবে সুস্থ হতে পারে, বা উল্টোটা। [[theory-development-aied|তত্ত্ব-উন্নয়ন]] হলো তত্ত্ব গড়া, ধার করা ও পুনর্বিবেচনার মেটা-কার্যকলাপ, যার মধ্যে এই স্থায়ী সমালোচনাও রয়েছে যে [[ai-education|এআইইডি]]-র অনেক কাজ বিদ্যমান তত্ত্ব পরীক্ষা না করে প্রয়োগ করে। এই পাতা তালিকা; তত্ত্ব-উন্নয়ন হলো তালিকা তৈরি ও পুনর্বিবেচনা।
+পাশের দুটি পাতা ইচ্ছাকৃতভাবে অন্য কিছু নিয়ে। [[philosophy-of-ai-in-education|শিক্ষায় এআই-এর দর্শন]] নীতিগত ও ধারণাগত প্রশ্ন করে — শিক্ষা *কীসের জন্য*, একটি যন্ত্র কি শিক্ষা দিতে পারে — এবং প্রভাবের আকারের ভবিষ্যদ্বাণী করে না; একটি গবেষণা দার্শনিকভাবে নিষ্পাপ কিন্তু তাত্ত্বিকভাবে সুস্থ হতে পারে, বা উল্টোটা। [[theory-development-aied|তত্ত্ব-উন্নয়ন]] হলো তত্ত্ব গড়া, ধার করা ও পুনর্বিবেচনার মেটা-কার্যকলাপ, যার মধ্যে এই স্থায়ী সমালোচনাও রয়েছে যে [[ai-education|এআইইডি]]-র অনেক কাজ বিদ্যমান তত্ত্ব পরীক্ষা না করে প্রয়োগ করে। এই পাতা তালিকা; তত্ত্ব-উন্নয়ন হলো তালিকা তৈরি ও পুনর্বিবেচনা। [[learning-environments-as-systems|শিখন-পরিবেশকে ব্যবস্থা হিসেবে]] তৃতীয় প্রতিবেশী। এটি শিখনের তত্ত্ব নয় ও কোনো প্রভাবের আকারের ভবিষ্যদ্বাণী করে না, বরং বিশ্লেষণ-একক নিয়ে একটি অবস্থান: একটি শিখন-পরিবেশ একটি বহু-স্তরবিশিষ্ট ব্যবস্থা যার অংশগুলো পারস্পরিকভাবে ক্রিয়া করে, তাই গবেষণা যে স্তর মাপে তা একটি তাত্ত্বিক সিদ্ধান্ত, নমুনা-নির্বাচনের সুবিধা নয়।
 
 ## প্রশ্ন ব্যবহারিক হলে লেন্স বাছাই
 

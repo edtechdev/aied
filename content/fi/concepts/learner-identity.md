@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Johdanto
 
 Oppijan identiteetti koskee sitä, keneksi oppija ymmärtää itsensä ja keneksi hän on tulossa jollakin alalla — motivoiva ja kehityksellinen konstrukti, joka eroaa kykyuskomuksista kuten [[self-efficacy|itsetehokkuudesta]], joka vastaa kapeampaan kysymykseen *osaanko tämän?* Identiteetti muodostuu osallistumisen, tunnustuksen ja tekijyyden kautta: näkemällä itsensä heijastuneena jollakin alalla ja saamalla tuo minäkäsitys muiden vahvistamaksi. Tekoäly muovaa kaikkia kolmea ehtoa, koska se muuttaa sitä, kuka tekee työn, mikä lasketaan omaksi panokseksi ja tunnustetaanko oppija oman oppimisensa tekijäksi ([[agency]], [[metacognition]]).
+
+Arvosanat ovat sekä suhde että symboli: opiskelijat alkavat nähdä itsensä niiden kautta, joten uudistus, joka jättää todistuksen ennalleen, jättää myös kyseisen suhteen ennalleen ([[nieminen-grading-assessment-reform-2026|Nieminen ym. (2026)]]).
 
 ## Miksi identiteetti merkitsee tekoälykoulutuksessa
 
@@ -60,6 +66,8 @@ Oma tekijyysehtonsa, ei vain uhka tekijyydelle: kun itseä muovaava vuoropuhelu 
 - **Vartioitu käyttöönotto: valikoiva tekoälyn käyttö identiteetin suojana.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] kyseli 484 opiskelijalta yhdessä australialaisessa yliopistossa ja havaitsi, että paremmin menestyvät opiskelijat raportoivat *vähemmän* aktiivista [[generative-ai|generatiivisen tekoälyn]] käyttöä, vähemmän myönteistä affektia tekoälyä kohtaan, pienemmän [[self-report-measures|koetun oppimisvaikutuksen]] ja vähemmän tekoälyyn liittyvää irtautumista; vahvimmat yhteydet olivat rho = -0.395 koetussa oppimisvaikutuksessa ja rho = -0.359 myönteisessä affektissa. Heidän avoimet vastauksensa kuvasivat käyttöä, joka oli valikoivaa (selventäminen, tiivistäminen, työnkulun tuki), verifioitua ja alistettu oman harkinnan alle, ja kohdetason tulokset osoittivat suurempaa yksimielisyyttä siitä, että tekoälyyn nojautuminen haittaa [[critical-thinking|kriittistä ajattelua]] ja itsenäistä [[problem-solving|ongelmanratkaisua]]. Kirjoittajat lukevat tämän identiteettityöksi: opiskelijoille, joiden käsitys itsestään onnistuneina oppijoina lepää omalla vaivannäöllä ja harkinnalla, tekoälyn käytön rajaaminen puolustaa sitä [[agency|episteemistä toimijuutta]], josta identiteetti riippuu — mikä tarkoittaa myös, ettei kuvio ole teknofobiaa eikä vähäistä sitoutumista.
 - **Ilmaistu tarkoitus ei välttämättä ohjaa tekoälypäätöstä.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] haastattelivat 14 perusopiskelijaa ja koodasivat jokaisen haastattelun suhteesta opiskelijan [[self-determination-theory|tarkoitukseen]] — henkilökohtaisesti merkitykselliseen aikomukseen antaa jotakin itsen ulkopuolelle — ja heidän tekoälyvalintoihinsa. Vain osa teki yhteyden: yksi kieltäytyi tekoälystä, koska sen ympäristölliset ja inhimilliset kustannukset olivat ristiriidassa hänen tarkoituksensa kanssa, ja kolme antoi tulevan ammatillisen identiteetin muovata valintojaan ("edistää sitä psykologia, joka minusta vielä jonakin päivänä tulee"). Muut, joilla oli yhtä selkeä tarkoituksen tunne, eivät tehneet tällaista yhteyttä, vaan kuvasivat tarkoitusta ja tekoälyä "ikään kuin erillisinä", joten identiteetin omaaminen ei ollut sama asia kuin sen hyödyntäminen. Artikkeli erottaa myös syyt, joita opiskelijat antavat pitääkseen työn omanaan — taidon kehittyminen, [[evaluative-judgment|omistajuus ja ylpeys]] sekä moraalinen vastustus — ja ne syntyvät eri mekanismeista eikä niitä pitäisi yhdistää yhdeksi motiiviksi.
 
+- **Kyvykkyys voi saapua ennen kuulumista.** 73 päivän autoetnografia bioinformatiikan opettajasta, joka rakensi peliä vieraalla alalla, osoitti, että [[generative-ai|GenAI]] tarjosi kyvykkyyden mutta ei identiteettiä: kuuluminen tuli käytäntöyhteisöjen osallistumisen ja toistuvan merkityksellistämisen kautta, ja sen saavuttaminen tapahtui inhimillisellä tahdilla ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Kieltäytyminen on myös identiteettityötä: viidellä vähemmistötaustaisella toisen asteen oppisopijalla ei-käyttö väitti kontrollia, noudatti institutionaalisia sääntöjä tai viesti episteemisiä arvoja, kun taas neutraalit tekoälyn vastaukset synnyttivät "kulttuurisen lattauden", joka jätti heidän kokemuksensa tunnistamatta ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 ## Suhde oppijan toimijuuteen
 
 Oppijan toimijuus ja oppijan identiteetti ovat läheisesti yhteydessä mutta erillisiä konstrukteja, jotka on helppo sekoittaa — ja molemmat ovat keskeisiä sille, miten tekoäly vaikuttaa oppimiseen.

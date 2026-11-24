@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T06:59:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Uvod
 
-### Računalno mišljenje u razredu doba umjetne inteligencije
+## Računalno mišljenje u razredu doba umjetne inteligencije
 
 Povezani članci baze znanja konvergiraju prema središnjoj tvrdnji: računalno mišljenje (RM) konceptualna je podloga koja je učenicima potrebna za kritičko bavljenje umjetnom inteligencijom, a ujedno je i vještina koju dobro osmišljeno UI-potpomognuto učenje najizravnije produbljuje. U nastavku je dokaze razvrstano u četiri teme utemeljene na povezanim člancima.
 
@@ -53,7 +57,23 @@ Trajne kompetencije mijenjaju se kada se implementacija automatizira: izvješće
 
 - **Validirani instrument pokazuje gdje je RM najteži.** Test računalnog mišljenja od 34 čestice izrađen uz dizajn usmjeren na dokaze i validiran teorijom odgovora na česticu na 461 studentu UI programiranja koncentrirao je težinu na prikaz podataka, slijed logičkih operatora i strukture petlji, a ne ravnomjerno po nastavnom planu ([[zhang-ct-ai-training-test-2026|Zhang i Zhang (2026.)]]).
 
-### Računalno mišljenje i pomak s UI potrošača na proizvođače, stvaratelje i dizajnere
+- Izbor mjera mijenja presudu: unosi o računalnom i kritičkom mišljenju dosegnuli su nespojive ili mješovite zaključke u 13 od 23 para istih konstrukata, pa se anketa o RM-u temeljena na samoprocjeni i mjera temeljena na zadatku često ne podudaraju ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan i sur. (2026.)]]).
+
+- Računalno mišljenje mjeri se i kao dispozicija: u igranoj studiji petog razreda koja je trajala tri tjedna, prilagođene samoprijavljene sklonosti RM-a bile su naklonjene GenAI razredu, 4,325 nasuprot 4,037 (p = 0,046, djelomični eta-kvadrat = 0,052, n = 78). Test algoritamskog znanja nije ih razdvojio (80,7 nasuprot 74,9), pa su mjere sklonosti i znanja pratile različite konstrukte ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou i sur., 2026]]).
+
+Profili podvještina kompliciraju pojedinačan rezultat RM-a koji prikazuje pre-post dizajn. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij i Khlaisang (2026)]] proveli su 28 tajlandskih studenata izvan računarstva kroz osam tjedana sesija od tri sata koje su spajale petokorak [[design-thinking|ciklus dizajnerskog mišljenja]] s izgradnjom aplikacija niskim kodom, ocjenjujući projektni rad na trostupanjskoj [[rubrics|rubrici]]. Prosječno računalno mišljenje poraslo je s 1,13 u prvoj sesiji na 1,80, a zatim na 2,49, s algoritamskim mišljenjem kao najjačom granom na 2,08 i putanjom od 1,46 preko 1,93 do 2,86. Logičko mišljenje prosječno je iznosilo 1,54 i jedva se pomaknulo između prve dvije sesije, s 1,04 na 1,29, prije nego što je trećom dosegnulo 2,29 — podsjetnik da dobici u jednoj komponenti ne podrazumijevaju da su i ostale slijedile.
+
+## Sistemsko mišljenje kao praksa RM-a
+
+Sistemsko mišljenje jedna je od četiri domene taksonomije računalnog mišljenja za matematiku i znanost koju su razvili Weintrop i sur., uz prakse podataka, prakse računalnog rješavanja problema te modeliranje i simuliranje. Njezina je definicija precizna: **sposobnost određivanja granica sustava i sinteze interakcija na mikrorazini u ponašanje na makrorazini**. To je kognitivna sposobnost na razini učenika — način rasuđivanja o sustavu — i razlikuje se od stajališta na razini okruženja koje učilište tretira kao sustav ([[learning-environments-as-systems|učilišta kao sustavi]]).
+
+To je također domena u kojoj procjena prva pada. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch i Rebello (2026)]] kodirali su pisane odgovore 936 studenata u uvodnom kolegiju računalne fizike prema taksonomiji, kalibrirajući ljudsku osnovnu razinu na 10 studenata (60 odgovora, Fleissov κ = 0,53), a zatim kodirajući 50 studenata (300 odgovora) većinskim glasanjem. Studenti su najviše napredovali u praksama podataka (p < 0,001, d = 1,03), s umjerenim dobitkom u računalnom rješavanju problema (d = 0,52) i sistemskom mišljenju (d = 0,45). No sistemsko mišljenje bilo je najmanje pouzdan konstrukt i za ljude i za modele: ljudska suglasnost κ = 0,51 i LLM κ = 0,48, nasuprot κ = 0,90 za prakse podataka i κ = 0,78 za modeliranje i simuliranje. Autori čitaju da težina proizlazi iz složenosti konstrukta, a ne iz nedostatka modela — višekomponentni konstrukt koji od studenta traži da identificira komponente *i* objasni njihove interakcije i posljedice teži je za kodiranje od dobro definiranoga. Modeliranje i simuliranje pokazalo je d = 0,00 iz nevezanog razloga, efektom stropa: prosjek prije nastave bio je već 1,62 od 2, pa je ta čestica mjerila početno znanje, a ne rast.
+
+Praktična implikacija je problem oblikovanja rubrika, a ne problem modela. Njihova je preporuka da se rubrik prepiše tako da se prepoznavanje komponenti sustava boduje odvojeno od objašnjavanja kako te komponente djeluju međusobno, i da se niska automatizirana slaganost na integriranom konstruktu čita kao signal da se instrument revidira, a ne da se automatizacija napušta. To je isti pomak do kojeg istraživanje [[rubrics|rubrika]] dolazi i sa strane bodovanja: instrument, a ne model, ono je što kalibrira.
+
+Konstrukt putuje izvan fizike. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz i Castro Samayoa (2026)]] imenuju sistemsko mišljenje kao jednu od sposobnosti koje Aoun naziva *otporima na robote* — kritičko mišljenje, sistemsko mišljenje i kulturna agilnost — one koje praksa gradi, a delegiranje ne. [[huang-ai-literacy-vocational-problem-solving-2026|Huang i sur. (2026)]] određuju vlastiti konstrukt „sustavnog mišljenja“ u odnosu na njega, tretirajući svoj kao usku četverodimenzijalnu mjeru (strukturiranje, rasuđivanje, prioritiziranje, integriranje) i izričito odbijajući nazvati ga sistemskim mišljenjem u širem smislu. A [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea i Valencia-Silva (2026)]] upozoravaju da angažman nije sistemsko mišljenje — razlika koja je važna kad se rubrik rabi za potvrđivanje kompetencije koju nije napisan da mjeri.
+
+## Računalno mišljenje i pomak s UI potrošača na proizvođače, stvaratelje i dizajnere
 
 Središnji cilj RM-a u doba umjetne inteligencije je pomaknuti učenike i nastavnike s *pasivne konzumacije* UI rezultata prema *stvaranju, izgradnji i oblikovanju* s umjetnom inteligencijom i za nju — program koji RM usklađuje s konstrukcionističkim učenjem (učenjem stvaranjem). Povezani članci baze znanja sve izričitije iskazuju taj zaokret prema proizvođaču, stvaratelju i dizajneru. [[ai-writes-code-student-writes-model-2026|Istraživanje autorstva modela]] preokviruje učenje izgradnjom s genAI-om kao mjerljiv proces „autorstva modela“ — studenti stvaraju, otklanjaju pogreške i iteriraju na UI modelima, umjesto da samo konzumiraju UI-generirani kod ili odgovore. [[code-to-learn-genai-artifact-construction-2026|Okvir CtL-GenAI]] to operacionalizira kao [[constructivist|konstrukcionizam]] za doba genAI-a, tretirajući artefakte koje studenti grade s umjetnom inteligencijom kao motor razvoja RM-a. [[computational-thinking-ai-agent-creation|RM kroz stvaranje UI agenata]] pokazuje da oblikovanje, a ne samo upotreba UI agenata, izravno uvježbava razlaganje, apstrakciju i algoritamsko rasuđivanje.
 
@@ -63,11 +83,11 @@ Praktični zaključak je da poučavanje RM-a treba osmisliti tako da učenici *s
 
 Ponovna upotreba tuđih modela pripada proizvođačkom stavu: implementacija objavljenog UI modela — odabir, instalacija, pokretanje i validacija — može se poučavati kao naučiva, strukturirana vještina s rezervnim putem za svaki predviđeni neuspjeh, a tri studenta prijediplomskog studija [[chemistry-education|kemije]] bez programerskog iskustva reproducirala su i proširila model predviđanja enzim–supstrat u roku od četiri mjeseca ([[praise-non-programmer-ai-model-implementation-2026|Achterweust i sur. (2026.)]]).
 
-### Praktične smjernice
+## Praktične smjernice
 
 Za edukatore je dosljedna poruka da se RM razvija kroz *eksplicitno, potpomognuto i vidljivo* bavljenje, a ne pasivnom UI upotrebom. Spojite robotiku s eksplicitnim preslikavanjem koncepata RM-a na kurikulum; koristite LLM-ove za [[simulation|simulaciju]], upravljanje prirodnim jezikom i skalabilnu procjenu rasta RM-a, dok ljudsku prosudbu čuvate za konstrukte poput sistemskog mišljenja; i redizajnirajte procjene tako da naglašavaju vrednovanje i dijagnostiku UI rezultata umjesto puke generacije. Kakav god bio kontekst — neumrežena igra u ranom djetinjstvu, roboti u srednjoškolskom [[stem-education|STEM obrazovanju]] ili virtualni tutori u [[higher-ed|visokom obrazovanju]] — strukturirajte aktivnost tako da učenici moraju rasuđivati o razlaganju, uzorku, apstrakciji i algoritmu, umjesto da primaju gotova rješenja.
 
-### Veze s povezanim konceptima
+## Veze s povezanim konceptima
 
 Računalno mišljenje zajednički je kognitivni temelj ispod [[ai-literacy|pismenosti o umjetnoj inteligenciji]] i [[critical-thinking|kritičkog mišljenja]], kurikularna jezgra [[cs-education|računalnog obrazovanja]] i [[k-12|K-12]] informatike, i konceptualni cilj kojemu [[educational-robotics|obrazovna robotika]], [[game-based-learning|učenje temeljeno na igri]] i [[project-based-learning|učenje utemeljeno na projektima]] najbolje služe kada su tako osmišljeni. Produbljuju ga [[llm|veliki jezični modeli]] i [[generative-ai|generativna umjetna inteligencija]] kada se koriste kao alati postupne potpore, a to je vještina koju taksonomije učeničkih zabluda i procjene osjetljive na RM nastoje mjeriti. Nastavnici ga razvijaju kroz [[teacher-education|obrazovanje nastavnika]] i [[professional-training|profesionalno usavršavanje]], a prenosi se na područja uključujući [[physics-education|fiziku]] i [[stem-education|STEM]] općenito.
 
