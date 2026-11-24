@@ -60,7 +60,7 @@ For practice, the implication is that training should target uncertainty managem
 
 ## Limitations
 
-- The sample is 38 participants in remote, 30-minute sessions, so the workflows reflect short tasks rather than sustained development over weeks.
+- The sample is 15 pre-service teachers, 13 in-service teachers, and 10 expert developers in remote, 30-minute sessions, so the workflows reflect short tasks rather than sustained development over weeks.
 - Think-aloud protocols capture stated reasoning, which may differ from unobserved practice, and the presence of a researcher can shape what participants attempt.
 - Expert participants are coding experts rather than educational-technology professionals, so the technical comparison does not represent the developers who actually build classroom tools.
 - The study is qualitative and descriptive; it identifies patterns and proposes a conceptualization but does not test whether the proposed supports improve reliability or learning.

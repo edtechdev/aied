@@ -1,6 +1,6 @@
 ---
 title: "Play and learn: gamified feedback for ultrasound-guided catheter insertion training in virtual reality"
-created: "2026-11-24T10:15:00-05:00"
+created: "2026-11-24T09:50:00-05:00"
 updated: "2026-11-24T10:15:00-05:00"
 type: article
 authors: ["Mohammad Raihanul Bashar", "Alejandro Olivares Hernandez", "Yahia Zine", "Anil Ufuk Batmaz"]
@@ -26,15 +26,15 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Bashar, Olivares Hernandez, Zine, and Batmaz (2026) evaluate a gamified [[virtual-and-augmented-reality|VR]] simulator for ultrasound-guided peripheral IV catheter insertion, built around goal-aligned visual and auditory [[feedback]] such as progress indicators, alignment cues, and rewards. With novices (N = 24), the gamified condition completed insertions faster than the standard condition (M = 46.57 versus 57.41), reported lower workload on the NASA-TLX, and rated the system higher on usability and on the Player Experience Inventory; group differences emerged only at later levels and at post-test. With experienced clinicians (N = 12), the gamified condition was again faster (M = 45 versus 75) with lower mental, physical, temporal, and frustration demands. The authors argue that gamification functioned as [[formative-assessment|formative feedback]] rather than superficial motivation — instructional [[scaffolding]] for novices and cognitive optimization for experts — without compromising the clinical authenticity of the task.
+> **Synthesis:** Bashar, Olivares Hernandez, Zine, and Batmaz (2026) evaluate a gamified [[virtual-and-augmented-reality|VR]] simulator for ultrasound-guided peripheral IV catheter insertion, built around goal-aligned visual and auditory [[feedback]] such as progress indicators, alignment cues, and rewards. With 24 novices, the gamified condition completed insertions faster than the standard condition (46.57 seconds versus 57.41), reported lower workload on the NASA-TLX, and rated the system higher on usability and on the Player Experience Inventory. Group differences emerged only at later levels and at post-test. With 12 experienced clinicians, the gamified condition was again faster (45 seconds versus 75) with lower mental, physical, temporal, and frustration demands. The authors argue that gamification functioned as [[formative-assessment|formative feedback]] rather than superficial motivation, serving as instructional [[scaffolding]] for novices and cognitive optimization for experts, without compromising the clinical authenticity of the task.
 
 *Two within-subjects studies comparing a gamified and a standard VR simulator: 24 novices (power analysis d = 0.5, power = .8, α = .05) recruited by snowball sampling, and 12 experienced clinicians. Outcomes included insertion time, System Usability Scale, NASA-TLX, Player Experience Inventory, and post-session interviews.*
 
 ## Key Findings
 
-- **Novices inserted faster with gamification.** A mixed ANOVA found a main effect of condition (F(1,22) = 6.79, p < .001, η²p = .236), with gamified mean time 46.57 (SE 2.94) against 57.41 (SE 2.94) for standard.
-- **The advantage appeared late, not immediately.** The condition × level interaction was significant (F(4,88) = 16.34, p < .001, η²p = .426), with group differences at Level 3 (p < .031) and post-level (p < .001) but not earlier.
-- **Experts were faster too.** Clinicians in the gamified condition averaged 45 against 75 in the standard condition (F(1,10) = 11.21, p < .007, η²p = .528), with the interaction again significant.
+- **Novices inserted faster with gamification.** Gamified sessions averaged 46.57 seconds against 57.41 for the standard condition.
+- **The advantage appeared late, not immediately.** Groups separated at Level 3 and at post-level, but not at the earlier levels.
+- **Experts were faster too.** Clinicians in the gamified condition averaged 45 seconds against 75 in the standard condition, and the advantage emerged later rather than right away.
 - **Workload and usability favored gamification.** Novices reported lower effort, frustration, and temporal demand on the NASA-TLX and rated the system higher on appeal, challenge, goal clarity, enjoyment, immersion, and mastery; experts showed the same pattern on frustration, mental, physical, and temporal demand.
 - **Goal clarity showed the largest novice gain.** Clarity of goals produced the strongest single difference in the Player Experience Inventory.
 - **Gamification did not trade away realism.** The authors report that benefits did not compromise clinical authenticity, a common concern in medical gamification, because cues were aligned with task goals rather than added as decoration.

@@ -33,8 +33,8 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Practice shifted toward the AI-prompt signature.** Relative to the pre-AI cohort, the AI-era cohort shows higher single-shot acceptances (β = 0.0586, SE 0.0063), fewer median attempts (−0.3271, SE 0.0374, about one-sixth of the 1.9-attempt baseline), and fewer quick retries (−0.0190, SE 0.0041), all p < .001.
-- **The signature predicted weaker growth only in the unscreened pool.** Among non-rostered users, a one-standard-deviation stronger signature was associated with about eighteen points less rating gain, roughly 6% of the 300-point mean post-ChatGPT gain; the pooled interaction was θ₁ = −9.82 (SE 4.98, p = .048).
+- **Practice shifted toward the AI-prompt signature.** Relative to the pre-AI cohort, the AI-era cohort shows higher single-shot acceptances, median attempts about one-sixth below the 1.9-attempt baseline, and fewer quick retries, with every shift statistically strong.
+- **The signature predicted weaker growth only in the unscreened pool.** Among non-rostered users, a one-standard-deviation stronger signature was associated with about eighteen points less rating gain, roughly 6% of the 300-point mean post-ChatGPT gain, and the pooled interaction crossed the conventional significance threshold.
 - **The screened pool showed no such penalty.** For roster-linked users the estimate was a failure to reject rather than a precise zero, which the author reads as screening admitting complement-users and excluding substitute-users.
 - **AI-era contestants improved slightly with larger shifts.** Among AI-era entrants who reached ICPC, a larger within-user shift went with a small improvement in non-AI performance.
 - **The cohort gradient is descriptive, not causal.** Parallel pre-trends failed, and at matched career stage the transition and AI-era cohorts were statistically indistinguishable.

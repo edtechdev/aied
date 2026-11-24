@@ -1,6 +1,6 @@
 ---
 title: "Measuring university students' satisfaction with traditional search engines and generative AI tools as information sources"
-created: "2026-11-24T10:00:00-05:00"
+created: "2026-11-24T09:50:00-05:00"
 updated: "2026-11-24T10:00:00-05:00"
 type: article
 authors: ["Brady D. Lund", "Scott J. Warren", "Zoe Abbie Teel"]
@@ -27,15 +27,15 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Lund, Warren, and Teel (2026) survey 236 U.S. university students about their satisfaction with [[generative-ai|generative AI tools]] and with traditional search engines as academic information sources. Satisfaction with search engines was clearly higher (mean 3.12 on a 0–4 scale) than with AI (mean 2.11), and the two were negatively correlated (r = −.22). K-means clustering separated a group heavily satisfied with search engines but dissatisfied with AI (41% of respondents) from a group moderately to highly satisfied with both (59%). Frequency of use predicted satisfaction, most strongly for AI (r = .58 between monthly use and AI satisfaction), and international and undergraduate students reported significantly higher AI satisfaction than domestic and graduate students. The authors read this as evidence that AI tools are settling into a complementary role in students' [[information-and-media-literacy|information seeking]] rather than replacing search engines.
+> **Synthesis:** Lund, Warren, and Teel (2026) survey 236 U.S. university students about their satisfaction with [[generative-ai|generative AI tools]] and with traditional search engines as academic information sources. Satisfaction with search engines was clearly higher (mean 3.12 on a 0–4 scale) than with AI (mean 2.11), and the two were negatively correlated, a weak negative relationship. K-means clustering separated a group heavily satisfied with search engines but dissatisfied with AI (41% of respondents) from a group moderately to highly satisfied with both (59%). Frequency of use predicted satisfaction, most strongly for AI, with a strong relationship between monthly use and AI satisfaction, and international and undergraduate students reported significantly higher AI satisfaction than domestic and graduate students. The authors read this as evidence that AI tools are settling into a complementary role in students' [[information-and-media-literacy|information seeking]] rather than replacing search engines.
 
 *Electronic survey distributed through Qualtrics to students at U.S. universities between August and September 2025, with 236 valid responses. Principal components analysis of ten satisfaction items, k-means cluster analysis, and multiple regression on demographic predictors and prior-month use frequency.*
 
 ## Key Findings
 
 - **Search engines beat AI on satisfaction.** Mean satisfaction was 3.12 (SD 0.80, median 3.25) for search engines against 2.11 (SD 1.00, median 2.17) for AI on a 0–4 scale — "often satisfied" versus "sometimes satisfied".
-- **The two satisfactions move in opposite directions.** The correlation between satisfaction with search engines and satisfaction with AI was r = −.22 (p < .01).
-- **Use frequency tracks satisfaction, especially for AI.** Monthly AI use correlated with AI satisfaction at r = .58 (p < .01); monthly search-engine use correlated with search-engine satisfaction at r = .33 (p < .01).
+- **The two satisfactions move in opposite directions.** Students who were more satisfied with search engines tended to be less satisfied with AI, a weak negative relationship that was statistically reliable.
+- **Use frequency tracks satisfaction, especially for AI.** Monthly AI use showed a strong positive relationship with AI satisfaction, and monthly search-engine use showed a moderate positive relationship with search-engine satisfaction; both relationships were statistically reliable.
 - **Two student groups emerged.** Cluster 1 (41% of cases) reported low AI satisfaction (mean 1.08) and high search-engine satisfaction (3.48); cluster 2 (59%) reported moderate-to-high satisfaction with both (AI 2.82, search engines 2.88).
 - **The dissatisfied-AI cluster skews domestic and graduate.** It contained 60.4% of domestic students but 17.6% of international students, and 64.7% of graduate students but 23.2% of undergraduates.
 - **Satisfaction loaded as single constructs.** Principal components analysis retained one component each for search engines (eigenvalue 2.84, 52.66% of variance) and AI (eigenvalue 3.41, 68.27%), with loadings from .622 to .855.

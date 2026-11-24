@@ -1,6 +1,6 @@
 ---
 title: "AdvisorX: a human-in-the-loop AI-powered chatbot to support academic advising in higher education"
-created: "2026-11-24T10:20:00-05:00"
+created: "2026-11-24T09:50:00-05:00"
 updated: "2026-11-24T10:20:00-05:00"
 type: article
 authors: ["Wendan Jiang", "Shiyuan Wang", "Hiba Eltigani", "Rukhshan Haroon", "Abdullah Bin Faisal", "Fahad Dogar"]
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Jiang and colleagues (2026) introduce AdvisorX, a [[llm|large-language-model]] chatbot aimed at the advisor rather than the student, automating information collection, policy lookup, and response drafting while keeping [[human-in-the-loop-ai|advisors in the loop]]. In a hands-on user study with eight advisors (four staff, four faculty) in a computer science department, most rated the system useful and half said their initial concerns eased after use. Accuracy did not determine willingness to delegate: for direct-answer questions, delegation was high (M = 4.12 on a 5-point scale), but for an indirect question involving possible course failure it fell to M = 2.88, with advisors preferring to respond personally because the situation called for emotional support rather than a more accurate draft. The study argues that [[student-support-and-success|academic advising]] is relational as well as informational, and that [[hallucination-risk|reliability concerns]] are not the only barrier to delegation.
+> **Synthesis:** Jiang and colleagues (2026) introduce AdvisorX, a [[llm|large-language-model]] chatbot aimed at the advisor rather than the student, automating information collection, policy lookup, and response drafting while keeping [[human-in-the-loop-ai|advisors in the loop]]. In a hands-on user study with eight advisors (four staff, four faculty) in a computer science department, most rated the system useful and half said their initial concerns eased after use. Accuracy did not determine willingness to delegate. For direct-answer questions, delegation was high, averaging 4.12 on a 5-point scale. For an indirect question involving possible course failure, delegation fell to 2.88, with advisors preferring to respond personally because the situation called for emotional support rather than a more accurate draft. The study argues that [[student-support-and-success|academic advising]] is relational as well as informational, and that [[hallucination-risk|reliability concerns]] are not the only barrier to delegation.
 
 *Hands-on user study with eight advisors from a university CS department, using approximately 60-minute semi-structured interviews with recorded audio and screen interaction. Participants reviewed system-generated drafts across four question types and rated accuracy, tone, and willingness to delegate on 5-point scales; analysis was descriptive given the sample size.*
 
@@ -36,8 +36,8 @@ verified: [citation, numbers]
 
 - **Initial attitudes were cautious.** Seven of eight advisors had used generative AI chatbots before, yet initial ratings of GenAI's usefulness in advising averaged 3.25 (SD 1.39), with five of eight at or below neutral.
 - **Hands-on use improved the picture.** Five of eight rated AdvisorX's usefulness as 4 out of 5 and the remaining three as neutral; none gave a negative rating, and half explicitly said their prior concerns had eased.
-- **Direct-answer questions were trusted.** Accuracy for direct-answer queries was rated highest and most consistently (M = 4.38, SD 0.52), with every advisor judging responses accurate.
-- **Emotionally charged cases were not delegated.** Delegation for the scenario involving possible course failure was lowest (M = 2.88, SD 1.36), and style and tone ratings spread widest there (M = 3.50, SD 1.51); half the advisors found the tone inadequate.
+- **Direct-answer questions were trusted.** Accuracy for direct-answer queries was rated highest and most consistently, averaging 4.38 on the five-point scale with little variation, and every advisor judged responses accurate.
+- **Emotionally charged cases were not delegated.** Delegation for the scenario involving possible course failure was lowest, averaging 2.88 on the five-point scale, and style and tone ratings spread widest there, averaging 3.50; half the advisors found the tone inadequate.
 - **No-answer and student-specific cases were uneven.** Delegation was 3.88 (SD 0.83) when information was unavailable and 3.62 (SD 1.51) for student-specific queries, the widest spread of the four types.
 - **Verification cost matters.** Advisors questioned whether reviewing every response reduced workload, and one argued that if verification is always required, the system "didn't help me at all".
 

@@ -1,6 +1,6 @@
 ---
 title: "Operational gains without detectable critical change: measurement lessons from a pilot study with a generative artificial intelligence assistant in higher education"
-created: "2026-11-24T10:25:00-05:00"
+created: "2026-11-24T09:50:00-05:00"
 updated: "2026-11-24T10:25:00-05:00"
 type: article
 authors: ["Anonymous"]
@@ -28,17 +28,17 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** This anonymized pilot study (2026) follows first-year students at a Chilean university through a Critical Thinking course in which a ChatGPT-based personalized assistant supported independent work, and reports how a [[self-report-measures|self-perception questionnaire]] behaved. Operational digital literacy, measured by a four-action checklist, rose at the cohort level (+0.37 actions, p = .006; mean 3.03 to 3.40), with the artificial-intelligence action reaching 100% endorsement after seven students added it. Critical digital literacy, measured by nine Likert items, showed no detectable change (+0.36 on a 3–15 core, 95% CI [−0.24, 0.96]). Scores at the two administrations were nearly uncorrelated, so the results are read as cohort-level shifts rather than individual learning gains, and students who did not return had lower initial scores. The contribution is methodological: a demonstration that an intervention can show a gain on one literacy measure while the instrument intended to capture deeper change remains unmoved.
+> **Synthesis:** This anonymized pilot study (2026) follows first-year students at a Chilean university through a Critical Thinking course in which a ChatGPT-based personalized assistant supported independent work, and reports how a [[self-report-measures|self-perception questionnaire]] behaved. Operational digital literacy, measured by a four-action checklist, rose at the cohort level by about 0.37 actions (mean 3.03 to 3.40), with the artificial-intelligence action reaching 100% endorsement after seven students added it. Critical digital literacy, measured by nine Likert items, showed no detectable change, moving just 0.36 points on a 3–15 core with an imprecise estimate that included zero. Scores at the two administrations were nearly uncorrelated, so the results are read as cohort-level shifts rather than individual learning gains, and students who did not return had lower initial scores. The contribution is methodological: a demonstration that an intervention can show a gain on one literacy measure while the instrument intended to capture deeper change remains unmoved.
 
 *Pilot pre–post design in a first-year Critical Thinking course at Universidad de los Andes, Chile. A self-perception questionnaire was administered in April and June 2025 to 135 and 93 students respectively, yielding 92 matched pairs. Analyses included exact McNemar tests, paired Wilcoxon signed-rank tests, Wilson confidence intervals, and sensitivity checks.*
 
 ## Key Findings
 
-- **Operational literacy rose.** The four-action index increased from a mean of 3.03 to 3.40, a shift of +0.37 actions (95% CI [+0.10, +0.64]; Wilcoxon p = .006; dz = 0.29), driven by more students reporting they could search and share information online, manage cloud documents, and use AI tools.
+- **Operational literacy rose.** The four-action index increased from a mean of 3.03 to 3.40, a shift of about 0.37 actions with a plausible range from roughly 0.10 to 0.64, driven by more students reporting they could search and share information online, manage cloud documents, and use AI tools.
 - **The AI action reached everyone.** Endorsement of using artificial intelligence tools reached 100%: seven students added it between administrations and none withdrew it.
-- **Critical literacy did not move detectably.** The three-item information-search self-efficacy core shifted from 11.79 to 12.15 on a 3–15 range (+0.36; 95% CI [−0.24, +0.96]; Wilcoxon p = .150; dz = 0.12), and alternative composites ranged from dz = 0.03 to 0.08.
-- **One subdimension moved in the same direction but not robustly.** Collaboration through digital technologies rose by 0.25 scale points (unadjusted p = .020; Holm-adjusted p = .120) and moved the same way in every sensitivity cell.
-- **Test–retest stability was essentially absent.** Correlations across administrations were +.09 for the core, −.02 for the nine-item total, −.13 for the operational index, and a mean per-item ρ of .00; one item held at 52% endorsement at both time points while 48 of 92 students changed their answer, 24 in each direction.
+- **Critical literacy did not move detectably.** The three-item information-search self-efficacy core shifted from 11.79 to 12.15 on a 3–15 range, a 0.36-point move whose plausible range ran from decline to improvement, and alternative composites moved little.
+- **One subdimension moved in the same direction but not robustly.** Collaboration through digital technologies rose by 0.25 scale points, a difference detectable before adjustment for multiple comparisons but not after, and it moved the same way in every sensitivity cell.
+- **Test–retest stability was essentially absent.** Correlations across administrations were near zero for the core, the nine-item total, and the operational index, averaging zero per item; one item held at 52% endorsement at both time points while 48 of 92 students changed their answer, 24 in each direction.
 - **Attrition was structural.** Every medical student returned while all 43 non-returners came from four of the other seven disciplines, raising medicine's share from 49% of April respondents to 72% of the paired sample, and non-returners had lower initial scores on both dimensions.
 
 ## What the two literacy measures captured

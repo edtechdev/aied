@@ -1,6 +1,6 @@
 ---
 title: "Reducing authorship attribution risk in student texts through style-conditioned rewriting"
-created: "2026-11-24T10:10:00-05:00"
+created: "2026-11-24T09:40:00-05:00"
 updated: "2026-11-24T10:20:00-05:00"
 type: article
 authors: ["Li Siyan", "Zhen Xu", "Jiayi Chen", "Shopnil Shahriar", "Alessandro Sayad", "Xuanming Zhang", "Renzhe Yu", "Zhou Yu"]
@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Li and colleagues (2026) tackle a practical obstacle in [[educational-nlp|educational NLP]]: real student writing cannot be shared because [[privacy|privacy regulations]] and institutional review boards restrict release even when no personally identifying information remains. Their system, SEAMS, rewrites each student forum post into a less identifiable version that keeps the stylistic and semantic properties needed for downstream analysis. It decomposes a post into content, structure, and style conditioning channels and aggregates over student-disjoint exemplar partitions within style clusters, extending differentially private in-context learning with cluster-restricted retrieval. Across three datasets — a proprietary corpus, Stanford MOOC posts, and Stack Exchange — SEAMS preserved downstream task performance to within 1.8 points of training on original posts, was judged closer to the original author's style than every baseline by human raters, and reduced authorship attribution risk against three attackers, with the largest reduction against the strongest attacker (LUAR, p < .001). The work is a [[generative-ai|privacy-preserving data]] pipeline rather than a study of learning.
+> **Synthesis:** Li and colleagues (2026) tackle a practical obstacle in [[educational-nlp|educational NLP]]: real student writing cannot be shared because [[privacy|privacy regulations]] and institutional review boards restrict release even when no personally identifying information remains. Their system, SEAMS, rewrites each student forum post into a less identifiable version that keeps the stylistic and semantic properties needed for downstream analysis. It decomposes a post into content, structure, and style conditioning channels and aggregates over student-disjoint exemplar partitions within style clusters, extending differentially private in-context learning with cluster-restricted retrieval. Across three datasets (a proprietary corpus, Stanford MOOC posts, and Stack Exchange), SEAMS preserved downstream task performance to within 1.8 points of training on original posts. Human raters judged it closer to the original author's style than every baseline, and it reduced authorship attribution risk against three attackers, most strongly against the strongest attacker, LUAR, where the advantage was statistically reliable. The work is a [[generative-ai|privacy-preserving data]] pipeline rather than a study of learning.
 
 *System evaluation across three educational NLP datasets, five random seeds, 1,000 validation and 1,000 test posts sampled per dataset, with style fidelity and semantic similarity metrics, DistilBERT downstream classifiers, a Prolific human judgment study (24 completers, 3–5 ratings per item), and three authorship-attack models.*
 
@@ -35,7 +35,7 @@ verified: [citation, numbers]
 
 - **Rewriting preserved downstream performance closely.** Classifiers trained on SEAMS rewrites lost at most 1.8 points relative to training on originals (proprietary), −0.3 on Stanford MOOC, and −0.1 on Stack Exchange.
 - **Human raters preferred SEAMS on style.** Against three baselines, annotators judged SEAMS closer to the original author's style 71.3% (±6.2) of the time versus zero-shot content-and-structure, 66.5% (±6.6) versus cluster summary, and 67.1% (±5.7) versus DP-Prompt; the advantage persisted without boilerplate items.
-- **Attribution risk fell across attackers and datasets.** SEAMS reduced the mean reciprocal rank ratio relative to real posts for all three attackers on all three datasets, with the largest reduction against LUAR (paired t-test over seeds, p < .001).
+- **Attribution risk fell across attackers and datasets.** SEAMS reduced the mean reciprocal rank ratio relative to real posts for all three attackers on all three datasets, with the largest reduction against LUAR; the advantage held across random seeds.
 - **Cluster aggregation added protection.** SEAMS was below its single-partition variant SEAMS-1 on six of nine attacker–dataset pairs.
 - **Style fidelity was the hard part.** Content and structure were reliably preserved; maintaining an authentic student register remained the primary bottleneck, which is why style-conditioned exemplars mattered.
 - **The pipeline is more expensive than it first appears.** SEAMS costs five times as many LLM calls as SEAMS-1 but only about 17% more total tokens per post, since each call carries a shorter prompt.
