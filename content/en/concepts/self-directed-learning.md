@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-24T10:25:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -11,7 +11,7 @@ level: [higher ed, adult learning]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [self-regulated-learning, agency, self-efficacy, motivation, metacognition, cognitive-offloading, ai-misuse-learning-harm, ai-literacy, adult-learning, lifelong-learning, higher-ed]
-connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026]
+connected_articles: [scherer-self-directed-genai-use-secondary-2026, genai-thoughtless-use-self-directed-learning-2026, ai-lifelong-learning-policy, self-directed-growth-generative-ai-learning-analytics, genai-educational-outcomes-meta-analysis, andragogy-cognitive-delegation-genai-2026, kim-ai-andragogy-2026, an-goel-self-directed-modeling-2026, llm-goal-selection-self-directed-learning-2026, ma-ai-medical-education-lmic-2026]
 ---
 
 > **Self-directed learning (SDL)** — the process by which learners take initiative and responsibility for diagnosing their own learning needs, setting goals, identifying resources, choosing and implementing strategies, and evaluating outcomes, often with limited external structure. In the AI era, SDL is both a key outcome (does AI use support or erode learners' capacity to direct their own learning?) and a vulnerability (the convenience of generative AI can undermine the very autonomy and [[self-efficacy|self-efficacy]] SDL requires).
@@ -40,6 +40,8 @@ The research documents both sides of the GenAI–SDL relationship.
 - **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that using GenAI without evaluating what it returns did damage in two directions: it lowered undergraduates' SDL directly and also eroded [[self-efficacy|self-efficacy]] and [[motivation|motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk.
 
 - **Unguided use at population scale.** Across 4,062 students in 136 German secondary schools, task-completion and learning-oriented GenAI use both rose over one school year (d = 0.35 and 0.33), with only 5% of students never using the tools; lower prior achievement predicted more subsequent use in all six subjects, yet neither form of use predicted later achievement ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
+
+- **General-purpose tools serve as self-directed study aids.** In a scoping review of AI in [[medical-education|medical education]] across low- and middle-income countries, learners in lower- and upper-middle-income settings used ChatGPT, Google Bard and Perplexity for self-directed learning, case-scenario analysis, item generation, language tasks and educational communication ([[ma-ai-medical-education-lmic-2026|Ma et al. (2026)]]). Low-income learners reached for accessible conversational tools such as Snapchat AI for assignments, exam preparation and academic writing.
 
 - **Cognitive offloading and delegation.** [[andragogy-cognitive-delegation-genai-2026|Andragogy and cognitive delegation]] and [[learning-by-chatting-genai-impact|learning by chatting with GenAI]] examine how learners may delegate cognitive work to AI in ways that bypass the effortful processing SDL requires — a failure mode of otherwise autonomy-supportive tools. [[critical-thinking-genai-scaffolding|Scaffolding critical thinking with GenAI]] and [[test-driven-ai-assisted-learning|test-driven AI-assisted learning]] model more productive designs.
 

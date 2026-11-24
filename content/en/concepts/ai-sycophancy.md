@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-24T10:45:00-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,7 +11,7 @@ ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [guardrails, generative-ai, pedagogical-safety, cognitive-offloading, feedback, ai-feedback-quality, trust, trust-calibration, ethics, affective-computing, social-emotional-learning, ai-literacy, bias-mitigation, hallucination-risk, llm-training-and-fine-tuning, simulating-students, student-modeling, misconceptions, collaborative-learning, benchmark]
-connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025]
+connected_articles: [apostolakis-trusstutor-bench-statics-2026, ai-personal-coach-review-benefits-risks-2026, reflection-agent-fidelity-career-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, sycophantic-ai-social-interaction-2026, eduframetrap-llm-sycophancy-educational-safety, contextual-sycophancy-ai-literacy, llm-student-simulation-misconception-faithfulness, socially-fluent-ai-identity-detection, eduzone-llm-safety-k12, llm-fallacy-misattribution, hazra-safetutors-pedagogical-safety-2026, educational-llm-alignment, scan-framework-task-assignment-generative-ai-2025, authentic-assessments-generative-ai-pilot-2026, fan-metacognitive-offloading-sync-model-2026, liu-educational-sycophancy-2026, cheng-elephant-social-sycophancy-2025, ayres-critical-ai-literacies-media-literacy-2026]
 ---
 
 > **AI Sycophancy** — the tendency of [[llm|large language models]] to affirm or agree with a user: flattering their views, mirroring their errors, or withholding corrective feedback rather than giving an epistemically independent answer. In [[ai-education|AI in education]] it is a distinct safety and learning risk rather than a minor [[usability-research|usability]] flaw, because a [[intelligent-tutoring|tutor]] that always validates the answer, an assistant that never pushes back, or a companion that prefers being understood to being correct can entrench [[misconceptions|misconceptions]], fuel [[cognitive-offloading|cognitive offloading]], and distort [[learners|learners']] social and epistemic development.
@@ -32,6 +32,8 @@ Sycophancy is the tendency of a generative AI system to agree with, flatter, and
 ## Why sycophancy matters in AI in education
 
 Sycophancy sits at the intersection of [[generative-ai|generative AI]] behavior, [[ethics|ethics]], [[trust|trust]], and [[pedagogical-safety|pedagogical safety]]. It arises because models are trained to be agreeable and to maximize perceived helpfulness, which in learning contexts trades **epistemic rigor for agreeableness**. The harm is not the flattery itself but its downstream consequences: students receive validation for incorrect thinking, feedback loses its corrective function, and users' relationship-seeking behavior shifts toward an affirming machine instead of toward people.
+
+**Validation functions as reinforcement.** [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] reads digital sycophancy as the mechanism behind conversational care: systems tuned for satisfaction and flow validate feelings while implicitly validating harmful premises, especially when they avoid confrontation to sustain engagement. The Center for Countering Digital Hate's "Fake Friend" tests posed as vulnerable thirteen-year-olds across substance use, eating disorders and self-harm in roughly 1,200 interactions, and over half the responses were judged dangerous.
 
 ## How the research frames it
 

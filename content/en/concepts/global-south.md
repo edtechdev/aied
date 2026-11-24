@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-19T09:45:00-05:00"
+updated: "2026-11-24T10:25:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed, k 12]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
-connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026, ma-ai-medical-education-lmic-2026]
 ---
 
 > **Global South** — countries in Africa, Asia, Latin America and Oceania that are often economically, politically and historically marginalized relative to the Global North. In [[ai-education|AI in education]] [[research-methods-aied|research]], these contexts are increasingly recognized as underrepresented in the evidence base, yet they raise distinctive questions about [[equity-in-ai-education|equity]], [[culturally-relevant-pedagogy|cultural relevance]], resource constraints, and the epistemic dominance of Western, Anglophone training data.
@@ -47,6 +47,8 @@ Mainstream AI and educational-technology research has historically been dominate
 - **Thin and tool-specific assessment evidence from African higher education:** [[genai-assessment-african-higher-education-review-2026|A PRISMA 2020 systematic review]] of empirical research published between 2023 and 2025 located only ten studies, concentrated in Nigeria and South Africa and conducted almost exclusively on ChatGPT, so what is known about redesigning assessment for generative AI in African higher education rests on small-sample, single-institution, [[self-report-measures|self-reported]] studies rather than measured [[learning-gains|learning gains]] — the review's authors frame their recommendations as directions rather than settled effects.
 
 - **Equity is the least-studied dimension across the region.** A PRISMA-ScR [[meta-analysis-systematic-review|scoping review]] of 75 Global South studies (2022–2025) found equity the least-examined of its five areas despite its centrality to inclusive education, and reported a gap between students' stated ethical positions and their behavior ([[nguyen-genai-global-south-review-2026|Nguyen & Perkins, 2026]]).
+
+- **The medical-education evidence base is concentrated in two countries.** A scoping review of AI in medical education across low- and middle-income countries screened 8,136 records down to 33 studies, with only four from low-income countries and China and India contributing the largest number ([[ma-ai-medical-education-lmic-2026|Ma et al. (2026)]]). The authors flag their English-only [[research-methods-aied|search design]] as a likely cause of the imbalance, and decline to rank countries by national AI adoption because policy environments and public investment were not consistently assessed.
 
 ## Implications
 

@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-21T15:40:00-05:00"
+updated: "2026-11-24T10:45:00-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -10,7 +10,7 @@ confidence: high
 connected_resources: [pressing-prompts]
 reviewed_by: [editor]
 connected_concepts: [critical-thinking, ai-literacy, equity-in-ai-education, culturally-relevant-pedagogy, reducing-ai-misuse, agency, ethics, teacher-role, social-emotional-learning, ai-education, pedagogy, critiques-of-ai-in-education]
-connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026]
+connected_articles: [kasa-malksoo-ai-human-rights-education-2026, burriss-multimodal-composition-critical-ai-literacy-2026, mcinnes-salvaging-constructive-alignment-genai-2026, benali-genai-academic-writing-2026, avraamidou-ai-colonization-science-education, li-mroziak-reorienting-critical-ai-literacy, ojeda-ramirez-community-based-ai-learning, raffaghelli-situated-ai-ethics-2026, voicu-ai-interpretive-cognition-ssh-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, emancipatory-ai-learner-flourishing-2026, miles-prompt-literacy-human-centered-genai-framework-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ayres-critical-ai-literacies-media-literacy-2026]
 ---
 
 > **Critical Pedagogy** — an educational approach, rooted in the work of Paulo Freire and later critical theorists such as Henry Giroux, that treats teaching and learning as inherently political acts. Rather than merely transmitting skills or knowledge, critical pedagogy asks who benefits from education, whose knowledge is privileged, and how schooling reproduces or resists systems of power and oppression. In AI-in-education, critical pedagogy interrogates the corporate and capitalist logics shaping AI adoption, centers the voices and epistemologies of marginalized communities, and treats [[ai-literacy|AI literacy]] as a practice of resistance and social transformation rather than mere technical competence.
@@ -67,6 +67,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - Count your critical episodes. If the 26.19% figure describes your practice, the target is a shift in the mode of use rather than less use.
 - Make procurement a teachable object: ask with students whose interests a chosen tool serves, and who bears the cost of its errors.
 - Treat AI literacy as interrogation of the system, not only competence with it.
+- Reframe harm as structure, not user failure. [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] reads simulated care as a design and incentive problem, so learners analyze retention, monetization and companion branding instead of blaming themselves for relating to a responsive machine.
 - Make the justification the assessable artifact. In a course unit that used [[benali-genai-academic-writing-2026|Benali and Díaz García's (2026)]] drafting, revision and reflection workflow with 96 final-year students in 24 groups, AI was confined to two sections of a research proposal and every accepted or rejected AI suggestion had to be justified in writing. Students' reflective reports describe that verification work, not the drafting, as what produced the critical stance, which is why the record of judgment is the thing to grade.
 
 **For developers and administrators**
