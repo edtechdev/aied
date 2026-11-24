@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
 created: "2026-09-22T14:35:13-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, pedagogical-patterns, ai-literacy, automation-bias, human-ai-collaboration, pedagogy, case-based-learning, metaphors-and-analogies, learning-theories, ai-technologies, discipline-specific-aied, assessment, feedback, stakeholders, learners, ai-ed-evaluation, research-methods-aied, ai-assisted-educational-research, governance, educational-policy-ai, equity-in-ai-education, learning-sciences, ethics, misconceptions, interpreting-and-applying-aied-research, limitations-in-aied-research, meta-analysis-systematic-review, history-of-aied, philosophy-of-ai-in-education, theories-and-frameworks, theory-development-aied, sensor-and-gaze-analytics, ai-avatars-and-synthetic-instructors, civic-and-political-education]
 connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-control-vs-agency-history-2025, genai-higher-education-systematic-review-2026, stanford-evidence-base-ai-k12-2026, genai-educational-outcomes-meta-analysis, perez-montesdeoca-genai-secondary-systematic-review-2026, luo-ai-readiness-graduate-research-self-efficacy-2026, guanilo-pareja-genai-doctoral-supervision-2026, chen-genai-self-directed-learning-graduate-seminar-2026, zaripova-genai-self-regulation-neuroai-competence-2026]
@@ -89,7 +93,7 @@ connected_articles: [rismanchian-ai-education-four-decades-aixed-2026, mishra-co
 
 ## 教育におけるAIの基盤
 
-この分野の横断的・基礎的な概念はナレッジベースの網羅を支え、サイドバーの最初に現れます。まず**必須**のグループから始まります。これはどの読者も最初に読むべき概念です。最上位概念そのもの、[[misconceptions|AIに関する誤解]]、[[ai-literacy|AIリテラシー]]、[[agentic-ai|エージェント型AI]]、[[cognitive-offloading|認知のオフローディング]]、[[framing-ai-use-for-students|学生に対するAI利用の位置づけ]]、[[reducing-ai-misuse|AIの不正利用の削減]]、[[academic-integrity|学問的誠実性]]、[[teacher-role|教えること]]、[[learning-design|学習設計]]、[[educational-development|教育開発]]です。続いて**分野**の系統が、[[history-of-aied|この分野の歴史]]、[[limitations-in-aied-research|根拠基盤に共通する限界]]、[[philosophy-of-ai-in-education|その哲学]]、[[theories-and-frameworks|理論と枠組み]]の地図、[[theory-development-aied|理論の構築]]を扱います。横断的なテーマ、すなわち[[human-ai-collaboration|人間とAIの協働]]、[[agency|学習者の主体性]]、[[learner-identity|学習者のアイデンティティ]]、[[design-thinking|デザイン思考]]、[[curriculum-design|カリキュラム設計]]、[[critical-thinking|批判的思考]]、[[computational-thinking|コンピュテーショナルシンキング]]はあらゆる系統を横断します。というのも、人々がAIについて抱く不正確なメンタルモデルは、[[ai-misuse-learning-harm|不正利用]]や十分に較正されていない[[trust-calibration|信頼]]の上流にあるからです。
+この分野の横断的・基礎的な概念はナレッジベースの網羅を支え、サイドバーの最初に現れます。まず**必須**のグループから始まります。これはどの読者も最初に読むべき概念です。最上位概念そのもの、[[misconceptions|AIに関する誤解]]、[[ai-literacy|AIリテラシー]]、[[agentic-ai|エージェント型AI]]、[[cognitive-offloading|認知のオフローディング]]、[[framing-ai-use-for-students|学生に対するAI利用の位置づけ]]、[[reducing-ai-misuse|AIの不正利用の削減]]、[[academic-integrity|学問的誠実性]]、[[teacher-role|教えること]]、[[learning-design|学習設計]]、[[educational-development|教育開発]]です。続いて**分野**の系統が、[[history-of-aied|この分野の歴史]]、[[limitations-in-aied-research|根拠基盤に共通する限界]]、[[philosophy-of-ai-in-education|その哲学]]、[[theories-and-frameworks|理論と枠組み]]の地図、[[theory-development-aied|理論の構築]]、そして[[learning-environments-as-systems|学習環境をシステムとして捉えること]]を扱います。これは学習環境を、部分が相互作用する多水準のシステムとして扱うものです。ある水準で導入された道具や政策は、他の水準に効果を生み出します。横断的なテーマ、すなわち[[human-ai-collaboration|人間とAIの協働]]、[[agency|学習者の主体性]]、[[learner-identity|学習者のアイデンティティ]]、[[design-thinking|デザイン思考]]、[[curriculum-design|カリキュラム設計]]、[[critical-thinking|批判的思考]]、[[computational-thinking|コンピュテーショナルシンキング]]はあらゆる系統を横断します。というのも、人々がAIについて抱く不正確なメンタルモデルは、[[ai-misuse-learning-harm|不正利用]]や十分に較正されていない[[trust-calibration|信頼]]の上流にあるからです。
 
 ## 学習と指導
 
@@ -135,7 +139,7 @@ AIが指導と学習をどのように支えるかは、この分野の中心で
 
 AIは、学習者をどう評価するかと、AIシステムそのものをどう検証するかの両方を変えます。
 
-- **評価とフィードバック:** [[assessment|評価]]、[[formative-assessment|形成的評価]]、[[summative-assessment|総括的評価]]、[[authentic-assessment|真正の評価]]、[[eportfolio|eポートフォリオ]]、[[feedback|フィードバック]]と[[feedback-literacy|フィードバックリテラシー]]、[[ai-feedback-quality|AIフィードバックの品質]]、[[peer-assessment|相互評価]]、[[oral-assessment|口頭評価]]、[[automated-assessment|自動評価]]、[[automated-essay-scoring|自動作文評価]]、[[automated-question-generation|自動問題生成]]です。モデルがもっともらしい完成品を求めに応じて作り出せるようになったため、ナレッジベースは学習者自身に残る能力に焦点を当てます。すなわち[[evaluative-judgment|評価的判断]]で、自分の作品、仲間の作品、AIの出力の質を、根拠ある基準に照らして見極める力です。これはいくつものフィードバック研究と真正の評価研究が収束する構成概念です。多施設実験でハイブリッドなフィードバック条件が直接的なAIフィードバックを上回ったこと、AIによる形成的フィードバックに持続性のギャップがあること、出来上がった作品だけでなく学生が下す判断を評価するという実践的な方向転換が、その表れです。またこれは、AI時代の再設計が[[ai-detection|検出]]から、検査に耐える課題へと移る中核的な理由でもあります。[[group-work|グループワーク]]も同様に、過程と成果の両面から評価され、そこではチームがどのようなAI関与を、誰のAI関与を許容とするかを交渉しなければなりません。
+- **評価とフィードバック:** [[assessment|評価]]、[[formative-assessment|形成的評価]]、[[summative-assessment|総括的評価]]、[[authentic-assessment|真正の評価]]、[[eportfolio|eポートフォリオ]]、[[feedback|フィードバック]]と[[feedback-literacy|フィードバックリテラシー]]、[[ai-feedback-quality|AIフィードバックの品質]]、[[peer-assessment|相互評価]]、[[oral-assessment|口頭評価]]、[[automated-assessment|自動評価]]、[[automated-essay-scoring|自動作文評価]]、[[automated-question-generation|自動問題生成]]、そして[[rubrics|ルーブリック]]です。ルーブリックは基準を運ぶ道具であり、ある作品の読みを再現可能にする明示的な次元と水準の記述であり、モデルが採点するときに読む仕様です。モデルがもっともらしい完成品を求めに応じて作り出せるようになったため、ナレッジベースは学習者自身に残る能力に焦点を当てます。すなわち[[evaluative-judgment|評価的判断]]で、自分の作品、仲間の作品、AIの出力の質を、根拠ある基準に照らして見極める力です。これはいくつものフィードバック研究と真正の評価研究が収束する構成概念です。多施設実験でハイブリッドなフィードバック条件が直接的なAIフィードバックを上回ったこと、AIによる形成的フィードバックに持続性のギャップがあること、出来上がった作品だけでなく学生が下す判断を評価するという実践的な方向転換が、その表れです。またこれは、AI時代の再設計が[[ai-detection|検出]]から、検査に耐える課題へと移る中核的な理由でもあります。[[group-work|グループワーク]]も同様に、過程と成果の両面から評価され、そこではチームがどのようなAI関与を、誰のAI関与を許容とするかを交渉しなければなりません。
 - **測定と妥当性:** [[assessment-validity|評価の妥当性]]、[[psychometrically-aware-ai|心理測定を意識したAI]]、[[educational-measurement|教育測定]]、[[item-response-theory|項目反応理論]]、[[self-report-measures|自己報告指標]](この根拠の大きな割合を支える手段であり、繰り返し指摘される限界でもあります)、[[ai-detection|AI検出]]、[[remote-proctoring|遠隔監視]]、[[academic-integrity|学問的誠実性]]です。
 
 ## 研究方法と検証

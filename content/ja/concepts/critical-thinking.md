@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 批判的思考
 created: "2026-10-10T21:52:28-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,13 +11,17 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-19T09:58:08-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
 connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -79,12 +83,17 @@ GenAI利用と自己申告された批判的思考の結びつきは、ほぼ完
 - **1学期のAIアクセスで批判的思考は横ばい、内省的な利用だけがそれを追跡しました。**Melanou, Beege and Kimmig(2026)は、ビジネス情報学の学生87人が、3つの並行条件(チューター枠組み付きAI、誘導なしAI、AIなし)で9週間のコースを3回測定しながらたどるのを追跡しました。知識はどの群でも上昇し、どちらのAI条件にも優位性はなく、マシュー効果もありませんでした(BF01 = 8.70)。自己申告された批判的思考と[[motivation|動機づけ]]は安定したままでした。学生を分けたのは内省的な利用、すなわち採用する前に情報源を確認しAIの出力を検証する営みでした。それはAI条件で対照群よりも高く(平均3.72対2.82)、最終測定の批判的思考を予測しました(R² = 0.183、β = 0.43、p < 0.001)。この結果は、AIの利用課程だけで批判的思考が動くという期待を条件づけます。関連が宿るのは[[metacognition|メタ認知的]]な制御であり道具へのアクセスではありません。著者らは、持続的な変化を見るには1学期は短すぎる可能性が高いと述べています。([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou他 2026]])
 - **評価は動いたが、形式的な演繹は動きませんでした。**4段階のAIフィードバックは、論証の評価(Evaluation of Arguments)を調整後1.74点高めた一方、演繹(Deduction)の動きは0.30(p = 0.383)にとどまり、伸びは形式的論理ではなく主張の判断に位置づけられました([[structured-genai-feedback-critical-thinking-data-science-2026|Yin他(2026)]])。
 
+- **オンラインでの推論は検索行動から測定でき、そして二つに分かれる。** 分析可能なログを持つ459人の1年生がオープンなウェブを検索したところ、[[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)]]は、クエリの定式化と結果ページの閲覧が、別個で無相関な因子を形成することを見出しました。したがって、単一の獲得スコアはこの構成概念を誤って表現します。
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez et al. (2026)]]は、AIを用いた批判的思考の最初の目的を持った測定尺度を提供し、提案された三つの領域が重なりすぎて分離できないことを見出しました。潜在的な相関は非常に高く、抽出された平均分散は相関の二乗を下回り、弁別的妥当性の基準を満たす因子は一つもありませんでした。合計スコアは信頼できますが、次元は暫定的なままです。
+
 ## 他の概念とのつながり
 
 批判的思考は、[[scaffolding]](認知的負荷を保つAI支援の設計)、[[prompt-engineering]](批判的な分析を引き出す問いの定式化)、[[cognitive-offloading|過度の依存]](いつAIを信じ、いつ疑うかを知ること)と交差します。それは[[academic-integrity]]の基盤であり、[[k-12]]と[[higher-ed]]の両方の文脈で[[ai-literacy]]の枠組みの主要な次元として機能します。
 
 - **高次の思考への触発としてのAIの誤り:**[[pedagogy-ai-mistakes|Hosseini(2026)]]は、データベースの授業で学生にAIが犯した誤りを詰問させることで、ブルームの高次水準(Analyze、Evaluate、Create)を具体化し、学科の能力における有意な事前/事後の伸び(コーエンの*d*=1.49)を得ました。
-- **AIの出力への批評は、足場かけ可能なスキルであり、問題解決の副産物ではありません。**関連する物理問題を解いただけの群は、磨き上げられたAIの解答を受け入れるか自分の[[misconceptions|誤解]]から批評しましたが、MAPSルーブリックに導かれた内省は、積分の欠落や未定義の記法について専門家と整合した批評を生み出しました([[probing-ai-generated-physics-solutions-2026|Borse他(2026)]])。
+- **AIの出力への批評は、足場かけ可能なスキルであり、問題解決の副産物ではありません。**関連する物理問題を解いただけの群は、磨き上げられたAIの解答を受け入れるか自分の[[misconceptions|誤解]]から批評しましたが、MAPS[[rubrics|ルーブリック]]に導かれた内省は、積分の欠落や未定義の記法について専門家と整合した批評を生み出しました([[probing-ai-generated-physics-solutions-2026|Borse他(2026)]])。
+- **批評はAI自身の自己評価から借りることができます。**12人の教育実習前の教師が自分の水利用モデルをChatGPT-4oのモデルと比較したところ、AIが自分について挙げていた弱点と一致する批評を生み出し、出力に残された計算上の不整合に気づいた者はいませんでした——磨き上げられた結果は、検証されずに称賛されうるのです（[[cetin-ai-comparative-reflection-modelling-2026|Çetin and Bilgili, 2026]]）。
 
 - **認知的エージェンシーを保つためにAIを束ねる。**E3-HOTの青写真は、3つの[[embodied-learning|身体化された]]経路——状況への埋め込み、身体による参加、認知的創造——をAnalyze、Evaluate、Createに対応づけ、主張が受け入れられる前に学生が根拠を述べ証拠を挙げる必要があるよう、AIをプロンプト、批評、戦略の提案に制限します([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu他(2026)]])。
 - **AIの説明の両面にわたる監査。**Bernstein and Sibia(2026)は、ポール–エルダー水準(正確さ、明瞭さ、前提、視点)をCS2を修了した10人の学生へのインタビュー用の問いとして用い、[[generative-ai|GenAI]]の説明に対する機構水準の精査を見出しました。学生は、ある類推の対応関係が壊れている場所を特定し(循環を暗示する連結リストの島経路の類推、縮小する入力の保証がない再帰に対して示されたバドミントンのラリー)、曖昧さを避けた表現を要求し、説明を視点を帯びた論証として扱いました。重要なことに、その精査は個人的関心ではなく出典または対象領域の専門性を追跡していました——これはAIの出力の批判的な[[ai-ed-evaluation|評価]]を性向の問題ではなく知識の問題(「両面の類推監査」)として再構成し、欠陥のあるAIの類推を検査と修復の対象として割り当てることが、完成した説明を読むよりも概念理解のはるかに厳しい検査になりうることを示唆します。([[student-reception-genai-analogies-computing-2026]])

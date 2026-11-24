@@ -1,7 +1,7 @@
 ---
 title: カリキュラムデザイン
 created: "2026-10-10T22:12:24-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-16T22:52:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, business-education, learning-design, ai-literacy, scaffolding, educational-development, teacher-role, higher-ed, k-12, stem-education, cs-education, generative-ai, agentic-ai, metacognition, prompt-engineering, collaborative-learning, pedagogy, recommender-systems-and-learning-paths]
 connected_articles: [ai-assisted-se-curriculum-syllabus-analysis-2026, ai-modeling-problem-generation-platform-2026, ai-particle-physics-education-redesign-2026, ai-video-dual-gatekeeping-2026, ase-26-agentic-software-engineering-curriculum, bursic-ai-residency-education-curriculum-2026, caruana-pre-university-ai-education-slr-2026, computing-assessment-genai-workshop-report-2026, critical-media-literacy-education-2026, curriculum-as-code-instructional-design-2026, finkelstein-principled-ai-education-2025, genai-curriculum-analytics-mapping-higher-ed-2026, hingle-collaborative-ai-literacy-2025, icet-ml-education-trust-2026, ithaka-sr-ai-skills-college-graduates-2026, karaismailoglu-ai-lesson-plans-science-experts-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, learnai-just-in-time-ai-cocreation-university-2026, lee-ai-convergence-curriculum-korean-university-2026, luo-tahir-chatgpt-steam-lesson-planning-2026, mcinnes-salvaging-constructive-alignment-genai-2026, mechanical-engineering-ai-curriculum-2026, niri-steam-ai-literacy-review-2026, refrain-amplify-genai-curriculum-2026, reshaping-cs-education-genai, rewriting-curriculum-genai-pedagogy-2026, rodafinos-llm-curriculum-audit-2026, rook-plumb-genai-curricula-student-insights-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, tracing-genai-literacy-interaction-patterns, workforce-readiness-smart-manufacturing-wrl-2026, ying-genai-journalism-assessment-2026, zhou-constructive-alignment-genai-business-2026]
@@ -92,7 +96,7 @@ K-12のML活動デザインは表層にとどまります。ICE-T枠組みの背
 
 **統合パターンを分けるのは、利用の頻度ではなく整合の深さです。**17の経営モジュールの事例を通じて、6つはGenAIを教授・学習・評価に体系的に埋め込み(構成的)、9つは一貫せず(混合)、2つは散発的に(アドホック)行い、構成的な事例が最も強い関与、能力、カリキュラムとの関連性の成果を報告しました([[zhou-constructive-alignment-genai-business-2026|Zhou他(2026)]])。
 
-**批判的に精査される構成的整合の助言。**上記の出典が実践における整合について報告するのに対し、[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes他(2026)]]は、その助言そのものを言説として読みます。2022年11月から2025年4月までに公表された灰色文献14本——主に機関のページと中心的な位置を占める[[educational-development|学習・教授ユニット]]の章——に対する[[qualitative-research|批判的言説分析]]は、構成的整合が効率の問題として提示されていることを見出しました。生成AIは「ルーブリックを起草する効果的で効率的な方法」であり「過程を合理化できる」とされ、「教育的な専門家であり助手」、「議論の相手」、あるいは「教育設計における知的な助手」として擬人化される一方、教職員は「教科内容の専門性」だけを提供し、道具は「学習目標の開発、コース内容の整理、コース構成要素の整合という重い持ち上げ」を担いました。コピー・アンド・ペーストのプロンプトのレシピと番号付きのテンプレートは、構成的整合(CA)を標準化可能な産物として提示し、3つの失敗モードを生み出しました。実践性(整合しているように見えるだけの整合)、状況依存的で批判的な文脈の消去、そして整合を構成的な次元と混同する浅薄なCAです。彼らの処方は、カリキュラムデザインの作業の流れを並べ替えます——教育者は、どの部分も委ねる前に、AIの出力を指揮し、評価し、拒否できるだけCAをよく理解していなければなりません——そしてどの道具も、地域の政策、ルーブリック、卒業時の資質に基づく機関の[[rag|検索拡張]]エージェントに限定し、[[educational-development|開発者]]の関係を置き換えるのではなく広げる「境界的なチューター」の役割を与えます。
+**批判的に精査される構成的整合の助言。**上記の出典が実践における整合について報告するのに対し、[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes他(2026)]]は、その助言そのものを言説として読みます。2022年11月から2025年4月までに公表された灰色文献14本——主に機関のページと中心的な位置を占める[[educational-development|学習・教授ユニット]]の章——に対する[[qualitative-research|批判的言説分析]]は、構成的整合が効率の問題として提示されていることを見出しました。生成AIは「[[rubrics|ルーブリック]]を起草する効果的で効率的な方法」であり「過程を合理化できる」とされ、「教育的な専門家であり助手」、「議論の相手」、あるいは「教育設計における知的な助手」として擬人化される一方、教職員は「教科内容の専門性」だけを提供し、道具は「学習目標の開発、コース内容の整理、コース構成要素の整合という重い持ち上げ」を担いました。コピー・アンド・ペーストのプロンプトのレシピと番号付きのテンプレートは、構成的整合(CA)を標準化可能な産物として提示し、3つの失敗モードを生み出しました。実践性(整合しているように見えるだけの整合)、状況依存的で批判的な文脈の消去、そして整合を構成的な次元と混同する浅薄なCAです。彼らの処方は、カリキュラムデザインの作業の流れを並べ替えます——教育者は、どの部分も委ねる前に、AIの出力を指揮し、評価し、拒否できるだけCAをよく理解していなければなりません——そしてどの道具も、地域の政策、ルーブリック、卒業時の資質に基づく機関の[[rag|検索拡張]]エージェントに限定し、[[educational-development|開発者]]の関係を置き換えるのではなく広げる「境界的なチューター」の役割を与えます。
 
 **カリキュラムに整合したモデリング課題の生成。**AIを活用したプラットフォームは、高品質の[[math-education|数学的モデリング]]課題を設計する教師の時間と資源の欠如に、設計原理と[[rag|検索拡張]]生成に基づくカリキュラムに整合した問題と教授法上の推奨を生成することで対応できます。このアプローチは、中等教育の数学における正比例の例で示されました([[ai-modeling-problem-generation-platform-2026|Lo他、2026]])。コースの読解資料自身も今や生成の対象です。Sidorkin(2026)は、大学院の教育リーダーシップのコースで市販の教科書を毎週AIで生成した読解資料に置き換え、学生はそれらを有用と評価し75%が同等のコースよりも多く学んだと同意した一方、4,487ページの記録は、約0.80%のページにしかAPA形式の本文中の引用を含まず、検証可能な出典なしに、約1.03%のページでキャンパスや制度の名前を断定的な政策主張と対にしていました。カリキュラム教材の教訓は、生成された読解資料を教官の吟味の下の下書き制作として扱い、プロンプト設計と検証の教官の労働を予算に組み込み、出典の質を学生が文脈から推測するに任せずに、吟味済みの出典をアシスタントに選定して与えるということです。
 
@@ -100,9 +104,11 @@ K-12のML活動デザインは表層にとどまります。ICE-T枠組みの背
 
 構造であり、プロンプトの言い回しではないものが、本番環境でAIによる起草を確実にします。[[curriculum-as-code-instructional-design-2026|Paiva(2026)]]のCurriculum-as-Codeのパイプラインは、文脈を積極的に剪定し、28のプロジェクト文脈にわたって資料をセクションごとに生成し、教官の準備時間を1回の指導あたり約8時間から2時間に短縮し、[[human-in-the-loop-ai|人間の吟味]]が捉えるべき概念的・数学的な[[hallucination-risk|幻覚]]を残しませんでした。
 
+[[lee-ai-convergence-curriculum-korean-university-2026|Lee, Ha & Lee (2026)]]は、コースを標本化するのでなくカリキュラム全体を調査し、明示的にAIを表明したコース(1.5%)と、すでにAIを前提としていた潜在的後補(11.7%)を分離しました。これは、プログラムレベルの再設計議論がたいてい測定せずに主張する、表明のギャップの定量化です。
+
 ## 関連する概念とのつながり
 
-カリキュラムデザインは[[learning-design]]——カリキュラムは何を定め、指導はどう定める——に直接つながります。[[ai-literacy]]につながるのは、AI能力の埋め込みが主要なカリキュラム上の課題だからです。[[teacher-role]]と[[educational-development]]につながるのは、カリキュラムの変更に教育者の準備が必要だからです。[[scaffolding]]につながるのは、よく設計されたカリキュラムがコースや年にわたって技能の発達を足場かけするからです。[[higher-ed]]と[[k-12]]とのつながりは、カリキュラムデザインが教育水準をわたって持つ重要性を反映しています。
+カリキュラムデザインは[[learning-design]]——カリキュラムは何を定め、指導はどう定める——に直接つながります。[[ai-literacy]]につながるのは、AI能力の埋め込みが主要なカリキュラム上の課題だからです。[[teacher-role]]と[[educational-development]]につながるのは、カリキュラムの変更に教育者の準備が必要だからです。[[scaffolding]]につながるのは、よく設計されたカリキュラムがコースや年にわたって技能の発達を足場かけするからです。[[higher-ed]]と[[k-12]]とのつながりは、カリキュラムデザインが教育水準をわたって持つ重要性を反映しています。プログラムの水準では、コース、機関、政策と相互作用すると[[learning-environments-as-systems|学習環境をシステムとして捉えること]]が扱う水準の一つです。
 
 **AIリテラシーの枠組みを一つ選ぶことは、誰も突き合わせていない語彙を選ぶことでもあります。** K-12の50の枠組みのスコーピングレビューで、[[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach ら（2026）]]は、コンピテンスの定義が認知的、情動的、行動的、倫理的、社会的な次元に収束する一方で、ラベルと構成概念は一致していないことを見出しました。共通の測定の伝統に近づいたのはABCEの枠組みだけであり、それは香港、上海、台湾にわたって検証されていました。学年段階をまたぐ進展は繰り返し提案されながら、どこでも検証されていません。
 

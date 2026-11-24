@@ -1,7 +1,7 @@
 ---
 title: 学習者の主体性
 created: "2026-10-10T22:14:00-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,13 +10,17 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, pedagogical-partnerships, learner-identity, self-directed-learning, self-regulated-learning, motivation, self-efficacy, student-experience, metacognition, ethics, cognitive-offloading, educational-robotics, behaviorism, framing-ai-use-for-students, human-ai-collaboration, agentic-ai, chemistry-education, social-emotional-learning, cognitive-surrender]
 connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-agency-collaborative-learning-2026, yan-agentivism-learning-theory-ai-2026, dang-human-ai-collaboration-competency-2026, learner-agency-ai-simulation-2026, guarded-adoption-genai-higher-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-mediated-research-agency-formation-2026, layer-sensitive-cognitive-offloading-writing-2026, school-ai-education-readiness-gaps-agency-2026, reclaiming-epistemic-agency-co-agency-2026, du-yuan-epistemic-dependence-2026, ai-pedagogical-accompaniment-amico, t2i-competence-paradox-2026, jin-emergent-learner-agency-implicit-hai-2026, de-barba-srl-genai-2026, mishra-control-vs-agency-history-2025, daoism-ai-education-philosophy-2026, human-autonomy-agency-hri-review-2025, roboblockly-conversational-block-robotics-ct-2026, teachy-mini-generative-social-robot-higher-ed-2026, knowledge-based-design-generative-social-robots-2026, young-people-learning-generative-ai-rapid-review-2026, shaw-nave-cognitive-surrender-2026, preservice-teacher-agency-genai-design-learning-2026, emancipatory-ai-learner-flourishing-2026, chen-zou-genai-group-assessment-agency-2026, ai-integrated-teaching-identity-tensions, ai-refusal-higher-education-diagnostic-non-use-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, genai-higher-ed-agency-responsibility-discourse-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, fagerlund-competency-agency-purposes-ai-education-2026, canonigo-teacher-mediation-generative-ai-mathematics-2026, charles-teacher-readiness-by-design-ai-rich-2026, yang-balancing-teacher-student-agency-2026, porath-interpretive-authority-2026, gyekye-selves-apprenticeship-2026, chang-shared-epistemic-agency-gai-scientific-writing-2026, jelson-students-chatgpt-essay-writing-2026, shakiba-human-agency-depth-taxonomy-2026, wang-consequential-human-agency-higher-education-2026]
@@ -127,6 +131,8 @@ connected_articles: [tench-ai-policy-isnt-a-playbook-2026, genai-reliance-human-
 枠組みの境界条件は、**争訴可能性**(AIの出力を問い、照合する能力)、**出自**(訓練データと出力がどこから来るかを知ること)、**道徳的・知的功績の非委任**(学生の福祉、学業上の地位、成績に関する重大な判断はAIのみによって決定されてはならない)を要求します。これは教育者と[[stakeholders|政策担当者]]に、人間と人工の貢献の間の曖昧な「均衡」よりも精密な語彙を与え、主体性を[[ethics]]、[[assessment]]、[[equity-in-ai-education]]、[[governance]]につなげます。
 
 密接に関連する位置づけは**関係的な認識論的主体性**([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]])です。それは主体性が社会的に可能にされ技術的に媒介されるものであり、依存からの孤立の問題ではないことに同意します。生態学的コーエージェンシーの枠組みが人間の認識論的な説明責任を交渉不可能な境界として強調するのに対し、DuとYuanは明示的な*非対称性*を保ちます。AIシステムは相互的な責任や正統な権威を持つことなく推論を形づくり拡張しえます。彼らの6つの診断基準 — 争訴可能性、回復可能性、転移、追跡可能性、分散された責任、認識論的な多元性 — は、人間とAIの関係が学習者の、主張が形成され、評価され、受け入れされる仕方に参加する能力を保つときと、単に製品を届けるだけのときとを区別する実践的な検査を与えます。この説明によれば、主体性はツールからの独立性ではなく、知識を媒介するシステムと*ともに、それを通じて、それに抗して*責任を持って判断する能力です。
+
+[[wang-consequential-human-agency-higher-education-2026|Wang (2026)]]は、AI の力量だけでは不十分であり、判断に帰結を伴わせる制度的条件——通知、理解可能な理由、人間による再検討、不服申し立てと上書き、文書化された説明責任——が不可欠であると論じます。そして主体性を、個人が保持するものとしてではなく、制度的な権威との相互作用のうちに達成されるものとして捉え直します。大学は、購入者、アセスメントの権威、監視の利用者として、それを可能にすることも抑制することもあり、問いは学習者の力量のみから、判断が AI を介した決定を変更しうる権利と手続きへと移っていきます。
 
 - **リスクとしてのみならずメカニズムとしての委任された主体性。** [[yan-agentivism-learning-theory-ai-2026|YanとGašević (2026)]]は、AIへの認知的作業の委任を、学習の脅威としてだけでなく、学習が起こる仕方の一部として扱います。彼らの説明では、補助されたパフォーマンスは、学習者が問題の枠づけ、基準の設定、答えの正当化に対する責任を保つときにのみ、永続的な能力になります。彼らが委任された主体性と呼ぶこの分業です。それによって配分そのものが設計変数となります。同じツールが、どの責任を吸収するかに応じて、学習者の主体性を保ちも溶かしもするからです。
 

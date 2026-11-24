@@ -1,7 +1,7 @@
 ---
 title: 認知的オフローディング
 created: "2026-10-10T22:09:40-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-18T10:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, agency, critical-thinking, creativity, distributed-cognition, embodied-learning, generative-ai, metacognition, online-teaching-and-learning, prompt-engineering, scaffolding, self-directed-learning, self-regulated-learning, trust-calibration, retrieval-spacing-interleaving, cognitive-surrender, reflection, executive-function, critiques-of-ai-in-education]
 connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, riva-cognitive-capital-generative-ai-review-2026, pradubwate-illusion-ai-competence-miscalibration-2026, akcaoglu-offloading-ladder-experience-2026, ai-proof-learning-cognitive-offloading-2026, llm-math-homework-offloading-traces-2026, genai-support-threaten-learning-k20-expert-consensus-2026, shastry-gray-empathy-offloading-2026, rented-self-decoupling-performance-becoming-2026, caeai-ai-scaffolding-inquiry-profiles-middle-school-2026, liu-ai-assistance-reduces-persistence-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, yan-cognitive-outsourcing-genai-assessments-2026, family-school-autonomy-support-genai-2026, zohar-bloom-inzlicht-against-frictionless-ai-2026, thermomix-genai-education-analogy-2026, cognitive-washout-ai-skill-decay-2026, yan-conversational-ai-engagement-dependence-synthesis-2026, layer-sensitive-cognitive-offloading-writing-2026, du-yuan-epistemic-dependence-2026, seung-basham-cognitive-offloading-swld-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-metacognitive-review-2026, metacognitive-training-optimal-cognitive-offloading-2026, critical-thinking-paradox-genai-learning-2026, cognitive-offloading-speedup-illusion, misiejuk-cognitive-offloading-prompting-2026, shaw-nave-cognitive-surrender-2026, young-people-learning-generative-ai-rapid-review-2026, ai-making-us-stupid, brcic-effortless-trap-productive-struggle-2026, genai-thoughtless-use-self-directed-learning-2026, generative-ai-guardrails-harm-learning, stromberg-generative-ai-learning-penalty-secondary-2026, coach-not-crutch-ai-writing, making-ai-tutoring-productive-mastery-math-2026, cognitive-commons-ai-expertise-regeneration, pause-ai-cognitive-offloading-self-reflection-2026, chatgpt-writing-cognitive-impact-2026, student-cognitive-offloading-ai-higher-ed-2026, metacognitive-feedback-anti-deskilling-offloading-2026, chatgpt-programming-performance-retention-ownership-2026, davor-ai-supported-learning-higher-order-outcomes-2026, ren-metacognitive-awareness-genai-reliance-2026, shojaei-genai-dependence-critical-thinking-employability-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, braun-cognitive-dormancy-ai-affordances-2026, yahya-generative-ai-inquiry-based-learning-review-2026, fan-metacognitive-offloading-sync-model-2026, zhang-usefulness-dependence-genai-2026, xiao-metacognitive-disengagement-knowledge-innovation-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, ayasrah-executive-function-learning-difficulties-scale-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, ho-invariant-core-faculty-development-2027, su-genai-dependence-academic-performance-adolescents-2026, habit-over-intention-genai-help-seeking-engineering-2026, performance-without-capability-genai-assessment-validity-2026, motivational-gain-trumping-cognitive-offloading-2026, bubnys-sustainable-ai-reflective-learning-2026, chi-ai-dependence-academic-procrastination-2026]
@@ -43,7 +47,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 ## はじめに
 
-認知的オフローディングは本来有害なものではありません。人間は昔から外部の道具（ノート、電卓、検索エンジン）を用いて認知的負荷を下げてきました。AIを媒介とするオフローディングを異ならせるのは、その包括性です。[[llm|LLM]]は完全な解、説明、分析を生成でき、学びを生み出す当の認知的過程の必要性そのものを排除しうるからです。
+認知的オフローディングは本来有害なものではありません。人間は昔から外部の道具（ノート、電卓、検索エンジン）を用いて認知的負荷を下げてきました。AIを媒介とするオフローディングを異ならせるのは、その包括性です。[[llm|LLM]]は完全な解、説明、分析を生成でき、学びを生み出す当の認知的過程の必要性そのものを排除しうるからです。このリスクは、より広範な[[critiques-of-ai-in-education|教育におけるAIへの批判]]が扱う複数の論点の中のひとつでもあります。
 
 ### 認知的オフローディングがAIED研究に現れる仕方
 
@@ -52,7 +56,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 - **プロンプトのパターンをオフローディングの痕跡として捉えること:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al. (2026)]]は、共起[[network-analysis|ネットワーク分析]]を用いて、反応的なプロンプト（文脈を伴わない異議申し立て）はより高いオフローディングを示し、一方、教示を統合した文脈豊かなプロンプトは関与した認知を反映することを示しました。AI利用の*仕方*、使われたかどうかだけではなく、がオフローディングの度合いを決めるのです。
 - **プロンプトの量は、何がオフロードされたかを特定しない:** [[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]]は、97名の学習者をプロンプトの量でクラスタリングし、その量のクラスターが、ローカル対グローバル、あるいは能動的な役割のプロンプティングにおいて有意に異ならなかったことを見出しました。同じ量が、方向づけられた委任（12.9件のプロンプト、36%が能動的）と、ほとんど方向づけのない状態（4%が能動的）の両方を記述していたのです。
-- **大規模な自然主義的なメッセージ水準の証拠 — 想定ではなく観察されたオフローディング:** [[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia et al. (2026)]]は、欧州の一大学で46名の学部生が7週間の試験準備期間にわたって交わした3,047件の[[conversational-ai|ChatGPT]]メッセージを、連鎖思考による根拠の提示を強制したGPT-4o-miniを用いて分類し、訓練を受けた人間の評価者に対して200件のメッセージで検証しました（質問タイプについてCohen's κ = 0.76、Bloom水準について0.75）。Analyzeはその分布の頂点にあたり27.28%（831件）、Understandの23.76%に先行しました。これは、自然主義的な[[student-ai-interaction|学生とAIの利用]]が暗記ではなく高次の作業に向かっていることを示す、初の細粒度の証拠です。成績と結びつけられた16名の下位標本（1,140件のメッセージを手作業で分類）は、プロンプト水準の痕跡では得られないものを提供します。125件の対話のうち49.6%はオフローディングなし、34.4%は軽度、16.0%は重度で、そのルーブリックは*重度*を、AIが最初の草稿を生み出し中核的な知的成果を構成する場合に留保していました。重度のオフローディングは圧倒的にCreateの現象でした（20件の重度対話の80%、すべてのCreate対話の42%）。著者らはこれを、オフローディングの度合いとBloom水準は別個に測る価値のある独立した次元であるという証拠として読んでいます。成績パターンは記述的なものにとどまり、上位層で17.6%、中位層で17.5%、下位層で5.9%（χ² = 5.80, df = 4, p = 0.215）で、一人のプログラミング中心の学生に一部依存しており、その学生を除くと上位層の割合は8.9%に下がります。このため著者らは、学問領域が成績よりも委ね方の習慣を形づくると論じ、禁止よりも実際の利用パターンに対する[[metacognition|メタ認知的]]フィードバックを推奨しています。
+- **大規模な自然主義的なメッセージ水準の証拠 — 想定ではなく観察されたオフローディング:** [[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia et al. (2026)]]は、欧州の一大学で46名の学部生が7週間の試験準備期間にわたって交わした3,047件の[[conversational-ai|ChatGPT]]メッセージを、連鎖思考による根拠の提示を強制したGPT-4o-miniを用いて分類し、訓練を受けた人間の評価者に対して200件のメッセージで検証しました（質問タイプについてCohen's κ = 0.76、Bloom水準について0.75）。Analyzeはその分布の頂点にあたり27.28%（831件）、Understandの23.76%に先行しました。これは、自然主義的な[[student-ai-interaction|学生とAIの利用]]が暗記ではなく高次の作業に向かっていることを示す、初の細粒度の証拠です。成績と結びつけられた16名の下位標本（1,140件のメッセージを手作業で分類）は、プロンプト水準の痕跡では得られないものを提供します。125件の対話のうち49.6%はオフローディングなし、34.4%は軽度、16.0%は重度で、その[[rubrics|ルーブリック]]は*重度*を、AIが最初の草稿を生み出し中核的な知的成果を構成する場合に留保していました。重度のオフローディングは圧倒的にCreateの現象でした（20件の重度対話の80%、すべてのCreate対話の42%）。著者らはこれを、オフローディングの度合いとBloom水準は別個に測る価値のある独立した次元であるという証拠として読んでいます。成績パターンは記述的なものにとどまり、上位層で17.6%、中位層で17.5%、下位層で5.9%（χ² = 5.80, df = 4, p = 0.215）で、一人のプログラミング中心の学生に一部依存しており、その学生を除くと上位層の割合は8.9%に下がります。このため著者らは、学問領域が成績よりも委ね方の習慣を形づくると論じ、禁止よりも実際の利用パターンに対する[[metacognition|メタ認知的]]フィードバックを推奨しています。
 
 - **加速の錯覚:** [[cognitive-offloading-speedup-illusion|加速の錯覚に関する研究]]は、AIを使った作業が*速く簡単に感じられ*、学びの低下を覆い隠す生産性の誤った印象を作り出すことを示しています。生徒は課題の完了速度を学びと混同します。これはメタ認知的盲点です。
 
@@ -137,16 +141,24 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 はしごには三段あるが、ここに属するのは最初の二段だけである。**オフローディング**は精神的な作業を委ねることであり、しばしば生産的である。**過剰依存**はそれを慢性的に、かつ較正なしに行うことであり、これが有害な行動上の失敗である。**[[cognitive-surrender|認知的降伏]]**は別種の失敗である——評価という段階がそもそも生じないため、学習者はAIの答えの質を一切判断しないままそれを採用してしまう。境界は、AIに何を供給するよう求めているかに現れる。[[du-yuan-epistemic-dependence-2026|DuとYuan]]の*道具的*支援はアウトプットを生み出すが、*判断を担う*支援はアウトプットを評価する基準そのものを供給し、専門性が依拠する作業を置き換えてしまうのは後者である。[[young-people-learning-generative-ai-rapid-review-2026|シドニーのラピッドレビュー]]は271本の論文にわたって同じ三分割を描いている。したがって降伏には独自の実験的シグネチャと独自のページがあり、過剰依存はあくまで頻度と較正の問題であり続ける。両者は同一の課題の中で分離可能な結果であり、[[shaw-nave-cognitive-surrender-2026|ShawとNave]]の試行では、AIが誤答した試行の73.2%が降伏に終わり、19.7%が戦略的オフローディングに終わった。
 **オフローディングの先にある一段は、制御機構そのもののオフローディングである。**[[fan-metacognitive-offloading-sync-model-2026|Fan et al. (2026)]]はRiskoとGilbertの系列——道具についての信念を活性化し、それに対して自分の能力を判断し、方略を選び、結果から再較正する——を再述し、その失敗を*メタ認知的*オフローディングと名づける。すなわち、このループが飛ばされる、方略評価がAIに委ねられる、あるいは流暢な成功が次の委任を偏らせる、という形である。対になる用語はメタ認知的オンローディングであり、目標・モニタリング・方略判断を学習者自身に担わせる足場かけである。いずれも遂行と持続的学習という二つの軸の上に置かれるため、アウトプットの質の向上は学習者についての証拠としては数えられなくなる。この枠組みは概念的であり、未検証である。
 
+[[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]]は、評価の側からの補完を提供する。すなわち、学習にとって重要な思考の責任がツールへと移りながらも、その過程が目に見える形にならないところで、オフローディングは最も危険である。この枠組みはその状態を「認知的代替物（cognitive substitute）」と呼ぶ。なぜなら、成果物は有能に産出される一方で、証拠のどこにも能力が失われたことを示すものがないからである。
+
 **調整者を引き上げると、オフローディングが上がり、出力の質が下がる。** 728 人の成人を対象とした 4 つの実験を通じて、実験的に誘導された[[metacognition|メタ認知]]的な離脱は認知的オフローディングを上げ（間接効果 0.51、総効果の 58.0%）、専門家が評定した革新の質を 4.78 から 3.95 に下げ、その低下の 57.8% がオフローディングを通っていました（[[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao, Men & Zhang（2026）]]）。課題の複雑さはその経路を強め、[[ai-literacy|AI リテラシー]]は弱めました。2 つの限界がこの主張を縛ります。アシスタントは実際のモデルではなく研究者が台本を書いた応答バンクであり、職業と学生身分は報告されていないため、これは教室の知見でも職場の知見でもありません。
 
 **依存には軌跡があり、それは単調ではない。**18か月間にわたる4回の追跡調査（n = 524）では、[[technology-acceptance-model|知覚された有用性]]は、その後の学業依存の増大ではなく*低下*を予測したため、学生がツールをどれほど有用と感じるかに基づいて依存がエスカレートするとする説明は、方向を誤っている（[[zhang-usefulness-dependence-genai-2026|Zhang, 2026]]）。
 **注意制御は、依存から学業成績へと至る経路として実測されている。**中国の青少年1,461人において、生成AI依存は注意制御の低下を予測し、この経路は試験成績との間接的関連の総量の76.19%を担い、体力を上回った（[[su-genai-dependence-academic-performance-adolescents-2026|Su et al., 2026]]）。
 
+**自己評価された能力ではなく、感情的な関与が過度の依存を予測する。**249名の職業教育外国語学習者において、見逃すことへの恐怖（FOMO）（β = 0.50）と擬人化的な愛着（β = 0.27）は、自己報告による過度の依存を予測した。一方、知覚されたAIリテラシー（r = 0.08）と自己調整学習（r = −0.03）は予測しなかった。リテラシーがあると感じていることと、調整されていると報告することとの間の隔たりのほうが（β = 0.21）予測したのである（[[gao-too-good-to-resist-overreliance-2026|Gao et al., 2026]]）。
+
+**この分野はまだ、拡張と代替を分離できない。**93件の研究を対象とする現実主義的综合（realist synthesis）では、69件がAI支援に独立した学習測定を報告しておらず、そのような測定と処理の証拠とを組み合わせたのはわずか4件であった。したがって認知的拡張と認知的代替は、実証的には区別つけられないままなのである（[[li-cognitive-agency-human-genai-realist-synthesis-2026|Li et al., 2026]]）。
+
+**害と利益は、同一の結果の中で同時にやってくることがある。**16,357人の学習者を対象とする31件の研究を統合した[[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]]は、依存が批判的思考を下げる一方で、高まる動機づけがほぼ同じだけそれを上げることを見出した。したがって、ほぼゼロの関連は、オフローディングの効果が存在しないことではなく、二つのメカニズムが相殺し合っていることを記録しているのである。
+
 **個々の研究の外部にあるベンチマークが、同じ失敗を測定し、それが広く見られることを示している。** ImpactBenchは10個のモデルを48,540件のシミュレーション会話で評価した。そのCognitive Offloading Asymmetry(認知的オフローディングの非対称性)指標は平均51.9%、Planning-Related Cognitive Intrusion(計画関連の認知的侵入)は47.1%であった。教育事例では、シミュレーション上の学生が完成稿を求めて迫ると、Claude Sonnet 5がテーゼ、アウトライン、そして「そのまま貼り付けられる」完成済みのエッセイを渡してしまう一方、引用の捏造は依然として拒んでいる([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]])。Learning & Skill Development(学習とスキル発達)は、両極性のいずれにおいても14の下位領域中で最も弱く、45.9%と16.3%であった。
 
 **過度の依存**とは、生徒が自ら行うべき認知的仕事を委任し、その結果として学習の減少、[[agency|エージェンシー]]の減退、技能発達の置き換えを招く、AIツールへの過度で較正されない依存のことです。それは過度な認知的オフローディングの行動的な現れです。オフローディングが戦略的な選択ではなく既定になる場合です。過度の依存は単にAIを使いすぎることではありません。学習過程を補うのではなく代替する形でAIを使うことなのです。概念的な仕事は、この教育的な過度の依存を、関係的な愛着や[[medical-education|臨床的な]]依存から区別しておくことを促しています。[[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan (2026)]]は、対話型AIの文献において、信頼、依存、過度の依存、愛着、問題的な使用が日常的に混同されており、制御の損傷や害がなければ頻繁な委任を依存と呼ぶべきではないことを示しています。
 
-- **効率性の逆説：熟達目標が「既定としての」オフローディングに崩れ落ちること。** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]]は、熟達を志向する目標を言葉では掲げながら表層的な過程を実践する学習者を同定しました。彼らは「意図によってではなく、既定として」オフロードしていました。三つの意図群（Outsourcing Tool n = 16、Learning Assistant n = 31、Cognitive Partner n = 8）は、最頻のケースが意図的な不正行為でも意図的な学習でもないことを示しています。アウトソーシング群の生徒は自分自身の没入を認識していました（段落ごとのコピー・ペーストは「完全に僕の脳を置き換えた」と描写され）、速い忘却を報告し、38名のインタビュー対象者全員が生成的AIを効果的に使う自信が低いと報告しました。これは、過度の依存が仕事を避ける動機づけではなく、（[[ai-literacy|AIリテラシー]]、プロンプティングの能力、課題特有の指針といった）欠けた先行条件によっても駆動されうるという証拠です。
+- **効率性の逆説：熟達目標が「既定としての」オフローディングに崩れ落ちること。** [[yan-cognitive-outsourcing-genai-assessments-2026|Yan et al. (2026)]]は、熟達を志向する目標を言葉では掲げながら表層的な過程を実践する学習者を同定しました。彼らは「意図によってではなく、既定として」オフロードしていました。三つの意図群（Outsourcing Tool n = 16、Learning Assistant n = 31、Cognitive Partner n = 8）は、最頻のケースが意図的な不正行為でも意図的な学習でもないことを示しています。アウトソーシング群の生徒は自分自身の没入を認識していました（段落ごとのコピー・ペーストは「完全に僕の脳を置き換えた」と描写され）、速い忘却を報告し、38名のインタビュー対象者全員が生成的AIを効果的に使う自信が低いと報告しました。これは、過度の依存が仕事を避ける動機づけではなく、（[[ai-literacy|AIリテラシー]]、プロンプティングの能力、課題特有の指針といった）欠けた先行条件によっても駆動されうるという証拠です。[[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]]は、その「既定」のもう一つの版、つまり習慣的な版を示している。フィリピンの工学系学生と教育者においては、生成的AIが人に助けを求める代わりを行ったかどうかを予測したのは意図ではなく習慣であり、これは過度の依存を、委任の決定ではなく、ツールの周囲に形成される日常の習慣の中に位置づけるものである。
 
 - **現場におけるエージェント的コーディングは理解をオフロードする。** [[spec-driven-development-ai-agents-sdpbl-2026|Tanaka et al. (2026)]]は、ソフトウェアプロジェクトのコースで[[agentic-ai|AIエージェント]]を用いた学部生が、年を追ってより多くのコードを書いた一方、重い使用下で理解の落ち込みを示したことを報告しています。教員がAI生成コードを一対一で検証することで回復可能です。
 
@@ -210,6 +222,10 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 最近の2つの研究は、オフローディングに測定のための道具立てを与えている。[[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrahら]]の35項目尺度は、このプロセスを報告可能な6つの次元——過剰依存、表面的理解、検証の減少、記憶の弱化、努力の低下、批判的評価の減少——へと置き換え、中等教育段階の生徒616人において妥当性を検証した。[[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma、Manani、Thakwani]]による大学生への調査では、ChatGPT依存は主に学業ストレスを介して実行機能の低さと関連しており、ストレスをモデルに投入すると直接経路はP = 0.328まで低下した。いずれも[[executive-function|実行機能]]に属する研究であり、実行機能こそが、オフローディングによって置き換えられると考えられている能力を担っている。
 
 [[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou and Palaiologos (2026)]]は、データの統合を行わず新たなデータも報告しないナラティブレビューにおいて、この構成概念が生成AIへと移行していく過程を概観している。彼らの枠組みが分析を規定する。すなわち、オフローディングとは労力の再配分であり、問われるのは再配分された労力が学習として還元されるかどうかである。生成AIによって変わるのは対象であり、検索や計算ではなく推論、統合、評価が対象となるため、オフローディングが弱い遅延保持を予測するという従来の知見が、いまや高次の作業に当てはまることになる。彼らが示す設計上の主張は具体的である。正当化や評価を求めるプロンプトはオフローディングを減らし、論証の質を高めたのであり、これにより、てことなるのはモデルの能力ではなくインタラクション設計だということになる。
+
+持続可能性という枠組みは、同じ線引きをコース設計の水準に置く。[[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]]は、認知的代替——学習者がまだ自分の立ち位置を明確に言語化する前に生成された、磨かれた内省的テキスト——を、AI支援下の内省における中核的な教育的リスクとして扱う。そして、学習者はAIに相談する前に最初の記述を確定させ、その出力を批判の対象として扱い、最初の立ち位置と最終的な立ち位置の間で見える変化を記録することを提案している。それによって、この助けは置き換えるのではなく、観察可能な学習者の解釈と改訂を保つのである。
+
+プロファイル水準の証拠は、その区別を際立たせる。530名の医学部生を対象とした[[chi-ai-dependence-academic-procrastination-2026|Chi, Zhang and Jia (2026)]]の研究では、33.0%が低利用者以上の先延ばしをすることなくAIを多用しており、リスクを担っていたのは依拠の量ではなく依拠のパターンであった。
 
 ## よくある誤解
 

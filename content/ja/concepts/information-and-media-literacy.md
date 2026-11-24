@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -85,7 +89,7 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif
 
 カリキュラム設計者は、制作をコース内に置いておくことができる。ここで検討した研究において批判を具体的なものにしたのはメディアを作ることであって、AIによる生成がそれを支えるのは、ツールが自分たちの代わりに下した選択を学生が検討する場合に限られる。
 
-構成概念を態度ではなく遂行として採点すると、弱点が見えるようになる。タイの学部生28名を対象とした8週間のCode Craftの試行では、3段階ルーブリック上のデジタルリテラシーは1.51から2.82へ上昇したが、情報の管理は平均1.92、情報の創造は2.05であり、他者とのコミュニケーションおよび協働の2.36を下回った（[[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]）。最も低い得点は構成概念のうち生産する側に位置しており、検索と評価で止まってしまうコースはそこに到達しない。
+構成概念を態度ではなく遂行として採点すると、弱点が見えるようになる。タイの学部生28名を対象とした8週間のCode Craftの試行では、3段階[[rubrics|ルーブリック]]上のデジタルリテラシーは1.51から2.82へ上昇したが、情報の管理は平均1.92、情報の創造は2.05であり、他者とのコミュニケーションおよび協働の2.36を下回った（[[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang, 2026]]）。最も低い得点は構成概念のうち生産する側に位置しており、検索と評価で止まってしまうコースはそこに到達しない。
 
 プログラム責任者は、図書館員やメディア専門家をワークフローの内部に配置することができる。この文献群で最も強い教育上の成果は、人による相談が事後に提供されるのではなく、あらかじめ組み込まれた設計から得られている。
 

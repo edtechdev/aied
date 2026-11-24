@@ -1,7 +1,7 @@
 ---
 title: 教育分野におけるAIの理論発展
 created: "2026-10-10T22:54:32-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_of: concepts/theory-development-aied
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -17,6 +17,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -94,9 +98,9 @@ AI時代のために既存の枠組みを応用するのではなく、明示的
 
 ## 教育分野におけるAIの哲学との関係
 
-理論発展と[[philosophy-of-ai-in-education|教育分野におけるAIの哲学]]は、この知識ベースの基礎的な仕事の補完的だが異なる系譜です。**理論発展**は、AIと共に学ぶことの*メカニズム*を生み出し実証的に検証します——ジェネラティビズム、認識的共働性、欠落した認商的基線のような、学習者とAIがどう相互作用するかを説明し予測する名指しされた理論と枠組みです。**哲学**は、それらのメカニズムが依拠する*前提*を問いただします。何が知識と見なされるか、誰が知る者と見なされるか、学習者が根本的に何であるか。[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|認識的共働性]]のような理論はメカニズムを提案しながら、分散認知と[[agency]]についての哲学的コミットメントを暗黙に採用しています。哲学はそれらのコミットメントを明示的で争いうるものにします。理論発展がある枠組みが学習をうまく説明するかどうかを問うところで、哲学はそれが学習と心が本当は何であるかを捉えているかどうかを問います——二つの系譜は、この分野の最も基礎的な記事で出会い、そこではしばしば両方が同時になされます。
+理論発展と[[philosophy-of-ai-in-education|教育分野におけるAIの哲学]]は、この知識ベースの基礎的な仕事の補完的だが異なる系譜です。**理論発展**は、AIと共に学ぶことの*メカニズム*を生み出し実証的に検証します——ジェネラティビズム、認識的共働性、欠落した認商的基線のような、学習者とAIがどう相互作用するかを説明し予測する名指しされた理論と枠組みです。**哲学**は、それらのメカニズムが依拠する*前提*を問いただします。何が知識と見なされるか、誰が知る者と見なされるか、学習者が根本的に何であるか。[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|認識的共働性]]のような理論はメカニズムを提案しながら、分散認知と[[agency]]についての哲学的コミットメントを暗黙に採用しています。哲学はそれらのコミットメントを明示的で争いうるものにします。理論発展がある枠組みが学習をうまく説明するかどうかを問うところで、哲学はそれが学習と心が本当は何であるかを捉えているかどうかを問います——二つの系譜は、この分野の最も基礎的な記事で出会い、そこではしばしば両方が同時になされます。その分野の批評家が、それらの理論が開いたり閉じたりする方向性について語ることは別の問いであり、[[critiques-of-ai-in-education|教育におけるAIへの批判]]のもとに集約されています。
 
-## よくある誤解
+## 実践への含意
 
 **「ツールが機能したという知見は理論的貢献である」。** そうではなく、理由は構造的です。枠組みの命題が*構成間の差異*を予測する場合、平均効果のみを報告する研究は**それを確認も反証もできません**。デザインが理論の扱う区別を見ることができないからです。平均の伸びを示す試行は何かが起きたことを伝えますが、どの機構がそれを引き起こしたかは伝えないため、理論は以前と同じ程度にしか支持されないままです。
 
@@ -114,7 +118,7 @@ AI時代のために既存の枠組みを応用するのではなく、明示的
 - 理論的貢献を意図するなら、構成（configuration）の対比を軸に研究を設計すること。理論開発として発表された平均効果の試行研究は、この分野で最も一般的でありながら、最も有用性の低い成果物である。
 - 導入するあらゆるフレームワークに明示的な反証可能な命題を付し、どの構成上の差異がそれらを反証しえたかを報告すること。
 
-## 実践への含意
+## よくある誤解
 
 **教員とインストラクショナルデザイナーにとって**
 

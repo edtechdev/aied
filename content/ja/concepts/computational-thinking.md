@@ -1,7 +1,7 @@
 ---
 title: 計算論的思考
 created: "2026-10-10T22:25:49-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,13 +9,17 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-16T05:36:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cs-education, stem-education, ai-literacy, k-12, prompt-engineering, adaptive-learning, llm, generative-ai, higher-ed, educational-robotics, game-based-learning, project-based-learning, physics-education, scaffolding, critical-thinking, teacher-education, simulation, socratic-method, misconceptions, agentic-ai]
 connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-ai-agent-creation, reshaping-cs-education-genai, prompt-problems-nl-programming-mistakes, llm-computational-thinking-physics-2026, hashmi-socratic-physics-chatbot-2025, visual-query-tracer-declarative-logic-learning, llm-intervention-design-cs-review, academic-league-of-ai-2026, ai-play-framework-early-childhood-2026, edusim-llm-robotic-simulation-education-2026, computational-thinking-educational-robotics-secondary-2026, microbit-robotics-machine-learning-teacher-training-2026, chat-debugging-human-ai-collaboration-circuits, student-misconceptions-conditionals-loops-taxonomy, genai-oop-programming-assessments-2026, game-based-gamified-robotics-education-review-2026, solving-vs-evaluating-genai-solutions, zhang-ct-ai-training-test-2026, computational-thinking-aica-2026, ai-writes-code-student-writes-model-2026, code-to-learn-genai-artifact-construction-2026, astor-computational-thinking-meta-review-2026, tsingidou-ct-robotics-kindergarten-2026, praise-non-programmer-ai-model-implementation-2026, koraneekij-codecraft-computational-thinking-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, huang-ai-literacy-vocational-problem-solving-2026, gutierrez-genai-pedagogical-agent-esd-scoping-review-2026]
@@ -55,7 +59,17 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 - 測定方法の選択が結論を左右します。計算論的思考と批判的思考の項目では、同一構成概念の23組中13組で結論が食い違うか混在しており、自己報告式のCT調査とタスクベースの測定はしばしば一致しません([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]])。
 - 計算論的思考は傾向(ディスポジション)としても測定されます。5年生を対象とした3週間のゲーム研究では、調整後の自己報告CT傾向がGenAIクラスで高く、4.325対4.037でした(p = .046、partial eta-squared = .052、n = 78)。アルゴリズム知識のテストでは両クラスに差が出ず(80.7対74.9)、傾向の測定と知識の測定は異なる構成概念を捉えていました([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]])。
 
-下位スキルのプロファイルは、プレ・ポスト設計が報告する単一のCTスコアを複雑にします。[[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang (2026)]]は、計算機分野以外のタイの学部生28名を対象に、5段階の[[design-thinking|デザイン思考]]サイクルとローコードのアプリ構築を組み合わせた3時間のセッションを8週間にわたって実施し、プロジェクトの成果を3段階のルーブリックで採点しました。計算論的思考の平均は第1セッションの1.13から1.80、さらに2.49へと上昇し、アルゴリズム的思考が平均2.08で最も強い要素となり、1.46から1.93、2.86への軌跡をたどりました。論理的思考の平均は1.54で、最初の2セッションではほとんど動かず(1.04から1.29)、第3セッションで2.29に達しました。これは、ある構成要素の伸びが他の要素も伸びたことを意味しないという注意を促しています。
+下位スキルのプロファイルは、プレ・ポスト設計が報告する単一のCTスコアを複雑にします。[[koraneekij-codecraft-computational-thinking-2026|Koraneekij and Khlaisang (2026)]]は、計算機分野以外のタイの学部生28名を対象に、5段階の[[design-thinking|デザイン思考]]サイクルとローコードのアプリ構築を組み合わせた3時間のセッションを8週間にわたって実施し、プロジェクトの成果を[[rubrics|3段階のルーブリック]]で採点しました。計算論的思考の平均は第1セッションの1.13から1.80、さらに2.49へと上昇し、アルゴリズム的思考が平均2.08で最も強い要素となり、1.46から1.93、2.86への軌跡をたどりました。論理的思考の平均は1.54で、最初の2セッションではほとんど動かず(1.04から1.29)、第3セッションで2.29に達しました。これは、ある構成要素の伸びが他の要素も伸びたことを意味しないという注意を促しています。
+
+## CTの実践としてのシステム思考
+
+システム思考は、Weintropらが数学と科学のために開発した計算論的思考の分類体系における四つの領域の一つであり、データの実践、計算による問題解決の実践、モデリングとシミュレーションの実践と並ぶものです。その定義は正確です。**システムの境界を定義し、微視的な相互作用を巨視的な振る舞いへと統合する能力**。それは学習者レベルの認知的容量、つまりシステムについて推論する方法であり、[[learning-environments-as-systems|学習環境をシステムとして捉えること]]という環境レベルの立場とは区別されます。
+
+また、評価が最初に崩れるのがこの領域でもあります。[[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch and Rebello (2026)]]は、入門計算物理学コースにおける936名学生の記述式説明をこの分類体系に照らしてコード化し、10名学生（60件の回答、Fleiss' κ = 0.53）で人間のベースラインを較正した後、50名学生（300件の回答）を多数決でコード化しました。学生の伸びが最も大きかったのはデータの実践であり（p < 0.001, d = 1.03）、計算による問題解決（d = 0.52）とシステム思考（d = 0.45）で中程度の伸びがありました。しかし、システム思考は人間にもモデルにも最も信頼性の低い構成概念でした。人間の一致κ = 0.51、LLMのκ = 0.48に対し、データの実践はκ = 0.90、モデリングとシミュレーションはκ = 0.78でした。著者らの読みでは、この難しさはモデルの欠陥ではなく構成概念の複雑性に由来します。要素を特定すること*かつ*それらの相互作用と帰結を説明することを求める多要素の構成概念は、明確に定義された構成概念よりもコード化が難しいのです。モデリングとシミュレーションでd = 0.00だったのは、別の理由、すなわち天井効果によるものでした。教授前の平均がすでに2満点中1.62であったため、その項目は成長ではなく基礎的知識を測定していたのです。
+
+実践的な含意は、モデルの問題ではなくルーブリック設計の問題です。彼らの推奨は、システム要素の特定を、それらの要素がどう相互作用するかの説明とは別に採点されるようルーブリックを書き直すこと、そして統合的な構成概念に対する自動化された一致の低さを、自動化を放棄するのではなく道具を修正するよう図るサインとして読むことです。これは、[[rubrics|ルーブリック]]研究が採点の側から到達するのと同じ動きです。較正するのはモデルではなく道具なのです。
+
+この構成概念は物理学を越えて広がります。[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz and Castro Samayoa (2026)]]は、システム思考をAounが*ロボットに代替されにくい（robot-proof）*と呼ぶ能力の一つに数えます——批判的思考、システム思考、文化的敏捷性——実践が築き、委任は築かない能力です。[[huang-ai-literacy-vocational-problem-solving-2026|Huangら (2026)]]は、自身の「系統的思考」という構成概念をそれと対比して境界づけます。彼らのものを狭い四次元の測定（構造化、推論、優先順位づけ、統合）として扱い、広い意味でのシステム思考と呼ぶことは明確に避けているのです。そして[[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea and Valencia-Silva (2026)]]は、関与はシステム思考ではないと警告しています。この区別は、あるルーブリックが、そのルーブリックが測るよう書かれていない能力を認定するために使われるときに重要なのです。
 
 ## CTと、AIの消費者から生産者・創造者・設計者への移行
 

@@ -1,7 +1,7 @@
 ---
 title: AIリテラシー
 created: "2026-10-10T21:52:44-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -11,7 +11,7 @@ connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-com
 confidence: high
 connected_resources: [education-agent-skills, eduprompts, mglearn, onmicro-ai, playlab, pressing-prompts, student-guide-to-ai, vibes-diy, fpds-apps-and-resources, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/ai-literacy
-source_updated: "2026-11-17T18:50:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, metaphors-and-analogies, learners, automation-bias, generative-ai, llm, critical-thinking, prompt-engineering, metacognition, cognitive-offloading, reducing-ai-misuse, academic-integrity, self-assessment, trust-calibration, ai-sycophancy, equity-in-ai-education, digital-divide, ethics, teacher-ai-competency, educational-development, ai-assisted-educational-research, k-12, higher-ed, career-development-and-readiness, ai-education, civic-and-political-education, critiques-of-ai-in-education]
 connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhanced-oer-composition-2026, guo-ai-literacy-developmental-paces-2026, cerioli-human-centered-ai-literacy-schools-2026, islam-credibility-weaker-llms-2026, yang-collaborative-ai-literacy-measures-review-2026, early-childhood-ai-holistic-competencies-review-2026, ai-security-literacy-k12-framework-2026, mu-ai-competence-ethical-awareness-anxiety-2026, caeai-digital-literacy-frameworks-review-2026, ai-literacies-young-adults-2025, ai-literacy-heptagon-2026, ai-literacy-continuum-higher-education, ai-literacy-measurement-conceptual-landscape-llm-2026, ai-literacy-instrument-development-systematic-review-2026, gails-generative-ai-literacy-scale-2026, jin-glat-genai-literacy-assessment, ai-literacy-assessment-misalignment, genai-assessment-literacy-scale-2026, competent-generative-ai-use-measures-review-2026, ai-literacy-correlates-affective-behavioral-cognitive-2025, assessing-teachers-ai-literacy-measurement-tools-2026, ai-literacy-self-assessment-questionnaire-primary-2025, metacognitive-ai-literacy-beyond-skills-gap-2026, liu-ai-literacy-interventions-meta-analysis-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, age-tiered-ai-literacy-guidebooks-2026, li-mroziak-reorienting-critical-ai-literacy, miles-prompt-literacy-human-centered-genai-framework-2026, contextual-sycophancy-ai-literacy, student-dependency-on-ai-literacy-self-efficacy-2026, clerc-ai-literacy-workshop-llm-regulation-2026, ai-literacy-sdg-governance-framework-2026, ukraine-ai-literacy-secondary-framework-2026, niri-steam-ai-literacy-review-2026, hingle-collaborative-ai-literacy-2025, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, davor-ai-supported-learning-higher-order-outcomes-2026, yu-designing-ai-literacy-self-determination-2026, hu-psychological-predictors-continued-chatgpt-use-2026, zhi-modeling-measuring-graduate-genai-literacy-2026, pinto-ai-initial-teacher-training-mathematics-review-2026, vega-baudrit-genai-university-chemistry-education-review-2026, genai-higher-ed-agency-responsibility-discourse-2026, elsayary-ai-literacy-employability-competencies-2026, fagerlund-competency-agency-purposes-ai-education-2026, charles-teacher-readiness-by-design-ai-rich-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, sun-student-genai-entanglement-literacy-demands-2026, ai-competence-framework-landscape-2026, ai-literacy-determinants-university-students-2026, sfailq-six-facet-ai-literacy-questionnaire-2026, faculty-ai-well-being-social-supports-2026, bozkurt-3wai-literacy-scale-2026, hallstrom-ai-literacy-stem-education-frontiers-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, genait-genai-literacy-test-high-school-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, kim-overtrust-ai-literacy-2026, liang-ai-literacy-facets-creative-higher-education-2026, chen-genai-literacy-task-performance-cognitive-load-2026, huang-ai-literacy-vocational-problem-solving-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, roe-perkins-furze-metaphors-critical-ai-literacy-2025, cuenca-rodriguez-genai-use-caution-trajectories-2026, boison-freirean-critical-ai-literacy-framework-2026, dumancic-tool-to-method-ai-literacy-history-2026, ago-prompt-literacy-allied-health-2026, making-ai-work-for-students-ofs-2026, yan-genai-use-critical-thinking-feedback-literacy-2026, ethics-education-meta-analysis-moral-outcomes-2026, idea-model-doctoral-education-genai-2026, ke-three-tier-ai-literacy-architecture-2026]
@@ -46,7 +50,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhance
 
 ## はじめに
 
-[[generative-ai|生成的AI]]が教育に組み込まれるにつれて、AIリテラシーは学習者、教育者、組織の中核的な能力として急速に台頭してきました。一般的なデジタルリテラシーとは異なり、AIリテラシーは、幻覚を起こし、[[bias-mitigation|偏見]]を示し、[[agency|主体性]]を人間から機械へと移しうる確率的なシステムを理解することを求めます。それが[[critical-thinking|批判的思考]]と[[cognitive-offloading|過度の依存]]を、この構成概念の中心に置くのです。
+[[generative-ai|生成的AI]]が教育に組み込まれるにつれて、AIリテラシーは学習者、教育者、組織の中核的な能力として急速に台頭してきました。一般的なデジタルリテラシーとは異なり、AIリテラシーは、幻覚を起こし、[[bias-mitigation|偏見]]を示し、[[agency|主体性]]を人間から機械へと移しうる確率的なシステムを理解することを求めます。それが[[critical-thinking|批判的思考]]と[[cognitive-offloading|過度の依存]]を、この構成概念の中心に置くのです。その能力としての枠組みで十分かどうか、あるいはそれがAIへの消費者志向を強いているかどうかという疑問は、[[critiques-of-ai-in-education|教育におけるAIへの批判]]の中で展開されてきた生きた批判です。
 
 ## AIリテラシーの次元
 
@@ -66,7 +70,7 @@ connected_articles: [jordan-faculty-ai-oer-creation-2025, powell-chatbot-enhance
 
 **実践的な能力:**AIツールを効果的に使う能力です。[[prompt-engineering|プロンプトエンジニアリング]]から出力の解釈までにわたります。[[genai-usage-design-students-survey|学生のGenAI利用パターンに関する研究]]は、ツールへのアクセスだけでは能力は生じず、構造化された練習と[[scaffolding|足場かけ]]が不可欠であることを明らかにしています。[[gaide-vibe-coding-k12-teachers|vibe coding(体感コーディング)フレームワーク]]は、[[k-12|K-12の教師]]がガイド付きのツール制作を通じて実践的なAIリテラシーをどう発達させられるかを示しています。[[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]]は、この次元に、最適化のための訓練が見落とす部分があると論じます。プロンプトエンジニアリングとは区別されたプロンプト・リテラシーは、プロンプトを打つことを修辞的かつ倫理的な行為として扱うため、出力をより良い性能へと調整するだけの指導は、LLM利用の倫理的・認識論的な次元に手をつけないまま残すのです。
 
-**批判的な評価:**AIの出力の正確さ、偏り、適切さを評価する能力です。[[ai-literacy-assessment-misalignment|リテラシーの評価に関する研究]]は、自己申告のAIリテラシーと実績に基づくAIリテラシーの間に40%の隔たりがあることを示しています。人々は一貫して自分の評価技能を過大評価します。この乖離は、[[self-report-measures|自己報告尺度]]が、それが名指す能力を追跡できなかったという、ナレッジベースで最も明確な事例です。これは、AIを批判的に確かめずに[[trust|信頼]]する学生がより少なく学ぶことを示す[[cognitive-offloading|過度の依存]]の研究に結びつきます。最近の概念的な研究は、評価を*検証*へと押し進めています。[[pearls-epistemic-verification-2026|PEARLSフレームワーク]](Wang)は、AIの出力を、その正当化が6つの次元(Process、Evidence、Access、Reproducibility、Legitimacy、Source)にわたって組み立てられ検討されなければならない、暫定的な知識の主張として扱い、AIの主張を確かめながら学習者が専門性を築くメカニズムとして**検証駆動の学習**を提唱しています。これを補うものとして、[[student-centered-genai-responsible-framework-2026|学生中心の責任ある利用フレームワーク]](Alsammani)は、Learning and Growth、Ethics and Integrity、Awareness and Safetyの柱にわたる10の学生向け指針を提供し、意思決定の瞬間に[[metacognition|メタ認知的]]な問いかけを外在化します。[[k-12|中等教育]]の学習者については、[[aarc-ai-research-competency-2026|AI支援研究能力(AARC)フレームワーク]](Beau, Flaquière & Lazar 2026)は、これを徳の認識論とAIの直観に基礎づけ、研究リテラシーを、[[agency|著作権]]、判断、検証、責任を放棄することなくAIとともに探究を行うこととして定義し、分析的なルーブリックと、検証・引用・省察の確約の手順として具体化しています。[[assessment|評価]]の側では、[[human-capability-test-learning-outcomes-ai-2026|Saleh (2026)]]は、評価を設計原理に変える*人間の能力テスト*を提案しています。学生が何を独立して示さなければならないか、何がAIによる拡張を通じて強められうるか、そして学生が何を検証し、擁護し、責任を負わなければならないかを問うのです。
+**批判的な評価:**AIの出力の正確さ、偏り、適切さを評価する能力です。[[ai-literacy-assessment-misalignment|リテラシーの評価に関する研究]]は、自己申告のAIリテラシーと実績に基づくAIリテラシーの間に40%の隔たりがあることを示しています。人々は一貫して自分の評価技能を過大評価します。この乖離は、[[self-report-measures|自己報告尺度]]が、それが名指す能力を追跡できなかったという、ナレッジベースで最も明確な事例です。これは、AIを批判的に確かめずに[[trust|信頼]]する学生がより少なく学ぶことを示す[[cognitive-offloading|過度の依存]]の研究に結びつきます。最近の概念的な研究は、評価を*検証*へと押し進めています。[[pearls-epistemic-verification-2026|PEARLSフレームワーク]](Wang)は、AIの出力を、その正当化が6つの次元(Process、Evidence、Access、Reproducibility、Legitimacy、Source)にわたって組み立てられ検討されなければならない、暫定的な知識の主張として扱い、AIの主張を確かめながら学習者が専門性を築くメカニズムとして**検証駆動の学習**を提唱しています。これを補うものとして、[[student-centered-genai-responsible-framework-2026|学生中心の責任ある利用フレームワーク]](Alsammani)は、Learning and Growth、Ethics and Integrity、Awareness and Safetyの柱にわたる10の学生向け指針を提供し、意思決定の瞬間に[[metacognition|メタ認知的]]な問いかけを外在化します。[[k-12|中等教育]]の学習者については、[[aarc-ai-research-competency-2026|AI支援研究能力(AARC)フレームワーク]](Beau, Flaquière & Lazar 2026)は、これを徳の認識論とAIの直観に基礎づけ、研究リテラシーを、[[agency|著作権]]、判断、検証、責任を放棄することなくAIとともに探究を行うこととして定義し、[[rubrics|分析的なルーブリック]]と、検証・引用・省察の確約の手順として具体化しています。[[assessment|評価]]の側では、[[human-capability-test-learning-outcomes-ai-2026|Saleh (2026)]]は、評価を設計原理に変える*人間の能力テスト*を提案しています。学生が何を独立して示さなければならないか、何がAIによる拡張を通じて強められうるか、そして学生が何を検証し、擁護し、責任を負わなければならないかを問うのです。
 
 専門分野における検証は、その水準をさらに引き上げます。[[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Alvarez (2026)]]は、大学の[[chemistry-education|化学]]において中核的なAIリテラシーの要求は、Johnstoneの巨視的、微視的、記号的という領域にわたる表象の翻訳であると論じます。なぜなら、ある出力は一つの領域では部分的にもっともらしく見えながら、別の領域では電荷の収支、反応機構、あるいは安全限界と矛盾しうるからです。彼らの処方は検証中心の統合です。検証を評価される活動とし、プロンプトのログと改訂の履歴を推論の痕跡として保持し、プロンプトを制約、想定、適切さの基準を指定する認識論的な行為として扱い、学生が誤った想定を特定したり、生成された答えの棄却を正当化したりすることを求めます。
 
@@ -188,7 +192,7 @@ AIリテラシーにおける中心的な未解決の問いは、*どの*技能�
 
 **1. 構造化された能力フレームワークを、チェックリストではなく足場かけとして使う。**成熟したフレームワークは、設計者に共有された語彙と発達段階に応じて順序づけられた目標を与えます。[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAILフレームワーク]](The Scaffolded AI Literacy Framework)は、AIリテラシーを3つの領域(AIの概念、応用と技術的な技能、AIのデジタル市民性)に、4つの足場かけを施した水準(Understand and Explore → Apply and Integrate → Evaluate and Create → AI++)にわたって整理します。[[ai-literacy-heptagon-2026|AIリテラシー七角形]]は、7つの次元(技術的な知識、応用、批判的思考、倫理、社会的影響、統合、法・規制)をブルームに整合した4つの習熟水準と交差させ、重点は**専門分野の文脈に応じて適応されなければならない**と強調します。技術系のプログラムは応用に、[[humanities-education|人文系]]のプログラムは倫理的・社会影響的な推論に重みを置きます。([[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]])([[ai-literacy-heptagon-2026]])
 
-**2. ICAPの様式を横断して学習者を関与させる。**[[icap-framework|ICAPフレームワーク]]を適用すると、効果的な指導は、学習者が複数の認知的レベルで関与する機会を与えます。受動的な接触(AIの概念の講義)、能動的な操作(ツールを実際に使うこと)、構成的な生成(AIの成果物を作ること、自己説明をすること)、相互的な対話(同級生やAIと[[problem-solving|問題解決]]で協働すること)です。学習目標に合う様式を選びます。[[meta-analysis-systematic-review|系統的レビュー]]は、成功した協働的なAIリテラシー介入が、4つのICAPの様式すべてにわたっていたことを見出しました。([[hingle-collaborative-ai-literacy-2025]])
+**2. ICAPの様式を横断して学習者を関与させる。**[[icap-framework|ICAPフレームワーク]]を適用すると、効果的な指導は、学習者が複数の認知的レベルで関与する機会を与えます。受動的な接触(AIの概念の講義)、能動的な操作(ツールを実際に使うこと)、構成的な生成(AIの成果物を作ること、自己説明をすること)、相互的な対話(同級生やAIと[[problem-solving|問題解決]]で協働すること)です。学習目標に合う様式を選びます。[[meta-analysis-systematic-review|系統的レビュー]]は、成功した協働的なAIリテラシー介入が、4つのICAPの様式すべてにわたっていたことを見出しました。([[hingle-collaborative-ai-literacy-2025]]) 様式の区別は飾りではありません。AIの外では、倫理指導のメタ分析が、道徳的な成果は全体的に改善するものの、その利益は討議に基づく提供から生じ、講義のみの提供からは何も生じなかったことを見出しています（[[ethics-education-meta-analysis-moral-outcomes-2026|Basarkod et al., 2026]]）。
 
 **3. 自己認識ではなく、実証された能力を評価する。**自己申告のAIリテラシーは、測定された実績から大きくかけ離れています。教師は自分のAI技能を約40%過大評価し、実績に基づく尺度は、自己報告よりも教室でのAI統合をはるかによく予測します(r≈0.72 対 0.31)。確信の調査ではなく、実績に基づく評価と較正を軸に介入を設計し、診断的なプロファイル(過大評価する者と本当の初心者)を用いて支援を的を絞ってください。([[ai-literacy-assessment-misalignment]])
 
@@ -209,6 +213,8 @@ AIリテラシーにおける中心的な未解決の問いは、*どの*技能�
 専門的なカリキュラムがすでに存在するところでも、提供は薄いままです。ガーナの公立大学1校の医療系学部生417人のうち、76.3%(n = 318)が責任あるAI利用についての事前の訓練がなかったと報告し、40.8%が教職員の指導を不十分と評したのに対し、適切と評したのは28.1%でした([[ago-prompt-literacy-allied-health-2026|Agoら(2026)]])。したがって保健専門職における介入の設計は、既存のカリキュラムを延長する学習者からではなく、その内容を一度も教わったことのない初心者から始まります。
 
 順序づけは、この分野の最近の2つの報告で最も重要とされる設計上の決定として現れます。[[powell-chatbot-enhanced-oer-composition-2026|Powellら(2026)]]は、非同期の作文コースの第1週から第4週に、学生がアシスタントを必要とする課題より前に短いAIリテラシーの動画を置き、学生も教師もその動画を、許容される利用を読み取れるものにした要素として名指しました。[[jordan-faculty-ai-oer-creation-2025|Jordanら(2025)]]は教師について同じ論理を実行しました。8週間、報酬のある時間、コホート、そして出力を批評するための共有された枠組みで、自己申告の親しみやすさは控えめに動き(5点尺度で3.2から3.5)、快適さはすべての参加者で4か5に上がりました。
+
+カリキュラムの階層化は、さらなる設計上の手立てです。[[ke-three-tier-ai-literacy-architecture-2026|Ke (2026)]]は、操作的な熟達、評価的リテラシー、補完的な能力を依存関係の連鎖として順序づけ、最も安価な階層が最も急速に価値を失う階層でもあると指摘しています。
 
 ## AIリテラシーの測定
 

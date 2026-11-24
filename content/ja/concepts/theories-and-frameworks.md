@@ -1,14 +1,14 @@
 ---
 title: 理論と枠組み
 created: "2026-10-10T22:54:32-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-source_updated: "2026-11-16T05:34:40-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_of: concepts/theories-and-frameworks
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -16,6 +16,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,6 +70,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 ## 教授、統合、受容の枠組み
 
 - **[[tpack|TPACK]]** — テクノロジー、教授法、内容を融合させる教師の知識であり、教師向けAI研究における標準的な枠組み。
+- **[[bloom-taxonomy|ブルームのタキソノミー]]** — 課題の認知的要求のための共有された語彙であり、項目を符号化することと、それらを順序づけることの両方に用いられます。教育におけるAIでは、それは設計上の問題であると同時に、測定上の問題でもあります。
 - **[[technology-acceptance-model|導入モデル]]** — 意図を、知覚された有用性と使いやすさの関数として捉える。この分野が行動ではなく意図に依拠していることが常に批判の対象となるほど、広く用いられている。
 - **期待確認モデル（ECM）** — 満足度を事前の期待の確認として捉え、初期の導入ではなく継続利用を結果とする。学部生24人を対象とした1学期間の社会学研究方法のパイロットでは、87%がCopilotを良いまたは優れていると評価し、91%が他者に勧めるとしたが、使い続ける意向を示したのは57%にとどまった（[[wells-genai-research-assistant-sociology-2026|Wells, 2026]]）。この差こそがモデルの要点である。満足したユーザーでも再び使わないという選択はありうるため、満足度と継続利用は別々に測定する必要がある。
 - **[[icap-framework|ICAP]]** — 関与を受動的、能動的、構成的、相互作用的の順に序列化する。[[student-ai-interaction|AIとのインタラクション]]が実際にどの様式を可能にしているかを問う際に有用である。
@@ -105,7 +110,7 @@ connected_articles: [genai-chatbots-language-learning-affordances-review-2026, a
 
 ## 関連する層
 
-隣接する2つのページは、意図的に別のことを扱っています。[[philosophy-of-ai-in-education|教育におけるAIの哲学]]は規範的・概念的な問い——教育は何の*ため*のものか、機械が教えることはできるか——を立て、効果量を予測しません。研究は哲学的に素朴で理論的に健全であることも、その逆もありえます。[[theory-development-aied|理論発展]]は、理論を構築し、借り、改訂するメタ活動であり、[[ai-education|AIEd]]研究の多くが既存の理論を応用はしても検証しないという定常的な批判を含みます。このページは目録であり、理論発展は目録を生み出し改訂することについてです。
+隣接する2つのページは、意図的に別のことを扱っています。[[philosophy-of-ai-in-education|教育におけるAIの哲学]]は規範的・概念的な問い——教育は何の*ため*のものか、機械が教えることはできるか——を立て、効果量を予測しません。研究は哲学的に素朴で理論的に健全であることも、その逆もありえます。[[theory-development-aied|理論発展]]は、理論を構築し、借り、改訂するメタ活動であり、[[ai-education|AIEd]]研究の多くが既存の理論を応用はしても検証しないという定常的な批判を含みます。このページは目録であり、理論発展は目録を生み出し改訂することについてです。[[learning-environments-as-systems|学習環境をシステムとして捉えること]]は第三の隣人です。これは学習の理論ではなく、効果量も予測しませんが、分析単位に関する立場です。学習環境は部分が相互作用する多水準のシステムであるため、研究が測定する水準は便宜的な標本化ではなく理論的な決定なのです。
 
 ## 問いが実践的なときの視点の選び方
 

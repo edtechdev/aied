@@ -1,7 +1,7 @@
 ---
 title: 教育における AI への批判
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026,
 
 ## インフラ、転導、そして誤認
 
-第三の群れは、注意を道具そのものから、それを取り巻くインフラへと移します。Watson、Morgner、Brezovec は生成 AI を意味を媒介するインフラとして扱い、そのメカニズムを*意味転導（semantic transduction）*——教育的要求、すなわちプロンプト、ブリーフ、ルーブリック、試験問題、ジャンル、あるいは政策を、伝達上もっともらしい形式へと再フォーマットすること——と名づけます（[[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec, 2026]]）。転導は選択的であるため、何かを取り込むことも、排除することもあります。三つの場が繰り返し現れます。アクセスと能力の格差、「よい回答」や「よい学生」がどのような声をもつかというテンプレートを通じた誤認、そして教育学が何を意味すると理解されるかという規範的なずれです。排除は、禁止というよりしばしば挟撃です。機関は、ペース、仕上げ、慣用的な流暢さについての期待を高めると同時に、真正性のレジームを締めつけるのです。
+第三の群れは、注意を道具そのものから、それを取り巻くインフラへと移します。Watson、Morgner、Brezovec は生成 AI を意味を媒介するインフラとして扱い、そのメカニズムを*意味転導（semantic transduction）*——教育的要求、すなわちプロンプト、ブリーフ、[[rubrics|ルーブリック]]、試験問題、ジャンル、あるいは政策を、伝達上もっともらしい形式へと再フォーマットすること——と名づけます（[[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec, 2026]]）。転導は選択的であるため、何かを取り込むことも、排除することもあります。三つの場が繰り返し現れます。アクセスと能力の格差、「よい回答」や「よい学生」がどのような声をもつかというテンプレートを通じた誤認、そして教育学が何を意味すると理解されるかという規範的なずれです。排除は、禁止というよりしばしば挟撃です。機関は、ペース、仕上げ、慣用的な流暢さについての期待を高めると同時に、真正性のレジームを締めつけるのです。
 
 ## アジェンダ設定、模擬革新、そして実験的フューチャリング
 

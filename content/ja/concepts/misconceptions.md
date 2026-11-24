@@ -1,7 +1,7 @@
 ---
 title: AIに関する誤概念
 created: "2026-10-10T22:45:45-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -10,7 +10,7 @@ ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-source_updated: "2026-11-18T16:55:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_of: concepts/misconceptions
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## はじめに
 
-AIに関する誤概念が重要なのは、それが、ナレッジベースが[[cognitive-offloading|過度の依存]]と[[academic-integrity]]の懸念のもとに文書化する有害な行為の認知的先行条件だからです。人々がわざわざAIを[[ai-misuse-learning-harm|誤用]]しようとすることはめったにありません。不正確な心的モデルが、信頼を置き場所を誤らせ、検証を省かせ、成果物を理解として扱わせるために、そうなるのです。教育において、これらの誤りは、学生がどう学ぶかから、教員や機関がカリキュラム、[[assessment]]、政策をどうデザインするかまで、あらゆるものを形作ります。
+AIに関する誤概念が重要なのは、それが、ナレッジベースが[[cognitive-offloading|過度の依存]]と[[academic-integrity]]の懸念のもとに文書化する有害な行為の認知的先行条件だからです。人々がわざわざAIを[[ai-misuse-learning-harm|誤用]]しようとすることはめったにありません。不正確な心的モデルが、信頼を置き場所を誤らせ、検証を省かせ、成果物を理解として扱わせるために、そうなるのです。教育において、これらの誤りは、学生がどう学ぶかから、教員や機関がカリキュラム、[[assessment]]、政策をどうデザインするかまで、あらゆるものを形作ります。当初からそれらの誤概念を生み出す枠組みそのものを問う別の研究の集積については、[[critiques-of-ai-in-education|教育におけるAIへの批判]]を参照してください。
 
 ## AIの誤概念とは何か
 

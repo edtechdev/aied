@@ -1,20 +1,24 @@
 ---
 title: 教育における AI の哲学
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
 translation_of: concepts/philosophy-of-ai-in-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,13 +39,14 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## はじめに
 
-これは[[ai-education|教育における AI]]の哲学的・理論的基盤についての概念ページです。[[learning-theories|学習理論]]のページが経験的・設計指向の理論（[[behaviorism|行動主義]]、[[constructivist|構成主義]]、[[cognitive-offloading|認知負荷]]、[[self-regulated-learning|自己調整学習]]など）を記録しているのに対し、哲学の系譜はそれらの理論が前提としている存在論的・認識論的・倫理的問いに取り組みます。両者は緊密に結びついています。哲学的立場が、どの学習理論がもっともらしく見えるか、そしてどのような教育目標が追求する価値があるかを形づくるからです。
+これは[[ai-education|教育における AI]]の哲学的・理論的基盤についての概念ページです。[[learning-theories|学習理論]]のページが経験的・設計指向の理論（[[behaviorism|行動主義]]、[[constructivist|構成主義]]、[[cognitive-offloading|認知負荷]]、[[self-regulated-learning|自己調整学習]]など）を記録しているのに対し、哲学の系譜はそれらの理論が前提としている存在論的・認識論的・倫理的問いに取り組みます。両者は緊密に結びついています。哲学的立場が、どの学習理論がもっともらしく見えるか、そしてどのような教育目標が追求する価値があるかを形づくるからです。その作業の規範的な系譜、すなわち教育におけるAIが教育をどう変えようとしているかについての議論は、[[critiques-of-ai-in-education|教育におけるAIへの批判]]のもとに集約されています。
 
 ## 主要な哲学的問い
 
 - **心と認知の本質。**思考には意識と身体が必要なのか。AIは真に認知的なプロセスに参加できるのか。**アンサンブル認知**のような枠組みは、AIは意識なしに*機能的エージェンシー*——認知プロセスにおける真の因果的効力——を発揮し、思考は人間と[[student-ai-interaction|AIとの相互作用]]の動的な関係から創発すると論じる。（[[ensemble-cognition-philosophy-ai-education|Jho et al., 2026]]）[[distributed-cognition|分散認知]]と拡張された心のテーゼも、認知がシステム全体に広がっているという関連する主張を行う。
 - **学習者とは何か。**ポストヒューマニスト哲学は、学習者を、その認知プロセスが真にハイブリッドであり[[biology-education|生物的]]システムと人工システムに分散している「ポストヒューマン」な存在として再概念化する。（[[elsayed-pedagogical-symbiosis-posthuman-learner|Elsayed, 2026]]）これは、学習者が境界づけられた自律的な個人の心であるという前提に異議を唱える。
 - **身体性と、身体を持たないAIの限界。**[[embodied-learning|身体化された認知]]とポスト認知主義の哲学は、記号的で身体を持たないAIモデルの支配を批判し、認知は状況性、創発、そして現在の[[generative-ai|生成AI]]が欠いている感覚運動的結合に根ざしていると論じる。（[[videla-embodied-ai-education-choreography|Videla et al., 2026]]）
+- **断絶ではなく連続性としての自動化。**[[videla-why-education-cannot-be-automated-2026|Videla, Ross and Aros (2026)]]は、人工知能が学校になじむのは、学習を情報処理とし教授を伝達とする認知的・教育的モデルを拡張するからであり、したがって教育の自動化は、意味と責任が生まれる身体化され関係的な条件から学習を抽象化する存在論的錯覚であると論じる。
 - **機械の心の試金石としての感情労働。**AIが教えられるかという本分野の議論は、しばしばAIが*ケアする*ことができるかという問題に帰着するが、これは[[affective-computing|アフェクティブ・コンピューティング]]が存在するはるか以前から論じられてきた問いである。[[khan-machines-emotional-labor-education-2026|Khan (2026)]]は1950–1996年の論争を再構成する。そこでは、文字どおりに感情を持ちうるのは生物だけだというZiffの主張に対して、Smartの同一説とPutnamの行動的基準が応答し、競合する三つの存在論は未解決のまま残された。彼の結論は不可能性の主張ではなく正当化の負担である——表象、シミュレーション、模倣は感情労働を決定しきれない——そしてその負担は、パストラル・ワーク（生徒の心のケア）をシステムに委ねようとする者に課される。
 - **エージェンシー、著者性、意味。**AIが解釈と意味生成を媒介するとき、哲学は著者性、認識的[[agency|エージェンシー]]、解釈の自律性がどのように再構成されるかを問う。（[[voicu-ai-interpretive-cognition-ssh-2026|Voicu, 2026]]）
 - **AIが生成する科学的対象の存在論。**[[chemistry-education|化学]]において、AIが予測した化合物や滴定曲線は「境界的な存在論的空間」——経験的に証明されるまでは完全に仮説的でもなく、完全に実在的でもない——を占めており、これは同分野を実在論から、実在が人間と機械の協働であるとする構成主義的見解へと移行させる（[[philosophy-experimentation-ai-chemistry-2026|Reyes and Regala (2026)]]）。
@@ -64,11 +69,11 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 教育における AI の哲学と[[theory-development-aied|AIEd における理論構築]]は、補完的であると同時に区別されます。哲学は存在論的・認識論的問いを立てます。すなわち、AI を媒介とする条件のもとで、心・知識・学習者が根本的に何であるか、ということです。一方、理論構築は、それらの問いへの答えを操作化する*仕組み*を生み出し、経験的に検証します（生成主義、認識論的共同主体性、不在の認知的基線）。両者は相互に情報を与え合います。哲学は理論が携える前提を明確にし（例えば、[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|認識論的共同主体性]]は、分散的で個人主義的でない認知のモデルを前提としています）、一方で理論構築は哲学的立場に検証可能で反証可能な形を与えます。この分野で最も基礎的な論文は、この二つの概念の境界に位置しながら、両方を同時に行っています。
 
-## よくある誤解
+## 実践への含意
 
 **「害は認知的オフローディングであり、より多くの努力で可逆である」** より強い主張が可能です。Bai と Costa（2026）は、思考を内省的で移譲できない活動として捉えるアーレントの説明を引きつつ、作業を*供給する*生成 AI は思考を負荷分散するだけでなく思考そのものを閉ざすと論じます。そしてそのリスクを、個人の意志力ではなく、ブルデューの場とハビトゥスを通じて制度的に位置づけます。この論が成り立つなら、「注意して使いなさい」は十分な対処ではありません。実践は、出力に報いる場によって形作られるからです。
 
-- ツールを導入する前に、何を学生自身の成果として認めるのかを決めておくこと。システムが生成した洗練された提出物であなたの評価を満たせてしまうなら、あなたはすでに「何もない」と答えたことになっている——後からルーブリックを変更しても、この問いを取り戻すことはできない。
+- ツールを導入する前に、何を学生自身の成果として認めるのかを決めておくこと。システムが生成した洗練された提出物であなたの評価を満たせてしまうなら、あなたはすでに「何もない」と答えたことになっている——後から[[rubrics|ルーブリック]]を変更しても、この問いを取り戻すことはできない。
 - 課題を設計する際には、思考を閉ざすという議論を真剣に受け止めること。成果物を提供するGenAIが、思考を単に肩代わりさせるのではなく閉ざしてしまうのであれば、「責任を持って使う」では十分な安全策にならない。なぜなら、それを取り巻く場が成果物に報いるからである。ツールが利用可能になる前に思考の証拠が生じるような課題を設計すること。
 - 自分の科目が誰の学習観を埋め込んでいるのかを問うこと。フレームワークを無批判に採用することは、学習者とは何かについてのその前提をそのまま取り込むことであり、その前提は争われうるものである。
 
@@ -83,7 +88,7 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 - 自らの評価が前提としている学習観を明示すること。測定された伸びは、教育が何のためにあるのかについての何らかの説明に照らしてはじめて、教育的な善となるからである。
 - 実証的な研究と並行して哲学的な研究にも資金を投じること。何を学習者の達成とみなすかという問いが、実証研究がその後に用いる成功基準を設定するからである。
 
-## 実践への含意
+## よくある誤解
 
 **「教育におけるAIの哲学は、学習理論をカタログ化することと同じである。」** 両者は異なる深さに位置している。[[learning-theories|学習理論]]のページが問うのは*学習はいかにして起こるか*であり、哲学が問うのは、AIに媒介された条件の下で*学習、心、学習者とは根本的に何であるか*である。一つの研究が学習理論上の問いに決着をつけても、哲学的な問いは手つかずのまま残りうる。それゆえ、技術的に成功した介入であっても、なお行うべきではないことになりうるのである。
 

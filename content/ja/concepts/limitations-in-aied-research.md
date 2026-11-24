@@ -1,7 +1,7 @@
 ---
 title: "AIEd研究の限界"
 created: "2026-10-10T22:38:07-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-source_updated: "2026-11-16T09:58:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_of: concepts/limitations-in-aied-research
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -19,6 +19,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - 「AI家庭教師が学習を30%向上させる」という見出しが、1つの大学の1つのコースの30人の学生から得られたものだと知ったら、あなたはどれほど信じるでしょうか。このページは一般化可能性と小さな標本を繰り返し現れる限界として挙げています。単一の知見に基づいて行動する前に、あなたは何を知りたいでしょうか。
 - 注目すべき限界は「速度の問題」です。AIは知見が出版されるより速く進化するため、あるモデル世代の研究はすでに旧式化したシステムを記述しているかもしれません。これはAI教育研究に置く信頼をどう変えるべきでしょうか。
 - 多くの研究は [[self-report-measures|自己報告された]] 態度と利用に依拠しており、それらはバイアスのかかったものです。人は自分の能力を過大評価し、誤用を過少報告します。あなた自身の技能や行動についての調査に、現実と合わない形で答えたことがあるでしょうか。なぜ知覚に基づく測定はこれほど頻繁に客観的な成績と乖離するのでしょうか。
-- このページは、ブルームのタクソノミーのような馴染みの枠組みが厳密な階梯として誤読されることが多いこと、そして [[cognitive-offloading|認知的負荷]] 理論のように広く用いられる理論でさえ争われてきたことを指摘しています。ある理論自身の証拠が実際には争われている文脈で、それが決着した真実として援用されるのを、あなたはいつ目撃したでしょうか。
+- このページは、[[bloom-taxonomy|ブルームのタキソノミー]]のような馴染みの枠組みが厳密な階梯として誤読されることが多いこと、そして [[cognitive-offloading|認知的負荷]] 理論のように広く用いられる理論でさえ争われてきたことを指摘しています。ある理論自身の証拠が実際には争われている文脈で、それが決着した真実として援用されるのを、あなたはいつ目撃したでしょうか。
 - ほとんどのAI研究は、そのデータと更新を調べることのできない独自の不透明なモデルに依存しています。結果を生んだモデルが正確に何であるかを検証できないのであれば、その上に築かれた主張をどれほど信じられるでしょうか。そして何が知見をより再現可能にするでしょうか。
 - 一次研究を読む時間のない教員や設計者であるあなたは、文献が断片的で暫定的で、研究者向けに書かれていることを踏まえ、どのAI主張があなたの実践を変えるに足るほど信頼できるかをどう決めるでしょうか。
 
 ## はじめに
 
-教育におけるAIは動きが速く異質な分野であり、その証拠基盤は、研究者、実践者、そして政策立案者がどの知見を用いる際にも考慮すべき、特有の限界を帯びています。これらのうちいくつかは、より広い[[learning-sciences|学習科学]]や心理学の文献と共有されています。他はAI自体の性質によって増幅され、あるいは独自のものとなっています。このページはそれらを4つの横断的な領域に整理します。
+教育におけるAIは動きが速く異質な分野であり、その証拠基盤は、研究者、実践者、そして政策立案者がどの知見を用いる際にも考慮すべき、特有の限界を帯びています。これらのうちいくつかは、より広い[[learning-sciences|学習科学]]や心理学の文献と共有されています。他はAI自体の性質によって増幅され、あるいは独自のものとなっています。このページはそれらを4つの横断的な領域に整理します。これらは証拠の問題です。そしてその証拠がどのような目的に奉仕するかについての別の議論の集積は、[[critiques-of-ai-in-education|教育におけるAIへの批判]]のもとに集約されています。
 
 ## 方法論的な限界
 

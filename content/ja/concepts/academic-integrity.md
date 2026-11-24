@@ -1,7 +1,7 @@
 ---
 title: 学術的インテグリティ
 created: "2026-10-10T21:52:23-04:00"
-updated: "2026-11-19T06:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [educational-policy-ai, regulation]
 connected_resources: [code-viva, fpds-apps-and-resources, institutional-ai-readiness-pack, process-feedback, student-guide-to-ai, ai-infused-assignment-playbook]
 translation_of: concepts/academic-integrity
-source_updated: "2026-11-18T16:30:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-use-disclosure, assessment-validity, ai-literacy, ai-detection, authentic-assessment, assessment, educational-policy-ai, regulation, ethics, equity-in-ai-education, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, misconceptions, generative-ai, higher-ed, k-12, ai-education, legal-issues-and-risks, social-norms-ai-use, reflection]
 connected_articles: [benau-effort-legitimate-academic-work-genai-2026, mcclanahan-ai-cheating-policies-cultural-lag-2026, oyelere-code-programming-assessment-genai-2026, bayraktar-beyond-ai-proofing-assessment-validity-2026, hashem-cheating-habitus-ai-governance-discourse-2026, ivory-psychology-assessment-integrity-2026, zou-is-this-a-trap-student-teachers-genai-2026, ai-agents-joyful-assessment-third-space-2026, kumar-genai-computing-education-systematic-review-2026, mccorkle-aligned-genai-course-policy-2025, varia-construct-equivalent-assessment-variant-generation-2026, chirikov-regulate-ai-syllabi-2026, biology-degree-integrity-genai-cheating-2026, gonsalves-student-non-compliance-ai-declarations-2025, detecting-llm-generated-text-latent-prompt, beyond-detection-authentic-assessment-ai-2025, ai-assessment-scale-reform, authentic-products-authenticated-processes-2026, student-rationalization-ai-writing, ethical-ai-higher-ed-game-theory, shame-guilt-ai-regulation-computing-education, cross-cultural-student-perceptions-genai-computing, luo-dawson-value-judgments-grading-2026, chen-zou-genai-group-assessment-agency-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, leaton-gray-ai-digital-cheating-ethical-pedagogies-2025, coates-governing-academic-integrity-indicators-2025, ji-student-voices-academic-integrity-scoping-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, petricini-zipf-ai-use-ethics-matrix-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, genai-higher-ed-agency-responsibility-discourse-2026, genai-governance-australian-higher-ed-2026, argus-academic-integrity-genai-2026, villanueva-ai-vulnerability-assessment-audit-2026, akcapinar-ai-cheating-risk-lms-prediction-2026, reddit-genai-education-discourse-analysis-2026, boyd-swan-employer-responses-genai-2026, airri-machine-resistant-reading-interface-2026, issa-teamwork-framework-academic-integrity-2024, hong-authorship-legitimation-deficit-human-ai-co-creation-2026, crisol-moya-integrity-assessment-2026, ragab-ai-integrity-verification-model-2026, black-box-assessment-winstone-2026, rodak-hire-ai-future-focused-literacy-2026, wyszynski-genai-user-input-engineering-statics-2026, burke-ai-proliferation-college-students-replication-2026, mingole-ai-proofing-higher-education-assessments-2026, habit-over-intention-genai-help-seeking-engineering-2026, performance-without-capability-genai-assessment-validity-2026]
@@ -51,7 +55,7 @@ connected_articles: [benau-effort-legitimate-academic-work-genai-2026, mcclanaha
 - **評価の再設計：** [[authentic-assessment|真正な評価]]、[[beyond-detection-authentic-assessment-ai-2025|検出を超えるアプローチ]]、そして[[ai-assessment-scale-reform|AI 評価尺度]]は、AI の利用を捕まえることから、AI の利用が無関係であるか、透明であるか、あるいは特定の能力を示すために必要であるかという評価の設計へと焦点を移します。
 - **成績評価の構造的脆弱性：** [[biology-degree-integrity-genai-cheating-2026|Chan et al.]]は、現在の成績評価が AI を媒介とした不正行為に対してどう構造的に無防備であるかの具体的な事例研究を提供します。[[biology-education|生物学]]の学部では、教官は対面で監督された試験だけを最小限の脆弱性を持つものと見なし、授業外の課題は高度に脆弱と見なされ、学生の成績のおよそ三分の一が高度に脆弱で 80% が少なくともいくらか脆弱なままでした。これは、インテグリティの問題を部分的に*成績評価の設計*の問題として枠づけ、監督された対面評価および外部委託が難しい[[authentic-assessment|真正な評価]]の設計へと再均衡化する動機を与えます。[[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]は、心理学のプログラム全体を扱った学科レベルでの対応例を提供します。16 類型にわたる 40 件の評価のうち 36 件が最小限の労力で及第できる内容を生み出し、不合格だった 4 件は、対面、視覚メディア、または学生自身のデータセットを必要とするものでした。彼らが読む*なぜ通ってしまうか*こそが一般化できる部分です。すなわち、流麗な構造と適切な分析の誠実な利用に点を与える採点は、捏造された数値と幻覚された参考文献を是認してしまいます。したがって、AI の出力が達成として評価されるかどうかを決めるのは、検出ではなく及第の境界線であり、評価の脆弱性は「学生の利用だけに帰すことはできない」のです。
 - **提出物という攻撃面：[[automated-assessment|AI による採点]]へのプロンプトインジェクション。** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]]は、日常的な採点のワークフローにレッドチーム攻撃をかけ、学生の提出物が、AI ツールの出す成績を変える隠された命令を運びうることを示しました。提出ファイルに埋め込まれた五つの間接的なインジェクション戦略のうち二つが、ユーザーへの目に見える警告なしに不合格のエッセイを合格に引き上げ、報告された攻撃成功率は 100%（9/9）および 94%（17/18）で、どちらも docx、pdf、htm の形式にわたって命令の操作、役割演技、難読化を組み合わせていました。最も基本的な攻撃は完全に失敗し、その拒否は無音でした——ツールは試みを報告せずにチャットを無効化しました——一方、検出された一つのインジェクションは、ツールが「公式の課題の指示にのみ従って採点します」という安心を与えた後で、同じファイルのその後の六回の実行で成績を引き上げ続けました。インテグリティ上の帰結は両方向に及びます。隠された命令によって上げられた成績には[[assessment-validity|妥当性]]の主張が一切なく、同じ手法は出力に痕跡を残さずに提出物の評価を下げるのにも使え、目に見えないよう設計された操作に対する唯一の実質的なチェックとして人間の採点者が残されます。
-- **妥当性を統合的な枠組みとして：** [[assessment-validity|評価の妥当性]]は、インテグリティを証拠の問題として捉え直します。[[authentic-products-authenticated-processes-2026|真正な評価の研究]]は**構成概念の置き換え**を導入します——AI で生成された成果物が学生に帰属されるため、評価は学生ではなく道具の能力を推論してしまいます。証拠に基づく問いは、どの AI 方針にも生き延びます。利用が禁止されていても、許容されていても、要求されていても、評価はなお、下されている推論を保証する証拠を生み出さなければなりません。
+- **妥当性を統合的な枠組みとして：** [[assessment-validity|評価の妥当性]]は、インテグリティを証拠の問題として捉え直します。[[authentic-products-authenticated-processes-2026|真正な評価の研究]]は**構成概念の置き換え**を導入します——AI で生成された成果物が学生に帰属されるため、評価は学生ではなく道具の能力を推論してしまいます。証拠に基づく問いは、どの AI 方針にも生き延びます。利用が禁止されていても、許容されていても、要求されていても、評価はなお、下されている推論を保証する証拠を生み出さなければなりません。[[performance-without-capability-genai-assessment-validity-2026|Kearney, 2026]]はこの枠組みを二つの次元に分けます——学生が学習に関連する認知的責任をどれだけ保持しているか、そして評価者がその過程のどれだけを見えるようにできるか——そして、責任がツールに座り、過程が見えないままであるときには、洗練された成果物はもはや理解についての推論を保証しなくなることを示します。
 - **監視によらないインテグリティ機構としての規模における多様化：** [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA（Lee 2026）]]は、AI 統合型真正評価（AIAA）の背景にある前提——すなわち、コピーを構造的に無意味にすることで、監視に基づく試験監督を学生ごとの課題の多様化に置き換えること——を[[benchmark|ベンチマーク]]します。インテグリティの保証は、LLM が表面上は異なり[[assessment-validity|構成概念的に等価]]な多様版を生成できることを条件とします。VARIA の 600 多様版の試行では、最先端モデルがこれをごくわずかに満たすだけ（結合スコア 0.81–0.88）であり、非最先端モデルは崩壊する（0.50–0.55）ため、「規模における多様化は[[prompt-engineering|プロンプティング]]だけでは解決できません」。これは、検出対再設計の論争に、実証的で反証可能な検証を与えます。真正で課題を多様化した評価の監視なしという約束は、今や想定されたものではなく、測定された（そしてなお狭い）生成能力に依拠します。
 - **生成AIに対する学生の内省の認証：** [[5p-reflection-model-genai-2026|Kadel et al. (2026)]]は、生成AI が内省的な散文を書けるようになった以上、従来の内省モデルはもはや学生の内省を認証できないと論じ、インテグリティを内省モデルの内部に直接埋め込みます。5P 枠組みの Pitfalls（落とし穴）の段階は、盗用、[[hallucination-risk|幻覚]]、過度の依存を明示的に扱い、その Process（過程）と Product（成果物）の段階はプロンプトの記録と出力の検証を求めることで、[[learners|学習者]]自身の推論を AI が生成した貢献から区別できるようにします。
 - **方策の策定：** [[genai-policies-higher-ed-computing|大学の AI 方針]]と[[educational-policy-ai]]の研究は、大学がどうインテグリティの期待を策定し伝えるか——そして抽象的な方針の記述がなぜしばしば失敗するかを検討します。
@@ -120,7 +124,7 @@ Benau (2026)は同じ境界に反対の方向から到達します。学術的�
 
 方策のテキストは、方策の認識と等しくありません。[[cross-cultural-student-perceptions-genai-computing|国際比較研究]]は、機能的に同一の大学の方策にもかかわらず、異なる大学の学生が同じ AI で支援された実践を異なって評定したことを見出しました——**何が間違っていると感じられるかを決めたのは、方策の文言ではなく文化でした**。方策の調和は認識の調和を生みません。したがって文化的に多様な集団は同じ規則を異なって解釈し、これは執行と採点にとっての公平性の懸念であり、抽象的な規則の記述よりも場面に即した明確化を主張するものです。
 
-文化ではなく言語的な背景が、第二の差異の軸です。[[li-genai-assessment-language-equity-2026|Li (2026)]]は、同じインターフェースが許容される言語編集と禁止される実質的な執筆の両方を遂行するため、生成AIを一つの無認可の援助の範疇として扱うインテグリティ規則は、言語的な不利をインテグリティのリスクに転化すると論じます。全面的な禁止は言語支援の拡張可能な一形態を取り除き、許可して開示させる体制は、利用がより頻繁で反復的な EAL（第二言語としての英語）の学生に遵守の作業を負わせ、小さな変更を超える編集の禁止は、流暢さが最も変化した書き手への疑いを集中させます。Li が提案する境界は、道具ベースではなく目的ベースです——許容される支援は新しいアイデアも、新しい出典も、分析の実質的な並べ替えも加えず、一方で置き換えは評価されている知的作業を創出したり実質的に作り変えたりします——そしてそれは評価の構成概念に根ざしています。なぜなら、流暢さと慣用的な表現に点を与えるルーブリックは、EAL の書き手にとって構成概念に無関係な分散を導入するためです（[[assessment-validity]]）。この枠組みは[[ai-detection|検出器]]の出力を、めったに証明を構成しない初期選別の手がかりに格下げし、段階的な提出物、草案の履歴、検証可能な出典の軌跡、そして短い構成概念に沿った対話を通じた三角測量を好みます。そして[[ai-use-disclosure|開示]]を較正し、日常的な支援が、単一言語の同級生が負うものと同じでない遵守の代償を伴わないようにします。
+文化ではなく言語的な背景が、第二の差異の軸です。[[li-genai-assessment-language-equity-2026|Li (2026)]]は、同じインターフェースが許容される言語編集と禁止される実質的な執筆の両方を遂行するため、生成AIを一つの無認可の援助の範疇として扱うインテグリティ規則は、言語的な不利をインテグリティのリスクに転化すると論じます。全面的な禁止は言語支援の拡張可能な一形態を取り除き、許可して開示させる体制は、利用がより頻繁で反復的な EAL（第二言語としての英語）の学生に遵守の作業を負わせ、小さな変更を超える編集の禁止は、流暢さが最も変化した書き手への疑いを集中させます。Li が提案する境界は、道具ベースではなく目的ベースです——許容される支援は新しいアイデアも、新しい出典も、分析の実質的な並べ替えも加えず、一方で置き換えは評価されている知的作業を創出したり実質的に作り変えたりします——そしてそれは評価の構成概念に根ざしています。なぜなら、流暢さと慣用的な表現に点を与える[[rubrics|ルーブリック]]は、EAL の書き手にとって構成概念に無関係な分散を導入するためです（[[assessment-validity]]）。この枠組みは[[ai-detection|検出器]]の出力を、めったに証明を構成しない初期選別の手がかりに格下げし、段階的な提出物、草案の履歴、検証可能な出典の軌跡、そして短い構成概念に沿った対話を通じた三角測量を好みます。そして[[ai-use-disclosure|開示]]を較正し、日常的な支援が、単一言語の同級生が負うものと同じでない遵守の代償を伴わないようにします。
 
 ## 取り締まりから教育学へ
 
@@ -146,6 +150,8 @@ Benau (2026)は同じ境界に反対の方向から到達します。学術的�
 
 学生にペンを渡すことは、境界を押しつけるよりも厳しい境界を生みます。[[rodak-hire-ai-future-focused-literacy-2026|Rodak (2026)]]は、必修の学部のビジネスライティングのコースの3つのクラスの学生72人に、コースのAI方策を共同で書き、次に名前のあるアシスタントのための作業範囲を書かせました。すべての一覧が、開示しないコピー・アンド・ペースト、アシスタントに課題を完成させること、AIが捏造した出典を排除した一方、81%が練習問題と校正のためにアシスタントを雇いました。線は遵守ではなく著作として読まれ、「AIを使ってもよいか」を「これは仕事の内側か」に変えるのです。
 
+インテグリティの枠組みには、行動上の収益もあります。[[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]]は、学術的インテグリティへの懸念が、フィリピンの工学系学生が生成的AIによって人間に助けを求めることの置き換わりを減らした唯一の構成概念であり、教育的なインテグリティの枠組みは、禁止が手つかずのまま残す人間的な支援を保つことを見出しました。
+
 ## つながり
 
 学術的インテグリティは、[[assessment-validity|評価の妥当性]]、[[ai-literacy|AI リテラシー]]、[[ai-detection|AI の検出]]、[[authentic-assessment|真正な評価]]、[[assessment|評価]]、[[educational-policy-ai|教育政策における AI]]、[[regulation|規制]]、[[ethics|倫理]]、そして[[equity-in-ai-education|教育における AI と公平性]]につながります。それは[[ai-education|教育における AI]]の倫理的次元であり、[[cognitive-offloading|過度の依存]]および、[[generative-ai|生成AI]]が[[higher-ed|高等教育]]と[[k-12|K-12]]の学習をどう作り変えるかというより広い問いと切り離せません。
@@ -166,6 +172,7 @@ Benau (2026)は同じ境界に反対の方向から到達します。学術的�
 - **中学生は「AI 盗作」について、固定した規則ではなく状況に応じて推論する。** [[chan-rethinking-aigiarism-secondary-integrity-2026|Chan (2026)]]は、中学生の「AI 盗作」に関する倫理的推論が微細で文脈依存的であることを示します——多くは、AI で支援された作業が理解を支えるときには許容できるが、自分自身の努力を代替するときには問題だと見ます——これは、学生が単にインテグリティを欠いているという想定や、単一の方策が彼らの倫理を捉えられるという想定に挑戦します。
 
 - **学生自身の懸念は学習の損失であり、不正行為の枠組みはそれを見落とす。** [[ting-ai-learning-ownership-purpose-2026|Tingら（2026年）]]は14名の学部生にインタビューし、彼らが線を引くのはAIの利用そのものではなく、自分がやっていない仕事をAIが生み出す場合であり、ツールがどこで助けているのか、どこで自分が学ぶべきことを代行しているのかを問うていることを見出しました。著者らは、学生と教員の対話が不正行為をめぐって狭く枠づけられすぎていると論じます。なぜなら、彼らの語りでは学生は[[transfer-of-learning|技能]]を失うことと、その仕事がまだ自分のものかどうかを気にかけており、それは教員の懸念に近いからです。線を守る理由もまた異質で（技能の喪失、所有権と誇り、道徳的な反対）、締切、仕事量、成績からの圧力が個々の事例ではそれを上回りました。
+- **著作者性の曖昧さ、利用頻度ではなく、それが弱めた説明責任を予測する。**586人の中国の高校生を対象とした三波パネルにおいて、人間とAIの共著者性の曖昧さが大きいほど心理的な所有権は低く、責任の希薄化は大きくなり、それがさらに、自己報告による生成AI関連の学術的行動のより頻繁な発生を予測しました。すべて p < 0.001（[[chen-authorship-blurs-responsibility-dilutes-2026|Chen and Cheng, 2026]]）。
 
 - **真正な評価だけではインテグリティを守れない。** [[kofinas-generative-ai-authentic-assessment-integrity-2025|Kofinas et al. (2025)]]は、採点者が一般に、生成AIの入力がある評価とない評価を**区別できない**こと、そして評価の真正さの水準が、生成AIの利用を防いだり検出したりする能力に**影響しない**ことを見出します。高等教育部門は「生成AIの影響を統制するために真正な評価だけに頼ることはできません」——これは[[authentic-assessment|評価の再設計]]戦略への直接的な挑戦であり、他の措置と組み合わせなければならないものです。
 - **インテグリティの指針は、[[teacher-role|教育]]だけでなく研究過程にも及ばなければならない。** [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai & Chan (2026)]]は、大学院の研究者が研究の作業にわたって[[ai-literacy|AI リテラシー]]を実行することを見出し、現在は教育と評価に焦点を当てている責任ある利用の方策が、研究における生成AI利用の倫理的次元を[[scaffolding|足場かけ]]しなければならないと論じます——そこでは、懸念は盗用だけでなく、独創性、著作、[[privacy|データのプライバシー]]、そして技能の劣化を中心とします。

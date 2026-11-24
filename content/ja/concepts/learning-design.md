@@ -1,7 +1,7 @@
 ---
 title: 学習デザイン
 created: "2026-10-10T22:38:12-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki, repertoire, elearning-prompt-library]
 translation_of: concepts/learning-design
-source_updated: "2026-11-16T05:34:55-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, pedagogical-partnerships, online-teaching-and-learning, curriculum-design, scaffolding, educational-development, teacher-role, ai-literacy, generative-ai, intelligent-tutoring, personalized-learning, adaptive-learning, formative-assessment, higher-ed, k-12, agentic-ai, inclusive-learning, universal-design-for-learning, learning-theories, learning-sciences, learning-gains, behaviorism, educational-technology-developers, pedagogy, stakeholders]
 connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, powerful-learning-with-emerging-technology-2025, claassen-learning-analytics-genai-learning-design-2026, tang-chatbots-learning-design-2026, choi-teacher-ai-interaction-lesson-design-2026, long-ai-higher-ed-engagement-teaching-methods-2026, curriculum-as-code-instructional-design-2026, dohn-boundary-object-classifying-genai-learning-activities-2026, instructional-agents-multi-agent-course-gen, didactical-teacher-assistant-dimensional-modeling, instructional-guidance-genai-learning, courseblueprint-adaptive-video-generation, bridging-instructional-design-framework-math, cotal-formative-assessment-scoring-2026, genai-mindtool-generative-learning, ludia-udl-ai-thought-partner-2026, pchl-he-framework-genai-content-creation-2026, jeon-isd-agent-bench-2026, ai-web-agents-lesson-design-2025, airis-cognitively-activated-ai-physics-2026, wang-multi-agent-systems-learning-designers-2025, ai-tpack-teacher-multi-agent-workflow, halani-designing-for-reach-2026, fowlin-operationalizing-learning-principles-ai, ai-video-dual-gatekeeping-2026, rhaimi-productivemath-2025, kibar-ilgaz-ai-instructional-design-review-2026, graph-its-adaptive-algorithms-2026, making-ai-annoying-constrained-writing-2026, instructional-design-proficiency-masters-math-2026, ai-modeling-problem-generation-platform-2026, wang-teacher-ai-co-design-review-2026, talebzadeh-ai-group-activity-roles-2026, yasar-llms-iterative-pedagogical-design-2026, zeivots-postdigital-co-design-genai-2025, zhang-genai-l2-learning-meta-analysis-2026, williams-coding-curriculum-critique-2026, chng-ai-instructional-design-2023, bubnys-sustainable-ai-reflective-learning-2026]
@@ -66,7 +70,7 @@ Ailaの試行は、そのパターンに計画時間の数字を与えます。�
 
 **思考を守るために道具を制約する。** 9週間にわたる論証的ライティングの設計では、質問をして学生の文章の生成を拒む、教師が範囲を定めた[[conversational-ai|チャットボット]]を順次用いました。4名の高校生は、AIの受動的な消費者から、出力に異議を唱える評価者へと移行しました——無制限な生成性ではなく戦略的な制約が、その向上を捉えていたのです([[making-ai-annoying-constrained-writing-2026|Konradt, Boote & Taub(2026年)]])。
 
-**設計の梃子としてのルーブリック準拠のプロンプティング。** [[yasar-llms-iterative-pedagogical-design-2026|Yaşarら(2026年)]]は、ルーブリックが人間の教授法的な意図と機械の推論の間を媒介するインターフェースとして機能することを実証しました。評価基準を固定された道具としてではなく、改訂可能な設計の成果物として扱い、LLMと反復的に共同で洗練させることで、学生の設計作業に対するLLM–人間の一致は54.75%から81.25%に向上しました。LLM向けに設計されたルーブリックは、正確性と柔軟性の均衡を取る必要があります——曖昧すぎれば自由な解釈を招き、硬直的すぎればモデルをパターンマッチングに還元してしまいます——そして役割を意識したプロンプティング(指導者、同僚評価者、研究費審査員)は、それぞれ異なる評価的なフィードバックを生み出しました。これは、ルーブリックの設計を、AIの評価行動を形づくる具体的な学習デザインの実践として位置づけるものであり、human-in-the-loopによる監視が引き続き不可欠です。
+**設計の梃子としてのルーブリック準拠のプロンプティング。** [[yasar-llms-iterative-pedagogical-design-2026|Yaşarら(2026年)]]は、[[rubrics|ルーブリック]]が人間の教授法的な意図と機械の推論の間を媒介するインターフェースとして機能することを実証しました。評価基準を固定された道具としてではなく、改訂可能な設計の成果物として扱い、LLMと反復的に共同で洗練させることで、学生の設計作業に対するLLM–人間の一致は54.75%から81.25%に向上しました。LLM向けに設計されたルーブリックは、正確性と柔軟性の均衡を取る必要があります——曖昧すぎれば自由な解釈を招き、硬直的すぎればモデルをパターンマッチングに還元してしまいます——そして役割を意識したプロンプティング(指導者、同僚評価者、研究費審査員)は、それぞれ異なる評価的なフィードバックを生み出しました。これは、ルーブリックの設計を、AIの評価行動を形づくる具体的な学習デザインの実践として位置づけるものであり、human-in-the-loopによる監視が引き続き不可欠です。
 
 **インストラクショナルデザインのためのAIエージェント**は、この分野を[[agentic-ai|エージェント的AI]]へと拡張します。**[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**は、LLMベースのインストラクショナルデザインのエージェントを評価するための、最初の標準化された理論に基づくベンチマークです——その25,795シナリオからなるコンテキスト行列(51の文脈変数 × ADDIE由来の33のISDサブステップ)は、古典的なISDの枠組み(ADDIE、Dick & Carey、Rapid Prototyping ISD)に基づくエージェントが、理論に依拠しないエージェントを上回ることを示し、インストラクショナルデザインが汎用的なプロンプティングの作業ではなく構造化された規律であることを実証的に検証しています。エージェントは設計の*構築者*であるだけでなく、その*批評者*でもあります。[[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech(2025年)]]は、学生のように多段階のオンライン授業を巡回する単一の自律的なウェブエージェントを用いて、実際の学習者が取り組む*前に*学習デザインを評価します——その[[student-experience|学生経験]]の記述は、初心者がどこで脱落するかを予測し、実行可能な設計のフィードバックを表出させ、すべてのベースライン、さらには大規模なCS1コースにおけるシミュレートされた学生集団をも上回りました。これは、開講前のエージェント的評価を、人間による設計の反復に対する低コストの補完として位置づけています。**[[wang-multi-agent-systems-learning-designers-2025]]**と**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**は、インストラクショナルデザインのモデルを軸に役割に基づくエージェントを編成するマルチエージェントの枠組みを探求し、一方**[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**は、教師とエージェントが技術的・教授法的・内容の知識を共にどう応用するかを検討しています。この研究は、インストラクショナルデザインを[[benchmark|ベンチマーク化]]、[[ai-ed-evaluation]]、そして大規模な[[curriculum-design|カリキュラム]]の設計につないでいます。
 
@@ -122,6 +126,10 @@ Fowlinら(2026年)は、AIをどこに入れるかを決めるための運用的
 - **デザイナーは自律性ではなく操縦可能性を求めます。**項目生成のプラットフォームを試した8人のインストラクショナルデザイナーは([[wei-perspicacious-instructional-design-2026|Weiら、2026]])、難易度、形式、出自に対する統制を求め、SUSで78.8と評し、採用の条件として信頼を挙げました。
 
 **設計は、技術よりも効果を調節します。**Zhangらの統合では、同じ生成的AIの能力が、学習者が方向づけたときはg = 0.92、自律的に走ったときはg = 0.34でした。したがって相互作用の様式は、道具の性質ではなく設計上の決定です([[zhang-genai-l2-learning-meta-analysis-2026|Zhangら、2026]])。
+
+**内省的学習の設計と監査のループ。**[[bubnys-sustainable-ai-reflective-learning-2026|Bubnys et al. (2026)]]はSARELを提案しています——内省する能力と非AIの比較対象を特定すること、学習者の統制と同等に利用可能な経路を割り当てること、内省と検証を求めること、学習を衡平性・業務量・資源の使用と並べて評価すること、その証拠を再設計に循環させること——これは、AI支援の内省を、導入による当然の便益ではなく、比較の設計上の問いとして保つための方法です。この5つの段階は未検証の著者による提案であり、検証済みの方法としてではなく、正しい問いを枠づけるために提示されています。
+
+**コースの上と下の水準のために設計する。**コースはより大きなシステムの中の一つの水準です。そこにいる学習者は[[prior-knowledge|既存の知識]]と授業外の義務を持ってやってきて、周囲の機関は業務量、調達、評価の規則を定めます。[[learning-environments-as-systems|学習環境をシステムとして捉えること]]は、それらの水準が相互作用しているものとして扱う立場を名指ししており、コースの水準で選ばれた道具は、コースが閉じたものであるかのように評価されるのではなく、機関の制約と学習者の実際の状況に対して点検されます。
 
 ## よくある誤解
 
