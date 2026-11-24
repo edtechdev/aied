@@ -10,14 +10,18 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ A keretezés a [[motivation|motiváción]] keresztül kapcsolódik a [[self-dete
 ## Média és nyilvános keretezés
 
 A diákokat az [[ai-education|MI oktatásbeli]] szélesebb médiája és nyilvános diskurzusa is keretezi, ami az oktatói üzenetek előtt meghatározza az alapvető elvárásaikat. A nyilvános diskurzus és az olyan platformok elemzései, mint amilyen a YouTube keretezi a ChatGPT oktatásbeli használatát, azt mutatják, hogy az uralkodó keretek (hype, végzet, pragmatizmus) befolyásolják, hogyan közelítik meg a tanulók és a [[teacher-role|oktatók]] a technológiát.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) A hatékony oktatói keretezés gyakran tudatosan ellentart vagy átirányítja ezeket a környezeti narratívákat.
+
+A keret a végzet piaci értékét is befolyásolja: körülbelül 1 750 amerikai álláskereső szakember körében a diák MI-használatát szubstitúcióként, nem segítségként bemutatva csökkent az interjú esélye és a fizetési tárgyalásra való hajlandóság, a legmarkedettebben a magas GPA-jú jelöltek esetében ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan és Reynolds, 2026]]).
 
 ## Gyakorlati útmutató
 

@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Más munkák inkább kiterjesztik a meglévő elméletet az MI kontextusára, ah
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin és Chang (2026)]] kiterjesztik a [[self-regulated-learning|önszabályozó tanulást]] és az ember–MI szabályozást azzal, hogy megnevezik, mit irányít a tanuló — standardokat, [[evaluative-judgment|értékelő ítéleteket]] és kontrollengedélyezést —, nem csak azt, hogy mit tesz az MI.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai és Flenady (2026)]] Honneth és Brandom elismeréselméletét importálja a visszajelzés-elméletbe, amellett érvelve, hogy nem az információ minősége, hanem a státusz kölcsönös tulajdonítása teszi megjegyzést cselekvés indokává.
+
 A súrlódásparadoxon a bevett elmélet egy másik kiterjesztését kínálja: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] Bjork és Bjork [[desirable-difficulties|kívánatos nehézségeit]] és Kapur [[productive-failure|produktív kudarcát]] alkalmazza a külföldi tanulmányok relációs találkozásaira, amellett érvelve, hogy az számít, mennyi értelmező ügynökséget [[transfer-of-learning|ruház át]] a diák egy generatív asszisztensre, nem pedig az, hogy milyen gyakran használja. A keretrendszer fogalmi, és öt állítást fogalmaz meg versengő hipotézisként.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri és Biagini (2026)]] továbbfejlesztik Zawacki-Richter és mtsai. (2019) funkcionális taxonómiáját: a besorolható alkalmazási funkcióval rendelkező 154 publikáció közül 90 (58,4%) kicsúszott a négy kategóriából, keretrendszerük pedig a funkciót keresztezi a delegált kontrollal, az episztemikus pozícióval és a beágyazott pedagógiával.
@@ -94,14 +100,7 @@ A terület teoretizálása egyenetlen. A [[limitations-in-aied-research|korláto
 ## Viszony az MI-oktatás filozófiájához
 
 Az elméletfejlesztés és a [[philosophy-of-ai-in-education|MI-oktatás filozófiája]] a tudásbázis alapozó munkájának kiegészítő, de különálló szálai. Az **elméletfejlesztés** előállítja és empirikusan teszteli az MI-vel való tanulás *mechanizmusait* — megnevezett elméleteket és keretrendszereket, mint a generativizmus, az episztemikus együgynökség és a hiányzó kognitív alapvonal, amelyek megmagyarázzák és megjósolják, hogyan hatnak egymásra a tanulók és az MI. A **filozófia** azokat az *előfeltevéseket* vizsgálja, amelyeken e mechanizmusok nyugszanak: mi számít tudásnak, ki számít tudónak, és mi a tanuló alapvetően. Egy olyan elmélet, mint az [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|episztemikus együgynökség]], mechanizmust javasol, miközben hallgatólagosan filozófiai kötelezettségeket vállal az elosztott kognícióról és az [[agency|ügynökségről]]; a filozófia ezeket a kötelezettségeket teszi explicitté és vitathatóvá. Ahol az elméletfejlesztés azt kérdezi, jól magyarázza-e egy keretrendszer a tanulást, a filozófia azt kérdezi, megragadja-e, mi a tanulás és az elme valójában — a két szál a terület leginkább alapozó cikkeiben találkozik, amelyek gyakran egyszerre teszik mindkettőt.
-
-## Gyakori tévhitek
-
-**„Az az eredmény, hogy az eszköz működött, elméleti hozzájárulás.”** Nem az, és az ok strukturális. Ahol egy keretrendszer állításai *konfigurációk közötti különbségeket* jósolnak meg, egy csak átlagos hatást jelentő tanulmány **nem tudja megerősíteni vagy cáfolni őket** — a tervezés nem látja azt a megkülönböztetést, amelyről az elmélet szól. Egy átlagos nyereséget mutató kísérlet azt mondja meg, hogy valami történt, nem azt, hogy melyik mechanizmus okozta, így az elmélet pontosan annyira alátámasztott marad, mint korábban volt.
-
-**„Egy bevett elmélet alkalmazása az MI-re elméletfejlesztés.”** Az oldal saját elmélethasználati problémája mást mond: az alkalmazás nem továbbfejlesztés, és a terület visszatérő mintája a kölcsönzött értelemzők szókészletként, nem tesztelhető előrejelzésként való használata. A megkülönböztetés azért számít, mert egy kölcsönzött keret, amely nem tud cáfolható különbséget generálni, díszítés, nem elmélet.
-
-**„Az MI pedagógiai funkciójának meglévő taxonómiái már lefedik, amit ezek a rendszerek tesznek.”** Nem fedik le nagy részét. A besorolható alkalmazási funkcióval rendelkező 154 publikáció közül **90 (58,4%) kicsúszott az előző keretrendszer négy kategóriájából**, ezért keresztezi az újabb munka a funkciót a delegált kontrollal, az episztemikus pozícióval és a beágyazott pedagógiával. Egy taxonómia, amely csaknem minden öt esetből hármat félreosztályoz, nem szolgálhat a terület közös szókészleteként, és a rés magáról a jelenségről szóló eredmény, nem egy cikk hiányossága.
+Amit a terület kritikusai mondanak azokról az irányokról, amelyeket ezen elméletek nyitnak vagy zárnak, az külön kérdés, amely a [[critiques-of-ai-in-education|MI-oktatás kritikái]] alatt gyűlik.
 
 ## Következmények a gyakorlatra
 
@@ -120,3 +119,11 @@ Az elméletfejlesztés és a [[philosophy-of-ai-in-education|MI-oktatás filozó
 
 - Konfigurációkontrasztokra tervezzenek, ha elméleti hozzájárulást szándékoznak. Az elméletfejlesztésként publikált átlagos hatású kísérlet a terület leggyakoribb és legkevésbé hasznos kimenete.
 - Csatoljanak explicit, cáfolható állításokat minden általuk bevezetett keretrendszerhez, és jelentsék, mely konfigurációkülönbségek cáfolták volna őket.
+
+## Gyakori tévhitek
+
+**„Az az eredmény, hogy az eszköz működött, elméleti hozzájárulás.”** Nem az, és az ok strukturális. Ahol egy keretrendszer állításai *konfigurációk közötti különbségeket* jósolnak meg, egy csak átlagos hatást jelentő tanulmány **nem tudja megerősíteni vagy cáfolni őket** — a tervezés nem látja azt a megkülönböztetést, amelyről az elmélet szól. Egy átlagos nyereséget mutató kísérlet azt mondja meg, hogy valami történt, nem azt, hogy melyik mechanizmus okozta, így az elmélet pontosan annyira alátámasztott marad, mint korábban volt.
+
+**„Egy bevett elmélet alkalmazása az MI-re elméletfejlesztés.”** Az oldal saját elmélethasználati problémája mást mond: az alkalmazás nem továbbfejlesztés, és a terület visszatérő mintája a kölcsönzött értelemzők szókészletként, nem tesztelhető előrejelzésként való használata. A megkülönböztetés azért számít, mert egy kölcsönzött keret, amely nem tud cáfolható különbséget generálni, díszítés, nem elmélet.
+
+**„Az MI pedagógiai funkciójának meglévő taxonómiái már lefedik, amit ezek a rendszerek tesznek.”** Nem fedik le nagy részét. A besorolható alkalmazási funkcióval rendelkező 154 publikáció közül **90 (58,4%) kicsúszott az előző keretrendszer négy kategóriájából**, ezért keresztezi az újabb munka a funkciót a delegált kontrollal, az episztemikus pozícióval és a beágyazott pedagógiával. Egy taxonómia, amely csaknem minden öt esetből hármat félreosztályoz, nem szolgálhat a terület közös szókészleteként, és a rés magáról a jelenségről szóló eredmény, nem egy cikk hiányossága.

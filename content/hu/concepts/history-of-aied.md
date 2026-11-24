@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ A [[generative-ai|generatív MI]] megjelenése — egy széles család, amely ma
 - **Mérlegeljük szándékosan a kontrollt és az ügynökséget.** Hogy a MI a standard eredmények felé optimalizáljon-e, vagy sokféle, tanuló által irányított eredményt tegyen lehetővé, valódi választás intézményi és politikai következményekkel, nem technikai adottság.
 - **Őrizzük meg a tanulói ügynökséget.** A standardizálással és a kontrollal szembeni visszatérő ellenállás, az nyitott végű, tanulóközpontú megközelítések javára, tartós szál, amelyet érdemes védeni.
 
-## Gyakori tévhitek
-
-**„A MI az oktatásban a ChatGPT-vel kezdődött.”** Nem így volt, és a hiedelem azért költséges, mert láthatatlanná teszi az összes korábbi tanulságot. Az [[intelligent-tutoring|intelligens tutorálás]] az 1960-as és 70-es évek heurisztikus keresési és szakértői rendszer munkáiból származik, és az AIED közösség évtizedekkel a [[llm|nagy nyelvi modellek]] előtt köréje szerveződött. [[mishra-control-vs-agency-history-2025|Mishra és mtsai.]] megmutatják, hogy a mai viták egy olyan szakadékot termelnek újra, amely már Anderson kognitív tutoraiban és Papert konstrukcionizmusában is explicit volt, tehát az az olvasó, aki 2022-re datálja a területet, újra levezeti azokat az érveket, amelyeket a terület egyszer már eldöntött, elhagyott vagy elveszített.
-
-**„A terület fokozatosan feladta a MI-mint-analógiát az alkalmazott eszközök javára, és a generatív MI folytatja ezt a tendenciát.”** Ez az oldal legtanulságosabb korrekciója, mert a pálya valós, de nem monoton. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian és Doroudi]] pozicionális elemzése az AIED 1985, 1993, 2021 és 2024, valamint az IJAIED 2004, 2014 és 2021 anyagáról valóban egy elmozdulást mutat a vegyes területtől a szinte kizárólagos alkalmazott instrumentalitás felé a 2000-es évekre. Az AIED 2024-en azonban az MI-mint-analógia negyed négy cikkéből három LLM-alapú volt, köztük egy legjobb cikk díjas munka LLM-alapú tanítható ágensekről. A generatív MI részben **megfordítja** a tendenciát, nem kiterjeszti, ezért félreérti a kutatási frontvonal tényleges mozgását, aki „a következő intelligens tutorként” kezeli.
-
-**„A személyre szabás annyit jelent, hogy minden tanulóhoz igazítjuk a nehézséget.”** Ez csak az egyik a két összeegyeztethetetlen értelem közül, és összemosásuk politikai választást rejt el. Az első értelemben az eredmény rögzített, és csak az út változik, a leszármazás Skinner tanítógépeitől a mesterfokú tutorálásig tart. A másodikban maguk az eredmények válnak sokféle, ahogy a tanulók egyéni érdeklődésüket követik a standard tantervtől függetlenül (Zhao, 2024). Egy [[intelligent-tutoring|ITS]] az elsőt valósítja meg, a [[constructivist|konstrukcionizmus]] a másodikat. Egy „személyre szabottként” leírt eszköz semmit nem mondott el, amíg nem tudjuk, melyiket érti rajta.
-
-**„A »mesterséges intelligencia« egyszerűen a terület kézenfekvő neve volt.”** A kifejezés szándékos választás volt. Amikor McCarthy az 1956-os dartmouthi projektet tervezte, a *mesterséges intelligenciát* részesítette előnyben a *kibernetikával* szemben, részben hogy eltávolítsa a munkát Wiener analóg visszacsatolás hagyományától. Ez az egyetlen döntés a gépeket közvetlenül az emberi kognícióhoz mérte, és az általa bevezetett antropomorf keretezés máig alakítja a kutatási prioritásokat, a terméknyelvet és azokat az etikai kérdéseket, amelyeket a közönség feltesz.
-
 ## Megvalósítás a gyakorlatban
 
 **Oktatók és tanulástervezők számára**
@@ -99,3 +93,13 @@ A [[generative-ai|generatív MI]] megjelenése — egy széles család, amely ma
 
 - A történeti korpuszokat viszonyítási alapként használja, ne a jelent tekintse az egyetlen elérhető összehasonlításnak. Az AIED 1985, 1993, 2021 és 2024 közötti anyagai és az IJAIED 2004, 2014 és 2021 közötti számai kész longitudinális mintát adnak a terület saját állításairól.
 - Hivatkozzon a leszármazásra, amikor újdonságot állít. Az az állítás, hogy egy rendszer „személyre szabja a tanulást” vagy „modellezi a tanulót”, csak egy adott korábbi hagyományhoz viszonyítva új, és a hagyomány dokumentált.
+
+## Gyakori tévhitek
+
+**„A MI az oktatásban a ChatGPT-vel kezdődött.”** Nem így volt, és a hiedelem azért költséges, mert láthatatlanná teszi az összes korábbi tanulságot. Az [[intelligent-tutoring|intelligens tutorálás]] az 1960-as és 70-es évek heurisztikus keresési és szakértői rendszer munkáiból származik, és az AIED közösség évtizedekkel a [[llm|nagy nyelvi modellek]] előtt köréje szerveződött. [[mishra-control-vs-agency-history-2025|Mishra és mtsai.]] megmutatják, hogy a mai viták egy olyan szakadékot termelnek újra, amely már Anderson kognitív tutoraiban és Papert konstrukcionizmusában is explicit volt, tehát az az olvasó, aki 2022-re datálja a területet, újra levezeti azokat az érveket, amelyeket a terület egyszer már eldöntött, elhagyott vagy elveszített.
+
+**„A terület fokozatosan feladta a MI-mint-analógiát az alkalmazott eszközök javára, és a generatív MI folytatja ezt a tendenciát.”** Ez az oldal legtanulságosabb korrekciója, mert a pálya valós, de nem monoton. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian és Doroudi]] pozicionális elemzése az AIED 1985, 1993, 2021 és 2024, valamint az IJAIED 2004, 2014 és 2021 anyagáról valóban egy elmozdulást mutat a vegyes területtől a szinte kizárólagos alkalmazott instrumentalitás felé a 2000-es évekre. Az AIED 2024-en azonban az MI-mint-analógia negyed négy cikkéből három LLM-alapú volt, köztük egy legjobb cikk díjas munka LLM-alapú tanítható ágensekről. A generatív MI részben **megfordítja** a tendenciát, nem kiterjeszti, ezért félreérti a kutatási frontvonal tényleges mozgását, aki „a következő intelligens tutorként” kezeli.
+
+**„A személyre szabás annyit jelent, hogy minden tanulóhoz igazítjuk a nehézséget.”** Ez csak az egyik a két összeegyeztethetetlen értelem közül, és összemosásuk politikai választást rejt el. Az első értelemben az eredmény rögzített, és csak az út változik, a leszármazás Skinner tanítógépeitől a mesterfokú tutorálásig tart. A másodikban maguk az eredmények válnak sokféle, ahogy a tanulók egyéni érdeklődésüket követik a standard tantervtől függetlenül (Zhao, 2024). Egy [[intelligent-tutoring|ITS]] az elsőt valósítja meg, a [[constructivist|konstrukcionizmus]] a másodikat. Egy „személyre szabottként” leírt eszköz semmit nem mondott el, amíg nem tudjuk, melyiket érti rajta.
+
+**„A »mesterséges intelligencia« egyszerűen a terület kézenfekvő neve volt.”** A kifejezés szándékos választás volt. Amikor McCarthy az 1956-os dartmouthi projektet tervezte, a *mesterséges intelligenciát* részesítette előnyben a *kibernetikával* szemben, részben hogy eltávolítsa a munkát Wiener analóg visszacsatolás hagyományától. Ez az egyetlen döntés a gépeket közvetlenül az emberi kognícióhoz mérte, és az általa bevezetett antropomorf keretezés máig alakítja a kutatási prioritásokat, a terméknyelvet és azokat az etikai kérdéseket, amelyeket a közönség feltesz.

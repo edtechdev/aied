@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -38,6 +42,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 
 A tanulói identitás azt érinti, hogy ki az, akinek a tanuló önmagát érti, és kivé válik egy tudományterületen belül — motivációs és fejlődési konstruktum, amely különbözik az olyan képesség-hiedelmektől, mint a [[self-efficacy|önhatékonyság]], amelyek a szűkebb *meg tudom-e ezt tenni?* kérdésre válaszolnak. Az identitás a részvételen, az elismerésen és a szerzőségen keresztül formálódik: azon, hogy az ember visszatükröződni látja magát egy területen, és ezt az önképet mások megerősítik. Az MI mindhárom feltételt átalakítja, mert megváltoztatja, ki végzi a munkát, mi számít saját hozzájárulásnak, és hogy a tanulót saját tanulása szerzőjeként ismerik-e el ([[agency]], [[metacognition]]).
 
+A jegyek viszony is, nem csupán szimbólum: a diákok úgy tanulnak rá látni önmagukat, és ezért az a reform, amely a jegyzőkönyv megőrzését célozza, ugyanazt a viszonyt is megőrzi ([[nieminen-grading-assessment-reform-2026|Nieminen és mtsai. (2026)]]).
+
 ## Miért számít az identitás az MI-oktatásban
 
 Az identitás motivációs és fejlődési konstruktum, amely különbözik a kapcsolódó képességektől és hiedelmektől (bár kapcsolódik hozzájuk). Ahol a [[self-efficacy|önhatékonyság]] a *meg tudom-e ezt tenni?* kérdésre irányul, ott az identitás a *ki vagyok én — és kivé válok?* kérdésre. Részvételen, elismerésen és szerzőségen keresztül épül — azon, hogy az ember visszatükröződni látja magát egy területen, és ezt az önképet megerősítve kapja. Az MI átalakítja azokat a feltételeket, amelyek között az identitás formálódik, mert megváltoztatja, *ki végzi a munkát*, *mi számít saját hozzájárulásnak*, és *hogy a tanuló szerzőjeként érzi-e elismerve magát a tanulásának*. Ez az identitást elsőrendű tervezési kérdéssé teszi, nem pedig mellékes „puha" tényezővé.
@@ -58,6 +64,9 @@ Nem csupán a szerzőség fenyegetése, hanem külön szerzőségi feltétel: am
 - **Ahogy a diákok keretezik az eszközt, az alakítja szakmai válásukat.** Azok a diákok, akik a GenAI-t kizárólag társas-érzelmi partnerként értelmezték, kevésbé differenciált reflexiókat adtak szakmai tanulásukról, mint azok, akik technikaként, tanulási anyagként vagy struktúraként is keretezték ([[genai-professionalization-metaphors-2026|Bohmer és mtsai., 2026]]).
 - **Óvatos elfogadás: a szelektív MI-használat mint identitásvédelem.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] egy ausztrál egyetem 484 hallgatóját mérte fel, és azt találta, hogy a jobb eredményű hallgatók *alacsonyabb* aktív [[generative-ai|generatív AI]]-elköteleződésről, alacsonyabb MI iránti pozitív affektusról, alacsonyabb [[self-report-measures|észlelt tanulási]] hatásról és alacsonyabb MI-vel kapcsolatos eltávolodásról számoltak be, a legerősebb összefüggésekkel rho = -0,395 (észlelt tanulási hatás) és rho = -0,359 (pozitív affektus) értéknél. Nyitott válaszaik szelektív (tisztázás, összefoglalás, munkafolyamat-támogatás), ellenőrzött és saját ítéletük alá rendelt használatot írtak le, a tételszintű eredmények pedig nagyobb egyetértést mutattak abban, hogy az MI-re támaszkodás hátráltatja a [[critical-thinking|kritikus gondolkodást]] és az önálló [[problem-solving|problémamegoldást]]. A szerzők ezt identitásként olvassák: azoknál a diákoknál, akiknek a sikeres tanulóként való önképe saját erőfeszítésükön és ítéletükön nyugszik, az MI-használat behatárolása védi az [[agency|episztemikai ügynökséget]], amelytől az identitás függ — ami azt is jelenti, hogy a minta sem nem technofóbia, sem nem alacsony elköteleződés.
 - **A megfogalmazott cél nem feltétlenül irányít egy MI-döntést.** [[ting-ai-learning-ownership-purpose-2026|Ting és mtsai. (2026)]] 14 egyetemistát interjúvoltak meg, és minden interjút kódoltak a diák [[self-determination-theory|célja]] — a személyesen értelmes, önmagon túlmutató hozzájárulási szándék — és az MI-választásaik kapcsolatára. Csak néhányan teremtettek kapcsolatot: egyikük azért utasította el az MI-t, mert annak környezeti és emberi költségei ellentmondtak a céljának, hárman pedig hagyták, hogy a jövőbeli szakmai identitás alakítsa a választásaikat („hozzájárul ahhoz a pszichológushoz, aki egy nap a világban leszek"). Más, hasonlóan világos célérzettel rendelkezők nem hoztak ilyen kapcsolatot, a célt és az MI-t „valamennyire különállónak" írták le, tehát az, hogy valakinek van mit védenie, nem azonos azzal, hogy merít is belőle. A tanulmány azt is szétválasztja, milyen okokat adnak a diákok arra, hogy megtartsák maguknak a munkát — készségfejlesztés, [[evaluative-judgment|birtoklás és büszkeség]], erkölcsi ellenvetés —, amelyek különböző mechanizmusokon keresztül érkeznek, és nem szabad egyetlen motívummá összevonni őket.
+
+- **A képesség a tartozásérzés előtt jöhet.** Egy 73 napos autoetnográfia, amely egy bioinformatikus oktatót követett, aki ismeretlen területen játékot épített, azt találta, hogy a [[generative-ai|GenAI]] a képességet adta, de nem az identitást: a tartozás közösségi gyakorlatokban való részvételen és ismételt jelentésképzésen keresztül jött, és megszerzése emberi tempót igényelt ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- A visszautasítás is identitásmunka: öt kisebbségi származású szakmunkás-tanuló körében a nem-használat vagy az ellenőrzés érvényesítését, vagy az intézményi szabályoknak való megfelelést, vagy episztemikai értékek jelzését jelentette, míg a semleges MI-válaszok egy „kulturális lapátlanságot" produkáltak, amely láthatatlanul hagyta tapasztalataikat ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Kapcsolat a tanulói ügynökséggel
 

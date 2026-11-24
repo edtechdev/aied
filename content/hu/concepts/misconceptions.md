@@ -1,7 +1,7 @@
 ---
 title: "Tévhitek a MI-ről"
 created: "2026-11-12T03:59:53-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: "concepts/misconceptions"
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Bevezetés
 
-A MI-vel kapcsolatos tévhitek azért számítanak, mert ezek a kognitív előzményei azoknak az ártalmas viselkedéseknek, amelyeket a tudásbázis a [[cognitive-offloading|túlzott támaszkodás]] és az [[academic-integrity|akadémiai integritás]] problémái alatt dokumentál. Az emberek ritkán indulnak el azzal a szándékkal, hogy [[ai-misuse-learning-harm|visszaéljenek]] a MI-vel; azért teszik, mert pontatlan mentális modelljeik rossz helyre teszik a bizalmukat, kihagyják az ellenőrzést, és a kimenetet megértésnek tekintik. Az oktatásban ezek a hibák mindent alakítanak, a diákok tanulási módjától kezdve addig, ahogy a tanárok és az intézmények a tantervet, az [[assessment|értékelést]] és a szakpolitikát tervezik.
+A MI-vel kapcsolatos tévhitek azért számítanak, mert ezek a kognitív előzményei azoknak az ártalmas viselkedéseknek, amelyeket a tudásbázis a [[cognitive-offloading|túlzott támaszkodás]] és az [[academic-integrity|akadémiai integritás]] problémái alatt dokumentál. Az emberek ritkán indulnak el azzal a szándékkal, hogy [[ai-misuse-learning-harm|visszaéljenek]] a MI-vel; azért teszik, mert pontatlan mentális modelljeik rossz helyre teszik a bizalmukat, kihagyják az ellenőrzést, és a kimenetet megértésnek tekintik. Az oktatásban ezek a hibák mindent alakítanak, a diákok tanulási módjától kezdve addig, ahogy a tanárok és az intézmények a tantervet, az [[assessment|értékelést]] és a szakpolitikát tervezik. A tudományterület egy külön ága megkérdőjelezi azt a keretezést, amely e tévhiteket maga produkálja; lásd a [[critiques-of-ai-in-education|MI-oktatás kritikáit]].
 
 ## Mik az MI-tévhitek
 

@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Ezek mechanizmusokat magyaráznak: megnevezik azokat a részeket, amelyek a munk
 ## Tanítási, integrációs és elfogadási keretrendszerek
 
 - **[[tpack|TPACK]]** — a tanári tudás, amely a technológiát, a pedagógiát és a tartalmat ötvözi; a tanárokat célzó MI-tanulmányok alapértelmezett keretrendszere.
+- **[[bloom-taxonomy|Bloom-féle taksonómia]]** — a feladatok kognitív igényének közös szókincse, amely egyszerre szolgál a tételek kódolására és sorrendezésére; az MI-oktatásban legalább annyira mérési, mint tervezési problémává vált.
 - **[[technology-acceptance-model|Elfogadási modellek]]** — a szándék az észlelt hasznosság és a használat könnyűségének függvényében. Olyan széles körben használják, hogy a területnek a szándékra, nem pedig a viselkedésre támaszkodása állandó kritika tárgya.
+- **Elvártás-konfirmációs modell (ECM)** — az elégedettség a korábbi elvárások megerősítéseként, a kimenet pedig a folytatás, nem a kezdeti elfogadás. Egy féléves szociológiai módszertani kísérletben 24 egyetemista körében a Copilotot a résztvevők 87%-a jónak vagy kiválóanak ítélte, 91% ajánlaná, de csak 57% akarta továbbra is használni ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). A rés maga a modell lényege: az elégedett felhasználó mégis lemondhat a visszatérésről, ezért az elégedettséget és a folytatást külön kell mérni.
 - **[[icap-framework|ICAP]]** — az elköteleződést passzív, aktív, konstruktív és interaktív szintekbe rendezi; hasznos annak megkérdezésére, milyen módot tesz lehetővé valójában egy [[student-ai-interaction|MI-interakció]].
 - **[[samr-model|SAMR]]** — a helyettesítéstől az újradefiniálásig. Népszerű érettségtörténetként, gyenge mérőműszerként.
 - **[[universal-design-for-learning|Univerzális tervezés a tanuláshoz]]**, **[[inclusive-learning|befogadó tanulás]]** és **[[accessibility|hozzáférhetőség]]** — tervezési keretek arra, hogy kit szolgálnak ki, és a leggyakrabban hivatkozott keretek a fogyatékosság és az [[equity-in-ai-education|esélyegyenlőség]] terén.
@@ -104,7 +110,7 @@ A szavakat lazán használja a szakirodalom, és a különbség egy bekezdést �
 
 ## Kapcsolódó rétegek
 
-Két szomszédos oldal szándékosan valami másról szól. A [[philosophy-of-ai-in-education|MI-oktatás filozófiája]] normatív és fogalmi kérdéseket tesz fel — hogy *miért* van az oktatás, taníthat-e egy gép —, és nem jósol hatásnagyságot; egy tanulmány lehet filozófiailag naiv és elméletileg megalapozott, vagy fordítva. A [[theory-development-aied|elméletfejlesztés]] az elmélet építésének, kölcsönzésének és felülvizsgálatának meta-tevékenysége, beleértve azt az állandó kritikát, hogy sok [[ai-education|AIED]]-munka meglévő elméletet alkalmaz, ahelyett hogy tesztelné azt. Ez az oldal a leltár; az elméletfejlesztés a leltár előállításáról és felülvizsgálatáról szól.
+Két szomszédos oldal szándékosan valami másról szól. A [[philosophy-of-ai-in-education|MI-oktatás filozófiája]] normatív és fogalmi kérdéseket tesz fel — hogy *miért* van az oktatás, taníthat-e egy gép —, és nem jósol hatásnagyságot; egy tanulmány lehet filozófiailag naiv és elméletileg megalapozott, vagy fordítva. A [[theory-development-aied|elméletfejlesztés]] az elmélet építésének, kölcsönzésének és felülvizsgálatának meta-tevékenysége, beleértve azt az állandó kritikát, hogy sok [[ai-education|AIED]]-munka meglévő elméletet alkalmaz, ahelyett hogy tesztelné azt. Ez az oldal a leltár; az elméletfejlesztés a leltár előállításáról és felülvizsgálatáról szól. A [[learning-environments-as-systems|tanulási környezetek mint rendszerek]] a harmadik szomszéd. Ez nem tanuláselmélet, és nem jósol hatásnagyságot, hanem egy álláspont az elemzési egységgel kapcsolatban: a tanulási környezet többszintű rendszer, amelynek részei egymással hatnak, így a tanulmány által mért szint elméleti döntés, nem a mintavétel kényelméből adódó.
 
 ## Lencseválasztás, amikor a kérdés gyakorlati
 

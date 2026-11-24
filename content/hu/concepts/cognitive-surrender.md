@@ -13,13 +13,17 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Megfontolandó kérdések
 
-1. Amikor egy diák elfogad egy MI-választ, amely történetesen helyes, sikeres volt-e az óra? Minek kellene igaznak lennie ahhoz, hogy maga az elfogadás legyen az, ami számít?
-2. Különbözik-e fajtájában egy kalibrált delegáló, aki ismeri a saját határait, attól a diáktól, aki egyszerűen nem tud különbséget tenni? Hogyan tudná [[teacher-role|egy oktató]] megkülönböztetni őket egyetlen munkadarabban?
-3. Ha a magabiztosság nő, miközben a pontosság csökken, ahogy az MI-tanács elérhetősége esetén történik, ez mit tesz a tanuló saját hibafelismerésével?
-4. Hol tanítható az ellenőrzés, és hol [[educational-policy-ai|politikai]] kérdés a munkateher? A [[curriculum-design|tanterv]] mely részeit kellene megváltoztatni ahhoz, hogy az ellenőrzés legyen a norma, és ne a kivétel?
-5. Egyáltalán mérjék-e az intézmények a megadást, vagy a mérés ugyanazt a megfigyelést hívja elő, amellyel az [[ai-use-disclosure|közzétételi szabályok]] küzdenek?
-6. Hogyan nézne ki egy olyan feladat, amely azért jutalmazza a diákot, mert felülír egy hibás MI-választ, és nem azért, mert csiszolt választ állít elő?
+- Amikor egy diák elfogad egy MI-választ, amely történetesen helyes, sikeres volt-e az óra? Minek kellene igaznak lennie ahhoz, hogy maga az elfogadás legyen az, ami számít?
+- Különbözik-e fajtájában egy kalibrált delegáló, aki ismeri a saját határait, attól a diáktól, aki egyszerűen nem tud különbséget tenni? Hogyan tudná [[teacher-role|egy oktató]] megkülönböztetni őket egyetlen munkadarabban?
+- Ha a magabiztosság nő, miközben a pontosság csökken, ahogy az MI-tanács elérhetősége esetén történik, ez mit tesz a tanuló saját hibafelismerésével?
+- Hol tanítható az ellenőrzés, és hol politikai kérdés a munkateher? A [[curriculum-design|tanterv]] mely részeit kellene megváltoztatni ahhoz, hogy az ellenőrzés legyen a norma, és ne a kivétel?
+- Egyáltalán mérjék-e az intézmények a megadást, vagy a mérés ugyanazt a megfigyelést hívja elő, amellyel az [[ai-use-disclosure|közzétételi szabályok]] küzdenek?
+- Hogyan nézne ki egy olyan feladat, amely azért jutalmazza a diákot, mert felülír egy hibás MI-választ, és nem azért, mert csiszolt választ állít elő?
 
 ## Bevezetés
 

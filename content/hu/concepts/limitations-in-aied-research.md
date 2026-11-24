@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Mennyire bízna egy olyan címsorban, hogy „az MI-tutorálás 30%-kal növeli a tanulást", ha megtudná, hogy 30 diákból származik egy kurzusból, egy intézményből? Az oldal az általánosíthatóságot és a kis mintákat visszatérő korlátként jelöli — mit szeretne tudni, mielőtt bármely egyedi eredményre cselekedne?
 - Szembetűnő korlát a „sebesség probléma": az MI gyorsabban fejlődik, mint ahogy az eredmények megjelennek, így egy modellgenerációról szóló tanulmány már elavult rendszert írhat le. Hogyan kellene ez megváltoztatnia az MI-oktatási kutatásba vetett bizalmát?
 - Sok tanulmány [[self-report-measures|önbevalláson]] alapuló attitűdökre és használatra támaszkodik, amelyek torzítottak — az emberek túlbecsülik a kompetenciájukat, és aluljelentik a visszaélést. Válaszolt már valaha egy saját készségeiről vagy viselkedéséről szóló felmérésben úgy, ami nem felelt meg a valóságnak? Miért térnek el olyan gyakran az észlelésalapú mérések az objektív teljesítménytől?
-- Az oldal megjegyzi, hogy az olyan ismert keretrendszereket, mint a Bloom-taxonómia, gyakran szigorú lépcsőkként olvassák félre, és hogy még a széles körben használt elméleteket is, mint a [[cognitive-offloading|kognitív terhelés]] elméletét, megkérdőjelezték. Mikor látta, hogy egy elméletet kész igazságként emlegettek egy olyan kontextusban, ahol saját bizonyítékai valójában vitatottak voltak?
+- Az oldal megjegyzi, hogy az olyan ismert keretrendszereket, mint a [[bloom-taxonomy|Bloom-taxonómiát]], gyakran szigorú lépcsőkként olvassák félre, és hogy még a széles körben használt elméleteket is, mint a [[cognitive-offloading|kognitív terhelés]] elméletét, megkérdőjelezték. Mikor látta, hogy egy elméletet kész igazságként emlegettek egy olyan kontextusban, ahol saját bizonyítékai valójában vitatottak voltak?
 - A legtöbb MI-kutatás zárt, átláthatatlan modellektől függ, amelyek adatait és frissítéseit nem lehet megvizsgálni. Ha nem tudja ellenőrizni, pontosan melyik modell állította elő az eredményt, mennyire bízhat a rá épülő állításokban — és mi tenné reprodukálhatóbbá az eredményeket?
 - Ha Ön oktató vagy tervező, akinek nincs ideje az elsődleges kutatásokat olvasni, hogyan dönti el, mely MI-állítások elég megbízhatók a gyakorlata megváltoztatásához — tekintettel arra, hogy a szakirodalom töredezett, ideiglenes és kutatóknak íródott?
 
 ## Bevezetés
 
-Az MI az oktatásban gyorsan mozgó, heterogén terület, amelynek bizonyítékbázisa sajátos korlátokat hordoz, amelyeket a kutatóknak, gyakorló szakembereknek és döntéshozóknak mérlegelniük kell bármely eredmény használatakor. Ezek egy része közös a szélesebb [[learning-sciences|tanulástudományi]] és pszichológiai szakirodalommal; másokat magának az MI természete erősít fel vagy tesz egyedivé. Ez az oldal négy átfogó területbe rendezi őket.
+Az MI az oktatásban gyorsan mozgó, heterogén terület, amelynek bizonyítékbázisa sajátos korlátokat hordoz, amelyeket a kutatóknak, gyakorló szakembereknek és döntéshozóknak mérlegelniük kell bármely eredmény használatakor. Ezek egy része közös a szélesebb [[learning-sciences|tanulástudományi]] és pszichológiai szakirodalommal; másokat magának az MI természete erősít fel vagy tesz egyedivé. Ezek a bizonyítékokra vonatkozó problémák; azt a külön érvelési tárházat, amely a bizonyítékok szolgálati céljáról szól, a [[critiques-of-ai-in-education|MI az oktatásból való kritika]] gyűjti egybe.
 
 ## Módszertani korlátok
 
@@ -61,6 +65,10 @@ A tudásbázis [[research-methods-aied|kutatásmódszertani]] oldala részletezi
 - **Az egyes adathalmazokon belüli standardizálás elrejtheti a szóródás hibás megadását.** Amikor a szintetikus oktatási kohorszokat saját szóródásukkal standardizálták, az a tény, hogy heti szerkezetük 2,6–4,9-szer kevésbé változott, mint a valódi kohorszoké, láthatatlanná vált a jelentett statisztikák számára — rutin előfeldolgozás, a szerzők szavaival nem hipotetikus aggodalom ([[synthetic-educational-data-structural-fidelity-2026|Inoue és Yasutake, 2026]]).
 - **A modell által generált címkék nem jelentenek ground truthot.** Ahol a rendszert tanító vagy értékelő címkéket maguk a nyelvi modellek állítják elő, az annotátorok közötti egyezés nem tudja megállapítani az érvényességet: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado és mtsai. (2026)]] soha nem validálták állítás-annotációikat emberi aranycímkékkel szemben, és az általuk közzétett 49 encoder-osztályozó ezt a származást örökli, és nem feltétlenül érvényes ott, ahol az alkalmazások jelentős dimenziókban különböznek. Sémájuk szigorúan alulteljesítette a szakértőkkel annotált adatokon tanított finomhangolt osztályozót is (makro-F1 0,673 a 0,76-tal szemben), ami akkor teszi érdemessé a szakértői címkézett korpuszokat, amikor nagy magabiztosság szükséges.
 - **Maga a bizonyítékbázis egyenetlenül oszlik el.** 407 technológiával támogatott [[formative-assessment|formatív értékelési]] tanulmány scoping-áttekintése csak a Web of Science-re és a Scopusra támaszkodott. Nyelvi kritériumok miatt 61 rekordot is kizárt, így a terület által jelentett földrajzi egyensúlytalanság részben azt tükrözheti, mely fórumok indexeltek ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+
+- **A háromfeltételes tervezés hiányzik.** Tizenkét áttekintett GenAI-tanulmány közül egyik sem mért segített teljesítményt egyszerre az azonnali és a késleltetett MI nélküli teszttel, ellenőrzött kizárással, tehát a segített nyereségek soha nem kapcsolódnak a megőrzéshez ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**A kivitelezhetőség egy eredményosztály, nem előszó.** Egy MI-szimulált beteges két kohorszos pilotja 72 meghívott diák közül 19-et (26%) toborzott, minden találkozót és felmérést végigvitt (100%), és egyetlen ülést sem zárt le technikai hiba — valós eredmények, de a kivitelezhetőségi és elfogadhatósági eredményeket az adatgyűjtés után határozták meg, és haladási kritériumokat nem regisztráltak előre ([[tischkau-ai-simulated-patient-formats-2026|Tischkau és mtsai. (2026)]]). A befejezési arány csak előre rögzített kritériumokhoz képest informatív; különben „működött” és „hasznos volt” ugyanaz a mondat.
 
 ## A sebesség problémája: az MI gyorsabban fejlődik, mint az eredmények
 
@@ -117,6 +125,8 @@ Két konkrét jelentési gyakorlat fújja fel vagy torzítja a szintézist, és 
 **A fő százalék a keresési kifejezések műterméke lehet.** 195 tanárképzési tanulmány scoping-áttekintése a digitális kompetenciát és a [[tpack|TPACK]]-ot explicit keresési leírókká tette, míg a tanulástervezésnek és az értékelésnek nem volt megfelelő kifejezése, így a jelentett **46,5% és 1,9%** azok az arányok, amelyeket maga a lekérdezés hozott létre. Egy prevalenciaállítás csak annyira értelmes, mint a mögötte álló keresés.
 
 **És az alapráta az a szám, amelyet senki nem mond ki.** A módszertani korlátok itt mérhetők, nem benyomásszerűek: 80, MI-vel folytatott kritikus gondolkodási HCI-tanulmány kritikai áttekintésében **42 (52%) nem alkalmazott kontrollcsoportot**, a többi többsége pedig önjelentésre támaszkodott. Amikor egy terület pozitív eredményeinek több mint a fele olyan tervezésekből származik, amelyek nem tudják elválasztani az MI hatását a hétköznapi tevékenységtől, a megfelelő előzetes feltevés bármely egyedi eredménnyel szemben a szkepticizmus, nem az ideiglenes elfogadás.
+
+E korlátok gyakorlati következménye, hogy számos széles körben használt oktatási gyakorlat olyan bizonyítékon nyugszik, amelyek ezt nem bírják; a [[what-not-to-do-ai-education|tanárok által az MI-vel elkerülendő dolgok]] gyűjteménye szerepkörönként egybegyűjti ezeket a gyakorlatokat, és megnevezi minden óvintézkedés mögött álló konkrét korlátot.
 
 ## Gyakori tévhitek
 

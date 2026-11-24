@@ -1,7 +1,7 @@
 ---
 title: Az oktatás MI-kritikái
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Egy második csoport nem a gépre, hanem a szókészletre támad. Wang és Jin a
 
 ## Infrastruktúra, transzdukció és félreismerés
 
-Egy harmadik csoport a figyelmet az eszközről annak körüli infrastruktúrára helyezi át. Watson, Morgner és Brezovec a generatív MI-t jelentés-közvetítő infrastruktúraként kezeli, és mechanizmusát *szemantikus transzdukciónak* nevezi: egy oktatási igény — egy prompt, egy megbízás, egy rubrika, egy vizsgakérdés, egy műfaj vagy egy politika — kommunikatívan hihető formába való átformálása ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner és Brezovec (2026)]]). Mivel a transzdukció szelektív, befogadhat vagy kizárhat. Három hely tér vissza: a hozzáférési és képességi szakadékok, a félreismerés azon sablonokon keresztül, amelyek meghatározzák, hogyan hangzik egy jó válasz vagy egy jó tanuló, és a normatív elcsúszás abban, hogy mit jelent a pedagógia. A kizárás gyakran tilalom helyett kettős nyomás: az intézmények egyszerre emelik a tempóra, a kidolgozottságra és az idiomatikus folyékonyságra vonatkozó elvárásokat, miközben szigorítják az autentikusság rendszereit.
+Egy harmadik csoport a figyelmet az eszközről annak körüli infrastruktúrára helyezi át. Watson, Morgner és Brezovec a generatív MI-t jelentés-közvetítő infrastruktúraként kezeli, és mechanizmusát *szemantikus transzdukciónak* nevezi: egy oktatási igény — egy prompt, egy megbízás, a [[rubrics|rubrika]], egy vizsgakérdés, egy műfaj vagy egy politika — kommunikatívan hihető formába való átformálása ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner és Brezovec (2026)]]). Mivel a transzdukció szelektív, befogadhat vagy kizárhat. Három hely tér vissza: a hozzáférési és képességi szakadékok, a félreismerés azon sablonokon keresztül, amelyek meghatározzák, hogyan hangzik egy jó válasz vagy egy jó tanuló, és a normatív elcsúszás abban, hogy mit jelent a pedagógia. A kizárás gyakran tilalom helyett kettős nyomás: az intézmények egyszerre emelik a tempóra, a kidolgozottságra és az idiomatikus folyékonyságra vonatkozó elvárásokat, miközben szigorítják az autentikusság rendszereit.
 
 ## Napirend-foglalás, szimulált innováció és kísérleti jövőformálás
 
