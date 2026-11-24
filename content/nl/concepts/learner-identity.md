@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Inleiding
 
 De identiteit van de lerende gaat over wie een lerende denkt te zijn, en wie die wordt, binnen een domein — een motivationeel en ontwikkelingsconstruct dat verschilt van bekwaamheidsovertuigingen zoals [[self-efficacy|zelfeffectiviteit]], die de engere vraag beantwoorden *kan ik dit?* Identiteit vormt zich door deelname, erkenning en auteurschap: jezelf weerspiegeld zien in een veld en die zelfopvatting door anderen bevestigd krijgen. AI hervormt alle drie de voorwaarden, omdat ze verandert wie het werk doet, wat als iemands eigen bijdrage telt, en of een lerende wordt erkend als de auteur van het eigen leren ([[agency]], [[metacognition|metacognitie]]).
+
+Cijfers zijn ook een relatie, niet alleen een symbool: studenten leren zichzelf via cijfers zien, dus hervorming die het transcript intact laat, laat die relatie ook intact ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Waarom identiteit ertoe doet voor AI in het onderwijs
 
@@ -59,6 +65,9 @@ Een afzonderlijke auteurschapsvoorwaarde, niet alleen een bedreiging van auteurs
 
 - **Behoedzame adoptie: selectief AI-gebruik als bescherming van identiteit.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] enquêteerde 484 studenten aan één Australische universiteit en vond dat hoger presterende studenten *minder* actieve [[generative-ai|generatieve AI]]-betrokkenheid rapporteerden, minder positief affect tegenover AI, minder [[self-report-measures|ervaren leerimpact]] en minder terugtrekking rond AI, met de sterkste associaties op rho = -0.395 voor ervaren leerimpact en rho = -0.359 voor positief affect. Hun open antwoorden beschreven gebruik dat selectief was (verduidelijking, samenvatting, workflowondersteuning), geverifieerd, en ondergeschikt aan hun eigen oordeel, en de resultaten op itemniveau lieten meer instemming zien met de stelling dat vertrouwen op AI [[critical-thinking|kritisch denken]] en onafhankelijk [[problem-solving|probleemoplossen]] belemmert. De auteurs lezen dit als identiteitswerk: voor studenten wier zelfbeeld als succesvolle lerenden op eigen inspanning en oordeel rust, beschermt het begrenzen van AI-gebruik de [[agency|epistemische agency]] waarvan die identiteit afhangt — wat ook betekent dat het patroon geen technofobie of lage betrokkenheid is.
 - **Een uitgesproken doel bepaalt niet noodzakelijk een AI-beslissing.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] interviewden 14 bachelorstudenten en codeerden elk interview op de relatie tussen het [[self-determination-theory|doel]] van de student — een persoonlijk betekenisvolle intentie om iets bij te dragen buiten het zelf — en hun AI-keuzes. Slechts sommigen legden de verbinding: één weigerde AI omdat de milieu- en menselijke kosten tegen haar doel ingingen, en drie lieten toekomstige professionele identiteit hun keuzes vormen ("draagt bij aan de psycholoog die ik ooit in de wereld zal zijn"). Anderen met een even duidelijk doel legden die link niet, en beschreven doel en AI als "min of meer gescheiden", dus een identiteit hebben om te beschermen was niet hetzelfde als eruit putten. Het artikel onderscheidt ook de redenen die studenten geven om werk van zichzelf te houden — vaardigheidsontwikkeling, [[evaluative-judgment|eigenaarschap en trots]], en morele bezwaren — die via verschillende mechanismen binnenkomen en niet tot één motief mogen worden samengevoegd.
+
+- **Capaciteit kan voorafgaan aan verbondenheid.** Een auto-etnografie van 73 dagen over een bioinformatica-docent die een spel bouwde in een onbekend domein vond dat [[generative-ai|GenAI]] de capaciteit leverde maar niet de identiteit: verbondenheid kwam door participatie in communities of practice en herhaalde betekenisgeving, en het behalen ervan ging op menselijk tempo ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- **Weigering is ook identiteitswerk:** onder vijf leerlingen van kleur in het beroepsonderwijs bewees niet-gebruik controle, voldeed aan institutionele regels of signaleerde epistemische waarden, terwijl neutrale AI-antwoorden een "culturele vlakheid" produceerden die hun ervaringen onerkend liet ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Relatie tot de agency van de lerende
 

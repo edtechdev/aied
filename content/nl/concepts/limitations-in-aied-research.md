@@ -10,12 +10,16 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Hoeveel zou u een kop als 'AI-tutoring verhoogt het leren met 30%' vertrouwen als u hoorde dat die uit 30 studenten in één cursus aan één instelling kwam? De pagina markeert generaliseerbaarheid en kleine steekproeven als terugkerende grenzen — wat zou u willen weten voordat u op één enkele bevinding handelt?
 - Een opvallende beperking is het 'snelheidsprobleem': AI evolueert sneller dan bevindingen worden gepubliceerd, dus een studie naar één modelgeneratie beschrijft mogelijk al een verouderd systeem. Hoe zou dit het vertrouwen moeten veranderen dat u in AI-onderwijsonderzoek stelt?
 - Veel studies leunen op [[self-report-measures|zelfgerapporteerde]] houdingen en gebruik, die vertekend zijn — mensen overschatten hun competentie en rapporteren misbruik te weinig. Heeft u ooit een enquête over uw eigen vaardigheden of gedrag beantwoord op een manier die niet met de werkelijkheid overeenkwam? Waarom wijken perceptiegebaseerde maten zo vaak af van objectieve prestaties?
-- De pagina merkt op dat bekende kaders zoals de taxonomie van Bloom vaak worden gelezen als strikte ladders, en dat zelfs breed gebruikte theorieën zoals de [[cognitive-offloading|cognitieve belasting]]stheorie ter discussie zijn gesteld. Wanneer hebt u meegemaakt dat een theorie als vaststaande waarheid werd aangevoerd in een context waar haar eigen bewijs juist betwist was?
+- De pagina merkt op dat bekende kaders zoals [[bloom-taxonomy|Bloems taxonomie]] vaak worden gelezen als strikte ladders, en dat zelfs breed gebruikte theorieën zoals de [[cognitive-offloading|cognitieve belasting]]stheorie ter discussie zijn gesteld. Wanneer hebt u meegemaakt dat een theorie als vaststaande waarheid werd aangevoerd in een context waar haar eigen bewijs juist betwist was?
 - Het meeste AI-onderzoek leunt op propriëtaire, ondoorzichtige modellen waarvan u de data en updates niet kunt inspecteren. Als u niet kunt verifiëren welk model precies een resultaat produceerde, hoeveel kunt u dan bouwen op beweringen die erop rusten — en wat zou bevindingen reproduceerbaarder maken?
 - Als u docent of ontwerper bent zonder tijd om primair onderzoek te lezen, hoe beslist u dan welke AI-beweringen betrouwbaar genoeg zijn om uw praktijk te veranderen — gegeven dat de literatuur versnipperd, voorlopig en voor onderzoekers geschreven is?
 
 ## Inleiding
 
-AI in het onderwijs is een snel bewegend, heterogeen veld, en de bewijsbasis draagt een kenmerkende set beperkingen die onderzoekers, professionals in de praktijk en beleidsmakers moeten wegen wanneer ze een bevinding gebruiken. Sommige daarvan deelt het veld met de bredere [[learning-sciences|leerwetenschappen]] en de psychologische literatuur; andere worden versterkt of uniek gemaakt door de aard van AI zelf. Deze pagina ordent ze in vier doorsnijdende gebieden.
+AI in het onderwijs is een snel bewegend, heterogeen veld, en de bewijsbasis draagt een kenmerkende set beperkingen die onderzoekers, professionals in de praktijk en beleidsmakers moeten wegen wanneer ze een bevinding gebruiken. Sommige daarvan deelt het veld met de bredere [[learning-sciences|leerwetenschappen]] en de psychologische literatuur; andere worden versterkt of uniek gemaakt door de aard van AI zelf. Deze pagina ordent ze in vier doorsnijdende gebieden. Dit zijn problemen in het bewijs; een afzonderlijk corps van argumenten over de doeleinden waar die bevindingen aan dienen, is verzameld onder [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
 ## Methodologische beperkingen
 
@@ -64,7 +68,10 @@ De pagina over [[research-methods-aied|onderzoeksmethoden]] van de kennisbank de
 - **Standaardiseren binnen elke dataset kan een verkeerde voorstelling van de spreiding verbergen.** Wanneer synthetische onderwijscohorten werden gestandaardiseerd naar hun eigen spreiding, werd het feit dat hun weekstructuur 2.6 tot 4.9 keer minder varieerde dan die van de echte cohorten onzichtbaar voor de gerapporteerde statistieken — routinematige voorbewerking, in de woorden van de auteurs geen hypothetische zorg ([[synthetic-educational-data-structural-fidelity-2026|Inoue en Yasutake, 2026]]).
 
 - **Door modellen gegenereerde labels zijn geen ground truth.** Waar de labels die een systeem trainen of evalueren zelf door taalmodellen worden geproduceerd, kan overeenstemming tussen annotatoren de validiteit niet vaststellen: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] valideerden hun beweringsannotaties nooit tegen menselijke gouden labels, en de 49 encoderclassificatoren die ze vrijgeven erven die herkomst en zijn mogelijk niet geldig waar toepassingen op belangrijke dimensies verschillen. Hun schema presteerde ook strikt slechter dan de fijn afgestemde classifier die op expertgeannoteerde data was getraind (macro-F1 0.673 tegen 0.76), waardoor expertgelabelde corpora de moeite waard blijven wanneer hoge betrouwbaarheid vereist is.
-- **De bewijsbasis zelf is ongelijk verdeeld.** Een scopingreview van 407 technologieondersteunde studies naar [[formative-assessment|formatieve beoordeling]] putte alleen uit Web of Science en Scopus. Ze sloot ook 61 records uit op taalcriteria, dus de geografische onevenwichtigheid die het veld rapporteert, kan deels weerspiegelen welke platforms geïndexeerd zijn ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **De bewijsbasis zelf is ongelijk verdeeld.** Een scopingreview van 407 technologieondersteunde studies naar [[formative-assessment|formatieve beoordeling]] putte alleen uit Web of Science en Scopus. Ze sloot ook 61 records uit op taalcriteria, dus de geografische onevenwichtigheid die het veld rapporteert, kan deels weerspiegelen welke platforms geïndexeerd zijn ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]])
+- **De drie-conditie-opzet ontbreekt.** In twaalf beoordeelde GenAI-studies mat geen enkele zowel de geassisteerde prestatie als zowel een onmiddellijke als een uitgestelde test zonder AI met geverifieerde exclusie, dus geassisteerde winst wordt nooit aan retentie gekoppeld ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Haalbaarheid is een uitkomstklasse, geen voorwoord.** Een pilot met twee cohorten van een AI-gesimuleerde patiënt wervende 19 van 72 uitgenodigde studenten (26%), voltooide alle ontmoetingen en enquêtes (100%) en eindigde met geen enkele sessie op een technisch mankement — echte resultaten, maar de haalbaarheids- en aanvaardbaarheidsuitkomsten werden pas na de dataverzameling gedefinieerd en er waren geen progressiecriteria vooraf vastgelegd ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Een voltooiingspercentage is slechts informatief tegen vooraf vastgestelde criteria; anders zijn "het liep" en "het werkte" dezelfde zin.
 
 ## Het snelheidsprobleem: AI evolueert sneller dan bevindingen
 
@@ -121,6 +128,8 @@ Twee specifieke rapportagepraktijken blazen een synthese op of vertekenen haar, 
 **Het koppercentage kan een artefact van de zoektermen zijn.** Een scopingreview van 195 lerarenopleidingsstudies maakte digitale competentie en [[tpack|TPACK]] tot expliciete zoekdescriptoren, terwijl onderwijsontwerp en beoordeling geen vergelijkbare descriptor hadden, dus de gerapporteerde **46.5% en 1.9%** zijn percentages die de query zelf heeft geconstrueerd. Een prevalentieclaim is slechts zo betekenisvol als de zoekopdracht erachter.
 
 **En de basisratio is het getal dat niemand noemt.** Methodologische grenzen zijn hier meetbaar in plaats van impressionistisch: in een kritische review van 80 HCI-studies naar kritisch denken met AI voerden **42 (52%) geen controlegroep** uit en leunde het grootste deel van de rest op zelfrapportage. Wanneer meer dan de helft van de positieve bevindingen van een veld uit ontwerpen komt die het effect van AI niet van gewone activiteit kunnen scheiden, is de gepaste prior voor elke afzonderlijke bevinding scepsis, niet voorlopige aanvaarding.
+
+Een praktische consequentie van deze beperkingen is dat verschillende veelgebruikte onderwijspraktijken rusten op bewijs dat ze niet kan dragen; [[what-not-to-do-ai-education|wat docenten beter niet met AI moeten doen]] verzamelt die praktijken per rol en benoemt de specifieke beperking achter elke waarschuwing.
 
 ## Veelvoorkomende misverstanden
 

@@ -10,12 +10,16 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T06:31:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-05T05:20:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -31,9 +35,9 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif
 ## Pertanyaan yang Perlu Dipertimbangkan
 
 - Ketika sebuah chatbot mengembalikan paragraf yang percaya diri dengan tiga sitasi, apakah mahasiswa sedang menjalankan literasi informasi, literasi media, atau keduanya bukan — dan apakah tugas itu membuat perbedaan tersebut terlihat?
-- Deepfake dan sitasi yang direkayasa adalah kegagalan yang berbeda: yang satu catatan palsu tentang dunia, yang lain catatan palsu tentang literatur. Bisakah satu mata kuliah mengajarkan keduanya tanpa mengajarkan masing-masing dengan buruk?
-- Detektor AI dan pemeriksa fakta juga merupakan model dengan tingkat kesalahan. Apa yang terjadi pada kurikulum verifikasi ketika alat verifikasinya bersifat probabilistik?
-- Literasi media telah diajarkan melalui produksi — siswa membuat media untuk memahaminya. Jika model kini yang membuat artefaknya, bagian mana dari pedagogi itu yang bertahan?
+- [[ai-avatars-and-synthetic-instructors|Deepfake]] dan sitasi yang direkayasa adalah kegagalan yang berbeda: yang satu catatan palsu tentang dunia, yang lain catatan palsu tentang literatur. Bisakah satu mata kuliah mengajarkan keduanya tanpa mengajarkan masing-masing dengan buruk?
+- Detektor AI dan pemeriksa fakta juga merupakan model dengan tingkat kesalahan. Apa yang terjadi pada [[curriculum-design|kurikulum]] verifikasi ketika alat verifikasinya bersifat probabilistik?
+- Literasi media telah diajarkan melalui produksi — siswa membuat media untuk memahaminya. Jika model kini yang membuat artefaknya, bagian mana dari [[pedagogy|pedagogi]] itu yang bertahan?
 
 ## Pendahuluan
 
@@ -47,7 +51,9 @@ Halaman ini membahas keduanya sebagai satu masalah pengajaran dengan dua set has
 
 Objek literasi informasi adalah sumber, dan pertanyaan intinya adalah apakah klaim itu benar dan bukti di belakangnya kredibel. Objek literasi media adalah pesan, dan pertanyaan intinya adalah siapa yang membuatnya, bagaimana, untuk siapa, dan untuk tujuan apa. Sitasi yang direkayasa gagal dalam uji pertama; deepfake dapat lolos setiap pemeriksaan faktual yang diketahui siswa sambil gagal dalam uji kedua.
 
-Literatur empiris mencerminkan perpecahan itu. Survei terhadap 236 mahasiswa universitas AS menanyakan dari mana pencarian akademik dimulai dan menemukan mesin pencari 45,5%, halaman utama perpustakaan 27,9%, dan chatbot AI 26,6%, dengan mahasiswa internasional menggantikan sumber daya perpustakaan dengan AI pada tingkat sekitar dua kali lipat mahasiswa domestik ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Tinjauan sistematis terhadap 32 studi menemukan integrasi literasi AI dalam pengajaran literasi informasi berada pada “tahap bayi”, disampaikan melalui LibGuides dan lokakarya alih-alih kurikulum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). Di sisi media, wawancara dengan tujuh pakar dan survei terhadap 141 siswa menemukan penyertaan teknologi dalam kurikulum literasi media kritis “terbatas dan sering kali dangkal”, dengan guru kurang terlatih untuk alat yang menghasilkan disinformasi dan deepfake ([[critical-media-literacy-education-2026|the critical media literacy study, 2026]]).
+Literatur empiris mencerminkan perpecahan itu. Survei terhadap 236 mahasiswa universitas AS menanyakan dari mana pencarian akademik dimulai dan menemukan mesin pencari 45,5%, halaman utama perpustakaan 27,9%, dan chatbot AI 26,6%, dengan mahasiswa internasional menggantikan sumber daya perpustakaan dengan AI pada tingkat sekitar dua kali lipat mahasiswa domestik ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Sebuah [[meta-analysis-systematic-review|tinjauan sistematis]] terhadap 32 studi menemukan integrasi [[ai-literacy|literasi AI]] dalam pengajaran literasi informasi berada pada “tahap bayi”, disampaikan melalui LibGuides dan lokakarya alih-alih kurikulum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). Di sisi media, wawancara dengan tujuh pakar dan survei terhadap 141 siswa menemukan penyertaan teknologi dalam kurikulum literasi media kritis “terbatas dan sering kali dangkal”, dengan guru kurang terlatih untuk alat yang menghasilkan disinformasi dan deepfake ([[critical-media-literacy-education-2026|the critical media literacy study, 2026]]).
+
+Penilaian internasional akan segera memfungsikan kedua konstruk itu. PISA 2029 memperkenalkan penilaian Media and AI Literacy (MAIL) untuk remaja 15 tahun, dan tinjauan iRAISE 2026 membangun definisinya di atas integrasi yang sama - literasi AI sebagai lapisan terbaru literasi digital, yang sendiri bertumpu pada dekade-dekade literasi media dan informasi ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Integrasi itu membawa biaya implementasi yang diprediksi argumen divergensi. Pemetaan UNESCO 2025 menemukan 171 dari 194 Negara Anggota merujuk literasi media dan informasi dalam kerangka nasional, tetapi hanya 84 (43%) yang memasukkan elemen di luar keterampilan digital teknis ke dalam kurikulum - sehingga konstruk yang akan diukur penilaian itu adalah yang paling sedikit diajarkan sekolah.
 
 ## Bagaimana AI mempersulit literasi informasi
 
@@ -61,26 +67,41 @@ Yang ketiga adalah kapasitas. Dalam survei terhadap 412 pustakawan akademik di 3
 
 Pertanyaan pendiri literasi media mengasumsikan pembuat dengan tujuan. Deepfake, kloning suara, dan bot otomatis mematahkan asumsi itu dalam tiga cara: artefak mungkin tidak punya penulis manusia, audiens mungkin sintetis, dan niatnya mungkin optimasi untuk keterlibatan alih-alih persuasi oleh siapa pun.
 
-Bukti kurikulum menunjukkan sekolah belum mengejar. Wawancara pakar menggambarkan pelatihan guru sebagai kendala pengikat alih-alih resistensi siswa, dan berargumen untuk pembingkaian [[critical-pedagogy]] yang memperlakukan evaluasi sebagai praktik etis dan partisipatif alih-alih pelatihan alat. Laporan yang ditugaskan untuk media layanan publik menemukan penyediaan bagi usia 14–19 tahun condong ke keterampilan AI fungsional dan menjauh dari evaluasi kritis, meskipun meninjau lebih dari 40 kerangka dan mewawancarai 35 pakar ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
+**Argumen yang dipersonalisasi adalah model ancaman persuasi saat ini.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] mengacak 900 orang dewasa AS ke debat daring sepuluh menit melawan manusia atau GPT-4, dengan atau tanpa enam bidang demografis biasa. GPT-4 yang tidak dipersonalisasi secara statistik tak dapat dibedakan dari lawan manusia, sementara GPT-4 yang dipersonalisasi menaikkan peluang persetujuan sesudah debat sebesar 81,2% dan lebih persuasif pada 64,4% waktu. Peserta mengenali lawan AI pada sekitar tiga dari empat debat namun tetap bergeser lebih jauh ketika mereka percaya lawannya AI, sehingga deteksi sumber tidak berfungsi sebagai imunisasi. Manipulasinya tak terlihat dalam prosa: ukuran gaya nyaris tidak berbeda antar-kondisi, menempatkan keunggulan pada argumen mana yang dipilih alih-alih bagaimana argumen itu ditulis.
+
+Bukti kurikulum menunjukkan sekolah belum mengejar. Wawancara pakar menggambarkan [[teacher-education|pelatihan guru]] sebagai kendala pengikat alih-alih resistensi siswa, dan berargumen untuk pembingkaian [[critical-pedagogy]] yang memperlakukan evaluasi sebagai praktik etis dan partisipatif alih-alih pelatihan alat. Laporan yang ditugaskan untuk media layanan publik menemukan penyediaan bagi usia 14–19 tahun condong ke keterampilan AI fungsional dan menjauh dari evaluasi kritis, meskipun meninjau lebih dari 40 kerangka dan mewawancarai 35 pakar ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
 
 ## AI sebagai alat defensif — klaim dan catatan
 
-Argumen untuk menggunakan AI di sisi defensif masuk akal dan banyak diajukan: pemeriksaan kredibilitas otomatis yang memindai riwayat dan bahasa sumber untuk sinyal bias, detektor deepfake, penganalisis metadata yang mencari penanda provenans, dan simulasi yang memungkinkan siswa berlatih evaluasi pada materi sintetis yang realistis. Kemampuan ini adalah produk nyata, dan penggunaannya di kelas adalah praktik nyata.
+Argumen untuk menggunakan AI di sisi defensif masuk akal dan banyak diajukan: pemeriksaan kredibilitas otomatis yang memindai riwayat dan bahasa sumber untuk sinyal bias, detektor deepfake, penganalisis metadata yang mencari penanda provenans, dan [[simulation|simulasi]] yang memungkinkan siswa berlatih evaluasi pada materi sintetis yang realistis. Kemampuan ini adalah produk nyata, dan penggunaannya di kelas adalah praktik nyata.
 
 Buktinya lebih tipis daripada klaimnya. Detektor bersifat probabilistik dan menurun seiring generator membaik; model pemeriksa fakta juga merupakan model, sehingga siswa tetap harus menilai pemeriksanya; dan metadata provenans hanya membantu ketika produsen memilih melampirkannya. Salah satu hasil paling kokoh dalam korpus adalah bahwa pengajaran literasi media berbantuan AI dapat bekerja dalam skala kecil: program 18 jam yang dibangun di atas model 5E menghasilkan keuntungan besar di antara 36 siswa kelas empat di satu sekolah Turki ([[demir-akar-ai-media-literacy-children-2026|Demir and Akar, 2026]]). Tiga puluh enam siswa adalah bukti konsep, bukan kasus pengadaan.
 
-Artikel opini di sektor perpustakaan mendorong gagasan yang sama lebih jauh: AI dapat memikul *penyampaian* literasi informasi melalui pengambilan, tutorial adaptif, chatbot, dan pemeriksaan fakta otomatis, dengan [[librarians]] alih-alih vendor yang memiliki integrasinya ([[offem-ai-information-literacy-library-users-2026|Offem and Arikpo, 2026]]). Makalah itu tidak melaporkan data, jadi ia adalah ringkasan desain tentang di mana pengajaran bisa berada, bukan bukti bahwa ia bekerja.
+Artikel opini di sektor perpustakaan mendorong gagasan yang sama lebih jauh: AI dapat memikul *penyampaian* literasi informasi melalui pengambilan, tutorial adaptif, [[conversational-ai|chatbot]], dan pemeriksaan fakta otomatis, dengan [[librarians]] alih-alih vendor yang memiliki integrasinya ([[offem-ai-information-literacy-library-users-2026|Offem and Arikpo, 2026]]). Makalah itu tidak melaporkan data, jadi ia adalah ringkasan desain tentang di mana pengajaran bisa berada, bukan bukti bahwa ia bekerja.
 
 Dibaca bersama, kedua sisi neraca menyarankan aturan: AI dapat memikul beban *praktik* — skenario realistis, umpan balik langsung, skala — tetapi beban *penilaian* tetap pada pembelajar, dan alat apa pun yang mengklaim menggantikannya harus dievaluasi sebagai detektor dengan tingkat kesalahan terukur, bukan diadopsi sebagai kunci jawaban.
 
 ## Apa artinya bagi praktik
 
-- **Ajarkan satu prosedur, dua objek.** Rutinitas yang dapat diperiksa — lacak klaim ke sumber, lacak sumber ke penulis, tanyakan apa yang sedang dilakukan artefak — berlaku untuk sitasi dan untuk video. Sebutkan objek mana yang dinilai tugas itu.
-- **Perlakukan deteksi sebagai bukti, bukan putusan.** Keluaran detektor adalah probabilitas; ajari siswa mengonfirmasinya dengan metode kedua dan mengatakan apa yang akan mengubah pikiran mereka.
-- **Pertahankan produksi dalam kurikulum.** Membuat media adalah pedagogi yang membuat kritik menjadi konkret; menghasilkan dengan AI dapat mendukungnya hanya jika siswa memeriksa pilihan yang dibuat alat itu untuk mereka.
-- **Tempatkan pustakawan atau spesialis media di dalam alur kerja.** Hasil pengajaran terkuat dalam literatur ini datang dari desain yang membangun konsultasi manusia di dalamnya, bukan menawarkannya setelahnya.
-- **Nilai kapasitas staf sebelum menulis silabus.** Defisit terukur terletak pada merancang tujuan dan menilai hasil, bukan pada menggunakan alat.
+Instruktur dapat mengajarkan satu prosedur untuk dua objek. Lacak klaim ke sumber, lacak sumber ke penulis, lalu tanyakan apa yang sedang dilakukan artefak itu. Rutinitas itu berlaku untuk sitasi dan untuk video, dan tugas harus menyebut objek mana yang dinilainya.
+
+Instruktur dapat memperlakukan keluaran detektor sebagai bukti alih-alih putusan. Ia adalah probabilitas, jadi siswa perlu mengonfirmasikannya dengan metode kedua dan menyatakan apa yang akan mengubah pikiran mereka.
+
+Perancang kurikulum dapat mempertahankan produksi dalam mata kuliah. Membuat media itulah yang membuat kritik menjadi konkret dalam studi yang ditinjau di sini, dan menghasilkan dengan AI hanya mendukungnya ketika siswa memeriksa pilihan yang dibuat alat untuk mereka.
+
+Menilai konstruk sebagai kinerja alih-alih sikap memindahkan titik lemah ke tempat yang terlihat. Dalam uji coba Code Craft delapan minggu dengan 28 mahasiswa Thailand, literasi digital naik dari 1,51 ke 2,82 pada [[rubrics|rubrik]] tiga titik, tetapi mengelola informasi rata-rata 1,92 dan mencipta informasi 2,05 berbanding 2,36 untuk berkomunikasi dan bekerja sama ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij dan Khlaisang, 2026]]). Skor terendah berada pada sisi produksi konstruk, tempat kursus yang berhenti pada pencarian dan evaluasi tidak pernah tiba.
+
+Pemimpin program dapat menempatkan pustakawan atau spesialis media di dalam alur kerja. Hasil pengajaran terkuat dalam literatur ini datang dari desain yang membangun konsultasi manusia di dalamnya alih-alih menawarkannya setelahnya.
+
+Pengembang fakultas dapat menilai kapasitas staf sebelum jurusan menulis silabusnya. Defisit terukur terletak pada merancang tujuan dan menilai hasil, bukan pada menggunakan alat.
 
 ## Keterbatasan bukti
 
-Sebagian besar studi di sini kecil, dilaporkan sendiri, atau keduanya: 236 siswa dalam satu survei, 36 anak dalam satu intervensi, 412 pustakawan menilai diri sendiri. Visibilitas bibliometrik bukan praktik, dan penulis scientometrik mengatakan itu secara eksplisit. Tidak ada studi dalam korpus yang mengevaluasi kurikulum gabungan literasi informasi dan media, dan alat deteksi serta pemeriksa fakta yang direkomendasikan literatur praktik sebagian besar tidak terukur dalam sumber-sumber ini. Klaim bahwa verifikasi bertenaga AI meningkatkan hasil harus diperlakukan sebagai hipotesis desain sampai seseorang mengujinya terhadap kontrol.
+Sebagian besar studi di sini kecil, [[self-report-measures|dilaporkan sendiri]], atau keduanya: 236 siswa dalam satu survei, 36 anak dalam satu intervensi, 412 pustakawan menilai diri sendiri. Visibilitas bibliometrik bukan praktik, dan penulis scientometrik mengatakan itu secara eksplisit. Tidak ada studi dalam korpus yang mengevaluasi kurikulum gabungan literasi informasi dan media, dan alat deteksi serta pemeriksa fakta yang direkomendasikan literatur praktik sebagian besar tidak terukur dalam sumber-sumber ini. Klaim bahwa verifikasi bertenaga AI meningkatkan hasil harus diperlakukan sebagai hipotesis desain sampai seseorang mengujinya terhadap kontrol.
+
+## Miskonsepsi Umum
+
+- **Detektor menyelesaikan pertanyaannya.** Detektor mengembalikan probabilitas; konfirmasikan dengan metode kedua alih-alih memperlakukannya sebagai kunci jawaban.
+- **Kedua literasi itu satu keterampilan dengan dua nama.** Objeknya berbeda - kredibilitas sumber melawan kepengarangan dan niat - sehingga satu rubrik tunggal tidak menilai keduanya dengan baik.
+- **Mengenali AI mengimunisasi terhadapnya.** Dalam eksperimen persuasi terkuat yang ditinjau di sini, deteksi tinggi dan pergeseran menuju posisi AI tetap tumbuh.
+- **Kompetensi pustakawan beralih ke literasi AI.** Kekurangan staf muncul pada merancang tujuan (M = 2,70) dan menilai hasil (M = 2,62), bukan pada mengoperasikan alat.

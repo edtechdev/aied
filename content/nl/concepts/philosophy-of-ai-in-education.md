@@ -6,12 +6,16 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -35,17 +39,19 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Inleiding
 
-Dit is een conceptpagina voor de filosofische en theoretische fundamenten van [[ai-education|AI in het onderwijs]]. Terwijl [[learning-theories|leertheorieën]] de empirische en ontwerpgerichte theorieën documenteert ([[behaviorism|behaviorisme]], [[constructivist|constructivisme]], [[cognitive-offloading|cognitieve belasting]], [[self-regulated-learning|zelfregulerend leren]], enz.), behandelt de filosofische lijn de ontologische, epistemologische en ethische vragen die die theorieën vooronderstellen. De twee zijn nauw verbonden: filosofische standpunten bepalen welke leertheorieën plausibel lijken en welke onderwijsdoelen het nastreven waard zijn.
+Dit is een conceptpagina voor de filosofische en theoretische fundamenten van [[ai-education|AI in het onderwijs]]. Terwijl [[learning-theories|leertheorieën]] de empirische en ontwerpgerichte theorieën documenteert ([[behaviorism|behaviorisme]], [[constructivist|constructivisme]], [[cognitive-offloading|cognitieve belasting]], [[self-regulated-learning|zelfregulerend leren]], enz.), behandelt de filosofische lijn de ontologische, epistemologische en ethische vragen die die theorieën vooronderstellen. De twee zijn nauw verbonden: filosofische standpunten bepalen welke leertheorieën plausibel lijken en welke onderwijsdoelen het nastreven waard zijn. De normatieve lijn van dat werk, de argumenten over waar AI in het onderwijs het onderwijs naartoe voert, is verzameld onder [[critiques-of-ai-in-education|Critiques of AI in Education]].
 
-### Centrale filosofische vragen
+## Centrale filosofische vragen
 
 - **De aard van geest en cognitie.** Vereist denken bewustzijn en een lichaam? Kan AI aan werkelijk cognitieve processen deelnemen? Kaders zoals **ensemble-cognitie** betogen dat AI *functionele agency* uitoefent — echte causale werkzaamheid in cognitieve processen — zonder bewustzijn, en dat denken voortkomt uit dynamische mens–[[student-ai-interaction|AI-interactie]].([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Gedistribueerde cognitie]] en de these van de uitgebreide geest doen verwante uitspraken over cognitie die over systemen verspreid is.
 - **Wat is de lerende?** Posthumanistische filosofie herconceptualiseert de lerende als een "posthumane" entiteit wier cognitieve processen werkelijk hybride zijn en verdeeld over [[biology-education|biologische]] en kunstmatige systemen.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Dit daagt de aanname uit dat de lerende een begrensd, autonoom individueel verstand is.
 - **Belichaming en de grenzen van onbelichaamde AI.** [[embodied-learning|Belichaamd]] en postcognitivistisch denken bekritiseert de dominantie van symbolische, onbelichaamde AI-modellen, en betoogt dat cognitie geworteld is in gesitueerdheid, emergentie en sensomotorische koppeling die huidige [[generative-ai|generatieve AI]] mist.([[videla-embodied-ai-education-choreography]])
+- **Automatisering als continuïteit, niet als breuk.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross en Aros (2026)]] betogen dat kunstmatige intelligentie past bij het onderwijs omdat het een cognitivistisch en instructief model uitbreidt dat leren als informatieverwerking en lesgeven als transmissie behandelt; onderwijskundige automatisering is daarom een ontologische illusie die leren abstraheert van de belichaamde, relationele omstandigheden waarin betekenis en verantwoordelijkheid ontstaan.
 - **Emotionele arbeid als testcase voor machinale geesten.** De discussies in het veld over de vraag of AI kan onderwijzen, draaien vaak om de vraag of ze kan *geven om*, een vraag die al lang vóór [[affective-computing|affectieve computing]] bestond. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] reconstrueert het debat van 1950–1996, waarin Ziffs claim dat alleen levende wezens letterlijk gevoelens kunnen hebben, werd beantwoord door Smarts identiteitstheorie en Putnams gedragscriterium, waardoor drie rivaliserende ontologieën onopgelost bleven. Zijn conclusie is een bewijslast in plaats van een onmogelijkheidsclaim — representatie, simulatie en nabootsing onderbepalen emotionele arbeid — wat de last bij iedereen legt die pastorale zorg aan een systeem zou delegeren.
 - **Agency, auteurschap en betekenis.** Wanneer AI interpretatie en betekenisgeving medieert, vraagt de filosofie hoe auteurschap, epistemische [[agency]] en interpretatieve autonomie worden geherconfigureerd.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **De ontologie van door AI gegenereerde wetenschappelijke objecten.** In de [[chemistry-education|scheikunde]] bezetten door AI voorspelde verbindingen en titratiecurves een "liminale ontologische ruimte" — niet geheel hypothetisch en niet volledig echt tot ze empirisch bewezen zijn — wat de discipline van realisme naar een constructivistische opvatting verschuift waarin de werkelijkheid een samenwerking van mens en machine is ([[philosophy-experimentation-ai-chemistry-2026|Reyes en Regala (2026)]]).
 - **Cognitieve passiviteit als epistemische schade.** Bai en Costa (2026) putten uit Arendts opvatting van denken als een innerlijke, onoverdraagbare activiteit om te betogen dat GenAI die het werk levert niet alleen denken offloadt maar het afsluit, waarbij Bourdieus veld en habitus het risico in institutionele structuren localiseren ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- Naast die verhandeling reconstrueert [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] het essay als een vorm van denken: Montaignes poging, Adornos fragmenten, Heideggers beschouwend denken — de waarde ervan ligt in het denken dat schrijven produceert, niet in het opgeleverde product.
 - **Waarden, rechtvaardigheid en het doel van onderwijs.** Filosofische analyse onderzoekt of AI-gedreven onderwijs menselijk floreren en onderwijsgerechtigheid dient, of leren instrumentaliseert ten behoeve van productiviteit.([[avraamidou-ai-colonization-science-education]]) Dit sluit aan bij [[critical-pedagogy|kritische pedagogiek]] en [[ethics|ethiek]].
 - **'Mensgericht' als antropocentrisch discours, geen neutrale ethiek.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] lezen UNESCO-, OESO- en Montréal-verklaringen om te betogen dat mensgerichte AIED de uitsluitingen van het verlichtingshumanisme erft, dat transhumanisme ze behoudt, en dat het label commerciële infrastructuur kan legitimeren.
 
@@ -55,29 +61,19 @@ Dit is een conceptpagina voor de filosofische en theoretische fundamenten van [[
 - **Agency zonder verantwoording.** Een corpusondersteunde discoursanalyse van 366 GenAI-abstracts uit het hoger onderwijs vindt dat [[generative-ai|AI]] 2,050 keer wordt genoemd en in 447 strikte actor-predicaatassociaties voorkomt — de meest frequente actor van het veld — en dat actiepredicaten daarin domineren (78.7%), terwijl geen enkele zin een systeem verantwoordelijk maakt: van 166 verplichtingsuitdrukkingen kende geen enkele verantwoordelijkheid toe aan een systeem, en de enige zin die AI aan verantwoording koppelt, zegt dat AI niet verantwoordelijk is. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] leest dit als functionele agency die in taal wordt erkend zonder de relationele verantwoordelijkheid die haar aan iemand zou verbinden.
 **Noch tool noch medewerker: de bemiddelende agent.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate en Ritchie (2026)]] betogen dat generatieve AI een loutere tool noemen haar interactionele invloed onderschat, terwijl een medewerker noemen haar ten onrechte intentionaliteit en verantwoordingsplicht verleent, en stellen de *bemiddelende agent* voor — een responsief, niet-verantwoordingsplichtig systeem waarvan de nieuwheid in deelname ligt, niet in intelligentie.
 
-### Relatie tot leertheorieën
+## Relatie tot leertheorieën
 
 De filosofie van AI in het onderwijs en [[learning-theories|leertheorieën]] zijn complementaire lenzen. Leertheorieën verklaren de mechanismen van leren (bijv. hoe [[feedback]], [[scaffolding]] of cognitieve belasting uitkomsten vormen); filosofie ondervraagt de vooronderstellingen van die mechanismen — wat als kennis telt, wie als kenner telt, en wat de lerende fundamenteel is. Posthumanistisch en kritisch-filosofisch werk daagt het veld in het bijzonder uit om verder te gaan dan instrumentalistische kaders zoals [[tpack]] en SAM naar een diepere ontologische heroriëntatie.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Relatie tot theorieontwikkeling
+## Relatie tot theorieontwikkeling
 
 De filosofie van AI in het onderwijs en [[theory-development-aied|theorieontwikkeling in AIED]] zijn complementair maar verschillend. Filosofie stelt de ontologische en epistemologische vragen — wat geest, kennis en de lerende fundamenteel zijn onder AI-gemedieerde omstandigheden — terwijl theorieontwikkeling de *mechanismen* produceert en empirisch toetst die antwoorden op die vragen operationaliseren (generativisme, epistemische co-agency, de afwezige cognitieve basislijn). De twee informeren elkaar wederzijds: filosofie verheldert de vooronderstellingen die theorieën met zich meedragen (bijv. [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemische co-agency]] veronderstelt een gedistribueerd, niet-individualistisch model van cognitie), terwijl theorieontwikkeling filosofische standpunten toetsbare, falsifieerbare vorm geeft. De meest fundamentele artikelen van het veld doen beide tegelijk en liggen op de grens tussen de twee concepten.
-
-## Veelvoorkomende misverstanden
-
-**"De filosofie van AI in het onderwijs is hetzelfde als leertheorieën catalogiseren."** Ze liggen op verschillende diepten. De pagina [[learning-theories|leertheorieën]] vraagt *hoe leren gebeurt*; de filosofie vraagt *wat leren, geest en de lerende fundamenteel zijn* onder AI-gemedieerde omstandigheden. Een studie kan een leertheoretische vraag beslechten en de filosofische onaangeroerd laten, en daarom kan een technisch geslaagde interventie toch het verkeerde ding zijn om te doen.
-
-**"Cognitieve offloading is de schade, en ze is omkeerbaar met meer inspanning."** Er is een sterkere claim beschikbaar. Bai en Costa (2026) putten uit Arendts opvatting van denken als een innerlijke, onoverdraagbare activiteit om te betogen dat GenAI die het werk *levert* het denken niet alleen offloadt maar afsluit — en ze localiseren het risico institutioneel, via Bourdieus veld en habitus, in plaats van in individuele wilskracht. Als het argument standhoudt, is "gebruik het voorzichtig" geen voldoende remedie, omdat de praktijk wordt gevormd door het veld dat de output beloont.
-
-**"Niet-westerse filosofie is inhoud om aan een onveranderd kader toe te voegen."** Ze kan een bron van andere fundamenten zijn. Eén reconstructie behandelt Daoïstische concepten — "Dao-natuur" (道性), zelfcultivering (修道) en de "Zhenren" (真人) — niet als "oosterse inhoud" die aan een westers kader wordt toegevoegd, maar als bronnen die de conceptuele fundamenten hervormen waarmee AI in het onderwijs wordt begrepen. Een traditie als illustratie toevoegen en haar gebruiken om de vragen te herkaderen zijn verschillende wetenschappelijke daden.
-
-**"Filosofische kritiek is niet uitvoerbaar."** Ze bepaalt wat als succes telt. Of de output van een systeem een prestatie van de lerende is, en of een gemeten winst een onderwijskundig goed is, zijn voorafgaande vragen die geen effectgrootte kan beantwoorden — en instellingen die ze overslaan, optimaliseren het meetbare en noemen dat verbetering.
 
 ## Implicaties voor de praktijk
 
 **Voor docenten**
 
-- Bepaal, voordat u een tool invoert, wat u bereid bent als de eigen prestatie van de student te beschouwen. Als een gepolijste inzending die door het systeem is geproduceerd uw beoordeling zou doorstaan, hebt u "niets" geantwoord — en geen latere rubricwijziging haalt de vraag terug.
+- Bepaal, voordat u een tool invoert, wat u bereid bent als de eigen prestatie van de student te beschouwen. Als een gepolijste inzending die door het systeem is geproduceerd uw beoordeling zou doorstaan, hebt u "niets" geantwoord — en geen latere [[rubrics|rubric]]wijziging haalt de vraag terug.
 - Neem het afsluitingsargument serieus bij het ontwerpen van taken: als GenAI die het werk levert het denken afsluit in plaats van alleen te offloaden, dan is "gebruik het verantwoord" geen voldoende waarborg, omdat het omringende veld de output beloont. Ontwerp taken waarvan het bewijs van denken wordt geproduceerd voordat de tool beschikbaar is.
 - Vraag wiens opvatting van leren uw cursus codeert. Een kader kritiekloos overnemen importeert de aannames ervan over wat een lerende is, en die aannames zijn betwistbaar.
 
@@ -91,3 +87,13 @@ De filosofie van AI in het onderwijs en [[theory-development-aied|theorieontwikk
 
 - Formuleer de opvatting van leren die uw evaluatie veronderstelt, want een gemeten winst is slechts een onderwijskundig goed ten opzichte van een bepaalde opvatting van waar onderwijs voor dient.
 - Financier het filosofische werk naast het empirische werk: vragen over wat als de prestatie van een lerende telt, bepalen de succescriteria die de empirische studies vervolgens gebruiken.
+## Veelvoorkomende misverstanden
+
+**"De filosofie van AI in het onderwijs is hetzelfde als leertheorieën catalogiseren."** Ze liggen op verschillende diepten. De pagina [[learning-theories|leertheorieën]] vraagt *hoe leren gebeurt*; de filosofie vraagt *wat leren, geest en de lerende fundamenteel zijn* onder AI-gemedieerde omstandigheden. Een studie kan een leertheoretische vraag beslechten en de filosofische onaangeroerd laten, en daarom kan een technisch geslaagde interventie toch het verkeerde ding zijn om te doen.
+
+**"Cognitieve offloading is de schade, en ze is omkeerbaar met meer inspanning."** Er is een sterkere claim beschikbaar. Bai en Costa (2026) putten uit Arendts opvatting van denken als een innerlijke, onoverdraagbare activiteit om te betogen dat GenAI die het werk *levert* het denken niet alleen offloadt maar afsluit — en ze localiseren het risico institutioneel, via Bourdieus veld en habitus, in plaats van in individuele wilskracht. Als het argument standhoudt, is "gebruik het voorzichtig" geen voldoende remedie, omdat de praktijk wordt gevormd door het veld dat de output beloont.
+
+**"Niet-westerse filosofie is inhoud om aan een onveranderd kader toe te voegen."** Ze kan een bron van andere fundamenten zijn. Eén reconstructie behandelt Daoïstische concepten — "Dao-natuur" (道性), zelfcultivering (修道) en de "Zhenren" (真人) — niet als "oosterse inhoud" die aan een westers kader wordt toegevoegd, maar als bronnen die de conceptuele fundamenten hervormen waarmee AI in het onderwijs wordt begrepen. Een traditie als illustratie toevoegen en haar gebruiken om de vragen te herkaderen zijn verschillende wetenschappelijke daden.
+
+**"Filosofische kritiek is niet uitvoerbaar."** Ze bepaalt wat als succes telt. Of de output van een systeem een prestatie van de lerende is, en of een gemeten winst een onderwijskundig goed is, zijn voorafgaande vragen die geen effectgrootte kan beantwoorden — en instellingen die ze overslaan, optimaliseren het meetbare en noemen dat verbetering.
+

@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
 connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
@@ -49,6 +53,8 @@ Het object van informatiegeletterdheid is de bron, en de kernvraag is of de bewe
 
 De empirische literaturen weerspiegelen die splitsing. Een enquête onder 236 Amerikaanse universiteitsstudenten vroeg waar academische zoekopdrachten beginnen en vond zoekmachines op 45,5%, de bibliotheekhomepage op 27,9% en een AI-chatbot op 26,6%, waarbij internationale studenten ongeveer twee keer zo vaak AI in de plaats van bibliotheekbronnen stelden als binnenlandse studenten ([[lund-ai-information-seeking-chatbots-libraries-2026|Lund et al., 2026]]). Een [[meta-analysis-systematic-review|systematische review]] van 32 studies vond dat de integratie van [[ai-literacy|AI-geletterdheid]] in informatiegeletterdheidsonderwijs zich in een 'beginfase' bevindt en via LibGuides en workshops wordt aangeboden in plaats van via het curriculum ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza en Arif, 2026]]). Aan de mediakant vonden interviews met zeven deskundigen en een enquête onder 141 studenten dat de integratie van technologie in het curriculum voor kritische mediageletterdheid 'beperkt en vaak oppervlakkig' is, waarbij docenten onvoldoende zijn opgeleid voor tools die desinformatie en deepfakes produceren ([[critical-media-literacy-education-2026|de studie naar kritische mediageletterdheid, 2026]]).
 
+Internationale toetsing gaat de twee constructen samenvoegen. PISA 2029 introduceert een Media- en AI-geletterdheidsbeoordeling (MAIL) voor 15-jarigen, en de review van iRAISE uit 2026 bouwt zijn definitie op dezelfde integratie — AI-geletterdheid als de nieuwste laag van digitale geletterdheid, zelf rustend op decennia van media- en informatiegeletterdheid ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). De integratie brengt een implementatiekost met zich mee die het divergerieargument voorspelt. De UNESCO-mapping van 2025 vond dat 171 van de 194 lidstaten media- en informatiegeletterdheid in nationale kaders noemen, maar slechts 84 (43%) elementen buiten technische digitale vaardigheden in curricula opnemen — dus het construct dat de toets zal meten is datgene wat scholen het minst onderwijzen.
+
 ## Hoe AI informatiegeletterdheid ingewikkelder maakt
 
 De eerste complicatie is fabricatie op schaal. Een model produceert overtuigende tekst, plausibele referenties en zelfverzekerde statistieken die misschien niet bestaan; de lezer ontvangt een synthese waarvan het zoekspoor is uitgewist. Controleren wordt een andere vaardigheid: niet 'is dit een goede bron', maar 'bestaat deze bron, en zegt die wat het antwoord beweert'.
@@ -60,6 +66,8 @@ De derde is capaciteit. In een enquête onder 412 academische bibliothecarissen 
 ## Hoe AI mediageletterdheid ingewikkelder maakt
 
 De grondvragen van mediageletterdheid gingen uit van een maker met een bedoeling. Deepfakes, stemklonen en geautomatiseerde bots doorbreken die aanname op drie manieren: het artefact heeft mogelijk geen menselijke auteur, het publiek kan synthetisch zijn, en de intentie kan optimalisatie voor betrokkenheid zijn in plaats van overtuiging door iemand.
+
+**Gepersonaliseerd argument is het huidige bedreigingsmodel voor overtuiging.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] randomiseerden 900 Amerikaanse volwassenen naar tienminuten-online debatten tegen een mens of GPT-4, met of zonder zes gewone demografische velden. Niet-gepersonaliseerde GPT-4 was statistisch niet te onderscheiden van een menselijke tegenstander, terwijl gepersonaliseerde GPT-4 de kans op instemming na het debat met 81,2% verhoogde en in 64,4% van de gevallen overtuigender was. Deelnemers identificeerden in ongeveer drie van de vier debatten een AI-tegenstander en verschoeven toch verder wanneer zij geloofden dat de tegenstander AI was, dus brondetectie werkte niet als inoculatie. De manipulatie was onzichtbaar in de tekst: stijlmaten verschilden weinig tussen condities, wat het voordeel situeert in *welke* argumenten werden gekozen in plaats van *hoe* ze waren geschreven.
 
 Het curriculumonderzoek suggereert dat scholen de aansluiting nog niet hebben gevonden. De deskundigeninterviews beschrijven [[teacher-education|docentopleiding]] als de beperkende factor, eerder dan weerstand bij studenten, en pleiten voor een [[critical-pedagogy]]-kader dat evaluatie als ethische en participatieve praktijk behandelt in plaats van tooltraining. Een in opdracht geschreven rapport voor publieke omroep vond dat het aanbod voor 14- tot 19-jarigen meer neigde naar functionele AI-vaardigheden dan naar kritische evaluatie, ondanks een review van meer dan 40 kaders en interviews met 35 deskundigen ([[ai-literacies-young-adults-2025|het AI-geletterdheidsrapport, 2025]]).
 
@@ -75,12 +83,25 @@ Samen gelezen suggereren de twee zijden van de balans een regel: AI kan de *oefe
 
 ## Wat dit betekent voor de praktijk
 
-- **Leer één procedure, twee objecten.** De controleerbare routine — herleid de claim tot een bron, herleid de bron tot een auteur, vraag wat het artefact doet — werkt voor een citaat en voor een video. Benoem welk object de opdracht beoordeelt.
-- **Behandel detectie als bewijs, niet als vonnis.** De output van een detector is een waarschijnlijkheid; leer studenten die met een tweede methode te bevestigen en te zeggen wat hen van gedachten zou doen veranderen.
-- **Houd productie in het curriculum.** Media maken was de pedagogiek die kritiek concreet maakte; genereren met AI kan dat alleen ondersteunen als studenten de keuzes onderzoeken die de tool voor hen heeft gemaakt.
-- **Zet een bibliothecaris of mediaspecialist binnen de workflow.** Het sterkste onderwijskundige resultaat in deze literatuur komt uit een ontwerp waarin menselijk overleg was ingebouwd, niet achteraf aangeboden.
-- **Beoordeel de capaciteit van het personeel voordat je de syllabus schrijft.** Het gemeten tekort zit bij het ontwerpen van doelen en het beoordelen van uitkomsten, niet bij het gebruik van tools.
+Docenten kunnen één procedure tegen twee objecten onderwijzen. Herleid de claim tot een bron, herleid de bron tot een auteur, en vraag wat het artefact doet. Die routine werkt voor een citaat en voor een video, en de opdracht moet benoemen welk object hij beoordeelt.
+
+Docenten kunnen de output van een detector behandelen als bewijs in plaats van als vonnis. Het is een waarschijnlijkheid, dus studenten moeten die met een tweede methode bevestigen en zeggen wat hun van gedachten zou doen veranderen.
+
+Curriculumontwerpers kunnen productie in de cursus houden. Media maken maakte kritiek concreet in de studies die hier worden besproken, en genereren met AI ondersteunt dat alleen als studenten de keuzes onderzoeken die de tool voor hen heeft gemaakt.
+
+Het construct als prestatie in plaats van als attitude scoren maakt het zwakke punt zichtbaar. In een achtweekse Code Craft-trial met 28 Thaise bachelorstudenten steeg de digitale geletterdheid van 1,51 naar 2,82 op een driepunts-[[rubrics|rubriek]], maar het managen van informatie lag gemiddeld op 1,92 en het creëren van informatie op 2,05, tegen 2,36 voor communiceren en samenwerken ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij en Khlaisang, 2026]]). De laagste scores zaten aan de productieve kant van het construct, waar een cursus die stopt bij zoeken en evalueren nooit aankomt.
+
+Programmeleiders kunnen een bibliothecaris of mediaspecialist binnen de workflow zetten. Het sterkste onderwijskundige resultaat in deze literatuur komt uit een ontwerp waarin menselijk overleg was ingebouwd in plaats van achteraf werd aangeboden.
+
+Faculty developers kunnen de capaciteit van het personeel beoordelen voordat een afdeling haar syllabus schrijft. Het gemeten tekort zit bij het ontwerpen van doelen en het beoordelen van uitkomsten, niet bij het gebruik van tools.
 
 ## Beperkingen van het bewijs
 
 De meeste studies hier zijn klein, zelfgerapporteerd of beide: 236 studenten in één enquête, 36 kinderen in één interventie, 412 bibliothecarissen die zichzelf beoordelen. Bibliometrische zichtbaarheid is geen praktijk, en de scientometrische auteurs zeggen dat expliciet. Geen enkele studie in het corpus evalueert een gecombineerd curriculum voor informatie- en mediageletterdheid, en de detector- en factcheckingtools die de praktijkliteratuur aanbeveelt, zijn in deze bronnen grotendeels ongemeten. De claim dat door AI aangedreven verificatie de uitkomsten verbetert, moet als ontwerphypothese worden behandeld tot iemand die tegen een controlegroep test.
+
+## Veelvoorkomende misverstanden
+
+- **Een detector beslist de kwestie.** Een detector geeft een waarschijnlijkheid; bevestig die met een tweede methode in plaats van hem als antwoordsleutel te behandelen.
+- **De twee geletterdheden zijn één vaardigheid onder twee namen.** Hun objecten verschillen — geloofwaardigheid van de bron tegenover auteurschap en intentie — dus één rubriek beoordeelt geen van beiden goed.
+- **AI herkennen immuniseert ertegen.** In het sterkste overtuigingsexperiment dat hier wordt besproken liep de herkenning hoog en de verschuiving naar de positie van de AI groeide toch.
+- **Bibliothecarische competentie draagt over naar AI-geletterdheid.** Het personeelstekort verschijnt bij het ontwerpen van doelen (M = 2,70) en het beoordelen van uitkomsten (M = 2,62), niet bij het gebruik van tools.

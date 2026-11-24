@@ -1,7 +1,7 @@
 ---
 title: Kritieken op AI in het onderwijs
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Een tweede cluster valt niet de machinerie maar de woordenschat aan. Wang en Jin
 
 ## Infrastructuur, transductie en miskenning
 
-Een derde cluster verschuift de aandacht van het hulpmiddel naar de infrastructuur eromheen. Watson, Morgner en Brezovec behandelen generatieve AI als betekenis-bemiddelende infrastructuur en noemen het mechanisme *semantische transductie*: het herformen van een onderwijsvraag — een prompt, briefing, rubric, tentamenopgave, genre of beleid — tot een communicatief aannemelijke vorm ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner en Brezovec, 2026]]). Omdat transductie selectief is, kan ze opnemen of uitsluiten. Drie plaatsen keren terug: toegangs- en capaciteitskloven, miskenning via sjablonen van hoe een goed antwoord of een goede student klinkt, en normatieve drift in wat als pedagogiek wordt begrepen. De uitsluiting is vaak een tang in plaats van een verbod — instellingen verhogen de verwachtingen over tempo, polijsting en idiomatische vloeiendheid terwijl ze tegelijk de authenticiteitsregimes aanscherpen.
+Een derde cluster verschuift de aandacht van het hulpmiddel naar de infrastructuur eromheen. Watson, Morgner en Brezovec behandelen generatieve AI als betekenis-bemiddelende infrastructuur en noemen het mechanisme *semantische transductie*: het herformen van een onderwijsvraag — een prompt, briefing, [[rubrics|rubric]], tentamenopgave, genre of beleid — tot een communicatief aannemelijke vorm ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner en Brezovec, 2026]]). Omdat transductie selectief is, kan ze opnemen of uitsluiten. Drie plaatsen keren terug: toegangs- en capaciteitskloven, miskenning via sjablonen van hoe een goed antwoord of een goede student klinkt, en normatieve drift in wat als pedagogiek wordt begrepen. De uitsluiting is vaak een tang in plaats van een verbod — instellingen verhogen de verwachtingen over tempo, polijsting en idiomatische vloeiendheid terwijl ze tegelijk de authenticiteitsregimes aanscherpen.
 
 ## Agendabepaling, gesimuleerde innovatie en experimentele toekomstverbeelding
 

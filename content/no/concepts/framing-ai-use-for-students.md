@@ -10,14 +10,18 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: "concepts/framing-ai-use-for-students"
-source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -80,6 +84,8 @@ Innramming henger sammen med [[motivation]] gjennom [[self-determination-theory]
 ## Medier og offentlig innramming
 
 Elevene rammes også inn av den bredere medie- og offentlighetsdiskursen om [[ai-education|AI i undervisning]], som former deres grunnleggende forventninger før noe budskap fra en underviser. Analyser av offentlig diskurs og av hvordan plattformer som YouTube rammer inn ChatGPT-bruk i utdanning viser at rådende innramminger - hype, dommedag eller pragmatisme - påvirker hvordan elever og [[teacher-role|undervisere]] nærmer seg teknologien.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Effektiv innramming fra undervisere innebærer ofte å bevisst motvirke eller omdirigere disse omkringliggende fortellingene.
+
+Innrammingen påvirker også hvordan kompetansen verdsettes nedstrøms: blant rundt 1 750 personer som rekrutterer i USA så å beskrive elevens AI-bruk som erstatning snarere enn hjelp senet sannsynligheten for intervju og viljen til lønnsforhandlinger, og det skarpest for søkere med høyt karaktergjennomsnitt ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Praktisk veiledning
 

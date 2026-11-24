@@ -1,7 +1,7 @@
 ---
 title: "Kritikk av AI i utdanning"
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ En annen klynge angriper ordforrådet snarere enn maskineriet. Wang og Jin leser
 
 ## Infrastruktur, transduksjon og feilgjenkjenning
 
-En tredje klynge flytter oppmerksomheten fra verktøyet til infrastrukturen rundt det. Watson, Morgner og Brezovec behandler generativ AI som meningsformidlande infrastruktur og gir mekanismen navnet *semantisk transduksjon*: omdanningen av en utdanningsetterspørsel — en prompt, en oppgavetekst, en rubrikk, et eksamensspørsmål, en sjanger eller en policy — til en kommunikativt plausibel form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner og Brezovec (2026)]]). Fordi transduksjon er selektiv, kan den inkludere eller ekskludere. Tre steder gjentar seg: tilgangs- og kompetanseklyfter, feilgjenkjenning gjennom maler for hvordan et godt svar eller en god elev lyder, og normativ drift i hva pedagogikk tas for å bety. Ekskluderingen er ofte en tang snarere enn et forbud — institusjoner hever forventningene til tempo, polering og idiomatisk flyt samtidig som de strammer autentisitetsregimene.
+En tredje klynge flytter oppmerksomheten fra verktøyet til infrastrukturen rundt det. Watson, Morgner og Brezovec behandler generativ AI som meningsformidlande infrastruktur og gir mekanismen navnet *semantisk transduksjon*: omdanningen av en utdanningsetterspørsel — en prompt, en oppgavetekst, en [[rubrics|rubrikk]], et eksamensspørsmål, en sjanger eller en policy — til en kommunikativt plausibel form ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner og Brezovec (2026)]]). Fordi transduksjon er selektiv, kan den inkludere eller ekskludere. Tre steder gjentar seg: tilgangs- og kompetanseklyfter, feilgjenkjenning gjennom maler for hvordan et godt svar eller en god elev lyder, og normativ drift i hva pedagogikk tas for å bety. Ekskluderingen er ofte en tang snarere enn et forbud — institusjoner hever forventningene til tempo, polering og idiomatisk flyt samtidig som de strammer autentisitetsregimene.
 
 ## Agendasetting, simulert innovasjon og eksperimentell fremtidsskaping
 

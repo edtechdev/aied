@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Introduksjon
 
 Elevidentitet handler om hvem en elev forstår seg selv som, og hvem de er i ferd med å bli, innenfor et fagområde — et motivasjons- og utviklingskonstrukt som er forskjellig fra evneoppfatninger som [[self-efficacy]], som svarer på det snevrere spørsmålet *kan jeg gjøre dette?* Identitet dannes gjennom deltakelse, anerkjennelse og forfatterskap: å se seg selv gjenspeilet i et felt og få dette selvbildet bekreftet av andre. AI omformer alle tre betingelsene, fordi den endrer hvem som gjør arbeidet, hva som teller som ens eget bidrag, og om en elev blir anerkjent som forfatter av sin egen læring ([[agency|handlekraft]], [[metacognition|metakognisjon]]).
+
+Karakterer er også en relasjon, ikke bare et symbol: elever kommer til å se seg selv gjennom dem, så reform som lar transkriptet stå urørt lar også den relasjonen stå urørt ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Hvorfor identitet betyr noe for AI i utdanning
 
@@ -59,6 +65,9 @@ En egen forfatterskapsbetingelse, ikke bare en trussel mot forfatterskap: når s
 
 - **Voktet adopsjon: selektiv AI-bruk som identitetsvern.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] undersøkte 484 studenter ved ett australsk universitet og fant at høytytende studenter rapporterte *lavere* aktiv [[generative-ai|generativ AI]]-bruk, lavere positiv affekt overfor AI, lavere [[self-report-measures|opplevd lærings]]påvirkning og lavere AI-relatert disengasjement, med de sterkeste sammenhengene ved rho = -0.395 for opplevd læringspåvirkning og rho = -0.359 for positiv affekt. De åpne svarene deres beskrev bruk som var selektiv (avklaring, oppsummering, arbeidsflytstøtte), verifisert og holdt underordnet deres egen dømmekraft, og resultater på leddnivå viste større enighet om at avhengighet av AI hemmer [[critical-thinking|kritisk tenkning]] og uavhengig [[problem-solving|problemløsning]]. Forfatterne leser dette som identitetsarbeid: for studenter hvis følelse av seg selv som vellykkede elever hviler på egen innsats og dømmekraft, forsvarer avgrenset AI-bruk den [[agency|epistemiske handlekraften]] identiteten avhenger av — noe som også betyr at mønsteret verken er teknofobi eller lavt engasjement.
 - **Et uttalt formål styrer ikke nødvendigvis en AI-beslutning.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] intervjuet 14 bachelorstudenter og kodet hvert intervju for forholdet mellom studentens [[self-determination-theory|formål]] — en personlig meningsfull intensjon om å bidra utover seg selv — og deres AI-valg. Bare noen lagde koblingen: én avviste AI fordi miljø- og menneskekostnadene motsa formålet hennes, og tre lot framtidig profesjonell identitet forme valgene sine («bidrar til psykologen jeg skal bli ute i verden en dag»). Andre med like klar formålsoppfatning lagde ingen slik kobling og beskrev formål og AI som «liksom atskilt», så det å ha en identitet å verne var ikke det samme som å trekke på den. Artikkelen skiller også grunnene studentene oppgir for å holde arbeidet sitt eget — ferdighetsutvikling, [[evaluative-judgment|eierskap og stolthet]], og moralsk innvending — som kommer gjennom ulike mekanismer og ikke bør slås sammen til ett motiv.
+
+- **Kapabilitet kan komme før tilhørighet.** En 73 dagers autoetnografi av en bioinformatikklærer som bygget et spill i et ukjent domene, fant at [[generative-ai|GenAI]] leverte kapabiliteten men ikke identiteten: tilhørigheten kom gjennom deltakelse i praksisfellesskap og gjentatt meningsskaping, og å nå den skjedde i et menneskelig tempo ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Å nekte er også identitetsarbeid: blant fem lærlinger i videregående med minoritetsbakgrunn hevdet ikke-bruken kontroll, holdt seg til institusjonelle regler eller signaliserte epistemiske verdier, mens nøytrale AI-svar produserte en «kulturell flathet» som lot erfaringene deres stå uregistrert ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Forholdet til elevhandlekraft
 

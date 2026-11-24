@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Ini menjelaskan mekanisme: mereka menamai bagian yang melakukan kerja dan mempre
 ## Kerangka pengajaran, integrasi, dan adopsi
 
 - **[[tpack|TPACK]]** — pengetahuan guru yang memadukan teknologi, pedagogi, dan konten; kerangka kerja default bagi studi AI yang berorientasi guru.
+- **[[bloom-taxonomy|Taksonomi Bloom]]** — kosakata bersama untuk tuntutan kognitif tugas, dipakai baik untuk mengodekan butir maupun mengurutkannya; dalam AI di pendidikan ia telah menjadi masalah pengukuran sebanyak menjadi masalah desain.
 - **[[technology-acceptance-model|Model adopsi]]** — niat sebagai fungsi dari kegunaan yang dipersepsikan dan kemudahan penggunaan. Dipakai cukup luas sehingga ketergantungan bidang ini pada niat alih-alih perilaku menjadi kritik yang tetap.
+- **Model konfirmasi-harapan (ECM)** — kepuasan sebagai konfirmasi harapan sebelumnya, dengan kesinambungan penggunaan alih-alih adopsi awal sebagai luarannya. Dalam uji coba metode sosiologi satu semester dengan 24 mahasiswa sarjana, 87% menilai Copilot baik atau sangat baik dan 91% akan merekomendasikannya, tetapi hanya 57% berniat terus menggunakannya ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Celah itu adalah inti modelnya: pengguna yang puas dapat tetap menolak kembali, sehingga kepuasan dan kesinambungan memerlukan ukuran terpisah.
 - **[[icap-framework|ICAP]]** — memeringkat keterlibatan sebagai pasif, aktif, konstruktif, interaktif; berguna untuk menanyakan mode apa yang sebenarnya diafordanskan oleh [[student-ai-interaction|interaksi AI]].
 - **[[samr-model|SAMR]]** — substitusi hingga redefinisi. Populer sebagai kisah kematangan, lemah sebagai instrumen pengukuran.
 - **[[universal-design-for-learning|Desain universal untuk pembelajaran]]**, **[[inclusive-learning|pembelajaran inklusif]]**, dan **[[accessibility]]** — bingkai desain tentang siapa yang dilayani, dan yang paling sering diacu dalam kerja disabilitas dan [[equity-in-ai-education|keadilan]].
@@ -104,7 +110,7 @@ Kata-katanya dipakai secara longgar dalam literatur, dan perbedaannya layak mend
 
 ## Lapisan terkait
 
-Dua halaman tetangga sengaja membahas hal lain. [[philosophy-of-ai-in-education|Filsafat AI dalam pendidikan]] menanyakan pertanyaan normatif dan konseptual — untuk apa pendidikan, apakah mesin dapat mengajar — dan tidak memprediksi ukuran efek; sebuah studi dapat naif secara filosofis dan sehat secara teoretis, atau sebaliknya. [[theory-development-aied|Pengembangan teori]] adalah meta-aktivitas membangun, meminjam, dan merevisi teori, termasuk kritik yang tetap bahwa banyak kerja [[ai-education|AIED]] menerapkan teori yang ada alih-alih mengujinya. Halaman ini adalah inventarisnya; pengembangan teori adalah tentang menghasilkan dan merevisi inventaris itu.
+Dua halaman tetangga sengaja membahas hal lain. [[philosophy-of-ai-in-education|Filsafat AI dalam pendidikan]] menanyakan pertanyaan normatif dan konseptual — untuk apa pendidikan, apakah mesin dapat mengajar — dan tidak memprediksi ukuran efek; sebuah studi dapat naif secara filosofis dan sehat secara teoretis, atau sebaliknya. [[theory-development-aied|Pengembangan teori]] adalah meta-aktivitas membangun, meminjam, dan merevisi teori, termasuk kritik yang tetap bahwa banyak kerja [[ai-education|AIED]] menerapkan teori yang ada alih-alih mengujinya. Halaman ini adalah inventarisnya; pengembangan teori adalah tentang menghasilkan dan merevisi inventaris itu. [[learning-environments-as-systems|Lingkungan pembelajaran sebagai sistem]] adalah tetangga ketiga. Ia bukan teori belajar dan tidak memprediksi ukuran efek, melainkan sikap tentang unit analisis: lingkungan pembelajaran adalah sistem multi-level yang bagian-bagiannya saling berinteraksi, sehingga tingkat yang diukur sebuah studi adalah keputusan teoretis, bukan kenyamanan sampel.
 
 ## Memilih lensa ketika pertanyaannya praktis
 

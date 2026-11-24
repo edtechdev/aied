@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ De komst van [[generative-ai|generatieve AI]] — een brede familie die [[llm|gr
 - **Weeg controle en agency bewust tegen elkaar af.** Of AI moet optimaliseren naar standaarduitkomsten of diverse, door lerenden gestuurde uitkomsten mogelijk moet maken, is een echte keuze met institutionele en politieke gevolgen, geen technisch gegeven.
 - **Behoud de agency van de lerende.** Het terugkerende verzet tegen standaardisering en controle ten gunste van open, leerlinggerichte benaderingen is een duurzame draad die het verdedigen waard is.
 
-## Veelvoorkomende misverstanden
-
-**'AI in het onderwijs begon met ChatGPT.'** Dat is niet zo, en de overtuiging is kostbaar omdat ze elke eerdere les onzichtbaar maakt. [[intelligent-tutoring|Intelligente tutoring]] stamt af van het heuristisch-zoekende en expertsysteemwerk uit de jaren 1960 en 70, en de AIED-gemeenschap vormde zich daar decennia vóór [[llm|grote taalmodellen]] omheen. [[mishra-control-vs-agency-history-2025|Mishra et al.]] laten zien dat de huidige debatten een scheiding reproduceren die al expliciet was in Andersons cognitieve tutors en Paperts constructionisme, dus een lezer die het vakgebied op 2022 dateert, zal argumenten opnieuw afleiden die het vakgebied al eerder heeft beslecht, verlaten of verloren.
-
-**'Het vakgebied heeft AI-als-analogie gestaag verlaten ten gunste van toegepaste tools, en generatieve AI zet die trend voort.'** Dit is de leerzaamste correctie op de pagina, omdat het traject echt is maar niet monotoon. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian en Doroudi's]] positionele analyse van AIED 1985, 1993, 2021 en 2024 en IJAIED 2004, 2014 en 2021 laat inderdaad een verschuiving zien van een gemengd vakgebied naar bijna exclusieve toegepaste instrumentaliteit in de jaren 2000. Maar op AIED 2024 waren drie van de vier papers in het kwadrant AI-als-analogie op LLM's gebaseerd, waaronder bekroond werk over LLM-gebaseerde leerbare agenten. Generatieve AI **keert** de trend gedeeltelijk **om** in plaats van die voort te zetten, en daarom miskent de behandeling ervan als 'de volgende intelligente tutor' waar de onderzoeksgrens feitelijk naartoe is verschoven.
-
-**'Personalisering betekent de moeilijkheidsgraad aan elke lerende aanpassen.'** Dat is slechts één van twee onverenigbare betekenissen, en het verwarren van die betekenissen verbergt een politieke keuze. In de eerste betekenis blijft de uitkomst vast en varieert alleen de weg, met een lijn die loopt van Skinners onderwijsmachines tot op beheersing gerichte tutoring. In de tweede diversifiëren de uitkomsten zelf, doordat lerenden individuele interesses nastreven zonder de beperking van een standaardcurriculum (Zhao, 2024). Een [[intelligent-tutoring|ITS]] implementeert de eerste; [[constructivist|constructionisme]] de tweede. Een tool die als 'gepersonaliseerd' wordt beschreven, heeft je niets verteld tot je weet welke betekenis bedoeld is.
-
-**'"Kunstmatige intelligentie" was simpelweg de voor de hand liggende naam voor het vakgebied.'** De term was een bewuste keuze. Toen McCarthy het Dartmouth-project van 1956 plande, gaf hij de voorkeur aan *kunstmatige intelligentie* boven *cybernetica*, deels om het werk afstand te laten nemen van Wieners traditie van analoge feedback. Die ene beslissing plaatste machines in directe vergelijking met menselijke cognitie, en de antropomorfe framing die ze installeerde, vormt nog steeds onderzoeksprioriteiten, producttaal en de ethische vragen die het publiek stelt.
-
 ## In de praktijk brengen
 
 **Voor docenten en onderwijsontwerpers**
@@ -99,3 +93,13 @@ De komst van [[generative-ai|generatieve AI]] — een brede familie die [[llm|gr
 
 - Gebruik de historische corpora als basislijn in plaats van het heden als de enige beschikbare vergelijking te behandelen. De AIED-proceedings van 1985, 1993, 2021 en 2024 en IJAIED van 2004, 2014 en 2021 vormen een kant-en-klare longitudinale steekproef van de eigen claims van het vakgebied.
 - Citeer de afstamming wanneer je nieuwheid claimt. De claim dat een systeem 'leren personaliseert' of 'de lerende modelleert' is alleen nieuw ten opzichte van een specifieke eerdere traditie, en die traditie is gedocumenteerd.
+
+## Veelvoorkomende misverstanden
+
+**'AI in het onderwijs begon met ChatGPT.'** Dat is niet zo, en de overtuiging is kostbaar omdat ze elke eerdere les onzichtbaar maakt. [[intelligent-tutoring|Intelligente tutoring]] stamt af van het heuristisch-zoekende en expertsysteemwerk uit de jaren 1960 en 70, en de AIED-gemeenschap vormde zich daar decennia vóór [[llm|grote taalmodellen]] omheen. [[mishra-control-vs-agency-history-2025|Mishra et al.]] laten zien dat de huidige debatten een scheiding reproduceren die al expliciet was in Andersons cognitieve tutors en Paperts constructionisme, dus een lezer die het vakgebied op 2022 dateert, zal argumenten opnieuw afleiden die het vakgebied al eerder heeft beslecht, verlaten of verloren.
+
+**'Het vakgebied heeft AI-als-analogie gestaag verlaten ten gunste van toegepaste tools, en generatieve AI zet die trend voort.'** Dit is de leerzaamste correctie op de pagina, omdat het traject echt is maar niet monotoon. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian en Doroudi's]] positionele analyse van AIED 1985, 1993, 2021 en 2024 en IJAIED 2004, 2014 en 2021 laat inderdaad een verschuiving zien van een gemengd vakgebied naar bijna exclusieve toegepaste instrumentaliteit in de jaren 2000. Maar op AIED 2024 waren drie van de vier papers in het kwadrant AI-als-analogie op LLM's gebaseerd, waaronder bekroond werk over LLM-gebaseerde leerbare agenten. Generatieve AI **keert** de trend gedeeltelijk **om** in plaats van die voort te zetten, en daarom miskent de behandeling ervan als 'de volgende intelligente tutor' waar de onderzoeksgrens feitelijk naartoe is verschoven.
+
+**'Personalisering betekent de moeilijkheidsgraad aan elke lerende aanpassen.'** Dat is slechts één van twee onverenigbare betekenissen, en het verwarren van die betekenissen verbergt een politieke keuze. In de eerste betekenis blijft de uitkomst vast en varieert alleen de weg, met een lijn die loopt van Skinners onderwijsmachines tot op beheersing gerichte tutoring. In de tweede diversifiëren de uitkomsten zelf, doordat lerenden individuele interesses nastreven zonder de beperking van een standaardcurriculum (Zhao, 2024). Een [[intelligent-tutoring|ITS]] implementeert de eerste; [[constructivist|constructionisme]] de tweede. Een tool die als 'gepersonaliseerd' wordt beschreven, heeft je niets verteld tot je weet welke betekenis bedoeld is.
+
+**'"Kunstmatige intelligentie" was simpelweg de voor de hand liggende naam voor het vakgebied.'** De term was een bewuste keuze. Toen McCarthy het Dartmouth-project van 1956 plande, gaf hij de voorkeur aan *kunstmatige intelligentie* boven *cybernetica*, deels om het werk afstand te laten nemen van Wieners traditie van analoge feedback. Die ene beslissing plaatste machines in directe vergelijking met menselijke cognitie, en de antropomorfe framing die ze installeerde, vormt nog steeds onderzoeksprioriteiten, producttaal en de ethische vragen die het publiek stelt.

@@ -10,12 +10,16 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Seberapa besar Anda akan memercayai tajuk seperti 'Tutoring AI meningkatkan belajar 30%' jika Anda tahu itu berasal dari 30 siswa di satu mata kuliah pada satu institusi? Halaman ini menandai generalisabilitas dan sampel kecil sebagai batas berulang — apa yang ingin Anda ketahui sebelum bertindak atas satu temuan?
 - Keterbatasan yang mencolok adalah 'masalah kecepatan': AI berkembang lebih cepat daripada terbitnya temuan, sehingga studi atas satu generasi model mungkin sudah menggambarkan sistem yang usang. Bagaimana ini semestinya mengubah keyakinan Anda pada penelitian pendidikan AI?
 - Banyak studi mengandalkan sikap dan penggunaan yang [[self-report-measures|dilaporkan sendiri]], yang berbias — orang melebih-lebihkan kompetensinya dan kurang melaporkan penyalahgunaan. Pernahkah Anda menjawab survei tentang keterampilan atau perilaku Anda sendiri dengan cara yang tak sesuai kenyataan? Mengapa ukuran berbasis persepsi begitu sering menyimpang dari kinerja objektif?
-- Halaman ini mencatat bahwa kerangka yang akrab seperti taksonomi Bloom sering disalahbaca sebagai tangga ketat, dan bahwa bahkan teori yang banyak dipakai seperti teori [[cognitive-offloading|beban kognitif]] telah ditantang. Kapan Anda melihat sebuah teori dipakai sebagai kebenaran mapan dalam konteks yang buktinya sendiri justru diperdebatkan?
+- Halaman ini mencatat bahwa kerangka yang akrab seperti [[bloom-taxonomy|taksonomi Bloom]] sering disalahbaca sebagai tangga ketat, dan bahwa bahkan teori yang banyak dipakai seperti teori [[cognitive-offloading|beban kognitif]] telah ditantang. Kapan Anda melihat sebuah teori dipakai sebagai kebenaran mapan dalam konteks yang buktinya sendiri justru diperdebatkan?
 - Sebagian besar penelitian AI bergantung pada model proprietari dan buram yang data serta pembaruannya tak dapat Anda periksa. Jika Anda tak dapat memverifikasi persis model mana yang menghasilkan suatu hasil, seberapa besar Anda dapat memercayai klaim yang dibangun di atasnya — dan apa yang akan membuat temuan lebih reprodusibel?
 - Jika Anda instruktur atau perancang tanpa waktu membaca penelitian primer, bagaimana Anda memutuskan klaim AI mana yang cukup tepercaya untuk mengubah praktik Anda — mengingat literaturnya terfragmentasi, sementara, dan ditulis untuk peneliti?
 
 ## Pendahuluan
 
-AI dalam pendidikan adalah bidang yang bergerak cepat dan heterogen, dan basis buktinya membawa seperangkat keterbatasan khas yang perlu ditimbang peneliti, praktisi, dan pembuat kebijakan saat memakai temuan apa pun. Sebagian bersifat sama dengan literatur [[learning-sciences|ilmu pembelajaran]] dan psikologi yang lebih luas; sebagian lain diperkuat atau dibuat unik oleh sifat AI itu sendiri. Halaman ini mengorganisasikannya ke empat area lintas-sektor.
+AI dalam pendidikan adalah bidang yang bergerak cepat dan heterogen, dan basis buktinya membawa seperangkat keterbatasan khas yang perlu ditimbang peneliti, praktisi, dan pembuat kebijakan saat memakai temuan apa pun. Sebagian bersifat sama dengan literatur [[learning-sciences|ilmu pembelajaran]] dan psikologi yang lebih luas; sebagian lain diperkuat atau dibuat unik oleh sifat AI itu sendiri. Halaman ini mengorganisasikannya ke empat area lintas-sektor. Ini adalah masalah dalam bukti; sebuah bahan argumentasi terpisah tentang tujuan yang dilayani bukti dihimpun di bawah [[critiques-of-ai-in-education|Kritik terhadap AI dalam Pendidikan]].
 
 ## Keterbatasan metodologis
 
@@ -65,6 +69,9 @@ Halaman [[research-methods-aied|metode penelitian]] basis pengetahuan ini merinc
 
 - **Label yang dihasilkan model bukan kebenaran dasar.** Ketika label yang melatih atau mengevaluasi suatu sistem dihasilkan model bahasa, kesepakatan antar-anotator tak dapat menetapkan validitas: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado dkk. (2026)]] tak pernah memvalidasi anotasi asersinya terhadap label emas manusia, dan 49 pengklasifikasi enkoder yang mereka lepas mewarisi asal-usul itu dan mungkin tak valid ketika aplikasinya berbeda pada dimensi signifikan. Skemanya pun secara ketat kalah dari pengklasifikasi tersetel halus yang dilatih pada data beranotasi pakar (macro-F1 0.673 berbanding 0.76), sehingga korus berlabel pakar tetap berharga ketika keyakinan tinggi diperlukan.
 - **Basis buktinya sendiri terdistribusi tidak merata.** Tinjauan pelingkupan 407 studi [[formative-assessment|asesmen formatif]] berbantuan teknologi hanya bersumber dari Web of Science dan Scopus. Ia juga mengecualikan 61 rekaman karena kriteria bahasa, sehingga ketidakseimbangan geografis yang dilaporkan bidang ini mungkin sebagian mencerminkan venue mana yang terindeks ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Desain tiga-kondisi tidak ada.** Di seluruh dua belas studi GenAI yang ditinjau, tidak ada yang mengukur kinerja terbantu bersamaan dengan tes tanpa-AI langsung dan tertunda dengan pengecualian terverifikasi, sehingga keuntungan terbantu tidak pernah dikaitkan dengan retensi ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Kelayakan adalah kelas hasil, bukan kata pengantar.** Sebuah pilot dua kohort pasien simulasi AI merekrut 19 dari 72 siswa yang diundang (26%), menyelesaikan setiap pertemuan dan survei (100%), dan tidak mengakhiri sesi apa pun karena kegagalan teknis - hasil nyata, tetapi hasil kelayakan dan penerimaan didefinisikan setelah pengumpulan dan tidak ada kriteria progres yang ditetapkan sebelumnya ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Tingkat penyelesaian hanya informatif terhadap kriteria yang ditetapkan di muka; jika tidak, "ia berjalan" dan "ia berhasil" adalah kalimat yang sama.
 
 ## Masalah kecepatan: AI berkembang lebih cepat daripada temuan
 
@@ -121,6 +128,8 @@ Dua praktik pelaporan spesifik menggelembungkan atau mendistorsi sintesis, dan k
 **Persentase utama bisa jadi artefak istilah pencarian.** Dalam tinjauan pelingkupan 195 studi pendidikan guru, kompetensi digital dan [[tpack|TPACK]] menjadi deskriptor pencarian eksplisit sementara desain pembelajaran dan asesmen tidak punya padanan, sehingga **46.5% dan 1.9%** yang dilaporkan menggambarkan strategi pengambilan sebelum menggambarkan bidangnya. Klaim prevalensi hanya sebermakna kueri yang menghasilkan korus itu.
 
 **Dan laju dasar adalah angka yang tak disebut siapa pun.** Batas metodologis di sini terukur, bukan impresionistik: dalam tinjauan kritis 80 studi HCI tentang berpikir kritis dengan AI, **42 (52%) tanpa kelompok kontrol** dan sebagian besar sisanya mengandalkan laporan diri. Ketika lebih dari separuh temuan positif suatu bidang berasal dari desain yang tak dapat memisahkan efek AI dari aktivitas biasa, prior yang tepat atas satu temuan mana pun adalah skeptisisme, bukan penerimaan sementara.
+
+Konsekuensi praktis dari batas-batas ini adalah bahwa beberapa praktik pendidikan yang banyak dipakai bertumpu pada bukti yang tidak mampu menyangganya; [[what-not-to-do-ai-education|apa yang sebaiknya tidak dilakukan pendidik dengan AI]] menghimpun praktik-praktik itu menurut peran, dan menamai batas spesifik di balik tiap kehati-hatian.
 
 ## Miskonsepsi Umum
 

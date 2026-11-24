@@ -10,15 +10,19 @@ page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
-updated: "2026-11-08T07:31:21-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/limitations-in-aied-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, ai-ed-evaluation, educational-measurement, assessment-validity, benchmark, rct, meta-analysis-systematic-review, ai-education, icap-framework, learning-design, llm, generative-ai, cognitive-offloading, theory-development-aied, critiques-of-ai-in-education]
 connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2026, ground-truth-reliability-aied, ai-literacy-assessment-misalignment, machines-misread-pedagogical-quality, favero-critical-ai-tutors-empower-enslave-2025, cross-dataset-bloom-question-classification, eeg-familiarity-automated-assessment-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, prisma-llm-ai-assisted-systematic-reviews-2026, frontier-models-physics-benchmark-audit-2026, ai-supported-instruction-stem-meta-analysis-2026, domain-specific-chatbot-stem-enthusiasm-2025, studentbench-ai-human-tutoring-gre-2026, llm-feedback-focus-adaptivity-student-writing-2026, edubehaviors-auditable-coding-educational-dialogues-2026, nlp-student-evaluation-teaching-scoping-review-2026, synthetic-educational-data-structural-fidelity-2026, digital-competence-ai-responsive-pedagogy-2026, k12-teachers-genai-beliefs-five-countries-2026, hawi-genai-higher-ed-uses-outcomes-risks-2026, automated-essay-scoring-critical-thinking-physics-2026, tischkau-ai-simulated-patient-formats-2026]
@@ -33,13 +37,13 @@ connected_articles: [thoeni-ai-chatbots-higher-education-expectations-evidence-2
 - Hvor mye ville du stolt på en overskrift som «AI-veiledning øker læringen med 30%» hvis du fikk vite at den kom fra 30 elever i ett kurs ved én institusjon? Siden flagger generaliserbarhet og små utvalg som tilbakevendende grenser — hva ville du vite før du handlet på et enkelt funn?
 - En slående begrensning er «hastighetsproblemet»: AI utvikler seg raskere enn funn blir publisert, så en studie av én modellgenerasjon kan allerede beskrive et foreldet system. Hvordan bør dette endre tilliten du legger i forskning på AI i utdanning?
 - Mange studier støtter seg på [[self-report-measures|selvrapporterte]] holdninger og bruk, som er skjeve — folk overvurderer kompetansen sin og underrapporterer misbruk. Har du noen gang svart på en undersøkelse om dine egne ferdigheter eller atferd på en måte som ikke stemte med virkeligheten? Hvorfor avviker oppfatningsbaserte mål så ofte fra objektiv prestasjon?
-- Siden bemerker at kjente rammeverk som Blooms taksonomi ofte leses feil som strenge stiger, og at selv mye brukte teorier som [[cognitive-offloading|kognitiv belastning]]-teori er blitt utfordret. Når har du sett en teori påberopt som fastslått sannhet i en kontekst der dens eget belegg faktisk var omstridt?
+- Siden bemerker at kjente rammeverk som [[bloom-taxonomy|Blooms taksonomi]] ofte leses feil som strenge stiger, og at selv mye brukte teorier som [[cognitive-offloading|kognitiv belastning]]-teori er blitt utfordret. Når har du sett en teori påberopt som fastslått sannhet i en kontekst der dens eget belegg faktisk var omstridt?
 - Mesteparten av AI-forskningen avhenger av proprietære, ugjennomsiktige modeller hvis data og oppdateringer du ikke kan inspisere. Hvis du ikke kan verifisere nøyaktig hvilken modell som produserte et resultat, hvor mye kan du da stole på påstander bygget på det — og hva ville gjort funn mer reproduserbare?
 - Hvis du er underviser eller designer uten tid til å lese primærforskning, hvordan avgjør du hvilke AI-påstander som er pålitelige nok til å endre praksisen din — gitt at litteraturen er fragmentert, foreløpig og skrevet for forskere?
 
 ## Introduksjon
 
-AI i utdanning er et hurtigbevegelig, heterogent felt, og bevisbasen bærer et særegent sett begrensninger som forskere, praktikere og beslutningstakere bør veie når de bruker et funn. Noen av dem deles med den bredere [[learning-sciences|læringsvitenskapen]] og psykologilitteraturen; andre forsterkes eller gjøres unike av AI sin egen natur. Denne siden organiserer dem i fire gjennomgående områder.
+AI i utdanning er et hurtigbevegelig, heterogent felt, og bevisbasen bærer et særegent sett begrensninger som forskere, praktikere og beslutningstakere bør veie når de bruker et funn. Noen av dem deles med den bredere [[learning-sciences|læringsvitenskapen]] og psykologilitteraturen; andre forsterkes eller gjøres unike av AI sin egen natur. Denne siden organiserer dem i fire gjennomgående områder. Dette er problemer i bevisene; en egen samling av argumenter om hvilken hensikt bevisene tjener, finnes under [[critiques-of-ai-in-education|kritikken av AI i utdanning]].
 
 ## Metodologiske begrensninger
 
@@ -65,6 +69,9 @@ Kunnskapsbasens side om [[research-methods-aied|forskningsmetoder]] detaljerer s
 
 - **Modellgenererte etiketter er ikke fasit.** Der etikettene som trener eller evaluerer et system, selv er produsert av språkmodeller, kan enighet mellom annotatører ikke etablere validitet: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] validerte aldri påstandannotasjonene sine mot menneskelige gull-etiketter, og de 49 encoder-klassifikatorene de slipper, arver denne opprinnelsen og er kanskje ikke gyldige der anvendelsene skiller seg på viktige dimensjoner. Skjemaet deres presterte også strengt dårligere enn den finjusterte klassifikatoren trent på ekspertannotert data (makro-F1 0.673 mot 0.76), slik at ekspertmerkede korpora fortsatt er verdt det når høy tillit kreves.
 - **Bevisbasen selv er ujevnt fordelt.** En scoping-gjennomgang av 407 teknologistøttede [[formative-assessment|formatvurderings]]studier hentet bare fra Web of Science og Scopus. Den ekskluderte også 61 oppføringer på språkkriterier, så den geografiske ubalansen feltet rapporterer, kan delvis gjenspeile hvilke kanaler som er indeksert ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
+- **Trebetingelsesdesignet mangler.** På tvers av tolv gjennomgåtte GenAI-studier målte ingen assistert prestasjon sammen med både en umiddelbar og en forsinket test uten AI med verifisert ekskludering, så assisterte gevinster blir aldri knyttet til retensjon ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Gjennomførbarhet er en utfallsklasse, ikke et opplegg på forhånd.** En pilot med to kohorter av en AI-simulert pasient rekrutterte 19 av 72 inviterte studenter (26 %), fullførte alle møter og undersøkelser (100 %) og avsluttet ingen økt med teknisk feil — reelle resultater, men gjennomførbarhets- og akseptabilitetsutfallene ble definert etter datainnsamlingen, og ingen progresjonskriterier var forhåndsspesifisert ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). En fullføringsrate er bare informativ mot kriterier fastsatt på forhånd; ellers er «den kjørte» og «den virket» den samme setningen.
 
 ## Hastighetsproblemet: AI utvikler seg raskere enn funnene
 
@@ -121,6 +128,8 @@ To bestemte rapporteringspraksiser blåser opp eller forvrenger en syntese, og b
 **Overskriftsprosenten kan være et artefakt av søketermene.** En scoping-gjennomgang av 195 lærerutdanningsstudier gjorde digital kompetanse og [[tpack|TPACK]] til eksplisitte søkebeskrivelser, mens instruksjonsdesign og vurdering ikke hadde noen tilsvarende term, så de rapporterte **46.5% og 1.9%** er rater spørringen selv konstruerte. En prevalenspåstand er bare så meningsfull som søket bak den.
 
 **Og basisraten er tallet ingen oppgir.** Metodologiske grenser her er målbare snarere enn impresjonistiske: i en kritisk gjennomgang av 80 HCI-studier av kritisk tenkning med AI kjørte **42 (52%) ingen kontrollgruppe**, og de fleste av de resterende støttet seg på selvrapport. Når mer enn halvparten av et felts positive funn kommer fra design som ikke kan skille AI sin effekt fra vanlig aktivitet, er den passende forventningen på forhånd til ethvert enkelt funn skepsis, ikke foreløpig aksept.
+
+En praktisk konsekvens av disse grensene er at flere mye brukte undervisningspraksiser hviler på bevis som ikke kan bære dem; [[what-not-to-do-ai-education|hva undervisere bør unngå å gjøre med AI]] samler disse praksisene etter rolle og navngir den konkrete grensen bak hver advarsel.
 
 ## Vanlige misoppfatninger
 

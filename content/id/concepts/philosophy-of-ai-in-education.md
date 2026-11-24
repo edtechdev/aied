@@ -6,15 +6,19 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/philosophy-of-ai-in-education"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, theory-development-aied, distributed-cognition, ethics, agency, embodied-learning, critical-pedagogy, human-ai-collaboration, critical-thinking, ai-education, chemistry-education, critiques-of-ai-in-education]
 connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, videla-embodied-ai-education-choreography, voicu-ai-interpretive-cognition-ssh-2026, learning-with-machines-toward-a-theory-of-epistemic-co-agency, avraamidou-ai-colonization-science-education, generative-ai-mediational-agent-sociocultural-2026, young-people-learning-generative-ai-rapid-review-2026, philosophy-experimentation-ai-chemistry-2026, strydom-human-gai-paradigms-2026, daoism-ai-education-philosophy-2026, genai-higher-ed-agency-responsibility-discourse-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, khan-machines-emotional-labor-education-2026, videla-why-education-cannot-be-automated-2026]
@@ -35,18 +39,20 @@ connected_articles: [genai-chinese-higher-education-integrity-2026, ensemble-cog
 
 ## Pendahuluan
 
-Ini adalah halaman konsep bagi fondasi filosofis dan teoretis [[ai-education|AI dalam pendidikan]]. Sementara [[learning-theories]] mendokumentasikan teori-teori empiris dan berorientasi desain ([[behaviorism]], [[constructivist|konstruktivisme]], [[cognitive-offloading|beban kognitif]], [[self-regulated-learning|pembelajaran teratur mandiri]], dan sebagainya), jalur filsafat menyentuh pertanyaan ontologis, epistemologis, dan etis yang diandaikan oleh teori-teori tersebut. Keduanya terhubung erat: posisi filosofis membentuk teori pembelajaran mana yang tampak masuk akal dan tujuan pendidikan mana yang layak dikejar.
+Ini adalah halaman konsep bagi fondasi filosofis dan teoretis [[ai-education|AI dalam pendidikan]]. Sementara [[learning-theories]] mendokumentasikan teori-teori empiris dan berorientasi desain ([[behaviorism]], [[constructivist|konstruktivisme]], [[cognitive-offloading|beban kognitif]], [[self-regulated-learning|pembelajaran teratur mandiri]], dan sebagainya), jalur filsafat menyentuh pertanyaan ontologis, epistemologis, dan etis yang diandaikan oleh teori-teori tersebut. Keduanya terhubung erat: posisi filosofis membentuk teori pembelajaran mana yang tampak masuk akal dan tujuan pendidikan mana yang layak dikejar. Jalur normatif dari karya itu, yakni argumen tentang apa yang sedang AI dalam pendidikan mengubah pendidikan menjadi, dikumpulkan di bawah [[critiques-of-ai-in-education|Kritik terhadap AI dalam Pendidikan]].
 
-### Pertanyaan filosofis kunci
+## Pertanyaan filosofis kunci
 
 - **Hakikat pikiran dan kognisi.** Apakah berpikir memerlukan kesadaran dan tubuh? Dapatkah AI berpartisipasi dalam proses yang benar-benar kognitif? Kerangka seperti **kognisi ansambel** berargumen bahwa AI menjalankan *agensi fungsional* — keberdayaan kausal yang sungguh-sungguh dalam proses kognitif — tanpa kesadaran, dan bahwa berpikir muncul dari [[student-ai-interaction|interaksi manusia–AI]] yang dinamis.([[ensemble-cognition-philosophy-ai-education]]) [[distributed-cognition|Kognisi terdistribusi]] dan tesis pikiran yang diperluas membuat klaim serupa tentang kognisi yang tersebar di seluruh sistem.
 - **Apa itu siswa?** Filsafat posthumanis merekonseptualisasikan siswa sebagai entitas "pasca-manusia" yang proses kognitifnya benar-benar hibrida dan terdistribusi di antara sistem [[biology-education|biologis]] dan artifisial.([[elsayed-pedagogical-symbiosis-posthuman-learner]]) Ini menantang asumsi bahwa siswa adalah pikiran individu yang terbatas dan otonom.
 - **Penubuhan dan batas AI tanpa tubuh.** Filsafat [[embodied-learning|yang tertubuhkan]] dan pascakognitivis mengkritik dominasi model AI simbolik dan tanpa tubuh, dengan berargumen bahwa kognisi berakar pada kesituasian, kemunculan, dan gandengan sensorimotorik yang tidak dimiliki [[generative-ai|AI generatif]] saat ini.([[videla-embodied-ai-education-choreography]])
+- **Otomasi sebagai kesinambungan, bukan keretakan.** [[videla-why-education-cannot-be-automated-2026|Videla, Ross dan Aros (2026)]] berargumen bahwa kecerdasan buatan cocok dengan persekolahan karena ia memperluas model kognitivis dan instruksional yang memperlakukan pembelajaran sebagai pemrosesan informasi dan pengajaran sebagai transmisi; mengotomasikan pendidikan karena itu merupakan ilusi ontologis yang mengabstraksi pembelajaran dari kondisi tertubuhkan dan relasional tempat makna dan tanggung jawab muncul.
 
 - **Kerja emosional sebagai kasus uji bagi pikiran mesin.** Perdebatan bidang ini tentang apakah AI dapat mengajar sering bergantung pada apakah ia dapat *peduli*, pertanyaan yang diperdebatkan jauh sebelum [[affective-computing|komputasi afektif]] ada. [[khan-machines-emotional-labor-education-2026|Khan (2026)]] merekonstruksi perdebatan 1950–1996, ketika klaim Ziff bahwa hanya makhluk hidup yang secara literal dapat memiliki perasaan dijawab oleh teori identitas Smart dan kriteria perilaku Putnam, sehingga menyisakan tiga ontologi yang bersaing tanpa penyelesaian. Kesimpulannya adalah beban pembenaran alih-alih klaim ketidakmungkinan — representasi, simulasi, dan mimikri tidak cukup untuk menentukan kerja emosional — yang menempatkan beban itu pada siapa pun yang hendak mendelegasikan kerja pastoral kepada sebuah sistem.
 - **Agensi, kepengarangan, dan makna.** Ketika AI memediasi interpretasi dan pemaknaan, filsafat bertanya bagaimana kepengarangan, [[agency|agensi]] epistemik, dan otonomi interpretatif ditata ulang.([[voicu-ai-interpretive-cognition-ssh-2026]])
 - **Ontologi objek ilmiah hasil AI.** Dalam [[chemistry-education|kimia]], senyawa dan kurva titrasi yang diprediksi AI menempati "ruang ontologis liminal" — tidak sepenuhnya hipotetis maupun sepenuhnya nyata sampai terbukti secara empiris — yang menggeser disiplin dari realisme ke pandangan konstruktivis di mana realitas adalah kolaborasi manusia dan mesin ([[philosophy-experimentation-ai-chemistry-2026|Reyes dan Regala (2026)]]).
 - **Kepasifan kognitif sebagai kerugian epistemik.** Bai dan Costa (2026) bersandar pada uraian Arendt tentang berpikir sebagai aktivitas batin yang tak dapat dipindahkan untuk berargumen bahwa GenAI yang menyediakan pekerjaannya bukan sekadar melimpahkan berpikir melainkan menutup kemungkinannya, dengan ranah dan habitus Bourdieu menempatkan risiko itu dalam struktur institusional ([[genai-chinese-higher-education-integrity-2026|Bai & Costa (2026)]]).
+- Sejajar dengan uraian itu, [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] merekonstruksi esai sebagai suatu bentuk berpikir: upaya Montaigne, fragmen Adorno, pemikiran meditatif Heidegger — nilainya terletak pada pemikiran yang dihasilkan penulisan, bukan pada produk yang dihasilkannya.
 - **Nilai, keadilan, dan tujuan pendidikan.** Analisis filosofis mengkaji apakah pendidikan yang digerakkan AI melayani kesejahteraan manusia dan keadilan pendidikan, atau apakah ia menginstrumentalisasi pembelajaran demi produktivitas.([[avraamidou-ai-colonization-science-education]]) Ini terhubung dengan [[critical-pedagogy]] dan [[ethics]].
 - **'Berpusat pada manusia' sebagai wacana antroposentris, bukan etika netral.** [[wang-jin-anthropocentrism-learnification-ai-education-2026|Wang & Jin (2026)]] membaca dokumen UNESCO, OECD, dan Deklarasi Montréal untuk berargumen bahwa AIED yang berpusat pada manusia mewarisi pengecualian humanisme Pencerahan, bahwa transhumanisme mempertahankannya, dan bahwa label itu dapat melegitimasi infrastruktur komersial.
 
@@ -56,29 +62,19 @@ Ini adalah halaman konsep bagi fondasi filosofis dan teoretis [[ai-education|AI 
 - **Agensi tanpa pertanggungjawaban.** Analisis wacana berbantuan korpus atas 366 abstrak pendidikan tinggi GenAI menemukan [[generative-ai|AI]] disebut 2,050 kali dan masuk ke 447 asosiasi pelaku–predikat ketat - pelaku paling sering dalam bidang ini - namun predikat tindakan mendominasi (78.7%) dan tidak ada kalimat yang membuat sebuah sistem bertanggung jawab: dari 166 ekspresi kewajiban, tidak satu pun membebankan tanggung jawab kepada sistem, dan satu-satunya klausa yang mengaitkan AI dengan akuntabilitas menyatakan bahwa AI tidak akuntabel. [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] membacanya sebagai agensi fungsional yang diakui dalam bahasa tanpa tanggung jawab relasional yang akan melekatkannya pada siapa pun.
 **Bukan alat, bukan kolaborator: agen mediasi.** [[generative-ai-mediational-agent-sociocultural-2026|Warschauer, Tate dan Ritchie (2026)]] berargumen bahwa menyebut AI generatif sebagai alat semata meremehkan pengaruh interaksionalnya sementara menyebutnya kolaborator keliru memberinya intensionalitas dan akuntabilitas, dan mengusulkan *agen mediasi* — sistem yang responsif dan tidak akuntabel yang kebaruannya adalah partisipasi alih-alih kecerdasan.
 
-### Kaitan dengan teori pembelajaran
+## Kaitan dengan teori pembelajaran
 
 Filosofi AI dalam pendidikan dan [[learning-theories]] adalah lensa yang saling melengkapi. Teori pembelajaran menjelaskan mekanisme pembelajaran (misalnya, bagaimana [[feedback]], [[scaffolding]], atau beban kognitif membentuk hasil); filsafat menginterogasi prasangka dari mekanisme tersebut — apa yang dianggap pengetahuan, siapa yang dianggap mengetahui, dan apa sesungguhnya siswa. Karya posthumanis dan kritis-filosofis, khususnya, menantang bidang ini untuk melampaui kerangka instrumentalis seperti [[tpack]] dan SAM menuju reorientasi ontologis yang lebih mendalam.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### Kaitan dengan pengembangan teori
+## Kaitan dengan pengembangan teori
 
 Filosofi AI dalam pendidikan dan [[theory-development-aied|pengembangan teori dalam AIEd]] bersifat saling melengkapi tetapi berbeda. Filsafat mengajukan pertanyaan ontologis dan epistemologis — apa sesungguhnya pikiran, pengetahuan, dan siswa dalam kondisi yang dimediasi AI — sementara pengembangan teori menghasilkan dan menguji secara empiris *mekanisme* yang mengoperasionalkan jawaban atas pertanyaan itu (generativisme, ko-agensi epistemik, baseline kognitif yang absen). Keduanya saling memberi informasi: filsafat menjernihkan prasangka yang dibawa teori (misalnya, [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|ko-agensi epistemik]] mengandaikan model kognisi yang terdistribusi dan non-individualis), sementara pengembangan teori memberi posisi filosofis bentuk yang dapat diuji dan difalsifikasi. Artikel-artikel paling mendasar dalam bidang ini melakukan keduanya sekaligus, berada di batas antara kedua konsep.
-
-## Miskonsepsi Umum
-
-**"Filosofi AI dalam pendidikan sama dengan mengatalogkan teori pembelajaran."** Keduanya berada pada kedalaman yang berbeda. Halaman [[learning-theories]] bertanya *bagaimana pembelajaran terjadi*; filsafat bertanya *apa sesungguhnya pembelajaran, pikiran dan siswa* dalam kondisi yang dimediasi AI. Sebuah studi dapat menyelesaikan pertanyaan teori pembelajaran dan membiarkan pertanyaan filosofisnya tak tersentuh, itulah sebabnya intervensi yang berhasil secara teknis tetap bisa menjadi hal yang salah untuk dilakukan.
-
-**"Pelimpahan kognitif adalah kerugiannya, dan ia dapat dipulihkan dengan lebih banyak usaha."** Ada klaim yang lebih kuat yang tersedia. Bai dan Costa (2026) bersandar pada uraian Arendt tentang berpikir sebagai aktivitas batin yang tak dapat dipindahkan untuk berargumen bahwa GenAI yang *menyediakan* pekerjaannya bukan sekadar melimpahkan berpikir melainkan menutup kemungkinannya — dan mereka menempatkan risiko itu secara institusional, melalui ranah dan habitus Bourdieu, alih-alih pada kemauan individu. Jika argumen itu bertahan, "gunakan dengan hati-hati" bukan obat yang memadai, karena praktiknya dibentuk oleh ranah yang memberi imbalan pada keluarannya.
-
-**"Filosofi non-Barat adalah konten untuk ditambahkan ke kerangka yang tak berubah."** Ia dapat menjadi sumber fondasi yang berbeda. Satu rekonstruksi memperlakukan konsep-konsep Daois — "kodrat Dao" (道性), pengembangan diri (修道) dan "Zhenren" (真人) — bukan sebagai "konten Timur" yang dilekatkan pada kerangka Barat melainkan sebagai sumber daya yang membentuk ulang fondasi konseptual yang melaluinya AI dalam pendidikan dipahami. Menambahkan sebuah tradisi sebagai ilustrasi dan menggunakannya untuk membingkai ulang pertanyaan adalah tindakan kesarjanaan yang berbeda.
-
-**"Kritik filosofis tidak dapat ditindaklanjuti."** Ia menetapkan apa yang dianggap berhasil. Apakah keluaran sebuah sistem merupakan pencapaian siswa, dan apakah keuntungan yang terukur merupakan kebaikan pendidikan, adalah pertanyaan-pertanyaan sebelumnya yang tidak dapat dijawab oleh ukuran efek mana pun — dan institusi yang melewatinya akan mengoptimalkan yang terukur dan menyebutnya perbaikan.
 
 ## Implikasi untuk Praktik
 
 **Untuk instruktur**
 
-- Putuskan, sebelum Anda mengadopsi alat, apa yang bersedia Anda anggap sebagai pencapaian siswa itu sendiri. Jika tugas akhir yang rapi hasil sistem akan memuaskan penilaian Anda, Anda telah menjawab "tidak ada" — dan tidak ada perubahan rubrik di kemudian hari yang memulihkan pertanyaan itu.
+- Putuskan, sebelum Anda mengadopsi alat, apa yang bersedia Anda anggap sebagai pencapaian siswa itu sendiri. Jika tugas akhir yang rapi hasil sistem akan memuaskan penilaian Anda, Anda telah menjawab "tidak ada" — dan tidak ada perubahan [[rubrics|rubrik]] di kemudian hari yang memulihkan pertanyaan itu.
 - Perlakukan argumen penutupan itu dengan serius saat merancang tugas: jika GenAI yang menyediakan pekerjaan menutup kemungkinan berpikir alih-alih sekadar melimpahkannya, maka "gunakan secara bertanggung jawab" bukan pengaman yang memadai, karena ranah di sekitarnya memberi imbalan pada keluarannya. Rancang tugas yang bukti berpikirnya dihasilkan sebelum alat tersedia.
 - Tanyakan konsepsi pembelajaran siapa yang dikodekan mata kuliah Anda. Mengadopsi sebuah kerangka tanpa kritik mengimpor asumsinya tentang apa itu siswa, dan asumsi itu dapat diperdebatkan.
 
@@ -92,3 +88,13 @@ Filosofi AI dalam pendidikan dan [[theory-development-aied|pengembangan teori da
 
 - Nyatakan konsepsi pembelajaran yang diandaikan evaluasi Anda, karena keuntungan yang terukur hanya merupakan kebaikan pendidikan relatif terhadap suatu uraian tentang untuk apa pendidikan itu.
 - Danai kerja filosofis bersama kerja empiris: pertanyaan tentang apa yang dianggap pencapaian siswa menetapkan kriteria keberhasilan yang kemudian digunakan studi empiris.
+
+## Miskonsepsi Umum
+
+**"Filosofi AI dalam pendidikan sama dengan mengatalogkan teori pembelajaran."** Keduanya berada pada kedalaman yang berbeda. Halaman [[learning-theories]] bertanya *bagaimana pembelajaran terjadi*; filsafat bertanya *apa sesungguhnya pembelajaran, pikiran dan siswa* dalam kondisi yang dimediasi AI. Sebuah studi dapat menyelesaikan pertanyaan teori pembelajaran dan membiarkan pertanyaan filosofisnya tak tersentuh, itulah sebabnya intervensi yang berhasil secara teknis tetap bisa menjadi hal yang salah untuk dilakukan.
+
+**"Pelimpahan kognitif adalah kerugiannya, dan ia dapat dipulihkan dengan lebih banyak usaha."** Ada klaim yang lebih kuat yang tersedia. Bai dan Costa (2026) bersandar pada uraian Arendt tentang berpikir sebagai aktivitas batin yang tak dapat dipindahkan untuk berargumen bahwa GenAI yang *menyediakan* pekerjaannya bukan sekadar melimpahkan berpikir melainkan menutup kemungkinannya — dan mereka menempatkan risiko itu secara institusional, melalui ranah dan habitus Bourdieu, alih-alih pada kemauan individu. Jika argumen itu bertahan, "gunakan dengan hati-hati" bukan obat yang memadai, karena praktiknya dibentuk oleh ranah yang memberi imbalan pada keluarannya.
+
+**"Filosofi non-Barat adalah konten untuk ditambahkan ke kerangka yang tak berubah."** Ia dapat menjadi sumber fondasi yang berbeda. Satu rekonstruksi memperlakukan konsep-konsep Daois — "kodrat Dao" (道性), pengembangan diri (修道) dan "Zhenren" (真人) — bukan sebagai "konten Timur" yang dilekatkan pada kerangka Barat melainkan sebagai sumber daya yang membentuk ulang fondasi konseptual yang melaluinya AI dalam pendidikan dipahami. Menambahkan sebuah tradisi sebagai ilustrasi dan menggunakannya untuk membingkai ulang pertanyaan adalah tindakan kesarjanaan yang berbeda.
+
+**"Kritik filosofis tidak dapat ditindaklanjuti."** Ia menetapkan apa yang dianggap berhasil. Apakah keluaran sebuah sistem merupakan pencapaian siswa, dan apakah keuntungan yang terukur merupakan kebaikan pendidikan, adalah pertanyaan-pertanyaan sebelumnya yang tidak dapat dijawab oleh ukuran efek mana pun — dan institusi yang melewatinya akan mengoptimalkan yang terukur dan menyebutnya perbaikan.

@@ -7,12 +7,16 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Inleiding
 
-### Computationeel denken in een klaslokaal in het AI-tijdperk
+## Computationeel denken in een klaslokaal in het AI-tijdperk
 
 De verbonden artikelen in de kennisbank komen uit op één centrale stelling: computationeel denken (CT) is het conceptuele fundament dat studenten nodig hebben om kritisch met AI om te gaan, en het is tegelijk de vaardigheid die het meest direct wordt verdiept door goed ontworpen, AI-ondersteund leren. Hieronder zijn de bevindingen gegroepeerd in vier thema's die op de gelinkte artikelen steunen.
 
@@ -52,8 +56,22 @@ Duurzame competenties verschuiven zodra de implementatie wordt geautomatiseerd: 
 - **CT over K-12, lerarenopleiding en herontwerp van beoordeling.** CT bestrijkt het hele spectrum van [[k-12|K-12]] tot [[higher-ed|hoger onderwijs]] en hervormt de beoordeling. Aan het uiteinde van de vroege kinderjaren breidt AI-Play CT en AI-geletterdheid uit naar Pre-K–K2-leerlingen en niet-technische gezinnen; aan het universitaire uiteinde vond de [[genai-oop-programming-assessments-2026|OOP-beoordelingsstudie]] dat GenAI-systemen uit 2026 beter presteren dan de gemiddelde student op authentieke programmeertentamens, maar nog steeds falen op interfaces, abstracte klassen en overerving — terugkerende conceptuele hiaten die precies markeren waar CT moeilijk te automatiseren blijft. [[solving-vs-evaluating-genai-solutions|Een gerandomiseerde A/B-crossoverstudie]] toonde dat taken waarin studenten evalueren en bekritiseren vergelijkbare uitkomsten opleveren als genereren, wat suggereert dat CT kan worden geoefend door gebrekkige AI-oplossingen te beoordelen, zij het dat winst doelgerichte scaffolding vereist. Aan de basis van dit alles staat de leraar: de Micro:bit-studie koppelt CT-onderwijs rechtstreeks aan [[teacher-education|lerarenopleiding]], en [[hashmi-socratic-physics-chatbot-2025|onderzoek naar Socratische chatbots]] verbindt de precieze probleemformulering die CT vraagt aan meetbare cursusprestaties.
 
 - **Een gevalideerd instrument lokaliseert waar CT het moeilijkst is.** Een test voor computationeel denken van 34 items, gebouwd met Evidence-Centered Design en gevalideerd met itemresponstheorie onder 461 AI-programmeerstudenten, concentreerde de moeilijkheid in datarepresentatie, de volgorde van logische operatoren en loopstructuren in plaats van gelijkmatig over de leerstof ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
+- **De meetkeuze verandert het vonnis:** items over computationeel en kritisch denken bereikten in 13 van 23 paren met hetzelfde construct discordante of gemengde conclusies, dus een zelfgerapporteerde CT-enquête en een taakgerichte maat wijken vaak af ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+- **Computationeel denken wordt ook als dispositie gemeten:** in een driedaagse spelstudie in de vijfde klas waren de gecorrigeerde zelfgerapporteerde CT-neigingen in het voordeel van de GenAI-klas, 4,325 tegen 4,037 (p = ,046, partiële eta-kwadraat = ,052, n = 78). Een algoritmische kennistoets scheidde ze niet (80,7 tegen 74,9), dus neigings- en kennismaten volgden verschillende constructen ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
-### Computationeel denken en de verschuiving van AI-consumenten naar producenten, makers en ontwerpers
+Profielen per deelvaardiging maken de enkele CT-score die een pre-post-ontwerp rapporteert ingewikkelder. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij en Khlaisang (2026)]] leidden 28 Thaise bachelorstudenten buiten de informatica door acht weken van drie-uurssessies waarin een vijfstappen[[design-thinking|design-thinking]]-cyclus werd gekoppeld aan low-code-app-bouwen, en scoorden projectwerk op een driepunts[[rubrics|rubric]]. Het gemiddelde computationeel denken steeg van 1,13 in de eerste sessie naar 1,80 en daarna 2,49, met algorithmisch denken als sterkste strand op 2,08 en een traject van 1,46 naar 1,93 naar 2,86. Logisch denken lag gemiddeld op 1,54 en bewoog nauwelijks tussen de eerste twee sessies, 1,04 naar 1,29, voordat het in de derde naar 2,29 kwam — een herinnering dat winst in één component niet impliceert dat de anderen volgden.
+
+## Systeemdenken als CT-praktijk
+
+Systeemdenken is een van de vier domeinen van de computationeel-denktaxonomie voor wiskunde en wetenschap die Weintrop en collega's hebben ontwikkeld, naast Data Practices, Computational Problem-Solving Practices en Modeling and Simulation Practices. De definitie is precies: **het vermogen om systeemgrenzen te bepalen en micro-level interacties te synthetiseren tot macro-level gedrag**. Dat is een cognitief vermogen op leerlingniveau — een manier van redeneren over een systeem — en het is te onderscheiden van de houding op omgevingsniveau die een leeromgeving als systeem behandelt ([[learning-environments-as-systems|leeromgevingen als systemen]]).
+
+Het is ook het domein waar beoordeling het eerst bezwikt. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch en Rebello (2026)]] codeerden de schriftelijke uitleg van 936 studenten in een inleidende computationele natuurkundecursus aan de hand van de taxonomie, calibreerden een menselijke basislijn op 10 studenten (60 responsen, Fleiss' κ = 0,53) en codeerden vervolgens 50 studenten (300 responsen) bij meerderheidsbesluit. Studenten groeiden het meest in Data Practices (p < 0,001, d = 1,03), met matige winst in Computational Problem-Solving (d = 0,52) en Systems Thinking (d = 0,45). Maar Systems Thinking was het minst betrouwbare construct voor *zowel* mensen als modellen: menselijke overeenstemming κ = 0,51 en LLM κ = 0,48, tegen κ = 0,90 voor Data Practices en κ = 0,78 voor Modeling and Simulation. De lezing van de auteurs is dat de moeilijkheid voortkomt uit de complexiteit van het construct en niet uit een gebrek van het model — een construct met meerdere componenten dat van een student vraagt om componenten *te identificeren én* hun interacties en gevolgen uit te leggen, is moeilijker te coderen dan een goed gedefinieerd construct. Modeling and Simulation liet d = 0,00 zien om een niet-verwante reden, een plafondeffect: het gemiddelde vóór de instructie was al 1,62 van 2, dus dat item mat basiskennis in plaats van groei.
+
+De praktische implicatie is een rubriekontwerpperspectief, geen modelperspectief. Hun aanbeveling is om de rubriek zo te herschrijven dat het identificeren van systeemcomponenten apart wordt gescoord van het uitleggen hoe die componenten samenwerken, en om lage geautomatiseerde overeenstemming op een geïntegreerd construct te lezen als een signaal om het instrument te herzien in plaats van automatisering op te geven. Dat is dezelfde beweging waartoe [[rubrics|rubriek]]onderzoek vanuit de scoreerkant komt: het instrument, niet het model, is wat kalibreert.
+
+Het construct reist verder dan de natuurkunde. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz en Castro Samayoa (2026)]] noemen systeemdenken een van de capaciteiten die Aoun *robot-proof* noemt — kritisch denken, systeemdenken en culturele agiliteit — degene die praktijk opbouwt en delegatie niet. [[huang-ai-literacy-vocational-problem-solving-2026|Huang en collega's (2026)]] afbakenen hun eigen 'systematisch denken'-construct ertegen en behandelen het hunne als een smalle maat met vier dimensies (struktureren, redeneren, prioriteren, integreren) en wezen er expliciet van af het in de brede zin systeemdenken te noemen. En [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea en Valencia-Silva (2026)]] waarschuwen dat engagement niet systeemdenken is — een onderscheid dat ertoe doet wanneer een rubriek wordt gebruikt om een competentie te certificeren waarvoor hij niet is geschreven.
+
+## Computationeel denken en de verschuiving van AI-consumenten naar producenten, makers en ontwerpers
 
 Een centraal doel voor CT in het AI-tijdperk is studenten en docenten voorbij de *passieve consumptie* van AI-output te brengen naar *creëren, bouwen en ontwerpen* met en voor AI — een agenda die CT verbindt met constructionistisch leren (leren door te maken). De verbonden artikelen in de kennisbank maken deze wending naar producent, maker en ontwerper steeds expliciet. [[ai-writes-code-student-writes-model-2026|Onderzoek naar modelauteurschap]] herkadert leren door te construeren met GenAI als een meetbaar proces van "modelauteurschap" — studenten schrijven, debuggen en itereren op AI-modellen in plaats van alleen AI-gegenereerde code of antwoorden te consumeren. [[code-to-learn-genai-artifact-construction-2026|Het CtL-GenAI-kader]] operationaliseert dit als [[constructivist|constructionisme]] voor het GenAI-tijdperk en behandelt artefacten die studenten met AI bouwen als de motor van CT-ontwikkeling. [[computational-thinking-ai-agent-creation|CT via het creëren van AI-agenten]] laat zien dat het ontwerpen, en niet louter gebruiken, van AI-agenten decompositie, abstractie en algoritmisch redeneren direct oefent.
 
@@ -63,11 +81,11 @@ De praktische conclusie is dat CT-onderwijs zo moet worden ontworpen dat leerlin
 
 Het hergebruiken van modellen van anderen hoort bij de producentenhouding: een gepubliceerd AI-model implementeren — selecteren, installeren, draaien en valideren — kan worden onderwezen als een leerbare, gestructureerde vaardigheid met een terugvalroute voor elke verwachte fout, en drie bachelorstudenten [[chemistry-education|scheikunde]] zonder programmeerachtergrond reproduceerden en breidden binnen vier maanden een model voor enzym-substraatvoorspelling uit ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Praktische richtlijnen
+## Praktische richtlijnen
 
 Voor onderwijsgevenden is de consistente boodschap dat CT wordt ontwikkeld door *expliciete, ondersteunde, observeerbare* betrokkenheid in plaats van passief AI-gebruik. Koppel robotica aan een expliciete koppeling van CT-concepten aan het curriculum; gebruik LLM's voor [[simulation|simulatie]], besturing in natuurlijke taal en schaalbare beoordeling van CT-groei, terwijl menselijk oordeel wordt gereserveerd voor constructen als systeemdenken; en herontwerp beoordelingen zodat de nadruk ligt op evalueren en diagnosticeren van AI-output in plaats van op ruwe generatie. Wat de setting ook is — unplugged spel in de vroege kinderjaren, robots in het secundair [[stem-education|STEM-onderwijs]] of Virtual Tutors in het [[higher-ed|hoger onderwijs]] — structureer de activiteit zo dat studenten moeten redeneren over decompositie, patroon, abstractie en algoritme in plaats van kant-en-klare oplossingen te ontvangen.
 
-### Verbanden met verwante concepten
+## Verbanden met verwante concepten
 
 Computationeel denken is het gedeelde cognitieve fundament onder [[ai-literacy|AI-geletterdheid]] en [[critical-thinking|kritisch denken]], de curriculumkern van [[cs-education|informaticaonderwijs]] en [[k-12|K-12]]-computing, en het conceptuele doel dat [[educational-robotics|educatieve robotica]], [[game-based-learning|spelgebaseerd leren]] en [[project-based-learning|projectmatig leren]] het beste kunnen dienen. Het wordt verdiept door [[llm|grote taalmodellen]] en [[generative-ai|generatieve AI]] wanneer die als ondersteunende hulpmiddelen worden gebruikt, en het is de vaardigheid die taxonomieën van misconcepties en CT-bewuste beoordelingen proberen te meten. Leraren ontwikkelen het via [[teacher-education|lerarenopleiding]] en [[professional-training|professionele training]], en het is overdraagbaar tussen domeinen, waaronder [[physics-education|natuurkundeonderwijs]] en [[stem-education|STEM]] in brede zin.
 

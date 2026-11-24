@@ -9,12 +9,16 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/critical-thinking"
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
@@ -41,7 +45,7 @@ Kritisch denken staat centraal in [[ai-literacy|AI-geletterdheid]] — studenten
 
 Gestructureerde dialoogsturing, niet een betere prompt, is wat een drogredentutor onderscheidt van een debatchatbot: elke beurt routeren via Toulmin-gebaseerde intentiedetectie, een vaste strategieorde en een verificatieagent liet één Socratisch systeem 84.5% van de dialoogkwaliteitsmetrieken halen tegen 61.5% voor een heuristische baseline ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
-### Kritisch denken in AI-onderwijsonderzoek
+## Kritisch denken in AI-onderwijsonderzoek
 
 De artikelen in de kennisbank verkennen kritisch denken door [[design-based-research|ontwerpgerichte]] en empirische lenzen. [[ai-agents-constructive-conflict-design-education-2026|Adversariële AI-agenten]] ensceneren constructief conflict om beginnende ontwerpers tot heroverweging te brengen — een Socratische variant die kritische herevaluatie afdwingt. [[genai-can-harm-teaching-rct-2026|RCT-onderzoek naar GenAI in het onderwijs]] werpt de vraag op of AI-tools die oppervlakkige uitkomsten optimaliseren, onbedoeld het kritisch denken kunnen onderdrukken dat tot dieper leren leidt. Gemeten bewijs scherpt dit aan: of kritisch denken beweegt, hangt af van hoe AI-gemedieerde feedback en taken zijn ontworpen, en van de [[metacognition|metacognitieve]] regulatie van leerlingen, niet van toegang tot een model.
 
@@ -79,13 +83,20 @@ Een grotere cross-sectionele enquête wijst de andere kant op: onder 1,157 Chine
 
 - **Een semester AI-toegang liet kritisch denken vlak, terwijl reflectief gebruik het volgde.** Melanou, Beege en Kimmig (2026) volgden 87 studenten bedrijfsinformatica gedurende een cursus van negen weken in drie parallelle condities (AI met tutorframe, ongestuurde AI en geen AI), driemaal gemeten. Kennis steeg in elke groep zonder voordeel voor een van beide AI-condities en zonder Mattheüseffect (BF01 = 8.70), terwijl zelfgerapporteerd kritisch denken en [[motivation|motivatie]] stabiel bleven. Wat studenten onderscheidde was reflectief gebruik, de praktijk van het controleren van bronnen en het verifiëren van AI-output voordat die wordt overgenomen: dat was hoger in de AI-conditie dan in de controlegroep (gemiddelden 3.72 versus 2.82) en voorspelde kritisch denken bij de laatste meting (R² = 0.183, β = 0.43, p < 0.001). Het resultaat nuanceert elke verwachting dat een cursus AI-gebruik kritisch denken vanzelf in beweging brengt: [[metacognition|metacognitieve]] regulatie, niet toegang tot de tool, is waar de associatie zit, en de auteurs merken op dat een semester waarschijnlijk te kort is om duurzame verandering te zien. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
 
-### Verbanden met andere concepten
+- **Beoordeling bewoog zich; formele deductie niet.** Gearchiveerde AI-feedback van vier fasen verhoogde Evaluation of Arguments met 1,74 gecorrigeerde punten, terwijl Deduction 0,30 bewoog (p = 0,383), wat de winst legt in het beoordelen van claims en niet in formele logica ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al. (2026)]]).
+
+- **Online redeneren kan uit zoekgedrag worden gemeten, en het splitst in twee.** Onder 459 eerstejaars studenten met analyseerbare logs die op het open web zochten, vonden [[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)]] dat vraagformulering en het inspecteren van resultatenpagina's afzonderlijke, niet-gecorreleerde factoren vormden, zodat één acquisitiescore het construct verkeerd voorstelt.
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez et al. (2026)]] leverden de eerste doelgerichte maat voor kritisch denken met AI en vonden dat de drie voorgestelde domeinen zwaar overlapten om te scheiden: latente correlaties waren zeer hoog, de gemiddelde geëxtraheerde variantie lag onder de kwadraten van de correlaties, en aan het criterium voor discriminantvaliditeit werd voor geen factor voldaan. De totaalscore is betrouwbaar, maar de dimensies blijven voorlopig.
+
+## Verbanden met andere concepten
 
 Kritisch denken raakt aan [[scaffolding]] (AI-ondersteuning ontwerpen die de cognitieve vraag hoog houdt), [[prompt-engineering|prompt engineering]] (vragen formuleren die kritische analyse uitlokken) en [[cognitive-offloading|overmatige afhankelijkheid]] (weten wanneer je AI moet vertrouwen en wanneer je haar moet bevragen). Het is fundamenteel voor [[academic-integrity|academische integriteit]] en fungeert als een kerndimensie van [[ai-literacy|AI-geletterdheid]]-kaders in zowel [[k-12|K-12]] als [[higher-ed|hoger onderwijs]].
 
 - **AI-fouten als provocaties voor hogere-orde denken:** [[pedagogy-ai-mistakes|Hosseini (2026)]] operationaliseert de hogere-orde niveaus van Bloom (analyseren, evalueren, creëren) door studenten in een databasecursus AI-gegenereerde fouten te laten ondervragen, met significante voor- en nawinst (Cohen's *d*=1.49) in vakkennis.
-- **Kritiek op AI-output is een scaffolderbare vaardigheid, geen bijproduct van probleemoplossen.** Groepen die alleen een verwant natuurkundeprobleem oplosten, accepteerden een gepolijste AI-oplossing of bekritiseerden die vanuit hun eigen [[misconceptions|misvattingen]], terwijl reflectie met de MAPS-rubric leidde tot expertconforme kritiek op ontbrekende integratie en ongedefinieerde notatie ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **Kritiek op AI-output is een scaffolderbare vaardigheid, geen bijproduct van probleemoplossen.** Groepen die alleen een verwant natuurkundeprobleem oplosten, accepteerden een gepolijste AI-oplossing of bekritiseerden die vanuit hun eigen [[misconceptions|misvattingen]], terwijl reflectie met de MAPS-[[rubrics|rubric]] leidde tot expertconforme kritiek op ontbrekende integratie en ongedefinieerde notatie ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
 
+- **Kritiek kan worden geleend bij de zelfbeoordeling van de AI zelf.** Twaalf aanstaande docenten die hun watergebruiksmodellen vergeleken met een ChatGPT-4o-model produceerden kritiek die overeenkwam met zwaktes die de AI over zichzelf had genoemd, en geen van hen merkte een computationele inconsistentie op die in zijn output was behouden — een gepolijst resultaat kan worden bewonderd zonder te zijn geverifieerd ([[cetin-ai-comparative-reflection-modelling-2026|Çetin en Bilgili, 2026]]).
 - **Begrens de AI om cognitieve agency te behouden.** De E3-HOT-blauwdruk brengt drie [[embodied-learning|belichaamde]] paden — situationele inbedding, belichaamde participatie en cognitieve creatie — in kaart op analyseren, evalueren en creëren, en begrenst de AI tot prompts, kritiek en strategische suggesties, zodat studenten hun beweegredenen moeten verwoorden en bewijs moeten aanvoeren voordat een claim wordt aanvaard ([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]]).
 
 - **Tweezijdige auditing van AI-verklaringen.** Bernstein en Sibia (2026) gebruikten Paul–Elder-standaarden (nauwkeurigheid, helderheid, aannames, gezichtspunt) als interviewprobes bij tien studenten die CS2 hadden afgerond, en vonden mechanismeniveau-onderzoek van [[generative-ai|GenAI]]-verklaringen: studenten lokaliseerden waar de mapping van een analogie brak (een eilandroute-analogie voor een linked list die een cirkel impliceerde, een badmintonrally voor recursie zonder gegarandeerd krimpende invoer), eisten precieze formulering in plaats van hedging, en behandelden verklaringen als argumenten met een gezichtspunt. Cruciaal is dat dit onderzoek samenhing met expertise in het bron- of doeldomein, niet met persoonlijke interesse — wat kritische [[ai-ed-evaluation|evaluatie van AI]]-output herkadert als een kennisprobleem ("tweezijdige analogie-auditing") in plaats van een dispositioneel probleem — en suggereert dat het opdragen van gebrekkige AI-analogieën als te inspecteren en te repareren objecten een zwaardere toets van conceptueel begrip is dan het lezen van een afgeronde verklaring.([[student-reception-genai-analogies-computing-2026]])
@@ -106,3 +117,9 @@ Kritisch denken raakt aan [[scaffolding]] (AI-ondersteuning ontwerpen die de cog
 - **"Een betere prompt levert beter kritisch denken op."** **Gestructureerde dialoogsturing, niet een betere prompt**, onderscheidt een drogredentutor van een debatchatbot: elke beurt routeren via **Toulmin-gebaseerde intentiedetectie** deed het werk. Het mechanisme is de interactiestructuur, niet de formulering.
 - **"GenAI-gebruik verhoogt kritisch denken direct."** De relatie tussen GenAI-gebruik en **zelfgerapporteerd** kritisch denken liep **bijna volledig via GenAI-[[feedback-literacy|feedbackgeletterdheid]]** — bij **421 Chinese bachelorstudenten** medieerde feedbackgeletterdheid **71%** van het verband. De geletterdheid is het pad.
 - **"Het meta-analytische effect is uniform."** Over **29 experimenten** verhoogde GenAI hogere-orde denken gematigd (**g = 0.609**) met kritisch denken op **ES = 0.691**. Gematigde gepoolde effecten over heterogene interventies ondersteunen de categorie en niet een specifiek ontwerp.
+
+## Twee paden, één netto-effect
+
+Of AI-gebruik [[critical-thinking|kritisch denken]] helpt of schaadt, hangt af van welk mechanisme wordt gemeten. Een meta-analytisch structureel vergelijkingsmodel uit 2026 dat 31 studies en 16.357 leerlingen bundelde, vond **twee indirecte paden van bijna gelijke grootte die in tegengestelde richtingen lopen**: AI-gebruik verhoogde afhankelijkheid, wat kritisch denken verlaagde (β = −0,212), en verhoogde [[motivation|leermotivatie]], wat het verhoogde (β = +0,217). De paden heffen elkaar vrijwel exact op — totaal indirect β = 0,004 — waardoor een klein positief direct effect resteert (β = 0,149) en 40% van de variantie wordt verklaard.([[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]])
+
+De nul-orde-correlatie in die literatuur is niet significant (r = 0,156, 95% CI [−0,040, 0,353]), wat ziet uit als een opschorting wanneer een studie alleen de uitkomst meet. De ontwerpimplicatie is dat [[cognitive-offloading|offloading]] geen eigenschap van de tool is maar van hoe de taak is opgezet: tools die eind-tot-eind-antwoorden achterhouden en metacognitieve controlepunten die evaluatie afdwingen verschuiven de balans naar het motivationele pad.

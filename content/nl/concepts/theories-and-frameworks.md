@@ -7,15 +7,19 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
-updated: "2026-11-08T07:16:46-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theories-and-frameworks"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -66,7 +70,9 @@ Deze verklaren mechanismen: ze benoemen de onderdelen die het werk doen en voors
 ## Kaders voor lesgeven, integratie en adoptie
 
 - **[[tpack|TPACK]]** — de docentkennis die technologie, pedagogiek en inhoud vermengt; het standaardkader voor docentgerichte AI-studies.
+- **[[bloom-taxonomy|Blooms taxonomie]]** — de gedeelde woordenschat voor de cognitieve eis van taken, gebruikt om items te coderen en om ze te sequenceren; in AI in het onderwijs is het net zozeer een meetprobleem geworden als een ontwerprobleem.
 - **[[technology-acceptance-model|Adoptiemodellen]]** — intentie als functie van waargenomen bruikbaarheid en gebruiksgemak. Zo breed gebruikt dat de neiging van het veld om op intentie in plaats van gedrag te leunen een staande kritiek is.
+- **Expectation-confirmation model (ECM)** — tevredenheid als de bevestiging van eerdere verwachtingen, met continuering in plaats van initiële adoptie als uitkomst. In een pilot van één semester sociologiemethoden met 24 bachelorstudenten beoordeelde 87% Copilot als goed of uitstekend en zou 91% hem aanbevelen, maar slechts 57% nam het voortzetting van gebruik in de intentie op ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Die kloof is precies het punt van het model: een tevreden gebruiker kan nog weigeren terug te keren, dus tevredenheid en continuering vereisen aparte maten.
 - **[[icap-framework|ICAP]]** — rangschikt betrokkenheid als passief, actief, constructief, interactief; nuttig om te vragen welke modus een [[student-ai-interaction|AI-interactie]] werkelijk mogelijk maakt.
 - **[[samr-model|SAMR]]** — van substitutie tot herdefiniëring. Populair als volwassenheidsverhaal, zwak als meetinstrument.
 - **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusief leren]]** en **[[accessibility|toegankelijkheid]]** — ontwerpkaders voor wie wordt bediend, en die het vaakst worden aangeroepen in werk rond handicap en [[equity-in-ai-education|rechtvaardigheid]].
@@ -104,7 +110,7 @@ De woorden worden in de literatuur losjes gebruikt, en het verschil is één ali
 
 ## Gerelateerde lagen
 
-Twee naburige pagina's gaan bewust over iets anders. [[philosophy-of-ai-in-education|Filosofie van AI in het onderwijs]] stelt normatieve en conceptuele vragen — waar onderwijs *voor* is, of een machine kan lesgeven — en voorspelt geen effectgroottes; een studie kan filosofisch naïef en theoretisch degelijk zijn, of omgekeerd. [[theory-development-aied|Theorieontwikkeling]] is de meta-activiteit van het bouwen, lenen en herzien van theorie, inclusief de staande kritiek dat veel [[ai-education|AIED]]-werk bestaande theorie toepast in plaats van haar te toetsen. Deze pagina is de inventaris; theorieontwikkeling gaat over het produceren en herzien van de inventaris.
+Twee naburige pagina's gaan bewust over iets anders. [[philosophy-of-ai-in-education|Filosofie van AI in het onderwijs]] stelt normatieve en conceptuele vragen — waar onderwijs *voor* is, of een machine kan lesgeven — en voorspelt geen effectgroottes; een studie kan filosofisch naïef en theoretisch degelijk zijn, of omgekeerd. [[theory-development-aied|Theorieontwikkeling]] is de meta-activiteit van het bouwen, lenen en herzien van theorie, inclusief de staande kritiek dat veel [[ai-education|AIED]]-werk bestaande theorie toepast in plaats van haar te toetsen. Deze pagina is de inventaris; theorieontwikkeling gaat over het produceren en herzien van de inventaris. [[learning-environments-as-systems|Leeromgevingen als systemen]] is een derde nabuur. Het is geen leertheorie en voorspelt geen effectgroottes, maar een standpunt over de analyse-eenheid: een leeromgeving is een systeem met meerdere niveaus waarvan de onderdelen op elkaar inwerken, dus het niveau dat een studie meet is een theoretische beslissing, geen steekproefgemak.
 
 ## Een lens kiezen wanneer de vraag praktisch is
 

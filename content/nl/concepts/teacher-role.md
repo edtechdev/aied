@@ -10,11 +10,15 @@ audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-17T11:05:00-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-23T09:46:14-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
@@ -70,16 +74,19 @@ Dus aanmoediging telt het meest waar rapportgebruik nog kan groeien.
 
 - Lan en Chen (2026) stellen voor docentschap bij auteurschap te beoordelen op herkomst: een agent geldt alleen als de tweeling van een docent als zijn autoriteit teruggaat op één genoemde docent die verantwoordelijkheid houdt, oordeel heeft omgezet in een inspecteerbare specificatie, en capaciteit uitbreidt zonder auteurschap te verplaatsen; platformstandaarden leveren een proxy, geen tweeling ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
 
+**Delegeren is standaardgeankerd.** [[farooq-standard-anchored-delegation-teachers-2026|Farooq, Khan en Raza (2026)]] interviewden 13 docenten in Punjab, Pakistan, en vonden dat zij een taakonderdeel aan generatieve AI uitbesteedden wanneer een externe standaard — een textbook, syllabus of rubriek — een correcte output definieerde die zij op het resultaat konden toepassen; geen van hen accepteerde door AI opgestelde leerdoelen. Een standaard hebben was niet altijd genoeg: verschillende docenten aan overheidsscholen weigerden AI-nakijken ook al bestonden er antwoordsleutels.
+
 ### De orkestratiemetafoor
 
 De dominante metafoor in de kennisbank is *orkestratie*: docenten coördineren menselijke leerlingen, [[intelligent-tutoring|AI-tutors]] en curriculumhulpbronnen. Dat contrasteert met vervangingsverhalen: AI versterkt het menselijke lesgeven in plaats van het te vervangen. Empirisch bewijs ondersteunt deze houding: een PRISMA-gestuurde [[meta-analysis-systematic-review|systematische review]] van 42 studies (2023 tot 2025) vond dat LLM's menselijke beoordelaars evenaren bij korte, goed gestructureerde taken, maar dat de prestatie daalt bij langere, meertalige en genuanceerde opdrachten, met de conclusie dat LLM's docenten niet volledig kunnen vervangen en dat hybride beoordelingssystemen met een mens in de lus de hoogste beoordelingseffectiviteit bereiken ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). De orkestratielens herkadert de kernvaardigheid van de docent als *oordeel*: beslissen wanneer een mens, een AI of een ontworpen leeractiviteit het juiste instrument is voor een bepaalde leerling op een bepaald moment. Een PRISMA-review uit 2026 van 29 studies over [[teacher-intervention-k12-ai-based-instruction-2026]] scherpt de metafoor aan tot een cyclus van vier fasen (monitoren, oordelen, interveniëren, orkestreren) en laat zien waarom geen enkele fase kan worden verondersteld. Docenten gaven de voorkeur aan gedeelde controle en accepteerden, wijzigden, verwierpen of overruleden AI-suggesties; sommigen stelden interventie bewust uit zodat studenten eerst productief konden worstelen; en dashboards die het bewustzijn vergrootten, konden ook de aandacht overbelasten of meer vragen dan één docent lichamelijk kon doen. De drie strategieën (pedagogische vertaling van AI-output, ontwerp van leerondersteuning en reconstructie van interactiestructuren) beschrijven het werk als recontextualisering in plaats van goedkeuring, wat de docent dichter bij bemiddelaar plaatst dan bij de rol van humane controleur in de lus. Klassobservatie benoemt dezelfde gedragingen als types. Zes lessen met een ervaren docent voegden drie orkestratietypes toe aan de vier van Drijvers (dashboardmonitoring, AI-corrigeren en AI-bemiddelen), waarbij de inhoudelijke en ethische rollen van de docent het duidelijkst zichtbaar waren wanneer hij door AI gegenereerde feedback corrigeerde ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
 
-De dirigent is een nauwkeuriger beeld dan de solist. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] beschrijven een docent die expertise coördineert in plaats van alle expertise zelf te leveren, omdat in een grote cursus met meerdere secties een of twee collega's de taken en rubrieken kunnen herontwerpen terwijl anderen leerarchitectuur, tool-evaluatie of bewijsverzameling op zich nemen. Hun verdeling heeft een ondergrens: elk teamlid behoudt basale technische en ethische competentie, zodat de rol wordt gedirigeerd in plaats van uitbesteed.
+De dirigent is een nauwkeuriger beeld dan de solist. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] beschrijven een docent die expertise coördineert in plaats van alle expertise zelf te leveren, omdat in een grote cursus met meerdere secties een of twee collega's de taken en [[rubrics|rubrieken]] kunnen herontwerpen terwijl anderen leerarchitectuur, tool-evaluatie of bewijsverzameling op zich nemen. Hun verdeling heeft een ondergrens: elk teamlid behoudt basale technische en ethische competentie, zodat de rol wordt gedirigeerd in plaats van uitbesteed.
 
 ### Evoluerende en kritische docentrollen
 
 Recent werk verbreedt de orkestratiemetafoor tot rijkere conceptualiseringen van rollen:
 
+- **Docent als auditor van door AI gegenereerde plannen.** Elfen experts in natuurwetenschapseducatie die twee door AI gemaakte lessen voor de zesde klas beoordeelden, vonden dat beide de inhoud goed behandelden maar het laagst scoorden op iteratieve engineeringfasen, dus de plannen van de tools zijn concepten die de docent moet aanpassen in plaats van afgeronde instructie ([[karaismailoglu-ai-lesson-plans-science-experts-2026|Karaismailoglu et al., 2026]]).
 - **Co-orkestrator over activiteitsovergangen.** [[teacher-student-agency-orchestration|Yang et al. (2026)]] gebruiken participatief speeddaten met 17 docenten en 13 studenten om in kaart te brengen hoe controle moet worden verdeeld over de fasen van een klasactiviteit (de overgangen voor, tijdens en na tussen individueel en samenwerkend werk) in een co-orkestratietool die realtime dynamische koppeling ondersteunt. Het ontwerpprincipe dat naar voren komt, is dat controle *geen vast punt* is: docenten en studenten willen in elke fase een andere mate van agency, en de tool moet de docent in staat stellen groepering, activiteitsovergangen en interventiemomenten in realtime aan te passen met behoud van een override voor de docent. Dit positioneert de docent als **co-orkestrator van de hele live leeromgeving**, een rol die specifieker is dan de algemene orkestratiemetafoor en zich richt op de granulaire, moment-tot-moment beslissingen over wie met wie werkt, wanneer en met welke ondersteuning, en het verbindt onderzoek naar individuele tutoring met ontwerp op klasniveau.
 - **De 'cognitieve choreograaf'.** Posthumanistische kaders herzien de docent als een *cognitieve choreograaf* die cognitie orkestreert die verdeeld is over [[biology-education|biologische]] en kunstmatige systemen, en gaan zo verder dan instrumentalistische modellen als [[tpack]] en SAM.([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 - **Facilitator, medeonderzoeker, [[ethics|ethisch]] supervisor.** In natuurwetenschappelijk leren verschuiven de rollen van docenten van kennisoverdragers naar facilitators en medeonderzoekers, en krijgen ze nieuwe verantwoordelijkheden als ethische supervisoren van verantwoord AI-gebruik door studenten.([[li-ai-science-situated-learning-teachers-2025]])
@@ -121,6 +128,8 @@ Het bewijs in de kennisbank convergeert naar een reeks concrete aanpassingen:
 **Plan voor het leveringsmedium.** Aanpassing is niet mediumneutraal: [[online-teaching-and-learning|online lesgeven]] met AI vermenigvuldigt zowel de kansen (schaalbare [[personalized-learning|personalisering]], altijd beschikbare ondersteuning) als de risico's (integriteit, offloading). Ontwerp de AI-verpakking online even bewust als in face-to-facecontexten.([[lopez-pernas-llm-appropriate-student-support-2026]])
 
 **Reageer op de draad, niet op elke post.** Zichtbare aanwezigheid was de externe factor die studenten het meest waardeerden in vier focusgroepen met 26 bèta-bachelorstudenten, en het patroon dat zij beschreven was een docent die de discussie aanjaagt, studenten vraagt op elkaar te reageren en later in de week zelf antwoordt ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner en Nugent, 2026]]). Begrensde aanwezigheid op draadniveau was genoeg; op elke post reageren was niet wat de waardering opleverde.
+
+**Bepaal wat u automatiseert en wat u menselijk houdt.** Een raamwerk voor AI-gemedieerd online lesgeven behandelt sociale aanwezigheid als een ontwerpcriterium in plaats van een uitkomst: drie risico's — taakautomatisering die betrokkenheid verdringt, verminderde empathie en een drift naar efficiëntiegestuurde beslissingen — versterken elkaar, en een vijfstappige evalueer–identificeer–pas aan–test–verfijn-loop maakt daar een routine van. De toegevoegde verantwoordelijkheid van de docent is het beoordelen welke relationele arbeid een tool mag overnemen en welke een persoon vereist ([[dyer-social-presence-literacy-ai-2026|Dyer et al., 2026]]).
 
 ## AI-geletterdheid opnemen in het lesgeven
 

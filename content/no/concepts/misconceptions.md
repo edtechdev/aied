@@ -1,7 +1,7 @@
 ---
 title: "Misoppfatninger om AI"
 created: "2026-11-12T04:06:17-05:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "*Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learners, ai-literacy, trust-calibration, cognitive-offloading, metacognition, self-regulated-learning, academic-integrity, hallucination-risk, generative-ai, student-experience, framing-ai-use-for-students, refutation-text, teacher-role, educational-policy-ai, trust, critiques-of-ai-in-education]
 connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalization-ai-writing, genai-skill-bypass-literacy, trust-reliance-ai-education-2026, contextual-sycophancy-ai-literacy, sycophantic-ai-social-interaction-2026, llm-fallacy-misattribution, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, children-ai-safety-misconceptions-2026, etq-ai-conversational-teacher-training-2026]
@@ -42,7 +46,7 @@ connected_articles: [rudolph-ai-myths-critical-higher-ed, student-rationalizatio
 
 ## Innledning
 
-Misoppfatninger om AI har betydning fordi de er den kognitive forløperen til atferden som kunnskapsbasen dokumenterer under [[cognitive-offloading|overavhengighet]] og [[academic-integrity]]-problemer. Folk tar sjelden sikte på å [[ai-misuse-learning-harm|misbruke]] AI; de gjør det fordi unøyaktige mentale modeller får dem til å plassere tilliten feil, hoppe over verifiseringen og behandle output som forståelse. I utdanning former disse feilene alt fra hvordan studenter studerer, til hvordan lærere og institusjoner designer læreplaner, [[assessment]] og politikk.
+Misoppfatninger om AI har betydning fordi de er den kognitive forløperen til atferden som kunnskapsbasen dokumenterer under [[cognitive-offloading|overavhengighet]] og [[academic-integrity]]-problemer. Folk tar sjelden sikte på å [[ai-misuse-learning-harm|misbruke]] AI; de gjør det fordi unøyaktige mentale modeller får dem til å plassere tilliten feil, hoppe over verifiseringen og behandle output som forståelse. I utdanning former disse feilene alt fra hvordan studenter studerer, til hvordan lærere og institusjoner designer læreplaner, [[assessment]] og politikk. En egen forskningskropp stiller spørsmål ved innrammingen som skaper disse misoppfatningene i utgangspunktet; se [[critiques-of-ai-in-education|Kritikk av AI i utdanning]].
 
 ## Hva misoppfatninger om AI er
 

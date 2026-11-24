@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Annet arbeid utvider eksisterende teori inn i AI-konteksten snarere enn å grunn
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin og Chang (2026)]] utvider [[self-regulated-learning]] og menneske–AI-regulering ved å navngi hva eleven styrer — standarder, [[evaluative-judgment|evaluative vurderinger]] og kontrollautorisasjon — snarere enn bare hva AI gjør.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai og Flenady (2026)]] importerer Honneths og Brandoms anerkjennelse inn i tilbakemeldingsteorien og hevder at det gjensidige tildelingen av status, ikke informasjonskvaliteten, er det som gjør en kommentar til en grunn til å handle.
+
 Friksjonsparadokset tilbyr en annen utvidelse av etablert teori: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] anvender Bjork og Bjorks [[desirable-difficulties|ønskelige vanskeligheter]] og Kapurs [[productive-failure|produktive fiasko]] på relasjonelle møter i utdanning i utlandet, og hevder at det som betyr noe, er hvor mye fortolkende handlekraft en elev [[transfer-of-learning|overfører]] til en generativ assistent, snarere enn hvor ofte den brukes. Rammeverket er begrepsmessig og fremsetter fem proposisjoner som konkurrerende hypoteser.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] videreutvikler feltets funksjonelle taksonomi fra Zawacki-Richter et al. (2019): blant de 154 publikasjonene med en klassifiserbar applikasjonsfunksjon unnslapp 90 (58.4 %) de fire kategoriene, og deres rammeverk krysser funksjon med delegert kontroll, epistemisk posisjon og innebygd pedagogikk.
@@ -93,15 +99,7 @@ Feltets teoretisering er ujevn. [[limitations-in-aied-research|Begrensninger i A
 
 ## Forholdet til filosofien om AI i utdanning
 
-Teoriutvikling og [[philosophy-of-ai-in-education|filosofien om AI i utdanning]] er komplementære, men distinkte tråder i kunnskapsbasens grunnlagsarbeid. **Teoriutvikling** produserer og tester empirisk *mekanismene* for læring-med-AI — navngitte teorier og rammeverk som generativisme, epistemisk samhandlekraft og den fraværende kognitive baselinjen som forklarer og forutsier hvordan elever og AI samvirker. **Filosofi** gransker *forutsetningene* disse mekanismene hviler på: hva som teller som kunnskap, hvem som teller som kunnende, og hva eleven grunnleggende er. En teori som [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemisk samhandlekraft]] foreslår en mekanisme mens den implisitt adopterer filosofiske forpliktelser om distribuert kognisjon og [[agency|handlekraft]]; filosofien gjør disse forpliktelsene eksplisitte og bestridelige. Der teoriutvikling spør om et rammeverk forklarer læring godt, spør filosofien om det fanger hva læring og sinn virkelig er — de to trådene møtes i feltets mest grunnleggende artikler, som ofte gjør begge deler samtidig.
-
-## Vanlige misoppfatninger
-
-**«Et funn om at verktøyet virket, er et teoretisk bidrag.»** Det er det ikke, og grunnen er strukturell. Der et rammeverks proposisjoner forutsier *forskjeller mellom konfigurasjoner*, kan en studie som bare rapporterer en gjennomsnittseffekt, **verken bekrefte eller avkrefte dem** — designet kan ikke se skillet teorien handler om. En prøve som viser en gjennomsnittlig gevinst, forteller deg at noe skjedde, ikke hvilken mekanisme som forårsaket det, så teorien forblir nøyaktig like støttet som før.
-
-**«Å anvende en etablert teori på AI er teoriutvikling.»** Sidens eget teoribruksproblem sier det motsatte: anvendelse er ikke videreutvikling, og feltets tilbakevendende mønster er lånte konstrukter brukt som vokabular snarere enn som testbare forutsigelser. Skillet betyr noe fordi en lånt ramme som ikke kan generere en falsifiserbar forskjell, er dekorasjon, ikke teori.
-
-**«De eksisterende taksonomiene for AI-ens pedagogiske funksjon dekker allerede det disse systemene gjør.»** De dekker ikke mye av det. Blant 154 publikasjoner med en klassifiserbar applikasjonsfunksjon **unnslapp 90 (58.4 %) de fire kategoriene** i det tidligere rammeverket, og det er derfor det nyere arbeidet krysser funksjon med delegert kontroll, epistemisk posisjon og innebygd pedagogikk. En taksonomi som feilklassifiserer nesten tre av fem tilfeller, kan ikke tjene som feltets felles vokabular, og gapet er et funn om fenomenet snarere enn et gap i en artikkel.
+Teoriutvikling og [[philosophy-of-ai-in-education|filosofien om AI i utdanning]] er komplementære, men distinkte tråder i kunnskapsbasens grunnlagsarbeid. **Teoriutvikling** produserer og tester empirisk *mekanismene* for læring-med-AI — navngitte teorier og rammeverk som generativisme, epistemisk samhandlekraft og den fraværende kognitive baselinjen som forklarer og forutsier hvordan elever og AI samvirker. **Filosofi** gransker *forutsetningene* disse mekanismene hviler på: hva som teller som kunnskap, hvem som teller som kunnende, og hva eleven grunnleggende er. En teori som [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemisk samhandlekraft]] foreslår en mekanisme mens den implisitt adopterer filosofiske forpliktelser om distribuert kognisjon og [[agency|handlekraft]]; filosofien gjør disse forpliktelsene eksplisitte og bestridelige. Der teoriutvikling spør om et rammeverk forklarer læring godt, spør filosofien om det fanger hva læring og sinn virkelig er — de to trådene møtes i feltets mest grunnleggende artikler, som ofte gjør begge deler samtidig. Det feltets kritikere sier om retningene disse teoriene åpner eller stenger, er et eget spørsmål, samlet under [[critiques-of-ai-in-education|Kritikk av AI i utdanning]].
 
 ## Implikasjoner for praksis
 
@@ -120,3 +118,11 @@ Teoriutvikling og [[philosophy-of-ai-in-education|filosofien om AI i utdanning]]
 
 - Design for konfigurasjonskontraster hvis du har til hensikt å gi et teoretisk bidrag. En prøve med gjennomsnittseffekt publisert som teoriutvikling er feltets vanligste og minst nyttige produksjon.
 - Fest eksplisitte falsifiserbare proposisjoner til ethvert rammeverk du introduserer, og rapporter hvilke konfigurasjonsforskjeller som ville ha avkreftet dem.
+## Vanlige misoppfatninger
+
+**«Et funn om at verktøyet virket, er et teoretisk bidrag.»** Det er det ikke, og grunnen er strukturell. Der et rammeverks proposisjoner forutsier *forskjeller mellom konfigurasjoner*, kan en studie som bare rapporterer en gjennomsnittseffekt, **verken bekrefte eller avkrefte dem** — designet kan ikke se skillet teorien handler om. En prøve som viser en gjennomsnittlig gevinst, forteller deg at noe skjedde, ikke hvilken mekanisme som forårsaket det, så teorien forblir nøyaktig like støttet som før.
+
+**«Å anvende en etablert teori på AI er teoriutvikling.»** Sidens eget teoribruksproblem sier det motsatte: anvendelse er ikke videreutvikling, og feltets tilbakevendende mønster er lånte konstrukter brukt som vokabular snarere enn som testbare forutsigelser. Skillet betyr noe fordi en lånt ramme som ikke kan generere en falsifiserbar forskjell, er dekorasjon, ikke teori.
+
+**«De eksisterende taksonomiene for AI-ens pedagogiske funksjon dekker allerede det disse systemene gjør.»** De dekker ikke mye av det. Blant 154 publikasjoner med en klassifiserbar applikasjonsfunksjon **unnslapp 90 (58.4 %) de fire kategoriene** i det tidligere rammeverket, og det er derfor det nyere arbeidet krysser funksjon med delegert kontroll, epistemisk posisjon og innebygd pedagogikk. En taksonomi som feilklassifiserer nesten tre av fem tilfeller, kan ikke tjene som feltets felles vokabular, og gapet er et funn om fenomenet snarere enn et gap i en artikkel.
+

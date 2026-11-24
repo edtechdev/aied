@@ -8,15 +8,19 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/learner-identity"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -37,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Pendahuluan
 
 Identitas pembelajar menyangkut siapa yang dipahami pembelajar tentang dirinya, dan siapa yang sedang ia menjadi, dalam suatu domain — konstruk motivasional dan perkembangan yang berbeda dari keyakinan kemampuan seperti [[self-efficacy|efikasi diri]], yang menjawab pertanyaan lebih sempit *dapatkah saya melakukan ini?* Identitas terbentuk melalui partisipasi, pengakuan, dan kepengarangan: melihat diri tercermin dalam suatu bidang dan memiliki pandangan diri itu disahkan oleh orang lain. AI membentuk ulang ketiga kondisi itu, karena ia mengubah siapa yang mengerjakan pekerjaan, apa yang dihitung sebagai kontribusi sendiri, dan apakah pembelajar diakui sebagai penulis pembelajarannya sendiri ([[agency|agensi]], [[metacognition|metakognisi]]).
+
+Nilai adalah relasi sekaligus simbol: siswa sampai melihat diri mereka melalui nilai itu, sehingga reformasi yang membiarkan transkrip utuh membiarkan relasi itu utuh pula ([[nieminen-grading-assessment-reform-2026|Nieminen dkk. (2026)]]).
 
 ## Mengapa identitas penting bagi AI dalam pendidikan
 
@@ -59,6 +65,9 @@ Kondisi kepengarangan yang berbeda, bukan hanya ancaman terhadap kepengarangan: 
 
 - **Adopsi berjaga-jaga: penggunaan AI selektif sebagai perlindungan identitas.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] mensurvei 484 siswa di satu universitas Australia dan menemukan bahwa siswa berprestasi lebih tinggi melaporkan keterlibatan aktif [[generative-ai|AI generatif]] yang *lebih rendah*, afek positif terhadap AI yang lebih rendah, dampak [[self-report-measures|pembelajaran yang dirasakan]] yang lebih rendah, dan disengagement terkait AI yang lebih rendah, dengan asosiasi terkuat pada rho = -0.395 untuk dampak pembelajaran yang dirasakan dan rho = -0.359 untuk afek positif. Respons terbuka mereka menggambarkan penggunaan yang selektif (klarifikasi, peringkasan, dukungan alur kerja), terverifikasi, dan ditundukkan pada penilaian mereka sendiri, dan hasil tingkat butir menunjukkan kesepakatan lebih besar bahwa ketergantungan pada AI menghambat [[critical-thinking|berpikir kritis]] dan [[problem-solving|pemecahan masalah]] mandiri. Penulis membaca ini sebagai kerja identitas: bagi siswa yang rasa dirinya sebagai pembelajar berhasil bertumpu pada usaha dan penilaian mereka sendiri, membatasi penggunaan AI membela [[agency|agensi epistemik]] tempat identitas itu bergantung — yang juga berarti pola ini bukan teknofobia dan bukan keterlibatan rendah.
 - **Tujuan yang dinyatakan tidak selalu mengatur keputusan AI.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] mewawancarai 14 mahasiswa sarjana dan mengodekan setiap wawancara untuk hubungan antara [[self-determination-theory|tujuan]] siswa — niat yang bermakna secara personal untuk berkontribusi melampaui diri sendiri — dan pilihan AI mereka. Hanya sebagian yang membuat koneksinya: satu menolak AI karena biaya lingkungan dan manusianya bertentangan dengan tujuannya, dan tiga membiarkan identitas profesional masa depan membentuk pilihan mereka ("berkontribusi pada psikolog yang akan menjadi saya di dunia nyata suatu hari"). Yang lain dengan rasa tujuan yang sama jelasnya tidak membuat kaitan semacam itu, menggambarkan tujuan dan AI sebagai "semacam terpisah," sehingga memiliki identitas untuk dilindungi tidak sama dengan menariknya. Makalah itu juga memisahkan alasan yang siswa berikan untuk menjaga karya tetap milik mereka sendiri — pengembangan keterampilan, [[evaluative-judgment|kepemilikan dan kebanggaan]], dan keberatan moral — yang datang melalui mekanisme berbeda dan tidak boleh digabungkan menjadi satu motif.
+
+- **Kapabilitas dapat tiba sebelum rasa memiliki.** Autoetnografi 73 hari atas seorang pendidik bioinformatika yang membangun permainan di domain yang asing menemukan bahwa [[generative-ai|GenAI]] memasok kapabilitas tetapi bukan identitas: rasa memiliki datang melalui partisipasi komunitas-praktik dan pembentukan makna berulang, dan mencapainya memerlukan laju khas manusia ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Penolakan juga merupakan kerja identitas: di antara lima peserta magang sekolah menengah dari kelompok minoritas ras, tidak menggunakannya AI menegaskan kendali, mematuhi aturan institusional, atau menandakan nilai epistemik, sementara respons AI yang netral menghasilkan "keflatan budaya" yang membiarkan pengalaman mereka tidak diakui ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Hubungan dengan agensi pembelajar
 

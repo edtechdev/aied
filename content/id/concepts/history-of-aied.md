@@ -6,15 +6,19 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/history-of-aied"
-source_updated: "2026-11-05T15:16:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [ai-education, intelligent-tutoring, constructivist, agency, personalized-learning, generative-ai, learning-theories, adaptive-learning, ai-literacy, creativity, teacher-role, ethics]
 connected_articles: [mishra-control-vs-agency-history-2025, prezenski-human-centered-ai-aided-learning, cognitive-commons-ai-expertise-regeneration, programming-its, lak2026-hint-button-unproductive-use, socrates-students-instructors-llms-lbt-2025, rismanchian-ai-education-four-decades-aixed-2026, wu-fifty-years-ai-reach-computers-education-2026]
@@ -72,16 +76,6 @@ Kedatangan [[generative-ai|AI generatif]] — keluarga luas yang mencakup [[llm|
 - **Timbang kendali terhadap agensi secara sengaja.** Apakah AI seharusnya mengoptimalkan ke arah hasil standar atau memungkinkan hasil beragam yang diarahkan pembelajar adalah pilihan sungguhan dengan konsekuensi institusional dan politis, bukan keniscayaan teknis.
 - **Peliharalah agensi pembelajar.** Perlawanan berulang terhadap standardisasi dan kendali demi pendekatan terbuka yang berpusat pada pembelajar adalah benang yang tahan lama dan layak dipertahankan.
 
-## Miskonsepsi Umum
-
-**"AI dalam pendidikan dimulai dengan ChatGPT."** Tidak, dan keyakinan itu mahal karena membuat setiap pelajaran sebelumnya tak terlihat. [[intelligent-tutoring|Tutoring cerdas]] berasal dari karya pencarian heuristik dan sistem pakar dekade 1960-an dan 70-an, dan komunitas AIED terbentuk di sekitarnya beberapa dekade sebelum [[llm|model bahasa besar]]. [[mishra-control-vs-agency-history-2025|Mishra dkk.]] menunjukkan debat sekarang mereproduksi perpecahan yang sudah eksplisit pada tutor kognitif Anderson dan konstruksionisme Papert, sehingga pembaca yang menentukan usia bidang ini pada 2022 akan menurunkan ulang argumen yang pernah diselesaikan, ditinggalkan, atau dikalahkan bidang ini sekali sebelumnya.
-
-**"Bidang ini mantap meninggalkan AI-sebagai-analogi demi alat terapan, dan AI generatif melanjutkan tren itu."** Ini adalah koreksi paling instruktif di halaman ini, karena lintasannya nyata tetapi tidak monoton. [[rismanchian-ai-education-four-decades-aixed-2026|Analisis posisional Rismanchian dan Doroudi]] atas AIED 1985, 1993, 2021 dan 2024 serta IJAIED 2004, 2014 dan 2021 memang menunjukkan pergeseran dari bidang yang beragam menuju instrumentalisasi terapan yang hampir eksklusif pada dekade 2000-an. Namun pada AIED 2024, tiga dari empat makalah di kuadran AI-sebagai-analogi berbasis LLM, termasuk makalah terbaik tentang agen yang dapat mengajar berbasis LLM. AI generatif sebagian **membalik** tren itu alih-alih melanjutkannya, itulah sebabnya memperlakukannya sebagai "tutor cerdas berikutnya" salah membaca ke mana batas penelitian sesungguhnya bergerak.
-
-**"Personalisasi berarti menyesuaikan tingkat kesulitan bagi setiap pembelajar."** Itu hanya satu dari dua makna yang tidak dapat didamaikan, dan mencampuradukkannya menyembunyikan pilihan politis. Dalam makna pertama hasilnya dijaga tetap dan hanya jalurnya yang bervariasi, dengan garis keturunan dari mesin pengajaran Skinner hingga tutoring berbasis penguasaan. Dalam makna kedua hasilnya sendiri terdiversifikasi, ketika pembelajar mengejar minat individual tanpa dibatasi kurikulum standar (Zhao, 2024). Sebuah [[intelligent-tutoring|ITS]] menerapkan yang pertama; [[constructivist|konstruksionisme]] yang kedua. Alat yang digambarkan "terpersonalisasi" belum memberi tahu Anda apa pun sampai Anda tahu makna mana yang dimaksud.
-
-**"'Kecerdasan artifisial' hanyalah nama yang jelas untuk bidang ini."** Istilah itu merupakan pilihan yang disengaja. Ketika McCarthy merencanakan proyek Dartmouth pada 1956 ia mengutamakan *kecerdasan artifisial* alih-alih *sibernetika* sebagian untuk menjauhkan karya itu dari tradisi umpan balik analog Wiener. Satu keputusan itu membingkai mesin dalam perbandingan langsung dengan kognisi manusia, dan pembingkaian antropomorfis yang ditanamkannya masih membentuk prioritas penelitian, bahasa produk, dan pertanyaan etis yang diajukan publik.
-
 ## Menerapkannya dalam Praktik
 
 **Bagi instruktur dan perancang instruksional**
@@ -99,3 +93,13 @@ Kedatangan [[generative-ai|AI generatif]] — keluarga luas yang mencakup [[llm|
 
 - Gunakan korpora historis sebagai garis dasar alih-alih memperlakukan masa kini sebagai satu-satunya pembanding yang tersedia. Prosiding AIED 1985, 1993, 2021 dan 2024 serta IJAIED 2004, 2014 dan 2021 adalah sampel longitudinal siap pakai atas klaim bidang ini sendiri.
 - Sebutkan garis keturunan ketika Anda mengklaim kebaruan. Klaim bahwa sebuah sistem "mempersonalisasi pembelajaran" atau "memodelkan pembelajar" hanya baru relatif terhadap tradisi sebelumnya yang spesifik, dan tradisi itu terdokumentasi.
+
+## Miskonsepsi Umum
+
+**"AI dalam pendidikan dimulai dengan ChatGPT."** Tidak, dan keyakinan itu mahal karena membuat setiap pelajaran sebelumnya tak terlihat. [[intelligent-tutoring|Tutoring cerdas]] berasal dari karya pencarian heuristik dan sistem pakar dekade 1960-an dan 70-an, dan komunitas AIED terbentuk di sekitarnya beberapa dekade sebelum [[llm|model bahasa besar]]. [[mishra-control-vs-agency-history-2025|Mishra dkk.]] menunjukkan debat sekarang mereproduksi perpecahan yang sudah eksplisit pada tutor kognitif Anderson dan konstruksionisme Papert, sehingga pembaca yang menentukan usia bidang ini pada 2022 akan menurunkan ulang argumen yang pernah diselesaikan, ditinggalkan, atau dikalahkan bidang ini sekali sebelumnya.
+
+**"Bidang ini mantap meninggalkan AI-sebagai-analogi demi alat terapan, dan AI generatif melanjutkan tren itu."** Ini adalah koreksi paling instruktif di halaman ini, karena lintasannya nyata tetapi tidak monoton. [[rismanchian-ai-education-four-decades-aixed-2026|Analisis posisional Rismanchian dan Doroudi]] atas AIED 1985, 1993, 2021 dan 2024 serta IJAIED 2004, 2014 dan 2021 memang menunjukkan pergeseran dari bidang yang beragam menuju instrumentalisasi terapan yang hampir eksklusif pada dekade 2000-an. Namun pada AIED 2024, tiga dari empat makalah di kuadran AI-sebagai-analogi berbasis LLM, termasuk makalah terbaik tentang agen yang dapat mengajar berbasis LLM. AI generatif sebagian **membalik** tren itu alih-alih melanjutkannya, itulah sebabnya memperlakukannya sebagai "tutor cerdas berikutnya" salah membaca ke mana batas penelitian sesungguhnya bergerak.
+
+**"Personalisasi berarti menyesuaikan tingkat kesulitan bagi setiap pembelajar."** Itu hanya satu dari dua makna yang tidak dapat didamaikan, dan mencampuradukkannya menyembunyikan pilihan politis. Dalam makna pertama hasilnya dijaga tetap dan hanya jalurnya yang bervariasi, dengan garis keturunan dari mesin pengajaran Skinner hingga tutoring berbasis penguasaan. Dalam makna kedua hasilnya sendiri terdiversifikasi, ketika pembelajar mengejar minat individual tanpa dibatasi kurikulum standar (Zhao, 2024). Sebuah [[intelligent-tutoring|ITS]] menerapkan yang pertama; [[constructivist|konstruksionisme]] yang kedua. Alat yang digambarkan "terpersonalisasi" belum memberi tahu Anda apa pun sampai Anda tahu makna mana yang dimaksud.
+
+**"'Kecerdasan artifisial' hanyalah nama yang jelas untuk bidang ini."** Istilah itu merupakan pilihan yang disengaja. Ketika McCarthy merencanakan proyek Dartmouth pada 1956 ia mengutamakan *kecerdasan artifisial* alih-alih *sibernetika* sebagian untuk menjauhkan karya itu dari tradisi umpan balik analog Wiener. Satu keputusan itu membingkai mesin dalam perbandingan langsung dengan kognisi manusia, dan pembingkaian antropomorfis yang ditanamkannya masih membentuk prioritas penelitian, bahasa produk, dan pertanyaan etis yang diajukan publik.

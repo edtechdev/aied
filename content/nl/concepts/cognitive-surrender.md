@@ -13,13 +13,17 @@ confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
 source_updated: "2026-11-14T08:32:58-05:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
@@ -31,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Vragen om over na te denken
 
-1. Als een student een AI-antwoord accepteert dat toevallig juist is, is de les dan geslaagd? Wat zou waar moeten zijn wil de acceptatie zelf het punt zijn dat ertoe deed?
-2. Verschilt een gekalibreerde delegator die de eigen grenzen kent in soort van een student die het simpelweg niet kan zien? Hoe zou [[teacher-role|een docent]] het verschil in één werkstuk herkennen?
-3. Als het vertrouwen stijgt terwijl de nauwkeurigheid daalt, zoals gebeurt wanneer AI-advies beschikbaar is, wat doet dat dan met de eigen foutdetectie van de leerling?
-4. Waar is verificatie aan te leren, en waar is ze een werklastprobleem voor [[educational-policy-ai|beleid]]? Welke delen van een [[curriculum-design|curriculum]] zouden moeten veranderen wil controleren de norm zijn in plaats van de uitzondering?
-5. Zouden instellingen overgave überhaupt moeten meten, of lokt meten hetzelfde toezicht uit waar [[ai-use-disclosure|declaratieregels]] mee worstelen?
-6. Hoe zou een taak eruitzien die een student beloont voor het overrulen van een fout AI-antwoord in plaats van voor het produceren van een gepolijst antwoord?
+- Als een student een AI-antwoord accepteert dat toevallig juist is, is de les dan geslaagd? Wat zou waar moeten zijn wil de acceptatie zelf het punt zijn dat ertoe deed?
+- Verschilt een gekalibreerde delegator die de eigen grenzen kent in soort van een student die het simpelweg niet kan zien? Hoe zou [[teacher-role|een docent]] het verschil in één werkstuk herkennen?
+- Als het vertrouwen stijgt terwijl de nauwkeurigheid daalt, zoals gebeurt wanneer AI-advies beschikbaar is, wat doet dat dan met de eigen foutdetectie van de leerling?
+- Waar is verificatie aan te leren, en waar is ze een werklastprobleem voor beleid? Welke delen van een [[curriculum-design|curriculum]] zouden moeten veranderen wil controleren de norm zijn in plaats van de uitzondering?
+- Zouden instellingen overgave überhaupt moeten meten, of lokt meten hetzelfde toezicht uit waar [[ai-use-disclosure|declaratieregels]] mee worstelen?
+- Hoe zou een taak eruitzien die een student beloont voor het overrulen van een fout AI-antwoord in plaats van voor het produceren van een gepolijst antwoord?
 
 ## Introductie
 

@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T10:14:50-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-08"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Ander werk breidt bestaande theorie uit naar de AI-context in plaats van nieuwe 
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin en Chang (2026)]] breiden [[self-regulated-learning]] en mens-AI-regulatie uit door te benoemen wat de lerende bestuurt — standaarden, [[evaluative-judgment|evaluatieve oordelen]] en controleautorisatie — in plaats van alleen wat de AI doet.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai en Flenady (2026)]] importeren Honneths en Brandoms erkenning in de feedbacktheorie, en betogen dat wederzijdse toekenning van status, niet informatiekwaliteit, het commentaar tot een reden maakt om te handelen.
+
 De wrijvingsparadox biedt een andere uitbreiding van gevestigde theorie: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] past Bjork en Bjorks [[desirable-difficulties|wenselijke moeilijkheden]] en Kapurs [[productive-failure|productief falen]] toe op relationele ontmoetingen in onderwijs in het buitenland, en betoogt dat van belang is hoeveel interpretatieve agency een student aan een generatieve assistent [[transfer-of-learning|overdraagt]] in plaats van hoe vaak die wordt gebruikt. Het kader is conceptueel en formuleert vijf proposities als concurrerende hypothesen.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] brengen de functionele taxonomie van Zawacki-Richter et al. (2019) vooruit: van de 154 publicaties met een classificeerbare toepassingsfunctie ontsnapten er 90 (58,4%) aan de vier categorieën, en hun kader kruist functie met gedelegeerde controle, epistemische positie en ingebedde pedagogiek.
@@ -93,15 +99,7 @@ Het theoretiseren van het veld is ongelijkmatig. [[limitations-in-aied-research|
 
 ## Relatie tot de filosofie van AI in het onderwijs
 
-Theorieontwikkeling en [[philosophy-of-ai-in-education|de filosofie van AI in het onderwijs]] zijn complementaire maar afzonderlijke stromingen in het fundamentele werk van de kennisbank. **Theorieontwikkeling** produceert en toetst empirisch de *mechanismen* van leren-met-AI — benoemde theorieën en kaders zoals generativisme, epistemische co-agency en de afwezige cognitieve basislijn die verklaren en voorspellen hoe leerlingen en AI op elkaar inwerken. **Filosofie** ondervraagt de *vooronderstellingen* waarop die mechanismen rusten: wat als kennis telt, wie als kenner telt, en wat de lerende fundamenteel is. Een theorie als [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemische co-agency]] stelt een mechanisme voor terwijl zij impliciet filosofische commitments over gedistribueerde cognitie en [[agency]] aanvaardt; filosofie maakt die commitments expliciet en betwistbaar. Waar theorieontwikkeling vraagt of een kader leren goed verklaart, vraagt filosofie of het vangt wat leren en geest werkelijk zijn — de twee stromingen ontmoeten elkaar in de meest fundamentele artikelen van het veld, die vaak beide tegelijk doen.
-
-## Veelvoorkomende misverstanden
-
-**„De bevinding dat de tool werkte is een theoretische bijdrage."** Dat is het niet, en de reden is structureel. Waar de proposities van een kader *verschillen tussen configuraties* voorspellen, kan een studie die alleen een gemiddeld effect rapporteert **die niet bevestigen of weerleggen** — het ontwerp kan het onderscheid waar de theorie over gaat niet zien. Een trial die een gemiddelde winst toont, vertelt u dat er iets gebeurde, niet welk mechanisme het veroorzaakte, dus de theorie blijft precies zo ondersteund als zij was.
-
-**„Een gevestigde theorie op AI toepassen is theorieontwikkeling."** Het theoriegebruikprobleem van de pagina zelf zegt het tegendeel: toepassing is geen vooruitgang, en het terugkerende patroon van het veld is geleende constructen die als vocabulaire worden gebruikt in plaats van als toetsbare voorspellingen. Het onderscheid doet ertoe omdat een geleend kader dat geen falsifieerbaar verschil kan genereren decoratie is, geen theorie.
-
-**„De bestaande taxonomieën van de pedagogische functie van AI dekken al wat deze systemen doen."** Zij dekken er veel van niet. Van de 154 publicaties met een classificeerbare toepassingsfunctie **ontsnapten er 90 (58,4%) aan de vier categorieën** van het eerdere kader, en daarom kruist het nieuwere werk functie met gedelegeerde controle, epistemische positie en ingebedde pedagogiek. Een taxonomie die bijna drie op de vijf gevallen verkeerd classificeert, kan niet als gemeenschappelijk vocabulaire van het veld dienen, en de kloof is een bevinding over het fenomeen in plaats van een kloof in een artikel.
+Theorieontwikkeling en [[philosophy-of-ai-in-education|de filosofie van AI in het onderwijs]] zijn complementaire maar afzonderlijke stromingen in het fundamentele werk van de kennisbank. **Theorieontwikkeling** produceert en toetst empirisch de *mechanismen* van leren-met-AI — benoemde theorieën en kaders zoals generativisme, epistemische co-agency en de afwezige cognitieve basislijn die verklaren en voorspellen hoe leerlingen en AI op elkaar inwerken. **Filosofie** ondervraagt de *vooronderstellingen* waarop die mechanismen rusten: wat als kennis telt, wie als kenner telt, en wat de lerende fundamenteel is. Een theorie als [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|epistemische co-agency]] stelt een mechanisme voor terwijl zij impliciet filosofische commitments over gedistribueerde cognitie en [[agency]] aanvaardt; filosofie maakt die commitments expliciet en betwistbaar. Waar theorieontwikkeling vraagt of een kader leren goed verklaart, vraagt filosofie of het vangt wat leren en geest werkelijk zijn — de twee stromingen ontmoeten elkaar in de meest fundamentele artikelen van het veld, die vaak beide tegelijk doen. Wat de critici van het veld zeggen over de richtingen die deze theorieën openen of sluiten, is een aparte vraag, ondergebracht onder [[critiques-of-ai-in-education|Kritieken op AI in het onderwijs]].
 
 ## Implicaties voor de praktijk
 
@@ -120,3 +118,11 @@ Theorieontwikkeling en [[philosophy-of-ai-in-education|de filosofie van AI in he
 
 - Ontwerp op configuratiecontrasten als u een theoretische bijdrage beoogt. Een trial met een gemiddeld effect die als theorieontwikkeling wordt gepubliceerd, is de meest voorkomende en minst nuttige opbrengst van het veld.
 - Voeg expliciete falsifieerbare proposities toe aan elk kader dat u introduceert, en rapporteer welke configuratieverschillen ze zouden hebben weerlegd.
+
+## Veelvoorkomende misverstanden
+
+**„De bevinding dat de tool werkte is een theoretische bijdrage."** Dat is het niet, en de reden is structureel. Waar de proposities van een kader *verschillen tussen configuraties* voorspellen, kan een studie die alleen een gemiddeld effect rapporteert **die niet bevestigen of weerleggen** — het ontwerp kan het onderscheid waar de theorie over gaat niet zien. Een trial die een gemiddelde winst toont, vertelt u dat er iets gebeurde, niet welk mechanisme het veroorzaakte, dus de theorie blijft precies zo ondersteund als zij was.
+
+**„Een gevestigde theorie op AI toepassen is theorieontwikkeling."** Het theoriegebruikprobleem van de pagina zelf zegt het tegendeel: toepassing is geen vooruitgang, en het terugkerende patroon van het veld is geleende constructen die als vocabulaire worden gebruikt in plaats van als toetsbare voorspellingen. Het onderscheid doet ertoe omdat een geleend kader dat geen falsifieerbaar verschil kan genereren decoratie is, geen theorie.
+
+**„De bestaande taxonomieën van de pedagogische functie van AI dekken al wat deze systemen doen."** Zij dekken er veel van niet. Van de 154 publicaties met een classificeerbare toepassingsfunctie **ontsnapten er 90 (58,4%) aan de vier categorieën** van het eerdere kader, en daarom kruist het nieuwere werk functie met gedelegeerde controle, epistemische positie en ingebedde pedagogiek. Een taxonomie die bijna drie op de vijf gevallen verkeerd classificeert, kan niet als gemeenschappelijk vocabulaire van het veld dienen, en de kloof is een bevinding over het fenomeen in plaats van een kloof in een artikel.

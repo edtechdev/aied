@@ -7,12 +7,16 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/computational-thinking"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -36,7 +40,7 @@ connected_articles: [ai-pbl-computational-thinking-2026, computational-thinking-
 
 ## Pendahuluan
 
-### CT di ruang kelas era AI
+## CT di ruang kelas era AI
 
 Artikel-artikel terkait dalam basis pengetahuan ini bertemu pada satu klaim sentral: berpikir komputasional (CT) adalah landasan konseptual yang dibutuhkan siswa untuk terlibat secara kritis dengan AI, dan sekaligus keterampilan yang paling langsung diperdalam oleh pembelajaran berbantuan AI yang dirancang dengan baik. Bukti di bawah ini dikelompokkan ke dalam empat tema yang bersandar pada artikel-artikel yang tertaut.
 
@@ -52,8 +56,22 @@ Kompetensi yang tahan lama bergeser begitu implementasi diotomatiskan: sebuah la
 - **CT di seluruh K-12, pendidikan guru, dan desain ulang penilaian.** CT membentang di seluruh spektrum [[k-12]] hingga [[higher-ed]] dan sedang membentuk ulang penilaian. Di ujung usia dini, AI-Play memperluas CT dan literasi AI ke pembelajar Pre-K–K2 dan keluarga nonteknis; di ujung universitas, [[genai-oop-programming-assessments-2026|studi penilaian OOP]] menemukan bahwa sistem GenAI 2026 mengungguli mahasiswa rata-rata pada ujian pemrograman autentik namun tetap gagal pada antarmuka, kelas abstrak, dan pewarisan — celah konseptual berulang yang justru menandai di mana CT masih sulit diotomatiskan. [[solving-vs-evaluating-genai-solutions|Sebuah studi crossover A/B teracak]] menunjukkan bahwa tugas evaluasi dan kritik menghasilkan luaran yang sebanding dengan generasi, yang mengesankan bahwa CT dapat dilatih melalui penilaian atas solusi AI yang cacat, meskipun perolehannya memerlukan perancah yang disengaja. Yang mendasari semua ini adalah guru: studi microbit menghubungkan pengajaran CT secara langsung dengan [[teacher-education]], dan [[hashmi-socratic-physics-chatbot-2025|riset chatbot Sokratik]] mengaitkan perumusan masalah yang presisi — yang dituntut CT — dengan kinerja kursus yang terukur.
 
 - **Instrumen tervalidasi menemukan di mana CT paling sulit.** Sebuah tes berpikir komputasional 34 butir yang dibangun dengan Evidence-Centered Design dan divalidasi dengan teori respons butir pada 461 siswa pemrograman AI memusatkan kesulitan pada representasi data, pengurutan operator logika, dan struktur loop alih-alih menyebarnya secara merata di seluruh silabus ([[zhang-ct-ai-training-test-2026|Zhang & Zhang (2026)]]).
+- Pilihan pengukuran mengubah vonis: entri berpikir komputasional dan berpikir kritis mencapai kesimpulan yang tidak sejalan atau bercampur pada 13 dari 23 pasangan konstruk-sama, sehingga survei CT laporan diri dan ukuran berbasis tugas sering tidak sepakat ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al., 2026]]).
+- Berpikir komputasional juga diukur sebagai disposisi: dalam studi permainan tiga minggu pada kelas lima, kecenderungan CT yang dilaporkan sendiri dan teradjust mendukung kelas GenAI, 4,325 berbanding 4,037 (p = 0,046, partial eta-squared = 0,052, n = 78). Tes pengetahuan algoritmik tidak memisahkan keduanya (80,7 vs 74,9), sehingga ukuran kecenderungan dan pengetahuan melacak konstruk yang berbeda ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
-### CT dan pergeseran dari konsumen AI menjadi produsen, kreator, dan perancang
+Profil sub-keterampilan memperumit skor CT tunggal yang dilaporkan desain pra-pasca. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij dan Khlaisang (2026)]] menjalankan 28 mahasiswa Thailand di luar bidang komputasi selama delapan minggu sesi tiga jam yang memasangkan siklus [[design-thinking|design-thinking]] lima langkah dengan pembuatan aplikasi low-code, menilai kerja proyek pada [[rubrics|rubrik]] tiga titik. Rata-rata berpikir komputasional naik dari 1,13 pada sesi pertama menjadi 1,80 lalu 2,49, dengan berpikir algoritmik sebagai untaian terkuat pada 2,08 dan lintasan 1,46 ke 1,93 ke 2,86. Berpikir logis rata-rata 1,54 dan nyaris tidak bergerak antara dua sesi pertama, 1,04 ke 1,29, sebelum mencapai 2,29 pada yang ketiga - pengingat bahwa perolehan pada satu komponen tidak menyiratkan komponen lain mengikutinya.
+
+## Berpikir sistem sebagai praktik CT
+
+Berpikir sistem adalah salah satu dari empat domain taksonomi berpikir komputasional untuk matematika dan sains yang dikembangkan Weintrop dan rekan, di samping Data Practices, Computational Problem-Solving Practices, dan Modeling and Simulation Practices. Definisinya presisi: **kemampuan menentukan batas-batas sistem dan mensintesis interaksi tingkat-mikro menjadi perilaku tingkat-makro**. Itu adalah kapasitas kognitif tingkat-pembelajar - cara menalar tentang suatu sistem - dan berbeda dari sikap tingkat-lingkungan yang memperlakukan [[learning-environments-as-systems|lingkungan pembelajaran sebagai sistem]].
+
+Ini juga domain tempat penilaian paling dulu runtuh. [[llm-computational-thinking-physics-2026|Savage, Shanker, Michlitsch dan Rebello (2026)]] mengkode 936 penjelasan tertulis siswa dalam kursus fisika komputasional pengantar terhadap taksonomi itu, mengkalibrasi garis dasar manusia pada 10 siswa (60 respons, Fleiss' κ = 0,53) lalu mengkode 50 siswa (300 respons) dengan suara mayoritas. Siswa paling tumbuh pada Data Practices (p < 0,001, d = 1,03), dengan perolehan moderat pada Computational Problem-Solving (d = 0,52) dan Systems Thinking (d = 0,45). Tetapi Systems Thinking adalah konstruk paling tidak reliabel *baik* untuk manusia maupun model: kesepakatan manusia κ = 0,51 dan LLM κ = 0,48, melawan κ = 0,90 untuk Data Practices dan κ = 0,78 untuk Modeling and Simulation. Pembacaan para penulis adalah bahwa kesulitan itu berasal dari kompleksitas konstruk alih-alih kekurangan model - konstruk multi-komponen yang meminta siswa mengidentifikasi komponen *dan* menjelaskan interaksi serta konsekuensinya lebih sulit dikode daripada konstruk yang terdefinisi baik. Modeling and Simulation menunjukkan d = 0,00 karena alasan yang tidak terkait, efek plafon: rata-rata sebelum instruksi sudah 1,62 dari 2, sehingga butir itu mengukur pengetahuan awal alih-alih pertumbuhan.
+
+Implikasi praktisnya adalah masalah desain rubrik, bukan masalah model. Rekomendasi mereka adalah menulis ulang rubrik sehingga mengidentifikasi komponen sistem dinilai terpisah dari menjelaskan bagaimana komponen-komponen itu berinteraksi, dan membaca kesepakatan otomatis yang rendah pada konstruk terintegrasi sebagai sinyal untuk merevisi instrumen alih-alih meninggalkan otomatisasi. Itulah langkah yang sama yang dicapai penelitian [[rubrics|rubrik]] dari sisi penilaian: instrumen, bukan model, yang melakukan kalibrasi.
+
+Konstruk itu merambat melampaui fisika. [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz dan Castro Samayoa (2026)]] menyebut berpikir sistem sebagai salah satu kapasitas yang oleh Aoun disebut *robot-proof* - berpikir kritis, berpikir sistem, dan kelincahan budaya - yang dibangun praktik dan tidak dihasilkan delegasi. [[huang-ai-literacy-vocational-problem-solving-2026|Huang dan rekan (2026)]] membatasi konstruk "berpikir sistematis" mereka sendiri terhadapnya, memperlakukan konstruk mereka sebagai ukuran empat dimensi sempit (penyusunan, penalaran, prioritas, integrasi) dan secara eksplisit menolak menyebutnya berpikir sistem dalam arti luas. Dan [[gutierrez-genai-pedagogical-agent-esd-scoping-review-2026|Gutierrez, Govea dan Valencia-Silva (2026)]] memperingatkan bahwa keterlibatan bukan berpikir sistem - pembedaan yang penting ketika sebuah rubrik dipakai untuk mensertifikasi kompetensi yang tidak ditulis untuk mengukurnya.
+
+## CT dan pergeseran dari konsumen AI menjadi produsen, kreator, dan perancang
 
 Salah satu tujuan sentral CT di era AI adalah menggerakkan siswa dan instruktur melampaui *konsumsi pasif* keluaran AI menuju *menciptakan, membangun, dan merancang* dengan dan untuk AI — sebuah agenda yang menyelaraskan CT dengan [[constructivist|pembelajaran konstruksionis]] (belajar dengan membuat). Artikel-artikel terkait dalam basis pengetahuan ini makin membuat belokan produsen/kreator/perancang itu eksplisit. [[ai-writes-code-student-writes-model-2026|Riset kepenulisan model]] merumuskan ulang belajar-dengan-membangun bersama GenAI sebagai proses "kepenulisan model" yang terukur — siswa menulis, melakukan debugging, dan mengiterasi model AI alih-alih sekadar mengonsumsi kode atau jawaban yang dihasilkan AI. [[code-to-learn-genai-artifact-construction-2026|Kerangka CtL-GenAI]] mengoperasionalkan hal ini sebagai konstruksionisme untuk era GenAI, memperlakukan artefak yang dibangun siswa dengan AI sebagai mesin perkembangan CT. [[computational-thinking-ai-agent-creation|CT melalui pembuatan agen AI]] menunjukkan bahwa merancang, bukan sekadar menggunakan, agen AI melatih dekomposisi, abstraksi, dan penalaran algoritmik secara langsung.
 
@@ -63,11 +81,11 @@ Imbas praktisnya adalah bahwa pengajaran CT harus dirancang agar pembelajar *mem
 
 Menggunakan kembali model milik orang lain termasuk dalam sikap produsen: mengimplementasikan model AI yang telah diterbitkan — memilih, memasang, menjalankan, dan memvalidasinya — dapat diajarkan sebagai keterampilan terstruktur yang dapat dipelajari dengan jalur cadangan untuk setiap kegagalan yang diperkirakan, dan tiga mahasiswa sarjana [[chemistry-education|kimia]] tanpa latar pemrograman mereproduksi serta memperluas model prediksi substrat enzim dalam empat bulan ([[praise-non-programmer-ai-model-implementation-2026|Achterweust et al. (2026)]]).
 
-### Panduan praktis
+## Panduan praktis
 
 Bagi pendidik, pesan yang konsisten adalah bahwa CT dikembangkan melalui keterlibatan yang *eksplisit, terancah, dan teramati* alih-alih penggunaan AI yang pasif. Padukan robotika dengan pemetaan konsep CT yang eksplisit ke kurikulum; gunakan LLM untuk [[simulation]], kendali bahasa alami, dan penilaian pertumbuhan CT yang dapat diskalakan sambil menyisakan pertimbangan manusia untuk konstruk seperti Berpikir Sistem; dan rancang ulang penilaian agar menekankan evaluasi dan diagnosis keluaran AI alih-alih generasi mentah. Apa pun latarnya — permainan tanpa layar di usia dini, robot di [[stem-education]] sekolah menengah, atau Virtual Tutor di [[higher-ed]] — strukturlah aktivitasnya agar siswa harus bernalar tentang dekomposisi, pola, abstraksi, dan algoritma alih-alih menerima solusi yang sudah jadi.
 
-### Kaitan dengan konsep terkait
+## Kaitan dengan konsep terkait
 
 Berpikir komputasional adalah fondasi kognitif bersama di bawah [[ai-literacy]] dan [[critical-thinking]], inti kurikuler komputasi dalam [[cs-education]] dan [[k-12]], serta sasaran konseptual yang paling tepat dilayani oleh [[educational-robotics]], [[game-based-learning]], dan [[project-based-learning]]. CT diperdalam oleh [[llm|model bahasa besar]] dan [[generative-ai]] ketika keduanya digunakan sebagai alat perancah, dan ia adalah keterampilan yang hendak diukur oleh taksonomi miskonsepsi siswa serta penilaian yang peka CT. Guru mengembangkannya melalui [[teacher-education]] dan [[professional-training]], dan CT dapat dialihkan lintas domain termasuk [[physics-education]] dan [[stem-education|STEM]] secara luas.
 

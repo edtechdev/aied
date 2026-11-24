@@ -9,12 +9,16 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/critical-thinking"
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -41,7 +45,7 @@ Berpikir kritis adalah pusat [[ai-literacy]] — siswa yang tidak dapat mengeval
 
 Kendali dialog terstruktur, bukan prompt yang lebih baik, adalah yang membedakan tutor kesalahan penalaran dari chatbot debat: mengarahkan setiap giliran melalui deteksi niat berbasis Toulmin, urutan strategi tetap, dan agen pemverifikasi memungkinkan satu sistem Sokratis melewati 84.5% metrik kualitas dialog berbanding 61.5% untuk baseline heuristik ([[lftutor-logical-fallacy-education-2026|Shi et al. (2026)]]).
 
-### Berpikir kritis dalam penelitian pendidikan AI
+## Berpikir kritis dalam penelitian pendidikan AI
 
 Artikel-artikel dalam basis pengetahuan mengeksplorasi berpikir kritis melalui lensa [[design-based-research|berbasis desain]] dan empiris. [[ai-agents-constructive-conflict-design-education-2026|Agen AI adversarial]] menerapkan konflik konstruktif untuk mendorong pertimbangan ulang pada desainer pemula — varian Sokratis yang memaksa evaluasi ulang secara kritis. [[genai-can-harm-teaching-rct-2026|Penelitian RCT tentang GenAI dalam pengajaran]] memunculkan pertanyaan apakah alat AI yang mengoptimalkan hasil tingkat permukaan mungkin secara tidak sengaja menekan berpikir kritis yang mengarah pada pembelajaran lebih mendalam. Bukti terukur mempertajam poin ini: apakah berpikir kritis bergerak bergantung pada bagaimana umpan balik dan tugas yang dimediasi AI dirancang, dan pada regulasi [[metacognition|metakognitif]] pembelajar, bukan pada akses ke model.
 
@@ -78,13 +82,20 @@ Survei lintas-seksional yang lebih besar menunjuk arah sebaliknya: di antara 1,1
 - **Umpan balik ChatGPT yang dikurasi guru menaikkan berpikir kritis melalui revisi tingkat tinggi.** Chen dan rekan (2026) menjalankan kuasi-eksperimen 18 minggu dengan 64 mahasiswa sarjana, semuanya calon guru kimia, fisika, atau matematika, membandingkan umpan balik guru konvensional (n = 32) dengan umpan balik guru berbantuan ChatGPT (n = 32) pada dua tugas menulis argumentatif. Kedua kelompok mulai setara, dan hanya kelompok berbantuan yang meningkat secara signifikan (p < 0.001), dengan Cohen's *d* naik dari 0.25 pada pretest menjadi 3.74 pada posttest. Mekanismenya adalah jenis umpan balik, bukan sekadar kehadiran model: kelompok berbantuan menerima lebih banyak umpan balik demonstrasi (33.1% vs. 10.9%) dan pertanyaan yang mendalam (21.5% vs. 6.0%), merevisi 91.00% (435 dari 478) unit umpan balik berbanding 85.21% (242 dari 284), dan [[network-analysis|analisis jaringan epistemik]] mengaitkan revisi tersebut dengan analisis, evaluasi, dan penciptaan alih-alih pengenalan dan pemahaman, sementara pengajaran dan umpan balik evaluasi dari guru saja sebagian besar menghasilkan revisi pengenalan dan pemahaman. Guru memperlakukan keluaran model sebagai bahan draf, memperluas, merevisi, atau membuangnya (14% dibuang, 9% perlu dikoreksi), dan enam dari delapan narasumber tetap menandai ketidakpresisian atau ketidakprofesionalan. Pelajaran desainnya adalah bahwa keuntungan berpikir kritis berasal dari umpan balik yang memodelkan alternatif dan menginterogasi penalaran siswa, dengan seorang [[teacher-role|guru]] yang mengurasi apa yang dihasilkan model; sampel kecil yang hanya satu semester berarti ukuran efek yang sangat besar itu harus dibaca dengan hati-hati. ([[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026|Chen et al. 2026]])
 
 - **Satu semester akses AI membiarkan berpikir kritis datar, sementara penggunaan reflektif mengikutinya.** Melanou, Beege dan Kimmig (2026) mengikuti 87 mahasiswa informatika bisnis melalui kursus sembilan minggu dalam tiga kondisi paralel (AI berbingkai tutor, AI tanpa panduan, dan tanpa AI) yang diukur tiga kali. Pengetahuan naik di setiap kelompok tanpa keuntungan bagi kedua kondisi AI dan tanpa efek Matthew (BF01 = 8.70), sementara berpikir kritis yang dilaporkan sendiri dan [[motivation|motivasi]] tetap stabil. Yang membedakan siswa adalah penggunaan reflektif, yaitu praktik memeriksa sumber dan memverifikasi keluaran AI sebelum mengadopsinya: praktik ini lebih tinggi pada kondisi AI daripada kelompok kontrol (rata-rata 3.72 vs. 2.82) dan memprediksi berpikir kritis pada pengukuran akhir (R² = 0.183, β = 0.43, p < 0.001). Hasil ini membatasi ekspektasi bahwa suatu mata kuliah yang menggunakan AI akan menggerakkan berpikir kritis dengan sendirinya: regulasi [[metacognition|metakognitif]], bukan akses alat, adalah tempat asosiasinya berada, dan para penulis mencatat satu semester kemungkinan terlalu singkat untuk melihat perubahan yang bertahan. ([[melanou-genai-learning-dynamics-longitudinal-2026|Melanou et al. 2026]])
+- **Penilaian bergerak; deduksi formal tidak.** Umpan balik AI empat fase menaikkan Evaluation of Arguments sebesar 1,74 poin teradjust sementara Deduction bergerak 0,30 (p = 0,383), menempatkan keuntungan pada menilai klaim alih-alih logika formal ([[structured-genai-feedback-critical-thinking-data-science-2026|Yin et al., 2026]]).
 
-### Koneksi ke konsep lain
+- **Penalaran daring dapat diukur dari perilaku pencarian, dan terbelah menjadi dua.** Di antara 459 mahasiswa tahun pertama dengan log yang dapat dianalisis saat mencari di web terbuka, [[illmann-gen-cor-log-data-indicators-2026|Illmann et al. (2026)]] menemukan bahwa formulasi kueri dan inspeksi halaman hasil membentuk faktor terpisah yang tak berkorelasi, sehingga satu skor akuisisi salah menggambarkan konstruknya.
+
+[[lara-nieto-critical-thinking-ai-scale-2026|Lara Nieto-Márquez et al. (2026)]] menyediakan ukuran khusus pertama untuk berpikir kritis dengan AI dan menemukan tiga domain yang diusulkannya tumpang-tindih terlalu berat untuk dipisahkan: korelasi laten sangat tinggi, average variance extracted jatuh di bawah korelasi kuadrat, dan kriteria validitas diskriminan tidak terpenuhi untuk faktor mana pun. Skor totalnya reliabel, tetapi dimensinya tetap provisoris.
+
+## Koneksi ke konsep lain
 
 Berpikir kritis bersinggungan dengan [[scaffolding]] (merancang dukungan AI yang mempertahankan tuntutan kognitif), [[prompt-engineering]] (merumuskan pertanyaan yang memancing analisis kritis), dan [[cognitive-offloading|Ketergantungan Berlebih]] (mengetahui kapan harus percaya dan kapan harus mempertanyakan AI). Ini mendasar bagi [[academic-integrity]] dan berfungsi sebagai dimensi kunci kerangka [[ai-literacy]] baik dalam konteks [[k-12]] maupun [[higher-ed]].
 
 - **Kesalahan AI sebagai provokasi bagi berpikir tingkat tinggi:** [[pedagogy-ai-mistakes|Hosseini (2026)]] mengoperasionalkan tingkat higher-order Bloom (Analyze, Evaluate, Create) dengan meminta siswa menginterogasi kesalahan yang dihasilkan AI dalam mata kuliah basis data, dengan keuntungan pra/pasca yang signifikan (Cohen's *d*=1.49) dalam kompetensi materi pelajaran.
-- **Kritik terhadap keluaran AI adalah keterampilan yang dapat dirancah, bukan produk sampingan pemecahan masalah.** Kelompok yang hanya memecahkan masalah fisika terkait menerima solusi AI yang rapi atau mengkritiknya dari [[misconceptions|miskonsepsi]] mereka sendiri, sedangkan refleksi terpandu rubrik MAPS menghasilkan kritik yang selaras dengan ahli terhadap integrasi yang hilang dan notasi yang tidak terdefinisi ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+- **Kritik terhadap keluaran AI adalah keterampilan yang dapat dirancah, bukan produk sampingan pemecahan masalah.** Kelompok yang hanya memecahkan masalah fisika terkait menerima solusi AI yang rapi atau mengkritiknya dari [[misconceptions|miskonsepsi]] mereka sendiri, sedangkan refleksi terpandu [[rubrics|rubrik]] MAPS menghasilkan kritik yang selaras dengan ahli terhadap integrasi yang hilang dan notasi yang tidak terdefinisi ([[probing-ai-generated-physics-solutions-2026|Borse et al. (2026)]]).
+
+- **Kritik dapat dipinjam dari penilaian diri AI.** Duabelas calon guru yang membandingkan model penggunaan air mereka dengan model ChatGPT-4o menghasilkan kritik yang cocok dengan kelemahan yang telah disebut AI tentang dirinya sendiri, dan tidak ada yang memperhatikan inkonsistensi komputasional yang masih tertinggal di keluarannya - hasil yang dipoles dapat dikagumi tanpa diverifikasi ([[cetin-ai-comparative-reflection-modelling-2026|Çetin dan Bilgili, 2026]]).
 
 - **Batasi AI untuk mempertahankan agensi kognitif.** Cetak biru E3-HOT memetakan tiga jalur [[embodied-learning|berwujud]] — penyematan situasional, partisipasi berwujud, penciptaan kognitif — ke Analyze, Evaluate, dan Create, dan membatasi AI pada prompt, kritik, dan saran strategi sehingga siswa harus mengartikulasikan alasan dan mengutip bukti sebelum suatu klaim diterima ([[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]]).
 
@@ -106,3 +117,9 @@ Berpikir kritis bersinggungan dengan [[scaffolding]] (merancang dukungan AI yang
 - **"Prompt yang lebih baik menghasilkan berpikir kritis yang lebih baik."** **Kendali dialog terstruktur, bukan prompt yang lebih baik**, yang membedakan tutor kesalahan penalaran dari chatbot debat: mengarahkan setiap giliran melalui **deteksi niat berbasis Toulmin** yang melakukan pekerjaannya. Mekanismenya adalah struktur interaksi, bukan pilihan kata.
 - **"Penggunaan GenAI menaikkan berpikir kritis secara langsung."** Kaitan penggunaan GenAI dengan berpikir kritis **yang dilaporkan sendiri** berjalan **hampir seluruhnya melalui [[feedback-literacy|literasi umpan balik]] GenAI** — pada **421 mahasiswa sarjana Tiongkok**, literasi umpan balik memediasi **71%** dari asosiasi itu. Literasi adalah jalurnya.
 - **"Efek meta-analitik itu seragam."** Di **29 eksperimen**, GenAI menaikkan berpikir tingkat tinggi secara moderat (**g = 0.609**) dengan berpikir kritis pada **ES = 0.691**. Efek gabungan yang moderat atas intervensi yang heterogen mendukung kategori, bukan desain tertentu.
+
+## Dua jalur, satu efek bersih
+
+Apakah penggunaan AI membantu atau merugikan [[critical-thinking|berpikir kritis]] bergantung pada mekanisme mana yang diukur. Model persamaan struktural meta-analitik 2026 yang menggabungkan 31 studi dan 16.357 pembelajar menemukan **dua jalur tidak langsung dengan ukuran hampir sama yang berjalan ke arah berlawanan**: penggunaan AI menaikkan ketergantungan, yang menurunkan berpikir kritis (β = −0,212), dan menaikkan [[motivation|motivasi belajar]], yang menaikkan berpikir kritis (β = +0,217). Kedua jalur itu nyaris saling meniadakan - total β tidak langsung = 0,004 - menyisakan efek langsung positif kecil (β = 0,149) dan 40% varians terjelaskan.([[motivational-gain-trumping-cognitive-offloading-2026|Wang et al., 2026]])
+
+Korelasi zero-order dalam literatur itu tidak signifikan (r = 0,156, 95% CI [−0,040, 0,353]), yang merupakan wujud dari pembatalan ketika sebuah studi hanya mengukur hasilnya. Implikasi desainnya adalah bahwa [[cognitive-offloading|offloading]] bukan properti alat melainkan cara tugas ditata: alat yang menahan jawaban ujung-ke-ujung dan titik periksa metakognitif yang memaksa evaluasi mendorong keseimbangan ke jalur motivasional.

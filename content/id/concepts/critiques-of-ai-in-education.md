@@ -1,7 +1,7 @@
 ---
 title: "Kritik terhadap AI dalam Pendidikan"
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Klaster kedua menyerang kosakata, bukan mesinnya. Wang dan Jin membaca dokumen k
 
 ## Infrastruktur, Transduksi, dan Salah Pengakuan
 
-Klaster ketiga mengalihkan perhatian dari alat ke infrastruktur di sekitarnya. Watson, Morgner, dan Brezovec memperlakukan AI generatif sebagai infrastruktur yang memediasi makna dan menamai mekanismenya *transduksi semantik*: pengubahan format suatu tuntutan pendidikan — sebuah permintaan (prompt), brief, rubrik, soal ujian, genre, atau kebijakan — menjadi bentuk yang komunikatif dan masuk akal ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, dan Brezovec, 2026]]). Karena transduksi bersifat selektif, ia dapat menyertakan atau mengecualikan. Tempat kemunculannya berulang tiga: kesenjangan akses dan kapabilitas, salah pengakuan melalui templat tentang bagaimana jawaban baik atau siswa baik terdengar, dan pergeseran normatif dalam apa yang dianggap sebagai pedagogi. Pengecualian itu sering kali berbentuk cengkeraman, bukan larangan — institusi menaikkan ekspektasi soal kecepatan, kerapian, dan kefasihan idiomatik, sekaligus mengetatkan regim keaslian.
+Klaster ketiga mengalihkan perhatian dari alat ke infrastruktur di sekitarnya. Watson, Morgner, dan Brezovec memperlakukan AI generatif sebagai infrastruktur yang memediasi makna dan menamai mekanismenya *transduksi semantik*: pengubahan format suatu tuntutan pendidikan — sebuah permintaan (prompt), brief, [[rubrics|rubrik]], soal ujian, genre, atau kebijakan — menjadi bentuk yang komunikatif dan masuk akal ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner, dan Brezovec, 2026]]). Karena transduksi bersifat selektif, ia dapat menyertakan atau mengecualikan. Tempat kemunculannya berulang tiga: kesenjangan akses dan kapabilitas, salah pengakuan melalui templat tentang bagaimana jawaban baik atau siswa baik terdengar, dan pergeseran normatif dalam apa yang dianggap sebagai pedagogi. Pengecualian itu sering kali berbentuk cengkeraman, bukan larangan — institusi menaikkan ekspektasi soal kecepatan, kerapian, dan kefasihan idiomatik, sekaligus mengetatkan regim keaslian.
 
 ## Penetapan Agenda, Inovasi Semu, dan Futuring Eksperimental
 

@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
-updated: "2026-11-08T14:09:36-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 translation_of: "concepts/theory-development-aied"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -75,6 +79,8 @@ Karya lain memperluas teori yang ada ke konteks AI alih-alih mendirikan paradigm
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin dan Chang (2026)]] memperluas [[self-regulated-learning]] dan regulasi manusia–AI dengan menamai apa yang diatur siswa — standar, [[evaluative-judgment|pertimbangan evaluatif]], dan otorisasi kendali — alih-alih hanya apa yang dilakukan AI.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai dan Flenady (2026)]] mengimpor pengakuan Honneth dan Brandom ke dalam teori umpan balik, dengan argumen bahwa atribusi timbal balik akan kedudukan, bukan kualitas informasi, yang menjadikan sebuah komentar alasan untuk bertindak.
+
 Paradoks gesekan menawarkan perluasan lain atas teori mapan: [[friction-paradox-generative-ai-education-abroad-2026|Gupta (2026)]] menerapkan [[desirable-difficulties|kesulitan yang diinginkan]] dari Bjork dan Bjork serta [[productive-failure|kegagalan produktif]] dari Kapur pada perjumpaan relasional dalam pendidikan di luar negeri, dengan argumen bahwa yang penting adalah seberapa besar agensi interpretatif yang [[transfer-of-learning|ditransfer]] siswa kepada asisten generatif alih-alih seberapa sering ia digunakan. Kerangka ini konseptual dan menyatakan lima proposisi sebagai hipotesis bersaing.
 
 [[ranieri-biagini-ai-higher-education-taxonomy-review-2026|Ranieri & Biagini (2026)]] memajukan taksonomi fungsional bidang ini dari Zawacki-Richter et al. (2019): di antara 154 publikasi dengan fungsi aplikasi yang dapat diklasifikasikan, 90 (58.4%) lolos dari empat kategorinya, dan kerangka mereka menyilangkan fungsi dengan kendali yang didelegasikan, posisi epistemik, dan pedagogi yang tertanam.
@@ -93,15 +99,7 @@ Berteori di bidang ini tidak merata. [[limitations-in-aied-research|Keterbatasan
 
 ## Hubungan dengan filsafat AI dalam pendidikan
 
-Pengembangan teori dan [[philosophy-of-ai-in-education|filsafat AI dalam pendidikan]] adalah alur kerja fondasional basis pengetahuan yang saling melengkapi namun berbeda. **Pengembangan teori** menghasilkan dan menguji secara empiris *mekanisme* belajar-dengan-AI — teori dan kerangka bernama seperti generativisme, ko-agensi epistemik, dan garis dasar kognitif yang absen yang menjelaskan dan memprediksi bagaimana siswa dan AI berinteraksi. **Filsafat** menginterogasi *praanggapan* yang menjadi sandaran mekanisme itu: apa yang dianggap pengetahuan, siapa yang dianggap sebagai penahu, dan apa sesungguhnya siswa itu. Teori seperti [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|ko-agensi epistemik]] mengusulkan mekanisme sambil secara implisit mengadopsi komitmen filosofis tentang kognisi terdistribusi dan [[agency]]; filsafat membuat komitmen itu eksplisit dan dapat dipertentangkan. Jika pengembangan teori menanyakan apakah sebuah kerangka menjelaskan pembelajaran dengan baik, filsafat menanyakan apakah ia menangkap apa sebenarnya belajar dan pikiran — kedua alur bertemu dalam artikel-artikel paling fondasional bidang ini, yang sering melakukan keduanya sekaligus.
-
-## Miskonsepsi Umum
-
-**"Temuan bahwa alat itu berhasil adalah kontribusi teoretis."** Bukan, dan alasannya struktural. Ketika proposisi sebuah kerangka memprediksi *perbedaan antarkonfigurasi*, studi yang hanya melaporkan efek rata-rata **tidak dapat mengonfirmasi atau menyangkalnya** — desainnya tidak dapat melihat pembedaan yang menjadi pokok teori. Uji coba yang menunjukkan keuntungan rata-rata memberi tahu Anda bahwa sesuatu terjadi, bukan mekanisme mana yang menyebabkannya, sehingga teori itu tetap didukung persis seperti sebelumnya.
-
-**"Menerapkan teori mapan pada AI adalah pengembangan teori."** Masalah penggunaan teori di halaman ini mengatakan sebaliknya: penerapan bukan kemajuan, dan pola berulang bidang ini adalah konstruk pinjaman yang digunakan sebagai kosakata alih-alih sebagai prediksi yang dapat diuji. Pembedaan itu penting karena kerangka pinjaman yang tidak dapat menghasilkan perbedaan yang dapat difalsifikasi adalah dekorasi, bukan teori.
-
-**"Taksonomi yang ada tentang fungsi pedagogis AI sudah mencakup apa yang dilakukan sistem-sistem ini."** Mereka tidak mencakup banyak darinya. Di antara 154 publikasi dengan fungsi aplikasi yang dapat diklasifikasikan, **90 (58.4%) lolos dari empat kategori** kerangka sebelumnya, itulah sebabnya karya yang lebih baru menyilangkan fungsi dengan kendali yang didelegasikan, posisi epistemik, dan pedagogi yang tertanam. Taksonomi yang salah mengklasifikasikan hampir tiga dari lima kasus tidak dapat menjadi kosakata bersama bidang ini, dan celahnya adalah temuan tentang fenomena, bukan celah dalam sebuah makalah.
+Pengembangan teori dan [[philosophy-of-ai-in-education|filsafat AI dalam pendidikan]] adalah alur kerja fondasional basis pengetahuan yang saling melengkapi namun berbeda. **Pengembangan teori** menghasilkan dan menguji secara empiris *mekanisme* belajar-dengan-AI — teori dan kerangka bernama seperti generativisme, ko-agensi epistemik, dan garis dasar kognitif yang absen yang menjelaskan dan memprediksi bagaimana siswa dan AI berinteraksi. **Filsafat** menginterogasi *praanggapan* yang menjadi sandaran mekanisme itu: apa yang dianggap pengetahuan, siapa yang dianggap sebagai penahu, dan apa sesungguhnya siswa itu. Teori seperti [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|ko-agensi epistemik]] mengusulkan mekanisme sambil secara implisit mengadopsi komitmen filosofis tentang kognisi terdistribusi dan [[agency]]; filsafat membuat komitmen itu eksplisit dan dapat dipertentangkan. Jika pengembangan teori menanyakan apakah sebuah kerangka menjelaskan pembelajaran dengan baik, filsafat menanyakan apakah ia menangkap apa sebenarnya belajar dan pikiran — kedua alur bertemu dalam artikel-artikel paling fondasional bidang ini, yang sering melakukan keduanya sekaligus. Apa yang dikatakan para kritikus bidang ini tentang arah yang dibuka atau ditutup oleh teori-teori tersebut adalah pertanyaan terpisah, yang dikumpulkan di bawah [[critiques-of-ai-in-education|Kritik terhadap AI dalam Pendidikan]].
 
 ## Implikasi bagi Praktik
 
@@ -120,3 +118,11 @@ Pengembangan teori dan [[philosophy-of-ai-in-education|filsafat AI dalam pendidi
 
 - Rancang kontras konfigurasi jika Anda menghendaki kontribusi teoretis. Uji coba efek rata-rata yang diterbitkan sebagai pengembangan teori adalah keluaran bidang ini yang paling umum dan paling tidak berguna.
 - Lampirkan proposisi eksplisit yang dapat difalsifikasi pada setiap kerangka yang Anda perkenalkan, dan laporkan perbedaan konfigurasi mana yang akan menyangkalnya.
+
+## Miskonsepsi Umum
+
+**"Temuan bahwa alat itu berhasil adalah kontribusi teoretis."** Bukan, dan alasannya struktural. Ketika proposisi sebuah kerangka memprediksi *perbedaan antarkonfigurasi*, studi yang hanya melaporkan efek rata-rata **tidak dapat mengonfirmasi atau menyangkalnya** — desainnya tidak dapat melihat pembedaan yang menjadi pokok teori. Uji coba yang menunjukkan keuntungan rata-rata memberi tahu Anda bahwa sesuatu terjadi, bukan mekanisme mana yang menyebabkannya, sehingga teori itu tetap didukung persis seperti sebelumnya.
+
+**"Menerapkan teori mapan pada AI adalah pengembangan teori."** Masalah penggunaan teori di halaman ini mengatakan sebaliknya: penerapan bukan kemajuan, dan pola berulang bidang ini adalah konstruk pinjaman yang digunakan sebagai kosakata alih-alih sebagai prediksi yang dapat diuji. Pembedaan itu penting karena kerangka pinjaman yang tidak dapat menghasilkan perbedaan yang dapat difalsifikasi adalah dekorasi, bukan teori.
+
+**"Taksonomi yang ada tentang fungsi pedagogis AI sudah mencakup apa yang dilakukan sistem-sistem ini."** Mereka tidak mencakup banyak darinya. Di antara 154 publikasi dengan fungsi aplikasi yang dapat diklasifikasikan, **90 (58.4%) lolos dari empat kategori** kerangka sebelumnya, itulah sebabnya karya yang lebih baru menyilangkan fungsi dengan kendali yang didelegasikan, posisi epistemik, dan pedagogi yang tertanam. Taksonomi yang salah mengklasifikasikan hampir tiga dari lima kasus tidak dapat menjadi kosakata bersama bidang ini, dan celahnya adalah temuan tentang fenomena, bukan celah dalam sebuah makalah.
