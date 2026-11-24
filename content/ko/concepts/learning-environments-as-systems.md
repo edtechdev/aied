@@ -19,7 +19,7 @@ ai_assist:
 connected_concepts: [ai-education, learning-design, curriculum-design, learning-theories, activity-theory-aied, sociocultural-learning, distributed-cognition, situated-learning, research-methods-aied, design-based-research, ai-ed-evaluation, change-management, governance, educational-policy-ai, institutional-ai-infrastructure, technology-acceptance-model, network-analysis, learning-analytics, feedback, assessment, agency, human-ai-collaboration, teacher-role, educational-development, critical-thinking, computational-thinking, theories-and-frameworks, learning-sciences, student-engagement, metacognition, shadow-ai]
 connected_articles: [teeni-control-ai-by-design-human-learning-2026, mishra-control-vs-agency-history-2025, leveraging-complex-systems-leading-for-transformative-change, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, gnadlinger-educator-perspectives-its-design-2026, assessment-feedback-trilemma-model-2026, trikonet-trivalence-co-creativity-2026, pandey-davies-he-governance-administrative-ai-2026, ai-higher-ed-service-delivery-systematic-review-2026, nyale-ai-integrated-workplaces-digital-capability-2026, metacognitive-learning-scenarios-taxonomy, in-the-loop-educational-ai-learning-sciences-2026, videla-why-education-cannot-be-automated-2026, watson-generative-ai-meaning-mediating-infrastructure-2026, zhao-genai-literacy-administrative-work-2026, learner-agency-ai-simulation-2026, cheeseman-human-in-the-loop-humanness-higher-ed-2026, activity-theory-teachers-adoption-ai-sem-2026]
 translation_of: concepts/learning-environments-as-systems
-source_updated: 2026-11-23T11:20:00-05:00
+source_updated: "2026-11-23T11:20:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 ---
 

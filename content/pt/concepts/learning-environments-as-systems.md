@@ -11,7 +11,7 @@ institutions: [governance, educational-policy-ai, change-management, institution
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/learning-environments-as-systems
-source_updated: 2026-11-23T11:20:00-05:00
+source_updated: "2026-11-23T11:20:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês e ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

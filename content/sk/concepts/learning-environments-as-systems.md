@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: medium
 updated: "2026-11-23T17:44:00-05:00"
 translation_of: concepts/learning-environments-as-systems
-source_updated: 2026-11-23T11:20:00-05:00
+source_updated: "2026-11-23T11:20:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
