@@ -1,7 +1,7 @@
 ---
 title: "AI katika Elimu"
 created: "2026-10-13T06:05:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-17T08:15:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -83,7 +87,7 @@ Vipimo hivi viwili havitatui: [[ai-literacy|kutumia AI vizuri]] kunahitaji kuiel
 
 ## Misingi ya AI katika elimu
 
-Dhana za msingi na za kupitulia za uwanja zinategeua chanjo cha hifadhi ya maarifa na zinaonekana kwanza katika upau wa kando. Zinafunguliwa na kikundi cha **Muhimu** — dhana ambazo kila msomaji anapaswa kuanzia nazo: mwanya wenyewe, [[misconceptions|dhana potofu kuhusu AI]], [[ai-literacy|ujuzi wa AI]], [[agentic-ai|AI ya wakala]], [[cognitive-offloading|kupunguza mzigo wa kiakili]], [[framing-ai-use-for-students|jinsi matumizi ya AI yanavyoelezewa kwa wanafunzi]], [[reducing-ai-misuse|kupunguza matumizi mabaya ya AI]], [[academic-integrity|uadilifu wa kitaaluma]], [[teacher-role|kufundisha]], [[learning-design|ubuni wa kujifunza]], na [[educational-development|maendeleo ya elimu]]. Kituo cha **uwanja** kisha kinashughulikia [[history-of-aied|historia ya uwanja]], [[limitations-in-aied-research|mapungufu ya kupitulia ya msingi wa ushahidi]], [[philosophy-of-ai-in-education|falsafa yake]], ramani ya [[theories-and-frameworks|nadharia na miundo]], na [[theory-development-aied|maendeleo ya nadharia]]. Mada za kupitulia — [[human-ai-collaboration|ushirikiano wa binadamu–AI]], [[agency|wakala wa mwanafunzi]], [[learner-identity|utambulisho wa mwanafunzi]], [[design-thinking|ufikiri wa ubuni]], [[curriculum-design|ubuni wa mtaala]], [[critical-thinking|ufikiri mahususi]], na [[computational-thinking|ufikiri wa kikokotozi]] — zinapitia kila kituo, kwa sababu mifano ya akili isiyo sahihi ambayo watu wanayo kuhusu AI ni chanzo cha [[ai-misuse-learning-harm|matumizi mabaya]] na [[trust-calibration|uaminifu]] usio na usawa sahihi.
+Dhana za msingi na za kupitulia za uwanja zinategeua chanjo cha hifadhi ya maarifa na zinaonekana kwanza katika upau wa kando. Zinafunguliwa na kikundi cha **Muhimu** — dhana ambazo kila msomaji anapaswa kuanzia nazo: mwanya wenyewe, [[misconceptions|dhana potofu kuhusu AI]], [[ai-literacy|ujuzi wa AI]], [[agentic-ai|AI ya wakala]], [[cognitive-offloading|kupunguza mzigo wa kiakili]], [[framing-ai-use-for-students|jinsi matumizi ya AI yanavyoelezewa kwa wanafunzi]], [[reducing-ai-misuse|kupunguza matumizi mabaya ya AI]], [[academic-integrity|uadilifu wa kitaaluma]], [[teacher-role|kufundisha]], [[learning-design|ubuni wa kujifunza]], na [[educational-development|maendeleo ya elimu]]. Kituo cha **uwanja** kisha kinashughulikia [[history-of-aied|historia ya uwanja]], [[limitations-in-aied-research|mapungufu ya kupitulia ya msingi wa ushahidi]], [[philosophy-of-ai-in-education|falsafa yake]], ramani ya [[theories-and-frameworks|nadharia na miundo]], na [[theory-development-aied|maendeleo ya nadharia]], na [[learning-environments-as-systems|mazingira ya kujifunza kama mifumo]], ambayo inachukulia mazingira ya kujifunza kama mfumo wa ngazi nyingi ambao sehemu zake zinategemeana. Mada za kupitulia — [[human-ai-collaboration|ushirikiano wa binadamu–AI]], [[agency|wakala wa mwanafunzi]], [[learner-identity|utambulisho wa mwanafunzi]], [[design-thinking|ufikiri wa ubuni]], [[curriculum-design|ubuni wa mtaala]], [[critical-thinking|ufikiri mahususi]], na [[computational-thinking|ufikiri wa kikokotozi]] — zinapitia kila kituo, kwa sababu mifano ya akili isiyo sahihi ambayo watu wanayo kuhusu AI ni chanzo cha [[ai-misuse-learning-harm|matumizi mabaya]] na [[trust-calibration|uaminifu]] usio na usawa sahihi.
 
 ## Kujifunza na mafunzo
 
@@ -132,7 +136,7 @@ Kinachobadilika ni kwamba binadamu anashikilia hukumu. Wanafunzi katika semina y
 
 AI inabadilisha jinsi tunavyowata wanafunzi na jinsi tunavyotathmini mifumo ya AI yenyewe:
 
-- **Tathmini na maoni:** [[assessment|tathmini]], [[formative-assessment|tathmini ya kujenga]], [[summative-assessment|tathmini ya mwisho]], [[authentic-assessment|tathmini halisi]], [[eportfolio|e-portfolio]], [[feedback|maoni]] na [[feedback-literacy|ujuzi wa maoni]], [[ai-feedback-quality|ubora wa maoni ya AI]], [[peer-assessment|maoni ya marika]], [[oral-assessment|tathmini ya mdomo]], [[automated-assessment|tathmini kiotomatiki]], [[automated-essay-scoring|kuwata insha kiotomatiki]], na [[automated-question-generation|kuzalisha maswali kiotomatiki]]. Kwa sababu mfano sasa unaweza kutoa kazi iliyokamilika inayoaminika kwa ombi, hifadhi ya maarifa inaweka mbele uwezo ambao unabaki kuwa wa mwanafunzi mwenyewe: [[evaluative-judgment|hukumu ya kutathmini]], uwezo wa kupima ubora wa kazi yako mwenyewe, ya marika, na ya AI dhidi ya vigezo vilivyo na mantiki. Ni muundo ambao masudio kadhaa ya maoni na tathmini halisi yanakubaliana — hali ya maoni ya mchanganyiko ikishinda maoni ya moja kwa moja ya AI katika jaribio la sehemu nyingi, pengo la udumu katika maoni ya kujenga ya AI, na hatua ya vitendo ya kutathmini maamuzi wanayofanya wanafunzi badala tu kazi — na ni sababu kuu ya ubuni upya wa kubadilisha kutoka [[ai-detection|kugundua]] kuelekea kazi ambazo uadilifu wake unabaki baada ya ukaguzi. [[group-work|Kazi ya vikundi]] pia huwatwa kwa mchakato na bidhaa, ambapo timu zinapaswa kujadiliana ni AI ya aina gani na ya nani inayokubalika.
+- **Tathmini na maoni:** [[assessment|tathmini]], [[formative-assessment|tathmini ya kujenga]], [[summative-assessment|tathmini ya mwisho]], [[authentic-assessment|tathmini halisi]], [[eportfolio|e-portfolio]], [[feedback|maoni]] na [[feedback-literacy|ujuzi wa maoni]], [[ai-feedback-quality|ubora wa maoni ya AI]], [[peer-assessment|maoni ya marika]], [[oral-assessment|tathmini ya mdomo]], [[automated-assessment|tathmini kiotomatiki]], [[automated-essay-scoring|kuwata insha kiotomatiki]], na [[automated-question-generation|kuzalisha maswali kiotomatiki]], na [[rubrics|rubriki]]. Rubriki ndiyo chombo chenye vigezo: vipengele vilivyoajiriwa na maelezo ya viwango vinavyofanya ufahamu wa kipande cha kazi uwe wa kurudika, na maelekezo ambayo mfano husoma wakati anapowata. Kwa sababu mfano sasa unaweza kutoa kazi iliyokamilika inayoaminika kwa ombi, hifadhi ya maarifa inaweka mbele uwezo ambao unabaki kuwa wa mwanafunzi mwenyewe: [[evaluative-judgment|hukumu ya kutathmini]], uwezo wa kupima ubora wa kazi yako mwenyewe, ya marika, na ya AI dhidi ya vigezo vilivyo na mantiki. Ni muundo ambao masudio kadhaa ya maoni na tathmini halisi yanakubaliana — hali ya maoni ya mchanganyiko ikishinda maoni ya moja kwa moja ya AI katika jaribio la sehemu nyingi, pengo la udumu katika maoni ya kujenga ya AI, na hatua ya vitendo ya kutathmini maamuzi wanayofanya wanafunzi badala tu kazi — na ni sababu kuu ya ubuni upya wa kubadilisha kutoka [[ai-detection|kugundua]] kuelekea kazi ambazo uadilifu wake unabaki baada ya ukaguzi. [[group-work|Kazi ya vikundi]] pia huwatwa kwa mchakato na bidhaa, ambapo timu zinapaswa kujadiliana ni AI ya aina gani na ya nani inayokubalika.
 - **Upimaji na uhalali:** [[assessment-validity|uhalali wa tathmini]], [[psychometrically-aware-ai|AI yenye ufahamu wa kimetriki]], [[educational-measurement|upimaji wa elimu]], [[item-response-theory|nadaria ya majibu ya kipengele]], [[self-report-measures|vipimo vya kujitangaza]] (kipimo nyuma ya sehemu kubwa ya ushahidi huu, na kikomo kinachorudiwa), [[ai-detection|kugundua AI]], [[remote-proctoring|usimamizi wa mbali wa mitihani]], na [[academic-integrity|uadilifu wa kitaaluma]].
 
 ## Mbinu za utafiti na tathmini

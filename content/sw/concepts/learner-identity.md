@@ -1,6 +1,7 @@
 ---
 title: Utambulisho wa Mwanafunzi
 created: "2026-10-13T05:45:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -9,13 +10,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learners, agency, self-efficacy, motivation, self-determination-theory, student-experience, student-engagement, stem-education, situated-learning, critical-pedagogy, authentic-assessment, teacher-role, generative-ai, higher-ed, k-12]
 connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-genai-higher-education-2026, t2i-competence-paradox-2026, shame-guilt-ai-regulation-computing-education, lodge-adaptive-capabilities-genai-future-2026, elsayed-pedagogical-symbiosis-posthuman-learner, ai-pedagogical-accompaniment-amico, zhan-boud-du-authentic-assessment-scoping-review-2025, paternalistic-filter-llm-history-education, laidlaw-genai-identity-crisis-faculty-2026, teaching-the-teachers-genai-tpk-review-2026, genai-professionalization-metaphors-2026, synthetic-position-self-authorship-2026, vibe-coding-design-diversity-2026, kim-solo-game-development-autoethnography-2026]
@@ -36,6 +41,8 @@ connected_articles: [ting-ai-learning-ownership-purpose-2026, guarded-adoption-g
 ## Utangulizi
 
 Utambulisho wa mwanafunzi unahusu nini mwanafunzi anajijua kuwa ni, na nani anakuwa, katika kikoa — dhana ya kimotisha na ya maendeleo tofauti na imani za uwezo kama [[self-efficacy]], ambayo inajibu swali nyembamba zaidi *naweza kufanya hii?* Utambulisho huundwa kupitia ushiriki, utambuzi, na uandishi: kujiona kimeakisiwa katika uwanja na kuwa na mtazamo huo wa nafsi uhakikiwa na wengine. AI inabadilisha hali zote tatu, kwa sababu inabadilisha nani anafanya kazi, kile kinachojumuishwa kama mchango wa mwanafunzi, na iwapo mwanafunzi anatambulika kama mwandishi wa kujifunza kwake ([[agency]], [[metacognition]]).
+
+Alama ni uhusiano pamoja na ishara: wanafunzi huanza kujiona kupitia nazo, kwa hiyo marekebisho ambayo hayahifadhi daftari la alama yanahifadhi uhusiano huo pia ([[nieminen-grading-assessment-reform-2026|Nieminen et al., 2026]]).
 
 ## Kwa nini utambulisho unahusu katika AI katika elimu
 
@@ -59,6 +66,9 @@ Sharti tofauti la uandishi, si tishio tu kwa uandishi: mazungumzo ya kuunda nafs
 - **Kupitisha kwa ulinzi: matumizi ya AI ya uteuzi kama ulinzi wa utambulisho.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] walichunguza wanafunzi 484 katika chuo kikuu kimoja cha Australia na walipata kuwa wanafunzi wenye mafanikio makubwa waliripoti mwingiliko *mdogo* wa [[generative-ai|AI ya kizalishaji]], hisia chanya ndogo kuelekea AI, athari ndogo ya [[self-report-measures|kujifunza inayoonekana]], na kujitenga kidogo kuhusiana na AI, na mahusiano yenye nguvu zaidi yalikuwa rho = -0.395 kwa athari ya kujifunza inayoonekana na rho = -0.359 kwa hisia chanya. Majibu yao ya wazi yalielezea matumizi yaliokuwa ya uteuzi (ubainishaji, muhtasari, msaada wa mtiririko wa kazi), yaliyothibitishwa, na yaliyoshikiliwa kuwa ya chini ya uamuzi wao wenyewe, na matokeo ya kiwango cha kipengele yalionyesha makubaliano makubwa zaidi kuwa kutegemea AI kunazuia [[critical-thinking]] na [[problem-solving|utatuzi wa matatizo]] wa kujitegemea. Waandishi wanasoma hii kama kazi ya utambulisho: kwa wanafunzi ambao hisia yao ya nafsi kama wanafunzi wenye mafaniko inategemea juhudi na uamuzi wao wenyewe, kuweka mipaka ya matumizi ya AI hulinda [[agency|wakala wa maarifa]] ambao utambulisho unategemea — ambayo pia inamaanisha kuwa mfumo huo si teknofobia wala mwingiliko mdogo.
 
 - **Kusudi lililotajwa haliathiri kila uamuzi wa AI.** [[ting-ai-learning-ownership-purpose-2026|Ting et al. (2026)]] waliwahoji wanafunzi 14 wa shahada ya kwanza na wakapanga kila mahojiano kwa uhusiano kati ya [[self-determination-theory|kusudi]] la mwanafunzi — nia yenye maana binafsi ya kuchangia zaidi ya nafsi — na chaguo zao za AI. Ni wachache tu waliounganisha: mmoja alikataa AI kwa sababu gharama zake za kimazingira na za kibinadamu zilipingana na kusudi lake, na watatu waliruhusu utambulisho wa kitaalama wa baadaye kuunda chaguo zao ("unachangia kwa mwanasaikolojia nitakayekuwa duniani siku moja"). Wengine wenye hisia sawa ya kusudi hawakufanya uhusiano huo, wakielezea kusudi na AI kama "vitu tofauti kwa kiasi," hivyo kuwa na utambulisho wa kulinda hakukuwa sawa na kuutegemea. Karatasi pia inatenganisha sababu wanafunzi wanazotoa kwa kuhifadhi kazi kuwa zao — maendeleo ya ujuzi, [[evaluative-judgment|umiliki na fahari]], na pingamizi la kimaadili — zinazokuja kupitia mifumo tofauti na hazipaswi kuunganishwa kuwa motisha mmoja.
+
+- **Uwezo unaweza kufika kabla ya uanachama.** Autoethnografia ya siku 73 ya muelimishaji wa bioinformatics anayejenga mchezo katika kikoa kisichomfahamu iligundua kwamba [[generative-ai|GenAI]] ilimpatikizia uwezo lakini si utambulisho: uanachama ulitokana na ushiriki katika jamii za mazoezi na kujifanyia maana mara kwa mara, na kufikia huko kulichukua mwendo wa binadamu ([[kim-solo-game-development-autoethnography-2026|Kim, 2026]]).
+- Kukataa pia ni kazi ya utambulisho: miongoni mwa wanafunzi watano weusi wa mafunzo ya sekondari, kutotumia kulidai udhibiti, kufuata kanuni za taasisi au kuashiria thamani za kiakili, wakati majibu ya AI yasiyo na upendeleo yalizalisha "wazi wa kitamaduni" ambao haikuwaakabidhi uzoefu wao kuyatambuliwa ([[gyekye-selves-apprenticeship-2026|Gyekye, 2026]]).
 
 ## Uhusiano na wakala wa mwanafunzi
 

@@ -1,6 +1,7 @@
 ---
 title: Kujisalimisha kwa Kiakili
 created: "2026-10-13T09:52:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -20,6 +21,10 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
+    agent: hermes-agent
 connected_concepts: [cognitive-offloading, ai-misuse-learning-harm, critical-thinking, agency, metacognition, self-regulated-learning, ai-literacy, trust-calibration, human-in-the-loop-ai, ai-sycophancy, reducing-ai-misuse, theory-development-aied, generative-ai]
 connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-study-time-math, young-people-learning-generative-ai-rapid-review-2026, du-yuan-epistemic-dependence-2026, ai-advice-suppresses-ikt-suspension-2026, your-brain-on-chatgpt-cognitive-debt-essay-writing, genai-thoughtless-use-self-directed-learning-2026, stamatoulis-genai-use-patterns-2026, cognitive-washout-ai-skill-decay-2026, ai-overreliance-complex-adaptive-system-2026, brcic-effortless-trap-productive-struggle-2026, metacognitive-training-optimal-cognitive-offloading-2026, family-school-autonomy-support-genai-2026, braun-cognitive-dormancy-ai-affordances-2026, jelson-students-chatgpt-essay-writing-2026]
 ---
@@ -30,12 +35,12 @@ connected_articles: [shaw-nave-cognitive-surrender-2026, generative-ai-reduced-s
 
 ## Maswali ya Kutafakari
 
-1. Wakati mwanafunzi anapokea jibu la AI ambalo kinabakia ni sahihi, je, darasa limefanikiwa? Ni nini kingekuwa lazima kiwe kweli ili kukubaliwa kwenyewe kiwe kitu kilichomuhimu?
-2. Je, mwelekezi aliyepimwa anayejua mipaka yake mwenyewe anatofautiana kwa asili na mwanafunzi ambaye hawezi kutambua? [[teacher-role|Mkufunzi]] angegunduaje tofauti hiyo katika kazi moja?
-3. Ikiwa uaminifu unapanda wakati usahihi unashuka — kama inavyotokea pale ushauri wa AI unapopatikana — hilo hufanya nini kwa ugunduzi wa makosa ya mwanafunzi mwenyewe?
-4. Uhakiki unafundishwa wapi, na ni wapi ni tatizo ya mzigo wa kazi [[educational-policy-ai|sera]]? Ni sehemu zipi za [[curriculum-design|mtaala]] zingehitaji kubadilika ili ukaguzi uwe desturi badala ya ubaguzi?
-5. Je, taasisi zinapaswa kupima kujisalimisha kabisa, au kupima kunavyaa ufuatiliaji ule ule ambao [[ai-use-disclosure|kanuni za kufichua]] zinapambana nao?
-6. Kazi ingeonekanaje inayomtuza mwanafunzi kwa kupuuza jibu la AI lisilosahihi badala ya kwa kuzalisha jibu lililosuguliwa vizuri?
+- Wakati mwanafunzi anapokea jibu la AI ambalo kinabakia ni sahihi, je, darasa limefanikiwa? Ni nini kingekuwa lazima kiwe kweli ili kukubaliwa kwenyewe kiwe kitu kilichomuhimu?
+- Je, mwelekezi aliyepimwa anayejua mipaka yake mwenyewe anatofautiana kwa asili na mwanafunzi ambaye hawezi kutambua? [[teacher-role|Mkufunzi]] angegunduaje tofauti hiyo katika kazi moja?
+- Ikiwa uaminifu unapanda wakati usahihi unashuka — kama inavyotokea pale ushauri wa AI unapopatikana — hilo hufanya nini kwa ugunduzi wa makosa ya mwanafunzi mwenyewe?
+- Uhakiki unafundishwa wapi, na ni wapi ni tatizo ya mzigo wa kazi sera? Ni sehemu zipi za [[curriculum-design|mtaala]] zingehitaji kubadilika ili ukaguzi uwe desturi badala ya ubaguzi?
+- Je, taasisi zinapaswa kupima kujisalimisha kabisa, au kupima kunavyaa ufuatiliaji ule ule ambao [[ai-use-disclosure|kanuni za kufichua]] zinapambana nao?
+- Kazi ingeonekanaje inayomtuza mwanafunzi kwa kupuuza jibu la AI lisilosahihi badala ya kwa kuzalisha jibu lililosuguliwa vizuri?
 
 ## Utangulizi
 

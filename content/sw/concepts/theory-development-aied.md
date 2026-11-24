@@ -1,6 +1,7 @@
 ---
 title: Uundaji wa Nadharia katika AI katika Elimu
 created: "2026-10-13T06:00:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -9,13 +10,17 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-21T15:40:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [learning-theories, philosophy-of-ai-in-education, limitations-in-aied-research, research-methods-aied, generative-ai, constructivist, metacognition, cognitive-offloading, learning-gains, ai-education, ai-ed-evaluation, community-of-inquiry, cognitive-surrender, critiques-of-ai-in-education]
 connected_articles: [ranieri-biagini-ai-higher-education-taxonomy-review-2026, yan-agentivism-learning-theory-ai-2026, deceptive-overgeneralization-adaptive-learning-2026, reclaiming-epistemic-agency-co-agency-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, du-yuan-epistemic-dependence-2026, absent-cognitive-baseline-2026, cognitive-commons-ai-expertise-regeneration, genai-performance-vs-learning, constructing-epistemic-ai-literacy-student-ai-co-programming, credential-cognitive-stewardship-ai-assessment, ai-cognitive-partner-co-regulation-learning, epistemic-proactivity-math, strydom-human-gai-paradigms-2026, critical-thinking-paradox-genai-learning-2026, dollinger-equitable-assessment-ai-2026, shaw-nave-cognitive-surrender-2026, reconceptualizing-community-inquiry-generative-ai, farazouli-navigating-uncertainty-teachers-genai-2026, rismanchian-ai-education-four-decades-aixed-2026, daoism-ai-education-philosophy-2026, edubehaviors-auditable-coding-educational-dialogues-2026, metacognitive-ownership-human-ai-regulation-2026, synthetic-position-self-authorship-2026, capability-decision-model-teacher-readiness-2026, ai-connectedness-adolescent-mental-health-2026, page-cognitive-partnership-cycle-human-ai-2026, friction-paradox-generative-ai-education-abroad-2026, webb-pck-genai-2026]
@@ -76,6 +81,8 @@ Kazi nyingine zinapanua nadharia zilizopo katika muktadha wa AI badala ya kuanzi
 
 [[metacognitive-ownership-human-ai-regulation-2026|Lin and Chang (2026)]] wanapanua [[self-regulated-learning]] na udhibiti wa binadamu–AI kwa kutaja kile mwanafunzi anachosimamia — viwango, [[evaluative-judgment|maamuzi ya kutathmini]], na idhini ya kudhibiti — badala ya kile AI inachofanya tu.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai na Flenady (2026)]] walileta utambuzi wa Honneth na Brandom katika nadharia ya maoni, wakidai kwamba kukubaliwa na kukubaliwana hadhi, si ubora wa habari, ndicho kinachofanya maoni kuwa sababu ya kutenda.
+
 [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] wanasukuma mbele ACT-R na mfumo wa Maarifa-Kujifunza-Maelekezo kwa kutunga nadharia ya *kupitisha kwa ujumla kwa udanganyifu* — hali ya kushindwa ambapo ukusanyaji wa maarifa huzalisha uzalishaji uliopitishwa kwa ujumla ambao hutoa vitendo sahihi huku ukiliacha kizuizi muhimu cha matumizi — na kwa kuthibitisha kimaandishi utaratibu wa kugundua/kurekebisha katika ITSs zinazobadilika na seti ya data ya kujifunza desimali ya [[k-12]].
 
 **Postphenomenology na upatanishi wa kiteknolojia.** [[farazouli-navigating-uncertainty-teachers-genai-2026|Farazouli et al. (2026)]] wanasukuma mbele mfumo wa postphenomenological uliokwishakithiri wa upatanishi wa kiteknolojia (Ihde 1990; Verbeek 2006, 2011; Rosenberger & Verbeek 2015) katika muktadha wa AI katika elimu. Badala ya kupendekeza nadharia mpya, wanaitumia kutafsiri upya chatboti za [[conversational-ai|GAI]] kama *sanaa za kiteknolojia zinazobadilika* ambazo "hatua" zake (kujibu kwa haraka, maandishi yanayosikika ya asili yanayoweza kupata alama za kupitisha) zinapatanisha mitazamo ya walimu na kubadilisha mazoezi yao — zikitetemesha uaminifu wa mwalimu, zikibadilisha maana ya uwezo, na zikisukuma walimu zaidi ya maswali ya kivitendo ya matumizi yanayokubalika kuelekea kutathmini upya jukumu lao na maana ya kufundisha. Hii ni mchango wa *kusukumwa-mbele kwa nadharia*: inaonyesha jinsi akaunti ya kifalsafa ya mahusiano ya binadamu–teknolojia inaeleza msishtuko wa kihisia na wa kitaalamu ambao walimu wanapata wakati GAI inaingia katika mazoezi ya kielimu yaliyokwishakithiri.
@@ -94,15 +101,7 @@ Utungaji wa nadharia wa uwanja hautofautiani kikamilifu. [[limitations-in-aied-r
 
 ## Uhusiano na falsafa ya AI katika elimu
 
-Maendeleo ya nadharia na [[philosophy-of-ai-in-education|falsafa ya AI katika elimu]] ni mistari inayojazana lakini tofauti ya kazi ya msingi ya hifadhi hii ya maarifa. **Maendeleo ya nadharia** yanazalisha na kufanyiwa majaribio kimaandishi *mifumo* ya kujifunza-pamoja-na-AI — nadhari na mirifumo iliyotajwa kama generativism, wakala mwenza wa kiakili, na msingi wa kiasali uliopungua ambayo yanaeleza na kutabiri jinsi wanafunzi na AI wanavyoshirikiana. **Falsafa** inajiuliza *dhan za msingi* ambazo mifumo hiyo hutegemea: kile kinachohesabiwa kama maarifa, nani anahesabiwa kama mjuzi, na kile mwanafunzi alivyo kwa msingi. Nadharia kama [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|wakala mwenza wa kiakili]] inapendekeza mfumo huku ikipitisha kwa kimya dhamana za kifalsafa kuhusu akili iliyogawanywa na [[agency]]; falsafa inafanya dhamana hizo kuwa wazi na zinazoweza kupingwa. Hapo maendeleo ya nadharia yanauliza kama mfumo unaeleza kujifunza vizuri, falsafa inauliza kama inakamata kile kujifunza na akili zilivyo kweli — mistari miwili hukutana katika makala ya msingi zaidi ya uwanja, ambayo mara nyingi hufanya yote mawili kwa wakati mmoja.
-
-## Dhana Potofu za Kawaida
-
-**"Ugunduzi kwamba zana ilifanya kazi ni mchango wa kinadharia."** Sivyo, na sababu ni ya kimuundo. Pale madai ya mfumo yanatabiri *tofauti kati ya usanidi*, somo linaloripoti athari ya wastani pekee **haliwezi kuthibitisha au kukanusha** hayo, kwa kuwa muundo hauwezi kuona tofauti ambayo nadharia inaihusu. Jaribio linaloonyesha faida ya wastani linakuambia jambo fulani lilitokea, si utaratibu upi uliisababisha, hivyo nadharia inabaki kama ilivyokuwa awali.
-
-**"Kutumia nadharia iliyokwishakithiri kwa AI ni uundaji wa nadharia."** Tatizo la matumizi ya nadharia la ukurasa huu linasema kinyume: matumizi si maendeleo, na mtindo unaojirudia wa uwanja ni dhana zilizokopwa zinazotumika kama msamiati badala ya utabiri unaoweza kujaribiwa. Tofauti hii ni muhimu kwa sababu mfumo uliokopwa ambao hauwezi kuzalisha tofauti inayoweza kukanushwa ni mapambo, si nadharia.
-
-**"Uainishaji uliopo wa kazi ya kielimu ya AI tayari unafunika kile mifumo hii inachofanya."** Haufuniki sehemu kubwa yake. Miongoni mwa machapisho 154 yenye kazi ya matumizi inayoweza kuainishwa, **90 (58.4%) yalitoroka makundi manne** ya mfumo uliotangulia, ndiyo sababu kazi mpya inavuka kazi na udhibiti uliokabidhiwa, msimamo wa kiakili na ufundishaji ulioingizwa. Uainishaji unaokosea takriban watatu kati ya watano hauwezi kutumika kama msamiati wa pamoja wa uwanja, na pengo hili ni ugunduzi kuhusu jambo lenyewe badala ya pengo katika karatasi.
+Maendeleo ya nadharia na [[philosophy-of-ai-in-education|falsafa ya AI katika elimu]] ni mistari inayojazana lakini tofauti ya kazi ya msingi ya hifadhi hii ya maarifa. **Maendeleo ya nadharia** yanazalisha na kufanyiwa majaribio kimaandishi *mifumo* ya kujifunza-pamoja-na-AI — nadhari na mirifumo iliyotajwa kama generativism, wakala mwenza wa kiakili, na msingi wa kiasali uliopungua ambayo yanaeleza na kutabiri jinsi wanafunzi na AI wanavyoshirikiana. **Falsafa** inajiuliza *dhan za msingi* ambazo mifumo hiyo hutegemea: kile kinachohesabiwa kama maarifa, nani anahesabiwa kama mjuzi, na kile mwanafunzi alivyo kwa msingi. Nadharia kama [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|wakala mwenza wa kiakili]] inapendekeza mfumo huku ikipitisha kwa kimya dhamana za kifalsafa kuhusu akili iliyogawanywa na [[agency]]; falsafa inafanya dhamana hizo kuwa wazi na zinazoweza kupingwa. Hapo maendeleo ya nadharia yanauliza kama mfumo unaeleza kujifunza vizuri, falsafa inauliza kama inakamata kile kujifunza na akili zilivyo kweli — mistari miwili hukutana katika makala ya msingi zaidi ya uwanja, ambayo mara nyingi hufanya yote mawili kwa wakati mmoja. Kile wasomaji wa uwanja wanachokisema kuhusu mwelekeo ambazo nadharia hizo hufungua au kufunga ni swali lingine, lililokusanywa chini ya [[critiques-of-ai-in-education|Ukosoaji wa AI katika Elimu]].
 
 ## Athari kwa mazoezi
 
@@ -121,3 +120,11 @@ Maendeleo ya nadharia na [[philosophy-of-ai-in-education|falsafa ya AI katika el
 
 - Buni kwa ajili ya utofautishaji wa usanidi kama unakusudia mchango wa kinadharia. Jaribio la athari ya wastani linalochapishwa kama uundaji wa nadharia ni pato la kawaida zaidi na lisilo na manufaa zaidi la uwanja.
 - Ambatanisha madai wazi yanayoweza kukanushwa kwa mfumo wowote unaouanzisha, na ripoti ni tofauti zipi za usanidi ambazo zingeyakanusha.
+
+## Dhana Potofu za Kawaida
+
+**"Ugunduzi kwamba zana ilifanya kazi ni mchango wa kinadharia."** Sivyo, na sababu ni ya kimuundo. Pale madai ya mfumo yanatabiri *tofauti kati ya usanidi*, somo linaloripoti athari ya wastani pekee **haliwezi kuthibitisha au kukanusha** hayo, kwa kuwa muundo hauwezi kuona tofauti ambayo nadharia inaihusu. Jaribio linaloonyesha faida ya wastani linakuambia jambo fulani lilitokea, si utaratibu upi uliisababisha, hivyo nadharia inabaki kama ilivyokuwa awali.
+
+**"Kutumia nadharia iliyokwishakithiri kwa AI ni uundaji wa nadharia."** Tatizo la matumizi ya nadharia la ukurasa huu linasema kinyume: matumizi si maendeleo, na mtindo unaojirudia wa uwanja ni dhana zilizokopwa zinazotumika kama msamiati badala ya utabiri unaoweza kujaribiwa. Tofauti hii ni muhimu kwa sababu mfumo uliokopwa ambao hauwezi kuzalisha tofauti inayoweza kukanushwa ni mapambo, si nadharia.
+
+**"Uainishaji uliopo wa kazi ya kielimu ya AI tayari unafunika kile mifumo hii inachofanya."** Haufuniki sehemu kubwa yake. Miongoni mwa machapisho 154 yenye kazi ya matumizi inayoweza kuainishwa, **90 (58.4%) yalitoroka makundi manne** ya mfumo uliotangulia, ndiyo sababu kazi mpya inavuka kazi na udhibiti uliokabidhiwa, msimamo wa kiakili na ufundishaji ulioingizwa. Uainishaji unaokosea takriban watatu kati ya watano hauwezi kutumika kama msamiati wa pamoja wa uwanja, na pengo hili ni ugunduzi kuhusu jambo lenyewe badala ya pengo katika karatasi.

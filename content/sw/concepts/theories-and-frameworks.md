@@ -1,6 +1,7 @@
 ---
 title: Nadharia na Miundo
 created: "2026-10-13T06:12:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -8,13 +9,17 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [bloom-taxonomy, item-response-theory, learning-sciences, learning-theories, limitations-in-aied-research, philosophy-of-ai-in-education, research-methods-aied, technology-acceptance-model, theory-development-aied, tpack, universal-design-for-learning]
 connected_articles: [genai-chatbots-language-learning-affordances-review-2026, ai-game-based-learning-systematic-review-2026, rismanchian-ai-education-four-decades-aixed-2026, educating-minds-generative-ai-2026, activity-theory-teacher-pd-ai-agent-design-2026, activity-theory-teachers-adoption-ai-sem-2026, generativism-learning-theory, learning-with-machines-toward-a-theory-of-epistemic-co-agency, absent-cognitive-baseline-2026, yan-agentivism-learning-theory-ai-2026, ai-literacy-instrument-development-systematic-review-2026, mishra-control-vs-agency-history-2025, wells-genai-research-assistant-sociology-2026]
@@ -65,6 +70,8 @@ Hizi zinaeleza mifumo: zinataja sehemu zinazofanya kazi na kutabiri nini kinacho
 ## Miundo ya ufundishaji, ujumuishaji, na upokeaji
 
 - **[[tpack|TPACK]]** — maarifa ya mwalimu yanayochanganya teknolojia, mbinu za kufundisha, na maudhui; mfumo chaguomsingi kwa masomo ya AI yanayowaelekea walimu.
+- **[[bloom-taxonomy|Taksonomia ya Bloom]]** — msamiati wa pamoja wa mahitaji ya kiakili ya kazi, unatumika kusimamisha vipengele na kuvipanga; katika AI katika elimu umegeuka kuwa tatizo la upimaji kama ilivyo la ubunifu.
+- **Mfano wa kuthibitisha matarajio (ECM)** — kuridhika kama uthibitisho wa matarajio ya awali, kwa kuendelea badala ya uandikishi wa mwanzo kama matokeo. Katika jaribio moja la muhula mmoja la mbinu za sosiolojia na wanafunzi 24 wa shahada ya kwanza, 87% waliipima Copilot kuwa nzuri au bora sana na 91% wangelipendekeza, lakini ni 57% pekee walio nia kuendelea kulitumia ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). Pensi hilo ndilo jambo la mfano: mtumiaji anayeridhika anaweza bado kukataa kurudi, kwa hiyo kuridhika na kuendelea vinahitaji vipimo tofauti.
 - **[[technology-acceptance-model|Miundo ya upokeaji]]** — nia kama kazi ya manufaa inayohisiwa na urahisi wa matumizi. Inatumika kwa upana kiasi kwamba utegemezi wa uwanja kwa nia badala ya tabia ni ukosoaji unaodumu.
 - **[[icap-framework|ICAP]]** — inapanga ushiriki kama wa kupitisha, hai, wa kujenga, na wa mwingiliano; yenye manufaa kwa kuuliza hali gani ambayo [[student-ai-interaction|mwingiliano wa AI]] huwapa kweli.
 - **[[samr-model|SAMR]]** — uingizwaji hadi ufafanuzi upya. Inajulikana kama hadithi ya ukomavu, dhaifu kama kifaa cha kupima.
@@ -103,7 +110,7 @@ Maneno yanatumika bila mpangilio katika fasiri, na tofauti inastahili aya moja b
 
 ## Tabaka zinazohusiana
 
-Kurasa mbili za jirani zimebuniwa kwa makusudi kuhusu kitu kingine. [[philosophy-of-ai-in-education|Falsafa ya AI katika elimu]] inauliza maswali ya kanuni na ya dhana — elimu ni *kwa ajili ya* nini, kama mashine inaweza kufundisha — na haitabiri ukubwa wa athari; utafiti unaweza kuwa wa kijinga kifalsafa na wa nadharia yenye ufanisi, au kinyume chake. [[theory-development-aied|Maendeleo ya nadharia]] ni shughuli ya juu ya kujenga, kukopwa, na kubadilisha nadharia, ikijumuisha ukosoaji unaodumu kuwa kazi nyingi za [[ai-education|AIED]] zinatumia nadhari za zilizoko badala ya kuzijaribu. Ukurasa huu ni orodha; maendeleo ya nadharia ni kuhusu kuzalisha na kubadilisha orodha.
+Kurasa mbili za jirani zimebuniwa kwa makusudi kuhusu kitu kingine. [[philosophy-of-ai-in-education|Falsafa ya AI katika elimu]] inauliza maswali ya kanuni na ya dhana — elimu ni *kwa ajili ya* nini, kama mashine inaweza kufundisha — na haitabiri ukubwa wa athari; utafiti unaweza kuwa wa kijinga kifalsafa na wa nadharia yenye ufanisi, au kinyume chake. [[theory-development-aied|Maendeleo ya nadharia]] ni shughuli ya juu ya kujenga, kukopwa, na kubadilisha nadharia, ikijumuisha ukosoaji unaodumu kuwa kazi nyingi za [[ai-education|AIED]] zinatumia nadhari za zilizoko badala ya kuzijaribu. Ukurasa huu ni orodha; maendeleo ya nadharia ni kuhusu kuzalisha na kubadilisha orodha. [[learning-environments-as-systems|Mazingira ya kujifunza kama mifumo]] ni jirani wa tatu. Si nadharia ya kujifunza na haitabiri ukubwa wa athari, bali msimamo kuhusu kitengo cha uchanganuzi: mazingira ya kujifunza ni mfumo wa ngazi nyingi ambao sehemu zake zinategemeana, kwa hiyo ngazi ambayo utafiti unapima ni uamuzi wa kinadharia, si nafuu ya sampuli.
 
 ## Kuchagua lenzi wakati swali ni la vitendo
 

@@ -1,7 +1,7 @@
 ---
 title: Ukosoaji wa AI katika Elimu
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-22T04:30:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-21T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Kundi la pili hushambulia msamiati badala ya mashine. Wang na Jin wanasoma nyara
 
 ## Miundombinu, uhamishishaji wa kimaana na kutotambua vizuri
 
-Kundi la tatu hubadili uangalihu kutoka zana hadi miundombinu inayozunguka. Watson, Morgner na Brezovec huchukua AI ya kizalishaji kama miundombinu inayopitisha maana, na kuita utendaji wake *uhamishishaji wa kimaana*: kugeuza ombi la elimu — ilani, maelekezo, rubriki, swali la mtihani, fanii au sera — kuwa fomu inayokubalika katika mawasiliano ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner na Brezovec (2026)]]). Kwa sababu uhamishishaji ni wa kuchagua, unaweza kujumuisha au kutenga. Sehemu tatu zinajirudia: migawanyiko ya ufikiaji na uwezo, kutotambua vizuri kupitia violezo vya jinsi jibu zuri au mwanafunzi mzuri anavyosikika, na mteremko wa kimaadili katika kile ambacho mbinu ya kufundisha inachotazamiwa kuwa. Kutoingiza mara nyingi si marufuku bali ni kushikwa kati ya pande mbili — taasisi zinapandisha matarajio ya kasi, urembo na ufasaha wa misimu ya lugha huku zikikaza mifumo ya uasilia kwa wakati mmoja.
+Kundi la tatu hubadili uangalihu kutoka zana hadi miundombinu inayozunguka. Watson, Morgner na Brezovec huchukua AI ya kizalishaji kama miundombinu inayopitisha maana, na kuita utendaji wake *uhamishishaji wa kimaana*: kugeuza ombi la elimu — ilani, maelekezo, [[rubrics|rubriki]], swali la mtihani, fanii au sera — kuwa fomu inayokubalika katika mawasiliano ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner na Brezovec (2026)]]). Kwa sababu uhamishishaji ni wa kuchagua, unaweza kujumuisha au kutenga. Sehemu tatu zinajirudia: migawanyiko ya ufikiaji na uwezo, kutotambua vizuri kupitia violezo vya jinsi jibu zuri au mwanafunzi mzuri anavyosikika, na mteremko wa kimaadili katika kile ambacho mbinu ya kufundisha inachotazamiwa kuwa. Kutoingiza mara nyingi si marufuku bali ni kushikwa kati ya pande mbili — taasisi zinapandisha matarajio ya kasi, urembo na ufasaha wa misimu ya lugha huku zikikaza mifumo ya uasilia kwa wakati mmoja.
 
 ## Kuweka ajenda, uvumbuzi wa kughushi na kutarajia kwa majaribio
 

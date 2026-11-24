@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Akili Bandia Inayojitegemea
 created: "2026-10-13T05:34:00-04:00"
-updated: "2026-11-17T20:00:00-05:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-16T05:33:47-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-17"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [scaffolding, intelligent-tutoring, ai-literacy, prompt-engineering, curriculum-design, metacognition, adaptive-learning, educational-development, human-in-the-loop-ai, agency, cognitive-offloading, desirable-difficulties, sociocultural-learning, simulation, pedagogical-safety, ai-education, equity-in-ai-education, authentic-assessment, teacher-role, learning-design, teacher-ai-competency, academic-integrity, online-teaching-and-learning, educational-policy-ai]
 connected_articles: [adversarial-stress-testing-role-playing-agents, agentic-ai-education-scoping-review, agentic-ai-pedagogical-best-practice-2026, ai-agents-complete-lms-assessment-validity-2026, ai-agents-constructive-conflict-design-education-2026, ai-agents-joyful-assessment-third-space-2026, ai-standardized-patient-scaffolding-medical-2026, ai-tpack-teacher-multi-agent-workflow, ai-web-agents-lesson-design-2025, alghamdi-claude-code-agentic-grading-2026, baradziej-agentic-ai-higher-education-2026, beyond-agent-label-agentic-ai-governance-2026, bozkurt-ghost-students-agentic-ai-2026, code-gen, cyberagents-gamified-cybersecurity-learning-2026, educlaw-bench-pedagogical-llm-agents-2026, ethics-training-agents-group-ethics-discussion-2026, guided-llm-scaffolding-independent-learning, hdr-brachytherapy-agentic-ai-simulation-2026, ilieva-agentic-genai-higher-education-2026, jeon-isd-agent-bench-2026, jingru-fan-agentic-university-collaborative-agents-2026, kostopoulos-agentic-ai-education-2025, learnmate2-llm-adaptive-learning, nkrumah-ai-skill-extraction-engineering-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, raman-agentic-ai-delegation-diffusion-2026, spec-driven-development-ai-agents-sdpbl-2026, sudarshan-agentic-ai-ecosystems-higher-education-2026, tool-invariant-framework-agentic-ai]
@@ -80,7 +84,7 @@ Ambapo [[agentic-ai-education-scoping-review|mapitio ya wigo ya masudio 474]] na
 
 - **Matumizi ya taaluma:** mifumo inayojitegemea yanatokea katika taaluma mbalimbali, ikijumuisha [[learnmate2-llm-adaptive-learning|mawakala wa kujifunza kulingana na mabadiliko]], [[educlaw-bench-pedagogical-llm-agents-2026|mawakala wa LLM wa kielimu]], [[guided-llm-scaffolding-independent-learning|ngazi za msaada za LLM zilizoelekezwa]], [[cyberagents-gamified-cybersecurity-learning-2026|mawakala wa kujifunza usalama wa mtandao kwa mtindo wa mchezo]], na [[hdr-brachytherapy-agentic-ai-simulation-2026|mawakala wa uigizaji wa kliniki]].
 
-- **Kupiga alama kwa wakala ni swali la kuaminika kabla ya kuwa swali la mzigo wa kazi.** Utekelezaji wa Claude Code wenye wakala ulipewa faili tatu za rubriki na karatasi 60 zilizopigwa picha kwa mkono za mtihani wa kati wa kozi ya michoro ya kompyuta. Alama zake zilikubaliana na mkufunzi kwa r = 0.97, na hitilafu ya wastani kamili ya alama 0.85 kwenye karatasi ya alama 20, upendeleo wa wastani wa AI-upande wa 0.68, na ICC ya mtihani-urejeshaji wa 0.96 katika vikao viwili kwa wiki moja kando. Jumla inaficha mahali inaposhindwa: kappa yenye uzito ilianzia 0.98 kwenye maswali ya chaguo moja hadi 0.65 kwenye vitu vya tathmini, huku michoro iliyochorwa kwa mkono ikiwa kesi dhaifu zaidi ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Kozi moja, mkufunzi mmoja na seti moja ya rubriki hupima tofauti; hazithibitishi kwamba kupiga alama kwa wakala kunaweza kujumuishwa kwa jumla.
+- **Kupiga alama kwa wakala ni swali la kuaminika kabla ya kuwa swali la mzigo wa kazi.** Utekelezaji wa Claude Code wenye wakala ulipewa [[rubrics|faili tatu za rubriki]] na karatasi 60 zilizopigwa picha kwa mkono za mtihani wa kati wa kozi ya michoro ya kompyuta. Alama zake zilikubaliana na mkufunzi kwa r = 0.97, na hitilafu ya wastani kamili ya alama 0.85 kwenye karatasi ya alama 20, upendeleo wa wastani wa AI-upande wa 0.68, na ICC ya mtihani-urejeshaji wa 0.96 katika vikao viwili kwa wiki moja kando. Jumla inaficha mahali inaposhindwa: kappa yenye uzito ilianzia 0.98 kwenye maswali ya chaguo moja hadi 0.65 kwenye vitu vya tathmini, huku michoro iliyochorwa kwa mkono ikiwa kesi dhaifu zaidi ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Kozi moja, mkufunzi mmoja na seti moja ya rubriki hupima tofauti; hazithibitishi kwamba kupiga alama kwa wakala kunaweza kujumuishwa kwa jumla.
 
 - **Mawakala wa wavuti kama wathaminishaji wa uzoefu wa kujifunza:** wakala mmoja huru wa wavuti wa "kuelezea" anayesogeza [[learning-design|somo]] la mtandaoni kama mwanafunzi — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — huzalisha maelezo yenye utajiri wa kutosha kutabiri kuacha kwa wanafunzi na kumpa mbunzi maoni yanayoweza kutumiwa kabla wanafunzi halisi hawajashiriki, akifanya vizuri zaidi ya kikundi kamili cha wanafunzi wa kuigiza na kila msingi katika kozi ya kimataifa ya CS1. Hii huweka tathmini inayojitegemea (wakala kama mkosoaji anayechukua nafasi ya uzoefu wa kujifunza) kama matumizi tofauti, ya gharama ndogo ya AI inayojitegemea kando ya mawakala wanaofundisha au wanaobuni.
 
@@ -166,6 +170,8 @@ AI inayojitegemaa inaleta tishio mahususi la uadilifu yanayopita matukio ya zamu
 
 Hii inaunganisha majadiliano ya AI inayojitegemaa na makala ya hifadhi hii ya maarifa kuhusu [[academic-integrity|uadilifu]], ambayo huweka jibu kama kubuni upya tathmini na [[ai-literacy|ujuzi wa AI]] badala ya kugundua peke yake.
 
+- **Kitu cha kudhibiti kinaweza kuwa kilichoandikwa na wakala pia.** [[pinto-student-ownership-ai-agents-code-2026|Pinto et al. (2026)]] waliwaruhusu vipai vya wanafunzi 18 kujenga mifumo chini ya uendelezaji unaotegemea maelezo maalum, na wakapata kwamba mawakala yaliandika 69% ya maelezo maalum yanayolenga kuwaacha wanafunzi katika udhibiti, mara nyingi kutokana na maneno machache ya ilani, kwa hiyo maelezo ambayo yangelitakiwa kumthibitisha mwanafunzi ndiyo yaliyoandikwa na wakala.
+
 ## Mgogoro wenye tija na mwingiliano wa kijamii
 
 Tabia zote zinazojitegemaa hazihitaji kuwa msaada laini. [[ai-agents-constructive-conflict-design-education-2026|Utafiti juu ya mawakala wa kubuni ya matendo mabaya]] unaonyesha kuwa mawakala wanaotekeleza **mgogoro wa kujenga** walihimiza kurudia zaidi kwa njia inayoweza kuthibitishwa katika kubuni, uchunguzi mpana zaidi wa mbadala, na mifumo ya mwisho iliyokadiriwa juu zaidi miongoni mwa wabuni wapya wa mwingiliano (N=48) — mwelekeo wa *mgogoro wenye tija*, ambapo wakala wa mgogoro alikuwa wa kukerhamisha lakini hatimaye alikuwa msaidizi. Hii inaungana na [[socratic-method|maswali ya Sokratiki]] na [[design-thinking|ufikiri wa ubuni]], na inaonyesha jinsi AI inayojitegemaa inaweza kuunga mkono kufikiria upya kwa kina badala ya kupokea kwa njia isiyo na bidii.
@@ -177,6 +183,8 @@ Utafiti wa jinsi AI inayojitegemaa inafikia matokeo ya kujifunza kupitia njia za
 Kwa walimu, wataalam, na [[learning-design|wabuni wa mafunzo]], AI inayojitegemaa hubadilisha lile linalowezekana na lile linalopaswa kulindwa:
 
 - **Sambaza upya juhudi kwenda kazi zenye thamani zaidi.** Mawakala wanaweza kuchukua kupanga masomo, uzalishaji wa maswali na uthibitishaji, kupanga maoni, na kutafuta rasilimali. Waalimu wanapaswa kuvitendea hivi kama ngazi za msaada zinazoweza kuotomatishwa zinazoachia muda kwa lile mawakala wasiwezalo: kufundisha kwa uhusiano, uamuzi wa muktadha, na kubuni wa uzoefu wa kujifunza. Mitiririko ya kazi ya [[ai-tpack-teacher-multi-agent-workflow|mawakala wengi yanayoelekezwa kwa mwalimu]] ni mfano unaoahidi.
+
+- **Pima mahali watu wanapochora mpaka wa ukabidhi.** [[raman-agentic-ai-delegation-diffusion-2026|Raman, Tang & Nedungadi (2026)]] walifanya jaribio la uchaguzi wa tabia kwa nasibu na walimu 290 wa vyuo vikuu: 92% walikabidhi kuandika maswali, lakini ni 20% tu waliachilia jaribio kwenye jukwaa bila usimamizi, na ni 5% pekee waliochagua kuchapisha kiotomatiki. Mipangilio ya rasimu-tu na yenye lango la idhini ndiyo iliyopendelewa, kwa hiyo mpaka uko katika matendo ya jukwaa yasiyorekebishika badala ya katika uzalishaji wa maudhui.
 
 - **Weka kazi ya kiakili ya mwanafunzi mbele na katikati.** Swali kuu la kubuni si "wakala anaweza kufanya nini?" bali "mwanafunzi *lazima* afanye nini?" Wabuni wa mafunzo wanapaswa kupanga mifumo inayojitegemaa ili iweke ngazi za msaada badala ya kuchukua nafasi ya kupanga, kufuatilia na juhudi za mwanafunzi — kwa kutumia [[scaffolding|ngazi za msaada]] ya mabadiliko na [[desirable-difficulties|kuzua mgogoro kwa makusudi]] ili kulinda [[agency|wakala wa mwanafunzi]] na kuepuka [[cognitive-offloading|kutegemea kupita kiasi]].
 

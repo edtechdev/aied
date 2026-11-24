@@ -1,6 +1,7 @@
 ---
 title: Kuelekeza Matumizi ya AI kwa Wanafunzi
 created: "2026-10-13T10:07:00-04:00"
+updated: "2026-11-23T17:44:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -10,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-18T16:50:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-13"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-23"
     agent: hermes-agent
 connected_concepts: [reducing-ai-misuse, ai-literacy, student-experience, technology-acceptance-model, educational-policy-ai, academic-integrity, motivation, self-determination-theory, agency, trust-calibration, student-engagement, misconceptions]
 connected_articles: [genai-support-threaten-learning-k20-expert-consensus-2026, mccorkle-aligned-genai-course-policy-2025, moral-panic-genai-classroom, student-rationalization-ai-writing, student-regulatory-awareness-genai, ai-anxiety-strategic-regulation-writing-2026, chatgpt-inoculation-training-verification-2026, ai-fallibility-warning-help-seeking, shame-guilt-ai-regulation-computing-education, access-not-enough-ai-tutoring-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, youtube-frames-chatgpt-education, ai-ethics-education-public-discourse, ithaka-sr-ai-skills-college-graduates-2026, ssaho-ai-academic-integrity-review-2025]
@@ -79,6 +84,8 @@ Kuelekeza kinaungana na [[motivation]] kupitia [[self-determination-theory]]: ji
 ## Vyombo na uelekezaji wa umma
 
 Wanafunzi pia huelezewa na vyombo vya habari vya kijamii na mazungumzo ya umma yanayozunguka [[ai-education|AI katika elimu]], ambayo huunda matarajio yao ya msingi kabla ya ujumbe wowote wa mkufunzi. Uchanganuzi wa mazungumzo ya umma na jinsi majukwaa kama YouTube yanaelekeza matumizi ya ChatGPT katika elimu yanaonyesha kuwa mielekeo inayotawala — fujo, hofu, au uhalisi — huathiri jinsi wanafunzi na [[teacher-role|waelimishaji]] wanavyokaribia teknolojia.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Kuelekeza kunachofaa na waelimishaji mara nyingi kunamaanisha kupinga au kuelekeza upya kwa makusudi simulizi hizi za mazingira.
+
+Uelekezaji pia huweka thamani ya cheti cha kufuata: kwa wataalamu ~1,750 wa kuajiri nchini Marekani, kueleza matumizi ya AI ya mwanafunzi kama badala ya msaada kunapunguza uwezekano wa mahojiano na nia ya kujadiliana mshahara, kwa makali zaidi kwa waombi wenye alama za juu za GPA ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
 
 ## Mwongozo wa vitendo
 
