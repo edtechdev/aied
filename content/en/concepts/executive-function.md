@@ -1,7 +1,7 @@
 ---
 title: Executive Function
 created: "2026-11-12T18:35:44-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-24T07:40:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -15,6 +15,10 @@ ai_assist:
 reviewed_by: [editor]
 connected_concepts: [metacognition, cognitive-offloading, self-regulated-learning, cognitive-psychology, developmental-psychology, special-education, neurodiversity, scaffolding, assistive-technology, conversational-ai, generative-ai, teacher-role, higher-ed, k-12, longitudinal-research]
 connected_articles: [genai-reliance-executive-functioning-2026, vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026, pergantis-chatbots-executive-functions-systematic-review-2025, sidorkin-extended-executive-cognition-2025, wilder-adhd-ai-interview-eye-tracking-2025, ayasrah-executive-function-learning-difficulties-scale-2026, deep-adhd-ai-cognitive-emotional-ethical-2026, sharma-chatgpt-dependency-executive-dysfunction-stress-2026, horowitz-kraus-children-chatgpt-cognitive-control-2026, papasideri-cognitive-offloading-genai-narrative-review-2026, kreijkes-llm-note-taking-reading-comprehension-2026]
+connected_notebooks:
+  - title: "Executive function"
+    url: https://notebooklm.link.google/Q0iPRc8FGXFu
+
 ---
 
 > **Executive function** refers to the general-purpose control processes that let a learner hold information in mind, resist an easier response, switch between rules, and plan a route to a goal. In [[ai-education|AI in education]] it decides whether a tool substitutes for the capacity a task was meant to exercise or builds that capacity instead. It also sits where three literatures meet: the [[cognitive-offloading|reliance]] research, the special-needs research on support and accommodation, and the measurement work on how the construct is assessed. It differs from [[metacognition|metacognition]]. Knowing that an output should be verified is one capacity; holding the problem in mind long enough to verify it is another.

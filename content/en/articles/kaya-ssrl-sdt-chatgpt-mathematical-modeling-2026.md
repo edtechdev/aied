@@ -1,7 +1,7 @@
 ---
 title: "A socially shared regulation of learning and self-determination theory-based classification of generative artificial intelligence-mediated mathematical modeling activities: the case of ChatGPT"
-created: "2026-11-24T07:20:00-05:00"
-updated: "2026-11-24T07:20:00-05:00"
+created: "2026-11-24T06:25:00-05:00"
+updated: "2026-11-24T07:40:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Deniz Kaya", "Hatice Yildiz Durak"]
@@ -26,6 +26,10 @@ ai_assist:
     agent: hermes-agent
 source_depth: full text
 verified: [citation, numbers, quotes]
+connected_notebooks:
+  - title: "ChatGPT-mediated mathematical modeling activities"
+    url: https://notebooklm.link.google/wWTEH4HdF3Mf
+
 ---
 
 > **Synthesis:** Kaya and Yildiz Durak (2026) use a three-round Delphi panel of 10 experts, plus a field implementation with 40 preservice mathematics teachers working in five groups, to build a classification of 18 ChatGPT-4o-mediated mathematical modeling activities. Each activity is labeled against the four features of [[sociocultural-learning|socially shared regulation]] (transactive, deeply metacognitive, collectively agentic, socio-historical/contextualized), the collective-level needs of [[self-determination-theory|self-determination theory]] (autonomy, competence, relatedness), a [[math-education|modeling competency]], and the pedagogical role ChatGPT-4o plays in it. Consensus moved from 8 of 28 candidate activities in round one to 18 of 23 in round three, with merges and removals between rounds. The authors report the tool supported competence and autonomy but was limited on relatedness, and that some groups accepted ChatGPT-4o's output without critical evaluation.

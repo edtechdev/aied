@@ -1,0 +1,35 @@
+---
+/**
+ * The Connected Notebooks section: public Gemini (NotebookLM) notebooks a page
+ * names in `connected_notebooks`.
+ *
+ * A notebook is a destination off this site, so it gets an outbound link rather
+ * than a page-type icon, and it opens in a new tab. Reusing `.connected-list`
+ * keeps the list styling shared with the other foot-of-page sections; the only
+ * addition is the small "Gemini notebook" meta line, which tells a reader before
+ * they click that they are leaving the wiki.
+ */
+interface Props {
+  id: string;
+  heading: string;
+  notebooks: { title: string; url: string }[];
+}
+
+const { id, heading, notebooks } = Astro.props;
+---
+
+{notebooks.length > 0 && (
+  <section style="margin-top:2.5rem;" id={id}>
+    <h2>{heading}</h2>
+    <ul class="connected-list">
+      {notebooks.map((notebook) => (
+        <li>
+          <div class="connected-meta">Gemini notebook · opens in a new tab</div>
+          <a href={notebook.url} target="_blank" rel="noopener noreferrer">
+            {notebook.title}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}

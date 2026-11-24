@@ -1,7 +1,7 @@
 ---
 title: "Recognition of Triggers for Regulation and Learners’ Regulatory Responses in Agent-Supported Collaborative Learning"
-created: "2026-11-24T07:20:00-05:00"
-updated: "2026-11-24T07:20:00-05:00"
+created: "2026-11-24T06:25:00-05:00"
+updated: "2026-11-24T07:40:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Anni-Sofia Roberts", "Joni Lämsä", "Justin Edwards", "Sanna Järvelä"]
@@ -26,6 +26,10 @@ ai_assist:
     agent: hermes-agent
 source_depth: full text
 verified: [citation, numbers, quotes]
+connected_notebooks:
+  - title: "Regulation triggers and responses in agent-supported collaborative learning"
+    url: https://notebooklm.link.google/6jl7WEszCJx1
+
 ---
 
 > **Synthesis:** Roberts, Lämsä, Edwards and Järvelä (2026) ran a Wizard-of-Oz field study in which a metacognitive agent called MAI listened to 14 groups of preservice teachers and played prompts when its keyword rules fired. Across 11 h 31 min of video, MAI detected 58 triggers; task understanding and task enactment challenges dominated, and only 5.2% were purely socio-emotional. Groups responded to 55% of prompts, but a shared strategic change followed in only 9 of 58 cases. Cognitive-trigger prompts were judged timely by at least some group members 82% of the time, while prompts about a lack of shared perspective were judged relevant 52% of the time and provoked visible defensiveness.

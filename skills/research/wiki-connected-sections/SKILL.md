@@ -31,9 +31,12 @@ to know which one you are editing.
 - **`ConnectedList`** — Connected FAQs and Connected Resources; renders `<section id={id}><h2>{heading}</h2>`.
 - **`ConnectedVideos`** — `<section id="connected-videos"><h2>Connected Videos</h2>`; from `src/data/videos.ts`.
 - **`ConnectedPodcasts`** — `<section id="connected-podcasts">`, one embedded `AudioPlayer` per episode.
+- **`ConnectedNotebooks`** — `<section id="connected-notebooks">`, one outbound link per entry, opened in a
+  new tab. Entries are `{ title, url }` objects in the page's own frontmatter, NOT slugs: there is no page on
+  this site to resolve, so a mistyped URL degrades to a dead link rather than being caught by the build.
 
 Frontmatter fields: `connected_concepts`, `connected_articles`, `connected_faqs`, `connected_resources`,
-`connected_videos`, `connected_podcasts`.
+`connected_videos`, `connected_podcasts`, `connected_notebooks`.
 
 ## The TOC rule (the one that bites)
 

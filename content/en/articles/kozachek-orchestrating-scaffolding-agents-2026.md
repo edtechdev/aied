@@ -1,7 +1,7 @@
 ---
 title: "Orchestrating Scaffolding AI Agents: Design Principles for Mechanism-Specific Learner Support"
 created: "2026-11-19T13:35:00-05:00"
-updated: "2026-11-19T13:35:00-05:00"
+updated: "2026-11-24T07:40:00-05:00"
 type: article
 evidence_context: educational
 source_url: "https://doi.org/10.1007/978-3-032-28313-9_11"
@@ -24,6 +24,10 @@ discipline: [business education]
 sources: ['raw/papers/kozachek-orchestrating-scaffolding-agents-2026.md']
 confidence: medium
 page_kind: [design case]
+connected_notebooks:
+  - title: "Orchestrating scaffolding AI agents"
+    url: https://notebooklm.link.google/uG6cYghcx3Cu
+
 ---
 
 > **Synthesis:** Kozachek and Janson (2026) argue that a single general-purpose AI agent cannot scaffold well, because good [[scaffolding|scaffolding]] means giving a different kind of help at each stage — conceptual, procedural, strategic or metacognitive — and one agent answers every request the same way. They built a prototype in which a lead orchestrator hands each round to a specialist sub-agent, keeps a persistent profile of what the learner has demonstrated, and grounds its help in verified course materials. In a concept-mapping task, the order in which the specialists appeared predicted how much learners added to their maps: the metacognitive agent going first produced the most new concepts, and the conceptual agent going last produced almost none. Their point is that sequencing is a design decision, not an implementation detail.

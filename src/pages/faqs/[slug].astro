@@ -12,6 +12,7 @@ import { VIDEO_BY_SLUG, checkVideoPairing } from '../../data/videos';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 import { FAQ_SEARCH_ALIASES } from '../../data/searchAliases';
 import ConnectedPodcasts from '../../components/ConnectedPodcasts.astro';
+import ConnectedNotebooks from '../../components/ConnectedNotebooks.astro';
 
 export async function getStaticPaths() {
   const faqs = await getCollection('faqs');
@@ -142,6 +143,12 @@ if (connectedVideos.length > 0) {
 if (connectedPodcasts.length > 0) {
   toc.push({ text: 'Connected Podcasts', slug: 'connected-podcasts', depth: 2 });
 }
+// Connected Notebooks: public Gemini notebooks named in frontmatter. Links out, so
+// no slug resolution is needed.
+const connectedNotebooks = faq.data.connected_notebooks || [];
+if (connectedNotebooks.length > 0) {
+  toc.push({ text: 'Connected Notebooks', slug: 'connected-notebooks', depth: 2 });
+}
 ---
 
 <BaseLayout title={title} toc={toc}>
@@ -204,6 +211,12 @@ if (connectedPodcasts.length > 0) {
     <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
 
     <ConnectedPodcasts episodes={connectedPodcasts} />
+
+    <ConnectedNotebooks
+      id="connected-notebooks"
+      heading="Connected Notebooks"
+      notebooks={connectedNotebooks}
+    />
 
     <MetadataTable conceptTitles={conceptTitles} data={faq.data} />
     <SourceButtons filePath={contentFilePath('faqs', faq.id)} />

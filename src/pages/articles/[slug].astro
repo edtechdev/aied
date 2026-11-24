@@ -8,6 +8,7 @@ import { doiFromSources } from '../../lib/jsonld';
 import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
+import ConnectedNotebooks from '../../components/ConnectedNotebooks.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 import { evidenceContextNote } from '../../lib/evidenceContext';
 import { ARTICLE_REDIRECTS } from '../../data/articleRedirects';
@@ -157,6 +158,12 @@ if (connectedFaqs.length > 0) {
 if (connectedResources.length > 0) {
   toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
 }
+// Connected Notebooks: public Gemini notebooks named in frontmatter. They are links
+// out, so no slug resolution is needed -- only the raw list.
+const connectedNotebooks = article.data.connected_notebooks || [];
+if (connectedNotebooks.length > 0) {
+  toc.push({ text: 'Connected Notebooks', slug: 'connected-notebooks', depth: 2 });
+}
 ---
 <BaseLayout title={title} toc={toc}>
   <JsonLd
@@ -242,6 +249,12 @@ if (connectedResources.length > 0) {
         kind: 'resource' as const,
         summary: r.data.summary,
       }))}
+    />
+
+    <ConnectedNotebooks
+      id="connected-notebooks"
+      heading="Connected Notebooks"
+      notebooks={connectedNotebooks}
     />
 
     <MetadataTable conceptTitles={conceptTitles} data={article.data} />

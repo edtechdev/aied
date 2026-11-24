@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Support for Collaborative Learning: A Meta-Analysis"
 created: "2026-11-14T05:47:00-05:00"
-updated: "2026-11-14T05:47:00-05:00"
+updated: "2026-11-24T07:40:00-05:00"
 type: article
 sources: ['raw/papers/gao-adaptive-support-collaborative-learning-meta-2026.md']
 source_url: "https://doi.org/10.3102/00346543261488039"
@@ -25,9 +25,13 @@ ai_assist:
     agent: hermes-agent
 connected_concepts: [collaborative-learning, adaptive-learning, scaffolding, feedback, prior-knowledge]
 connected_articles: [adaptive-ai-scaffold-collaborative-problem-solving-2026, ba-ai-agents-cscl-review-2026, leite-its-k12-meta-analysis-2025, wu-hybrid-human-ai-tutoring-architecture-2026]
+connected_notebooks:
+  - title: "Adaptive support for collaborative learning"
+    url: https://notebooklm.google.com/notebook/0df1dc86-948a-4fe2-ae45-ba131bc08d20?utm_source=nlmm_share
+
 ---
 
-> **Synthesis:** Gao, Fischer, Stadler and Chernikova pool 83 experimental and quasi-experimental studies of adaptive instructional support in [[collaborative-learning|collaborative learning]], reported in 80 articles between 2004 and 2023, and find a medium positive effect (g = .73, 95% CI [.56, .90]). Gains are uneven: large for individual knowledge, medium for group products and processes, small for affect, and absent for cognitive load. The choices separating strong from weak interventions are consistent: cognitive sources, joint-activity targets, system control, and short durations do most of the work. Adaptivity helps when it is built into the task rather than layered on top of it.
+> **Synthesis:** Gao, Fischer, Stadler and Chernikova pool 83 experimental and quasi-experimental studies of adaptive instructional support in [[collaborative-learning|collaborative learning]], reported in 80 articles between 2004 and 2023, and find a medium positive effect. Gains are uneven: large for individual knowledge, medium for group products and processes, small for affect, and absent for cognitive load. The choices separating strong from weak interventions are consistent: cognitive sources, joint-activity targets, system control, and short durations do most of the work. Adaptivity helps when it is built into the task rather than layered on top of it.
 
 ## Key Findings
 
@@ -65,9 +69,9 @@ Online (g = .77) and hybrid (g = .87) contexts showed large effects; face-to-fac
 
 ## What this means for practice
 
-- **Instructors:** plan adaptive support as a short episode tied to a specific collaborative task, not a standing course feature. Trigger it from what students know and what the group is doing, and do not assume students will ask for help.
-- **Instructional designers:** give the system authority over when, how much, and what kind of support arrives, and aim it at the joint activity. If you add a second support, pair feedback with scaffolding.
-- **Administrators:** start where the environment already produces usable data, which here means online and hybrid courses, and treat face-to-face deployment as a pilot, not a proven gain.
+- **Instructors.** plan adaptive support as a short episode tied to a specific collaborative task, not a standing course feature. Trigger it from what students know and what the group is doing, and do not assume students will ask for help.
+- **Instructional designers.** give the system authority over when, how much, and what kind of support arrives, and aim it at the joint activity. If you add a second support, pair feedback with scaffolding.
+- **Administrators.** start where the environment already produces usable data, which here means online and hybrid courses, and treat face-to-face deployment as a pilot, not a proven gain.
 
 ## Limitations
 

@@ -112,6 +112,23 @@ const connectedResources = z
     message: 'connected_resources must be existing resource slugs',
   });
 
+// `connected_notebooks` names public Gemini (NotebookLM) notebooks a reader can
+// open to explore the page's topic further or generate ancillary materials from
+// it. A notebook has no page of its own here, so each entry carries its own title
+// and link rather than a slug; the URL is validated as http(s) because a link out
+// is only useful if it resolves. Optional, and locale-independent: the same
+// notebook serves every translation of the page.
+const NOTEBOOK_URL = /^https?:\/\/[^\s]+$/;
+const connectedNotebooks = z
+  .any()
+  .transform(v => (Array.isArray(v) ? v : []))
+  .optional()
+  .refine(arr => (arr ?? []).every(n => n && typeof n === 'object'
+    && typeof n.title === 'string' && n.title.trim() !== ''
+    && typeof n.url === 'string' && NOTEBOOK_URL.test(n.url)), {
+    message: 'connected_notebooks must be {title, url} entries with an http(s) url',
+  });
+
 const connectedFaqs = z
   .any()
   .transform(v => (Array.isArray(v) ? v.map(String) : []))
@@ -368,6 +385,7 @@ const articles = defineCollection({
     connected_resources: connectedResources,
     connected_concepts: connectedConcepts,
     connected_articles: connectedArticles,
+    connected_notebooks: connectedNotebooks,
     ...structuredMeta,
     ...provenance,
   }),
@@ -387,6 +405,7 @@ const concepts = defineCollection({
     connected_articles: connectedArticles,
     connected_podcasts: connectedPodcasts,
     connected_videos: connectedVideos,
+    connected_notebooks: connectedNotebooks,
     ...structuredMeta,
     ...provenance,
   }),
@@ -406,6 +425,7 @@ const faqs = defineCollection({
     connected_articles: connectedArticles,
     connected_podcasts: connectedPodcasts,
     connected_videos: connectedVideos,
+    connected_notebooks: connectedNotebooks,
     ...structuredMeta,
     ...provenance,
   }),
