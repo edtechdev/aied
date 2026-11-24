@@ -6,8 +6,17 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-23
-**Total backlog:** 0 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-24
+**Total backlog:** 1 article awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Awaiting full text
+
+- `10.1215/2834703X-12689864` — Toward a Theory of Critical AI Literacies as Media Literacies
+  (Sean Cho Ayres, *Critical AI* 4(2), published 2026-10-01) —
+  https://read.dukeupress.edu/critical-ai/article/doi/10.1215/2834703X-12689864/413909/Toward-a-Theory-of-Critical-AI-Literacies-as-Media
+  Full text not retrievable: the publisher page returns HTTP 403 behind a Cloudflare challenge both by
+  direct fetch and in a real browser; OpenAlex and Semantic Scholar both report the article closed
+  access with no repository or open-access copy. Only the abstract was recoverable. Needs a supplied PDF.
 
 ## Backlog cleared — 2026-11-23
 
