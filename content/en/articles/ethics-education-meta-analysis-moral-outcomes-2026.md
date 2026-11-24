@@ -1,7 +1,7 @@
 ---
 title: "Education is effective in improving students' ethical and moral outcomes: a systematic review and meta-analysis"
 created: "2026-11-19T10:02:00-05:00"
-updated: "2026-11-19T10:02:00-05:00"
+updated: "2026-11-24T08:38:00-05:00"
 type: article
 evidence_context: educational
 source_url: "https://osf.io/bdn2u"
@@ -21,6 +21,10 @@ research_method: [literature review]
 sources: ['raw/papers/ethics-education-meta-analysis-moral-outcomes-2026.md']
 confidence: medium
 page_kind: [synthesis]
+connected_notebooks:
+  - title: "Education and students’ ethical and moral outcomes"
+    url: https://notebooklm.link.google/7YQF3FxFIQMa
+
 ---
 
 > **Adjacent research — no AI in the study.** Basarkod and colleagues synthesized 66 studies (9,978 students) of ethics education and found that **ethics interventions work**: compared with control conditions, they raised ethical and moral outcomes by g = 0.55 (95% CI [0.39, 0.70]). The finding matters for an AI-in-education corpus because [[ethics|AI ethics]] and [[ai-literacy|AI literacy]] teaching is usually justified on the assumption that ethics instruction changes anything at all — and, more usefully, because the moderation results say *how* it changes: **discussion-based delivery worked, lecture-only delivery did not** (g = 0.56 and g = 0.68 for discussion and discussion-plus-didactic, against g = 0.10 for didactic alone, which was not distinguishable from zero). Nothing in this paper concerns AI; the bridge to AI ethics education is drawn below and flagged as interpretation.
