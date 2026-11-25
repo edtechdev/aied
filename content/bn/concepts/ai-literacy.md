@@ -1,12 +1,13 @@
 ---
 created: "2026-05-07T10:44:35-04:00"
 title: "এআই সাক্ষরতা"
-updated: "2026-11-25T13:41:28-0500"
+updated: "2026-11-25T13:41:28-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
 audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
+ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-11-13"
