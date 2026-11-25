@@ -9,15 +9,19 @@ ethics: [equity-in-ai-education]
 discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/language-learning"
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [eportfolio, writing-education, reading-education, ai-literacy, equity-in-ai-education, assessment-validity, bias-mitigation, inclusive-learning, special-education, intelligent-tutoring, generative-ai, student-experience, higher-ed, k-12, discipline-specific-aied, english-education, speech-and-voice-technologies]
 connected_articles: [chatbots-oral-proficiency-efl-systematic-review, student-ai-interaction-consecutive-interpreting-2026, wu-psychological-adaptation-ai-japanese-learning-2026, llm-agents-5e-esl-grammar-2026, gpt-item-generation-l2-listening-2026, bert-discourse-english-teaching-2026, ai-vs-human-assessment-efl-tpck-2026, governing-unseen-ai-literacy-language-teachers-2026, ai-guided-learning-audiovideo-2026, ai-interlocutor-l2-spoken-dialogue, robot-assisted-language-learning-meta-analysis-2026, self-referential-l2-writing-llm-assessment, ai-scoring-language-bias-physics, genai-linguistic-diversity-academic-writing, dyslexlens-dyslexic-learners-ai, tact-pedagogically-adaptive-esl-tutoring, ai-tools-arab-english-classrooms, structural-silence-underrepresented-language-ai-2026, instructor-designed-ai-tutors-foreign-language-sdt-2026, lukesova-clue-before-correction-2026, chatgpt-english-language-learning-malaysia, liu-emerging-tech-tefl-review-2026, wang-goal-setting-ai-engagement-2026, li-language-educators-genai-review-2026, asr-english-speaking-feedback-metacognition-2026, genai-writing-program-primary-l2-motivation-engagement, llmersion-local-first-language-learning-2026, ai-ethics-tensions-online-pedagogy-2026, ai-speaking-practice-communicative-readiness-2026, genai-social-annotation-epistemic-network-analysis-2026, acoustic-lexical-native-language-identification-learners-2026, xian-process-visualization-feedback-news-translation-2026, wordofa-genai-grammar-instruction-efl-2026, zhang-genai-l2-learning-meta-analysis-2026, wiboolyasarin-ai-chatbots-l2-literacy-2026]
@@ -63,7 +67,7 @@ connected_faqs: [ai-support-reading-comprehension]
 
 تحریکی اثر ایک مدرس کے بنائے ہوئے ٹیوٹر میں استعمال کی تعدد کے بجائے ڈیزائن کے معیار سے آیا: کورس تک محدود جاپانی GPT استعمال کرنے والے 74 انڈرگریجویٹس میں، کلاس سے باہر استعمال کی تعدد کا خودمختاری، قابلیت یا تعلقیت کے ساتھ کوئی نمایاں تعلق نہ تھا، جبکہ سیکھنے والوں نے ٹیوٹر کو [[self-directed-learning|خود رہنمائی سیکھنے]] کے لیے بہت اونچا درجہ دیا (M = 4.39) اور جذباتی تحفظ کا ذکر کیا (60.8%) ([[instructor-designed-ai-tutors-foreign-language-sdt-2026|Lee & Kwon, 2026]])۔
 
-**ابتدائی سطح پر GenAI کی معاونت والی تحریر۔** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] نے مشرقی چین کے 301 جماعت 5 اور 6 کے سیکھنے والوں کے ساتھ نو ہفتے کا رائے نگاری کا پروگرام چلایا، جس میں آٹھ برقرار کلاسوں کو بے ترتیب طور پر پروگرام یا روایتی تدریس کے لیے مختص کیا گیا۔ پروگرام نے سیکھنے والوں کے مثالی L2 تحریری خود کو بڑھایا (ایڈجسٹ شدہ اوسط فرق 0.20) اور تعلیمی ابھار کو (0.17)، اور رویے اور جذباتی شمولیت کو بلند کیا، مگر ترقی کی ذہنیت، علمی یا میٹا کوگنیٹو شمولیت، یا روبرک سے جانچے گئے تنظیم کو نہیں ہلایا — تحریر کے پہلوؤں میں صرف زبان کا استعمال بہتر ہوا۔ ڈیزائن کی دو خصوصیات زبان کے اساتذہ کے لیے اہم ہیں: پرامپٹنگ واضح طور پر سکھائی گئی، مخصوص تحریری اہداف سے جڑے ایک درجہ بند پرامپٹ ذخیرے کے ذریعے، اور GenAI فیڈبیک کو استاد کے فیڈبیک سے موازنے اور بار بار نظرثانی کے ساتھ استعمال کیا گیا۔ سیکھنے والوں نے تصنیف میں جو فوائد بتائے وہ اُسی تدریسی ڈھانچے پر کھڑے تھے، محض اوزار پر نہیں، اور مصنفین کم ہوتی [[metacognition|خود نگرانی]] اور شارٹ کٹ کی طرف مائل حکمتِ عملیوں کو مستقل خطرات قرار دیتے ہیں۔
+**ابتدائی سطح پر GenAI کی معاونت والی تحریر۔** [[genai-writing-program-primary-l2-motivation-engagement|Lu et al. (2026)]] نے مشرقی چین کے 301 جماعت 5 اور 6 کے سیکھنے والوں کے ساتھ نو ہفتے کا رائے نگاری کا پروگرام چلایا، جس میں آٹھ برقرار کلاسوں کو بے ترتیب طور پر پروگرام یا روایتی تدریس کے لیے مختص کیا گیا۔ پروگرام نے سیکھنے والوں کے مثالی L2 تحریری خود کو بڑھایا (ایڈجسٹ شدہ اوسط فرق 0.20) اور تعلیمی ابھار کو (0.17)، اور رویے اور جذباتی شمولیت کو بلند کیا، مگر ترقی کی ذہنیت، علمی یا میٹا کوگنیٹو شمولیت، یا [[rubrics|روبرک]] سے جانچے گئے تنظیم کو نہیں ہلایا — تحریر کے پہلوؤں میں صرف زبان کا استعمال بہتر ہوا۔ ڈیزائن کی دو خصوصیات زبان کے اساتذہ کے لیے اہم ہیں: پرامپٹنگ واضح طور پر سکھائی گئی، مخصوص تحریری اہداف سے جڑے ایک درجہ بند پرامپٹ ذخیرے کے ذریعے، اور GenAI فیڈبیک کو استاد کے فیڈبیک سے موازنے اور بار بار نظرثانی کے ساتھ استعمال کیا گیا۔ سیکھنے والوں نے تصنیف میں جو فوائد بتائے وہ اُسی تدریسی ڈھانچے پر کھڑے تھے، محض اوزار پر نہیں، اور مصنفین کم ہوتی [[metacognition|خود نگرانی]] اور شارٹ کٹ کی طرف مائل حکمتِ عملیوں کو مستقل خطرات قرار دیتے ہیں۔
 
 **GenAI کی گرامر تدریس تبصرے کے بجائے نظرثانی کے ذریعے کام کرتی ہے۔** 88 ایتھوپیائی EFL طلبہ کے ساتھ دس ہفتے کے نیم تجربے میں، مسودہ–پرامپٹ–غور–نظرثانی کے چکروں نے گرامر (η² = 0.499) اور مجموعی تحریر کو بڑھایا، اور مواد کے نمبر بھی بڑھے اگرچہ پرامپٹ مواد پر فیڈبیک دینے سے روکتا تھا ([[wordofa-genai-grammar-instruction-efl-2026|Wordofa & Abo, 2026]])۔
 
@@ -95,6 +99,10 @@ connected_faqs: [ai-support-reading-comprehension]
 
 **ترجمے کے طلبہ کو سطحی اصلاح سے ہٹایا جا سکتا ہے۔** خبروں کے ترجمے کے کورس میں، [[xian-process-visualization-feedback-news-translation-2026|Xian et al. (2026)]] نے پایا کہ سرچ انجن سے مشورہ سیشن کے وقت کا وسطی 15.6% سے 27.7% تک بڑھ گیا (p = 0.020، Holm کی اصلاح کے ساتھ) اور علم پر مبنی تلاش 7.2% سے 28.8% ہو گئی (p = 0.010)۔ مشینی ترجمے کا استعمال 28.5% سے 5.1% تک گر گیا مگر اہمیت تک نہ پہنچا (p = 0.338)، اور تعاملی AI کا استعمال وسطی صفر پر رہا۔ اصل محرک طلبہ کو اُن کا اپنا عمل دکھانا تھا، کسی اوزار پر پابندی نہیں۔
 
+
+Zhang, Aubrey, Wu اور Chiu کے 48 کنٹرول شدہ مطالعات (N = 5196) کے خلاصے میں پایا جاتا ہے کہ GenAI کا فائدہ موجودگی پر نہیں بلکہ ترتیب پر منحصر ہے۔ فیڈبیک اور جانچ کا استعمال سب سے بڑا اثر پیدا کیا (g = 1.15)، مقابل میں تدریسی انضمام کا g = 0.28، اور سیکھنے والے کی ہدایت والے انداز (g = 0.92) خودمختار اندازوں (g = 0.34) سے آگے نکل گئے۔ پڑھنے پر کوئی نمایاں اثر نہیں تھا، اور بولنے کا سرخی g = 1.48 تین حدسی بیرونی اقدار ہٹانے کے بعد g = 0.65 رہ گیا ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]])۔
+
+چیٹ بوٹ تعلیمی طور پر کتنا قیمتی ہے یہ مجموعی طور پر جانچا جاتا ہے۔ 533 تھائی قبل از خدمت اساتذہ، خدمت گزار اساتذہ اور یونیورسٹی لیکچرارز پر مبنی نفسیاتی پیمائشی جائزے نے گیمنگ والے، مخصوص L2 پڑھنے اور لکھنے کے چیٹ بوٹس کے لیے 47 شے والا ڈیزائن کی خصوصیات کا مجموعہ تیار کیا، پھر اسے 39 شے والے عارضی مجموعے تک چھانٹا ([[wiboolyasarin-ai-chatbots-l2-literacy-2026|Wiboolyasarin et al., 2026]])۔ ایک قابلِ تشریح تین جزوی ڈھانچہ — موافق اور کلاس روم سے مربوط معاونت، گیمنگ والی تحریک اور پیش رفت کا سراغ، اور تعلیمی طور پر rich ثقافتی طور پر متعلقہ مواد — بہت ہی زیادہ عواملی باہمی تعلقات (0.883–0.926) کے ساتھ موجود تھا اور ممتازی درستگی کی جانچوں میں ناکام رہا۔ دوہرے عامل کا ماڈل سب سے بہتر ثابت ہوا: معلمین وسیع عمومی ادراک کو پیداگوئی کے ڈیزائن کے معیار کے طور پر درجہ دیتے ہیں جن میں چھوٹے  domain-specific اجزا ہوتے ہیں، یعنی تین شعبے ڈیزائن کی ترجیحات منظم کرتے ہیں مگر تصدیق شدہ ذیلی پیمانے نہیں۔ یہ آلہ عارضی ہے اور جائزانہ استعمال سے پہلے مستقل تصدیق چاہیے۔
 ## عام غلط فہمیاں
 
 - **'مجسم روبوٹ ٹیوٹر تجسم کی وجہ سے کام کرتے ہیں۔'** **11 RALL مطالعات (N = 595)** کے میٹا تجزیے نے L2 سیکھنے پر بڑا مجموعی اثر (**g = 0.83**) پایا جس میں **زیادہ غیر ہم آہنگی** تھی، اور — اہم بات — اُسے صرف **تعامل** کی سطح کی خصوصیات نے معتدل کیا۔ ساخت اور طریقہ نے نہیں، لہٰذا ہارڈویئر فعال جزو نہیں ہے۔

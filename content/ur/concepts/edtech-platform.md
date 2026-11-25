@@ -10,15 +10,19 @@ technology: [adaptive-learning, generative-ai, llm, personalized-learning, edtec
 ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/edtech-platform"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [personalized-learning, adaptive-learning, intelligent-tutoring, learning-analytics, student-modeling, knowledge-tracing, automated-assessment, formative-assessment, generative-ai, llm, open-source, ai-literacy, student-experience, teacher-role, k-12, higher-ed, equity-in-ai-education, privacy, governance, culturally-relevant-pedagogy, stem-education, educational-technology-developers]
 connected_articles: [typology-generative-ai-tools-education-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, access-not-enough-ai-tutoring-2026, oatutor-open-source-adaptive-tutor-2023, mooc-to-maic, ai-lms-middle-school-longitudinal, taklif-ai-interest-based-personalized-assignments, edusim-llm-robotic-simulation-education-2026, teachy-mini-generative-social-robot-higher-ed-2026, hypergamification-game-engine-lms, edtech-design-time-generative-ui, lata-ferpa-compliant-local-llm-autograder, vismatic-secure-sandbox-cs-education, learnmate2-llm-adaptive-learning, privacy-aware-classroom-incident-recognition-2026, raza-farooq-aied-review-2020-2025, credentials-carry-evidence-ai-agents-2026, breideband-community-builder-cobi-2026, xai-teachers-trust-edtech-recommendations-2026, edtech-privacy-deferral-2026, synthetic-educational-data-structural-fidelity-2026]

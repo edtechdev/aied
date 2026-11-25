@@ -26,6 +26,10 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagogical-agent, formative-assessment, feedback, authentic-assessment, scaffolding, metacognition, community-of-inquiry, socratic-method, ai-literacy]
 ---
 
@@ -33,7 +37,7 @@ connected_concepts: [learning-design, prompt-engineering, generative-ai, pedagog
 
 **The Pedagogical Promptbook** ایسے پرامپٹس جمع کرتی ہے جو اپنی شہادت ساتھ لاتے ہیں۔ ہر باب ایک قائم شدہ مشق لیتا ہے، اس کے پیچھے کی تحقیق کا جائزہ لیتا ہے، مصنفین کے ساتھ ان تکراروں میں چلتا ہے جنہوں نے اس تحقیق کو کام کرتے پرامپٹ میں بدلا، بتاتا ہے کہ پرامپٹ کی کارکردگی کیسے جانچی گئی، اور پھر پورا پرامپٹ اور کوئی بھی معاون مواد چھاپتا ہے۔ یہ ڈھانچہ اسے ان پرامپٹ لائبریریوں سے الگ کرتا ہے جو بغیر توجیہہ کے گردش کرتی ہیں: قاری دیکھ سکتا ہے کہ پرامپٹ کس چیز کے سامنے جانچا گیا اور کیسے بدلا، اور طے کر سکتا ہے کہ شہادت اس کے اپنے کورس پر لاگو ہوتی ہے یا نہیں۔
 
-ابواب کسی ایک مضمون کے بجائے [[learning-design|انسٹرکشنل ڈیزائن]] اور تدریسی مشق پر پھیلے ہیں۔ ان میں AI ایجنٹ پرامپٹس میں cognitive apprenticeship بسانا، کورس ڈیزائن کے دوران تدریسی ارادے کو نظر آنے والا بنانا، think-pair-share کا ایسا نسخہ جو [[generative-ai|جنریٹو AI]] کو تعاونی ساتھی سمجھے، زیرِ تربیت اساتذہ کے لیے سیکھنے کے نظریہ سازوں کے ساتھ مکالماتی کردار سازی، [[community-of-inquiry|Community of Inquiry]] فورم کا autograder، ٹیوٹرنگ کے لیے [[formative-assessment|تکوینی]] [[feedback]] نظام، ہاتھ سے لکھی ریاضی پر گریڈنگ کی مدد، [[authentic-assessment|مستند جائزے]] کے لیے backward design، ARCS تحریکی ماڈل، Bloom taxonomy کے ذریعے تعمیری مطابقت، ذرائع جانچنے کے لیے ہم مرتبہ ٹیوٹرنگ، اور Gagné کے سیکھنے کی شرائط شامل ہیں۔
+ابواب کسی ایک مضمون کے بجائے [[learning-design|انسٹرکشنل ڈیزائن]] اور تدریسی مشق پر پھیلے ہیں۔ ان میں AI ایجنٹ پرامپٹس میں cognitive apprenticeship بسانا، کورس ڈیزائن کے دوران تدریسی ارادے کو نظر آنے والا بنانا، think-pair-share کا ایسا نسخہ جو [[generative-ai|جنریٹو AI]] کو تعاونی ساتھی سمجھے، زیرِ تربیت اساتذہ کے لیے سیکھنے کے نظریہ سازوں کے ساتھ مکالماتی کردار سازی، [[community-of-inquiry|Community of Inquiry]] فورم کا autograder، ٹیوٹرنگ کے لیے [[formative-assessment|تکوینی]] [[feedback]] نظام، ہاتھ سے لکھی ریاضی پر گریڈنگ کی مدد، [[authentic-assessment|مستند جائزے]] کے لیے backward design، ARCS تحریکی ماڈل، [[bloom-taxonomy|Bloom taxonomy]] کے ذریعے تعمیری مطابقت، ذرائع جانچنے کے لیے ہم مرتبہ ٹیوٹرنگ، اور Gagné کے سیکھنے کی شرائط شامل ہیں۔
 
 ## استعمال سے پہلے کیا جاننا چاہیے
 

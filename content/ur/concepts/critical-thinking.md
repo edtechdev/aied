@@ -9,9 +9,9 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-23T17:44:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/critical-thinking"
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T10:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -21,10 +21,10 @@ ai_assist:
     agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-23"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [metacognition, cognitive-offloading, ai-literacy, generative-ai, higher-ed, problem-based-learning, intelligent-tutoring, educational-development, teacher-role, student-experience, chemistry-education, biology-education, cognitive-surrender, reflection]
-connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
+connected_articles: [ai-overreliance-complex-adaptive-system-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, avraamidou-ai-colonization-science-education, caeai-ai-companions-learning-over-performance-2026, cetin-ai-comparative-reflection-modelling-2026, chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026, cognitive-commons-ai-expertise-regeneration, critical-thinking-paradox-genai-learning-2026, daoism-ai-education-philosophy-2026, davor-ai-supported-learning-higher-order-outcomes-2026, genai-dependence-research-creativity-2026, genai-support-threaten-learning-k20-expert-consensus-2026, genai-use-critical-thinking-moderation-2026, illmann-gen-cor-log-data-indicators-2026, kenzhebayeva-ai-role-rotation-pedagogical-model-2026, lara-nieto-critical-thinking-ai-scale-2026, layer-sensitive-cognitive-offloading-writing-2026, lftutor-logical-fallacy-education-2026, li-mroziak-reorienting-critical-ai-literacy, lu-ai-multimodal-writing-critical-thinking-2026, luo-ibl-patterns-llm-bloom-2026, melanou-genai-learning-dynamics-longitudinal-2026, motivational-gain-trumping-cognitive-offloading-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, pearls-epistemic-verification-2026, pedagogy-ai-mistakes, probing-ai-generated-physics-solutions-2026, ren-metacognitive-awareness-genai-reliance-2026, shaw-nave-cognitive-surrender-2026, shojaei-genai-dependence-critical-thinking-employability-2026, student-reception-genai-analogies-computing-2026, vega-baudrit-genai-university-chemistry-education-review-2026, zapata-hernandez-genai-cognitive-infrastructure-review-2026, zhao-genai-higher-order-thinking-meta-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, ayres-critical-ai-literacies-media-literacy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -107,6 +107,8 @@ GenAI کے استعمال کا خود رپورٹ کردہ تنقیدی سوچ س
 
 - **کسی مضمون میں تصدیق مرکزیت والا تکامل۔** [[generative-ai|جنریٹیو AI]] کا یونیورسٹی [[chemistry-education|کیمسٹری تعلیم]] میں ایک تنقیدی جائزہ (Vega-Baudrit and Rivera Álvarez, 2026) دلیل دیتا ہے کہ چونکہ کیمیائی استدلال کو میکروسکوپک، ذیلی خرد اور علامتی نمائندگیوں میں ہم آہنگ ہونا چاہیے، طلبہ اس چیز کی تصدیق نہیں کر سکتے جو وہ سمجھتے نہیں، اس لیے [[prior-knowledge]] اور [[scaffolding]] پہلے آتے ہیں اور تصدیق کو [[assessment]] میں ایک جانچے جانے والے سرگرمی کے طور پر شامل کرنا چاہیے: کوئی غلط مفروضہ شناخت کریں، اکائی یا میکانزم کی غلطی درست کریں، یا کسی پیدا شدہ جواب کو مسترد کرنے کا جواز دیں، اور پرامپٹ لاگ اور نظرثانی کی تاریخ استدلال کے نشانات کے طور پر رکھیں۔ ([[vega-baudrit-genai-university-chemistry-education-review-2026|Vega-Baudrit and Rivera Álvarez 2026]])
 - **تصدیق بطور سیکھنے کی سرگرمی، نہ صرف محافظ۔** [[pearls-epistemic-verification-2026|Wang (2026)]] AI مصنوع کی جانچ کو چھ باہم منحصر جہتوں — عمل، ثبوت، رسائی، تولیدی صلاحیت، جواز اور ماخذ — کے گرد منظم کرتے ہیں، اور اس جواز کو جوڑنے کو، نہ کہ نتائج کی روانی کو، وہ چیز قرار دیتے ہیں جو تدریسی مہارت پیدا کرتی ہے۔
+
+- **روانی سمجھ نہیں ہے۔** [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] روان پیداوار کو ایک سطحی خاصیت قرار دیتے ہیں جو جانچ پڑتال کے بجائے قبولیت کو دعوت دیتی ہے، اور تدریسی ہدف کو فریبکاری کے بجائے تفسیری فاصلہ قرار دیتے ہیں۔
 
 **نالج بیس میں ماہرین کے درجہ بندی کردہ سب سے بڑا خطرہ تنقیدی سوچ ہے۔** 30 ماہرین کے درجہ بندی کردہ 65 سیکھنے کے عمل میں، تنقیدی سوچ اور تنقیدی-تجزیاتی سوچ نے رپورٹ کی سب سے بلند خلل کی درجہ بندی حاصل کی (اوسط 5 میں سے 4.00؛ 96% درجہ بندی کرنے والے 3 یا اس سے اوپر) اور افزودگی حد سے نیچے رہی (2.40، 43%) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]])۔ اٹھارہ اعلیٰ درجے کے عمل میں سے دس صرف خطرے پر اتفاق رائے تک پہنچے، جسے رپورٹ لین دین کے بجائے یک طرفہ خطرہ پڑھتی ہے۔
 

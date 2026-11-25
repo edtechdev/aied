@@ -11,15 +11,19 @@ ethics: [ai-use-disclosure, trust, equity-in-ai-education, privacy, ai-misuse-le
 audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/social-norms-ai-use"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [academic-integrity, ai-use-disclosure, framing-ai-use-for-students, reducing-ai-misuse, learner-identity, ai-detection, remote-proctoring, trust, equity-in-ai-education, help-seeking, group-work, student-experience, anxiety-and-stress, governance, ethics]
 connected_articles: [student-perception-ai-use-collaboration, shame-guilt-ai-regulation-computing-education, chirikov-regulate-ai-syllabi-2026, vassallo-ai-guilt-complex-faculty-2026, agarwal-ethical-values-norms-aied-2026, conijn-fear-big-brother-proctored-exams-2022, harerimana-remote-proctoring-nursing-scoping-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, teichmann-detecting-undetectable-misconduct-2026, sobo-cheating-competing-ai-marketing-literacy-2025, chen-zou-genai-group-assessment-agency-2026, reddit-genai-education-discourse-analysis-2026, qu-wang-disclose-or-not-genai-2026]

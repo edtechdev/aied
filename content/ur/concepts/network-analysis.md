@@ -5,15 +5,15 @@ type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
-updated: "2026-11-08T13:08:24-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/network-analysis"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learning-analytics, knowledge-graph, meta-analysis-systematic-review, student-modeling, student-engagement, collaborative-learning, metacognition, ai-literacy, scaffolding, feedback]
 connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-transition-network-analysis-efl-writing-2026, tracing-genai-literacy-interaction-patterns, hao-human-ai-collaborative-problem-solving-cognition, misiejuk-cognitive-offloading-prompting-2026, youtube-frames-chatgpt-education, agency-gap-ai-writing, synthetic-educational-data-structural-fidelity-2026, dang-human-ai-collaboration-competency-2026]
@@ -72,7 +72,8 @@ connected_articles: [caeai-response-length-ai-ethics-education-2026, penny-trans
 1. **پیداوار کے صرف میٹرک کے بجائے عمل کے طریقوں کو ترجیح دیں۔** یہ جانچنے کے لیے کہ AI اوزار سیکھنے کی معاونت کرتے ہیں یا نہیں، یہ ماڈل کریں کہ سیکھنے والے واقعی کیسے جڑتے ہیں (قبولیت، مکالمہ، نظرثانی) — سلسلہ/نیٹ ورک طریقوں سے، نہ کہ صرف حتمی اسکور پر بھروسہ کر کے۔
 2. **علمی ساخت کے موازنے کے لیے ENA استعمال کریں۔** جب سوال یہ ہو کہ مختلف سیکھنے والے یا طریقے (انسان بمقابلہ AI) اپنی استدلال کی ساخت کیسے بناتے ہیں، ENA ساتھ آنے والے نیٹ ورکوں کا براہِ راست، بصری موازنہ فراہم کرتا ہے — یہ تکنیک [[student-modeling|طالب علم کی ماڈلنگ]] کے لیے موزوں ہے کہ سیکھنے والے خیالات کو کیسے جوڑتے ہیں۔
 3. **خودکار کوڈنگ کی توثیق کریں۔** بڑے لاگ ڈیٹا سیٹوں میں [[llm|LLM]] پر مبنی درجہ بندی طاقتور ہے مگر نیٹ ورک کی ساخت کی تفسیر سے پہلے انسانی کوڈنگ کے خلاف جانچی جانا چاہیے (بین-درجہ بندی کرنے والا اتفاق رپورٹ کریں)۔
-4. **امتیاز کے لیے ڈیزائن کریں۔** نیٹ ورک تجزیہ اکثر بے نقاب کرتا ہے کہ *ایک ہی* AI اوزار سیکھنے والوں کے ذیلی گروہوں میں مختلف تعامل کے نمونے پیدا کرتا ہے — جو ایک جیسے سائز کی جانچ کے بجائے انطباقی ڈیزائن کی رہنمائی کرتا ہے۔
+4. **ماحول کو نظام کے طور پر دیکھیں۔** [[learning-environments-as-systems|سیکھنے کے ماحول بطور نظام]] تمام سطحوں پر حصوں اور تعاملات کے تصویر کو عملی شکل دینے کے لیے نیٹ ورک طریقوں کو استعمال کرتا ہے۔
+5. **امتیاز کے لیے ڈیزائن کریں۔** نیٹ ورک تجزیہ اکثر بے نقاب کرتا ہے کہ *ایک ہی* AI اوزار سیکھنے والوں کے ذیلی گروہوں میں مختلف تعامل کے نمونے پیدا کرتا ہے — جو ایک جیسے سائز کی جانچ کے بجائے انطباقی ڈیزائن کی رہنمائی کرتا ہے۔
 
 ## مصنوعی تعاونی مکالمے کی ENA توثیق
 

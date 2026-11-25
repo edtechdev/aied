@@ -7,15 +7,15 @@ pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based
 technology: [generative-ai]
 discipline: [stem education]
 confidence: high
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/inquiry-based-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, project-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, scaffolding, cognitive-offloading, generative-ai, llm, stem-education, collaborative-learning, higher-ed, k-12, productive-failure]
 connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-problem-posing-primary-2026, luo-ibl-patterns-llm-bloom-2026, mujib-ai-ibl-creative-math-2026, zhao-genai-higher-order-thinking-meta-2026, niri-steam-ai-literacy-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, lukesova-clue-before-correction-2026, ai-supported-inquiry-photosynthesis-respiration-2026, ai-information-extraction-undergraduate-thesis-2026, ai-assisted-inquiry-ssi-climate, geoscience-field-learning-genai-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
@@ -58,7 +58,7 @@ connected_articles: [jiang-chatgpt-inquiry-steam-review-2026, dai-chatbots-probl
 
 IBL کا سوال پر مبنی، عمل پر مرکوز ڈھانچہ AI کے نتیجہ خیز استعمال کا فطری گھر ہے: طلبہ AI کے *ساتھ* بطور ساتھی سیکھتے ہیں، اُس سے بطور متبادل *نہیں*۔ علمی ذخیرے کے شواہد ایک بنیادی کشیدگی پر متفق ہیں — AI معلومات کی بازیافت اور سوال کی تشکیل کی رکاوٹ کم کر سکتا ہے ([[cognitive-offloading|علمی بوجھ]] گھٹاتے ہوئے اور گہرے [[reflection|غور]] کو ممکن بناتے ہوئے)، مگر ڈیزائن کے سہارے کے بغیر حد سے زیادہ انحصار اور اعلیٰ درجے کی سوچ کو نظرانداز کرنے کا خطرہ ہے۔ سہولت کار کا کردار، سہاروں کا ڈیزائن، اور جانچ کی مہارتوں کی واضح تعلیم وہ لیور ہیں جو طے کرتے ہیں کہ AI تفتیش کو گہرا کرتا ہے یا اُس کی جگہ لے لیتا ہے۔
 
-ایک مطالعہ سہولت کار کے پاس اوزار رکھنے کے بجائے سہولت کار ہی کا متبادل لاتا ہے۔ چار ہفتوں کے فارماکولوجی کورس میں 136 دوسرے سال کے میڈیکل طلبہ کو سہولت کار کی قیادت والے اور AI کی قیادت والے مسئلہ پر مبنی سیکھنے میں تقسیم کیا گیا۔ دونوں گروہوں نے قبل/بعد کے کثیر الانتخابی امتحانات میں نمایاں بہتری پائی اور بین گروہی فرق نمایاں نہیں تھا (p = 0.474)، مگر سہولت کار کی قیادت والے گروہ تنقیدی سوچ (14.75 بمقابلہ 13.09، p < 0.001) اور [[group-work|گروہی جانچ]] کی ربریک (26.51 بمقابلہ 24.74، p = 0.035) میں بہتر رہے ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty اور Rao، 2026]])۔ تفتیش کے نتائج قسم کے لحاظ سے بٹ گئے: مواد کا علم متبادل کے بعد بھی بچا اور استدلال کا عمل نہ بچا، اور یہی مطلب ہے یہ کہنا کہ سہولت کار ہی لیور ہے۔
+ایک مطالعہ سہولت کار کے پاس اوزار رکھنے کے بجائے سہولت کار ہی کا متبادل لاتا ہے۔ چار ہفتوں کے فارماکولوجی کورس میں 136 دوسرے سال کے میڈیکل طلبہ کو سہولت کار کی قیادت والے اور AI کی قیادت والے مسئلہ پر مبنی سیکھنے میں تقسیم کیا گیا۔ دونوں گروہوں نے قبل/بعد کے کثیر الانتخابی امتحانات میں نمایاں بہتری پائی اور بین گروہی فرق نمایاں نہیں تھا (p = 0.474)، مگر سہولت کار کی قیادت والے گروہ تنقیدی سوچ (14.75 بمقابلہ 13.09، p < 0.001) اور [[group-work|گروہی جانچ]] کی [[rubrics|ربریک]] (26.51 بمقابلہ 24.74، p = 0.035) میں بہتر رہے ([[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty اور Rao، 2026]])۔ تفتیش کے نتائج قسم کے لحاظ سے بٹ گئے: مواد کا علم متبادل کے بعد بھی بچا اور استدلال کا عمل نہ بچا، اور یہی مطلب ہے یہ کہنا کہ سہولت کار ہی لیور ہے۔
 
 ### نتیجہ خیز ناکامی اور تفتیش
 

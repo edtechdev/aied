@@ -7,15 +7,19 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-an
 audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
-updated: "2026-11-08T11:46:54-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/affective-computing"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [anxiety-and-stress, cognitive-offloading, student-experience, k-12, feedback, intelligent-tutoring, learning-design, affective-tutoring, student-modeling, math-education, open-source, llm-training-and-fine-tuning, ai-sycophancy, social-emotional-learning]
 connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wang-teacher-student-centered-agents-physics-2026, mindful-llm-math-tutoring-2026, emotion-aware-classroom-iot-monitoring-2026, ai-campus-wellbeing-tools, ai-fatigue-academic-contexts, kar-mathbuddy-affective-math-tutoring-2025, sycophantic-ai-social-interaction-2026, aivaluate-anxiety-assessment-2026, socratic-nuclear-ai-learning, ai-emotion-regulation-sport-exercise-2026]
@@ -36,7 +40,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 
 ## تعارف
 
-### تدریس کو ڈھالنے کے لیے جذبات کو محسوس کرنا
+## تدریس کو ڈھالنے کے لیے جذبات کو محسوس کرنا
 
 جذباتی کمپیوٹنگ کا مقصد AI نظاموں کو جذباتی طور پر باشعور بنانا ہے تاکہ وہ صرف یہ نہ دیکھیں کہ طلبہ کیا کرتے ہیں، بلکہ یہ بھی سمجھیں کہ وہ کیسا محسوس کرتے ہیں۔ تعلیم میں اس کا مطلب ہے پریشانی، الجھن، خود اعتمادی، اکتاہٹ یا شمولیت کو محسوس کرنا اور تدریس کو اُس کے مطابق ڈھالنا۔ [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]] اس نقطہ نظر کا مظاہرہ کرتا ہے: یہ دو ذرائع — گفتگو کا متن اور حقیقی وقت کے چہرے کے تاثرات — سے جذبہ ماڈل کرتا ہے اور مجموعی جذباتی کیفیت کو [[pedagogy|تدریسی]] حکمت عملیوں سے جوڑتا ہے، اور پھر ٹیوٹر کو [[prompt-engineering|پرامپٹ]] کرتا ہے۔
 
@@ -44,7 +48,7 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 
 - **درمیانی اسکول کی ریاضی میں جذباتی اور غور و فکر پر مبنی LLM سہارا:** [[mindful-llm-math-tutoring-2026|Rief et al. (2026)]] نے ساتویں جماعت کے طلبہ کے لیے الجبرا کے [[intelligent-tutoring|ٹیوٹر]] پر ذہن سازی (mindfulness) کی تہہ چڑھائی، متحرک گفتگو، سانس کی مشقوں اور ذہن سازی والی غلطی کے فیڈبیک کی زبان کے ذریعے۔ ایک چھوٹے کلاس روم [[rct]] میں (252 شرکاء میں سے 42 مکمل کرنے والے) ذہن سازی والا نسخہ صرف علمی سہارے کے مقابلے میں کم وقت میں اور کم مدد طلب کر کے ملتی جلتی الجبرا سیکھنے تک پہنچا — یعنی زیادہ سیکھنے کی کارکردگی اور زیادہ متوازن [[help-seeking|مدد طلب کرنا]] — البتہ حالت کی ریاضی کی بے چینی میں کمی دونوں حالتوں کے درمیان نمایاں طور پر مختلف نہ تھی۔
 
-### فوائد اور خطرات
+## فوائد اور خطرات
 
 جذبات سے واقف ٹیوٹرنگ قابلِ پیمائش فائدے دے سکتی ہے، مگر یہی نفاست خطرات بھی رکھتی ہے:
 
@@ -53,9 +57,9 @@ connected_articles: [ai-emotional-alerts-teachers-mathematics-classroom-2026, wa
 
 - **شمولیت سیکھنے کا متبادل پیمانہ نہیں۔** دماغی اشارے پڑھنے والی ایک تحقیق نے پایا کہ ایک محدود، موافقت پذیر انٹرفیس نے علمی شمولیت بڑھائی (p = .018) جبکہ غیر محدود چیٹ بوٹ نے زیادہ [[learning-gains|سیکھنے کے فائدے]] پیدا کیے (p < .03, d > 0.80)؛ یعنی جذبے یا شمولیت کا اشارہ اُس نتیجے سے اُلٹی سمت اشارہ کر سکتا ہے جس کی وہ خدمت کرتا ہے ([[socratic-nuclear-ai-learning|Clin Deffarges et al. (2026)]])۔
 
-### جذباتی کمپیوٹنگ اور وسیع تر AIED
+## جذباتی کمپیوٹنگ اور وسیع تر AIED
 
-جذباتی کمپیوٹنگ [[affective-tutoring|جذباتی ٹیوٹرنگ]] (اس کا تدریسی اطلاق)، [[student-modeling|طالب علم کی ماڈلنگ]] (جذبات سمیت پورے طالب علم کی نمائندگی) اور [[learning-analytics|لرننگ اینالیٹکس]] (طالب علم کے ڈیٹا سے اشارے نکالنا) کے سنگم پر بیٹھتی ہے۔ یہ [[intelligent-tutoring]] کے ڈیزائن اور [[pedagogical-safety|تدریسی تحفظ]] سے جڑتی ہے — یعنی اُس اصول سے کہ AI کو طالب علم کے جذبات کی حمایت کرنی چاہیے، اُن سے کھلواڑ نہیں۔
+جذباتی کمپیوٹنگ [[affective-tutoring|جذباتی ٹیوٹرنگ]] (اس کا تدریسی اطلاق)، [[student-modeling|طالب علم کی ماڈلنگ]] (جذبات سمیت پورے طالب علم کی نمائندگی) اور [[learning-analytics|لرننگ اینالیٹکس]] (طالب علم کے ڈیٹا سے اشارے نکالنا) کے سنگم پر بیٹھتی ہے۔ یہ [[intelligent-tutoring]] کے ڈیزائن اور [[pedagogical-safety|تدریسی تحفظ]] سے جڑتی ہے — یعنی اُس اصول سے کہ AI کو طالب علم کے جذبات کی حمایت کرنی چاہیے، اُن سے کھلواڑ نہیں۔ جذبات کا احساس اُس تدریسی طریقۂ کار سے الگ ہے جسے وہ پالتا ہے: [[affective-tutoring|جذباتی ٹیوٹرنگ]] اس بات کو ڈھالتا ہے کہ ٹیوٹر کو جذباتی پڑھائی پر کیسے عمل کرنا چاہیے، اور [[sensor-and-gaze-analytics|سینسر اور نگاہ کی اینالیٹکس]] اس بات کو ڈھالتے ہیں کہ خود اشارے کیا حمایت دے سکتے ہیں۔
 
 - **حقیقی وقت میں، ایج پر مبنی کلاس روم جذباتی نگرانی۔** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] ایک جذبات سے واقف کلاس روم معیار کی جانچ کا نظام بناتے ہیں جو جذباتی کمپیوٹنگ کو حقیقی، بڑے پیمانے کے ماحول میں لے جاتا ہے۔ **IoT/ایج ڈیوائسز** کے لیے تیار کردہ یہ نظام بوجھ کی تقسیم اور تاخیر کو حل کرتا ہے اور متعدد ایجنٹوں کو ہم آہنگ کرتا ہے تاکہ طلبہ کے جذباتی اور شمولیتی نمونے حقیقی وقت میں قید ہوں۔ اِس کا جائزہ **Classroom Emotion Dataset** پر لیا گیا (حقیقی ویت نامی K–12 کلاس روموں کی 1,500 لیبل شدہ تصاویر اور 300 ویڈیوز)، جس کا زور کثیر الاشخاص، قدرتی ماحول کے جذباتی تعامل پر تھا — یہ اس بات کا مظاہرہ ہے کہ جذبات کی شناخت لیب کے ماڈلوں سے قابلِ تعینات کلاس روم نگرانی تک کیسے بڑھائی جا سکتی ہے، اور ساتھ ہی ایسی نگرانی کے پیدا کردہ پرائیویسی اور [[pedagogical-safety|تدریسی تحفظ]] کے پہلوؤں کی یاد دہانی بھی۔
 

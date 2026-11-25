@@ -5,15 +5,15 @@ type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/psychometrically-aware-ai"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [educational-measurement, assessment-validity, item-response-theory, automated-assessment, ai-ed-evaluation, llm, limitations-in-aied-research, ai-education]
 connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loop-ai-scoring-national-assessment-2026, assessment-latent-structure-human-llm-2026, llm-psychometric-calibration-cdp, llm-item-difficulty-prediction, cong-confidence-asag-2026, multimodal-item-parameter-estimation-2026, competency-based-education-genai-production-2026, ai-grading-handwritten-physics-2026, razavi-powers-item-difficulty-llm-2026, ai-literacy-measurement-conceptual-landscape-llm-2026, student-llm-use-ai-question-difficulty-data-science-2026, learning-style-inference-bias-student-ai-dialogues-2026]
@@ -36,7 +36,7 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 
 جیسے جیسے AI نظام جوابات کو نشان زد کرتے، دشواری کی پیش گوئی کرتے اور [[feedback|فیڈبیک]] دیتے ہیں، ایک کلیدی خطرہ یہ ہے کہ وہ پراعتماد لگنے والے ایسے آؤٹ پٹ رپورٹ کریں جو پیمائشی اصولوں کے خلاف تصدیق شدہ نہ ہوں۔ سائیکو میٹرکس سے باشعور AI اس کا حل یہ ہے کہ AI [[assessment|جانچ]] کو قائم شدہ سائیکو میٹرکس میں زمین دے — آؤٹ پٹ کیلیبریٹ کرے، غیر یقینی کو مقدار میں ظاہر کرے، اور [[assessment-validity]] اور [[educational-measurement]] کے معیارات محفوظ رکھے، بجائے خام درستگی یا [[self-report-measures|خود رپورٹ شدہ]] اعتماد پر انحصار کے۔
 
-### سائیکو میٹرکس سے باشعور AI تحقیق میں کیسے نمودار ہوتا ہے
+## سائیکو میٹرکس سے باشعور AI تحقیق میں کیسے نمودار ہوتا ہے
 
 - **کیلیبریشن اور اعتماد:** [[automated-assessment|اعتماد سے باشعور جانچ]] اور [[llm-psychometric-calibration-cdp|LLM سائیکو میٹرک کیلیبریشن]] اس بات کو یقینی بناتی ہیں کہ AI بامعنی، غیر یقینی سے باشعور اسکور رپورٹ کرے، نہ کہ حد سے زیادہ پراعتماد نقطہ تخمینے۔
 - **ماڈل کا اعتماد کافی نہیں۔** SciEntsBank پر، زبانی، مخفی اور تسلسل پر مبنی اعتماد میں سے ہر ایک درست اور غلط مختصر جوابات کو الگ کرنے میں ناکام رہا؛ بہترین کیلیبریشن ڈیٹا سیٹ سے ماخوذ الیٹورک غیر یقینی — جڑے ہوئے جوابات کی درونِ کلسٹر اینٹروپی — کو Random Forest اور Platt اسکیلنگ کے ذریعے شامل کرنے سے ملی، جس سے انتخابی خودکار گریڈنگ اور [[human-in-the-loop-ai|انسانی جائزہ]] ممکن ہوا ([[cong-confidence-asag-2026|Cong et al. (2026)]])۔
@@ -48,10 +48,10 @@ connected_articles: [genai-reliance-scale-problem-solving-2026, human-in-the-loo
 - **مخفی ڈھانچے کا جواز:** [[assessment-latent-structure-human-llm-2026|Strugatski et al. (2026)]] دکھاتے ہیں کہ سائیکو میٹرکس سے باشعور موقف کو یہ بھی تصدیق کرنا ہوتا ہے کہ کوئی جانچ LLM میں *وہی مخفی تصور* ناپتی ہے جو انسانوں میں۔ چونکہ ایک ہی اوزاروں پر LLM اور انسانی جوابات کے عوامل کے ڈھانچے الگ ہو جاتے ہیں، اچھا اسکور کرنے والے ماڈل بھی وہ تصور نہ ناپ رہے ہوں جو امتحان کا دعویٰ ہے — یہ ہر اس AI جانچ کے لیے تحفظ ہے جو انسانی جواز کے شواہد ادھار لے۔
 - **ایک لیبل اپنے نام سے زیادہ، یا کم، ناپ سکتا ہے۔** [[ai-literacy|AI خواندگی]] کے 12 اوزاروں کے 55 تصورات اور 272 اشیاء کو سرایت دینے سے جینگل جوڑے (ایک ہی لیبل، مختلف پیمائش) اور جنگل جوڑے (مختلف لیبل، تقریباً یکساں الفاظ) سامنے آئے، اور اعتبار r = 0.49 پر بحال ہوا، یعنی جمع آوری سے پہلے کی جانچ کہ تصوراتی امتیازات اشیاء کے الفاظ تک زندہ رہتے ہیں ([[ai-literacy-measurement-conceptual-landscape-llm-2026|He et al. (2026)]])۔
 - **ایک انحصار کا پیمانہ جو نتیجے میں لنگر اندازی سے انکار کرتا ہے۔** چار عوامل — عکاسانہ، محتاط، بے سوچے اور اشتراکی استعمال — 800 جوابات سے ابھرے اور مختلف شکل والے کام میں بھی برقرار رہے (CFI = .91)، اور ہر کام کے لمحے کے حساب سے رویہ ناپتے ہیں، اسے اچھا یا برا کہہ کر لیبل نہیں لگاتے ([[genai-reliance-scale-problem-solving-2026|Hou et al. (2025)]])۔
-- **مخفی قابلیت کی پائپ لائنز اور معیار کا تعین:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] قومی امتحان میں سائیکو میٹرکس سے باشعور اسکورنگ کا ٹھوس سانچہ دیتے ہیں: روبرک آئٹم کے اسکور کبھی براہِ راست جمع نہیں کیے جاتے بلکہ [[item-response-theory|IRT]] ماڈل میں ڈالے جاتے ہیں جس کے مخفی قابلیت کے تخمینے Bookmark معیار تعین کے طریقے سے کاٹ کر ماہر / ماہر کے قریب / ناکافی میں تقسیم کیے جاتے ہیں، اور پاس ہونے کے لیے کم از کم دو ماہر حصے اور باقی ایک کم از کم ماہر کے قریب درکار ہے۔ مصنفین نے یہ پائپ لائن خودکار شکل میں دہرائی (نچلی حد کے لیے کم از کم 7 روبرک آئٹموں کے درست جواب کی 67% احتمال اور اوپری حد کے لیے کم از کم 10 کی)، جس سے AI اور انسانی آئٹم اسکوروں کا موازنہ یکساں فیصلہ معیار پر ممکن ہوا، محض خام اتفاق پر نہیں۔
+- **مخفی قابلیت کی پائپ لائنز اور معیار کا تعین:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] قومی امتحان میں سائیکو میٹرکس سے باشعور اسکورنگ کا ٹھوس سانچہ دیتے ہیں: [[rubrics|روبرک]] آئٹم کے اسکور کبھی براہِ راست جمع نہیں کیے جاتے بلکہ [[item-response-theory|IRT]] ماڈل میں ڈالے جاتے ہیں جس کے مخفی قابلیت کے تخمینے Bookmark معیار تعین کے طریقے سے کاٹ کر ماہر / ماہر کے قریب / ناکافی میں تقسیم کیے جاتے ہیں، اور پاس ہونے کے لیے کم از کم دو ماہر حصے اور باقی ایک کم از کم ماہر کے قریب درکار ہے۔ مصنفین نے یہ پائپ لائن خودکار شکل میں دہرائی (نچلی حد کے لیے کم از کم 7 روبرک آئٹموں کے درست جواب کی 67% احتمال اور اوپری حد کے لیے کم از کم 10 کی)، جس سے AI اور انسانی آئٹم اسکوروں کا موازنہ یکساں فیصلہ معیار پر ممکن ہوا، محض خام اتفاق پر نہیں۔
 - **ماڈل کیلیبریٹ شدہ دکھ سکتا ہے جبکہ زیادہ تر ایک ہی لیبل کی پیش گوئی کر رہا ہو۔** GPT-4o اور Gemini 2.0 Flash سے 153 انڈر گریجویٹس کی گفتگو سے سیکھنے کے انداز کے جہات کا اندازہ لگانے کو کہنے پر معتدل درستگی ملی، جسے فی جماعت یاد دہانی نے ظاہر کیا کہ غالب لیبل کی پیش گوئی ہے، اور Intuitive اور Global سیکھنے والے کم شناخت کیے گئے، اور چند مثالوں والی [[prompt-engineering|پرامپٹنگ]] کبھی کبھی تعصب کو کم کرنے کے بجائے بڑھا دیتی ہے ([[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard, Goudarzi and Robb (2026)]])۔
 
-### رابطے
+## رابطے
 
 سائیکو میٹرکس سے باشعور AI [[educational-measurement]]، [[assessment-validity]]، [[item-response-theory]] اور [[automated-assessment|اعتماد سے باشعور AI جانچ]] کے ملاپ پر بیٹھتا ہے۔ یہ [[ai-ed-evaluation]] (کہ AI جانچ قابلِ بھروسا ہے یا نہیں) میں مرکزی ہے اور [[llm]] پر مبنی [[automated-assessment]] اور [[automated-assessment|خودکار گریڈنگ]] سے جڑتا ہے۔ جواز پر اس کا زور اُن [[limitations-in-aied-research|پیمائشی حدود]] سے بھی بات کرتا ہے جو [[ai-education|AIED]] تحقیق کی ہیں۔
 

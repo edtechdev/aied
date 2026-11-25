@@ -5,15 +5,19 @@ type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/student-modeling"
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learners, explainable-ai, learning-analytics, knowledge-tracing, knowledge-graph, adaptive-learning, intelligent-tutoring, personalized-learning, formative-assessment, k-12, affective-tutoring, llm, higher-ed, ai-education, simulating-students, cognitive-diagnosis, feedback, recommender-systems-and-learning-paths, student-support-and-success, sensor-and-gaze-analytics]
 connected_articles: [deceptive-overgeneralization-adaptive-learning-2026, causal-modeling-competency-assessment-2026, turano-ai-tutoring-not-a-monolith-2026, learning-context-framework-context-aware-ai-education-2026, yasir-llm-tutoring-agents-2026, haiml-human-centered-ai-metacognitive-model-2026, at-risk-students-ml-prediction, correct-answer-trap-misconceptions, cross-subject-validity-delayed-start, edumirror-educational-social-dynamics, kar-mathbuddy-affective-math-tutoring-2025, multimodal-knowledge-graph-educational-reasoning, xie-hillm-cd-2026, inside-llm-student-simulator-reasoning-2026, trace-course-grade-prediction-2026, sc2r-counterfactual-recourse-educational-2026, graph-its-adaptive-algorithms-2026, distilling-self-explaining-lm-learning-analytics-2026, studentsim-llm-student-simulators, predicting-attrition-competitive-programming, pradeesh-outcome-knowledge-tracing-affinity-2026, an-goel-self-directed-modeling-2026, reddig-maclellan-personalized-feedback-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, process-grounded-language-cognitive-diagnosis-2026, exrec-exercise-recommendation-knowledge-tracing-2025, colearn-agentic-tutor-co-learning-loop-2026, ai-game-based-learning-systematic-review-2026, learning-style-inference-bias-student-ai-dialogues-2026]

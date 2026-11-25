@@ -14,7 +14,7 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-11-15T16:04:05-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 ---
 
@@ -40,7 +44,7 @@ ai_assist:
 
 **2.** اپنے مواد پر ریٹریول ماڈل کے آگے رکھیں۔ لاگت کے حساب سے یہاں سب سے بڑا واحد فائدہ یہی ہے، اور یہ واپس بھی لیا جا سکتا ہے۔
 
-**3.** پرامپٹ کو اپنی ربرک کے مقابل انجینئر کریں اور اُس وقت تک دہرائیں جب تک بہتری رک نہ جائے۔ رکنا ہی یہ اشارہ ہے کہ ٹریننگ کچھ اضافہ کر سکتی ہے۔
+**3.** پرامپٹ کو اپنی [[rubrics|ربرک]] کے مقابل انجینئر کریں اور اُس وقت تک دہرائیں جب تک بہتری رک نہ جائے۔ رکنا ہی یہ اشارہ ہے کہ ٹریننگ کچھ اضافہ کر سکتی ہے۔
 
 **4.** جب ہدف مستحکم اور تنگ ہو تو [[llm-training-and-fine-tuning|LoRA]] سے ویٹس کو اڈاپٹ کریں: کوئی فارمیٹ، ربرک، پڑھنے کی سطح، شعباتی ذخیرۂ الفاظ۔
 

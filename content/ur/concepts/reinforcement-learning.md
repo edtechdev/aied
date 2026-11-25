@@ -9,15 +9,19 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/reinforcement-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [intelligent-tutoring, student-experience, stem-education, self-regulated-learning, scaffolding, active-learning, edtech-platform, higher-ed, learning-analytics, open-source, pedagogical-safety, llm-training-and-fine-tuning, ai-technologies]
 connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teaching, singh-eduqwen-pedagogical-rl-2026, residencyrl-clinical-rl-training-2026, learnlm-improving-gemini-learning, adaptive-scaffolding-cognitive-engagement-its, riedmann-reinforcement-learning-education-review-2026]
@@ -37,11 +41,11 @@ connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teachin
 
 ## تعارف
 
-### AIED میں ری انفورسمنٹ لرننگ کیسے کام کرتی ہے
+## AIED میں ری انفورسمنٹ لرننگ کیسے کام کرتی ہے
 
 ری انفورسمنٹ لرننگ (RL) کسی ایجنٹ کو مطلوبہ رویے پر انعام دے کر تربیت دیتی ہے — ایجنٹ آزمائش اور غلطی کے ذریعے ایسی پالیسی سیکھتا ہے جو مجموعی انعام کو زیادہ سے زیادہ کرے۔ [[ai-education|تعلیم میں AI]] کے میدان میں RL کا استعمال ٹیوٹرنگ ایجنٹس اور سیکھنے کے ساتھیوں کی تربیت کے لیے ہوتا ہے جنہیں فیصلوں کی ترتیبیں بنانی پڑتی ہیں (کون سا اشارہ دینا ہے، مشکل کب بڑھانی ہے، مشق کی رفتار کیسی رکھنی ہے) نہ کہ یکلخت جوابات۔ اسی لیے RL [[adaptive-learning]] اور [[intelligent-tutoring]] کے لیے موزوں ہے، جہاں طویل المدتی تدریسی فیصلے اہمیت رکھتے ہیں۔
 
-### علمی ذخیرے میں درج اطلاقات
+## علمی ذخیرے میں درج اطلاقات
 
 - **تدریسی طور پر ہم آہنگ RL۔** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] ایک RL-SFT-RL پائپ لائن استعمال کر کے ایسا ماڈل تربیت دیتا ہے جو جواب دینے کے بجائے *رہنمائی* کرتا ہے اور انعام کو تدریسی اہداف کے ساتھ ہم آہنگ کرتا ہے؛ [[special-r1-rl-special-education]] [[special-education]] کے لیے ٹیوٹر ڈیزائن پر RL کا اطلاق کرتا ہے۔
 - **تدریسی ہدایات کی پیروی میں RL سپروائزڈ فائن ٹیوننگ سے بہتر ہے۔** LearnLM کی تربیت نے پایا کہ ترجیح پر مبنی RL اکیلے SFT سے نمایاں طور پر زیادہ مؤثر تھی، کیونکہ ترجیحی فیصلے طویل گفتگوؤں میں سیاق و سباق پر منحصر امتیازات کو پکڑتے ہیں جنہیں ہدایت کے لیبل والا سپروائزڈ ڈیٹا صرف جزوی طور پر سنبھال پاتا ہے ([[learnlm-improving-gemini-learning|LearnLM ٹیم (2025)]])۔
@@ -51,11 +55,11 @@ connected_articles: [history-aware-student-simulation, q-learning-lab-rl-teachin
 
 - **طویل المدتی، حفاظت کے وزن والی RL۔** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin وغیرہ، 2026)]] پوری 60 مرحلوں والی طبی ملاقاتوں کو بہتر بناتا ہے — جو ہم عصر [[conversational-ai|ڈائیلاگ نظاموں]] کے ≤12 مرحلوں والے افق سے کہیں آگے ہے — اور حفاظت کے ساتھ ہم آہنگ انعام کے ساتھ مخالفانہ نقلی مریضوں کے خلاف تربیت نے تشخیصی درستگی 7.0% بڑھائی اور نظر انداز شدہ ریڈ فلیگ کی شرح میں تقریباً ایک تہائی کمی کی۔
 
-### میدان بھر کے شواہد
+## میدان بھر کے شواہد
 
 ایک [[meta-analysis-systematic-review|PRISMA]] معیار کے مطابق [[riedmann-reinforcement-learning-education-review-2026|تعلیم میں RL کا منظم جائزہ (Riedmann, Schaper اور Lugrin، 2025)]] 89 مطالعات (2000–2024) کا اختصار کرتا ہے اور 2016 کے بعد [[adaptive-learning]] اور [[intelligent-tutoring|ٹیوٹرنگ]] اطلاقات میں تیز اضافہ پاتا ہے جو STEM (خاص طور پر [[math-education]]) میں مرکوز ہیں۔ یہ رپورٹ کرتا ہے کہ ماڈل سے آزاد RL غالب رہی (n = 72) اور Q-learning سب سے عام الگورتھم تھی، مگر کلاسیکی RL ڈیپ RL سے زیادہ مستقل طور پر مؤثر رہی (نمایاں برتری دکھانے والے مقالات 61% بمقابلہ 36%)؛ کہ تطبیق مواد کی ترتیب (n = 53) اور رہنمائی سے متعلق (n = 36) میکانزم میں بٹ گئی، اور رہنمائی میں RL نے بنیادی خطوط کو زیادہ کثرت سے پیچھے چھوڑا؛ اور کہ سیکھنے میں اضافہ — خاص طور پر معمول شدہ سیکھنے میں اضافہ — انعام کا سب سے مؤثر ماخذ تھا۔ جائزہ یہ بھی خبردار کرتا ہے کہ نصف سے زیادہ مطالعات (n = 54) نے شماریاتی جانچ چھوڑ دی، اس لیے میدان کی ترقی اس کی منہجی سختی سے آگے نکل گئی ہے۔
 
-### علمی ذخیرے سے ربط
+## علمی ذخیرے سے ربط
 
 RL آج کل کے بیشتر [[agentic-ai]] اور [[intelligent-tutoring]] ڈیزائن کی بنیاد ہے، جہاں ایجنٹ کو یکلخت درست جواب کے بجائے طویل مدتی سیکھنے کو بہتر بنانا ہوتا ہے۔ یہ [[llm-training-and-fine-tuning]] (RL بطور تربیتی طریقہ)، [[scaffolding]] (ایسا انعام ڈیزائن جو پیداواری رگڑ بچائے) اور [[self-regulated-learning]] (ایسے ایجنٹس جو سیکھنے والوں کو اپنی حکمتِ عملی منظم کرنے میں مدد دیں) سے جڑتا ہے۔ چونکہ انعام کا ڈیزائن تعلیمی اقدار کو سموتا ہے، AIED میں RL کی تحقیق [[pedagogical-safety]] اور ٹیوٹر کے [[equity-in-ai-education|منصفانہ]] رویے کے مساوات کے پہلوؤں سے گہرا جڑا ہے۔
 

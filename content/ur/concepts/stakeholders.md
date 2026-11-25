@@ -6,15 +6,19 @@ foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/stakeholders"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learners, teacher-role, learner-identity, agency, teacher-ai-competency, teacher-education, educational-development, tpack, student-experience, student-engagement, misconceptions, administrator, learning-design, curriculum-design, educational-policy-ai, governance, ai-literacy, equity-in-ai-education, higher-ed, k-12, adult-learning, parents-and-families, student-support-and-success]
 connected_articles: [genai-student-experiences-uk-he-survey-2026, ai-uk-higher-education-policy-2026, ai-campus-wellbeing-tools, ai-tpack-mathematics-teacher-education-2026, genai-policies-higher-ed-computing, ethical-ai-higher-ed-game-theory, student-rationalization-ai-writing, ai-changing-teaching-workflows, beyond-hype-stakeholder-perceptions-genai-2026, edtech-privacy-deferral-2026]

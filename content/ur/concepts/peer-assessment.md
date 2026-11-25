@@ -8,15 +8,15 @@ assessment: [ai-feedback-quality, formative-assessment, group-work]
 confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/peer-assessment"
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, writing-education, formative-assessment, self-assessment, ai-feedback-quality, ai-literacy, self-regulated-learning, metacognition, student-experience, collaborative-learning, academic-integrity, feedback-literacy, feedback, group-work, assessment, scaffolding]
 connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-who-grades-best-2026, pairr-ai-peer-review-2025, becerra-aicofe-feedback-2026, ai-internal-feedback-evaluative-judgments, learner-centered-feedback-ai, genai-linguistic-diversity-academic-writing, gift-ai-pairr-business-writing-2025, scaffolding-srl-feedback-genai-human-peers, irwin-muller-efl-peer-feedback-literacy, genai-feedback-design-multisite-experiment, chang-genai-peer-feedback-collaborative-argumentation-2026, chen-zou-genai-group-assessment-agency-2026, code-review-genai-cs1, multimodal-affective-its-presentation, hao-peer-exposure-bridging-social-capital-ai-summaries-2026, qu-wang-disclose-or-not-genai-2026, llm-critical-thinking-teamwork-review, ai-agents-peer-learning-discourse, oneill-presumed-effective-meta-analysis-2026, teacher-vs-ai-peer-feedback-l2-writing-2026, issa-teamwork-framework-academic-integrity-2024, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
@@ -29,7 +29,7 @@ connected_articles: [ai-peer-feedback-l2-writing-engagement-2026, usher-faraon-w
 ## غور کرنے کے سوالات
 
 - ایک ایسے وقت کو یاد کریں جب آپ کے کام کی جانچ کسی ہم مرتبہ نے کی تھی—یا آپ نے ان کے کام کی۔ آپ نے کس سے زیادہ سیکھا: فیڈبیک دینے سے یا وصول کرنے سے، اور کیوں؟
-- کسی طالب علم کا فیڈبیک AI فیڈبیک سے زیادہ سیاق آگاہ اور جذباتی طور پر معاون کیوں ہو سکتا ہے، حتیٰ کہ جب AI فیڈبیک زیادہ مستقل اور روبرک پر مبنی ہو؟ دونوں ایک دوسرے کی تکمیل کیسے کر سکتے ہیں؟
+- کسی طالب علم کا فیڈبیک AI فیڈبیک سے زیادہ سیاق آگاہ اور جذباتی طور پر معاون کیوں ہو سکتا ہے، حتیٰ کہ جب AI فیڈبیک زیادہ مستقل اور [[rubrics|روبرک پر مبنی]] ہو؟ دونوں ایک دوسرے کی تکمیل کیسے کر سکتے ہیں؟
 - ہم مرتبہ افراد مضبوط کام کو کم درجہ دیتے ہیں اور AI کمزور کام کو بڑھا چڑھا کر پیش کرتا ہے۔ اگر کوئی بھی پورے معیار کے دائرے میں قابل اعتماد طور پر درست نہیں، تو کسی بھی ماخذ کے درجے کو کس کام کے لیے استعمال کرنا چاہیے؟
 - ہم مرتبہ جانچ کا انحصار بہت حد تک [[scaffolding]] اور واضح معیارات پر ہے، اور دوستی کا تعصب اور سماجی [[anxiety-and-stress|بے چینی]] غیر تربیت یافتہ ہم مرتبہ جائزے کو کسی بھی جائزے سے بدتر بنا سکتی ہے۔ آپ کے سیاق میں مناسب تربیت درحقیقت کیسی دکھتی ہے؟
 - اگر AI تنظیم اور ساخت پر تبصرے کا مسودہ تیار کر سکتا ہے، تو کیا اس سے ہم مرتبہ جانچ غیر ضروری ہو جاتی ہے — یا یہ ساتھیوں کو وہ مخصوص، سامعین سے آگاہ فیڈبیک دینے کی آزادی دیتی ہے جو صرف وہی دے سکتے ہیں؟

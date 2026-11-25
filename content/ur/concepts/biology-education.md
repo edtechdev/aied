@@ -7,15 +7,19 @@ technology: [generative-ai]
 discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/biology-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [stem-education, chemistry-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, critical-thinking, human-ai-collaboration, academic-integrity, ethics, intelligent-tutoring, simulation, feedback, assessment, reducing-ai-misuse, cognitive-offloading, higher-ed, k-12, educational-policy-ai]
 connected_articles: [llm-open-ended-questions-biology-statistics-2026, biology-degree-integrity-genai-cheating-2026, chatgpt-virtual-lab-teaching-assistant-biology-2026, beyond-chatgpt-ai-tools-biological-education-2026, critical-thinking-biological-sciences-ai-2025, chatgpt-math-biology-challenge-based-learning-2025, zha-ai-literacy-biology-case-study, genai-socratic-tutor-biology-argumentation-2026]

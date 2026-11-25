@@ -7,9 +7,9 @@ pedagogy: [motivation, self-determination-theory]
 technology: [affective-computing]
 audience: [learners]
 confidence: high
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/self-determination-theory"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-24T07:20:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [motivation, student-experience, affective-computing, affective-tutoring, self-regulated-learning, teacher-ai-competency, educational-development, professional-training, cognitive-offloading, student-engagement, ai-education, learning-theories]
-connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026]
+connected_articles: [family-school-autonomy-support-genai-2026, dual-ai-learning-pathways-sdt-2026, reclaiming-epistemic-agency-co-agency-2026, claassen-learning-analytics-genai-learning-design-2026, teacher-education-ai-literacy-sdt-2026, students-engagement-with-generative-ai-in-academic-learning-a-self-determination, ai-availability-student-motivation, chatgpt-english-language-learning-malaysia, tts-dialogue-lessons-learner-characteristics-2026, liang-ai-learning-motivation-sdt-2026, student-motivation-need-satisfaction-genai-sdt-2026, genai-learning-engagement-medical-undergraduates-2026, teacher-ai-collaboration-work-engagement-2026, bassner-performance-learning-dissociation-ai-programming-2026, schweder-motivational-organization-ai-writing-sdt-2026, pan-generative-ai-student-motivation-sdt-review-2026, kaya-ssrl-sdt-chatgpt-mathematical-modeling-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -51,11 +55,13 @@ SDT تعلیم میں AI کی [[research-methods-aied|تحقیق]] میں تیز
 
 ایک تشکیلاتی آزمائش اِس نکتے کو مزید تیز کرتی ہے: 498 طبی انڈرگریجویٹس میں، GAI کا استعمال ضرورت کی تسکین کے ساتھ صرف کمزور طور پر جڑا تھا (β = 0.155) اور اعلیٰ شمولیت کے لیے غیر ضروری ثابت ہوا، جبکہ قابلیت کی ضرورت کی تسکین سب سے مضبوط تشکیل میں بنیادی شرط تھی ([[genai-learning-engagement-medical-undergraduates-2026|He وغیرہ (2026)]])۔
 
+اجتماعی سطح پر، [[kaya-ssrl-sdt-chatgpt-mathematical-modeling-2026|Kaya & Yildiz Durak (2026)]] نے 18 ChatGPT-4o کے ذریعے ثالثی شدہ ریاضیاتی ماڈلنگ سرگرمیوں کو اجتماعی خود مختاری، قابلیت اور تعلق کے خلاف، اور ساتھ ہی [[sociocultural-learning|سماجی طور پر مشترکہ ضابطگی]] کی خصوصیات کے مطابق درجہ بند کیا۔ ChatGPT-4o کو قابلیت اور خود مختاری کے لیے مؤثر جانا گیا مگر تعلق کے حوالے سے محدود، اور چند سرگرمیوں نے براہِ راست اُسے نشانہ بنایا۔
+
 **سیکھنے کے ماحول سے AI استعمال تک دوہرے راستے۔** [[dual-ai-learning-pathways-sdt-2026|Shen اور Arunrugstichai (2026)]] SDT کو رویے کی شمولیت کے Hook ماڈل کے ساتھ ملا کر یہ بیان کرتے ہیں کہ GenAI کا استعمال تعمیری معاونت سے لے کر مجبوری انحصار تک کیوں پھیلا ہوتا ہے۔ مختلف ہائی اسکول پس منظر اور موجودہ سیاق و سباق رکھنے والے **508 یونیورسٹی طلبہ** (چین اور تھائی لینڈ) کے کراس سیکشنل سروے ڈیٹا میں، **ہائی اسکول کے دباؤ بمقابلہ خود مختاری کی حمایت** کی ماضی کی رپورٹوں نے متفاوت طور پر پیش گوئی کی کہ طلبہ یونیورسٹی میں داخل ہوتے ہوئے دو راستوں میں سے کس پر چلیں گے — ایک تعمیری، خود مختار GenAI استعمال کی طرف اور دوسرا مجبوری انحصار کی طرف — اور نتائج بین السیاق کثیر گروپ تجزیوں میں یکساں رہے۔ یہ ماڈل SDT کے تحریکی عمل کو AI کی معاونت والی سیکھنے کے سمجھے گئے معیار سے جوڑتا ہے، اور خود مختاری کی حمایت کو ایسے دستے کے طور پر پیش کرتا ہے جو طلبہ کو کارآمد کے بجائے منحصر AI استعمال کی طرف موڑتا ہے۔
 
 - **زبان سیکھنے میں ChatGPT اور SDT ضرورتیں:** [[chatgpt-english-language-learning-malaysia|Annamalai وغیرہ (2026)]] نے 25 ملائیشیائی یونیورسٹی طلبہ کے ساتھ SDT کا زاویہ استعمال کیا اور پایا کہ ChatGPT [[language-learning|انگریزی زبان سیکھنے]] میں خود مختاری، تعلق اور قابلیت کو سہارا دیتا ہے — گرامر، تحریر اور گفتگو کے کام بہتر بناتا ہے جبکہ [[teacher-role|اساتذہ]] کو اعلیٰ درجے کی تربیت پر توجہ دینے دیتا ہے۔
 
-**اساتذہ کے اپنے AI کے ذریعے ثالثی شدہ عمل پر SDT کا اطلاق۔** [[claassen-learning-analytics-genai-learning-design-2026|Claassen وغیرہ (2026)]] نے SDT کو اِس بات کی تفسیری عینک کے طور پر استعمال کیا کہ اساتذہ [[learning-analytics|لرننگ اینالیٹکس]] اور پیدا کردہ AI کو [[learning-design|سیکھنے کے ڈیزائن]] میں کیسے شامل کرتے ہیں — اور پایا کہ اساتذہ کی بنیادی ضرورتوں (خود مختاری، قابلیت، تعلق) کی حمایت اُس تخلیقی [[problem-solving|مسئلہ حل کرنے]] کو فروغ دیتی ہے جو اُن کا ڈیزائن کام تقاضا کرتا ہے۔ اُن کے ENA تجزیے میں، GenAI کا استعمال طلبہ کی خود تعینی کے لیے ڈیزائن کرنے کے ساتھ جڑا تھا (مثلاً طلبہ کے ساتھ مل کر جانچ کے ربرکس بنانا)، جو SDT کو سیکھنے والوں سے بڑھا کر اُن اساتذہ تک لے جاتا ہے جو ضرورت معاون AI ثالثی ماحول بناتے ہیں۔
+**اساتذہ کے اپنے AI کے ذریعے ثالثی شدہ عمل پر SDT کا اطلاق۔** [[claassen-learning-analytics-genai-learning-design-2026|Claassen وغیرہ (2026)]] نے SDT کو اِس بات کی تفسیری عینک کے طور پر استعمال کیا کہ اساتذہ [[learning-analytics|لرننگ اینالیٹکس]] اور پیدا کردہ AI کو [[learning-design|سیکھنے کے ڈیزائن]] میں کیسے شامل کرتے ہیں — اور پایا کہ اساتذہ کی بنیادی ضرورتوں (خود مختاری، قابلیت، تعلق) کی حمایت اُس تخلیقی [[problem-solving|مسئلہ حل کرنے]] کو فروغ دیتی ہے جو اُن کا ڈیزائن کام تقاضا کرتا ہے۔ اُن کے ENA تجزیے میں، GenAI کا استعمال طلبہ کی خود تعینی کے لیے ڈیزائن کرنے کے ساتھ جڑا تھا (مثلاً طلبہ کے ساتھ مل کر جانچ کے [[rubrics|ربرکس]] بنانا)، جو SDT کو سیکھنے والوں سے بڑھا کر اُن اساتذہ تک لے جاتا ہے جو ضرورت معاون AI ثالثی ماحول بناتے ہیں۔
 
 خود اساتذہ کے لیے، AI کے ساتھ تعاون دونوں طرف کاٹتا ہے: 468 یونیورسٹی اساتذہ کے تین مرحلوں والے مطالعے نے پایا کہ اِس نے نفسیاتی دستیابی کے ذریعے کام کی شمولیت بڑھائی جبکہ کام کی بیگانگی کے ذریعے اُسے کم کیا، اور [[teacher-ai-competency|ڈیجیٹل قابلیت]] نے پہلے راستے کو مضبوط اور دوسرے کو کمزور کیا ([[teacher-ai-collaboration-work-engagement-2026|Sun وغیرہ (2026)]])۔
 

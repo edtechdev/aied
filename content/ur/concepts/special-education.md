@@ -8,15 +8,19 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/special-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]

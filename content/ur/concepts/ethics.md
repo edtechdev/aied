@@ -7,9 +7,9 @@ foundations: [academic-integrity, ai-literacy]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
-updated: "2026-11-24T02:05:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/ethics"
-source_updated: "2026-11-21T08:52:26-05:00"
+source_updated: "2026-11-24T08:38:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:

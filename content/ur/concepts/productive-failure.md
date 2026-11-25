@@ -7,15 +7,19 @@ pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, me
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/productive-failure"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, constructivist, learning-theories, desirable-difficulties, problem-based-learning, case-based-learning, inquiry-based-learning, metacognition, cognitive-offloading, scaffolding, feedback, prior-knowledge, transfer-of-learning, socratic-method, critical-thinking, human-ai-collaboration, hallucination-risk, ai-ed-evaluation, learning-gains, student-engagement]
 connected_articles: [kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, wang-safety-gap-productive-struggle-2026, lukesova-clue-before-correction-2026, pedagogy-ai-mistakes, bassner-performance-learning-dissociation-ai-programming-2026, shen-ai-skill-formation-2026]
@@ -54,6 +58,8 @@ PF فریم ورک کو متعلقہ ڈیزائنوں کے ذریعے بڑھای
 
 ### خطاؤں سے سیکھنا
 خطا آمیز عمل کاری برقراری اور تصوراتی تبدیلی میں مدد دے سکتی ہے، خصوصاً جب سیکھنے والوں کو اپنی سمجھ پر عکاسی اور اُسے نئے سرے سے ترتیب دینے کے مواقع دیے جائیں (Kapur, 2008; Schwartz & Martin, 2004)۔ AI کے دور میں اِسے اُن نظاموں میں عملی شکل دی جاتی ہے جہاں سیکھنے والے براہِ راست اصلاح لینے کی بجائے اپنی خطائیں خود تشخیص اور درست کرتے ہیں — مثلاً، [[lukesova-clue-before-correction-2026|اصلاح سے پہلے اشارہ]] والے کام جہاں AI رہنمائی والے اشارے دیتا ہے اور سیکھنے والے درست حل کا استنباط کرتے ہیں، جس سے علمی بوجھ کم ہوتا ہے اور خودمختار نظرثانی کو سہارا ملتا ہے۔ تفصیلی فیڈبیک صرف تصدیق والے فیڈبیک سے نمایاں طور پر زیادہ [[learning-gains|سیکھنے کے فوائد]] پیدا کرتا ہے (Hattie & Timperley)، اور فیڈبیک کا وقت اہم ہے۔
+
+**ڈیپ لرننگ میں خطائیں خود نصاب تھیں۔** [[shen-ai-skill-formation-2026|Shen اور Tamkin (2026)]] نے ڈویلپرز کو ایک نئی Python لائبریری GPT-4o معاون کے ساتھ یا بغیر سیکھنے دی، اور غیر معاون گروپ کو معاونت والے گروپ کے مقابلے میں اوسطاً تین خطاؤں کا سامنا کرنا پڑا، معاونت کے تحت ایک (Q1–Q3: 2.0–5.0 بمقابلہ 0.0–3.0)۔ وہ خطائیں جنہیں معاون ہٹا دیتا تھا وہ لائبریری کے مخصوص تھیں جو coroutines کی فہم پر مجبور کرتی ہیں، جیسے انتظار نہ کیا گیا coroutine یا جہاں فنکشن متوقع تھا وہاں coroutine object دے دیا گیا۔ غیر معاون گروپ نے پھر AI کے بغیر لیے گئے کوئیز میں 17% زیادہ اسکور کیا، جس میں سب سے بڑا فرق ڈیبگنگ میں اور سب سے چھوٹا کوڈ پڑھنے میں تھا، اور پیسٹ کرنے کے بجائے AI سے پیدا کردہ کوڈ کو دوبارہ ٹائپ کرنے سے یہ فرق ختم نہیں ہوا۔ مصنفین اپنی خطا کے آزادانہ حل کو طریقہ کار سمجھتے ہیں جبکہ وہ تعلق ناپتے ہیں، ثالثی نہیں۔
 
 ### غلطیاں بمقابلہ خطائیں
 ایک کارآمد فرق: **غلطیاں** عموماً لغزشیں یا بھول ہوتی ہیں (اکثر لاپرواہی یا بوجھ سے)، جن کی تشخیصی قدر محدود ہو سکتی ہے، جبکہ **خطائیں** اصل غلط فہمی یا خراب استدلال ظاہر کرتی ہیں اور زیادہ پیداواری سیکھنے کا مواد ہیں کیونکہ وہ ایسی غلط فہمی بے نقاب کرتی ہیں جسے دور کیا جا سکتا ہے۔ خطا کا تجزیہ — یہ پہچاننا کہ جواب *کیوں* غلط ہے — خطاؤں سے سیکھنے کا مرکز ہے، اور ایک کلیدی [[pedagogy|تدریسی]] مہارت ہے (اور [[ai-feedback-quality|AI فیڈبیک]] کے ڈیزائن کا ہدف)۔

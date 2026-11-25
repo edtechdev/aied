@@ -8,15 +8,19 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/regulation"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [educational-policy-ai, governance, ethics, privacy, pedagogical-safety, academic-integrity, equity-in-ai-education, higher-ed, k-12, ai-literacy, trust-calibration, legal-issues-and-risks]
 connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed-computing, ai-lifelong-learning-policy, ai-ethics-education-public-discourse, ai-uk-higher-education-policy-2026, oecd-digital-education-outlook-2026, genai-declaration-frameworks-higher-education, genai-assessment-governance, league-ethical-governance-student-data-2026, student-regulatory-awareness-genai, dot-framework-survey-2026, raza-farooq-aied-review-2020-2025, qian-governing-genai-higher-ed-policy-2026, gutowski-hurley-genai-policy-legal-education-2025, wright-transcription-not-generation-2026, li-genai-assessment-language-equity-2026, humble-prompt-injection-ai-grading-red-team-2026, coates-governing-academic-integrity-indicators-2025, watson-rainie-ai-challenge-faculty-survey-2026, edtech-privacy-deferral-2026, wong-sun-agentic-ai-assessment-governance-2026, chan-ai-policy-gap-2026]
@@ -39,7 +43,7 @@ connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed
 
 ضابطگی AI [[governance]] کی قانونی اور پالیسی پرت ہے: یہ وہ پابند قواعد، معیارات اور نفاذ کے طریقہ کار مقرر کرتی ہے جنہیں ادارہ جاتی گورننس عمل میں ڈھالتی ہے۔ جہاں گورننس اصولوں اور ڈھانچوں کا وسیع فریم ورک ہے، وہاں ضابطگی مستند قواعد فراہم کرتی ہے — قومی AI قوانین اور [[privacy|ڈیٹا کے تحفظ]] کے قوانین سے لے کر اداروں کی قابلِ قبول استعمال کی پالیسیوں اور پیشہ ورانہ رہنما خطوط تک۔ نالج بیس کی تحقیق میں بار بار آنے والا موضوع یہ ہے کہ ضابطگی AI کی تعیناتی سے پیچھے رہ جاتی ہے، جس سے ادارے اِس خلا میں گورننس کے فیصلے خود کرنے پر مجبور ہو جاتے ہیں۔
 
-### ضابطگی کا منظرنامہ
+## ضابطگی کا منظرنامہ
 
 - **حکومتی پالیسی:** [[educational-policy-ai]] کی تحقیق قومی اور علاقائی [[ai-education|AI تعلیم]] کی پالیسیوں کا جائزہ لیتی ہے۔  اور [[ai-lifelong-learning-policy|عمر بھر سیکھنے کی پالیسی]] ضابطگی کے خلا کو موضوع بناتی ہے، جبکہ [[ai-uk-higher-education-policy-2026|برطانیہ کی AI اعلیٰ تعلیمی پالیسی]] اور [[oecd-digital-education-outlook-2026|OECD ڈیجیٹل تعلیم آؤٹ لک]] قومی نقطۂ ہائے نظر کو تقابلی اور بین الاقوامی تناظر میں رکھتے ہیں۔
 - **ادارہ جاتی گورننس:** [[governance|AI گورننس فریم ورک]] اور [[genai-policies-higher-ed-computing|ادارہ جاتی پالیسی کا تجزیہ]] دستاویز کرتے ہیں کہ یونیورسٹیاں اندرونی AI قواعد کیسے بناتی ہیں، جبکہ [[genai-declaration-frameworks-higher-education|AI اعلان کے فریم ورک]] اور [[genai-assessment-governance|جانچ کی گورننس]] جانچے جانے والے کام میں AI کے استعمال کو ضابطہ بند کرتے ہیں۔ [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] پاتے ہیں کہ شعبے کے اندرونی قواعد زیادہ تر رہنمائی ہیں، پابند پالیسی نہیں — امریکہ کی 50 جدت پسند یونیورسٹیوں میں سے 44 نے رہنما خطوط، اصول یا وسائل کے مراکز شائع کیے جبکہ صرف 6 نے اپنے بنیادی صفحے کو "پالیسی" قرار دیا — اور انفرادی کورسز میں مؤثر ضابطگی کا کام مدرس کے طے کردہ نصابی قواعد کرتے ہیں۔ [[watson-rainie-ai-challenge-faculty-survey-2026|Watson اور Rainie (2026)]] کا 1,057 امریکی اساتذہ کا سروے ناپتا ہے کہ مؤثر قواعد ادارہ جاتی پرت سے کتنا نیچے بیٹھتے ہیں: 87% جواب دہندگان نے اپنی اسائنمنٹ کی سطح کی پالیسیاں خود لکھیں جبکہ صرف 48% نے تحریری ادارہ جاتی رہنما خطوط اور 35% نے شعبے کے رہنما خطوط کی اطلاع دی، اور ساختی ردعمل اوپر کی سطح پر پتلا ہے — 55% معاملات میں ٹاسک فورس یا نگرانی کا گروہ مگر صرف 13% میں AI خواندگی کو عمومی تعلیم کے نتائج کے طور پر اختیار کیا گیا۔
@@ -48,7 +52,7 @@ connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed
 - **مساوات اور معقول موافقت کا قانون:** حد سے زیادہ وسیع AI قواعد قانونی فرائض سے ٹکرا سکتے ہیں۔ [[wright-transcription-not-generation-2026|Wright (2026)]] دلیل دیتے ہیں کہ "[[generative-ai|جنریٹو AI]]" پر پابندی لگانا، مواد کی تخلیق اور فارمیٹ کی تبدیلی میں فرق کیے بغیر، AI ٹرانسکرپشن اوزاروں کو بھی پکڑ لیتا ہے اور برطانیہ کے Equality Act 2010، امریکہ کے Americans with Disabilities Act اور آسٹریلیا کے Disability Discrimination Act 1992 کے تحت معقول موافقت کے فرض کو متحرک کر سکتا ہے — جس سے کسی پابندی کا مسودہ تیار کرنا صرف تعلیمی دیانت کا نہیں، ضابطگی کا بھی سوال بن جاتا ہے (دیکھیں [[legal-issues-and-risks|قانونی مسائل اور خطرات]])۔ [[li-genai-assessment-language-equity-2026|Li (2026)]] اِسی ٹکراؤ کو زبان کے پس منظر تک بڑھاتے ہیں: وہ جانچ قواعد جو جائز زبان کی مدد کو حقیقی متبادل سے الگ نہیں کرتے، انگریزی کو اضافی زبان کے طور پر استعمال کرنے والے طلبہ پر گروہ کے لحاظ سے جھکے ہوئے تعمیل کے بوجھ ڈالتے ہیں، اور اِس کی درستی کے لیے تجویز کردہ فریم ورک بالواسطہ امتیاز کی استدلالی بنیاد اور انتظامی قانون کی اُس توقع سے دفاع کرتا ہے کہ فیصلہ ساز بتا سکے کہ کون سا قاعدہ لاگو ہوا، کس ثبوت پر انحصار کیا گیا، اور نتیجہ کیوں متناسب تھا — یہی وہ معیار ہے جو نظرثانی میں چیلنج کسی انتظامی فیصلے پر لاگو کرتا ہے۔
 - **تعمیل اور جواب دہی:** [[student-regulatory-awareness-genai|طلبہ کی ضابطگی سے آگاہی]] جانچتی ہے کہ طلبہ واقعی AI قواعد جانتے اور مانتے ہیں یا نہیں، اور [[dot-framework-survey-2026|ٹیکنالوجی اختیار کرنے کے فریم ورک]] کھوجتے ہیں کہ ضابطگی اور اخلاقیات کی فکریں اختیار کرنے کے فیصلوں پر کیسے اثر ڈالتی ہیں۔
 
-### گورننس کا خلا
+## گورننس کا خلا
 
 نالج بیس AI کی تعیناتی کی رفتار اور ضابطگی کی پختگی کے درمیان ایک مستقل خلا دستاویز کرتا ہے۔ [[institutional-change-framework-ai|ادارہ جاتی تبدیلی کے فریم ورک]] اور ضابطگی پر تحقیق ردعمل کی پالیسی کے بجائے فعال [[governance]] کی دلیل دیتے ہیں۔  کے مطالعے اور [[raza-farooq-aied-review-2020-2025|جامع AIED جائزے]] اِس بات پر روشنی ڈالتے ہیں کہ ضابطگی دائرہ اختیار اور تعلیمی سطحوں کے مطابق یکساں نہیں، جس سے اساتذہ، طلبہ اور ڈویلپرز کے لیے کام کا ماحول متضاد ہو جاتا ہے۔
 
@@ -58,7 +62,7 @@ connected_articles: [institutional-change-framework-ai, genai-policies-higher-ed
 
 [[edtech-platform|ایج ٹیک پلیٹ فارمز]] کی رازداری کی پالیسیوں کا ایک آڈٹ اِس انحصار کی ٹھوس مثال دیتا ہے۔ 48 پلیٹ فارمز میں ڈیٹا جمع کرنے کا اعلان نسبتاً اچھی طرح ہوا (اوسط 1.81 بمقابلہ 2) جبکہ AI کا اعلان (0.90) اور جواب دہی (1.07) پیچھے رہے، اور 33% نے نظر آنے والی AI خصوصیات کے باوجود کوئی بامعنی AI اعلان نہیں کیا؛ امریکی [[k-12]] پلیٹ فارمز مجموعی طور پر سب سے بلند رہے (M = 7.47 بمقابلہ امریکی [[higher-ed|اعلیٰ تعلیم]] کے 5.50) پھر بھی AI کے اعلان یا جواب دہی میں کچھ حاصل نہ کر سکے — مصنفین یہ نتیجہ نکالتے ہیں کہ ضابطگی صرف اُس چیز کو اٹھاتی ہے جس کا وہ نام لے، چنانچہ قابلِ نفاذ قواعد اور خریداری کے معیارات ہی، رضاکارانہ عہدوں کے بجائے، [[privacy]] کو تعیناتی کی شرط بنا سکتے ہیں ([[edtech-privacy-deferral-2026|Nair & Greenstadt، 2026]])۔
 
-### روابط
+## روابط
 
 ضابطگی [[educational-policy-ai]]، [[governance]]، [[ethics]]، [[privacy]]، [[pedagogical-safety]] اور [[academic-integrity]] سے جڑتی ہے۔ یہ وہ ادارہ جاتی پرت ہے جو اِس بات کو تشکیل دیتی ہے کہ تعلیم میں AI کی دیگر تمام مشقیں کیسے کام کرتی ہیں۔ ضابطگی پابند بھی کرتی ہے اور ممکن بھی: یہ قابلِ قبول AI استعمال کی حدیں مقرر کرتی ہے اور ساتھ ہی [[ai-literacy]] اور ذمہ دار استعمال کی توقعات کے ذریعے [[equity-in-ai-education|مساوات پر مبنی]]، محفوظ ادغام کی شرائط پیدا کرتی ہے۔
 

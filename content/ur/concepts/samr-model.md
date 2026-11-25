@@ -8,15 +8,19 @@ page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-04T01:21:13-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/samr-model"
-source_updated: "2026-11-02T09:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [ai-education, tpack, technology-acceptance-model, icap-framework, ai-technologies, teacher-ai-competency, educational-development, learning-design, k-12, higher-ed, generative-ai]

@@ -8,15 +8,19 @@ assessment: [assessment]
 connected_faqs: [ai-anxiety-wellbeing, study-with-ai]
 audience: [learners]
 confidence: high
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/self-efficacy"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:50:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learners, self-directed-learning, motivation, self-regulated-learning, student-experience, ai-literacy, agency, educational-robotics, self-report-measures, social-emotional-learning]
 connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-proof-learning-cognitive-offloading-2026, confident-but-absent-ai-use-absenteeism-2026, thoeni-ai-chatbots-higher-education-expectations-evidence-2026, genai-performance-vs-learning, ai-supported-ementoring-efl-preservice-2026, aigc-affordance-student-self-regulation-2026, oby-chatgpt-use-learning-framework-2026, ai-literacy-career-adaptability-business-2026, remind-robot-mediated-roleplay-antibullying-2026, teacher-education-ai-literacy-sdt-2026, social-robot-study-companions, hcap-human-centric-ai-pedagogy-framework-2026, student-dependency-on-ai-literacy-self-efficacy-2026, stamatoulis-genai-use-patterns-2026, ai-literacy-course-satisfaction-pbl-scale-2026, predicting-attrition-competitive-programming, genai-xr-architectural-design-education-2026, hu-psychological-predictors-continued-chatgpt-use-2026, suria-martinez-academic-self-efficacy-motor-disabilities-2026, niu-genai-children-creative-thinking-cognitive-development-review-2026, ai-speaking-practice-communicative-readiness-2026, faculty-ai-well-being-social-supports-2026, cen-self-efficacy-favorability-2026, jelson-students-chatgpt-essay-writing-2026, kim-overtrust-ai-literacy-2026, somny-ml-self-efficacy-interaction-traces-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, petricini-ai-literacy-communication-equity-2026, jarvie-jiving-llms-programming-self-efficacy-2026]
@@ -38,9 +42,10 @@ connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-pr
 
 خود اعتمادی حقیقی قابلیت سے الگ ہے: یہ صلاحیت کے بارے میں ایک یقین ہے جو رویے کو چلاتا ہے۔ یہ اپنی صلاحیتوں میں روزمرہ *اعتماد* کے تصور سے گہرا جڑا ہوا ہے — اور اکثر اُس کے ساتھ بدلے بدلے استعمال بھی ہوتا ہے۔ خود اعتمادی [[motivation|محرک]]، [[self-regulated-learning|خود ضابطگی والی سیکھنا]] اور [[student-experience|طالب علم کے تجربے]] سے قریب سے جڑی ہے۔ AI کے سیاق میں، AI خود اعتمادی (AI کے ساتھ کام کرنے کا اعتماد) AI خواندگی سے ایک الگ تصور ہے، اور تحقیق دکھاتی ہے کہ یہ اِس میں کلیدی کردار ادا کرتی ہے کہ سیکھنے والے AI سے متعلق علم کو واقعی بروئے کار لاتے اور لاگو کرتے ہیں یا نہیں۔
 
-### علم بنیاد کی تحقیق میں خود اعتمادی کیسے ظاہر ہوتی ہے
+## علم بنیاد کی تحقیق میں خود اعتمادی کیسے ظاہر ہوتی ہے
 
 - **GenAI بہ اضافہ XR اسٹوڈیو کام کے تحت کمی:** ایک 27 طلبہ والے معماری [[arts-and-media-education|ڈیزائن اسٹوڈیو]] میں، [[generative-ai|GenAI]] اور کثیر صارف XR پائپ لائن استعمال کرنے والی ٹیموں نے ڈیزائن کی خود اعتمادی میں نسبتاً زیادہ قبل–بعد کمی (β = −1.675, p = 0.021) اور نتیجے کی توقع میں کمی (β = −2.088, p = 0.002) دکھائی، معمول کے ورک فلو پر چلنے والی ٹیموں کے مقابلے، جبکہ اُن کی پریزنٹیشنوں کی بلائنڈ پینل درجہ بندی میں کوئی نمایاں فرق نہ تھا ([[genai-xr-architectural-design-education-2026|Xiao وغیرہ، 2026]])۔ اوزار سے بھرپور ماحول کارآمدی کے یقین کو دبا سکتے ہیں، چاہے کام بذاتِ خود برابر کا درجہ پا رہا ہو۔
+- **کم درآمدگی سیکھنے کا حصہ بن سکتی ہے۔** ایک غیر ہم آہنگ خطاب کورس میں، سمجھی گئی صلاحیت 5.63 سے 5.12 تک گری (p < .01) اور اچھا کرنے کے قابلِ ہونے کا یقین 6.02 سے 5.51 تک گرا (p = .03)، جسے [[petricini-ai-literacy-communication-equity-2026|Petricini اور Cruz (2026)]] نے دوبارہ ہم آہنگی کے طور پر پڑھا: سرحدی معاملات سے دو چار ہونا نے ابتدائی حد سے زیادہ اعتماد کو ہموار کر دیا۔
 - **AI خود اعتمادی اور کیریئر کی تیاری:** [[ai-literacy-career-adaptability-business-2026|AI تیاری پر تحقیق]] دکھاتی ہے کہ AI خود اعتمادی AI خواندگی اور AI تیاری کے تعلق میں توازن پیدا کرتی ہے: خواندگی تیاری میں صرف اُس وقت ڈھلتی ہے جب سیکھنے والوں کو AI استعمال کرنے کا اعتماد ہو، اور خود اعتمادی براہِ راست [[career-development-and-readiness|کیریئر کی موافقت پذیری]] کی پیش گوئی کرتی ہے۔
 
 - **اعتماد ہمیشہ لیور نہیں ہوتا۔** 502 یونیورسٹی اساتذہ کے ایک کراس سیکشنل SEM نے ٹیکنالوجیکل خود اعتمادی کو AI [[well-being|بہبود]] کا ایک چھوٹا پیش گو پایا (β = 0.082) جبکہ AI خواندگی غالب رہی (β = 0.713)، جس سے اِس دعوے کی حد بندی ہوتی ہے کہ اعتماد AI کے نتائج کا دروازہ ہے: بہبود کے لیے علم نے اعتماد پر فوقیت رکھی ([[faculty-ai-well-being-social-supports-2026|Liu وغیرہ (2026)]])۔
@@ -65,6 +70,8 @@ connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-pr
 - **ایک سمسٹر طویل [[rct|RCT]] میں کوئی علاجی اثر نہیں — کورس کے وقت کے ساتھ اعتماد بڑھا:** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni اور Fryer (2026)]] کے Principles of Marketing کورس میں 454 انڈرگریجویٹس کے بے ترتیب میدانی تجربے میں، خود اعتمادی سمسٹر کے دوران تمام طلبہ میں بڑھی (وقت کا اثر β = 0.099, p = 0.0009, Cohen's ƒ2 = 0.025) جبکہ نہ گروپ کا اثر (p = 0.1162) اور نہ گروپ × وقت کا تعامل (p = 0.5306, d = 0.023) نمایاں تھا، اس لیے [[rag|RAG]] چیٹ بوٹ نے کچھ نہیں بڑھایا۔ AI کی مدد والے کورسز میں اعتماد میں اضافہ اوزار کے بجائے کورس کی پیش رفت کے ساتھ چل سکتا ہے — یہ اُس تصور کے لیے نسبت کا خطرہ ہے جسے میدان تقریباً مکمل طور پر [[self-report-measures|خود رپورٹ]] سے ناپتا ہے۔
 - **اعتماد رویے کے اُلٹ چل سکتا ہے۔** مقابلہ جاتی پروگرامنگ میں، مقابلہ چھوڑ دینے والے طلبہ نے اپنے فعال ساتھیوں سے *زیادہ* نظریاتی اعتماد بتایا مگر نمایاں طور پر کمزور اپ سولونگ اور ہم جماعت حلقے کی عادات دکھائیں (p < .001)، اس لیے صرف خود اعتمادی کا اشارہ ابتدائی انتباہ کے نظام کو گمراہ کرے گا ([[predicting-attrition-competitive-programming|Ruhan وغیرہ (2026)]])۔
 - **اعتماد بڑھ سکتا ہے جبکہ اُس کے پیچھے کی قابلیت گر رہی ہو۔** یونیورسٹی طلبہ میں، جنریٹو-AI کا کثرت سے استعمال ادراک شدہ اعتماد اور کارکردگی بڑھاتا ہے *اور* اُنہی سیکھنے والوں میں ٹیکنالوجی پر انحصار بھی بڑھاتا ہے، اس لیے AI کی مدد والے کام کے دوران لیا گیا خود اعتمادی کا اسکور اُس لمحے بلند پڑھا جا سکتا ہے جب بنیادی مہارت گھس رہی ہو ([[genai-performance-vs-learning|Yan وغیرہ، 2025]])۔
+- **اِس الانچ کی امتحانی مثال بھی ہے۔** آٹھ ہفتوں کے فصل کی نسل‌بندی کورس میں، جینیاتی تجزیے میں خود اعتمادی نے AI اور روایتی گروپوں کو d = 2.84 سے الگ کیا، جبکہ آخری امتحان کے اسکور دونوں گروہوں میں نمایاں طور پر مختلف نہ تھے ([[wang-ai-assisted-blended-teaching-crop-breeding-2026|Wang وغیرہ (2026)]])۔
+- **اعتماد لوگوں سے دور بھی چل سکتا ہے، صرف بڑھنا ہی نہیں۔** پہلے سال کے طلبہ نے ChatGPT کے تبصروں والا FORTRAN پڑھنے کے بعد، ایک لمبے پیچیدہ پروگرام کی ڈیبگنگ پر اعتماد بڑھا (p = .0073) اور الجھن کے وقت مسئلہ حل کرنے کے راستے تلاش کرنے پر بھی بڑھا (p = .0000011)، جبکہ کسی قابلِ اعتماد ساتھی کے ساتھ کام مکمل کرنے پر گرا (p = .0069) ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart وغیرہ (2026)]])۔
 - **AI استعمال اعتماد کے ساتھ چلا، مگر اعتماد نے حاضری کی پیش گوئی نہیں کی۔** 291 پرتگالی طلبہ کے PLS-SEM سروے میں عمومی AI استعمال خودمختار سیکھنے کی خود اعتمادی کے ساتھ مثبت طور پر منسلک تھا (β = 0.266, f² = 0.106)۔ تصور کو Bandura کے چار ذرائع — مہارت کا تجربہ، بالواسطہ تجربہ، زبانی ترغیب اور جذباتی کیفیت — کے دوسرے درجے کے تشکیلاتی مرکب کے طور پر ماڈل کیا گیا۔ خود اعتمادی نے بدلے میں غیر حاضری کی پیش گوئی نہیں کی (β = −0.068, p = 0.276)، حالانکہ AI استعمال الگ سے زیادہ غیر حاضری کے ساتھ منسلک تھا (β = 0.148, f² = 0.029)۔ AI استعمال → خود اعتمادی کا راستہ مردوں میں عورتوں سے نمایاں طور پر زیادہ مضبوط تھا (β = 0.449 بمقابلہ 0.159؛ Δβ = −0.289, p = 0.013)، جزوی پیمائشی غیر تغیر پذیری کے تحت ([[confident-but-absent-ai-use-absenteeism-2026|Franco وغیرہ (2026)]])۔
 
 - **منظم پروٹوکول کے بعد اعتماد نے ساخت کا سراغ لگایا، خوراک کا نہیں۔** پروٹوکول کے بعد مماثل مسائل خود حل کرنے کا اعتماد 1–10 پیمانے پر اوسطاً 7.18 رہا (σ = 1.62, n = 217)، چار کیمپسوں میں ادارہ وار اوسط صرف 6.86 سے 7.52 تک رہا۔ اُس نے AI وضاحت کے سمجھے گئے فائدے (r_s = 0.37) اور نقل شدہ مشق کے فائدے (r_s = 0.35) کا سراغ لگایا، کمزور طور پر پہلے کے AI اعتماد کا (r_s = 0.20)، اور AI استعمال کی تعدد (r_s = 0.02, p = 0.749) یا خود بتائے گئے GPA (r_s = 0.13, p = 0.064) کا نہیں ([[paul-pair-framework-genai-active-learning-physics-2026|Paul et al., 2026]])۔ یہ مہارت کا راستہ ہے — مصنف کا طے کردہ دشواری، پھر ایک خودمختار کوشش — نہ کہ آلے میں زیادہ وقت، اور یہی فرق صفحے میں نہ تھا۔ مطالعے نے کوئی سیکھنے کا نتیجہ ناپا نہیں، چنانچہ یہ اُس کی حد بندی کرتا ہے جو طلبہ نے مانا۔
@@ -81,6 +88,7 @@ connected_articles: [wang-ai-assisted-blended-teaching-crop-breeding-2026, ai-pr
 - **اعتماد قبولیت تک جزوی طور پر خواندگی کے ذریعے پہنچتا ہے۔** [[isbulan-ai-self-efficacy-acceptance-literacy-2026]] نے ترکیہ کے 622 انڈرگریجویٹس پر ایک ترتیب آزمائی۔ AI خود اعتمادی نے AI کی قبولیت کی پیش گوئی کی (B = 0.43, R² = 0.29)، اور [[ai-literacy|AI خواندگی]] نے اُس ربط کا کچھ حصہ اٹھایا (بالواسطہ B = 0.15، 95% CI [0.12, 0.19]) بغیر اُسے مکمل جذب کیے۔ اعتماد کو صلاحیت کے ہی نہیں، قبولیت کے پیش گو کے طور پر بھی شمار کرنا ہو گا۔ ڈیزائن کراس سیکشنل ہے اور آبادیاتی کنٹرول نہیں رکھتا، اس لیے سمت اور ثالثی شدہ حصہ اثرات کے بجائے ہم بستگیاں ہیں۔
 
 - **رویے کے نشانات اشارہ اٹھا سکتے ہیں، مگر لیبل حد مقرر کرتے ہیں۔** دو یونیورسٹیوں کی ایک پائپ لائن نے تعامل کے نشانات سے کم خود اعتمادی کا پتہ لگایا؛ سروے کے موقع کے لیبل درمیانی مدت کی تقسیم سے بہتر رہے، اور اکیلے MSLQ ذیلی پیمانہ نے پورے آلے کی طرح اچھا لیبل لگایا ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati اور Lefevre، 2026]])۔
+- **AI کے کیریئری اثرات دو راستوں میں بٹ جاتے ہیں۔** 415 چینی کالج طلبہ میں، [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]] نے پایا کہ مثبت ادراک کیریئر کی منصوبہ بندی کے ذریعے کیریئر فیصلہ کی خود اعتمادی تک پہنچا، جبکہ منفی ادراک صرف کیریئر کی بے چینی کے ذریعے اُس تک پہنچا (بالواسطہ β = −0.184)۔
 
 ## عام غلط فہمیاں
 

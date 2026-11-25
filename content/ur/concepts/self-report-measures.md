@@ -12,9 +12,9 @@ page_kind: [evaluation]
 connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-learn, reporting-interpreting-aied-research]
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/self-report-measures"
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -22,8 +22,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, educational-measurement, self-assessment, research-methods-aied, quantitative-research, qualitative-research, mixed-methods-research, assessment-validity, item-response-theory, ai-literacy, trust-calibration, learning-gains, student-engagement, self-efficacy, learning-analytics]
-connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acceptance-tam-physics-2026, voice-based-ai-feedback-interviews-higher-ed-2026, capability-decision-model-teacher-readiness-2026, pramod-agentic-ai-motivational-pathways-2026, ai-literacy-assessment-misalignment, jin-glat-genai-literacy-assessment, genai-student-experiences-uk-he-survey-2026, student-llm-interaction-taxonomy-review-2026, tracing-genai-literacy-interaction-patterns, engagement-intensity-learner-modeling, predicting-attrition-competitive-programming, ai-use-critical-thinking-medical-students-2026, genai-motivation-engagement-2026, fouad-bentley-trust-utility-gap-physics-2026, hawkins-feedback-literacy-ai-essay-writing, mejeh-fromm-srl-adaptive-learning-feedback-2026, adaptive-pretesting-retention, ai-vocational-education-training-review, student-genai-use-views-writing, competent-generative-ai-use-measures-review-2026, pause-ai-cognitive-offloading-self-reflection-2026, ai-literacy-self-assessment-questionnaire-primary-2025, assessing-teachers-ai-literacy-measurement-tools-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, same-construct-same-conclusion-self-report-vs-performance-2026, jelson-students-chatgpt-essay-writing-2026, yahya-generative-ai-inquiry-based-learning-review-2026, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, huang-genai-academic-information-resources-2026, onodipe-enhance-not-replace-ai-classroom-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, jarvie-jiving-llms-programming-self-efficacy-2026, tischkau-ai-simulated-patient-formats-2026]
+connected_articles: [adaptive-pretesting-retention, ai-literacy-assessment-misalignment, ai-literacy-self-assessment-questionnaire-primary-2025, ai-use-critical-thinking-medical-students-2026, ai-vocational-education-training-review, assessing-teachers-ai-literacy-measurement-tools-2026, capability-decision-model-teacher-readiness-2026, competent-generative-ai-use-measures-review-2026, engagement-intensity-learner-modeling, fouad-bentley-trust-utility-gap-physics-2026, genai-motivation-engagement-2026, genai-student-experiences-uk-he-survey-2026, hawkins-feedback-literacy-ai-essay-writing, high-school-genai-acceptance-tam-physics-2026, huang-genai-academic-information-resources-2026, jarvie-jiving-llms-programming-self-efficacy-2026, jelson-students-chatgpt-essay-writing-2026, jin-glat-genai-literacy-assessment, kares-xai-evaluation-alignment-2027, kharbach-k12-ai-literacy-frameworks-scoping-review-2026, martinez-genai-accessibility-minnesota-educators-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, moreira-choez-explainable-ml-faculty-digital-competence-2026, najem-behavioral-clustering-adaptive-learning-recommendation-2026, onodipe-enhance-not-replace-ai-classroom-2026, pause-ai-cognitive-offloading-self-reflection-2026, pinto-student-ownership-ai-agents-code-2026, pramod-agentic-ai-motivational-pathways-2026, predicting-attrition-competitive-programming, same-construct-same-conclusion-self-report-vs-performance-2026, student-genai-use-views-writing, student-llm-interaction-taxonomy-review-2026, tischkau-ai-simulated-patient-formats-2026, tracing-genai-literacy-interaction-patterns, voice-based-ai-feedback-interviews-higher-ed-2026, yahya-generative-ai-inquiry-based-learning-review-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -50,7 +54,7 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 
 ## خود رپورٹ کیا ثابت کر سکتی ہے اور کیا نہیں
 
-خود رپورٹ رویوں، عقائد، ارادوں، کسی ٹول کے ادراک، جذباتی حالتوں اور خود جانچے گئے اعتماد یا دشواری کے لیے موزوں ہے۔ GenAI کے اعلیٰ تعلیمی 394 مطالعات کے ایک اسکوپنگ جائزے نے پایا کہ سروے کے پیمانے سب سے زیادہ رپورٹ شدہ جانچ کا طریقہ تھے (269 مطالعات، 68.3%)، جو امتحانات/کوئز/ربرک (185، 47.0%) اور نمونے کے تجزیے (167، 42.4%) سے آگے ہیں ([[mapping-genai-higher-ed-scoping-review|Lin وغیرہ (2026)]])۔ یہ رویے کے لیے کمزور ہے، اور سیکھنے کی پیمائش تو بالکل نہیں کر سکتی: یہ کہ کسی شخص کو یقین ہے کہ اس نے کچھ سیکھا، بذاتِ خود ایک ادراک ہے، اور علمی ذخیرہ سمجھے گئے سیکھنے کو [[learning-gains|سیکھنے کے فوائد]] سے الگ مقدار سمجھتا ہے۔
+خود رپورٹ رویوں، عقائد، ارادوں، کسی ٹول کے ادراک، جذباتی حالتوں اور خود جانچے گئے اعتماد یا دشواری کے لیے موزوں ہے۔ GenAI کے اعلیٰ تعلیمی 394 مطالعات کے ایک اسکوپنگ جائزے نے پایا کہ سروے کے پیمانے سب سے زیادہ رپورٹ شدہ جانچ کا طریقہ تھے (269 مطالعات، 68.3%)، جو امتحانات/کوئز/[[rubrics|ربرک]] (185، 47.0%) اور نمونے کے تجزیے (167، 42.4%) سے آگے ہیں ([[mapping-genai-higher-ed-scoping-review|Lin وغیرہ (2026)]])۔ یہ رویے کے لیے کمزور ہے، اور سیکھنے کی پیمائش تو بالکل نہیں کر سکتی: یہ کہ کسی شخص کو یقین ہے کہ اس نے کچھ سیکھا، بذاتِ خود ایک ادراک ہے، اور علمی ذخیرہ سمجھے گئے سیکھنے کو [[learning-gains|سیکھنے کے فوائد]] سے الگ مقدار سمجھتا ہے۔
 
 نتیجہ ایسے دعووں کا مجموعہ ہے جو نتائج کے حصے میں ایک جیسے لگتے ہیں مگر قوت میں مختلف ہیں:
 
@@ -75,7 +79,7 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 
 رویے کے نشانات ان سیکھنے والوں کو الگ کر سکتے ہیں جنہیں خود رپورٹ کا پیمانہ نہیں کر سکتا: [[cognitive-offloading-llm-synthesis-writing|Poquet وغیرہ (2026)]] نے پایا کہ خود بتایا گیا علمی بوجھ ان منتقلی پروفائلوں کے پار نمایاں طور پر مختلف نہیں تھا جو مضمون کی مصنفیت میں 80% سے 2% تک پھیلے ہوئے تھے، جبکہ سب سے زیادہ منتقلی کرنے والوں نے پھر بھی سب سے زیادہ ذہنی مطالبہ بتایا۔
 
-[[ai-literacy-assessment-misalignment|اساتذہ کی AI خواندگی کی متوازی خود رپورٹ اور معروضی پیمائشیں بنانے والے مطالعے]] نے 288 اساتذہ کے نمونے میں **خود رپورٹ اور معروضی عناصر کے درمیان کمزور اتفاق (r = 0.07 سے r = 0.24)** پایا، جہاں تصدیقی عنصری تجزیہ دونوں پیمائشوں کے تصوراتی اعتبار کی حمایت کرتا رہا مگر **خود رپورٹ اور معروضی عناصر کے درمیان کم تعلق** دکھاتا رہا۔ دونوں آلات معتبر تھے؛ انہوں نے محض مختلف چیزیں ناپیں۔ 288 اساتذہ کے مکمل نمونے میں معروضی اور خود بتائے گئے عناصر کے درمیان تعلق r = 0.07 سے r = 0.24 تک رہا، اور [[latent-profile-analysis|اویکت پروفائل تجزیے]] نے 43 ایسے اساتذہ پائے جنہوں نے خود کو بلند درجہ دیا جبکہ معروضی پیمائش پر کم اسکور کیا، جبکہ 59 میں الٹا نمونہ تھا۔
+[[ai-literacy-assessment-misalignment|اساتذہ کی AI خواندگی کی متوازی خود رپورٹ اور معروضی پیمائشیں بنانے والے مطالعے]] دو آئٹم اس خلا کو بنا دیتے ہیں: [[martinez-genai-accessibility-minnesota-educators-2026|مینیسوٹا کے اساتذہ پر ایک سروے]] میں 83.1% نے اس بیان کی تائید کی کہ جنریٹو AI رسائی میں فائدہ دیتی ہے، جبکہ 31.9% نے اس مقصد کے لیے استعمال کی اطلاع دیا۔ دوسرا آئٹم سب منتخب کرنے والا تھا، اس لیے عدمِ انتخاب "استعمال نہیں کرتا" کو "آئٹم نہیں دیکھا" کے ساتھ ملایا جاتا ہے — یہ اساتذہ کے بارے میں کوئی نتیجہ نہیں بلکہ آئٹم کی عبارت کا اثر ہے۔ یہی مطالعہ نے 288 اساتذہ کے نمونے میں **خود رپورٹ اور معروضی عناصر کے درمیان کمزور اتفاق (r = 0.07 سے r = 0.24)** پایا، جہاں تصدیقی عنصری تجزیہ دونوں پیمائشوں کے تصوراتی اعتبار کی حمایت کرتا رہا مگر **خود رپورٹ اور معروضی عناصر کے درمیان کم تعلق** دکھاتا رہا۔ دونوں آلات معتبر تھے؛ انہوں نے محض مختلف چیزیں ناپیں۔ 288 اساتذہ کے مکمل نمونے میں معروضی اور خود بتائے گئے عناصر کے درمیان تعلق r = 0.07 سے r = 0.24 تک رہا، اور [[latent-profile-analysis|اویکت پروفائل تجزیے]] نے 43 ایسے اساتذہ پائے جنہوں نے خود کو بلند درجہ دیا جبکہ معروضی پیمائش پر کم اسکور کیا، جبکہ 59 میں الٹا نمونہ تھا۔
 
 [[jin-glat-genai-literacy-assessment|GLAT]] دوسری سمت سے اسی نتیجے پر پہنچتا ہے: اس کے 20 آئٹمز والے کارکردگی پر مبنی امتحان نے 83 طلبہ کے اندرونی مضامین والے مطالعے میں [[generative-ai|GenAI]] کی معاونت والے سیکھنے کے کاموں پر کارکردگی کی پیش گوئی کی، **جبکہ خود بتائی گئی ChatGPT خواندگی نے نہیں کی**۔ مصنفین کی تشکیل صاف ہے — اس علاقے کے آلات حد سے زیادہ خود بتائے گئے سروے پر انحصار کرتے ہیں، "جو سمجھی گئی قابلیت کو پکڑتے ہیں، حقیقی قابلیت کو نہیں، اور تعصب اور حد سے زیادہ اندازے کی طرف مائل ہوتے ہیں۔"
 
@@ -106,7 +110,13 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - [[preferred-scaffolding-ai-mathematical-modeling|سکافولڈنگ کا ایک مطالعہ]] دلیل دیتا ہے کہ سمجھی گئی افادیت، استعمال کی آسانی اور فوری اطمینان کو [[scaffolding]] کی اثر پذیری کے کافی اشارے نہیں سمجھا جانا چاہیے۔
 - [[nie-personavlm-long-term-personalization-2026|شخصیت کے مطابق طالب علم کی ماڈلنگ پر]] مشاہدہ کرتا ہے کہ صارف کی اطمینان کے لیے اصلاح سیکھنے کے نتائج کے لیے اصلاح کے برابر نہیں، اور یہ کہ دونوں الگ ہو سکتے ہیں۔
 
+- [[kares-xai-evaluation-alignment-2027|ایک رجسٹر شدہ پیشگی XAI مطالعہ (Kares وغیرہ، 2027)]] نے 166 شرکا کے ساتھ تین وضاحتی طریقوں کا موازنہ کیا اور پایا کہ اطمینان (3.98، 3.92، 3.87) اور اعتماد کی درجہ بندی شماریاتی طور پر مماثل تھیں، جبکہ کام کی پیمائش نے طریقوں کو الگ کیا اور ریاضیاتی میٹرک نے اُنہیں الٹ ترتیب دی۔ درجہ بندی نے اُس مقام پر کوئی اشارہ نہیں دیا جہاں صلاحیت کی پیمائش نے دیا۔
+
 ساتھ لے جانے والا نمونہ: جب سیکھنا مقصد ہو، تو اطمینان غلط چیزوں کا جواب دیتا ہے۔ جو نظام جلدی جواب دیتا ہے، فوراً متفق ہوتا ہے اور محنت کم کرتا ہے، اسے بلند درجہ ملے گا، اور یہی خصوصیات وہ ہیں جنہیں علمی ذخیرہ کم ہوتی [[desirable-difficulties|پیداواری رگڑ]] اور AI کی معاونت والے کام پر پھولی ہوئی کارکردگی سے جوڑتا ہے۔ بتایا گیا اطمینان اور ناپا گیا سیکھنا دشمن نہیں؛ وہ صرف ایک دوسرے کے متبادل نہیں، اور پہلے کو دوسرے کا ثبوت سمجھنا وہ سب سے عام پھسلاؤ ہے جسے یہ صفحہ دستاویز کرتا ہے۔
+
+ادب میں سب صاف اندرونی فرد کا معاملہ وہ ہے جس نے دونوں مقداریں ایک ہی طلبہ پر ناپیں۔ [[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe وغیرہ (2025)]] نے دو سمسٹروں کے دوران کاروباری شماریات اور معاشیات کے طلبہ کا سروے کیا، اور اِس دوران ٹیوٹر پرامپٹ، AI سے بنائے گئے امتحانی جائزے، AI سے منظّم شفہی امتحانات اور AI کی معاونت والا موضوعاتی ذہنی کوشش شامل تھی۔ خود بتایا گیا ChatGPT استعمال کی تعدد 1-7 پیمانے پر 2.987 سے 4.375 تک بڑھی (p < .001)، اعتماد 3.663 سے 4.000 تک (p = .004)، اور سمجھی گئی شمولیت 1-3 پیمانے پر 2.433 سے 2.65 تک (p = .006) — یہ ایک ہم آہنگ کہانی ہے اُن طلبہ کی جو ٹول زیادہ استعمال کرتے رہے اور مانتے رہے کہ اُس نے مدد کی۔
+
+امتحانی اسکور نے ایک اور کہانی کہی: استعمال کی تعدد کا سادہ ماڈل میں کارکردگی سے کوئی تعلق نہیں تھا (-5.577، SE 5.566) اور مکمل ماڈل میں منفی تعلق تھا (-13.918، SE 7.834، p = .076)۔ مصنفین عدمِ تعلق کو نقصان کا ثبوت نہیں مانتے، کیونکہ مشکل پر ہینے والے طلبہ AI زیادہ استعمال کر سکتے ہیں؛ مطالعہ جو ظاہر کرتا ہے وہ یہ ہے کہ ہر ادراکی پیمائش پر نمایاں تحریک تھی اور درجہ بندی شدہ کارکردگی پر اس کے مساوی کوئی تحریک نہیں۔
 
 **جنریٹو AI کی چھان بین کے ادب میں ادراک کی پیمائشیں مہارت کی پیمائشوں سے زیادہ ہیں۔** 66 مطالعات کے جائزے میں [[yahya-generative-ai-inquiry-based-learning-review-2026|Yahya وغیرہ (2026)]] نے پایا کہ صارف کے ادراکات سب سے زیادہ رپورٹ شدہ نتیجہ کا شعبہ تھے (32 مطالعات، 48.5%)، اس کے بعد جذباتی نتائج 25 پر، جبکہ صرف 8 مطالعات (12.1%) نے چھان بین کی مہارتیں ناپیں اور ان میں سے 4 کے پاس موازنے کی شرط تھی۔ مصنفین نے ثبوت کی کوئی یقینیت درج نہیں کی، اس لیے ادراک کی گنتیاں یہ بتاتی ہیں کہ کیا پوچھا گیا، یہ نہیں کہ کیا حاصل ہوا۔
 
@@ -120,6 +130,10 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - **کارکردگی کا متبادل، جہاں قابلیت ہی تصور ہو۔** GLAT کے 20 کثیر الانتخابی آئٹم اسی لیے موجود ہیں کہ خود رپورٹ قابلیت کا دعویٰ نہیں اٹھا سکتی۔
 
 **اس میدان کے بیشتر آلات اعتماد رپورٹ کرتے ہیں اور تقریباً کوئی اعتبار رپورٹ نہیں کرتا۔** [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026|Kharbach وغیرہ (2026)]] Su وغیرہ کے 36 AI خواندگی مطالعات کے جائزے کا حوالہ دیتے ہیں، جس نے پایا کہ 63.8% آلات اعتماد کا ثبوت رپورٹ کرتے ہیں اور 20% سے کم اعتبار کا ثبوت۔ اسی جائزے نے 50 [[k-12|K-12]] فریم ورکوں میں صرف ایک جنریٹو AI سے مخصوص آلہ پایا، 27 آئٹمز والا GAIAS۔ یہ کہ کوئی پیمانہ اندرونی طور پر مستقل ہو، یہ نہیں بتاتا کہ وہ اُس تصور کی پیمائش کرتا ہے جو اس کے عنوان میں لکھا ہے۔
+
+ایک حالیہ فیکلٹی سروے ناکامی کو اس کی انتہائی صورت میں دکھاتا ہے۔ [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez وغیرہ (2026)]] نے 315 یونیورسٹی فیکلٹی پر 300 آئٹمز لاگو کیے، مجموعی پیمانے کے لیے α = 0.997 رپورٹ کیا، اور کوئی عنصری تجزیہ نہیں کیا، پھر بھی Naive Bayes ماڈل نے 315 میں سے 314 جواب دہندگان کو درست طریقے سے (درستگی 0.9968) کم، درمیانے اور زیادہ قابلیت کے طبقوں میں رکھا۔ ایسا آلہ جس کے آئٹم تقریباً ایک جیسے سلوک کرتے ہوں اُسے چند آبادیاتی اور اداری متغیرات سے تقریباً مکمل طور پر پیش کیا جا سکتا ہے کیونکہ اس میں آزاد معلومات کم ہوتی ہیں: مصنفین نے اپنے SHAP تجزیے میں وابستگی کو سب سے بڑا عالمی معاون پایا، اور تینوں طبقے طے کرنے والے کٹ پوائنٹس برقرار نہیں رکھے گئے۔
+
+پیش–پس کی عبارت وہی تبدیلی بنا سکتی ہے جو خود رپورٹ کرتی ہے۔ AI کے شایع کیے مریض کی دو کوہورٹ کی تجرباتی چھلانگ میں، [[tischkau-ai-simulated-patient-formats-2026|Tischkau وغیرہ (2026)]] نے ملاقات سے پہلے کے آئٹم توقعات کے طور پر لکھے اور ملاقات کے بعد کے آئٹم تجربے کے طور پر، اس لیے فرق کے اسکور نے توقع کا موازنہ یادداشت سے کیا۔ ان کا عارضی BSLS-P نے تعیناتیوں کے دوران ذیلی پیمانوں کے α منفی 0.39 سے 0.87 تک دیے، اور جن آئٹم مجموعوں نے ساتھ نہیں بڑھا وہ پھر بھی نفسیاتی تحفظ کا دعویٰ رکھتے تھے۔
 
 ## نمونہ، جواب اور غیر جواب
 
@@ -147,11 +161,14 @@ connected_articles: [kares-xai-evaluation-alignment-2027, high-school-genai-acce
 - **سہ رخی کریں۔** [[genai-over-reliance-learning-2026|مخلوط طریقوں والے ڈیزائن]] اور عام طور پر [[mixed-methods-research|مخلوط طریقوں والی تحقیق]] نمونے کے حجم کو ایک ڈیٹا ماخذ کو دوسرے کے خلاف جانچنے کی صلاحیت کے بدلے لیتے ہیں؛ [[ai-vocational-education-training-review|پیشہ ورانہ تعلیم کا ایک منظم جائزہ]] اس عدم توازن کے لیے سبق آموز ہے، اور نوٹ کرتا ہے کہ اپنے جائزہ لیے گئے کمی مطالعات میں 2 مکمل طور پر خود رپورٹ پر انحصار کرتے تھے جبکہ 5 نے صرف معروضی پیمائشیں استعمال کیں۔
 - **وہ نتیجہ ناپیں جس کی آپ کو پرواہ ہے۔** اگر دعویٰ سیکھنے کے بارے میں ہے، تو [[learning-gains|سیکھنے کے فوائد]] ناپے جانے چاہئیں، اطمینان سے اندازہ نہیں لگایا جانا چاہیے۔
 
+- **خود رپورٹ کو ریکارڈ کے خلاف جانچیں۔** [[pinto-student-ownership-ai-agents-code-2026|Pinto وغیرہ (2026)]] نے 33 سافٹ ویئر انجینئرنگ طلبہ سے پوچھا کہ اُنہوں نے کیا لکھا تھا اور جوابات کو اُن کی اپنی کمیٹ تاریخ سے موازنہ کیا: بتایا گیا تحریری حصہ اُس چیز سے تعلق نہیں رکھتا جو کمیٹس اعلان کرتی ہیں، اس لیے طلبہ کا اپنا مساہمے کا بیان اُس کا متبادل نہیں بن سکتا۔
+
 ## خود رپورٹ دعوے کو کیسے پڑھیں
 
 - پوچھیں کہ یہ کس قسم کا دعویٰ ہے۔ ادراکات جائز ہیں؛ رویے کا اندازہ لگایا جاتا ہے؛ سیکھنا اور قابلیت اس راستے سے قابلِ رسائی نہیں۔
 - دیکھیں کس نے جواب دیا اور کس نے نہیں۔ جواب کی شرح، نمونہ گیری کا فریم اور خود انتخاب طے کرتے ہیں کہ فیصد کس چیز کو بیان کرتے ہیں — ایک ادارے کے طلبہ کا مطالعہ اسی ترتیب کو بیان کرتا ہے، عمومی طور پر طلبہ کو نہیں۔
 - آلہ دیکھیں۔ کیا یہ اس تصور اور آبادی کے لیے تصدیق شدہ تھا، اور اگر گروہوں کا موازنہ ہو تو کیا عدم تغیر جانچا گیا؟
+- امتحان پر بھروسہ کرنے سے پہلے تقسیم دیکھیں۔ تصدیق شدہ پروگرامنگ خود اعتمادی پیمانے کے دونوں عناصر سن ٹیسٹ پر حرکت کرتے رہے (p = .0074 اور p = .012)، جبکہ عنصر 1 کا میڈین پہلے جانچ سے بعد جانچ تک 5.87 پر رہا، اور تمام عناصر منفی طور پر مائل تھے ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart وغیرہ (2026)]])۔
 - یک ماخذ ڈیزائن سے خبردار رہیں۔ اگر پیش گو اور نتائج ایک ہی وقت میں ایک ہی سوالنامے سے آئیں، تو تعلقات مشترکہ طریقہ کی متفاوتیت کے ساتھ بھی مطابقت رکھتے ہیں، جیسے مجوزہ نظریے کے ساتھ۔
 - اطمینان کو ڈیزائن کا اشارہ سمجھیں، سیکھنے کا نتیجہ نہیں۔ بلند اطمینان کے ساتھ غیر جانچا سیکھنا AI ٹول کی جانچ کی معیاری ترتیب ہے، اور یہ کارپس دونوں کو الگ ہوتے دکھاتا ہے۔
 - اُن مطالعات کو ترجیح دیں جو اپنا حساب دکھائیں: بیان شدہ جواب کی شرحیں، بیان شدہ حدود، اور ثبوت کا کم از کم ایک ایسا ماخذ جو پوچھنے سے نہ آئے۔

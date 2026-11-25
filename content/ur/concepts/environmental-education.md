@@ -9,15 +9,15 @@ ethics: [sustainability, ethics, global-south]
 institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/environmental-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [sustainability, global-south, critical-pedagogy, inquiry-based-learning, science-education, engineering-education, teacher-education, curriculum-design, ethics, governance]
 connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-inquiry-ssi-climate, aied-carbon-footprint-reporting, llm-environmental-impact-student-usage-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, liu-ai-sustainable-engineering-education-2026, riandi-teacher-ai-green-energy-education-2026, talebzadeh-ai-green-education-2026, alsuhaymi-sustainable-education-ai-digitalization-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning]
@@ -47,7 +47,7 @@ connected_articles: [daniel-ai-sustainability-scoping-review-2026, ai-assisted-i
 
 ## AI کے ساتھ ماحولیاتی اور آب و ہوا کے موضوعات پڑھانا
 
-سب سے مضبوط ثبوت تین گروہوں والا نیم تجربہ ہے جو آب و ہوا کی تبدیلی کو سماجی و سائنسی مسئلے کے طور پر استعمال کرتا ہے۔ ساختی [[inquiry-based-learning|کھوج]] کے کام کے اندر AI ساتھی کے ساتھ کام کرنے والے طلبہ نے فیصلہ سازی کے ربرک پر صرف کھوج کرنے والے ساتھیوں (d = 0.69) اور روایتی تدریس (d = 1.88) سے بہتر کارکردگی دکھائی، اور سب سے بڑے فوائد اُن مراحل پر رہے جن میں طلبہ سب سے کمزور داخل ہوئے — نگرانی اور موافقی انتظام، اور متبادل پیدا کرنا۔ AI کی حالت کھوج کے *علاوہ* تھی، اُس کا متبادل نہیں، اور ڈیٹا جمع کرنے اور تجزیے نے گروہوں میں بالکل فرق نہیں ڈالا، جو بتاتا ہے کہ AI نے ٹریڈ آف کے بارے میں استدلال کو سہارا دیا، ثبوت جمع کرنے کو نہیں۔([[ai-assisted-inquiry-ssi-climate]])
+سب سے مضبوط ثبوت تین گروہوں والا نیم تجربہ ہے جو آب و ہوا کی تبدیلی کو سماجی و سائنسی مسئلے کے طور پر استعمال کرتا ہے۔ ساختی [[inquiry-based-learning|کھوج]] کے کام کے اندر AI ساتھی کے ساتھ کام کرنے والے طلبہ نے فیصلہ سازی کے [[rubrics|ربرک]] پر صرف کھوج کرنے والے ساتھیوں (d = 0.69) اور روایتی تدریس (d = 1.88) سے بہتر کارکردگی دکھائی، اور سب سے بڑے فوائد اُن مراحل پر رہے جن میں طلبہ سب سے کمزور داخل ہوئے — نگرانی اور موافقی انتظام، اور متبادل پیدا کرنا۔ AI کی حالت کھوج کے *علاوہ* تھی، اُس کا متبادل نہیں، اور ڈیٹا جمع کرنے اور تجزیے نے گروہوں میں بالکل فرق نہیں ڈالا، جو بتاتا ہے کہ AI نے ٹریڈ آف کے بارے میں استدلال کو سہارا دیا، ثبوت جمع کرنے کو نہیں۔([[ai-assisted-inquiry-ssi-climate]])
 
 [[curriculum-design|نصاب]] کی سطح پر AI-SEE فریم ورک AI کو [[engineering-education|انجینئرنگ نصاب]] میں چار ستونوں پر یکجا کرتا ہے (ذہانت سے چلنے والا، سبز طور پر بااختیار، ذمہ داری کی قیادت، عمل سے مربوط)، نہ کہ پائیداری کے الگ تھلگ ماڈیول کے طور پر؛ 144 طلبہ کے پائلٹ نے ذاتی، تعلیمی، پیشہ ورانہ اور سماجی سطحوں پر پائیداری کے شعور اور رویے کی [[student-engagement|شمولیت]] میں بہتری رپورٹ کی۔ مصنفین خبردار کرتے ہیں کہ یہ ایک ہی ادارے کا، خود رپورٹ شدہ، ایک ہی وقت کے انٹرویو کا ثبوت ہے جو چین کے ایک ٹرانسپورٹیشن پروگرام سے آیا ہے۔([[liu-ai-sustainable-engineering-education-2026]])
 

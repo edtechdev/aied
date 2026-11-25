@@ -1,7 +1,7 @@
 ---
 title: "تعلیم میں AI کی تنقید"
 created: "2026-11-21T15:40:00-05:00"
-updated: "2026-11-23T17:44:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -13,16 +13,16 @@ ethics: [equity-in-ai-education, digital-divide, trust]
 methods: [meta-analysis-systematic-review, research-methods-aied]
 institutions: [institutional-ai-infrastructure, educational-policy-ai, governance]
 translation_of: concepts/critiques-of-ai-in-education
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T09:30:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-22"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [philosophy-of-ai-in-education, critical-pedagogy, limitations-in-aied-research, theory-development-aied, misconceptions, ai-literacy, agency, cognitive-offloading, equity-in-ai-education, digital-divide, institutional-ai-infrastructure, educational-policy-ai, governance, sustainability, teacher-role, educational-development, higher-ed, trust, automation-bias, critical-thinking]
-connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026, komodromos-generative-ai-pedagogical-sustainability-2026, videla-why-education-cannot-be-automated-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, tlili-double-edged-sword-oer-generative-ai-2026, fajardo-ramos-teacher-education-ai-agenda-2026, li-mroziak-reorienting-critical-ai-literacy, ai-literacy-power-knowledge, caeai-ai-companions-learning-over-performance-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, beyond-agent-label-agentic-ai-governance-2026]
+connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026, komodromos-generative-ai-pedagogical-sustainability-2026, videla-why-education-cannot-be-automated-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, tlili-double-edged-sword-oer-generative-ai-2026, fajardo-ramos-teacher-education-ai-agenda-2026, li-mroziak-reorienting-critical-ai-literacy, ai-literacy-power-knowledge, caeai-ai-companions-learning-over-performance-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, beyond-agent-label-agentic-ai-governance-2026, ma-ai-cal-rct-rural-china-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -57,6 +57,14 @@ connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026,
 ## انفراسٹرکچر، معنوی تبدیلی اور غلط شناخت
 
 تیسرا ایک جھرمٹ توجہ آلے سے ہٹا کر اُس کے گرد کی انفراسٹرکچر کی طرف کھینچتا ہے۔ Watson، Morgner اور Brezovec جنریٹو AI کو معنی کی وساطت کرنے والی انفراسٹرکچر کے طور پر لیتے ہیں اور اُس کے میکانزم کو *معنوی تبدیلی* (semantic transduction) کہتے ہیں: کسی تعلیمی مانگ — ایک پرامپٹ، بریفنگ، [[rubrics|روبرک]]، امتحانی سوال، ایک صنف یا پالیسی — کو ایسے رابطہ دارانہ طور پر معقول شکل میں دوبارہ وضع کرنا ([[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson، Morgner اور Brezovec، 2026]])۔ چونکہ تبدیلی انتخابی ہے، اس لیے وہ شامل کر سکتی ہے یا خارج کر سکتی ہے۔ تین مقامات بار بار آتے ہیں: رسائی اور صلاحیت کے شکاف، اچھے جواب یا اچھے طالب علم کی آواز کے نمونوں کے ذریعے غلط شناخت، اور تدریسیات کے مطلب میں معیاری انحراف۔ اخراج اکثر پابندی نہیں بلکہ پنسر ہوتا ہے — ادارے رفتار، چمک اور محاورہ جات کی روانی کے بارے میں توقعات بلند کرتے ہیں اور ساتھ ہی اصالت کے نظام کو سخت کرتے ہیں۔
+
+## شواہد کے مطابق ڈیزائن کا منطق کیا ہے
+
+ان تصوراتی تنقیدوں کا تجرباتی ہم آہنگ دلیل 170 ایجنٹک AI تعلیم کے کاموں پر ہے جس کا تجزیہ عنوانات اور خلاصوں سے 23 بُعدوں میں کوڈ کیا گیا ([[raman-agentic-ai-design-logic-evidence-theory-2026|Raman اور دیگر (2026)]])۔ اُس کے تنقیدی نتائج ایک ایسے میدان کی صفت کرتے ہیں جو دستاویز کردہ ضرورت سے نہیں بلکہ تکنیکی صلاحیت سے تعمیر ہوتا ہے۔ تقریباً آدھے کام تکنیکی صلاحیتوں سے فائدہ اٹھا کر (49.4%) یا مشغولیت بڑھا کر (47.6%) ترقی کی جواز دیتے ہیں، جبکہ انصاف صرف 9.4% میں ظاہر ہوتا ہے۔ نظریہ بڑی حد تک غائب ہے: 90.0% کام کسی سیکھنے کے نظریے سے لاتعلق ہیں۔
+
+شواہد کی نوعیت پتلا ہے۔ صرف 5 کام (2.9%) مضبوط شواہد کے معیار پر پورا آتے ہیں: تجرباتی یا نیم تجرباتی ڈیزائن، تقابلی گروہ اور مناسب نمونہ؛ 73.5% کمزور شواہد پیش کرتے ہیں۔ تقابلی گروہ صرف 11.2% کاموں میں آتے ہیں، اثر کے حجم 9.4% میں، اور 61.8% کوئی چیلنج بتاتے ہیں نہیں۔ صرف 18.2% حل تجویز کرنے سے پہلے پچھلی تحقیق میں خلا کی نشاندہی کرتے ہیں، اور 23.5% اساتذہ یا طلبہ سے مشورہ کرنے کا تذکرہ کرتے ہیں۔
+
+ایک اچھی طرح سے ڈیزائن کیا گیا تجربہ کچھ نہ دے بھی سکتا ہے۔ 105 دیہی چینی ابتدائی اسکولوں کے 8,647 طلبہ پر ہونے والے ایک رجسٹرڈ [[rct|RCT]] نے AI سے چلنے والی [[adaptive-learning|تطبیقی]] CAL کا موازنہ ملے ہوئے غیر تطبیقی ورژن اور بغیر CAL کے ساتھ کیا، اور AI والے دستے میں کوئی فائدہ نہیں پایا ([[ma-ai-cal-rct-rural-china-2026|Ma اور دیگر، 2026]])۔ اُس کی پالی صفر (null) یہ دکھاتی ہے کہ سخت طریقہ کار کوئی اپنانے قابلِ فائدہ کی ضمانت نہیں دیتا۔
 
 ## ایجنڈہ طے کرنا، مصنوعی جدت اور تجرباتی مستقبل سازی
 

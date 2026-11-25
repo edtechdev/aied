@@ -14,7 +14,7 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-15T15:59:48-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
 source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 ---
 
@@ -38,7 +42,7 @@ ai_assist:
 
 **2.** خودکاری اسکریننگ پر رکھیں۔ ڈیٹا نکالنے، مصالحت اور ترکیب کا کام لوگوں کے پاس رکھیں۔
 
-**3.** کوڈ بک اور روبرک خودکار دور کے ڈیٹا کو چھونے سے پہلے طے کریں۔
+**3.** کوڈ بک اور [[rubrics|روبرک]] خودکار دور کے ڈیٹا کو چھونے سے پہلے طے کریں۔
 
 **4.** طے کریں کہ تصدیق کا مطلب کیا ہے اور اس پر دستخط کون کرتا ہے۔ ماڈل اور کوڈر کے درمیان اتفاق ایک مماثلت کا پیمانہ ہے، معیار کا نتیجہ نہیں۔
 

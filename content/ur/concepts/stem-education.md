@@ -9,12 +9,16 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/stem-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
@@ -38,6 +42,8 @@ connected_articles: [ai-pedagogical-accompaniment-amico, lnenicka-secondary-stud
 ## تعارف
 
 ### بنیادی AIED میدان کے طور پر STEM
+
+مضامین کا حصہ موضوعی صفحات کو چار گروہوں میں تقسیم کرتا ہے — [[humanities-education|انسانیات اور فنون]]، [[social-sciences-education|سماجی علوم]]، STEM، اور [[professions-education|پیشہ ورانہ تعلیمیں]] — اور STEM اُن میں وسیع فرق سے سب سے بڑا ہے، جو خود اس بات کا ایک نتیجہ ہے کہ AI-تعلیم کا ثبوت کہاں جمع ہوتا ہے۔
 
 - **ریاضی:** [[math-education|ریاضی کی تعلیم]] کی تحقیق [[generative-ai-reduced-study-time-math|ریاضی سیکھنے پر GenAI کے اثر]]، [[ai-powered-personalized-learning-elementary-fractions-2026|ابتدائی کسروں کی ٹیوٹرنگ]] اور [[student-math-competence-clustering|قابلیت کی جھرمٹ بندی]] تک پھیلی ہوئی ہے۔
 - **ریاضی کے ITS ثبوت محدود اور مشروط ہیں۔** 20 مطبوعات (2020–اپریل 2026) کے ساختہ بیانیہ جائزے نے سب سے واضح ماپا گیا فائدہ اسی موافق نظام پر تہہ در تہہ رکھے گئے حقیقی وقت کے تشخیصی [[feedback]] میں پایا، مگر یہ نتیجہ دیا کہ ذہین ٹیوٹرنگ ریاضی سیکھنے کو صرف اس وقت سہارا دیتی ہے جب درست [[student-modeling|طالب علم ماڈلنگ]]، کیلیبریٹڈ سہارا اور استاد کی وساطت مل کر آئیں، اور یہ کہ پیمانے پر پھیلنا تکنیکی معاملہ ہے، تعلیمی نہیں ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]])۔

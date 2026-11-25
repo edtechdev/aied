@@ -4,15 +4,19 @@ created: "2026-09-20T12:39:59-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/latent-profile-analysis"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [quantitative-research, mixed-methods-research, research-methods-aied, machine-learning, learning-analytics, student-modeling, educational-measurement, self-report-measures, differential-effects-across-learner-groups, technology-acceptance-model]
 connected_articles: [ai-attitude-latent-profiles-career-development-2026, wu-psychological-adaptation-ai-japanese-learning-2026, liang-ai-learning-motivation-sdt-2026, trust-in-ai-psychological-profiles-ml-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, teachers-ai-belief-profiles-talis-2024-2026]

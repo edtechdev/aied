@@ -9,15 +9,15 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/parents-and-families"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [developmental-psychology, stakeholders, early-childhood-elementary-ai-education, ai-use-disclosure, ai-literacy, equity-in-ai-education, digital-divide, conversational-ai, self-determination-theory, cognitive-offloading, intelligent-tutoring]
 connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-parent-child-tutoring, liao-role-adaptive-ai-companion-book-talk-2026, family-school-autonomy-support-genai-2026, raise-framework-ai-education-reporting-2026, k12-teachers-ai-companion-literacy-2026, ai-play-framework-early-childhood-2026, all-girls-genai-makerspace-gender-equity-2026, creative-project-approach-ai-early-childhood-2025, demir-akar-ai-media-literacy-children-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, stromberg-generative-ai-learning-penalty-secondary-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, llm-family-education-activity-theory-2026]
@@ -41,6 +41,8 @@ connected_articles: [ai-connectedness-adolescent-mental-health-2026, paratutor-p
 بچوں کا AI کے ساتھ وقت گزارنے کا بڑا حصہ کلاس روم سے باہر ہوتا ہے، ایسے ماحول میں جسے تحقیقی لٹریچر زیادہ تر پس منظر سمجھتا ہے۔ ٹیوٹرنگ اور سیکھنے کے نتائج پر کام عموماً اسکول پر مبنی ہوتا ہے، جبکہ خاندانی رہنمائی پر کام عموماً جانچے جانے کے بجائے مشورے کی نوعیت کا ہوتا ہے، لہٰذا خاندان بیک وقت [[ethics|ذمہ دارانہ AI]] استعمال کے بارے میں بہت سی رہنمائی کا نشانہ ہیں اور اِس بارے میں بہت کم شواہد کا موضوع کہ وہ رہنمائی کام کرتی ہے یا نہیں۔
 
 یہ صفحہ گھر کو ایک الگ فاعل سمجھتا ہے۔ یہ AI کے ذریعے ثالثی شدہ والدین–بچہ ٹیوٹرنگ، وہ ساتھی اور پڑھائی کے اوزار جن سے بچے گھر پر ملتے ہیں، اسکول AI کے استعمال کے بارے میں خاندانوں کو کیا بتاتے ہیں اور کیا نہیں، والدین کی اپنی [[ai-literacy]] اور اُن کے نظریات کے بارے میں جو معلوم ہے، اور وہ رسائی اور لاگت کے حالات جن میں خاندان یہ اوزار استعمال کرتے ہیں، سب کچھ محیط کرتا ہے۔ جہاں شواہد پتلے ہیں، صفحہ خلا بھرنے کے بجائے یہی کہتا ہے۔
+
+بچہ کسی خاص عمر میں کسی اوزار کے ساتھ کیا کر سکتا ہے، یہ ایک نشوونما کا سوال ہے نہ کہ مرضی کا معاملہ؛ [[developmental-psychology|نشوونما کی نفسیات]] اُس باب کا بیان رکھتا ہے۔
 
 ## گھر پر والدین بطور شریک معلم
 

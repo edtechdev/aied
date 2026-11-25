@@ -8,15 +8,19 @@ technology: [generative-ai]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/community-of-inquiry"
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, generative-ai, constructivist, pedagogy, critical-thinking, assessment, human-ai-collaboration, student-engagement, llm, ai-literacy, authentic-assessment, trust-calibration]
 connected_articles: [doo-genai-community-of-inquiry-scoping-review-2026, genai-social-annotation-epistemic-network-analysis-2026, reconceptualizing-community-inquiry-generative-ai, ai-communities-of-inquiry-2026, ai-online-education-engagement-satisfaction-2026, reflective-triangle-model-teacher-ai-2026, llm-facilitation-timing-online-discussions]

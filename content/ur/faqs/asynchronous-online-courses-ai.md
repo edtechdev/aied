@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: faqs/asynchronous-online-courses-ai
 source_updated: "2026-11-06T03:00:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
@@ -21,6 +21,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 ---
 
@@ -36,7 +40,7 @@ ai_assist:
 
 **2.** جو بھی جائزہ قابلیت کی تصدیق کرتا ہے، اس میں کم از کم ایک بغیر مدد پیمائش رکھیں۔ نیچے دیے گئے آبادیاتی اعداد و شمار میں یادداشت کا خلا پراکٹرنگ کے قائم ہونے کے بعد ختم ہو جاتا ہے۔
 
-**3.** جہاں داؤ اس تیاری کے کام کا جواز بناتا ہے، وہاں [[asynchronous-oral-assessment-2026|غیر ہم وقتی زبانی جائزے]] کا استعمال کریں: بروقت پرامپٹ، ایسی مختصر ریکارڈنگ جنہیں طالب علم بدل نہیں سکتا، اندرونی ربرکس، خودکار طور پر تیار شدہ نقول۔
+**3.** جہاں داؤ اس تیاری کے کام کا جواز بناتا ہے، وہاں [[asynchronous-oral-assessment-2026|غیر ہم وقتی زبانی جائزے]] کا استعمال کریں: بروقت پرامپٹ، ایسی مختصر ریکارڈنگ جنہیں طالب علم بدل نہیں سکتا، اندرونی [[rubrics|ربرک]]س، خودکار طور پر تیار شدہ نقول۔
 
 **4.** جو بھی AI آپ فراہم کریں، اسے جواب دینے کے بجائے اشارہ دینے پر ترتیب دیں، اور اسے کورس کے اندر رکھیں، کسی عام چیٹ بوٹ کا لنک نہ دیں۔
 

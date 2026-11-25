@@ -5,15 +5,19 @@ type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/distributed-cognition"
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learning-theories, cognitive-offloading, embodied-learning, situated-learning, human-ai-collaboration, agency, metacognition, self-regulated-learning, constructivist, collaborative-learning, ai-education]
 connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari-ai-pedagogical-mediator-collaborative-learning, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, elsayed-pedagogical-symbiosis-posthuman-learner, fowlin-operationalizing-learning-principles-ai, cognitive-commons-ai-expertise-regeneration, choi-teacher-ai-interaction-lesson-design-2026, xu-genai-collaborative-space-2026, cognitive-distribution-student-genai-interaction-2026, akgun-toker-genai-critical-thinking-transactive-memory-2026, schlauch-sociomaterial-literacy-postdigital-design-2026, rivera-novoa-genai-extended-cognition-2026]
@@ -35,7 +39,7 @@ connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari
 
 یہ دانش گاہ کے [[learning-theories]] ریشے کے اندر ایک نظریۂ سیکھنا کا تصور ہے، جو [[embodied-learning]]، [[situated-learning]] اور [[cognitive-offloading]] سے گہرا جڑا ہے۔ تقسیم شدہ ادراک (DCog)، جو Edwin Hutchins اور ساتھیوں کے کام سے نکلا، بیان کرتا ہے کہ یادداشت، استدلال اور [[problem-solving|مسئلہ حل کرنا]] جیسے علمی عمل کسی ایک سر میں رہنے کے بجائے کئی عاملوں اور مادی نظاموں میں پھیلے ہوتے ہیں۔ [[ai-education|AI تعلیم]] میں یہ اہم ہے کیونکہ AI نظام بڑھتی ہوئی تعداد میں حقیقی علمی ساتھی کا کام کرتے ہیں جو سوچ کا کچھ بوجھ اُٹھاتے ہیں، جس سے یہ سوال اٹھتا ہے کہ سیکھنا اصل میں *کہاں* ہوتا ہے اور *کون* جواب دہ ہے۔
 
-### AI علمی تقسیم کو کیسے بدلتا ہے
+## AI علمی تقسیم کو کیسے بدلتا ہے
 
 جنریٹو اور متعامل AI نظام علمی کام کو ایسے طریقوں سے دوبارہ تقسیم کرتے ہیں جو پہلے کے اوزار نہیں کرتے تھے۔ دانش گاہ اِس تبدیلی کی کئی جہتیں دستاویز کرتی ہے:
 
@@ -51,7 +55,7 @@ connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari
 
 - **توسیعی ادراک بطور ڈیزائن انتخاب، نہ کہ اوزار کی خاصیت۔** [[rivera-novoa-genai-extended-cognition-2026|Rivera-Novoa اور Duarte Arias (2026)]] دلیل دیتے ہیں کہ جنریٹو AI طے شدہ طور پر متبادل ہے کیونکہ وہ علمی کام انجام دیتا ہے، مگر وہی نظام تکمیلی بن جاتا ہے جب وہ کسی مسودے کی تنقید کرے یا ایسا فیڈبیک دے جسے سیکھنے والے کو پرکھنا ہو۔ اُن کا توسیعی ذہن کا فریم تجزیے کی اکائی کو مصنوع اور اُس کے استعمال کا مجموعہ بناتا ہے، جو اِس صفحے کے تقسیم کے سوال کا معیاری روپ ہے۔
 
-### تقسیم شدہ ادراک اور متعلقہ نقطہ نظر
+## تقسیم شدہ ادراک اور متعلقہ نقطہ نظر
 
 دانش گاہ تقسیم شدہ ادراک کو اُس کے پڑوسی نظریاتی روایات کے ساتھ رکھتی ہے، جو ایک دوسرے پر چڑھتی ہیں مگر یکساں نہیں:
 
@@ -60,11 +64,11 @@ connected_articles: [hao-human-ai-collaborative-problem-solving-cognition, niari
 - **[[cognitive-offloading]]** وہ عملی طریقہ کار ہے جس سے علمی کام بیرونی نظاموں (بشمول AI) کو سونپا جاتا ہے، اور یہ DCog کے وضاحتی بیان کا خطرہ اٹھانے والا ہم منصب ہے۔
 - **توسیع شدہ ادراک / توسیع شدہ ذہن کا مقالہ** (جو پس انسانیت پسند کام میں استعمال ہوتا ہے) مانتا ہے کہ بیرونی نمونے علمی نظام کے *تشکیلی* حصے ہو سکتے ہیں، محض آلات نہیں — یہ زیادہ مضبوط دعویٰ ہے کہ AI خود سیکھنے والے کے ذہن کا حصہ ہے۔([[elsayed-pedagogical-symbiosis-posthuman-learner]])
 
-### کس کا ادراک؟ تجزیے کی اکائی کا مسئلہ
+## کس کا ادراک؟ تجزیے کی اکائی کا مسئلہ
 
 [[schlauch-sociomaterial-literacy-postdigital-design-2026|Schlauch (2026)]] اِس تجزیے کی اکائی والے سوال کو اِس روایت کے بیشتر کام سے زیادہ زور سے اٹھاتے ہیں۔ اُن کا دعویٰ ہے کہ خواندگی کسی فرد کی ملکیت نہیں بلکہ ایسی چیز ہے جو مواد اور مشینوں کے ساتھ ادا کی جاتی ہے، جس سے انفرادی سیکھنے والا تجزیے کی غلط اکائی بن جاتا ہے۔ شخص پر مرکوز قابلیت کا فریم ورک اِس لیے بنیادی ڈھانچے یا غیر انسانی شراکتوں کو رجسٹر نہیں کر سکتا، چنانچہ میدان تقسیم کا نام لیتا رہتا ہے اور پھر اُسے سیکھنے والے پر ہی قائم کر دیتا ہے۔ مساوات کا کنارہ اُن کی دشواری والی دلیل ہے: عکسیت کا انحصار زیستی تجربے اور طاقت کے تعلقات پر ہے، چنانچہ جن طلبہ کی زبان یا تحریری مشقیں مقررہ معیار سے سب سے زیادہ دور ہیں وہ سب سے بڑی قیمت اٹھاتے ہیں۔ دلیل نظریاتی ہے اور کوئی ڈیٹا سیٹ رپورٹ نہیں کرتی، اور اُس کی ڈیزائن ہدایات آزمائے گئے تجاویز نہیں رہیں۔
 
-### AI کے ڈیزائن اور جانچ کے لیے یہ کیوں اہم ہے
+## AI کے ڈیزائن اور جانچ کے لیے یہ کیوں اہم ہے
 
 تقسیم شدہ ادراک ڈیزائن کی عینک بھی دیتا ہے اور جانچ کی عینک بھی۔ ڈیزائن کے لیے، یہ پوچھتا ہے کہ سیکھنے والوں اور AI کے درمیان علمی کام کیسے بانٹا جائے تاکہ انسانی سیکھنے والے کی ایجنسی، [[metacognition]] اور خود ضابطگی بچی رہے (گھلے نہ)۔ جانچ کے لیے، یہ کامیابی کی پیمائش کو نئے سرے سے ترتیب دیتا ہے: صرف "کیا کارکردگی بہتر ہوئی؟" پوچھنے کے بجائے، DCog پوچھتا ہے کہ ادراک کی تقسیم پائیدار سیکھنے، علمی ایجنسی اور تعلیمی انصاف کی مدد کرتی ہے یا نہیں — یہ نقطہ نظر دانش گاہ کے [[ai-ed-evaluation]] اور [[learning-theories]] کے معاملات سے جڑتا ہے۔
 

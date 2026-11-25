@@ -7,15 +7,19 @@ pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, meta
 connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/desirable-difficulties"
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-23T12:00:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, learning-by-teaching, self-regulated-learning, automation-bias, metacognition, transfer-of-learning, scaffolding, learning-gains, cognitive-offloading, ai-misuse-learning-harm, reducing-ai-misuse, affective-computing, active-learning, constructivist, motivation, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, zohar-bloom-inzlicht-against-frictionless-ai-2026, agentic-ai-pedagogical-best-practice-2026, structured-llm-feedback-programming, generative-ai-reduced-study-time-math, curiobot-llm-tutoring-exploratory-learning, rethinking-scaffolding-llm-tutors, knowloop-confusion-to-consolidation-2026, generative-refusal-ai-tools-for-thought, sequenced-ai-feedback-learning, critical-thinking-genai-scaffolding, epistemic-emotions-collaborative-problem-solving, young-people-learning-generative-ai-rapid-review-2026, zhang-tutormoments-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, making-ai-annoying-constrained-writing-2026, rachatasumrit-example-problem-ratio-2026, skill-sustaining-reliance-reflective-ai-engagement-2026, structured-reflection-ai-explanatory-feedback-2026, stromberg-generative-ai-learning-penalty-secondary-2026, yusuf-genai-expertise-reversal-cognitive-load-2026]
@@ -86,6 +90,8 @@ AI کی معاونت والی سیکھائی کے لیے مرکزی تناؤ ی�
 
 - **ایک ہی ماڈل، دو گارڈ ریل، اُلٹ نتائج:** جن طلبہ کو غیر محدود GPT-4 دیا گیا اُنہوں نے اُسے بیساکھی بنا لیا اور ہٹانے پر کنٹرول سے بدتر کارکردگی دکھائی، جبکہ گارڈ ریل والا ٹیوٹر پانے والے طلبہ نے کنٹرول جیسی کارکردگی دکھائی — اوزار نے مدد کی یا نہیں، یہ ماڈل نے نہیں رگڑ نے طے کیا ([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al. (2026)]])۔
 - **جدوجہد کو واپس ڈیزائن کرنا۔** ہدایتی ڈیزائن دانستہ طور پر پیداواری کارروائی بچا سکتے ہیں: پہلے مسودہ بنانے کے معمول، جواب کے بجائے اشارہ دینے والی ٹیوٹرنگ، تاخیر والا فیڈبیک، اور واپس سکھانے/وضاحت کے پروٹوکول۔ یہی وہ ٹھوس سکافولڈز ہیں جو [[reducing-ai-misuse]] اور [[structured-llm-feedback-programming]] میں کھوجے گئے ہیں۔ 2026 کی ایک تصوراتی توسیع ([[friction-paradox-generative-ai-education-abroad-2026|Gupta]]) اِسی منطق کو منظم تعلیمی کاموں سے آگے رشتوں کے اندر کی مشکل تک لے جاتی ہے: بیرونِ ملک تعلیم میں وہ دلیل دیتا ہے کہ تعلیمی سوال یہ نہیں کہ کتنا جنریٹو AI موجود ہے، بلکہ یہ کہ وہ کون سی مشکلات گھلاتا ہے، اور ایک *وساطت کا میلان* تجویز کرتا ہے جو استعمال کو نظام کو منتقل کی گئی تفسیری [[agency]] کے حساب سے ترتیب دیتا ہے، استعمال کے حجم کے حساب سے نہیں۔
+
+**نئی رہنماؤں کو مدد دینے والی رہنمائی ماہرین کو نقصان پہنچا سکتی ہے۔** تیسری جماعت کے کمپیوٹر سائنس کے طلبہ کے ساتھ چار آٹھ ہفتوں کے تجربات میں، GenAI سہارا غیر ضروری بوجھ کم کرتا اور کم مہارت والے سیکھنے والوں کی آزاد پروگرامنگ کارکردگی بڑھاتا، جبکہ زیادہ مہارت والوں میں نسبتاً کم فائدہ پہنچاتا، اور تفصیلی رہنمائی نے مہارت کا کراس اوور پیدا کیا — زیادہ علم رکھنے والوں میں غیر ضروری بوجھ بڑھا اور کارکردگی کمزور کی ([[yusuf-genai-expertise-reversal-cognitive-load-2026|Yusuf et al., 2026]])۔ اس لیے فائدہ مند مشکلت یکساں نہیں: اس کی قدر اس بات پر منحصر ہے کہ سہارا سیکھنے والے کے لیے علمی طور پر ضروری رہتا ہے یا نہیں۔
 
 **اُلٹی U اور کوشش کا تضاد۔** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom اور Inzlicht (2026)]] سب سے تیز حالیہ بیان دیتے ہیں کہ AI کا رگڑ ہٹانا خود بخود اچھا کیوں نہیں۔ وہ AI کو پہلے کی محنت بچانے والی [[ai-technologies|ٹیکنالوجیوں]] سے دو بنیادوں پر الگ کرتے ہیں: وہ جسمانی یا دفتری کام کے بجائے فکری اور تخلیقی کام کو نشانہ بناتا ہے، اور اُس کا رگڑ ہٹانا *حد سے زیادہ* ہے — پہلی ٹیکنالوجیوں نے فالتو رگڑ ختم کی، "وہ اکتاہٹ بھری یا ناقابلِ عبور رکاوٹیں جو سیکھائی یا معنی کے لیے کم فائدہ دیتی ہیں"، جبکہ [[conversational-ai|چیٹ بوٹ]] سیکھنے والے کو خیال سے جانچ تک "بغیر کوئی معنی خیز محنت کیے، نتیجے پر سوال کیے بغیر، اور اُن علمی عملوں میں شامل ہوئے بغیر جو ملکیت، برقراری یا تنقیدی سوچ پیدا کرتے ہیں" لے جاتا ہے۔ اُن کا تنظیمی دعوی یہ ہے کہ کوشش اور معنی کا رشتہ خم دار ہے: معتدل رگڑ معنی اور ترغیب بڑھاتی ہے جبکہ حد سے زیادہ رگڑ مغلوب کر دیتی ہے، لہٰذا AI کا خطرہ رگڑ کے بہت کم ہو جانے کی طرف حد سے گزرنا ہے، زیادہ ہونے کا نہیں۔ دو نتائج تدریسی طور پر اہم ہیں — کوشش بذاتِ خود ایک تربیت پذیر مہارت ہے (نتیجے کے بجائے عمل کو انعام دینا کوشش اور ثابت قدمی کا رجحان بڑھاتا ہے)، اور کوشش کے ترغیبی فوائد عین اُن ڈومینوں میں گھلتے ہیں جہاں AI اُس کا متبادل بنتا ہے، جس سے بڑھتے انحصار کا چکر بنتا ہے ([[cognitive-offloading]]، [[motivation]])۔
 

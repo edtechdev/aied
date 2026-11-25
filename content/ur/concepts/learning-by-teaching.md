@@ -7,15 +7,15 @@ technology: [generative-ai, intelligent-tutoring]
 assessment: [feedback]
 discipline: [cs education]
 confidence: high
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/learning-by-teaching"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, generative-ai, active-learning, constructivist, scaffolding, self-regulated-learning, metacognition, desirable-difficulties, cognitive-offloading, cs-education, collaborative-learning, intelligent-tutoring, pedagogical-agent, pedagogy]
 connected_articles: [chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, prompting-teachability-novice-personas-lbt-2026, socrates-students-instructors-llms-lbt-2025, teaching-ai-vocabulary-lbt-llms-2026, knowloop-confusion-to-consolidation-2026, simulating-novice-students-machine-unlearning-2026, simulating-students-java-programming-errors-llms, knowledge-building-tutor-learning-2026]
@@ -62,6 +62,7 @@ LLM پر مبنی قابلِ تعلیم ایجنٹ کے لیے ایک مرکزی
 - **[[socrates-students-instructors-llms-lbt-2025|انجینئرڈ علمی خلا]]** (Yang et al.) ایسے مسائل ڈیزائن کرتے ہیں جنہیں LLM ایسے علم کے بغیر حل نہیں کر سکتا جو صرف طالب علم کے پاس ہے، جس سے تدریس ضروری بن جاتی ہے اور LLM-بطور-ٹیوٹر استعمال کی غیر فعال حد سے زیادہ انحصار کا توڑ ہوتا ہے۔
 - **Explique کی شاگرد پابندیاں** (Wang et al.) شاگرد کو ہدایت دیتی ہیں کہ (a) نوآموز رہے، (b) مسلسل وضاحت طلب کرتا رہے جب تک طالب علم کی وضاحت درست نہ ہو، اور (c) ہدف وضاحت کبھی ظاہر نہ کرے — اور ایسے طلبہ کی *مزاحمت* کرے جو کردار الٹ کر شاگرد سے وضاحت واپس مانگیں۔
 - **انا سیکھنا بطور وزن کی سطح پر نااہلی کا راستہ۔** مشین اَن لرننگ Mistral-7B میں 16 ہدف شدہ علمی اجزا کو دبا دیتی ہے، اور درستگی 10% فراموشی کی شرح پر تقریباً 0.75 سے 40% پر 0.5 سے نیچے گر جاتی ہے جبکہ بنیادی ماڈل 0.85 کے قریب رہا۔ دبایا گیا علم زیرِ نگرانی دوبارہ سیکھنے اور کوچ کی رہنمائی والی گفتگو سے واپس آیا، چنانچہ شاگرد کا علمی درجہ ایک دعوے کے بجائے ایک ڈائل ہے ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]])۔
+- **نگرانی بطور شاگرد کا کام۔** دو کورسز کے ڈیزائن کیس میں، طلبہ ایک عام المقاصد اسسٹنٹ کو ملازمت لیتے ہیں، اُسے آن بورڈ کرتے اور تربیت دیتے ہیں، پھر ڈستاویز کرتے ہیں کہ اُس نے کیا غلط کیا؛ مدرسین رپورٹ کرتے ہیں کہ اصولوں کی تشریح اوزار کو کرنے سے طالب علم کے لیے وہ اصول صاف ہو جاتے ہیں ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak اور Braddock، 2025]])۔
 
 ## سوال پوچھنا، خود ضابطگی اور فعال سیکھنا
 

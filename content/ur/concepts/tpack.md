@@ -7,9 +7,9 @@ technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
-updated: "2026-11-08T06:13:34-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/tpack"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -17,16 +17,18 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 pedagogy: [tpack]
 connected_concepts: [teacher-ai-competency, educational-development, teacher-role, generative-ai, learning-design, ai-literacy, scaffolding, metacognition, higher-ed, k-12, meta-analysis-systematic-review, teacher-education]
-connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026]
+connected_articles: [ai-literacy-tpack-preservice-2026, wu-li-evaluation-indicator-ai-certificate-programs-2026, pedagogy-first-technology-second-teacher-knowledge-2026, tpack-genai-inservice-teachers-mediation-2026, reclaiming-epistemic-agency-co-agency-2026, crompton-faculty-technology-integration-standards-2026, edurev-100741-tpack-genai-review, ai-tpack-teacher-multi-agent-workflow, ai-tpack-preservice-math-teachers, choi-teacher-ai-interaction-lesson-design-2026, genai-pd-ai-pck-learning-gain-2026, teacher-ai-teaming-five-levels, teacher-ai-adoption-confidence, teacher-education-ai-literacy-sdt-2026, genai-literacy-training-teacher-education-dbr-2026, rail-ed-genai-literacy-teacher-education, sec-ai-literacy-narrative-review-2026, genai-runaway-object-math-higher-ed, ai-changing-teaching-workflows, sutedjo-faculty-genai-tpack-21-2026, ethically-mediated-ai-tpack-china-2026, ai-training-science-teacher-tpack-distance-2026, ai-literacy-ai-integrated-inquiry-science-teaching-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, intelligent-tpack-pd-intervention-hongkong-2025, human-ai-collaboration-design-education-rubric-2026, capability-decision-model-teacher-readiness-2026, digital-competence-ai-responsive-pedagogy-2026, khalil-tpack-preservice-genai-attitudes-2026, shenoy-genai-teacher-professional-development-framework-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
 
 > **ٹیکنالوجیکل [[pedagogy|پیڈاگوجیکل]] کنٹینٹ نالج (TPACK)** — وہ فریم ورک (Mishra & Koehler, 2006) جو اُس یکجا علم کو بیان کرتا ہے جس کی اساتذہ کو تدریس میں ٹیکنالوجی مؤثر طریقے سے استعمال کرنے کے لیے ضرورت ہوتی ہے: ٹیکنالوجیکل نالج (TK)، پیڈاگوجیکل نالج (PK) اور کنٹینٹ نالج (CK) کا باہمی عمل، اور اُن کے تقاطع۔ AI کے دور میں TPACK کو **AI-TPACK** / **GenAI-TPACK** تک بڑھایا گیا ہے، جو ماڈل کرتا ہے کہ اساتذہ جنریٹو AI کو مواد کے مضمون کی تدریس میں کیسے شامل کرتے ہیں۔ یہ اِس بات کو سمجھنے کا غالب نظریاتی عینک ہے کہ [[teacher-ai-competency|استاد کی AI قابلیت]] کیسے تشکیل پاتی ہے اور [[educational-development|پیشہ ورانہ ترقی]] کے ذریعے کیسے بنتی ہے۔
-
-یہ غلبہ جزوی طور پر ریٹریول کا بھی نتیجہ ہے: ٹیکنالوجی کی مدد والی اساتذہ کی تعلیم کی 195 مطالعات کے PRISMA [[meta-analysis-systematic-review|اسکوپنگ ریویو]] میں ڈیجیٹل قابلیت، TPACK اور DigCompEdu واضح تلاش کی وضاحتیں (descriptors) تھیں، اس لیے قابلیت کے فریم ورکوں کا 46.5% حصہ حاصل شدہ کارپس کو بیان کرتا ہے، خود میدان کو نہیں ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández وغیرہ (2026)]])۔
 
 ## غور کرنے کے لیے سوالات
 
@@ -55,14 +57,19 @@ TPACK کا موقف ہے کہ مؤثر ٹیکنالوجی انضمام الگ ا
 
 - **فریم ورک بطورِ طے شدہ میدان پر غالب ہے، اور اُسے توڑ موڑ کر فٹ کیا جاتا ہے۔** AI کی مدد والے [[learning-design|تدریسی ڈیزائن]] کی 78 مطالعات کے PRISMA کی رہنمائی والے ریویو میں صرف 19 نے کوئی نامزد قابلیت کا فریم ورک استعمال کیا — اور TPACK اور اُس کی اقسام اُن **19 میں سے 17** پر محیط تھیں، جو بطورِ تجزیاتی عینک پیداواری طور پر استعمال ہوئیں مگر اپنے اصل دائرے سے آگے بڑھا دی گئیں، کیونکہ TPACK AI کی مخصوص صلاحیتوں کے لیے ڈیزائن نہیں کیا گیا تھا۔ مقصد کے لیے بنائی گئی توسیعیں اسی نسبت سے نایاب ہیں: **Intelligent-TPACK صرف پانچ مطالعات میں** آیا، عموماً ترقیاتی پیش رفت سنبھالنے کے لیے [[ai-literacy|AI خواندگی]] کے ساتھ جوڑا گیا ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou اور Kameas، 2026]])۔
 - **تحقیق بغیر نظریہ آگے بڑھتی ہے جبکہ پالیسی فریم ورک غیر آزمودہ رہتے ہیں۔** اسی ریویو نے پایا کہ **76% مطالعات نے مشق سے قابلیتیں اخذ کیں، بغیر کسی نظریاتی نقشہ بندی کے**، اور نہ DigCompEdu اور نہ UNESCO AI Competency Framework for Teachers کو 78 میں سے کسی میں بطورِ تجزیاتی فریم ورک لاگو کیا گیا — یہ ایک علیحدگی دونوں سمتوں میں چلتی ہے، کیونکہ تجرباتی کام کوئی مشترکہ ذخیرۂ الفاظ جمع نہیں کرتا جبکہ مشق کی رہنمائی کے لیے بنائے گئے فریم ورک اِس سیاق میں تجرباتی طور پر غیر آزمودہ رہتے ہیں۔
+- یہ غلبہ جزوی طور پر ریٹریول کا بھی نتیجہ ہے: ٹیکنالوجی کی مدد والی اساتذہ کی تعلیم کی 195 مطالعات کے PRISMA [[meta-analysis-systematic-review|اسکوپنگ ریویو]] میں ڈیجیٹل قابلیت، TPACK اور DigCompEdu واضح تلاش کی وضاحتیں (descriptors) تھیں، اس لیے قابلیت کے فریم ورکوں کا 46.5% حصہ حاصل شدہ کارپس کو بیان کرتا ہے، خود میدان کو نہیں ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández وغیرہ (2026)]])۔
 
 ## AI-TPACK اور GenAI-TPACK
 
 AI کے دور نے فریم ورک کو دانش مندی والی ٹیکنالوجی کی طرف دھکیل دیا ہے۔ غیر فعال اوزار کے بجائے، جنریٹو AI ایک فعال ایجنٹ ہے جو منصوبہ بندی کر سکتا ہے، مواد پیدا کر سکتا ہے، ٹیوٹرنگ کر سکتا ہے اور ڈھل سکتا ہے — اس لیے انضمام کا علم تیزی سے **ہدایت (orchestration)** کو شامل کرتا ہے: یہ فیصلہ کرنا کہ AI کب اور کیسے عمل کرے، سہارا دے یا [[human-in-the-loop-ai|انسانی فیصلے]] کے سامنے جھک جائے۔
 
+- **مستقل اوزار کا مفروضہ ٹوٹ جاتا ہے۔** [[shenoy-genai-teacher-professional-development-framework-2026|Shenoy اور Saarela (2026)]] دلیل دیتے ہیں کہ TPACK ان ڈیٹرمینسٹک اوزاروں کے لیے بنا گیا جن کے آؤٹ پٹ مستقل اور قابلِ تصدیق ہوتے ہیں، اس لیے احتمالی GenAI آؤٹ پٹ کو اوزار کے علم کے طور پر جمع نہیں کیا جا سکتا؛ اس کے بجائے وہ قابلیت پروان چڑھتی ہے جو آؤٹ پٹ پر سوال کرتی ہے۔
+
 - **الگ الگ علم سے آگے۔** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK تحقیق]] دلیل دیتی ہے کہ مؤثر AI انضمام الگ شعبوں کے مالک ہونے سے نہیں بلکہ **نظامی سوچ**، **پیڈاگوجیکل عقائد** اور **[[self-efficacy|خود اعتمادی]]** کے متحرک باہمی عمل سے ابھرتا ہے — جو استاد کی AI قابلیت کے جامد، چیک لسٹ پر مبنی ماڈلوں کو چیلنج کرتا ہے۔ استاد کے نمونے (Systematic Optimizers، Prolific Creators، Passive Observers) اِس بات سے ابھرتے ہیں کہ اساتذہ کثیر ایجنٹ تدریسی ورک فلو کیسے ڈیزائن کرتے ہیں۔
 
 - **انضمام کے فریم ورک کیا چھوڑ دیتے ہیں۔** ایک مشترکہ ایجنسی (co-agency) تنقید کا موقف ہے کہ TPACK اور [[samr-model|SAMR]] استاد کے علم اور قبولیت کی سطحوں کو تو مخاطب کرتے ہیں مگر طاقت، ڈیٹا کی ملکیت اور جواب دہی کو اَن چھیڑا چھوڑ دیتے ہیں، اس لیے انضمام کے علم کو ایک اور علمی شعبے کے بجائے ایک واضح اخلاقی حد درکار ہے ([[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]])۔
+- 
+HACC اُس یکجا کرنے والے کام کو، جو TPACK اساتذہ کی پیڈاگوجی کو دیتا ہے، سیکھنے والے کی اپنی میٹا کوگنیشن کو سپرد کر دیتا ہے، اس لیے سیکھنے والے کی طرف کا انضمام TPACK کے دائرے سے باہر پڑ جاتا ہے ([[dang-human-ai-collaboration-competency-2026|Dang وغیرہ (2026)]])۔
 - **پیڈاگوجیکل مرکز کے لیے بین سطحی ثبوت۔** [[pedagogy-first-technology-second-teacher-knowledge-2026|46 اساتذہ اور 2,832 ثانوی طلبہ کا کثیر سطحی مطالعہ]] نے پایا کہ اکیلے تکنیکی AI علم ناکافی تھا — یہاں تک کہ طلبہ کے اِس ادراک کو بھی ہلکا سا کم کر رہا تھا کہ AI سماجی بھلائی کے لیے ہے — جبکہ پیڈاگوجیکل AI علم (TPAIK) ہی وہ چیز تھی جس نے طلبہ کے ادراک اور AI سیکھنے کی رویاتی نیت کو پروان چڑھایا۔ نتیجہ ایک **"پہلے پیڈاگوجی، بعد میں ٹیکنالوجی"** رہنما اصول میں سمٹ آتا ہے جو اوپر کی ثالثی والی دریافتیں گونجتا ہے۔
 - **[[ethics|اخلاقیات]] بطورِ یکجا کرنے والا ثالث، حد نہیں۔** 454 یونیورسٹی اساتذہ کے سروے میں، الگ تھلگ AI-ٹیکنالوجیکل علم کا یکجا AI-TPACK کے ساتھ *منفی* براہِ راست تعلق تھا (β = −0.303) جبکہ اُس کا کل اثر مثبت رہا (β = 0.639)، جو پیڈاگوجیکل، کنٹینٹ اور اخلاقی علم کے ذریعے چلا ([[ethically-mediated-ai-tpack-china-2026|Chen وغیرہ (2026)]])۔ اخلاقی علم نے اثر کو آگے بھی پہنچایا، پیڈاگوجیکل (β = 0.353) اور کنٹینٹ علم (β = 0.269) دونوں کی پیش گوئی کرتے ہوئے۔
 - **پورے میدان کے لیے ایک ریویو عینک۔** [[edurev-100741-tpack-genai-review|TPACK کے نقطۂ نظر سے ایک منظم ریویو]] (Liu اور Zhong، 2025) نے طلبہ کی سیکھنے میں GenAI کی 71 تجرباتی مطالعات کا تجزیہ کیا، مجموعی طور پر مثبت اثر پایا (Hedges' g = 0.752) اور طلبہ کے لیے GenAI خواندگی اور **اساتذہ کے لیے GenAI-TPACK پیشہ ورانہ ترقی** کو میدان کی دو نازک ترجیحات کے طور پر شناخت کیا۔
@@ -89,7 +96,7 @@ AI-TPACK کے ذریعے اور خود اعتمادی کے ذریعے الگ ب�
 ماڈل کا عملی دعویٰ ایک ترتیب ہے جس کا ایک نقطۂ داخلہ ہے: AI خواندگی ضروری مگر ناکافی ہے، اور انضمام کا کام
 وہاں ہوتا ہے جہاں ٹیکنالوجیکل، پیڈاگوجیکل اور کنٹینٹ علم یکجا ہوتے ہیں — اور وہیں تدریس
 میں اساتذہ کا اعتماد بھی بنتا ہے۔
-- **تصدیق بطورِ چوتھی قابلیت۔** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol اور Ugur (2026)]] ماڈل کو **AI-تصدیق کا علم** سے بڑھاتے ہیں — احتمالی AI آؤٹ پٹ کو جائز فیصلے کے ثبوت کے طور پر ماننے سے پہلے اُسے شعبے کے مخصوص طریقے سے تصدیق سے گزارنا — اور اُسے [[design-education|ڈیزائن تعلیم]] کے لیے ایک عمل پر مبنی روبرک کے ساتھ جوڑتے ہیں۔
+- **تصدیق بطورِ چوتھی قابلیت۔** [[human-ai-collaboration-design-education-rubric-2026|Orhon, Cekerol اور Ugur (2026)]] ماڈل کو **AI-تصدیق کا علم** سے بڑھاتے ہیں — احتمالی AI آؤٹ پٹ کو جائز فیصلے کے ثبوت کے طور پر ماننے سے پہلے اُسے شعبے کے مخصوص طریقے سے تصدیق سے گزارنا — اور اُسے [[design-education|ڈیزائن تعلیم]] کے لیے ایک عمل پر مبنی [[rubrics|روبرک]] کے ساتھ جوڑتے ہیں۔
 
 ## AI تعلیم میں یہ کیوں اہم ہے
 
@@ -97,6 +104,10 @@ TPACK علم بنیاد کے ثبوتی ذخیرے کے استاد والے حص
 
 **ثالثی زیادہ تر استعمال میں آسانی کے ذریعے چلتی ہے۔** [[ai-literacy-tpack-preservice-2026|Zhao (2026)]] نے 423 پری سروس اساتذہ میں [[ai-literacy|AI خواندگی]] اور TPACK سے گہری سیکھنے تک چھ بالواسطہ راستوں کی آزمائش کی: TPACK کا [[technology-acceptance-model|استعمال میں ادراک شدہ آسانی]] کے ذریعے راستہ سب سے بڑا تھا (0.212) اور AI خواندگی کا افادیت کے ذریعے سب سے چھوٹا (0.033)، اس لیے انضمام کا علم افادیت کے بجائے [[usability-research|استعمال پذیری]] کے ذریعے کام کرتا رہا۔
 **اجزاء کا وزن AI کے معاملے میں برابر نہیں۔** 988 پری سروس اساتذہ میں TCK (β = 0.67) اور TPK (β = 0.41) نے یکجا AI-TPACK کی پیش گوئی کی جبکہ TK اکیلے نے نہیں کی (β = −0.10, p = 0.066)، اور یکجا TPACK نے GenAI کے بارے میں رویّے کی پیش گوئی کی (β = 0.75) ([[khalil-tpack-preservice-genai-attitudes-2026|Khalil et al., 2026]])۔
+
+**محدود وسائل کے تحت عمل درآمد ہے، نظرثانی نہیں۔** صومالی لینڈ کی ایک یونیورسٹی کے لیکچرارز نے استعمال کو ایسا بیان کیا جو اداراتی معاونت، غائب پالیسی اور مہینہ وار 20 ڈالر کی سبسکرپشن پر شکل پاتا ہے جسے انہوں نے خود ادا کرتی تھی — ایسا سیاق جسے TPACK اپنے اجزاء کو بدلے بغیر جہیز میں لیتا ہے ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]])۔
+
+- **خود اعتمادی قابلیت نہیں۔** 29 استاد کی تعلیم کے طلبہ کے لیے GenAI خواندگی تربیت پر ایک ڈیزائن بھر پڑھائی کا مطالعہ پایا کہ ایک ورکشاپ نے AI قابلیت کی خود اعتمادی بڑھائی مگر پیڈاگوجی یا جانچ کی قابلیت نہیں، اور TPACK-روبرک کے سبق کے منصوبے تخلیقی GenAI اطلاق میں سب سے کم (M = 1.64) رہے ([[genai-literacy-training-teacher-education-dbr-2026|Le وغیرہ، 2026]])۔
 
 ## ڈیزائن کے مضمرات
 

@@ -4,15 +4,15 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-08T13:08:24-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/machine-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [student-modeling, learning-analytics, intelligent-tutoring, adaptive-learning, personalized-learning, reinforcement-learning, generative-ai, llm]
 connected_articles: [at-risk-students-ml-prediction, trace-course-grade-prediction-2026, precision-education-student-digital-twins-2026, sc2r-counterfactual-recourse-educational-2026, interactive-online-learning-ai-2025, adaptive-scaffolding-cognitive-engagement-its, pedagogical-safety-rl, automated-online-exam-proctoring-decade-review-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, bird-multimodal-educational-literature-2026, razavi-powers-item-difficulty-llm-2026, schuetze-knowledge-tracing-forgetting-2026, zhang-ml-student-progress-programming-2026, riedmann-reinforcement-learning-education-review-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, culturally-aware-student-stress-chatbot-2026, synthetic-educational-data-structural-fidelity-2026]
@@ -43,7 +43,7 @@ connected_articles: [at-risk-students-ml-prediction, trace-course-grade-predicti
 
 [[knowledge-tracing]] کی طرف، [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] دکھاتے ہیں کہ ایک ری کرنٹ ماڈل کو [[curriculum-design|نصاب]] کی اپنی ساخت پر ٹیون کیا جا سکتا ہے: اُن کا OKT ماڈل Outcome-Based-Education کے کورس نتائج کو علمی تصورات مانتا ہے، ماہرین سے تصدیق شدہ OBE قرابت کے نقشے (کورس اور پروگرام کے نتائج کے تعلقات) کو Memory Augmented Neural Network کے ساتھ جوڑتا ہے تاکہ بین النتائج اثر ماڈل ہو، اور GRU ریڑھ کی ہڈی کو ڈومین کے مطابق ڈھلنے والے BERT ایمبیڈنگز کے ساتھ ملاتا ہے — 89.81% AUC تک پہنچتے ہوئے اور زندہ انجینئرنگ پروگرام کے ڈیٹا پر DKT، DKVMN، EKT اور SimpleKT کو پیچھے چھوڑتے ہوئے۔
 
-**جدولی عددی جوابات سے تشخیص۔** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] دکھاتے ہیں کہ گریڈینٹ بوسٹڈ درخت ایسے میدان میں ٹیوٹرنگ کے *تشخیص* والے پہلو کو حل کرتے ہیں جو طویل عرصے تک AI کے لیے بند تھا: Engineering Economics کے Calculated Formula Questions کے لیے، جہاں طلبہ کے ہاتھ سے لکھے حل میں ساختہ ڈیجیٹل ڈیٹا نہیں ہوتا، وہ فی سوال ایک مخصوص [[intelligent-tutoring|XGBoost]] کثیر لیبل ریڑھ کی ہڈی کی تربیت کرتے ہیں تاکہ جمع کرائے گئے درمیانی اور حتمی عددی جوابات کو مدرس کے ربرک کی غلطی کے لیبلوں سے نقشہ بند کریں (اوسط درستگی 0.81، ری کال 0.79، درستگی 0.65)۔ بے ترتیب ماسکنگ والا ڈیٹا افزودہ — ان پٹ خصوصیات کو مختلف امکانات پر \"NaN\" میں ماسک کرنا — جدولی حلوں کے منطقی انحصار کو SMOTE جیسے درمیان سے بھرنے والے طریقوں سے بہتر محفوظ رکھتا ہے اور تشخیص کو نمایاں طور پر بہتر کرتا ہے، اور درمیانی جوابات شامل کرنا سب سے زیادہ مدد دیتا ہے۔ یہ ثبوت ہے کہ درخت پر مبنی ماڈل اور ساخت سے واقف افزودہ مل کر وہاں ٹیوٹرنگ فیڈبیک کی بنیاد رکھ سکتے ہیں جہاں جنریٹو طریقوں کے پاس تربیتی ڈیٹا نہیں۔
+**جدولی عددی جوابات سے تشخیص۔** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin et al. (2026)]] دکھاتے ہیں کہ گریڈینٹ بوسٹڈ درخت ایسے میدان میں ٹیوٹرنگ کے *تشخیص* والے پہلو کو حل کرتے ہیں جو طویل عرصے تک AI کے لیے بند تھا: Engineering Economics کے Calculated Formula Questions کے لیے، جہاں طلبہ کے ہاتھ سے لکھے حل میں ساختہ ڈیجیٹل ڈیٹا نہیں ہوتا، وہ فی سوال ایک مخصوص [[intelligent-tutoring|XGBoost]] کثیر لیبل ریڑھ کی ہڈی کی تربیت کرتے ہیں تاکہ جمع کرائے گئے درمیانی اور حتمی عددی جوابات کو مدرس کے [[rubrics|ربرک]] کی غلطی کے لیبلوں سے نقشہ بند کریں (اوسط درستگی 0.81، ری کال 0.79، درستگی 0.65)۔ بے ترتیب ماسکنگ والا ڈیٹا افزودہ — ان پٹ خصوصیات کو مختلف امکانات پر \"NaN\" میں ماسک کرنا — جدولی حلوں کے منطقی انحصار کو SMOTE جیسے درمیان سے بھرنے والے طریقوں سے بہتر محفوظ رکھتا ہے اور تشخیص کو نمایاں طور پر بہتر کرتا ہے، اور درمیانی جوابات شامل کرنا سب سے زیادہ مدد دیتا ہے۔ یہ ثبوت ہے کہ درخت پر مبنی ماڈل اور ساخت سے واقف افزودہ مل کر وہاں ٹیوٹرنگ فیڈبیک کی بنیاد رکھ سکتے ہیں جہاں جنریٹو طریقوں کے پاس تربیتی ڈیٹا نہیں۔
 
 [[reinforcement-learning|RL]] ذیلی مجموعے کا میدان کی سطح کا نظارہ [[riedmann-reinforcement-learning-education-review-2026|Riedmann, Schaper & Lugrin (2025) کا منظم جائزہ]] فراہم کرتا ہے، جو تعلیم میں RL کے 89 مطالعات کا ہے: یہ تصدیق کرتا ہے کہ RL موافق ٹیوٹرنگ اور سہارے کی پالیسیاں پیدا کرنے کا ایک بڑا ML دھارا ہے، مگر پاتا ہے کہ کلاسیکی (Q-learning) طریقے ڈیپ RL سے زیادہ مستقل طور پر مؤثر ہیں (61% بمقابلہ 36% نمایاں برتری) اور نشان زد کرتا ہے کہ آدھے سے زیادہ مطالعات کوئی شماریاتی جانچ نہیں کرتے — یہ [[research-methods-aied|طریقہ کار]] کا انتباہ ہے جو نیچے دیے گئے تصدیقی خدشات کی بازگشت ہے۔
 

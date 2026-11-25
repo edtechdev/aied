@@ -6,15 +6,19 @@ foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/career-development-and-readiness"
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [professional-training, ai-literacy, self-efficacy, motivation, anxiety-and-stress, higher-ed, student-experience, well-being, student-support-and-success]
 connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-employer-responses-genai-2026, ai-literacy-graduate-employability-2026, mccorkle-aligned-genai-course-policy-2025, wang-career-adapt-abilities-ai-anxiety-english-2026, ai-literacy-career-adaptability-business-2026, calle-martinez-chatgpt-employability-soft-skills-2026, ithaka-sr-ai-skills-college-graduates-2026, workforce-readiness-smart-manufacturing-wrl-2026, ai-engineering-computing-workforce-grey-literature-2026, post-covid-ict-career-aspirations, kim-ai-anxiety-comprehensive-analysis, duan-ai-anxiety-career-decisions-college-2026, ustun-ai-anxiety-job-finding-anxiety-2026, dag-ai-perceptions-career-anxiety-health-2026, ai-attitude-latent-profiles-career-development-2026, sadik-ai-ready-engineering-talent-faculty-2026, kong-ai-employability-cognitive-engagement-2026, nyale-ai-integrated-workplaces-digital-capability-2026, lu-career-cognitions-genai-exploration-2026]
@@ -55,6 +59,8 @@ connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-em
 - **افرادی قوت کی منتقلی۔** [[post-covid-ict-career-aspirations|ICT کیریئر کی خواہشات]] کا مطالعہ یہ جائزہ لیتا ہے کہ تکنیکی تبدیلی کے جواب میں طلبہ کے کیریئر کے ارادے کیسے بدلتے ہیں۔
 - **نظریاتی بنیاد۔** [[kim-ai-anxiety-comprehensive-analysis|AI بے چینی کا جامع تجزیہ]] **AI کے ذریعے تبدیلی کے خوف** کو AI بے چینی کے بنیادی محرک کے طور پر شناخت کرتا ہے — یہی وہ کیریئر پہلو ہے جسے یہ تصور براہِ راست حل کرتا ہے۔
 
+- **LLM کیریئر مشورت مغربی طے شدہ فرض کو اٹھاتی ہے۔** سوال کرنے پر کہ دس افریقی ممالک میں ابتدائی کمپیوٹنگ نوکریوں کو کیا درکار ہے، چھ ماڈلوں نے مقامی ماحولیاتی نظام، زبان کی ضروریات اور قومی پالیسی صرف 35.4% وقت پہچانی، اس لیے فنی مشورت منتقل ہو جاتا ہے مگر سیاق و سباق نہیں ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn اور Berhane, 2026]])۔
+
 ## حفاظتی اور ترقیاتی ہدف کے طور پر کیریئر کی تیاری
 
 ایک مکرر موضوع یہ ہے کہ AI کے دور میں کیریئر کی ترقی ایک **دانستہ تعلیمی ہدف** ہونی چاہیے، بعد کی سوچ نہیں: کیریئر کے مطابق ڈھلنے کی صلاحیتیں، بنیادی خود جانچ، [[self-efficacy|خود اعتمادی]] اور آجروں کی قدر کی AI مہارتیں تعمیر کرنا، اور ساتھ ہی اُس بے چینی کو براہِ راست حل کرنا جو طلبہ AI کے ذریعے بے دخلی کے بارے میں محسوس کرتے ہیں۔ یہ کیریئر کی ترقی کو [[professional-training]]، [[self-efficacy]]، [[motivation]] اور [[anxiety-and-stress]] سے جوڑتا ہے، اور تعلیم کو بیک وقت مہارتوں کی پائپ لائن اور نفسیاتی تیاری کے سرچشمے کے طور پر کھڑا کرتا ہے۔
@@ -68,3 +74,7 @@ connected_articles: [ai-free-gates-engineering-students-india-2026, boyd-swan-em
 - **"AI بے چینی ایک عمومی مزاج ہے جسے تسلی دے کر دور کیا جا سکتا ہے۔"** [[duan-ai-anxiety-career-decisions-college-2026|Duan وغیرہ]] SEM کے ذریعے تصدیق کرتے ہیں کہ AI بے چینی **کیریئر کے فیصلوں کو بڑی حد تک کمزور ہوتی کیریئر لچک کے ذریعے متاثر کرتی ہے (کل اثر کا 63.35%)**۔ طریقہ کار مخصوص ہے: بے چینی ڈھلنے کی صلاحیت کو ختم کر کے کام کرتی ہے، چنانچہ احساسات کو نشانہ بنانے والی تسلی اُس ثالث کو نظر انداز کر دیتی ہے جو اثر اُٹھائے ہوئے ہے۔
 - **"کیریئر کی لچک ایک نرم مہارت ہے جو فنی قابلیت کے بعد آتی ہے۔"** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] بتاتا ہے کہ کیریئر کی لچک **AI بے چینی کو کم کرتی ہے**، جس سے یہ بعد کا نتیجہ نہیں بلکہ ابتدائی مداخلت بن جاتی ہے۔ لچک کی تعمیر طریقہ کار کو حل کرتی ہے؛ اِسے صرف ایک اضافی چیز سمجھنا ثالث کو برقرار رکھتا ہے۔
 - **"AI کے بارے میں بے چینی یکساں طور پر تقسیم ہے۔"** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] پاتے ہیں کہ AI بے چینی اور منفی AI رویے **1,057 طلبہ** میں فارغ التحصیل ہونے کے بعد نوکری تلاش کرنے کی بے چینی کی پیش گوئی کرتے ہیں، اور **خواتین اور سماجی علوم کے طلبہ** کے لیے مختلف نمونے رکھتے ہیں۔ یکساں مداخلت مدد کا غلط تقسیم کرتی ہے۔
+
+ایک پروگرام سطحی فریم ورک ادارے جاتی مراحل واضح کرتا ہے، حالانکہ اسے پروگرام کے طور پر جانچا نہیں گیا۔ [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] چھ مراحل تجویز کرتے ہیں: احساس، حصہ داروں کی تصدیق، پروگرام کی تشخیص، نصاب کا دوبارہ ڈیزائن، عمل درآمد اور قابلیت، اور نتائج کا جائزہ۔ ہر مرحلہ ایک نامی فیصلہ اختیار اور ایک جواب دہ پیداوار رکھتا ہے، اور AI کو چار محدود سہارا افعال تک رکھا گیا ہے: لیبر مارکیٹ معلومات میں نمونے کی نشان دہی، قابلیت کی نقشہ کاری، انسانی جانچ کے لیے نصابی آپشنز کی تیاری، اور عمل درآمد کے اشارے کی نگرانی۔ اس کی قدر یہ ہے کہ یہ ان گورننس مراحل کا نام بتاتا ہے جنہیں کیریئر تیاری کی حکمت عملی عام طور پر خاموش چھوڑ دیتی ہے۔
+
+1,445 چینی کالج طلبہ کا سروے مفید پن کے عقائد سے AI استعمال اور پھر کیریئر کی تلاش تک کا راستہ تعاقب کرتا ہے۔ GenAI کا سمجھا جانے والا مفید پن استعمال کی پیش گوئی β = 0.569 پر کرتا تھا، جبکہ کیریئر خود افادیت نے صرف β = 0.082 پر۔ استعمال کا پھر کیریئر تلاش کے رویے سے تعلق β = 0.423 رہا، خود افادیت تلاش خود کا سب سے مضبوط شناختی پیش گوئی بنا (β = 0.285)، اور ماڈل نے تلاش کی تفاوت کا 50.5% وضاحت کیا ([[lu-career-cognitions-genai-exploration-2026|Lü et al. (2026)]])۔ بالواسطہ راستے شماریاتی اور کراس سیکشنل ہیں، طولانی نہیں۔

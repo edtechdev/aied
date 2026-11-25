@@ -7,15 +7,19 @@ foundations: [ai-education, learning-design]
 pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/pedagogy"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-partnerships, online-teaching-and-learning, learning-theories, learning-sciences, learning-gains, learning-design, metaphors-and-analogies, active-learning, collaborative-learning, project-based-learning, case-based-learning, experiential-learning, game-based-learning, socratic-method, scaffolding, learning-by-teaching, self-regulated-learning, culturally-relevant-pedagogy, universal-design-for-learning, critical-pedagogy, teacher-role, teacher-ai-competency, ai-literacy, curriculum-design, higher-ed, k-12, llm-training-and-fine-tuning]
 connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-technology-second-teacher-knowledge-2026, wang-zhang-pedagogical-partnerships-genai-2026, ai-communities-of-inquiry-2026, instructional-guidance-genai-learning, generative-ai-guardrails-harm-learning, agentic-ai-pedagogical-best-practice-2026, jeon-isd-agent-bench-2026, ai-learning-tools-engineering-education-needs, fowlin-operationalizing-learning-principles-ai, kibar-ilgaz-ai-instructional-design-review-2026, liu-ai-literacy-interventions-meta-analysis-2026, cognitive-distribution-student-genai-interaction-2026]
@@ -57,9 +61,11 @@ connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-te
 علمی ذخیرے کی [[research-methods-aied|تحقیق]] AI اور تدریس کے ملاپ پر تدریس کو کئی طریقوں سے دیکھتی ہے:
 
 - **AI بطور تدریسی ایجنٹ۔** AI اوزار تدریسیں مجسم کرتے ہیں — [[intelligent-tutoring|ٹیوٹر]] جو [[socratic-method|سقراطی سوال گری]] پر بنا ہو، سیکھنے والے کو استدلال پر اکساتا ہے، جبکہ جواب پیدا کرنے والا چیٹ بوٹ طے شدہ طور پر براہِ راست فراہمی کی طرف جا سکتا ہے (تدریسی موقف کیوں اہم ہے، دیکھیں [[reducing-ai-misuse]])۔ [[agentic-ai|ایجنٹک AI]] کا ادب دکھاتا ہے کہ ایجنٹوں کو تدریسی ڈیزائن کے نظریے میں کھڑا کرنا خام [[prompt-engineering|پرامپٹنگ]] سے بہتر کارکردگی دیتا ہے۔ [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] اس کردار کو رسمی طور پر نئے سرے سے بیان کرتے ہیں: GenAI کو بیرونی ضمیمہ یا خطرہ سمجھنے والے دو فریقی مدرس–[[student-modeling|طالب علم ماڈل]] کے بجائے وہ **مدرس–طالب علم–GenAI کا سہ رخی ماڈل** تجویز کرتے ہیں جس میں GenAI اداروں اور حصہ داروں کے زیرِ انتظام مشترکہ تدریسی واسطے کی فضا کے اندر ایک محدود *تدریسی-ڈیڈیکٹک واسطہ کار* کے طور پر کام کرتا ہے — جس سے سیکھنے کے واسطے، مدرس کے کردار کی تبدیلی، AI خواندگی اور سیکھنے والے کی ایجنسی، AI کے بارے میں شفاف [[process-oriented-assessment|عمل پر مبنی جانچ]]، اور ادارہ جاتی [[governance|گورننس]] پر پانچ قابلِ تحقیق دعوے نکلتے ہیں۔
+- **بنیاد ساختی ہے، اندازی نہیں۔** [[jeon-isd-agent-bench-2026|ISD-Agent-Bench]] کے 25,795 تیار کردہ تدریسی ڈیزائن کے منظروں میں، وہ ایجنٹ جو کلاسیکی ISD فریم ورکوں کو استدلال کے ساتھ جوڑتے ہیں وہ صرف نظریہ والے اور صرف تکنیک والے تنظیموں دونوں سے بہتر کارکردگی دکھاتے ہیں، جو دکھاتا ہے کہ تدریسی بنیاد ایک معماری فائدہ ہے، صرف پرامپٹنگ کا انداز نہیں۔
 - **تدریس AI کا اثر طے کرتی ہے۔** بار بار آنے والی دریافت یہ ہے کہ AI *کیسے* استعمال ہوتا ہے اتنا ہی اہم ہے جتنا *کہ استعمال ہوتا ہے یا نہیں*۔ [[instructional-guidance-genai-learning|تدریسی رہنمائی کی تحقیق]] اور [[generative-ai-guardrails-harm-learning|گارڈ ریل والے ٹیوٹر کے RCTs]] دکھاتے ہیں کہ ایک ہی AI تدریسی ترتیب کے مطابق نقصان یا مدد کر سکتا ہے (اشارے بمقابلہ جوابات، ڈھانچہ بند بمقابلہ کھلا استعمال)۔
 - **تدریسی علم تکنیکی علم سے بھاری ہے۔** 46 اساتذہ اور 2,832 طلبہ میں، استاد کا تدریسی AI علم طلبہ کے اس ادراک کی پیش گوئی کرتا تھا کہ AI سماجی بھلائی کے لیے ہے اور AI سیکھنے کے ان کے ارادے کی، جبکہ صرف تکنیکی علم ناکافی تھا — اور کوئی بھی طلبہ کے AI علم کی پیش گوئی نہ کر سکا ([[pedagogy-first-technology-second-teacher-knowledge-2026|Shen et al. (2026)]])۔
 - **انتظامی کام کا بوجھ اتارنا ہی وہ جگہ ہے جہاں AI سب سے واضح شراکت کرتا ہے۔** 28 مطالعات کے PRISMA جائزے نے پایا کہ AI نے سب سے زیادہ تدریسی منصوبہ بندی اور [[assessment|جانچ]] کے ڈیزائن کو بہتر کیا، اور اس کا سب سے زیادہ رپورٹ شدہ فائدہ درجہ بندی، فیڈبیک اور پیش رفت کی نگرانی کا خودکار ہونا تھا (18 مطالعات، 64.2%) — جبکہ تدریسی ہم آہنگی سب سے زیادہ حوالہ دی گئی چیلنج رہی (14) ([[kibar-ilgaz-ai-instructional-design-review-2026|Kibar اور Ilgaz (2026)]])۔
+- ایک 108 اسکولوں کے کلسٹر RCT نے اُس دعوے کو محدود کیا: Aila نے 7% سبق کی پوشش پر فی ہفتہ 0.81 گھنٹے کی منصوبہ بندی کا وقت کم کیا، استعمال دس ہفتوں میں گرتا گیا، اور طلبہ کے کوئی نتیجہ ناپا نہیں گیا ([[roy-aila-lesson-planning-teacher-choices-2026|Roy وغیرہ (2026)]])۔
 **خودکاری اور سیکھنا براہِ راست سودا کرتے ہیں۔** [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] چھ تدریسی اصولوں — [[prior-knowledge|پیشگی علم]] کو متحرک کرنا، [[collaborative-learning|باہمی تعاون سے سیکھنا]]، [[problem-based-learning|مسئلہ پر مبنی سیکھنا]]، [[formative-assessment|تکوینی جانچ]]، [[scaffolding|سہارا]]، [[metacognition|میٹا کوگنیشن]] — پر یہ دیکھتے ہیں کہ فعال ایجنٹک پہل ہر ایک کے ساتھ کیا کرتی ہے، اور دلیل دیتے ہیں کہ ایجنٹ جتنا زیادہ خودکار کرتا ہے، سیکھنے والا اتنی ہی کم علمی محنت کرتا ہے، جب تک رگڑ، متحرک گھٹاؤ اور [[human-in-the-loop-ai|انسانی نگرانی]] ڈیزائن میں شامل نہ ہوں۔
 - **غور و فکر ایک تدریسی طریقہ ہے جسے AI ممکن بھی بناتا ہے اور خطرے میں بھی ڈالتا ہے۔** منظم ترغیبات، جرنل اور [[eportfolio|پورٹ فولیو]] تبصرے وہ طریقہ کار ہیں جن سے تجربہ سیکھنے میں بدلتا ہے، اور [[reflection|غور و فکر]] کا صفحہ شواہد رکھتا ہے۔ ایک پیشگی رجسٹرڈ تجربے نے پایا کہ ترغیبات نے فیڈبیک پر وقت دگنا کر دیا اور مشق کا حجم 40% کم کیا مگر فی مسئلہ فائدہ نہیں بڑھایا۔ AI غور و فکر کے ساتھی کے کوڈ شدہ آڈٹ نے پایا کہ اُس نے ہر رویے کی ہدایت توڑی اور کوئی نظر آنے والا نشان نہ چھوڑا۔ ترغیب کو مکمل شدہ کوشش کے گرد ڈیزائن کریں، اور چمکدار اندراج کے بجائے نشان کی زنجیر کا تقاضا کریں۔
 - **AI خواندگی کے لیے تدریسی حکمت عملیاں۔** طلبہ کو *AI کو اچھی طرح استعمال کرنا* سکھانا بذاتِ خود تدریسی کام ہے — [[ai-literacy|AI خواندگی]] اور [[reducing-ai-misuse]] کی تحقیق ایسی حکمت عملیاں بناتی ہے (پہلے سوچیں/پھر AI/پھر غور کریں، AI کے استعمال کا اعلان، کیلیبریشن کی تربیت) جو اس چھتری میں آتی ہیں۔
@@ -83,6 +89,8 @@ connected_articles: [genai-didactic-pedagogical-mediator-2026, pedagogy-first-te
 - **سقراطی اور مکالمے پر مبنی حکمت عملیاں** ([[socratic-method|سقراطی طریقہ]]) اعلیٰ درجے کی سوچ اور استدلال کو نشانہ بناتی ہیں — ایسے فائدے جو مہارت کے فائدوں سے ناپنا مشکل ہے مگر [[critical-thinking|تنقیدی سوچ]] کے لیے مرکزی ہیں۔
 
 کلیدی مجموعی دریافت، جو علمی ذخیرے کی [[learning-gains|سیکھنے کے فائدوں]] کی تحقیق سے ہم آہنگ ہے، یہ ہے کہ **کسی حکمت عملی کا سیکھنے پر اثر اس بات سے زیادہ کہ وہ کون سا لیبل رکھتی ہے، اس پر منحصر ہے کہ وہ سیکھنے والے کی محنت اور پیداواری کشمکش کو کتنا بچاتی ہے** — کوئی بھی تدریس، حتیٰ کہ "اچھی" بھی، ناکام ہو جاتی ہے اگر AI کو اس علمی محنت کو بائی پاس کرنے پر ترتیب دیا جائے جو اس سے طلب کرنا مقصود تھا (دیکھیں [[cognitive-offloading]]، [[desirable-difficulties]])۔
+
+ایک ٹیوٹر جس کو کلاس میں درس کے ساتھ ملتے جلتے ساتھ تحقیق پر مبنی مشقوں سے تیار کیا گیا تھا، اُس درس سے بہتر کارکردگی دکھایا: ہارورڈ کے تعارفی فزکس کورس میں 194 طلبہ کے وسطانہ سیکھنے کے فوائد فعال سیکھنے والے کلاس کے دوگنے سے زیادہ تھے، اور کم وقت میں، جس کی مصنفین نے مانگ پر ذاتی نوعیت کے فیڈبیک اور خود رفتاری کو بنا دی ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin (2025)]])۔
 
 طالب علم اور [[student-ai-interaction|AI کا تعامل]] کو مقررہ انحصار کے بجائے علمی تقسیم کے بدلتے عمل کے طور پر پڑھنا بہتر ہے: ایک بین الضابطہ [[engineering-education|انجینئرنگ]] کورس کی 53 ChatGPT گفتگوں میں، توسیع (قریبی، تکراری مشترکہ سوچ) سب سے زیادہ آنے والی تعامل کی قسم تھی، 321 پرامپٹ سطح کوڈز میں 53.3%، جو آؤٹ سورسنگ کے 29.6% سے آگے تھی ([[cognitive-distribution-student-genai-interaction-2026|Willcox، Lane اور Arikan (2026)]])۔
 

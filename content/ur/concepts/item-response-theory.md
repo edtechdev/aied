@@ -5,15 +5,15 @@ type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/item-response-theory"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [educational-measurement, assessment-validity, knowledge-tracing, student-modeling, psychometrically-aware-ai, adaptive-learning, automated-assessment, intelligent-tutoring]
 connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, explaining-question-difficulty-natural-language-2026, item-writing-flaws-irt-difficulty-2026, causal-modeling-competency-assessment-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, jin-glat-genai-literacy-assessment, llm-item-difficulty-prediction, llm-psychometric-calibration-cdp, llm-difficulty-calibration-programming-exams-2026, multimodal-item-parameter-estimation-2026, huang-interpretable-knowledge-tracing-2026, irt-human-genai-mcq-responses, razavi-powers-item-difficulty-llm-2026, cvengros-grading-handwritten-chemistry-ai-2026, process-grounded-language-cognitive-diagnosis-2026, bayesian-consensus-irt-item-banks-2026, assessing-teachers-ai-literacy-measurement-tools-2026, studentbench-ai-human-tutoring-gre-2026, llm-benchmark-secondary-science-topics-2026]
@@ -36,7 +36,7 @@ connected_articles: [unified-irt-framework-question-tutoring-dialogue-2026, expl
 
 IRT صلاحیت (θ) اور آئٹم کے پیرامیٹرز (مشکل، امتیازی قوت، کبھی کبھی اندازہ لگانا) کو جوابی نمونوں سے مشترکہ طور پر اندازہ لگائی گئی چیزیں سمجھتی ہے، نہ کہ خام اسکور کو پیمانہ۔ اس سے سیکھنے والوں کا مشترکہ پیمانے پر موازنہ، آئٹمز کا اڈاپٹیو انتخاب، اور فی شخص درستگی کا اندازہ — عالمی اندازے کی بجائے — ممکن ہوتا ہے۔
 
-### تحقیق میں IRT کیسے دکھائی دیتی ہے
+## تحقیق میں IRT کیسے دکھائی دیتی ہے
 
 - **AI کی پیش گوئی کردہ مشکل:** [[llm-item-difficulty-prediction|LLM آئٹم مشکل کی پیش گوئی]] زبان کے ماڈلوں سے آئٹم کی مشکل کا اندازہ لگاتی ہے، جس کی تصدیق تجرباتی طور پر برتے گئے IRT پیرامیٹروں کے خلاف ضروری ہے۔
 - **سائیکو میٹرک کیلیبریشن:** [[llm-psychometric-calibration-cdp|LLM سائیکو میٹرک کیلیبریشن]] ماڈل پر مبنی جانچ کو IRT پر مبنی پیمائش کے ساتھ ہم آہنگ کرتی ہے تاکہ AI کے پیدا کردہ جوابات پیمائشی خصوصیات برقرار رکھیں۔
@@ -57,7 +57,7 @@ IRT صلاحیت (θ) اور آئٹم کے پیرامیٹرز (مشکل، امت
 - **مشکل کی پیش گوئی کے بجائے اُس کی وضاحت۔** [[explaining-question-difficulty-natural-language-2026|Cui وغیرہ (2026)]] نے GSM8K (1,319 سوالات)، BBH-structured (1,396) اور WinoGrande (1,267) کے LLM جوابی ریکارڈوں پر 1PL Rasch ماڈل برتا، جس میں GSM8K اور WinoGrande کے لیے 5,000 ماڈل اور BBH-structured کے لیے 3,811 ماڈل تھے۔ پھر وہ ایک LLM سے کہتے ہیں کہ وہ قدرتی زبان میں مفروضے تجویز کرے کہ ایک آئٹم دوسرے سے زیادہ مشکل کیوں ہے، اور روکے گئے سوالات پر L1-منظم ریگریشن سے اُنہیں منتخب کرتے ہیں۔ نہ دیکھے گئے سوالات پر تنہا برتنے سے منتخب مفروضے GSM8K پر R² = 0.373، BBH-structured پر 0.580 اور WinoGrande پر 0.090 تک پہنچتے ہیں، جو موازنہ شدہ طریقوں میں GSM8K اور WinoGrande پر بہترین اور BBH-structured پر دوسرے بہترین ہیں، جہاں فائن ٹیون شدہ RoBERTa-base 0.646 تک پہنچتا ہے۔ بطور اضافی خصوصیات وہ GSM8K پر RoBERTa-base میں +0.11 (0.362 سے 0.468) اور دو منجمد ایمبیڈنگ ماڈلوں میں +0.19 اور +0.18 کا اضافہ کرتے ہیں۔ ایک سببی جانچ فی ڈیٹا سیٹ 50 امتحانی سوالات کو کسی مفروضے کی طرف یا اُس سے ہٹا کر بدلتی ہے: مشکل بڑھانے والی تبدیلیاں GSM8K اور BBH-structured پر اوسط درستگی 15.27 اور 23.88 فیصدی نقاط کم کرتی ہیں، جبکہ مشکل گھٹانے والی تبدیلیاں اُسے 32.18 اور 28.52 بڑھاتی ہیں۔ یہاں مشکل ماڈل کے جوابات سے اندازہ لگائی گئی ہے، انسانی امتحان دینے والوں سے نہیں، چنانچہ یہ LLM جانچ اور سائیکو میٹرکس کا نتیجہ ہے۔
 
 - **جواب دہندگان کی نقل بنانا وہ کچھ حاصل کر سکتی ہے جو محرک پر ریگریشن نہیں کر سکتی:** ایک فائن ٹیون شدہ [[multimodal|ملٹی موڈل]] LLM جو صلاحیت کی مختلف سطحوں پر طلبہ کے اختیار کے احتمال کو دہراتا ہے، روکے گئے مشکل کے ساتھ r = 0.85 پر قریب آیا، جو MathBERT (0.68) اور MetaMath (0.75) ریگریشن بنیادوں سے اوپر ہے، اور اندازے کے پیرامیٹر c کو 0.48 پر حاصل کر لیا جبکہ امتیازی قوت a کمزور رہی (0.31) ([[multimodal-item-parameter-estimation-2026|Ormerod اور Kim، 2026]])۔
-- **آئٹم لکھنے کے نقائص بطور IRT پیرامیٹروں کی تعیناتی سے پہلے چھانٹی:** [[item-writing-flaws-irt-difficulty-2026|Schmucker اور Moore (2026)]] جانچتے ہیں کہ آیا آئٹم لکھنے کے نقص (IWF) کے ربرک — ایک میدان سے آزاد، متنی جانچ جسے طلبہ کے ڈیٹا کی ضرورت نہیں — تجرباتی طور پر اندازہ لگائے گئے IRT مشکل اور امتیازی قوت کی پیش گوئی کرتے ہیں۔ [[stem-education|STEM]] (طبیعیات، [[math-education|ریاضی]]، زندگی/زمینی علوم) کے **7,126 کثیر الانتخابی سوالات** پر اُنہوں نے خودکار، LLM کی مدد والی کوڈنگ سے دکھایا کہ IWF ربرک تجرباتی IRT پیرامیٹروں کے لیے پیش گوئی کی صداقت رکھتے ہیں، اور یہ ایک قابلِ توسیع پیشگی چھانٹی پیش کرتے ہیں جو وسائل طلب پائلٹ جانچ کی تکمیل کرتی ہے یا جزوی طور پر اُس کا متبادل بنتی ہے۔
+- **آئٹم لکھنے کے نقائص بطور IRT پیرامیٹروں کی تعیناتی سے پہلے چھانٹی:** [[item-writing-flaws-irt-difficulty-2026|Schmucker اور Moore (2026)]] جانچتے ہیں کہ آیا آئٹم لکھنے کے نقص (IWF) کے [[rubrics|ربرک]] — ایک میدان سے آزاد، متنی جانچ جسے طلبہ کے ڈیٹا کی ضرورت نہیں — تجرباتی طور پر اندازہ لگائے گئے IRT مشکل اور امتیازی قوت کی پیش گوئی کرتے ہیں۔ [[stem-education|STEM]] (طبیعیات، [[math-education|ریاضی]]، زندگی/زمینی علوم) کے **7,126 کثیر الانتخابی سوالات** پر اُنہوں نے خودکار، LLM کی مدد والی کوڈنگ سے دکھایا کہ IWF ربرک تجرباتی IRT پیرامیٹروں کے لیے پیش گوئی کی صداقت رکھتے ہیں، اور یہ ایک قابلِ توسیع پیشگی چھانٹی پیش کرتے ہیں جو وسائل طلب پائلٹ جانچ کی تکمیل کرتی ہے یا جزوی طور پر اُس کا متبادل بنتی ہے۔
 - **انتخابی AI گریڈنگ کے لیے IRT پر مبنی خطرے کی چھانٹی:** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros اور Kortemeyer]] AI کے گریڈ کردہ ہاتھ سے لکھی کیمسٹری کے ڈیٹا پر دو پیرامیٹر لاجسٹک IRT ماڈل برتتے ہیں اور AI کے فیصلے قبول کرنے کا "خطرہ" AI کے معمول شدہ اسکور اور IRT کے متوقع کریڈٹ احتمال کے مطلق فرق کے طور پر متعین کرتے ہیں (خطرہ = |s−p|)؛ صرف اُن آئٹمز کو قبول کرنا جو اِس بےزی متوقع قدر کے منتخب شدہ رواداری کے اندر ہوں، "حیران کن" AI اسکورز کو [[human-in-the-loop-ai|انسانی جائزے]] کے لیے نشان زد کرتا ہے، اور IRT کو محض اسکور جمع کرنے کے آلے سے [[automated-assessment]] کے لیے ایک عملی قبولیت/تاخیر کے طریقہ کار میں بدل دیتا ہے — ایسا طریقہ جو انسانی گریڈنگ کے ساتھ ہم آہنگی میں سادہ جزوی کریڈٹ حدوں کے برابر پہنچا مگر کم انسانی محنت کے ساتھ، اگرچہ اُس کی منطق غیر تکنیکی سامعین کے لیے کم شفاف ہے۔
 - **تشخیصی ماڈل کے اندر کیلیبریشن کی تہہ کے طور پر IRT:** PLCD مشق کی سطح کے جوابات پر IRT سے متاثر "اندازہ لگانے اور پھسلنے" والا سر (head) جوڑتا ہے، جو درستگی کی بجائے احتمال کے معیار کو بہتر بناتا ہے — متوقع کیلیبریشن کی غلطی XES3G5M پر 0.071 سے 0.037 تک گری — جس سے IRT جوابی شور کی اندرونی اصلاح بن جاتی ہے، محض اسکورنگ ماڈل نہیں ([[process-grounded-language-cognitive-diagnosis-2026|Liu وغیرہ (2026)]])۔
 
@@ -65,8 +65,9 @@ IRT صلاحیت (θ) اور آئٹم کے پیرامیٹرز (مشکل، امت
 
 - **IRT کتنی کم آلات کی تصدیق کی بنیاد بنتی ہے:** [[teacher-role|اساتذہ]] کی [[ai-literacy|AI خواندگی]] کے آلات کے ایک جائزے نے IRT کے استعمال کے بجائے اُس کی غیر موجودگی کو ناپا۔ [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal، Mohd Matore اور Maat (2026)]] نے 33 آلات کو COSMIN اور Terwee وغیرہ (2007) سے ماخوذ فیصلہ میٹرکس کے خلاف درجہ دیا؛ ساختی صداقت مضبوط تھی، 24 (72.7%) CFA، PLS-SEM یا IRT ماڈلنگ کے ذریعے گریڈ A پر، پھر بھی کسی نے IRT یا Rasch کو اپنا بنیادی شواہد نہیں بنایا، اور صرف پانچ آلات (15.2%) نے پیمائش کی عدم تغیر یا آئٹم کے تفریقی فعل کا شواہد دیا۔ مصنفین [[self-assessment|خود جانچ]] کے ساتھ ساتھ IRT اور کارکردگی کے کاموں کی وکالت کرتے ہیں تاکہ تصدیق شدہ صلاحیت کو بتائے گئے اعتماد سے الگ کیا جا سکے۔
 - **انجمنی IRT کا ایک سببی متبادل۔** [[causal-modeling-competency-assessment-2026|Mangili وغیرہ (2026)]] دلیل دیتے ہیں کہ IRT اور بےزی نیٹ ورک سیکھنے والے ماڈل مداخلتوں یا جوابی حقائق کا اظہار نہیں کر سکتے، اور اِس کے بجائے ماہرین سے ساختی مساواتیں حاصل کرتے ہیں؛ 109 طلبہ کی اڈاپٹیو امتحانی بیٹری پر حاصل کردہ ماڈل تھوڑا کم پیش گو تھا (−287 بمقابلہ −277 امتحانی لاگ امکانی) پھر بھی مدد کے بارے میں جوابی حقائق کے سوالات کی تائید کرتا تھا۔
+- [[ai-second-language-listening-speaking-assessment-2025|Goh اور Aryadoust (2025)]] حد کو آزماتے ہیں: IRT عوامی سوالات کا جواب دیتی ہے، جبکہ سیکھنے کے طور پر جانچ پوچھتی ہے کہ کیا کسی فرد میں تبدیلی آئی، جس کے لیے ان کا دلیل ہے کہ اصطلاحی (idiographic) ماڈلوں جیسے پوشیدہ Markov نقطہ نگاہوں کی ضرورت ہے۔
 
-### روابط
+## روابط
 
 IRT [[educational-measurement]] اور [[assessment-validity]] کی بنیاد ہے، [[adaptive-learning]] (اڈاپٹیو آئٹم انتخاب) اور [[student-modeling]] کی نیچی بنیاد بنتی ہے، اور [[psychometrically-aware-ai]] (پیمائشی نظریے سے ہم آہنگ AI جانچ) اور [[knowledge-tracing]] سے جڑتی ہے۔ یہ پروگرامنگ جانچ کے لیے [[llm-difficulty-calibration-programming-exams-2026|LLM مشکل کیلیبریشن]] میں بھی آتی ہے۔
 

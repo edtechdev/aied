@@ -9,15 +9,19 @@ level: [adult learning, higher ed]
 confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
-updated: "2026-11-08T11:46:54-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/adult-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [self-directed-learning, online-teaching-and-learning, higher-ed, professional-training, vocational-education, lifelong-learning, inclusive-learning, agency, self-regulated-learning, generative-ai, human-in-the-loop-ai, cognitive-offloading, scaffolding, trust, ai-literacy, equity-in-ai-education, neurodiversity, governance, formative-assessment, rct, active-learning, discipline-specific-aied]
 connected_articles: [ai-adult-learning-guidelines-dis2026, andragogy-cognitive-delegation-genai-2026, ai-lifelong-learning-policy, sovereign-hive-titl-further-education-2026, community-centered-ai-education-adults, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, institutional-governance-ai-universities, generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema, ai-assisted-se-curriculum-syllabus-analysis-2026, learner-ai-interaction-patterns-oop, dot-framework-survey-2026, kim-ai-productive-failure-adult-2026, kim-ai-andragogy-2026, packard-thinking-partner-framework-adult-learners-2026]

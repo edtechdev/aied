@@ -5,15 +5,19 @@ type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
-updated: "2026-11-08T11:46:54-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/ai-technologies"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [llm, generative-ai, multimodal, reinforcement-learning, educational-nlp, knowledge-graph, simulation, educational-robotics, agentic-ai, prompt-engineering, vibe-coding, rag, llm-training-and-fine-tuning, ai-ed-evaluation, benchmark, pedagogy, learning-theories, ai-literacy, adaptive-learning, personalized-learning]
 connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-education-scoping-review, genai-meta-analysis-programming-learning, cstutorbench-slm-tutors, educational-llm-alignment, eduguard-safe-rag-llm-tutor, hazra-safetutors-pedagogical-safety-2026, elbench-education-llm-benchmark-2026, teachy-mini-generative-social-robot-higher-ed-2026, benzion-ai-physics-simulations-virtual-lab, jaksic-engaging-high-school-teachers-ai-2025]
@@ -42,6 +46,8 @@ connected_articles: [beyond-chatgpt-stem-ai-tool-mapping-2026, agentic-ai-educat
 - **جنریٹو AI۔** ان نظاموں کی وسیع تر قسم جو متن، کوڈ، تصاویر اور دیگر مواد پیدا کرتے ہیں — [[generative-ai|جنریٹو AI]] (بنیادی طور پر LLM سے چلنے والا) اسی ٹیکنالوجی کا نام ہے جو [[ai-education|AIED]] تحقیق کی موجودہ لہر کے پیچھے ہے۔ [[multimodal|ملٹی موڈل ماڈل]] (متن، تصویر، آواز) اور [[simulation]] بھی دیکھیں۔
 - **روبوٹ اور [[embodied-learning|مجسم]] نظام۔** [[educational-robotics|تعلیم میں روبوٹ]] ایک مجسم اور اکثر [[community-of-inquiry|سماجی موجودگی]] شامل کرتے ہیں — [[computational-thinking|کمپیوٹیشنل سوچ]] کے لیے قابلِ پروگرام کٹس، اور ٹیوٹرنگ، [[storytelling-in-education|کہانی سنانے]] اور کردار ادا کرنے کے لیے انسان نما/سماجی روبوٹ۔ روبوٹکس ایک الگ تکنیکی دھاگہ ہے جو [[agentic-ai|ایجنٹک AI]] اور [[human-in-the-loop-ai|انسان-در-حلقہ]] ڈیزائن سے اوورلیپ کرتا ہے۔
 - **علم پر مبنی نظام۔** [[knowledge-graph|علمی گراف]] اور [[educational-nlp|تعلیمی NLP]] شعبے کا علم پیش کرتے اور اسے کارروائی میں لاتے ہیں، اور اب زمین یافتہ، قابلِ وضاحت ٹیوٹرنگ کے لیے بڑھتی ہوئی حد تک LLM کے ساتھ ملائے جاتے ہیں۔
+
+ایک افعال پر مبنی درجہ بندی ماڈل معماریوں کی فہرست سے کہیں زیادہ اساتذہ کی پیشہ ورانہ ترقی تک جاتی ہے۔ [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf اور Massey (2025)]] نے نو ہائی اسکول اساتذہ کے لیے ایک روزہ ورکشاپ کا اہتمام کیا، جو AI کے چھ خاندانوں — درجہ بندی، شناخت، حافظہ، فیصلہ سازی، بہتری اور پیش گوئی — گرد مرتب تھی، ہر ایک کے ساتھ ایک ایسا اطلاق جو اساتذہ پہلے سے استعمال کرتے تھے، مثلاً سپام فلٹرنگ سے لے کر کریڈٹ اسکورنگ تک۔ اساتذہ AI کے خطرے کے بارے میں منقسم تھے، 40% نے ایسا کہا اور 40% غیر فیصلہ کن، اور ہر شریک نے بتایا کہ اس نے کچھ نیا سیکھا۔ تنظيمی اکائی یہ ہے کہ نظام کیا کرتا ہے، جسے استاد کلاس روم کے اوزار میں اس کی تربیت کے بارے میں جانے بغیر پہچان سکتا ہے۔
 
 ## تکنیکیں اور طریقے
 

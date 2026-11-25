@@ -10,15 +10,19 @@ institutions: [governance, educational-policy-ai]
 audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
-updated: "2026-11-04T01:21:13-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/librarians"
-source_updated: "2026-10-25T20:50:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [ai-literacy, information-and-media-literacy, libraries, evaluative-judgment, critical-thinking, academic-integrity, human-in-the-loop-ai, human-ai-collaboration, recommender-systems-and-learning-paths, knowledge-graph, scaffolding, inquiry-based-learning, research-methods-aied, higher-ed, learners]
 connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, genai-academic-search-workshop, maybee-disruptive-partnerships-sap-2025, aarc-ai-research-competency-2026, pearls-epistemic-verification-2026, hingle-collaborative-ai-literacy-2025, ithaka-sr-ai-skills-college-graduates-2026, bird-multimodal-educational-literature-2026, cognitive-offloading-llm-synthesis-writing, citation-errors-hallucinations-computing-education-2026]
@@ -37,7 +41,7 @@ connected_articles: [ai-assisted-seminar-learning-information-literacy-2026, gen
 
 ## تعارف
 
-لائبریرین وہ پیشہ ور ہیں جو سیکھنے والے کے سوال اور علمی ریکارڈ کے درمیان بیٹھتے ہیں: حوالہ جاتی اور رابطہ کار لائبریرین، موضوعی ماہرین، پڑھانے والے لائبریرین جو معلوماتی خواندگی کی تعلیم دیتے ہیں، اور وہ عملہ جو ذخائر اور مخازن سنبھالتا ہے۔ [[ai-education|تعلیم میں AI]] میں اُن کا ذکر [[teacher-role|اساتذہ]] اور [[administrator|منتظمین]] کے مقابلے میں بہت کم ہوتا ہے، پھر بھی کارپس اُنہیں ایک مخصوص اور قابلِ جانچ کردار دیتا ہے۔ وہ اُس اعتبار کے مسئلے کا انسانی جواب ہیں جو [[generative-ai]] پیدا کرتا ہے، وہ مدرس ہیں جو محض ماخذ فراہم کرنے کے بجائے [[evaluative-judgment]] اور تلاش کی حکمت عملی سکھاتے ہیں، اور — نالج بیس کے سب سے مضبوط کیس میں — کسی AI نظام کا ڈیزائن شدہ جزو ہیں، اُس کے پہلو میں ایک الگ خدمت نہیں۔
+لائبریرین وہ پیشہ ور ہیں جو سیکھنے والے کے سوال اور علمی ریکارڈ کے درمیان بیٹھتے ہیں: حوالہ جاتی اور رابطہ کار لائبریرین، موضوعی ماہرین، پڑھانے والے لائبریرین جو معلوماتی خواندگی کی تعلیم دیتے ہیں، اور وہ عملہ جو ذخائر اور مخازن سنبھالتا ہے۔ [[ai-education|تعلیم میں AI]] میں اُن کا ذکر [[teacher-role|اساتذہ]] اور [[administrator|منتظمین]] کے مقابلے میں بہت کم ہوتا ہے، پھر بھی کارپس اُنہیں ایک مخصوص اور قابلِ جانچ کردار دیتا ہے۔ وہ اُس اعتبار کے مسئلے کا انسانی جواب ہیں جو [[generative-ai]] پیدا کرتا ہے، وہ مدرس ہیں جو محض ماخذ فراہم کرنے کے بجائے [[information-and-media-literacy|معلوماتی خواندگی]]، [[evaluative-judgment]] اور تلاش کی حکمت عملی سکھاتے ہیں، اور — نالج بیس کے سب سے مضبوط کیس میں — کسی AI نظام کا ڈیزائن شدہ جزو ہیں، اُس کے پہلو میں ایک الگ خدمت نہیں۔
 
 یہ صفحہ اِس کردار کو اُس کے پڑوسیوں سے الگ تصور کرتا ہے۔ [[educational-technology-developers]] ریٹریول اور تجویز کے نظام بناتے ہیں؛ لائبریرین طے کرتے ہیں کہ اِن نظاموں سے کیا نتیجہ اخذ کرنے پر بھروسہ نہیں کرنا چاہیے۔ [[academic-integrity]] AI کے استعمال کو تصنیف اور اعلان کے طور پر دیکھتا ہے؛ لائبریرین کا زاویہ — انتساب، ماخذ، رسائی — قریب ہے مگر زیادہ ٹھوس۔
 

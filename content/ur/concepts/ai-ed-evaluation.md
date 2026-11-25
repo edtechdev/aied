@@ -10,15 +10,19 @@ level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods, reporting-interpreting-aied-research]
 confidence: high
 methods: [benchmark]
-updated: "2026-11-08T11:46:54-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/ai-ed-evaluation"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-23T11:40:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, ai-assisted-educational-research, assessment-validity, educational-measurement, psychometrically-aware-ai, benchmark, automated-assessment, learning-analytics, research-methods-aied, learning-gains, formative-assessment, summative-assessment, authentic-assessment, human-in-the-loop-ai, trust-calibration, hallucination-risk, intelligent-tutoring, agentic-ai]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-pedagogical-contingency-tutoring-videos-2026, zhang-platform-scores-miss-ai-teaching-agents-2026, assessment-latent-structure-human-llm-2026, assessing-quality-ai-generated-exams-field-2025, nspa-neuro-symbolic-pedagogical-alignment-2026, yasir-llm-tutoring-agents-2026, drawedumath-vlm-struggling-students-2026, cdpk-pedagogy-benchmark-llms, melo-llm-classroom-observation-teach-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, ground-truth-reliability-aied, calibrating-trustworthiness-llm-education-2026, teachbench-llm-teaching-evaluation, machines-misread-pedagogical-quality, cong-confidence-asag-2026, cotal-formative-assessment-scoring-2026, llm-cognitive-diagnosis-handwritten-math, tutoring-effectiveness-index, jeon-isd-agent-bench-2026, tool-invariant-framework-agentic-ai, valid-student-simulation-llm-2026, llm-difficulty-calibration-programming-exams-2026, socratic-tests-conversational-assessment, responsible-assessment-ai-era-stanford-2026, authentic-products-authenticated-processes-2026, genai-educational-outcomes-meta-analysis, zhang-tutormoments-2026, elbench-education-llm-benchmark-2026, ai-grading-handwritten-physics-2026, distilling-self-explaining-lm-learning-analytics-2026, burneo-can-edtech-close-learning-gaps-2026, xiong-ai-educational-measurement-review-2026, ai-tutoring-micro-rct-gcse-science-2026, proiqa-math-item-quality-assessment-2026, durable-skills-measurement-ai-teammates-2026, pivot-generative-video-tutors-stem-2026, studentbench-ai-human-tutoring-gre-2026, synthetic-educational-data-structural-fidelity-2026, bloom-classifier-ai-assisted-questions-2026, llm-judge-evaluation-educational-ai-2026, sriram-ethical-ai-medical-education-bibliometric-2026, misconcept-dialogue-llm-math-tutoring-2026]
@@ -43,7 +47,7 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-ped
 
 میدان کی ایک دہائی طویل قوس خود ایک فریم ہے: [[xiong-ai-educational-measurement-review-2026|Xiong and Li (2026)]] 313 مقالات میں تین ادوار کا سراغ دیتے ہیں — تکوینی (2015–2018)، توسیع (2019–2022) اور جنریٹو (2023–تا حال) — اور دلیل دیتے ہیں کہ [[human-ai-collaboration|انسانی-AI تعاون]] کے لیے تصورات اور جواز کی دلیلیں نئے سرے سے لکھنی ہوں گی، کیونکہ [[item-response-theory|IRT]] اور Classical Test Theory کے ماڈل بغیر معاونت انسانی کارکردگی پر بنے تھے۔
 
-### تحقیق میں تعلیم میں AI کی تشخیص کیسے ظاہر ہوتی ہے
+## تحقیق میں تعلیم میں AI کی تشخیص کیسے ظاہر ہوتی ہے
 
 - **پیداوار کا اعتبار اور حقیقی بنیاد:** [[ground-truth-reliability-aied|حقیقی بنیاد کو جدید بنانا]] دلیل دیتا ہے کہ تعلیم میں AI کی تشخیص میں اعتبار کے مسائل اکثر خود حوالہ جاتی ڈیٹا سے جڑے ہوتے ہیں — وہ 'حقیقی بنیاد' لیبل جن کے خلاف نظام پرکھے جاتے ہیں — اور اعتبار و جواز بہتر کرنے کے لیے چار رخ تجویز کرتا ہے۔ [[calibrating-trustworthiness-llm-education-2026|بھروسے کا توازن]] تشخیصی میٹرکس اور [[visualization|بصری نمائندگیاں]] اسٹیک ہولڈرز کے ساتھ مشترکہ ڈیزائن کرتا ہے تاکہ AI ٹول پر بھروسہ مظاہر شدہ، قابلِ تفسیر ثبوت پر کھڑا ہو۔
 
@@ -54,7 +58,7 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-ped
 - **تخلیق شدہ آئٹمز کی نفسیاتی پیمائشی بینچ مارک کے خلاف تصدیق۔** [[assessing-quality-ai-generated-exams-field-2025|Isley et al. (2025)]] نے 71 کلاسوں کے لیے کورس کے مطابق ڈھائے گئے امتحانات تخلیق کیے اور 20 مزید کو انسانی لکھے AP Statistics آئٹمز کے خلاف پرکھا، اور 1,686 طلبہ پر پیشگی آزمائش کے اینکرز کے ساتھ Bayesian hierarchical 2PL [[item-response-theory|IRT]] ماڈل فٹ کیا؛ AI آئٹمز زیادہ آسان مگر زیادہ امتیازی تھے (ᾱ = 1.3 بمقابلہ 1.2)۔
 
 - **پیدگوجیکل معیار اور ہم آہنگی:** [[machines-misread-pedagogical-quality|مشینیں پیدگوجیکل معیار کو کیوں غلط پڑھتی ہیں]] اِس بات میں انسانی-مشینی عدم ہم آہنگی دستاویز کرتا ہے کہ تدریس کو اچھا کیا بناتا ہے، اور [[tutoring-effectiveness-index|Tutoring Effectiveness Index]] تدریسی رویّے سے ٹیوٹر کے معیار کی پیش گوئی کرتا ہے۔ [[responsible-assessment-ai-era-stanford-2026|AI کے دور میں ذمہ دار جانچ]] اور [[authentic-products-authenticated-processes-2026|تصدیق شدہ عمل]] دلیل دیتے ہیں کہ تشخیص کو درست جوابات سے آگے یہ جانچنا چاہیے کہ جب AI سیکھنے کی 'مصنوعات' بنا سکتا ہے تو جانچ مستند، درست اور قابلِ دفاع رہتی ہے یا نہیں۔
-- **پیداواری نگرانی اور جج کا توازن:** [[llm-judge-evaluation-educational-ai-2026|Rohlfs et al. (2026)]] رپورٹ کرتے ہیں کہ جب LLM بحیثیت جج تشخیص مصنوعات کے پیمانے پر چلتی ہے تو کیا ہوتا ہے، اور یہ [[k-12|K-12]] سوٹ پر مبنی ہے جو ہر ماہ لاکھوں استاد اور طالب علم پیغامات کی خدمت کرتا ہے۔ پروگرام پختہ ہونے کے ساتھ، جھوٹے مثبت نتائج جانچنے والوں کے جھنڈوں پر غالب آ گئے اور تجزیہ کاروں کی توجہ اُن ناکامیوں سے ہٹا دیں جو مصنوعات میں تبدیلی کا تقاضا کرتی تھیں۔ تین تبدیلیوں — دہرائے گئے جج رنز کے متفق-ناکام پینل، فی جانچنے والا جج-ماڈل کا انتخاب، اور نرم کیے گئے ربڑک — نے 21 تعینات جانچنے والوں میں تصدیق شدہ جھوٹے مثبت نتائج 99% کم کیے اور فی جھنڈے کی درستگی 0.6% سے 49% تک بڑھائی، جبکہ سنگین ناکامیوں کے سیٹ نے گرفت 100% پر برقرار رکھی۔ تشخیصی عمل کے لیے سبق یہ ہے کہ جانچنے والے کا عملی نقطہ، نہ کہ اُس کی سرخی کی درستگی، طے کرتا ہے کہ کوئی جھنڈا قابلِ عمل ہے یا نہیں۔
+- **پیداواری نگرانی اور جج کا توازن:** [[llm-judge-evaluation-educational-ai-2026|Rohlfs et al. (2026)]] رپورٹ کرتے ہیں کہ جب LLM بحیثیت جج تشخیص مصنوعات کے پیمانے پر چلتی ہے تو کیا ہوتا ہے، اور یہ [[k-12|K-12]] سوٹ پر مبنی ہے جو ہر ماہ لاکھوں استاد اور طالب علم پیغامات کی خدمت کرتا ہے۔ پروگرام پختہ ہونے کے ساتھ، جھوٹے مثبت نتائج جانچنے والوں کے جھنڈوں پر غالب آ گئے اور تجزیہ کاروں کی توجہ اُن ناکامیوں سے ہٹا دیں جو مصنوعات میں تبدیلی کا تقاضا کرتی تھیں۔ تین تبدیلیوں — دہرائے گئے جج رنز کے متفق-ناکام پینل، فی جانچنے والا جج-ماڈل کا انتخاب، اور نرم کیے گئے [[rubrics|ربڑک]] — نے 21 تعینات جانچنے والوں میں تصدیق شدہ جھوٹے مثبت نتائج 99% کم کیے اور فی جھنڈے کی درستگی 0.6% سے 49% تک بڑھائی، جبکہ سنگین ناکامیوں کے سیٹ نے گرفت 100% پر برقرار رکھی۔ تشخیصی عمل کے لیے سبق یہ ہے کہ جانچنے والے کا عملی نقطہ، نہ کہ اُس کی سرخی کی درستگی، طے کرتا ہے کہ کوئی جھنڈا قابلِ عمل ہے یا نہیں۔
 - **جج کا تنوع بطور جواز پروٹوکول۔** تدریسی ڈیزائن کے ایجنٹس کا ایک بینچ مارک اپنے ججوں کو ایک کے بجائے مختلف ماڈل فراہم کنندگان سے لیا، اور 1,017 جانچے گئے منظرناموں میں ججوں کے درمیان بلند اعتبار رپورٹ کیا ([[jeon-isd-agent-bench-2026|Jeon et al. (2026)]])۔
 
 - **کسی وضاحت کا معائنہ اُس انتساب کے خلاف کریں جس کا وہ دعویٰ کرتی ہے، روانی کے لیے نہیں۔** [[distilling-self-explaining-lm-learning-analytics-2026|Pan et al. (2026)]] ماڈل کی بیانات کو حسابی بندش، حوالہ شدہ ہم متغیرات، فیصلے کی وفاداری اور غیر محفوظ علاج کی شرح پر مشروط کرتے ہیں، کیونکہ روانی والا متن یکساں طور پر درست بنا ہوتا ہے چاہے اس کا اشارہ درست ہو یا شور بھرا — 98.8% بیانات پاس ہو گئے جبکہ منفی دُم کٹی رہی۔
@@ -62,7 +66,7 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-ped
 
 - **قابلِ درجہ ثبوت ایک ڈیزائن متغیر ہے، کام کی خاصیت نہیں۔** [[durable-skills-measurement-ai-teammates-2026|Globerson et al. (2026)]] نے ایک Executive LLM کو ربڑک تھامنے اور گفتگو کو جانچی جانے والی مہارت کی طرف موڑنے دیا، جس سے قابلِ درجہ ثبوت پروجیکٹ مینجمنٹ کے لیے 92.4% اور تنازع کے حل کے لیے 85% تک پہنچا، جبکہ شرکاء کو مہارت پر توجہ دینے کا کہنا کچھ نہیں بدلا۔
 
-### تعلیم میں AI میں تشخیص کیوں مشکل ہے
+## تعلیم میں AI میں تشخیص کیوں مشکل ہے
 
 تعلیم میں AI کی تشخیص کئی وجوہ سے مشکل ہے۔ اول، **اعتبار کافی نہیں** — کوئی نظام ربڑک سے متفق ہو سکتا ہے مگر پیدگوجی کو غلط جانچ سکتا ہے، جیسا کہ [[machines-misread-pedagogical-quality|انسانی-مشینی ہم آہنگی کی تحقیق]] دکھاتی ہے۔ دوم، **حقیقی بنیاد متنازع ہے** — 'درست' جواب، درجہ یا تدریسی قدم کیا ہے، یہ خود ایک فیصلہ ہے جو شعبوں اور ماہرین میں بدلتا ہے، بہ موجب [[ground-truth-reliability-aied|حقیقی بنیاد کی تجدید]]۔ سوم، **تعلیمی جواز کثیر الجہت ہے** — [[assessment-validity]]، [[formative-assessment]] اور [[authentic-assessment]] ہر ایک مختلف معیار لگاتے ہیں جنہیں واحد درستگی میٹرک نہیں سمیٹ سکتا۔ آخر میں، **نشانہ ہلتا رہتا ہے** — ایجنٹک AI اور [[multimodal]] ماڈلز تشخیصی فریم ورک مانگتے ہیں ([[agentic-ai]]، [[tool-invariant-framework-agentic-ai|ٹول سے غیر متاثر جانچ]]) بجائے متن ماڈل بینچ مارکس کے دوبارہ استعمال کے۔ تشخیصی نتائج اُنہی عمومی حدود کے تابع بھی ہیں جو تمام AIED تحقیق پر اثر ڈالتی ہیں — وہ AI بہتر ہونے کے ساتھ پرانے ہو جاتے ہیں، تولیدیت اور FAIR طریقوں پر منحصر ہیں، اور ملکیتی نظاموں پر کھڑے ہو سکتے ہیں — چنانچہ تشخیصی نتائج [[limitations-in-aied-research]] کی شرائط کے ساتھ پڑھے جانے چاہئیں۔ ایک مزید، ابھرتی جہت **وسائل کی پائیداری** ہے: آن پریمیس تعیناتیاں تیزی سے درستگی کے ساتھ ساتھ توانائی کی کھپت اور ہارڈویئر کی ضروریات (مثلاً VRAM، فی استفسار mWh) رپورٹ کرتی ہیں — دیکھیں [[shen-sustainable-ai-knowledge-base-cs-education-2026|پائیدار آن پریمیس نالج بیس معاونین]] — تاکہ مکمل تشخیص ماحولیاتی اور بنیادی ڈھانچے کی لاگت بھی تولے، نہ صرف پیداوار کا معیار۔
 
@@ -92,11 +96,11 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, vira-bench-ped
 
 - **AI مشکل کا پیمانہ تشخیصی مدد ہے، درجہ نہیں۔** AI مشکل کے تخمینے مسئلہ کی سطح کی پاس شرح سے مضبوط تعلق رکھتے تھے (79 مسائل میں rho = −0.871) مگر 106 مسائل کے CS101 نمونے پر −0.552 تک کمزور ہو گئے اور امتحان کی سطح پر صفر کے قریب پہنچ گئے، چنانچہ ایسے پیمانے آئٹم کے جائزے میں ہونے چاہئیں، طالب علم کی جانچ میں نہیں ([[llm-difficulty-calibration-programming-exams-2026|Yan et al. (2026)]])۔
 
-### متعلقہ تصورات سے روابط
+## متعلقہ تصورات سے روابط
 
-تعلیم میں AI کی تشخیص علم کی بنیاد کے طریقوں اور خطرات کے مرکز میں بیٹھتی ہے۔ یہ [[assessment-validity]]، [[educational-measurement]] اور [[benchmark]] کو [[assessment]] اور [[automated-assessment]] کے اندر عملی شکل دیتی ہے۔ انسانی نگرانی کا اُس کا مطالبہ [[human-in-the-loop-ai]] اور [[teacher-role]] سے جڑتا ہے، جبکہ اعتبار پر اُس کی توجہ [[hallucination-risk]]، [[automated-assessment|Confidence Aware AI Assessment]] اور [[trust-calibration]] سے۔ کارکردگی کی جانچ اور سیکھنے کی جانچ کا فرق [[genai-performance-vs-learning|کارکردگی بمقابلہ سیکھنا]] اور [[student-modeling]] سے جڑتا ہے؛ اور پیدگوجیکل ایجنٹس کی تشخیص [[intelligent-tutoring]]، [[llm-training-and-fine-tuning]] اور [[pedagogical-safety]] سے۔
+تعلیم میں AI کی تشخیص علم کی بنیاد کے طریقوں اور خطرات کے مرکز میں بیٹھتی ہے۔ یہ [[assessment-validity]]، [[educational-measurement]] اور [[benchmark]] کو [[assessment]] اور [[automated-assessment]] کے اندر عملی شکل دیتی ہے۔ انسانی نگرانی کا اُس کا مطالبہ [[human-in-the-loop-ai]] اور [[teacher-role]] سے جڑتا ہے، جبکہ اعتبار پر اُس کی توجہ [[hallucination-risk]]، [[automated-assessment|Confidence Aware AI Assessment]] اور [[trust-calibration]] سے۔ کارکردگی کی جانچ اور سیکھنے کی جانچ کا فرق [[genai-performance-vs-learning|کارکردگی بمقابلہ سیکھنا]] اور [[student-modeling]] سے جڑتا ہے؛ اور پیدگوجیکل ایجنٹس کی تشخیص [[intelligent-tutoring]]، [[llm-training-and-fine-tuning]] اور [[pedagogical-safety]] سے۔ یہ تشخیص جس سطح پر کی جاتی ہے — سیکھنے والا، کورس، ادارہ یا پالیسی — وہ خود ایک فیصلہ ہے، جو [[learning-environments-as-systems|سیکھنے کے ماحول بطور نظام]] کا موضوع ہے۔
 
-### سیکھنے کے حصول کی جانچ
+## سیکھنے کے حصول کی جانچ
 
 تعلیم میں AI کی تشخیص کا ایک مرکزی موضوع **سیکھنے کا حصول** ہے — کسی AI ٹول سے پیدا ہونے والا علم یا مہارت میں قابلِ پیمائش اضافہ (دیکھیں [[learning-gains]])۔ حصول کی سخت جانچ کے لیے درست نتائجی پیمائش کا انتخاب ضروری ہے، کیونکہ [[genai-performance-vs-learning|کارکردگی اور سیکھنا الگ ہو جاتے ہیں]]: AI فوری، AI کی معاونت والی کام کی کارکردگی کو بڑھا سکتا ہے جبکہ پائیدار، بغیر معاونت سیکھنے کو ویسا ہی یا کم چھوڑ دیتا ہے (دیکھیں [[generative-ai-reduced-study-time-math]]، [[stromberg-generative-ai-learning-penalty-secondary-2026]])۔ اس لیے موثر حصول کی جانچ:
 

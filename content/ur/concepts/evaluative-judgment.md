@@ -8,9 +8,9 @@ assessment: [assessment-validity, feedback, formative-assessment]
 audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/evaluative-judgment"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T11:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -18,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, ai-education, assessment-validity, feedback, feedback-literacy, formative-assessment, self-assessment, authentic-assessment, academic-integrity, self-regulated-learning, metacognition, critical-thinking, assessment, ai-detection, agency, higher-ed]
-connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai-writing-assessment-professors-2026, chatgpt-peer-feedback-evaluative-judgement-2025, ai-internal-feedback-evaluative-judgments, genai-feedback-design-multisite-experiment, pairr-ai-peer-review-2025, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, learner-centered-feedback-ai, beyond-detection-authentic-assessment-ai-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, rethinking-ai-writing-feedback-literacy, student-perspectives-ai-writing-grading-2026, sharma-judgment-visible-genai-assessment-2026, munoz-misconduct-allegation-evidence-2026, hadra-ai-detector-accuracy-efl-2026, wright-transcription-not-generation-2026, austin-ai-agents-assignment-redesign-2026, ai-written-admissions-essays-penalized-2026, authentic-assessments-generative-ai-pilot-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, judgment-centred-software-engineering-education-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, valiassist-programming-feedback-validation-by-demonstration-2026, ahman-thoren-processes-of-patterning-ai-literacy-2026, yan-accountable-judgement-language-assessment-2026]
+connected_articles: [ahman-thoren-processes-of-patterning-ai-literacy-2026, ai-internal-feedback-evaluative-judgments, ai-written-admissions-essays-penalized-2026, austin-ai-agents-assignment-redesign-2026, authentic-assessments-generative-ai-pilot-2026, beyond-detection-authentic-assessment-ai-2025, chatgpt-peer-feedback-evaluative-judgement-2025, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, du-yuan-epistemic-dependence-2026, elkington-human-centred-assessment-value-2026, fang-human-ai-collaboration-patterns-instructional-design-2026, genai-feedback-design-multisite-experiment, hadra-ai-detector-accuracy-efl-2026, judgment-centred-software-engineering-education-2026, learner-centered-feedback-ai, mohamed-temimi-assessment-imperfect-information-disclosure-2026, munoz-misconduct-allegation-evidence-2026, obyrne-co-constructing-ai-boundaries-agency-judgment-2026, pairr-ai-peer-review-2025, rethinking-ai-writing-feedback-literacy, sharma-judgment-visible-genai-assessment-2026, student-perspectives-ai-writing-grading-2026, teichmann-detecting-undetectable-misconduct-2026, valiassist-programming-feedback-validation-by-demonstration-2026, wright-transcription-not-generation-2026, wu-lam-genai-writing-assessment-professors-2026, yan-accountable-judgement-language-assessment-2026, yu-verification-without-criteria-2026, zhan-boud-dawson-genai-feedback-engagement, zhan-boud-du-authentic-assessment-scoping-review-2025, zhang-teachers-judge-creativity-genai-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -29,7 +33,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 ## غور کرنے کے لیے سوالات
 
 - کسی ایسی چیز کا سوچیں جس کا آپ اچھا فیصلہ کر سکتے ہیں۔ آپ نے وہ فیصلہ کیسے سیکھا — واضح طور پر پڑھایا گیا، یا بنانے اور موازنہ کرنے سے جذب ہوا — اور اس سے یہ کیا نکلتا ہے کہ اسے کیسے جانچا جانا چاہیے؟
-- ربرک کو مشینی طور پر لاگو بھی کیا جا سکتا ہے اور سمجھا بھی۔ اگر کوئی طالب علم معیار درست طریقے سے اپناتا ہے مگر یہ نہیں بتا سکتا کہ ایک کام دوسرے سے بہتر کیوں ہے، تو جانچ نے اصل میں کون سی قابلیت ناپی؟
+- [[rubrics|ربرک]] کو مشینی طور پر لاگو بھی کیا جا سکتا ہے اور سمجھا بھی۔ اگر کوئی طالب علم معیار درست طریقے سے اپناتا ہے مگر یہ نہیں بتا سکتا کہ ایک کام دوسرے سے بہتر کیوں ہے، تو جانچ نے اصل میں کون سی قابلیت ناپی؟
 - جب [[llm|لینگویج ماڈل]] کوئی قابلِ اعتماد حل لکھ دیتا ہے، تو سیکھنے والے کا باقی کام زیادہ تر فیصلہ ہوتا ہے: کیا رکھنا ہے، کیا ٹھیک کرنا ہے، کیا پھینکنا ہے۔ کیا یہ گھٹا ہوا کام ہے، یا مسودہ بنانے سے زیادہ مطالبہ کرنے والا؟
 - کوئی طالب علم AI کی تجویز اس لیے قبول کر سکتا ہے کہ وہ پڑھنے میں اچھی لگتی ہے، یا اس لیے کہ وہ اس کی اپنی چھان بین سے گزر جاتی ہے۔ باہر سے جمع شدہ کام بالکل ایک جیسا دکھ سکتا ہے — کس چیز سے جانچنے والا فرق دیکھ سکے گا؟
 - ایک کثیر المقام تجربے نے پایا کہ براہِ راست [[ai-feedback-quality|AI فیڈبیک]] نے نظرثانی میں سب سے بڑے فوائد دیے مگر فیصلے کے غیر فعال بیرونی سپردگی کا خطرہ پیدا کیا۔ یہ تجارتی توازن اس بارے میں کیا بتاتا ہے کہ آپ فیصلہ بنانے کے بجائے اسے نظر انداز کرنے والا فیڈبیک کیسے ڈیزائن کریں گے؟
@@ -64,6 +68,7 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 ایک اور تہہ فیصلے کے *ماخذ* سے ہے، صرف اس کے مواد سے نہیں۔ [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] اس تہہ کو تیز تر الفاظ دیتے ہیں: ان کے 13 سعودی کمپیوٹنگ طلبہ نے ایک ہی جانچی واقعے میں دو آزاد فیصلے کیے — کیا فیڈبیک مفید تھا، اور کیا اس کے ماخذ کو گریڈ دینے کا اختیار حاصل تھا۔ ان سب نے ChatGPT کے ربرک پر مبنی فیڈبیک کو واضح اور مخصوص مانا مگر گریڈ بھاری اکثریت سے استاد کے لیے مخصوص رکھا ("میں اس سے متفق ہوں، مگر ایک شرط کے ساتھ، کہ ڈاکٹر صاحب فیڈبیک کی جانچ کریں")، جو بتاتا ہے کہ AI کے ذریعے ہونے والی جانچ میں تشخیصی فیصلے کو اب تشخیصی اختیار کے بارے میں خود استدلال بھی شامل کرنا ہوگا، نہ صرف موصول ہونے والے فیڈبیک کے معیار کے بارے میں۔
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] اس تصور کو سالمیت کے ادب میں اس کی مضبوط ترین جگہ دیتے ہیں۔ Eaton (2023) کے بعد-سرقہ والے فریمنگ کو [[ethics|اخلاقی]] رخ سے جانچ کے ڈیزائن میں بڑھاتے ہوئے، وہ دلیل دیتے ہیں کہ [[academic-integrity|سالمیت]] کے پکڑ اور تصدیق پر مبنی ماڈل ایسے کام سے غیر ہم آہنگ ہیں جس میں انسانی فیصلہ اور مشینی پیداوار ایک دوسرے میں الجھے ہوں۔ وہ سالمیت کو ایک تدریسی مشق کے طور پر دوبارہ بیان کرتے ہیں جو تشخیصی فیصلے کے ذریعے ادا ہوتی ہے — یعنی سیکھنے والے کی یہ صلاحیت کہ وہ اختیارات کو تولے، تعلیمی انتخاب کا جواز دے اور علمی غیر یقینی کے تحت ذمہ داری قبول کرے۔ ان کی چار مشقیں (تشریح شدہ فیصلے کے نشانات، تصدیق اور جواب دہی، [[oral-assessment|زبانی دفاع]] اور مکالماتی جواب دہی، ورژن کی تاریخ کے ساتھ مسودوں کا فرق) اس فیصلے کو مصنوعہ سے استنتاج کرنے کے بجائے ثبوت کے طور پر نظر آنے والا بناتی ہیں۔ وہ فیصلے کو ان تصورات سے الگ کرتے ہیں جن میں اسے اکثر سمیٹ دیا جاتا ہے: [[reflection|عکاسانہ مشق]] اپنی سوچ پر ماضی کی نظر ڈالتی ہے، [[metacognition]] علمی عمل کی آگاہی اور ضابطگی ہے، جبکہ فیصلہ اختیارات کو معیار کے مطابق تولتا ہے اور غیر یقینی کے تحت نتائج قبول کرتا ہے۔ وہ اس ناکامی کے طریقے کا بھی نام لیتے ہیں جس کا یہ صفحہ سراغ رکھتا ہے — استدلال کی دستاویز کا تقاضا "ایک تعمیل کے نظام کی جگہ دوسرا تعمیل کا نظام" لانے کا خطرہ رکھتا ہے، کیونکہ ثبوت کے طور پر فیصلہ "مشینی طور پر قابلِ تصدیق ہونے کے بجائے رشتی اور مقامی رہتا ہے"۔
+- **جواب دہ فیصلہ تصور میں ثقافتی ثالثی شامل کرتا ہے۔** Yan (2026) تشخیصی فیصلے کو AI کے ذریعے زبان اور ترجمہ کی جانچ کے لیے بڑھاتا ہے: سیکھنے والے لسانی، مواصلاتی، ثقافتی ثالثی اور اخلاقی فیصلوں کا جواز پیش کریں، کیونکہ چست ہدف متن بھی حل نہ ہوئے رجوع اور ثقافتی مسائل چھپا سکتا ہے ([[yan-accountable-judgement-language-assessment-2026|Yan, 2026]])۔
 
 ## ثبوت: جانچ کیسے پروان چڑھتی ہے، اور AI اس کے ساتھ کیا کرتا ہے
 
@@ -88,6 +93,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 - **فیصلہ تب درج ہوتا ہے جب نظرثانی سے جڑا ہو، محض موجود ہونا کافی نہیں۔** GenAI کے ساتھ سبق کے منصوبے بنانے والے 67 پری سروس اساتذہ میں، واضح جائزہ کم معیار والے گروہ میں تقریباً غائب تھا (0.67 بمقابلہ 0.00)؛ معیار کو جس چیز نے الگ کیا وہ دو طرفہ جائزہ–نظرثانی کا چکر تھا (CE→RE Z = 2.80, RE→CE Z = 2.50) اور نظرثانی کا خود حلقہ (RE→RE Z = 4.24) ([[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang et al. (2026)]])۔
 - **اساتذہ کے معیار AI آؤٹ پٹ کی نظرثانی سے بیرونی بنائے جا سکتے ہیں۔** [[valiassist-programming-feedback-validation-by-demonstration-2026|Tang et al. (2026)]] نے 16 اساتذہ کی جانب سے LLM سے پیدا شدہ پروگرامنگ فیڈبیک میں کی گئی ترمیمات سے دوبارہ استعمال کے قابل تصدیقی اصول اخذ کیے اور ان کے تدریسی ارادے سے ہم آہنگی 57% سے 91% تک بڑھائی، جس سے مضمر معیار غیر بیان شدہ رہنے کے بجائے قابلِ معائنہ ہو گئے۔
 
+- **چک لسٹ نہیں بلکہ چکر۔** AI تشخیصی فیصلہ تکرار پذیر طریقے سے چلتا ہے: پیشہ ورانہ معیارات کے مقابل میں اندازہ لگائیں، قبول کریں، نظرثانی یا رد کریں اور دوبارہ پرامپٹ کریں، پھر تصدیق اور جواز دیں، اور جب تک پرفکٹ ناپسند ہے اندازے کی طرف لوٹیں ([[zheng-ai-evaluative-judgement-vocational-2026|Zheng and Tang (2026)]])۔
+
 ## غلط استعمال جانچ کو کیسے ہٹا دیتا ہے
 
 سب سے صاف خطرہ ہٹاؤ ہے، اور اس کا ثبوت صرف نظریے میں نہیں بلکہ فیڈبیک کے ادب میں ہے۔ جب اوزار ربرک، فیڈبیک اور نگرانی سب فراہم کرتا ہے، تو سیکھنے والے کی [[metacognition|میٹا کوگنیٹو]] اور تشخیصی مشق سہارا پانے کے بجائے ہٹا دی جاتی ہے — جانچ ایسے فیصلے کی نمائش بن جاتی ہے جو طالب علم نے کبھی استعمال ہی نہیں کیا، وہی ناکامی کا طریقہ جو [[cognitive-offloading|علمی منتقلی]] کا ہے، مگر جانچ کے انداز میں بیان ہوا۔ کثیر المقام تجربے میں براہِ راست GenAI فیڈبیک نے بالکل اسی غیر فعال سپردگی کی طرف دھکیلا۔ گریڈنگ کا دباؤ اسے مزید بڑھاتا ہے: جہاں خود جانچ یا AI استعمال پر غور و فکر خود گریڈ ہوتا ہے، وہاں طلبہ وہ عکاسی پیدا کر سکتے ہیں جو ربرک چاہتا ہے، استدلال نہیں، سو حقیقی فیصلے کے لیے ضروری ہے کہ مشق کو نتیجہ خیز بنایا جائے — ایسا فیصلہ جو بعد کے کام میں نظر آئے، زبانی وضاحت میں، یا ایسی دستاویزی دلیل میں جو خود جانچی جائے۔
@@ -95,6 +102,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 یہی استدلال ایک ساختی روپ بھی قبول کرتا ہے۔ [[ahman-thoren-processes-of-patterning-ai-literacy-2026|Åhman اور Thorén (2026)]] **پیٹرننگ** کو پیچیدگی کو ایسے ڈھانچوں میں ترتیب دینے کا ترقیاتی کام کہتے ہیں جنہیں سیکھنے والا بامعنی سمجھے، اور دلیل دیتے ہیں کہ جو نظام مطابقت کو پہلے سے ترتیب دے دے وہ اُس کام کی شرائط ہٹا دیتا ہے جو اِس کام کے لیے درکار ہیں۔ نتیجے کے لیے اُن کی اصطلاح **اُدھار کا فیصلہ** ہے: سیکھنے والا اُس مواد کا جائزہ لیتا ہے جسے نظام پہلے ہی ترتیب دے چکا ہے، سو فیصلہ ادا ہوتا ہے مگر کبھی کمایا نہیں جاتا۔ یہ مقالہ اپنا کوئی ڈیٹا نہ رکھنے والا نظریاتی تجزیہ ہے — Tentaklar پلیٹ فارم میکانزم کی مثال دیتا ہے، اُسے آزماتا نہیں — سو ناکامی کا طریقہ ڈیزائن سے دلیل کیا گیا ہے، سیکھنے والوں میں مشاہدہ نہیں کیا گیا۔
 
 ہٹاؤ کا استاد کی طرف کا بھی ایک روپ ہے، اور یہی چیز کئی تحریر کے پروفیسروں کو مارکنگ کی مکمل بیرونی سپردگی کے خلاف کر گئی۔ چوبیس میں سے پانچ نے کہا کہ مارکنگ ہی وہ طریقہ ہے جس سے استاد اپنے سیکھنے والوں کو سمجھتا ہے، سو اسے سونپنے سے صرف گھنٹے نہیں بلکہ وہ سمجھ بھی جاتی ہے ([[wu-lam-genai-writing-assessment-professors-2026|Wu اور Lam (2026)]])۔ چوبیس میں سے اٹھارہ نے انسانی فیصلے کو وہ چیز سمجھا جو اوزار کی غلطیاں پکڑتا ہے اور ان کی جواب دہی اپنے پاس رکھتا ہے۔
+
+وصفت اب تک تجربی ریکارڈ میں نافذ نہیں ہوئی۔ 65 مطالعات (2022–2026) کا منظم جائزہ اور علمی نیٹ ورک تجزیہ پایا کہ ان میں سے ایک نے بھی سیکھنے والوں کو ہدف معیار نہیں بتائے؛ مداخلتوں نے وقفے، وضاحتوں اور اعتماد کے بیانات کو پرامپٹ کیا، اور فیڈبیک خواندگی کے سہارے کہیں نظر نہیں آئے ([[yu-verification-without-criteria-2026|Yu et al., 2026]])۔ ڈیزائنوں نے تشخیصی معیار کا مفروضہ بنایا، اسے فراہم نہیں کیا۔
 
 ## عمل کے لیے مضمرات
 
@@ -107,6 +116,8 @@ connected_articles: [elkington-human-centred-assessment-value-2026, wu-lam-genai
 - **اسے عمل اور زبانی دفاع کے ساتھ جوڑیں۔** عمل کے مصنوعات اور مختصر زبانی وضاحتیں فیصلے کو عمل میں دکھاتی ہیں جہاں حتمی مصنوعہ نہیں دکھا سکتا، اور یہی ایک بنیادی وجہ ہے کہ AI کے دور میں جانچ کا دوبارہ ڈیزائن ان پر ٹکتا ہے۔
 
 - **برقرار رکھے گئے فیصلے کو فہم کے قرض کے پروبس سے نظر آنے والا بنائیں۔** [[judgment-centred-software-engineering-education-2026|Mahmoud (2026)]] چار بین الشعبہ ذمہ داریاں متعین کرتے ہیں — وضاحت، تصدیق، ترمیم اور حساب دہی — جو AI انضمام کی ہر سطح پر برقرار قابلیت کو نظر آنے والا بناتی ہیں، اور تاخیری تبدیلی کی درخواستیں، کوڈ واک تھرو، آزادانہ ڈیزائن کیے گئے ٹیسٹ، نقص کی نشاندہی اور براہِ راست ڈی بگنگ ایسے پروبس کے طور پر تجویز کرتے ہیں جو اس کا موازنہ کرتے ہیں جو پیدا ہوا اور جو بعد میں مظاہرے میں دکھایا جا سکتا ہے۔ [[agentic-ai|ایجنٹک]] قابلیت کے تحت جانچ کا ہدف نگرانی کی طرف منتقل ہو جاتا ہے — کام کے معاہدے، اجازت کی حدیں، سینڈ باکس، تشخیصی ہارنیس، ڈف کا جائزہ، رول بیک اور انسانی جواب دہی — جو جانچ کو نظر آنے والی تصنیف سے نظر آنے والے فیصلے کی طرف لے جاتا ہے۔
+
+**پرفکٹ کا فیصلہ سیکھنے والے کا فیصلہ نہیں۔** [[zhang-teachers-judge-creativity-genai-2026|Zhang et al. (2026)]] GenAI کی مدد سے بنے کام کے لیے یہ فرق واضح کرتے ہیں: اساتذہ کی جدید، حل، جمالیات اور اثر پر مبنی مصنوعاتی سطح کی جانچ — چین اور امریکہ کے 654 اساتذہ میں مشترک بنیاد — پرفکٹ کی نشان دہی کرتی ہے، سیکھنے والے کے حصے کی نہیں، اور جب پرفکٹ AI سے بنتی ہے تو یہ دونوں علیحدہ ہو جاتے ہیں۔ وہ مصنوعاتی معیاروں کے ساتھ عمل کے شواہد — پرامپٹس، نظرثانی کے فیصلے، عکاسانہ جواز — جوڑنے کی سفارش کرتے ہیں، یعنی آؤٹ پٹ سے [[process-oriented-assessment|عمل پر مبنی]] فیصلے کی طرف۔
 
 ## عام غلط فہمیاں
 

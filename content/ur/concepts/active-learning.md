@@ -9,15 +9,19 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
-updated: "2026-11-08T11:46:54-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/active-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learning-gains, problem-based-learning, learning-by-teaching, scaffolding, constructivist, learning-design, intelligent-tutoring, student-experience, higher-ed, k-12, stem-education, generative-ai, feedback, cognitive-offloading, collaborative-learning, learning-theories, icap-framework, student-engagement, project-based-learning, experiential-learning, embodied-learning, simulation, game-based-learning, help-seeking, pedagogy]
 connected_articles: [kestin-ai-tutoring-outperforms-active-learning-rct-2025, ai-pbl-computational-thinking-2026, beck-genai-literacy-economics-hands-on, lak2026-hint-button-unproductive-use, efficiency-gain-illusion-ai-overreliance, neurodivergent-computing-students, genai-mindtool-generative-learning, test-driven-ai-assisted-learning, curiobot-llm-tutoring-exploratory-learning, genai-assisted-problem-posing-physics-2026, ai-assisted-learning-modes-eeg, supplynet-visual-exploratory-learning, knowloop-confusion-to-consolidation-2026, academic-league-of-ai-2026, mujib-ai-ibl-creative-math-2026, tts-dialogue-lessons-learner-characteristics-2026, instructional-guidance-genai-learning, assigned-ai-preclass-student-engagement-2026]

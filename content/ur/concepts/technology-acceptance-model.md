@@ -8,15 +8,19 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/technology-acceptance-model"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [business-education, generative-ai, ai-literacy, student-experience, higher-ed, critical-thinking, ethics, trust, cognitive-offloading, self-determination-theory, research-methods-aied, student-modeling, framing-ai-use-for-students]
 connected_articles: [wang-ai-avatars-tam-doi-adoption-2026, high-school-genai-acceptance-tam-physics-2026, dai-genai-frenemy-teaching-autonomy-2026, akbaba-nursing-ai-experiences-tam-2026, saihi-ahmed-genai-adoption-personas-higher-ed-2026, tian-genai-learning-adoption-pathways-2026, lee-wu-gender-motivation-genai-achievement-2026, alrahmi-org-drivers-ai-adoption-he-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ai-anxiety-strategic-regulation-writing-2026, genai-reliance-types-scale, llm-reliance-types-undergrad, acceptance-ai-english-tools-2026, genai-chatgpt-adoption-ethics-students-2026, mathematics-teachers-chatbot-motivation-2026, pre-service-science-teachers-ai-perceptions-2026, chen-preservice-teachers-chatgpt-lpa-2026, teo-ai-adoption-tertiary-meta-analysis-2026, determinants-chatgpt-use-higher-education-2026, jacome-vasconez-chatgpt-adoption-xai-2026, xai-teachers-trust-edtech-recommendations-2026, age-tiered-ai-literacy-guidebooks-2026, risk-perception-genai-perceived-benefits-2026, capability-decision-model-teacher-readiness-2026, teachers-ai-belief-profiles-talis-2024-2026, genai-learning-procrastination-planned-behavior-2026, kim-overtrust-ai-literacy-2026, isbulan-ai-self-efficacy-acceptance-literacy-2026, chu-design-students-ai-agent-tam-ttf-2026, zhang-ai-enhanced-systems-adoption-ann-nca-2026, pinedo-genai-adoption-marketing-students-2026, stalboerger-faculty-perceptions-2026, reding-discussion-boards-tam-ai-analytics-2026, ai-conversational-interfaces-information-seeking-2026]
@@ -60,6 +64,8 @@ TPB ارادے کی وضاحت رویے، موضوعی اصولوں اور سم�
 ### جدت کا پھیلاؤ (DOI)
 Rogers کا DOI نظریہ اپنانے کی وضاحت ایک سماجی عمل کے طور پر کرتا ہے جس میں جدتیں وقت کے ساتھ آبادیوں میں پھیلتی ہیں، اور جدت کی خصوصیات (نسبتی فائدہ، مطابقت، پیچیدگی، آزمائشیت، مشاہدہ پذیری) اور اپنانے والوں کے زمروں پر زور دیتا ہے۔ یہ علم بنیاد کے [[governance|اداراتی]] سطح کے تجزیوں میں آتا ہے، مثلاً [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi et al.]] سعودی یونیورسٹیوں میں تنظیمی AI اپنانے کا ماڈل بنانے کے لیے ٹیکنالوجی–تنظیم–ماحول (TOE) فریم ورک کو DOI کے ساتھ جوڑتے ہیں۔
 
+طلبہ کی سطح پر، [[gocyla-genai-adoption-diffusion-2026|Gocyła اور Strzelecki (2026)]] نے پایا کہ نسبتی فائدہ، مطابقت، سادگی اور مشاہدہ پذیری GenAI استعمال کے ارادے کی پیش گوئی کرتے ہیں، تغیر کا 48.7% بیان کرتے ہیں، جبکہ آزمائشیت ایسا نہیں کرتی (f² = 0.001): مفت رسائی آزمائش کو ایک امتیازی چیز کے بجائے بنیادی توقع بنا سکتی ہے۔
+
 ### ٹیکنالوجی–تنظیم–ماحول (TOE)
 TOE اپنانے کو تکنیکی، تنظیمی اور ماحولی سیاق سے شکل پاتا ہوا دیکھتا ہے — اداراتی اپنانے کے مطالعے کے لیے فرد کی سطح کے TAM/UTAUT کا ایک تکمیلی فریم ورک (دیکھیں [[alrahmi-org-drivers-ai-adoption-he-2026]])۔
 
@@ -84,6 +90,8 @@ TOE اپنانے کو تکنیکی، تنظیمی اور ماحولی سیاق �
 
 22 فیکلٹی کے دو موجی انٹرویو مطالعے میں، AI کے بارے میں زیادہ جاننا بعض کو زیادہ قبول کرنے کی بجائے زیادہ محتاط بنا دیا، جو ماڈل کی مفروضہ سمت — تجربے سے استعمال میں آسانی — کو اُلٹ دیتا ہے ([[stalboerger-faculty-perceptions-2026|Stalboerger وغیرہ، 2026]])۔
 
+یہاں تک کہ ایک صاف انٹرفیس کی جیت ارادے کو نہیں ہلاتی: جب 18 سے 25 سال کے بالغوں نے جامعہ پروگرام کی معلومات کے لیے زمینی چیٹ بوٹ یا پروگرام کی ویب سائٹ سے تلاش کی۔ ہر ادراکی پیمانہ چیٹ بوٹ کا حامی تھا جبکہ دوبارہ استعمال کرنے کے رویاتی ارادے میں فرق نہیں آیا، اور ٹیکنالوجی تیاری نے فائدے کے حجم کو متعدل کیا، جس میں سب سے کم سکون والے صارفین نے سب سے کم حاصل کیا ([[ai-conversational-interfaces-information-seeking-2026|Goebert et al., 2026]])۔
+
 ## حدود اور توسیعات
 
 TAM کا علمی زور AI استعمال کی جذباتی اور تعلقاتی جہتوں کو بھی کم قید کرتا ہے۔ [[akbaba-nursing-ai-experiences-tam-2026|نرسنگ طلبہ اور فیکلٹی کا معیاری مطالعہ]] نے پایا کہ چار کلاسیکی TAM constructs کے ساتھ ساتھ شرکاء — زیادہ تر طلبہ — نے AI کو نفسیاتی-سماجی سہارے کے ماخذ کے طور پر بیان کیا: دباؤ کے وقت جذباتی تسلی اور عکاسی کے لیے ایک رازدار جگہ۔ یہ سمجھی جانے والی افادیت کو کارکردگی کے فائدوں سے آگے [[well-being]] تک بڑھاتا ہے، زیادہ دباؤ والی [[professional-training|پیشہ ورانہ تربیت]] میں، اور تجویز کرتا ہے کہ اپنانے کے ماڈل صرف آلہ جاتی افادیت نہیں بلکہ جذباتی اور نفسیاتی-سماجی عوامل پر بھی توجہ دیں۔
@@ -94,6 +102,8 @@ TAM کا علمی زور AI استعمال کی جذباتی اور تعلقات
 
 حالیہ ایک توسیع معمول کی سمت اُلٹ دیتی ہے اور [[discipline-specific-aied|مضمون مخصوص]] محرکاتی عقائد کو TAM تصورات کے ساتھ نہیں، اُن سے اوپر رکھتی ہے۔ [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] بتاتے ہیں کہ افادیت کی قدر سمجھی جانے والی افادیت کی β = 0.43 پر پیش گوئی کرتی ہے اور کامیابی کی توقع استعمال میں آسانی کی β = 0.39 پر، جبکہ TAM کے بنیادی راستے کمزور ہوتے مگر نمایاں رہتے ہیں۔
 
+**افادیت ٹول کی بجائے کام کے سیٹ سے تعلق رکھ سکتی ہے۔** 26 STEM انڈرگریجویٹس کے چار فوکس گروپس میں، وہی مباحثہ بورڈ ان کے وقت کے قابلِ قدر تھا جب پرامپٹ نے اطلاق مانگا یا یہ دکھایا کہ ہم جماعت لوگ کیسے استدلال کرتے ہیں، اور بکس ورک تھا جب اس نے دوبارہ بیان کرنے کو کہا ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner اور Nugent, 2026]])۔ مصنفین نتیجہ کو TAM داوا کے طور پر بیان کرتے ہیں: سمجھی جانے والی افادیت بورڈ کی موجودگی کے بجائے اس بات سے جڑتی ہے کہ پرامپٹ کیسے بنایا گیا ہے۔
+
 **ٹاسک–ٹیکنالوجی فٹ بطور متوازی راستہ، اور ضرورت بطور الگ سوال۔** اوپر کی بیشتر توسیعات عقیدے کے ماڈل کے *اندر* تعمیرات جوڑتی ہیں۔ TAM مطالعات شاذ و نادر ہی اٹھانے والا ایک ہم عمر فریم ورک ٹاسک–ٹیکنالوجی فٹ ہے، جو پوچھتا ہے کہ کسی اوزار کی صلاحیتیں مخصوص کام کے تقاضوں سے میل کھاتی ہیں یا نہیں۔ [[chu-design-students-ai-agent-tam-ttf-2026|Chu اور Liu (2026)]] نے چینی یونیورسٹیوں کے 405 ڈیزائن گریجویٹ طلبہ میں دونوں کو جوڑا، اور فٹ نے افادیت کا تعین کرنے والے کے بجائے رویے میں داخل ہونے کا دوسرا راستہ کام کیا۔
 
 ٹاسک کی خصوصیات نے فٹ کو β = 0.322 اور ٹیکنالوجی کی خصوصیات نے β = 0.266 پر کھلایا۔ پھر فٹ نے رویے کو β = 0.224 پر کھلایا، سمجھی جانے والی افادیت (0.376) اور سمجھی جانے والی آسانی (0.185) کے ساتھ، اور رویے نے ارادے کو β = 0.388 پر۔ خود اعتمادی نے سب سے بڑے بالائی گتانک اٹھائے: افادیت پر 0.458 اور آسانی پر 0.394۔ سمجھی جانے والی لذت نے آسانی بڑھائی (0.220) اور افادیت کو اچھوتا چھوڑ دیا (−0.033, p = 0.483) — یہ آلہ کار/جذباتی تقسیم ہے جو کلاسیکی ماڈل نہیں کھینچتا۔
@@ -103,6 +113,8 @@ TAM کا علمی زور AI استعمال کی جذباتی اور تعلقات
 **عقائد سے اوپر ڈیزائن کی خصوصیات، اور ایسی اہمیت جو ضرورت نہیں۔** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang, Xin اور Qing (2026)]] نے 301 چینی یونیورسٹی طلبہ کے لیے دو TAM عقائد کے سامنے چھ نظام خصوصیات رکھیں، محرک–نامیہ–ردِعمل فریم ادھار لیتے ہوئے۔ شخصی سازی اور تعامل نے صرف سمجھی جانے والی افادیت کو ہلایا، جبکہ ذہانت اور مواد کی تکمیل نے صرف آسانی کو۔ جواب دہی نے دونوں کو ہلایا؛ انسانیت افزائی نے کوئی بھی نہیں۔ ماڈل نے ارادے کا R² = 0.244 بیان کیا (SRMR = 0.033)، ارادے پر آسانی افادیت سے آگے (β = 0.340 بمقابلہ 0.265)۔ دس گنا کراس-ویلیڈیٹڈ نیٹ ورک اہمیت متفق رہی، آسانی کو 100% اور افادیت کو 84.70% پر درجہ دیا۔
 
 پھر ضروری شرط کے تجزیے نے اثر کو تقاضے سے الگ کیا۔ آسانی، جو سب سے اوپر درجہ بند پیش گو تھی، مکمل ناکام رہی (d = 0, p = 0.592)۔ افادیت ضروری مگر چھوٹی تھی (d = 0.027, p = 0.011)۔ مصنفین اِس تقسیم کو راستے گتانک کو فرش سمجھنے کے خلاف احتیاط پڑھتے ہیں۔ مضبوط گتانک کہتا ہے کہ آسانی کی ایک اکائی اوسطاً ارادہ خریدتی ہے؛ صرف ضرورت بتاتی ہے کہ دوسرا عقیدہ غیر حاضر ہو سکتا ہے یا نہیں۔
+
+**بھروسے کے ذریعے گزارے گئے ڈیزائن کی خصوصیات، DOI کے ساتھ TAM کے ہمراہ۔** [[wang-ai-avatars-tam-doi-adoption-2026|Wang et al. (2026)]] نے [[ai-avatars-and-synthetic-instructors|AI اوتارز]] کے بارے میں 653 سیکھنے والوں کا سروے کیا اور پایا کہ ان کے مشترکہ TAM–DOI ماڈل میں سب سے مضبوط راستہ سمجھی جانے والی شفافیت سے [[trust|بھروسے]] تک جاتا ہے (β = 0.542)۔ نسبتی فائدہ (β = 0.267) اور سمجھی جانے والی افادیت (β = 0.247) نے رویے (β = 0.126) سے زیادہ ارادہ اٹھایا۔
 
 خطرے کا استعمال سے رشتہ نظام پر بھی منحصر ہے: 49 TALIS 2024 نظاموں میں جنہوں نے آئٹمز شامل کیے، سمجھی جانے والی AI افادیت تمام 49 میں AI استعمال کے ساتھ مثبت طور پر منسلک تھی، جبکہ سمجھا جانے والا خطرہ 40 میں منفی اور نو میں مثبت طور پر منسلک تھا ([[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin (2026)]])۔
 

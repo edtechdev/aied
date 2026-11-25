@@ -10,15 +10,15 @@ discipline: [engineering education, stem education]
 audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/engineering-education"
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-19T13:45:26-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [problem-based-learning, stem-education, cs-education, design-education, math-education, physics-education, professional-training, educational-development, assessment, ethics, higher-ed, ai-education, generative-ai]
 connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engineering-ai-curriculum-2026, pbl-biomedical-engineering-genai-2026, engineering-faculty-metaphors-ai-understanding-2026, tam-critical-use-genai-engineering-2026, socio-cognitive-genai-adoption-engineering-2026, ethical-use-ai-engineering-education-review-2026, multimodal-embodied-cognition-oral-explanations-2026, ai-engineering-computing-workforce-grey-literature-2026, ai-engineering-education-balancing-act, structured-ai-demonstrations-engineering-mechanics, isaza-chatgpt-engineering-prompting-2026, liu-ai-sustainable-engineering-education-2026, yin-arthur-ai-teaching-assistant-engineering-econ-2026, genai-xr-architectural-design-education-2026, habit-over-intention-genai-help-seeking-engineering-2026]
@@ -47,6 +47,7 @@ connected_articles: [apostolakis-trusstutor-bench-statics-2026, mechanical-engin
 - **جسمانی اور [[multimodal|کثیر-نما]] جانچ:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] ایک کثیر-نما فریم ورک تیار کرتے ہیں جو کمپیوٹر وژن سے اشاروں کی ٹریکنگ کو گفتار کے [[llm|LLM]] تجزیے کے ساتھ جوڑتا ہے تاکہ انجینئرنگ طلبہ کے اعداد و شمار کی تصوراتی سمجھ کا اندازہ لگایا جا سکے، اور دکھاتے ہیں کہ اشارہ گفتار سے آگے تشخیصی ثبوت کا اضافہ کرتا ہے اور اشارے و گفتار کا قریبی جوڑ مربوط سمجھ کی علامت ہے۔
 - **افرادی قوت کی تبدیلی:** [[ai-engineering-computing-workforce-grey-literature-2026|Fletcher et al.]] AI اور انجینئرنگ/کمپیوٹنگ افرادی قوت پر امریکی خاکستری لٹریچر کا جائزہ لیتے ہیں، "دوہری ٹرین کا مسئلہ" (تیز تبدیلی بمقابلہ فوری پالیسی) کی تشکیل کرتے ہیں، اور پائیدار AI قابلیتوں، [[ethics|اخلاقیات]] اور [[governance|حکمرانی]]، اور ابھرتے کرداروں کے لیے ہنر پر مبنی اسناد کی سفارش کرتے ہیں۔
 - **طلبہ کا اختیار اور انحصار:** [[tam-critical-use-genai-engineering-2026|Nguyen et al.]] ٹیکنالوجی قبولیت ماڈل کو *تنقیدی استعمال* سے بڑھاتے ہیں تاکہ یہ ماڈل بنایا جا سکے کہ انجینئرنگ/CS طلبہ [[generative-ai|GenAI]] استعمال کرنے کے ارادے کیسے بناتے ہیں اور یہ ارادہ سمجھ، جانچ، پروگرامنگ اور انجینئرنگ-منصوبے کے کاموں میں انحصار کی پیش گوئی کیسے کرتا ہے — اور پاتے ہیں کہ سمجھ سے متعلق کاموں میں انحصار معتدل اور مناسب ہے مگر استعمال بھاری، جبکہ مکمل جانچ لکھنے میں استعمال محدود ہے۔ [[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]] TAM کو [[technology-acceptance-model|UTAUT]] کے ساتھ ملا کر بنگلہ دیشی انجینئرنگ طلبہ کے اختیار کا ماڈل بناتے ہیں، استعمال کے تغیر کا 64% بیان کرتے ہیں اور ملازمت کی مطابقت، نتیجے کے مظاہرے کی صلاحیت اور موضوعی معیارات کو کلیدی محرک قرار دیتے ہیں۔
+- **عادت شخص کا مقام لے لیتی ہے:** عادت، نیت نہیں، طے کرتی ہے کہ GenAI دستیاب ہونے کے بعد فلپینی انجینئرنگ طلبہ اور اساتذہ لوگوں سے مدد کم مانگتے ہیں، اور تعلیمی سلامتی کی فکر واحد ساخت ہے جو اُس اثر کو کم کرتی ہے ([[habit-over-intention-genai-help-seeking-engineering-2026|Pao، Domingo اور Bernardo، 2026]])۔
 - **[[prompt-engineering|پرامپٹنگ]] حکمتِ عملی کارکردگی کی پیش گوئی کرتی ہے، استعمال کے حجم کی نہیں:** 128 چوتھے سال کے انجینئرنگ طلبہ میں، AI Query Efficiency اور AI-Driven Problem-Solving تعلیمی کامیابی کے سب سے مضبوط پیش گو تھے اور مجموعی GPA کو کنٹرول کرنے کے بعد بھی معنوی رہے ([[isaza-chatgpt-engineering-prompting-2026|Isaza Dominguez et al. (2026)]])۔
 
 - **طلبہ کے اپنے مجاز اوزار کی فراہمی سے آگے نکل جاتے ہیں:** [[ai-engineering-education-balancing-act|Kudina (2026)]] نے پایا کہ 100 انجینئرنگ طلبہ نے LLM کو تحریری مدد، تصوراتی وضاحت اور کوڈنگ کے لیے سب سے زیادہ قدر دی، مگر انہیں "پیش گو" اور "ٹیوٹر" قرار دیا — ایسی اختیار اور [[personalized-learning|ذاتی نوعیت]] جو ایک احتمال پر مبنی متن تیار کرنے والا فراہم نہیں کر سکتا، یعنی ایک "ظالمانہ امید" جو تصدیق کے ان ہنروں پر منحصر ہے جو طلبہ ابھی بنا رہے ہیں۔

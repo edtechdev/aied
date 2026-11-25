@@ -7,15 +7,19 @@ pedagogy: [behaviorism, learning-theories]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/behaviorism"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [constructivist, cognitive-psychology, learning-design, adaptive-learning, intelligent-tutoring, feedback, formative-assessment, self-regulated-learning, agency, cognitive-offloading, learning-theories]
 connected_articles: [ai-vocational-education-training-review, generativism-learning-theory, ccct-cooperative-learning-technique, wang-multi-agent-systems-learning-designers-2025, sequenced-ai-feedback-learning]
@@ -72,7 +76,7 @@ connected_articles: [ai-vocational-education-training-review, generativism-learn
 
 ## رویہ پرستی اور "AI کے بارے میں تعلیم"
 
-رویہ پرستی اِس بات میں بھی نظر آتی ہے کہ سیکھنے والے AI سے بطور موضوع کیسے واقف ہوتے ہیں۔ یہ نظریہ اُن چار غالب [[learning-theories|نظریاتِ سیکھنا]] میں سے ایک ہے — رویہ پرستی، معرفتیت، تعمیریت اور کنیکٹیویزم — جن پر [[generative-ai|جنریٹو AI]] اساتذہ کو دوبارہ غور کرنے پر اکسا رہا ہے۔([[generativism-learning-theory]]) اِس کا حوالہ تعاونی سیکھنے اور ڈیزائن کے سیاق میں بھی دیا جاتا ہے، بطور اُس نظریاتی پس منظر کا حصہ جو سیکھنے والوں کو پڑھایا جاتا ہے۔([[ccct-cooperative-learning-technique]]) رویہ پرستی کو سمجھنا سیکھنے والوں کو یہ دیکھنے میں مدد دیتا ہے کہ بہت سے AI ٹول (اور اُن پر بنی مصنوعات) گہری تعمیر کے بجائے ردِعمل اور تقویت کے لیے کیوں ڈیزائن کیے گئے ہیں۔
+رویہ پرستی اِس بات میں بھی نظر آتی ہے کہ سیکھنے والے AI سے بطور موضوع کیسے واقف ہوتے ہیں۔ یہ نظریہ اُن چار غالب [[learning-theories|نظریاتِ سیکھنا]] میں سے ایک ہے — رویہ پرستی، معرفتیت، تعمیریت اور کنیکٹیویزم — جن پر [[generative-ai|جنریٹو AI]] [[prompt-engineering|پرامپٹنگ]] کر کے اساتذہ کو دوبارہ غور کرنے پر اکسا رہا ہے۔([[generativism-learning-theory]]) اِس کا حوالہ تعاونی سیکھنے اور ڈیزائن کے سیاق میں بھی دیا جاتا ہے، بطور اُس نظریاتی پس منظر کا حصہ جو سیکھنے والوں کو پڑھایا جاتا ہے۔([[ccct-cooperative-learning-technique]]) رویہ پرستی کو سمجھنا سیکھنے والوں کو یہ دیکھنے میں مدد دیتا ہے کہ بہت سے AI ٹول (اور اُن پر بنی مصنوعات) گہری تعمیر کے بجائے ردِعمل اور تقویت کے لیے کیوں ڈیزائن کیے گئے ہیں۔
 
 ## ڈیزائن اور تحقیق کے لیے مضمرات
 

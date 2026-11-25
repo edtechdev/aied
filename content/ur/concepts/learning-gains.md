@@ -9,9 +9,9 @@ page_kind: [evaluation]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods]
 confidence: high
 methods: [ai-ed-evaluation]
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/learning-gains"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-24T09:30:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -19,8 +19,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [rct, meta-analysis-systematic-review, formative-assessment, summative-assessment, cognitive-offloading, math-education, human-in-the-loop-ai, affective-tutoring, theory-development-aied, self-report-measures, research-methods-aied, social-emotional-learning, student-support-and-success]
-connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot-fast-forgettable-2026, epistemological-audit-genai-meta-analyses-2026, contractor-learning-impact-generative-ai-2026, kestin-ai-tutoring-outperforms-active-learning-rct-2025, genai-performance-vs-learning, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, one-click-away-khanmigo-two-year-school-experiment-2026, ai-literacy-assessment-misalignment, generative-ai-reduced-study-time-math, genai-meta-analysis-programming-learning, liu-ai-literacy-interventions-meta-analysis-2026, chatgpt-hints-human-tutor-learning-gains-2024, generative-ai-guardrails-harm-learning, absent-cognitive-baseline-2026, oecd-digital-education-outlook-2026, ai-changing-teaching-workflows, robot-assisted-language-learning-meta-analysis-2026, genai-educational-outcomes-meta-analysis, young-people-learning-generative-ai-rapid-review-2026, stromberg-generative-ai-learning-penalty-secondary-2026, ai-assisted-collaborative-learning-model-dbr, stanford-evidence-base-ai-k12-2026, jost-llm-programming-education-learning-outcomes, genai-can-harm-teaching-rct-2026, zhao-genai-higher-order-thinking-meta-2026, mujib-ai-ibl-creative-math-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ccct-cooperative-learning-technique, scaffolding-srl-feedback-genai-human-peers, learner-ai-interaction-patterns-oop, ai-feedback-critical-thinking-writing-2026, pedagogy-ai-mistakes, computational-thinking-aica-2026, burneo-can-edtech-close-learning-gaps-2026, gpt4-feedback-student-activation-2026, rachatasumrit-example-problem-ratio-2026, oppenheimer-llms-collaborative-learning-partners-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, ai-supported-instruction-stem-meta-analysis-2026, ai-education-effects-second-order-meta-analysis-2026, studentbench-ai-human-tutoring-gre-2026, rodrigues-aied-unplugged-numeracy-2026]
+connected_articles: [absent-cognitive-baseline-2026, ai-assisted-collaborative-learning-model-dbr, ai-changing-teaching-workflows, ai-education-effects-second-order-meta-analysis-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-feedback-critical-thinking-writing-2026, ai-literacy-assessment-misalignment, ai-supported-instruction-stem-meta-analysis-2026, bartos-ai-learning-meta-meta-analysis-2026, burneo-can-edtech-close-learning-gaps-2026, ccct-cooperative-learning-technique, chatgpt-hints-human-tutor-learning-gains-2024, chen-genai-programming-understanding-2026, computational-thinking-aica-2026, contractor-learning-impact-generative-ai-2026, epistemological-audit-genai-meta-analyses-2026, gardella-copilot-fast-forgettable-2026, genai-can-harm-teaching-rct-2026, genai-educational-outcomes-meta-analysis, genai-meta-analysis-programming-learning, genai-performance-vs-learning, generative-ai-guardrails-harm-learning, generative-ai-reduced-study-time-math, gpt4-feedback-student-activation-2026, jost-llm-programming-education-learning-outcomes, kestin-ai-tutoring-outperforms-active-learning-rct-2025, learner-ai-interaction-patterns-oop, liu-ai-literacy-interventions-meta-analysis-2026, making-ai-tutoring-productive-mastery-math-2026, mujib-ai-ibl-creative-math-2026, oecd-digital-education-outlook-2026, one-click-away-khanmigo-two-year-school-experiment-2026, oneill-presumed-effective-meta-analysis-2026, oppenheimer-llms-collaborative-learning-partners-2026, pedagogy-ai-mistakes, rachatasumrit-example-problem-ratio-2026, robot-assisted-language-learning-meta-analysis-2026, rodrigues-aied-unplugged-numeracy-2026, scaffolding-srl-feedback-genai-human-peers, smith-online-pretests-generative-ai-physics-2026, stanford-evidence-base-ai-k12-2026, stromberg-generative-ai-learning-penalty-secondary-2026, studentbench-ai-human-tutoring-gre-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, weidlich-chatgpt-effect-search-cause-2025, young-people-learning-generative-ai-rapid-review-2026, zhao-genai-higher-order-thinking-meta-2026, ma-ai-cal-rct-rural-china-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -50,11 +54,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - **[[burneo-can-edtech-close-learning-gaps-2026|عالمی بینک کا میٹا تجزیہ]]** 14 RCTs سے 191 اثرات کے حجم یکجا کر کے تخمینہ لگاتا ہے کہ موافقتی اور AI سے لیس تعلیمی ٹیکنالوجی اوسطاً سیکھنے کو تقریباً 0.125 sd بڑھاتی ہے — جو تعلیمی RCTs کے وسطانیے سے اوپر ہے — جبکہ جنریٹو AI کو پہلے کے موافقتی اوزاروں پر کوئی برتری نہیں پاتا۔
 - **اضافے مواد اور طریقہ کار کے تعامل ہیں، مستقل مقداریں نہیں۔** [[rachatasumrit-example-problem-ratio-2026|راچاٹاسمرت اور ساتھی (2025)]] دکھاتے ہیں کہ مثال اور مسئلے کا بہترین تناسب علم کے مواد پر منحصر ہے: خالص [[retrieval-spacing-interleaving|حافظے سے یاد کرنے کی مشق]] لفظی حقائق کے لیے زیادہ اضافہ دیتی ہے، جبکہ مثالوں سے جڑی مشق (حل شدہ مثالوں اور مسئلوں کی باری باری) عام قابلِ منتقلی مہارتوں کے لیے زیادہ اضافہ دیتی ہے — یہ براہِ راست ثبوت ہے کہ "زیادہ مشق" ہمیشہ بہتر نہیں ہوتی اور یہ کہ اضافے کا انحصار تربیتی شیڈول کو اُس علمی جزو کے مطابق بنانے پر ہے جو سیکھا جا رہا ہے۔
 
-### AI کے دور میں پیمائش کا مسئلہ
+## AI کے دور میں پیمائش کا مسئلہ
 
 علم بنیاد کی سیکھنے کے اضافے کی تحقیق کا ایک مرکزی موضوع یہ ہے کہ **جنریٹو AI ظاہری کارکردگی کو بڑھا سکتا ہے بغیر سیکھنے کا اضافہ پیدا کیے** — اور یہ کہ نتیجہ ناپنے کے انتخاب سے ہی طے ہوتا ہے کہ یہ بات نظر آتی ہے یا نہیں۔ [[generative-ai-reduced-study-time-math|تحقیق]] اور [[stromberg-generative-ai-learning-penalty-secondary-2026|بڑے پیمانے کے میدانی ڈیٹا]] ایک واضح دوری دکھاتے ہیں: AI کا استعمال AI کی مدد سے کیے گئے ہوم ورک کے نمبر بہتر بناتا ہے جبکہ نگرانی والے، بند کتاب، بغیر مدد کے پیمانوں کے نمبر *کم* کر دیتا ہے۔ [[genai-performance-vs-learning|کارکردگی بمقابلہ سیکھنے کی تحقیق]] اور [[young-people-learning-generative-ai-rapid-review-2026|فوری جائزے]] اسی لیے AI کی مدد سے فوری کارکردگی اور پائیدار سیکھنے میں فرق کرتے ہیں، اور بغیر مدد کے حتمی پیمانوں (دیکھیں [[summative-assessment]]) کو حقیقی سیکھنے کے اضافے کا قابلِ اعتماد اشارہ سمجھتے ہیں۔
 
-### تاثیر کی تحقیق کیا دکھاتی ہے
+بنیادی سطح بھی بڑھا چڑھا کر پیش کی جا سکتی ہے۔ 39 فزکس پیش جانچ کے سوالات میں، درست جوابات میں خزاں 2024 سے 36% تک اضافہ ہوا — اوسطاً تقریباً 15% — جبکہ اُن سوالات پر کمی آئی جن کا جواب ٹول نے غلط دیا تھا، چنانچہ پیش و بعد کا موازنہ ایسا اضافہ درج کر سکتا ہے جسے تدریس نے کبھی پیدا نہیں کیا ([[smith-online-pretests-generative-ai-physics-2026|Smith et al., 2026]])۔ وہ پیش جانچ جو ابتدائی نقطہ طے کرتی ہے اسے بعد کی جانچ کے ساتھ یکساں بغیر مدد کے شرائط درکار ہیں۔
+
+## تاثیر کی تحقیق کیا دکھاتی ہے
 
 علم بنیاد کی [[rct|RCTs]]، [[meta-analysis-systematic-review|میٹا تجزیوں]] اور میدانی مطالعات میں **سیکھنے کی تاثیر** کی ایک مستقل تصویر ابھرتی ہے (کون سی AI مداخلتیں واقعی سیکھنے کا اضافہ پیدا کرتی ہیں، اور کتنا بڑا):
 
@@ -74,7 +80,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 - **AI ٹیوٹرنگ معیاری امتحان کے اضافے میں ماہر انسانی ٹیوٹرنگ کا ہم پلہ ہو سکتی ہے۔** 2,383 شرکاء کے ایک جائزے میں، یکجا AI ٹیوٹرنگ GRE سیکھنے کے اضافے میں ماہر انسانی ٹیوٹرنگ کے اعداد و شمار کے لحاظ سے برابر رہی (p = .015)، اور دونوں بغیر ٹیوٹرنگ کے کنٹرول سے اوپر رہے؛ مصنفین ٹیوٹرز کا موازنہ کرنے کے لیے فی صد پوائنٹ اضافے کی لاگت کو اکائی کے طور پر تجویز کرتے ہیں ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]])۔
 
-### سیکھنے اور کامیابی پر AI کے اثرات کا میدان کی سطح پر نقشہ
+## سیکھنے اور کامیابی پر AI کے اثرات کا میدان کی سطح پر نقشہ
 
 علم بنیاد کا ذخیرہ — میٹا تجزیے، RCTs، نیم تجربات اور میدانی مطالعات — ایک باریک بین، بعض اوقات متضاد تصویر کی تائید کرتا ہے۔ دریافتیں مثبت، منفی اور مشروط اثرات میں جھرمٹ بناتی ہیں۔
 
@@ -95,6 +101,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - **AI بعض کے لیے [[teacher-role|تدریس]] اور کامیابی کو نقصان پہنچا سکتا ہے۔** [[genai-can-harm-teaching-rct-2026|اساتذہ کے لیے GenAI کا ایک RCT]] نے پایا کہ وسطانیے سے نیچے کے اساتذہ کے طلبہ نے زمین کھو دی (−0.129 SD)۔
 - **اشاروں کا غلط استعمال کم سیکھنے سے تعلق رکھتا ہے۔** [[lak2026-hint-button-unproductive-use|اشارے کے بٹن کی تحقیق]] دکھاتی ہے کہ زیادہ اشارے، غیر پیداواری طور پر استعمال ہوں تو کم سیکھنے سے تعلق رکھتے ہیں۔
 - **میٹا تجزیاتی پروگرامنگ اضافے فریب نظر ہیں۔** [[genai-meta-analysis-programming-learning|GenAI اور پروگرامنگ کا میٹا تجزیہ]] بڑے پیداواری اضافے مگر کوئی نمایاں سیکھنے کا اضافہ نہیں پاتا (g ≈ 0)، جس سے کام کی کارکردگی پائیدار سیکھنے سے الگ ہو جاتی ہے۔
+- **بڑے [[adaptive-learning|موافقتی]]-CAL تجربے میں ایک درست صفر۔** چین کے 105 دیہی ابتدائی اسکولوں کے 8,647 طلبہ میں، AI سے چلنے والا موافقتی پروگرام ملایا گیا غیر موافقتی نسخے کے مقابل میں -0.037 SD اسکور کیا، اور وقفہ +0.01 SD سے اوپر کسی چیز کو خارج کرتا ہے۔ بالکل کوئی CAL نہ ہونے کے مقابل میں تخمینہ -0.036 SD تھا، اور کسی بھی بنیادی کامیابی کے تہائی حصے میں مثبت اثر نہیں دکھا؛ باقاعدہ CAL نے درمیانے تہائی حصے کے طلبہ میں معتدل اضافہ پیدا کیا ([[ma-ai-cal-rct-rural-china-2026|Ma et al., 2026]])۔
 
 **مشروط اور ملی جلی اثرات (سیاق و سباق سمت کا تعین کرتا ہے):**
 - **ڈیزائن فیصلہ کن ہے۔** ایک ہی قسم کا اوزار، ترتیب کے مطابق، مضبوط اضافہ یا خالص نقصان ہو سکتا ہے ([[generative-ai-guardrails-harm-learning]]، [[stanford-evidence-base-ai-k12-2026]])۔
@@ -104,7 +111,7 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - **AI-IBL تخلیقیت کی حمایت کرتا ہے مگر لازماً مسئلہ حل کرنے کی نہیں۔** [[mujib-ai-ibl-creative-math-2026|Mujib et al.]] نے تخلیقی کارکردگی اور رویوں کو بہتر بنایا مگر تنقیدی مسئلہ حل کرنے کو نہیں۔
 - **[[student-experience|طلبہ کا تجربہ]] ناپے گئے اضافوں سے الگ ہو جاتا ہے۔** [[absent-cognitive-baseline-2026|AI کے ساتھ پیدا ہونے والے طلبہ اپنی سیکھنے کی مقدار بڑھا چڑھا کر بتاتے ہیں]]، اور [[ai-literacy-assessment-misalignment|خود رپورٹ کارکردگی سے ہم آہنگ نہیں ہوتی]] — اضافے کا محسوس ہونا اُن کا قابلِ اعتماد ثبوت نہیں۔
 
-### میٹا تجزیاتی سیکھنے کے اضافے کے تخمینے بڑھے ہوئے ہیں — اُنہیں احتیاط سے پڑھیں
+## میٹا تجزیاتی سیکھنے کے اضافے کے تخمینے بڑھے ہوئے ہیں — اُنہیں احتیاط سے پڑھیں
 
 اِس صفحے کے تاثیر کے خلاصے پر چھانے ہوئے سیکھنے کے اضافے کے اعداد — خصوصاً میٹا تجزیوں سے یکجا شدہ اثرات کے حجم — ایک سخت انتباہ کے ساتھ پڑھنے چاہئیں: میٹا تحقیق کی ایک لہر دکھاتی ہے کہ میدان کے مثبت ترکیبی تخمینے اشاعت تعصب، تصوراتی عدم ہم آہنگی اور طریقہ کارانہ شارٹ کٹس کی وجہ سے بڑھے ہوئے ہیں۔
 
@@ -117,21 +124,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 
 **اوپر کے اضافے کے اعداد کے لیے حتمی بات:** AI کے بڑے یکجا شدہ اثرات کے حجم کو بالائی حد سمجھیں، نقطہ تخمینہ نہیں۔ اچھی طرح ڈیزائن کیے گئے [[rct|RCTs]] اور بغیر مدد، معیاری نتیجہ پیمانوں والے میدانی مطالعات (گارڈ ریل RCT، Khanmigo اور NUMI کے تجربات، اور اوپر مذکور عالمی بینک کا تعلیمی ٹیکنالوجی میٹا تجزیہ) سے سیکھنے کے اضافے کے شواہد کو ترجیح دیں، اور میٹا تجزیاتی اضافوں کو عارضی اور ممکنہ طور پر بڑھا چڑھا کر بتایا ہوا پڑھیں جب تک ترکیب کا معیار بہتر نہ ہو۔ یہ مسئلہ تصحیح سے بھی زیادہ عمر رکھتا ہے: ایک جانچے گئے میٹا تجزیے کے واپس لیے جانے کے بعد شائع ہونے والے مقالوں میں 60% نے پھر بھی اُسے ChatGPT کے بڑے سیکھنے کے اضافوں کے مستند ثبوت کے طور پر حوالہ دیا اور کسی نے واپسی کا ذکر نہ کیا، اس لیے ایک واپس لیا گیا تخمینہ سفر کرتا رہتا ہے۔ اسی لیے [[limitations-in-aied-research|AIEd تحقیق کی حدود]] کا صفحہ اب میٹا تجزیاتی شواہد کے بحران کو تفصیل سے دستاویز کرتا ہے۔
 
-### جو اہم ہے اُسے ناپنا
+## جو اہم ہے اُسے ناپنا
 
 سیکھنے میں اضافہ [[assessment-validity]] سے جڑتا ہے — اگر [[assessment|جانچ]] گہری سمجھ کو نہ پکڑ سکے تو سیکھنے کے اضافے کے پیمانے گمراہ کن ہوتے ہیں۔ یہ [[cognitive-offloading|حد سے زیادہ انحصار]] اور [[cognitive-offloading]] سے بھی جڑتا ہے، جہاں کارکردگی میں ظاہری بہتری سیکھنے کے نقصان کو چھپا سکتی ہے، اور [[rct]] سے (بے ترتیب آزمائشیں سببی سیکھنے کے اضافے پکڑنے کا معیاری ڈیزائن)، اور [[meta-analysis-systematic-review]] سے (مطالعات میں اثرات کے حجم یکجا کر کے میدان کے تاثیر کے شواہد قائم کرنا)۔
 
 - **غلطی پر مبنی AI [[pedagogy|پيدگوجی]] سے نمایاں پیش و بعد کے اضافے:** [[pedagogy-ai-mistakes|Hosseini (2026)]] کے ڈیٹا بیس ڈیزائن کورس (n=13) نے یکساں پیش و بعد کے سوالات پر بڑے، نمایاں سیکھنے کے اضافے دکھائے (اوسط 4.25→6.83/7، Cohen's *d*=1.49، *p*<.001)، اور اضافے سابقہ AI یا ڈیٹا بیس اعتماد سے غیر مرتبط تھے — AI سے جڑا تنقیدی اصلاح کا ڈیزائن ابتدائی تاثرات سے قطع نظر طلبہ کو فائدہ دیتا رہا۔
 
-## عام غلط فہمیاں
-
-**"نمبر بڑھ گئے، پس مداخلت نے سیکھنا پیدا کیا۔"** یہ وہ تعریفی غلطی ہے جسے روکنے کے لیے یہ صفحہ موجود ہے، اور میدانی ڈیٹا بیک وقت دونوں سمتیں دکھاتا ہے: AI کا استعمال AI کی مدد سے کیے گئے ہوم ورک کے نمبر بہتر بناتا ہے جبکہ نگرانی والے، بند کتاب، بغیر مدد کے پیمانوں کے نمبر *کم* کر دیتا ہے ([[generative-ai-reduced-study-time-math]]؛ [[stromberg-generative-ai-learning-penalty-secondary-2026]])۔ پیمانے کا انتخاب طے کرتا ہے کہ بڑھوتری نظر آئے یا نہ، اس لیے AI کی اجازت والے کام پر اضافہ کام کی کارکردگی کے بارے میں دعوی ہے، [[genai-performance-vs-learning|سیکھنے]] کے بارے میں نہیں۔
-
-**"میٹا تجزیہ سوال طے کر دیتا ہے: اثر بڑا ہے۔"** یکجا کرنے کی سمت اور یکجا کرنے کی مقدار دو الگ حقائق ہیں، اور مقدار شاذ و نادر ہی جانچ میں کھری اترتی ہے۔ [[genai-meta-analysis-programming-learning|پروگرامنگ میں GenAI کا میٹا تجزیہ]] بڑے *پیداواری* اضافے ساتھ میں **کوئی نمایاں سیکھنے کا اضافہ** نہیں پاتا (g ≈ 0)۔ [[burneo-can-edtech-close-learning-gaps-2026|عالمی بینک کا میٹا تجزیہ]]، 14 RCTs سے 191 اثرات کے حجم یکجا کر کے، موافقتی اور AI سے لیس تعلیمی ٹیکنالوجی کے لیے تقریباً 0.125 sd کا تخمینہ لگاتا ہے — وسطانی تعلیمی RCT کے مقابل معقول، مگر **جنریٹو AI کو پہلے کے موافقتی اوزاروں پر کوئی برتری نہیں**۔ GPT دور کے مطالعات کو کوئی زمرہ جاتی چھلانگ سمجھ کر حوالہ دینا یکجا شدہ شواہد کے دعوے سے بڑھ کر بولنا ہے۔
-
-**"زیادہ مشق اور زیادہ [[personalized-learning|ذاتی نوعیت]] ہمیشہ مدد کرتی ہے۔"** اضافے کا حجم اس پر منحصر ہے کہ کیا تربیت دی جا رہی ہے، نہ کہ کتنا سہارا مہیا کیا جاتا ہے۔ [[rachatasumrit-example-problem-ratio-2026|راچاٹاسمرت اور ساتھی (2025)]] بتاتے ہیں کہ حل شدہ مثالوں اور مسئلوں کا بہترین امتزاج ہدف مہارت کے ساتھ بدلتا ہے: خالص حافظے سے یاد کرنے کی مشق لفظی حقائق کے لیے زیادہ اضافہ دیتی ہے، جبکہ مثالوں اور مسئلوں کی باری باری عام قابلِ منتقلی مہارتوں کے لیے زیادہ اضافہ دیتی ہے۔ اور [[lak2026-hint-button-unproductive-use|اشارے کے بٹن کی تحقیق]] اشاروں کی تعداد کو سیکھنے سے منفی طور پر وابستہ پاتی ہے۔ وہی "سہارا" جو ایک علمی جزو کی مدد کرتا ہے دوسرے کو ضائع کر سکتا ہے۔
-
-**"دیر سے لیے گئے بعد کے امتحان کا نتیجہ خود بخود پائیدار سیکھنے کا نتیجہ ہے۔"** تاخیر ضروری ہے مگر کافی نہیں۔ اِس ذخیرے میں پائیدار سیکھنے کو ممتاز کرنے والی چیز تاخیر کی حالتوں میں *بغیر مدد* پیمائش ہے، ساتھ میں یہ ثبوت کہ اثر اُس اسکیفولڈ کی وجہ سے نہیں جو منتقلی کے وقت موجود نہ ہوگا۔
+جدید ترین تجربات اُس نمونے پر ایک حد طے کرتے ہیں، اس کے مقابل میں نہیں۔ شروعات کرنے والے طلبہ جنہیں ChatGPT ملا وہ اُن شروعات کرنے والوں سے کہیں زیادہ تیار شدہ امتحانات میں کامیاب رہے (410.7 بمقابلہ 80.7) حالانکہ ان کی سمجھ میں کوئی بہتری نہیں ہوئی، اور درمیانے طلبہ کو کچھ نہ ملا ([[chen-genai-programming-understanding-2026|Chen et al., 2026]])۔ دوسرے تجربے میں Copilot کا 14.09 پوائنٹ کا فائدہ ایک ہفتے بعد بغیر مدد کے دوبارہ جانچ پر غائب ہو گیا ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]])۔ اس ادب میں بقا استثنا ہے، اس لیے بقا رپورٹ کرنے والا مطالعہ کام اور سہارے کے ڈیزائن کے بارے میں شہادت ہے، AI کی معاونت کے عام طور پر نہیں۔
 
 ## عمل کے لیے مضمرات
 
@@ -152,3 +151,13 @@ connected_articles: [chen-genai-programming-understanding-2026, gardella-copilot
 - نتیجہ ناپنے کے پیمانے کو پیشگی رجسٹر کریں اور بتائیں کہ وہ AI کی اجازت والا ہے یا بغیر مدد۔ دریافت کی سمت صرف اِس انتخاب سے پلٹ سکتی ہے۔
 - اثرات کے حجم کا موازنہ کسی نامزد موازنہ سے کریں، نہ کہ مجرد "روایتی طریقوں" سے۔ عالمی بینک کا نتیجہ صرف اِس لیے قابلِ تشریح ہے کہ وہ اپنے موازنہ طبقے کا نام لیتا ہے۔
 - کارکردگی کی بڑھوتری اور سیکھنے کی نقل مکانی میں واضح فرق کریں، کیونکہ دونوں الگ علاج تجویز کرتے ہیں — کام کا دوبارہ ڈیزائن بمقابلہ دوبارہ تدریس۔
+
+## عام غلط فہمیاں
+
+**"نمبر بڑھ گئے، پس مداخلت نے سیکھنا پیدا کیا۔"** یہ وہ تعریفی غلطی ہے جسے روکنے کے لیے یہ صفحہ موجود ہے، اور میدانی ڈیٹا بیک وقت دونوں سمتیں دکھاتا ہے: AI کا استعمال AI کی مدد سے کیے گئے ہوم ورک کے نمبر بہتر بناتا ہے جبکہ نگرانی والے، بند کتاب، بغیر مدد کے پیمانوں کے نمبر *کم* کر دیتا ہے ([[generative-ai-reduced-study-time-math]]؛ [[stromberg-generative-ai-learning-penalty-secondary-2026]])۔ پیمانے کا انتخاب طے کرتا ہے کہ بڑھوتری نظر آئے یا نہ، اس لیے AI کی اجازت والے کام پر اضافہ کام کی کارکردگی کے بارے میں دعوی ہے، [[genai-performance-vs-learning|سیکھنے]] کے بارے میں نہیں۔
+
+**"میٹا تجزیہ سوال طے کر دیتا ہے: اثر بڑا ہے۔"** یکجا کرنے کی سمت اور یکجا کرنے کی مقدار دو الگ حقائق ہیں، اور مقدار شاذ و نادر ہی جانچ میں کھری اترتی ہے۔ [[genai-meta-analysis-programming-learning|پروگرامنگ میں GenAI کا میٹا تجزیہ]] بڑے *پیداواری* اضافے ساتھ میں **کوئی نمایاں سیکھنے کا اضافہ** نہیں پاتا (g ≈ 0)۔ [[burneo-can-edtech-close-learning-gaps-2026|عالمی بینک کا میٹا تجزیہ]]، 14 RCTs سے 191 اثرات کے حجم یکجا کر کے، موافقتی اور AI سے لیس تعلیمی ٹیکنالوجی کے لیے تقریباً 0.125 sd کا تخمینہ لگاتا ہے — وسطانی تعلیمی RCT کے مقابل معقول، مگر **جنریٹو AI کو پہلے کے موافقتی اوزاروں پر کوئی برتری نہیں**۔ GPT دور کے مطالعات کو کوئی زمرہ جاتی چھلانگ سمجھ کر حوالہ دینا یکجا شدہ شواہد کے دعوے سے بڑھ کر بولنا ہے۔
+
+**"زیادہ مشق اور زیادہ [[personalized-learning|ذاتی نوعیت]] ہمیشہ مدد کرتی ہے۔"** اضافے کا حجم اس پر منحصر ہے کہ کیا تربیت دی جا رہی ہے، نہ کہ کتنا سہارا مہیا کیا جاتا ہے۔ [[rachatasumrit-example-problem-ratio-2026|راچاٹاسمرت اور ساتھی (2025)]] بتاتے ہیں کہ حل شدہ مثالوں اور مسئلوں کا بہترین امتزاج ہدف مہارت کے ساتھ بدلتا ہے: خالص حافظے سے یاد کرنے کی مشق لفظی حقائق کے لیے زیادہ اضافہ دیتی ہے، جبکہ مثالوں اور مسئلوں کی باری باری عام قابلِ منتقلی مہارتوں کے لیے زیادہ اضافہ دیتی ہے۔ اور [[lak2026-hint-button-unproductive-use|اشارے کے بٹن کی تحقیق]] اشاروں کی تعداد کو سیکھنے سے منفی طور پر وابستہ پاتی ہے۔ وہی "سہارا" جو ایک علمی جزو کی مدد کرتا ہے دوسرے کو ضائع کر سکتا ہے۔
+
+**"دیر سے لیے گئے بعد کے امتحان کا نتیجہ خود بخود پائیدار سیکھنے کا نتیجہ ہے۔"** تاخیر ضروری ہے مگر کافی نہیں۔ اِس ذخیرے میں پائیدار سیکھنے کو ممتاز کرنے والی چیز تاخیر کی حالتوں میں *بغیر مدد* پیمائش ہے، ساتھ میں یہ ثبوت کہ اثر اُس اسکیفولڈ کی وجہ سے نہیں جو منتقلی کے وقت موجود نہ ہوگا۔

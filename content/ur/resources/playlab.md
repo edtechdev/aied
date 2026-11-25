@@ -25,12 +25,16 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [ai-literacy, learning-design, generative-ai, rag, human-in-the-loop-ai, privacy, guardrails, educational-technology-developers, teacher-ai-competency]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
 
-**Playlab** ایک تخلیقی پلیٹ فارم ہے جہاں ماہرینِ تعلیم کسی اور کے سانچے میں سے چننے کے بجائے اپنے AI ایپس بناتے ہیں۔ ایک ایپ عام ماڈل علم کے بجائے [[rag|آپ کے اپنے نصاب]]، ربرکس اور حوالوں پر ٹکی ہوتی ہے، آپ کے چنے ہوئے ماڈل پر چلتی ہے (Anthropic، OpenAI، Google، Meta) اور بناتے وقت لاگت نظر آتی رہتی ہے، اور Illustrative Mathematics، OpenSciEd، ریاستی معیارات اور OER Commons کے پہلے سے نقشہ شدہ [[knowledge-graph|علم کے گراف]] سے مواد لے سکتی ہے۔
+**Playlab** ایک تخلیقی پلیٹ فارم ہے جہاں ماہرینِ تعلیم کسی اور کے سانچے میں سے چننے کے بجائے اپنے AI ایپس بناتے ہیں۔ ایک ایپ عام ماڈل علم کے بجائے [[rag|آپ کے اپنے نصاب]]، [[rubrics|ربرک]]س اور حوالوں پر ٹکی ہوتی ہے، آپ کے چنے ہوئے ماڈل پر چلتی ہے (Anthropic، OpenAI، Google، Meta) اور بناتے وقت لاگت نظر آتی رہتی ہے، اور Illustrative Mathematics، OpenSciEd، ریاستی معیارات اور OER Commons کے پہلے سے نقشہ شدہ [[knowledge-graph|علم کے گراف]] سے مواد لے سکتی ہے۔
 
 ## اس سے آپ کیا کر سکتے ہیں
 بنائیں اور دوبارہ بنائیں: صفر سے شروع کریں یا کمیونٹی گیلری سے کوئی ڈھال لیں (سینکڑوں ایپس، طلبہ کے بنائے ہوئے بھی شامل)۔ ہر ایپ کا رویہ ہدایت کریں — تصویر اور آواز کا input، میموری اور پروفائلز، یا Avoid Answer Generation، جو طلبہ کو جواب تھما دینے کے بجائے اس کی طرف لے جاتا ہے۔ یہ بھی دستیاب: Docx اور Drive برآمد والا دستاویز ایڈیٹر، Python کا اجرا، ریاضی کا input اور تصویر کی کارروائی۔ اساتذہ [[human-in-the-loop-ai|کسی بھی طالب علم کی گفتگو کا جائزہ]] لے سکتے ہیں، اور خودکار flags کسی گفتگو کو روک کر استاد کو اطلاع دے سکتے ہیں۔ Rosters Clever، ClassLink یا Google SSO سے جڑتے ہیں۔

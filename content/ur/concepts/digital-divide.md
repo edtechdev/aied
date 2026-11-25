@@ -6,9 +6,9 @@ type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
-updated: "2026-11-24T02:05:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/digital-divide"
-source_updated: "2026-11-21T10:00:49-05:00"
+source_updated: "2026-11-24T10:25:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, remote-proctoring, equity-in-ai-education, ai-literacy, ethics, bias-mitigation, ai-education, higher-ed, student-experience, parents-and-families]
-connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026]
+connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-nigerian-higher-education-2026, ai-divide-ses-personality-primary-education-2026, ai-science-chemistry-education-systematic-review-2025, amol-ai-egovernance-digital-inclusion-2026, arc-hubs-k12-ai-robotics-rural-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, bilingual-llm-lecture-companion-srl-2026, caee-digital-twins-stem-education-systematic-review-2026, llmersion-local-first-language-learning-2026, lodge-loble-cognitive-offloading-2026, mechanical-compliance-human-flourishing-ai-literacy-2026, multilingual-adaptive-learning-nigeria-2026, oecd-digital-education-outlook-2026, prompt-privilege-equitable-ai-access-2026, raut-ai-rural-education-india-2026, rodrigues-aied-unplugged-numeracy-2026, school-ai-education-readiness-gaps-agency-2026, sec-ai-literacy-narrative-review-2026, structural-silence-underrepresented-language-ai-2026, the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl, unesco-ai-guidelines-chemical-education-2026, watanabe-genai-education-gap-europe-2026, ma-ai-medical-education-lmic-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -58,6 +58,7 @@ connected_articles: [aaai2026-prompting-literacy-k12, adeniranye-ai-integration-
 - **عوامی ڈیجیٹل خدمات تقسیم کو دہراتی ہیں۔** کینیا کا eCitizen ای-گوورنس پلیٹ فارم زیادہ تر انگریزی میں ہے، سواحلی محدود اور انٹرفیس صرف متن پر مبنی، جو کم خواندگی، بصری معذوری اور دیہی نوجوانوں کو خارج کرتا ہے؛ چار روزی روٹی پلیٹ فارمز (Ajira Digital، KRA iTax، HELB، YEDF) پر انٹرویوز اور گیارہ افراد کی گول میز زبان کی ٹیکنالوجیز اور WCAG 2.1 سے رہنمائی لینے والے ڈیزائن کو شمولیت کے اہم اوزار قرار دیتے ہیں ([[amol-ai-egovernance-digital-inclusion-2026|Amol اور Wanzare (2026)]])۔
 
 - **صرف رسائی نہیں، استعمال کو بھی الگ کریں۔** [[raut-ai-rural-education-india-2026|Raut کا جامع جائزہ]] رپورٹ کرتا ہے کہ بھارت کے دیہی 14–16 سالہ نوجوانوں میں 85.5% لڑکے اور 79.4% لڑکیاں کہتے ہیں کہ وہ اسمارٹ فون استعمال کر سکتے ہیں، چنانچہ گھرانے کی دستیابی عملی استعمال میں صنفی خلا کو کم آمادہ کرتی ہے۔
+- **وسائل کی سطح اس بات کو طے کرتی ہے کہ کلاس روم تک کون سا AI پہنچتا ہے۔** طبی تعلیم میں AI پر ایک اسکوپنگ جائزے نے پایا کہ کم آمدنی والے ماحول Snapchat AI جیسے دستیاب مکالماتی اوزار اسائنمنٹس اور امتحانی تیاری کے لیے استعمال کرتے ہیں، جبکہ زیادہ وسائل والے ماحول ماں کی پیش نظار جانچ، ورچوئل کیس تدریسی پلیٹ فارمز اور کلینیکل معاونتی نظاموں جیسے مخصوص نظام لگاتے ہیں ([[ma-ai-medical-education-lmic-2026|Ma وغیرہ (2026)]])۔ اطلاع شدہ رکاوٹوں میں بنیادی ڈھانچے کی دستیابی، نیٹ ورک رسائی، ڈیٹا پرائیویسی اور زبان کا توافق شامل ہیں، جو ماڈل کی صلاحیت کے اندر ہی نہیں بلکہ تقسیم کی پہلی اور دوسری سطح پر ہیں، اور یہی اسے تکنیکی سوال کے ساتھ ساتھ [[equity-in-ai-education|مساوات]] کا سوال بناتا ہے۔
 
 ## AI تقسیمیں گہری کرتا ہے (اور ختم بھی کر سکتا ہے)
 

@@ -13,15 +13,15 @@ level: [higher ed]
 audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/legal-education"
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [academic-integrity, assessment-validity, authentic-assessment, ai-use-disclosure, governance, educational-policy-ai, critical-thinking, case-based-learning, socratic-method, experiential-learning, professional-training, career-development-and-readiness, ai-literacy, hallucination-risk, legal-issues-and-risks]
 connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-genai-policy-legal-education-2025, llm-turing-test-italian-legal-exams-2026, tuo-armada-multi-agent-debate-overreliance-2026, xie-genai-mystery-game-legal-education-2026]
@@ -59,7 +59,7 @@ connected_articles: [lorteau-sarro-ai-legal-education-2025, gutowski-hurley-gena
 
 ## پالیسی کا ثبوت کیا دکھاتا ہے
 
-Gutowski اور Hurley پالیسیوں کو پانچ جہتوں پر 0–5 ربرک کے ساتھ جانچتے ہیں: **ممانعت پسندی**، **اجازت پسندی**، **تعلیمی انضمام**، **شفافیت اور جواب دہی**، اور **گہرائی**۔ اُن کی چھان بین نے پایا کہ بیشتر قانون کی درسگاہوں نے عموماً ممانعت پسند موقف اپنایا، جس کی توجیہ اکثر یہ دی جاتی ہے کہ ٹیکنالوجی کے مطالعے کے لیے وقت خریدا جا رہا ہے، جبکہ تقریباً تمام پالیسیوں نے صوابدید انفرادی مدرسین کے لیے محفوظ رکھی۔ اجازت پسندی اور ممانعت پسندی کی درجہ بندیوں کا آپس میں اُلٹا تعلق تھا، جیسا کہ توقع تھی، اور مصنفین بتاتے ہیں کہ کوئی واحد قبول شدہ طریقہ نہیں: پالیسیاں جامع گورننس سے لے کر کوئی بیان کردہ پالیسی نہ ہونے تک پھیلی ہوئی ہیں۔
+Gutowski اور Hurley پالیسیوں کو پانچ جہتوں پر 0–5 [[rubrics|ربرک]] کے ساتھ جانچتے ہیں: **ممانعت پسندی**، **اجازت پسندی**، **تعلیمی انضمام**، **شفافیت اور جواب دہی**، اور **گہرائی**۔ اُن کی چھان بین نے پایا کہ بیشتر قانون کی درسگاہوں نے عموماً ممانعت پسند موقف اپنایا، جس کی توجیہ اکثر یہ دی جاتی ہے کہ ٹیکنالوجی کے مطالعے کے لیے وقت خریدا جا رہا ہے، جبکہ تقریباً تمام پالیسیوں نے صوابدید انفرادی مدرسین کے لیے محفوظ رکھی۔ اجازت پسندی اور ممانعت پسندی کی درجہ بندیوں کا آپس میں اُلٹا تعلق تھا، جیسا کہ توقع تھی، اور مصنفین بتاتے ہیں کہ کوئی واحد قبول شدہ طریقہ نہیں: پالیسیاں جامع گورننس سے لے کر کوئی بیان کردہ پالیسی نہ ہونے تک پھیلی ہوئی ہیں۔
 
 وہ یہ بھی دستاویز کرتے ہیں کہ شعبے کا ثبوت کتنا پتلا ہے۔ ABA کے 2024 کے AI اور قانونی تعلیم کے سروے میں صرف 29 درسگاہوں نے جواب دیا، جو ABA سے منظور شدہ درسگاہوں کا تقریباً 15% ہے، چنانچہ اُسے نمائندہ نہیں سمجھا جا سکتا؛ اور 800 قانون کے طلبہ کے LexisNexis سروے نے پایا کہ صرف 9% نے اپنے مطالعے میں جنریٹو AI کے موجودہ استعمال کی اطلاع دی، جبکہ 25% اپنانے کا ارادہ رکھتے تھے۔ مصنفین کم رپورٹ شدہ استعمال کو جزوی طور پر غیر واضح قواعد کا ردِعمل سمجھتے ہیں، کیونکہ وضاحت اُن کے توڑنے کے خوف کو کم کرتی ہے۔
 

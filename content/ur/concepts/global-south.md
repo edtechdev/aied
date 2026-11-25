@@ -7,9 +7,9 @@ technology: [generative-ai]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-24T02:05:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/global-south"
-source_updated: "2026-11-19T09:45:00-05:00"
+source_updated: "2026-11-24T10:25:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
     date: "2026-11-04"
     agent: hermes-agent
 connected_concepts: [differential-effects-across-learner-groups, equity-in-ai-education, generative-ai, culturally-relevant-pedagogy, ai-literacy, higher-ed, k-12, inclusive-learning, technology-acceptance-model, benchmark]
-connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026]
+connected_articles: [genai-assessment-african-higher-education-review-2026, adeniranye-ai-integration-nigerian-higher-education-2026, nguyen-genai-global-south-review-2026, socio-cognitive-genai-adoption-engineering-2026, connected-ai-lesson-planning-vietnam, iks-instruct-dataset-indian-knowledge, nsmq-riddles-science-math-benchmark, genai-minoritized-knowledges-disability, llm-cultural-relevance-k12, genai-integration-constructivist-higher-ed-bangladesh-2026, khlaif-assistive-genai-visually-impaired-2026, culturally-aware-student-stress-chatbot-2026, el-salvador-ai-tutoring-selection-claim-2026, beyond-the-algorithm-academic-developers-digital-mediators-2026, ai-ethical-awareness-ghana-students-2026, teachers-contextual-ethical-reasoning-ai-2026, gouroubera-genai-benin-2026, ma-ai-medical-education-lmic-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -60,6 +60,8 @@ connected_articles: [genai-assessment-african-higher-education-review-2026, aden
 - **افریقی اعلیٰ تعلیم سے پتلا اور ٹول مخصوص جانچی ثبوت:** [[genai-assessment-african-higher-education-review-2026|PRISMA 2020 کا منظم جائزہ]] 2023 اور 2025 کے درمیان شائع شدہ تجربی تحقیق کا صرف دس مطالعات تک پہنچا، جو نائجیریا اور جنوبی افریقہ میں مرکوز اور تقریباً مکمل طور پر ChatGPT پر کیے گئے، چنانچہ افریقی اعلیٰ تعلیم میں جنریٹو AI کے لیے جانچ کی از سرِ نو تشکیل کے بارے میں جو کچھ معلوم ہے وہ ناپے گئے [[learning-gains|سیکھنے کے فوائد]] کے بجائے چھوٹے نمونے، ایک ادارے اور [[self-report-measures|خود رپورٹ شدہ]] مطالعات پر ٹکا ہے — جائزے کے مصنفین اپنی سفارشات کو طے شدہ اثرات کے بجائے سمتوں کے طور پر پیش کرتے ہیں۔
 
 - **مساوات خطے بھر میں سب سے کم مطالعہ شدہ پہلو ہے۔** عالمی جنوب کے 75 مطالعات (2022–2025) کے PRISMA-ScR [[meta-analysis-systematic-review|دائرہ کار جائزے]] نے مساوات کو اپنے پانچ شعبوں میں سب سے کم جانچا گیا پایا، باوجود اِس کے کہ وہ شامل تعلیم کے لیے مرکزی حیثیت رکھتی ہے، اور طلبہ کے بیان کردہ اخلاقی موقف اور اُن کے رویے کے درمیان خلا کی اطلاع دی ([[nguyen-genai-global-south-review-2026|Nguyen اور Perkins, 2026]])۔
+
+- **طبی تعلیم کا شواہدی بنیاد دو ممالک میں مرکوز ہے۔** کم و درمیانی آمدن والے ممالک میں طبی تعلیم میں AI پر ایک دائرہ کار جائزے نے 8,136 ریکارڈز کو 33 مطالعات تک چھانے کے بعد پایا کہ ان میں صرف چار کم آمدن والے ممالک سے ہیں اور چین و بھارت سب سے زیادہ حصہ لے رہے ہیں ([[ma-ai-medical-education-lmic-2026|Ma وغیرہ (2026)]])۔ مصنفین اپنی صرف انگریزی [[research-methods-aied|تلاشی ڈیزائن]] کو اِس عدم توازن کی ممکنہ وجہ قرار دیتے ہیں، اور قومی AI اپنانے کے لحاظ سے ممالک کی درجہ بندی سے انکار کرتے ہیں کیونکہ پالیسی ماحول اور عوامی سرمایہ کاری کا مستقل طور پر جائزہ نہیں لیا گیا تھا۔
 
 ## مضمرات
 

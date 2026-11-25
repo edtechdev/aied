@@ -6,15 +6,19 @@ foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/sociocultural-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [scaffolding, constructivist, learning-theories, activity-theory-aied, situated-learning, distributed-cognition, metacognition, agency, generative-ai, human-ai-collaboration, desirable-difficulties, adaptive-learning, human-in-the-loop-ai, k-12, intelligent-tutoring]
 connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-mediational-agent-sociocultural-2026, golrang-propact-pair-programming-2026, finkelstein-principled-ai-education-2025, stanford-evidence-base-ai-k12-2026, young-people-learning-generative-ai-rapid-review-2026, ai-cognitive-partner-co-regulation-learning, chatgpt-hints-human-tutor-learning-gains-2024, adaptive-scaffolding-contingency-comet-tutor-2026]
@@ -34,7 +38,7 @@ connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-media
 
 ## تعارف
 
-### تصور
+## تصور
 
 سماجی ثقافتی نظریہ (Vygotsky، 1978؛ Luria؛ Leontiev) مانتا ہے کہ اعلیٰ ذہنی افعال ثقافتی طور پر منظم سرگرمی میں شرکت سے پروان چڑھتے ہیں۔ اُن بیانات کے برخلاف جو سیکھنے کو صرف فرد کی معلوماتی پراسیسنگ میں رکھتے ہیں، سماجی ثقافتی نقطہ نظر اِس پر زور دیتا ہے کہ:
 
@@ -42,13 +46,13 @@ connected_articles: [youth-enter-chat-llm-student-talk-2026, generative-ai-media
 - **سیکھنا سماجی ہے۔** اعلیٰ ذہنی افعال پہلے لوگوں کے درمیان (بین الذاتی طور پر، تعامل میں) ظاہر ہوتے ہیں اور بعد میں فرد کے اندر۔ سیکھنا [[teacher-role|اساتذہ]]، ساتھیوں اور برادریوں کے ساتھ شرکت سے ابھرتی ہے — [[scaffolding|سہارے]]، شاگردی، اور ZPD میں حرکت جیسے عملوں میں۔
 - **[[distributed-cognition|علم تقسیم شدہ ہے]]۔** علمی کام لوگوں، مصنوعات اور ماحول میں پھیلا ہوتا ہے (Hutchins؛ Clark & Chalmers؛ Pea)، فرد کے ذہن میں بند نہیں۔ [[distributed-cognition|تقسیم شدہ علم]]، [[situated-learning|مقامی سیکھنا]] اور عمل کی برادریاں سماجی ثقافتی دھارے کو آگے بڑھاتی ہیں۔
 
-### قریبی نشوونما کا زون (ZPD)
+## قریبی نشوونما کا زون (ZPD)
 
 ZPD (Vygotsky) وہ سماجی ثقافتی تصور ہے جو [[intelligent-tutoring|AI ٹیوٹرنگ]] میں سب سے زیادہ استعمال ہوتا ہے: وہ جگہ جو سیکھنے والا تنہا کر سکتا ہے اور جو وہ مدد کے ساتھ کر سکتا ہے، اُن کے درمیان ہے۔ سیکھنا سب سے مؤثر اُس وقت ہوتی ہے جب تدریس اِس زون کو نشانہ بنائے — نشوونما کو آگے دھکیلنے کے لیے کافی چیلنج، اور پیش رفت ممکن کرنے کے لیے کافی سہارا۔ یہ [[scaffolding|سہارے]] کی نظریاتی بنیاد ہے: عارضی، قابلِ تعدیل مدد جو قابلیت بڑھنے کے ساتھ واپس لی جاتی ہے۔ تعلیم میں AI میں ZPD مرکزی ڈیزائن سوال کا فریم دیتا ہے کہ [[intelligent-tutoring|AI ٹیوٹر]] کو کتنی مدد فراہم کرنی چاہیے تاکہ سیکھنا آگے بڑھے بغیر اِس کے کہ جواب تھما دیا جائے — دیکھیں [[stanford-evidence-base-ai-k12-2026]]۔
 
 مشین کی بنائی مدد اُس زون کے اندر بھی اتر سکتی ہے۔ چار ریاضیاتی مضامین میں 274 [[adult-learning|بالغ سیکھنے والوں]] کے بے ترتیب مطالعے میں، ChatGPT کے تیار کردہ حل شدہ مثال والے اشاروں نے قبل سے بعد تک 17.00% اضافہ پیدا کیا، بغیر اشاروں کے 1.85% کے مقابلے میں، جبکہ انسانی ٹیوٹر کے لکھے اشاروں نے 11.62%؛ دونوں مدد کی حالتوں کو اعداد و شمار کی سطح پر الگ نہیں کیا جا سکا ([[chatgpt-hints-human-tutor-learning-gains-2024|Pardos اور Bhandari، 2024]])۔ غلطی کی شرح اِس برابری کو مشروط کرتی ہے: 32% تیار کردہ اشارے معیار کی جانچ میں ناکام رہے جب تک خود مطابقت والی [[prompt-engineering|پرامپٹنگ]] نے اُسے تین الجبرا مضامین میں تقریباً صفر اور اعداد و شمار میں 13% تک نہ گھٹا دیا۔ زیادہ جاننے والا دوسرا جو تین میں سے ایک بار غلط ہو، پھر بھی وساطتی ایجنٹ ہے، اِسی لیے سیکھنے والا اُس پر تعمیر کرنے سے پہلے مشین کے حصے کی جانچ کرے۔
 
-### تعلیم میں AI میں سماجی ثقافتی سیکھنا
+## تعلیم میں AI میں سماجی ثقافتی سیکھنا
 
 سماجی ثقافتی نظریہ AIED [[research-methods-aied|تحقیق]] کو کئی الگ طریقوں سے شکل دیتا ہے:
 
@@ -63,7 +67,7 @@ ZPD (Vygotsky) وہ سماجی ثقافتی تصور ہے جو [[intelligent-tut
 
 - **گفتگو کے پیمانوں کی تصدیق کے لیے وہی نوجوان درکار ہیں جن کی گفتگو ناپی جاتی ہے۔** چار مرکزی طلبہ کے ساتھ گفتگو کی حرکت کی تعریفوں کو نئے سیاق میں رکھنے سے [[llm|LLM]] کی درجہ بندی کا F1 Claim کے لیے +0.104 اور Question کے لیے +0.23 بڑھا، اور طلبہ کی اپنی تشریحات بالغوں اور ماڈل کے فریموں سے مختلف تھیں — یہ متن پر مبنی درجہ بندی کی ساختی حد ہے، ڈیٹا کے حجم کا مسئلہ نہیں ([[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio وغیرہ (2026)]])۔
 
-### علمی بوجھ اور میٹا کوگنیشن سے تعلق
+## علمی بوجھ اور میٹا کوگنیشن سے تعلق
 
 سماجی ثقافتی دھار [[cognitive-offloading|علمی بوجھ]] کے نظریے سے مضبوطی سے جڑا ہے (مدد کو بوجھ سنبھالنا چاہیے مگر نتیجہ خیز محنت ختم نہیں کرنی چاہیے) اور [[metacognition|میٹا کوگنیشن]] سے (زون میں موجود سیکھنے والے فعال طور پر اپنی سمجھ کی نگرانی اور ضابطگی کر رہے ہوتے ہیں)۔ [[stanford-evidence-base-ai-k12-2026]] [[k-12|K-12]] شہادت کا خلاصہ کرتا ہے کہ AI اوزار سب سے بہتر اُس وقت کام کرتے ہیں جب وہ سیکھنے والوں کو جواب دینے کے بجائے ZPD میں رکھیں، اور [[human-in-the-loop-ai]] کی تحقیق یہ بتاتی ہے کہ انسانی اور AI مدد مل کر سیکھنے والے کا زون کیسے متعین کرتی ہیں۔
 

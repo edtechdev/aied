@@ -5,15 +5,19 @@ type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/discipline-specific-aied"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T07:55:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [business-education, ai-education, math-education, physics-education, chemistry-education, biology-education, cs-education, writing-education, language-learning, english-education, stem-education, teacher-education, medical-education, engineering-education, humanities-education, k-12, higher-ed, equity-in-ai-education, arts-and-media-education, design-education, information-technology, learning-sciences, nursing-education, vocational-education]
 connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplinary-higher-education-review-2026, llms-text-linguistics-teaching-2026, fowlin-operationalizing-learning-principles-ai, designing-ai-professional-development-itpack-2026, teaching-the-teachers-genai-tpk-review-2026, human-centered-ai-teacher-educators-2026, voicu-ai-interpretive-cognition-ssh-2026, becker-chatgpt-typology-physics-2026, code-review-genai-cs1, ai-writing-support-stage-ownership-2026, ai-engineering-education-balancing-act, ai-literacy-career-adaptability-business-2026, jiang-genai-activity-theory-disciplines-2026, jiang-ai-powered-simulation-nursing-education-2026, atif-dickson-deane-scaffold-shortcut-genai-srl-2026, ai-vocational-education-training-review, genai-architectural-design-studios, deceptive-overgeneralization-adaptive-learning-2026]
@@ -33,7 +37,7 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 
 ## تعارف
 
-تعلیم میں AI شعبوں کے لحاظ سے مختلف طریقے سے ظاہر ہوتا ہے، کیوں کہ ہر میدان کی اپنی خصوصی تدریسی روایت ہے — یعنی علم کی تعمیر، مشق اور تدریس کے وہ مخصوص طریقے۔ وہ AI ٹیوٹر جو [[math-education|ریاضی]] میں نمایاں ہوتے ہیں، [[humanities-education|ہیومینٹیز]] میں ناکام ہو سکتے ہیں، جہاں تشریح اور تصنیف صحیح جواب سے زیادہ اہم ہیں۔ یہ صفحہ اُن شعبے مخصوص دھاگوں کا چھتری نما نقشہ ہے، جو اب اسکولی مضامین سے پیشہ ورانہ اور اطلاقی تربیت اور پھر اسٹوڈیو مشق تک پھیلے ہوئے ہیں۔ اِس دھاگے کا ایک رکن تو اصلاً پڑھایا جانے والا مضمون ہی نہیں: [[learning-sciences]] تعلیم میں AI کے گرد کا تحقیقی میدان ہے، جو وہ میکانزم فراہم کرتا ہے جنہیں AI نظام عملی شکل دیتے ہیں اور وہ معیارات بھی جن سے اُنہیں پرکھا جاتا ہے — یہ اِس صفحے کی اُس بنیاد کے مقابل بین الشعبہ نظریہ اپناتا ہے کہ موضوع ہی وہ چیز ہے جو بدلتی ہے کہ معاونت کو کیا کرنا چاہیے۔
+تعلیم میں AI شعبوں کے لحاظ سے مختلف طریقے سے ظاہر ہوتا ہے، کیوں کہ ہر میدان کی اپنی خصوصی تدریسی روایت ہے — یعنی علم کی تعمیر، مشق اور تدریس کے وہ مخصوص طریقے۔ وہ AI ٹیوٹر جو [[math-education|ریاضی]] میں نمایاں ہوتے ہیں، [[humanities-education|ہیومینٹیز]] میں ناکام ہو سکتے ہیں، جہاں تشریح اور تصنیف صحیح جواب سے زیادہ اہم ہیں۔ موضوعی صفحات چار گروہوں میں منظم ہیں: [[humanities-education|ہیومینٹیز اور فنون]]، [[social-sciences-education|سماجی علوم]]، [[stem-education|STEM]]، اور [[professions-education|پیشہ ورانہ تعلیمیں]] — جن میں سے آخری اُن پروگراموں کو شامل کرتی ہے جن کا نصاب لائسنس، ایکریڈیٹیشن اور نگرانی والی مشق سے منظم ہے۔ شعبے مخصوص دھاگے اسکولی مضامین سے پیشہ ورانہ تربیت سے ہوتے ہوئے اسٹوڈیو مشق تک چلتے ہیں۔ اِس دھاگے کا ایک رکن تو اصلاً پڑھایا جانے والا مضمون ہی نہیں: [[learning-sciences]] تعلیم میں AI کے گرد کا تحقیقی میدان ہے، جو وہ میکانزم فراہم کرتا ہے جنہیں AI نظام عملی شکل دیتے ہیں اور وہ معیارات بھی جن سے اُنہیں پرکھا جاتا ہے — یہ اِس صفحے کی اُس بنیاد کے مقابل بین الشعبہ نظریہ اپناتا ہے کہ موضوع ہی وہ چیز ہے جو بدلتی ہے کہ معاونت کو کیا کرنا چاہیے۔
 
 ## شعبے کے مخصوص تصورات
 
@@ -56,7 +60,9 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 - **[[design-education]]** — مصنوع، خدمت، تعامل، اندرونی اور تعمیراتی ڈیزائن میں اسٹوڈیو پر مبنی پیشہ ورانہ تشکیل، جہاں نظر آنے والا عمل جانچ کا موضوع ہے اور جہاں جنریٹو ٹولز چمکا ہوا مصنوع سستا کر دیتے ہیں: یہ [[arts-and-media-education]] کے محیط اسٹوڈیو شعبوں کو پیشہ ورانہ ڈیزائن کے راستے تک محدود کرتا ہے، تاکہ تنقید، [[eportfolio|پورٹ فولیو]] اور ضابطہ — نہ کہ مواد اور ادائیگی کی مشق — دلیل اٹھائیں۔
 - **[[engineering-education]]** — انجینئرنگ میں پیشہ ورانہ تشکیل، ڈیزائن اور [[experiential-learning|عملی سیکھائی]]، AI کا [[ethics|اخلاقی]] استعمال، [[embodied-learning|جسمانی]] جانچ، اور افرادی قوت کی تیاری۔
 - **[[business-education]]** — کاروبار، معاشیات اور انتظام کی تعلیم میں AI: طلبہ کی معلومات پر مبنی GenAI فریم ورک، تعمیری ہم آہنگی کے ذریعے [[curriculum-design|نصاب]] کا ادغام، اور AI سے مربوط پیشہ ورانہ مشق کی تیاری۔
-- **[[humanities-education]]** — ہیومینٹیز اور سماجی علوم میں تفسیری علمیات، تصنیف، اور معنی سازی۔
+- **[[humanities-education|ہیومینٹیز]]** — تاریخ، فلسفہ، ادب اور زبانوں میں تفسیری علمیات، تصنیف اور معنی سازی؛ وہ گروہ جس کے پاس [[arts-and-media-education|فنون اور میڈیا]] اور [[music-education|موسیقی]] کے صفحات ہیں، ان کے اندر نہیں۔
+- **[[social-sciences-education|سماجی علوم]]** — شہریت، انتظام، معاشیات اور ماحولیاتی مطالعات: ایسے مضامین جو لوگوں کے مجموعے کا مطالعہ کرتے ہیں، جہاں AI طریقہ اور ادارے دونوں کو ایک ساتھ بدلتی ہے۔
+- **[[professions-education|پیشہ ورانہ تعلیمیں]]** — لائسنس یافتہ اور ایکریڈیٹ شدہ پروگرام (طب، نرسنگ، قانون، تدریس، ڈیزائن، لائبریریداری) جن کی جانچ کو ثابت کرنا ہوتا ہے کہ تصدیق کی گئی فیصلہ سازی امیدوار کی ہی تھی۔
 - **[[k-12]]** اور **[[higher-ed]]** — ہر سطح پر AI کے بارے میں اور AI کے ساتھ تعلیم۔
 
 ## بین الشعبہ موضوعات
@@ -70,6 +76,7 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 - **علمی منتقلی اور حد سے زیادہ انحصار۔** [[cognitive-offloading]] اور [[cognitive-offloading|حد سے زیادہ انحصار]] کا خطرہ [[math-education|ریاضی]]، [[cs-education|CS]] اور [[writing-education|تحریر]] میں آتا ہے، اگرچہ جس \"علمی فعل\" کو منتقل کیا جاتا ہے وہ شعبے کے لحاظ سے مخصوص ہے — حساب بمقابلہ کوڈ بمقابلہ تصنیف۔
 - **AI خواندگی اور تنقیدی استعمال۔** [[ai-literacy]]، [[critical-thinking]]، اور [[critical-pedagogy]] ہر مضمون میں ذمہ دارانہ استعمال کی بنیاد ہیں۔
 - **شعبے کی بنیاد AI کی معاونت والی [[metacognition|میٹا کوگنیشن]] کی شرط ہے۔** متن کی لسانیات کے ایک سیمینار میں نئے سیکھنے والوں نے LLM کے ساتھ میٹا کوگنیشنل غور خاص طور پر وہاں کیا جہاں موضوعی علم پہلے ہی مضبوط تھا، اور زیادہ تر نے کمزور نتائج کی وجہ ماڈل کو ٹھہرائی، اپنے پرامپٹ کو نہیں — یہ ثبوت کہ [[prompt-engineering|پرامپٹ ڈیزائن]] شعبے کے اندر واضح طور پر سکھایا جانا چاہیے ([[llms-text-linguistics-teaching-2026|Brocca & Garassino (2026)]])۔
+- شعبہ خود آلہ کاری کو بھی توڑ دیتا ہے۔ ایک کیمسٹری پر تربیت یافتہ SRL پکڑنے والا جرمن ریکارڈز پر ~0.8 AUC دکھاتا تھا مگر منطق پر ~0.6 تک گر گیا، کیونکہ ماڈل نے "cancel" کے روزمرہ مطلب کو لیا نہ کہ میدان کا مطلب ([[borchers-srl-language-generalization-2025|Borchers et al., 2025]])۔
 - **مساوات اور رسائی۔** [[equity-in-ai-education]]، [[digital-divide]]، اور [[culturally-relevant-pedagogy]] تمام شعبوں سے متعلق ہیں۔
 
 ## ہر شعبے کی خصوصی تدریسی روایات، طریقے اور نظریات
@@ -85,13 +92,25 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 - **انگریزی تعلیم (EAP/EFL/ESL)** — انگریزی بطور ہدف زبان اور تعلیمی اندازِ بیان۔ AI تحقیق اخلاقی EAP ادغام ([[alharbi-ethical-genai-eap-2026|Alharbi et al.]])، GenAI سے EAP تحریر کی نظرِ ثانی ([[feedback-literacy-scripts-eap-writing|فیڈبیک خواندگی کے اسکرپٹ]])، EAP مواد کی موافقت ([[genai-differentiated-eap-reading-materials-2026|تفریق شدہ EAP مواد]])، ESL ٹیوٹرنگ ([[tact-pedagogically-adaptive-esl-tutoring|TACT]])، اور انگریزی کے لیے مخصوص جانچ ([[self-referential-l2-writing-llm-assessment|خود حوالہ جاتی L2 تحریر کی جانچ]]، [[ai-vs-human-assessment-efl-tpck-2026|EFL جانچ]]) تک پھیلی ہے۔
 
 - **استاد کی تعلیم** — ایسا شعبہ جس کی AI تحقیق اساتذہ کو AI کے ادغام کے لیے تیار کرنے پر مرکوز ہے: ذہین-TPACK فریم ورک ([[designing-ai-professional-development-itpack-2026|i-TPACK پیشہ ورانہ ترقی]])، اساتذہ کی AI خواندگی ([[science-educators-ai-literacy-postqualification-2026|سائنس کے اساتذہ]])، خدمت سے پہلے کی تیاری ([[conceptualizing-preservice-teachers-ai-readiness-2026|ذہین-TPACK تیاری]])، اور دورانِ خدمت اعتماد و اخلاقیات ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|اعتماد اور اخلاقیات]])۔
-- **ہیومینٹیز اور سماجی علوم** — تشریح، تصنیف، اور تنقیدی معنی سازی۔ AI تحقیق درستگی کے لیے ٹیوٹرنگ کی بجائے تفسیری علمیات ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) اور [[philosophy-of-ai-in-education|AI کا فلسفہ]] کو سامنے لاتی ہے۔
+- **ہیومینٹیز** — تشریح، تصنیف اور تنقیدی معنی سازی۔ AI تحقیق درستگی کے لیے ٹیوٹرنگ کے بجائے تفسیری علمیات ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) اور [[philosophy-of-ai-in-education|AI کا فلسفہ]] کو سامنے لاتی ہے، اور شعبے کے آڈٹ کے مطابق فنون اور ہیومینٹیز کے 58.6% جانچ کے آئٹمز زیادہ خطرے والے درجے میں ہیں۔
+- **سماجی علوم** — آبادیوں، اداروں اور بازاروں پر دعوے، جو سروے، ماڈل اور موازنے سے دفاع کیے جاتے ہیں۔ شہریت کا ادب اُس حرمت کی ناکامی کو دکھاتا ہے: 53 معیاروں کے مقابلے میں 310 AI سے بنے سبق کے منصوبے، 90% ان میں زیرِ انتہائی مقاصد پر ہیں۔ نفسیات اب اپنے صفحے پر [[psychology-education|نفسیات]] کی تعلیم کے طور پر بیٹھتا ہے کیونکہ اُس گروہ کے باقی حصوں کے مقابلے میں اُس کا کورس سطح کا کام کہیں زیادہ ہے؛ سماجیات پانچ مطالعات کے ساتھ گروہ کے اندر ہی رہتا ہے۔
 
 ## علم کی بنیاد میں نمائندہ شعبے
 
-علم کی بنیاد کی سب سے مضبوط شعبے مخصوص کوریج وسیع معنوں میں **[[stem-education|STEM]]** میں ہے — خاص طور پر **[[math-education]]**، **[[physics-education]]**، **[[chemistry-education]]**، **[[biology-education]]**، اور **[[cs-education]]** — اِس کے بعد **[[statistics-and-data-science-education]]** ، ریاضی سے الگ ایک دھاگہ، کیوں کہ اُس کی خصوصی تدریسی روایت فیصلہ شدہ جواب کی طرف استدلال کی بجائے ڈیٹا کی تحقیق ہے۔ اِس دھاگے کے اپنے ڈیزائن مسئلے کی ایک مثال: [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] ایک ایجنٹی پائپ لائن سے سیاق و سباق سے ہم آہنگ مصنوعی ڈیٹا سیٹ بناتا ہے، جو اُس مواد کو حل کرتا ہے جس کی شماریات کے کورس کو ضرورت ہے، اُس کی وضاحت کو نہیں۔ اور، خود مصنفین کے بیان کے مطابق، ڈیٹا جمع کرنا، پیمائش یا [[research-methods-aied|مطالعے کا ڈیزائن]] نہیں سکھا سکتا۔ اور **[[writing-education]]**، **[[language-learning]]** (EAP/EFL/ESL کے لیے الگ **[[english-education]]** دھاگے کے ساتھ)، اور حال ہی میں **[[engineering-education]]**، **[[teacher-education]]** (خدمت سے پہلے اور دورانِ خدمت AI تربیت کی تحقیق کے کافی ذخیرے کے ساتھ)، **[[medical-education]]**، اور **[[humanities-education]]**۔ انجینئرنگ اور ڈیزائن کے مضامین کا ذخیرہ بھی بڑھ رہا ہے۔ یہ ارتکاز وسیع تر ادب سے مطابقت رکھتا ہے: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] جائزے نے AI کی معاونت والی اعلیٰ تعلیم میں STEM کو سب سے عام بین الشعبہ شکل پایا (n = 26)، جو غیر STEM میدانوں (n = 10) اور STEAM (n = 2) سے کافی آگے ہے۔ انتباہ شعبے کی سطح کا ہے: AI تعلیم کا ثبوت وہاں سب سے تیزی سے جمع ہوتا ہے جہاں کمپیوٹیشنل ٹولنگ جمانا سب سے آسان ہے، نہ کہ ضروری طور پر وہاں جہاں AI کی تدریسی قدر سب سے زیادہ ہے۔ حالیہ اضافے اِس دھاگے کو تعلیمی مضامین سے آگے پیشہ ورانہ اور اطلاقی تعلیم تک پھیلا رہے ہیں — [[nursing-education|نرسنگ]]، [[information-technology|انفارمیشن ٹیکنالوجی]]، اور [[vocational-education|پیشہ ورانہ تعلیم و تربیت]] — جہاں سیکھنے والوں کی جانچ دکھائی گئی مشق پر ہوتی ہے، درستگی پر نہیں، اور جہاں قابلیت کا تعین صرف اکیڈمی نہیں بلکہ آجر اور لائسنس دینے والا ادارہ بھی کرتا ہے۔
+کوریج چار گروہوں میں بہت غیر مساوی طور پر تقسیم ہے، اور اُس غیر مساوی کی شکل ہی اِس حصے کی مرکزی دریافت ہے۔
 
-پیشہ ورانہ دھاگہ اِس ثبوت میں سب سے پتلا ہے: پیشہ ورانہ تعلیم و تربیت کے 26 مطالعات کے منظم جائزے نے کام کی جگہ کے سیاق میں کوئی بھی نہیں پایا، باوجود اِس کے کہ VET کا مزاج کام پر مبنی ہے، صرف پانچ بے ترتیب تجربات، اور صرف تین ایسے ڈیزائن جو سیکھنے والوں کو فعال کردار دیتے ہیں ([[ai-vocational-education-training-review|Deutscher et al. (2026)]])۔
+**STEM سب سے گھنے میدان میں ہے۔** [[math-education|ریاضی]]، [[physics-education|فزکس]]، [[chemistry-education|کیمسٹری]]، [[biology-education|حیاتیات]] اور [[cs-education|کمپیوٹر سائنس]] — ہر ایک کا اپنا صفحہ اور درجنوں مطالعات ہیں، اور [[statistics-and-data-science-education|شماریات اور ڈیٹا سائنس]] ایک الگ دھاگہ ہے جس کی خصوصی تدریسی روایت فیصلہ شدہ جواب کی طرف استدلال کی بجائے ڈیٹا کی تحقیق ہے۔ اِس دھاگے کا اپنا ڈیزائن مسئلہ [[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] میں نظر آتا ہے، ایک ایجنٹی پائپ لائن سے سیاق و سباق سے ہم آہنگ مصنوعی ڈیٹا سیٹ بناتی ہے: وہ شماریات کے کورس کو اُس مواد کی فراہمی کرتی ہے جس کی اُسے ضرورت ہے، اُس کی وضاحت کو نہیں، اور خود مصنفین کے بیان کے مطابق وہ ڈیٹا جمع کرنا، پیمائش یا [[research-methods-aied|مطالعے کا ڈیزائن]] نہیں سکھا سکتی۔ [[engineering-education|انجینئرنگ]] اور [[science-education|سائنس]] تعلیم اِس گروہ کو مکمل کرتے ہیں۔
+
+**ہیومینٹیز اور فنون کی گہرائی حجم میں نہیں، ایک ایک مطالعے میں ہے۔** [[humanities-education|ہیومینٹیز]]، [[writing-education|تحریر]]، [[language-learning|زبان سیکھن]] جس کا اپنا [[english-education|انگریزی]] دھاگہ ہے، [[arts-and-media-education|فنون اور میڈیا]] اور [[music-education|موسیقی]] — سب کے صفحات ہیں، مگر اُن کے ثبوت زیادہ تر ایک کورس یا ایک اسٹوڈیو کے ہیں۔ [[assessment-validity|اعتبار]] کا مسئلہ پھر بھی اِس گروہ کے لیے کسی اور گروہ سے زیادہ درست پیمائش سے ناپا گیا ہے: 15,587 فنون اور ہیومینٹیز کی اکائی ریکارڈز کے ایک آڈٹ نے پایا کہ 58.6% جانچ کے آئٹمز زیادہ خطرے میں ہیں۔
+
+**سماجی علوم اپنے تقاضوں کے مقابلے میں سب سے پتلے ہیں۔** [[business-education|کاروبار]] تینوں میں سب سے بڑا ادب رکھتی ہے، [[civic-and-political-education|شہری اور سیاسی تعلیم]] ایک جمہوری مسئلہ بیان کرتی ہے جس کا ایک بھی پیمائش شدہ شہری نتیجہ نہیں، اور [[environmental-education|ماحولیاتی تعلیم]] AI بطور تدریسی مدد اور AI بطور توانائی کی لاگت کے درمیان منقسم ہے۔
+
+**پیشہ ورانہ تعلیمیں کوریج میں اچھی اور اطفال میں سب سے کم یکجا کیے گئے ہیں۔** [[medical-education|طبی تعلیم]] (جس میں [[nursing-education|نرسنگ]] اُس کا سب سے زیادہ مطالعہ شدہ پروگرام ہے)، [[teacher-education|استاد کی تعلیم]] اور [[legal-education|قانونی تعلیم]] کے معتبر ادب ہیں، اور [[information-technology|انفارمیشن ٹیکنالوجی]]، [[libraries|لائبریریاں]] اور [[vocational-education|پیشہ ورانہ تعلیم]] اِس دھاگے کو عمل تک پھیلاتے ہیں۔ اُن کا مشترک سوال — کہ تصدیق کی گئی فیصلہ سازی امیدوار کی تھی یا نہیں — پروگراموں کے درمیان نادراً پوچھا جاتا ہے، اور یہی وہ چیز ہے جسے [[professions-education|پیشہ ورانہ تعلیمیں]] اکٹھی کرنے کے لیے موجود ہیں۔
+
+یہ ارتکاز وسیع تر ادب سے مطابقت رکھتا ہے: [[xia-ai-interdisciplinary-higher-education-review-2026|Xia et al.'s (2026)]] کے جائزے نے AI کی معاونت والی اعلیٰ تعلیم میں STEM کو سب سے عام بین الشعبہ شکل پایا (n = 26)، جو غیر STEM میدانوں (n = 10) اور STEAM (n = 2) سے کافی آگے ہے۔ انتباہ شعبے کی سطح کی ہے: AI تعلیم کا ثبوت وہاں سب سے تیزی سے جمع ہوتا ہے جہاں کمپیوٹیشنل ٹولنگ جمانا سب سے آسان ہے، نہ کہ ضروری طور پر وہاں جہاں AI کی تدریسی قدر سب سے زیادہ ہے۔
+
+پیشہ ورانہ دھاگہ اُس ثبوت میں سب سے پتلا ہے: پیشہ ورانہ تعلیم و تربیت کے 26 مطالعات کے منظم جائزے نے کام کی جگہ کے سیاق میں کوئی بھی نہیں پایا، باوجود اِس کے کہ VET کا مزاج کام پر مبنی ہے، صرف پانچ بے ترتیب تجربات، اور صرف تین ایسے ڈیزائن جو سیکھنے والوں کو فعال کردار دیتے ہیں ([[ai-vocational-education-training-review|Deutscher et al. (2026)]])۔
+
 
 ## کم نمائندگی والے شعبے
 
@@ -100,9 +119,10 @@ connected_articles: [yang-pe-teachers-ai-perceptions-2026, xia-ai-interdisciplin
 - **قانون اور [[legal-education|قانونی تعلیم]]** — بہت کم کوریج: [[llm-turing-test-italian-legal-exams-2026|LLM اور اطالوی قانونی امتحانات]]۔
 - **نفسیات اور مشاورت** — AI تعلیم کے چند مضامین: [[hawkins-feedback-literacy-ai-essay-writing|AI فیڈبیک خواندگی]]، [[critical-genai-use-predictors|تنقیدی GenAI استعمال]]، [[adaptive-virtual-patient-psychotherapy-training|مجازی مریض کی نفسیاتی علاج کی تربیت]]۔
 - **تاریخ** — صرف الگ تھلگ مضامین: [[paternalistic-filter-llm-history-education|LLM اور تاریخی استدلال]]۔
-- **فنون (بصری فن، ڈیزائن، موسیقی)** — ابھرتی کوریج: [[ai-interior-design-malaysia-2026|اندرونی ڈیزائن کی تعلیم میں AI]]، [[genai-architectural-design-studios|تعمیراتی ڈیزائن اسٹوڈیوز میں GenAI]]، [[ai-vocal-pedagogy-2026|AI صوتی تدریس]]، [[musical-education-ai-digital-transformation-2026|موسیقی کی تعلیم میں AI]]، [[t2i-competence-paradox-2026|متن سے تصویر تک قابلیت کی ضد]]۔ اِس فہرست کے ڈیزائن والے مطالعات کا اب اپنا گھر ہے: [[design-education]] تعمیراتی، اندرونی ڈیزائن اور متن سے تصویر تک کے اسٹوڈیو کام کو پیشہ ورانہ ڈیزائن کی تشکیل کے بارے میں ایک صفحے میں سمیٹتا ہے، اور بصری فن، موسیقی اور ادائیگی کو پتلی باقیات کے طور پر چھوڑ دیتا ہے۔
+- **جسمانی تعلیم** — اب تک ایک نوعی مطالعہ: 16 یونیورسٹی کے اساتذہ *جسمانی انضباط کے دھکا اثر* کی وضاحت کرتے ہیں، دلیل دیتے ہیں کہ AI جسمانی تصحیح یا ظریف علم فراہم نہیں کر سکتا، اور رپورٹ کرتے ہیں کہ ادارے کا AI ساز و سامان عوامی کلاسوں کے بجائے نخبہ ٹیموں کو جاتا ہے ([[yang-pe-teachers-ai-perceptions-2026|Yang, Chen & Rao, 2026]])۔
+- **فنون (بصری فن، ڈیزائن، موسیقی، ادائیگی)** — ابھرتی کوریج، اب گھر کے مطابق ترتیب شدہ: [[design-education|ڈیزائن کی تعلیم]] تعمیراتی، اندرونی ڈیزائن اور متن سے تصویر تک کے اسٹوڈیو کام لیتی ہے؛ [[music-education|موسیقی کی تعلیم]] ادائیگی، سماعت کی مہارت اور ریکارڈ شدہ موسیقی کی معاشیات لیتی ہے؛ [[arts-and-media-education|فنون اور میڈیا]] بصری فن، ڈیجیٹل میڈیا اور اسٹیج ٹیکنالوجی کو محفوظ کرتی ہے، جہاں ثبوت سب سے پتلے ہیں۔
 
-اِن کم نمائندگی والے شعبوں کو جیسے جیسے علم کی بنیاد بڑھے گی، مخصوص تصوراتی صفحات اور مزید مضامین کے ادخال سے فائدہ ہوگا۔
+یہ سب میدان جیسے جیسے میدان بڑھے گا، مستقل تحقیقی توجہ سے فائدہ اٹھائیں گے۔
 
 ## عام غلط فہمیاں
 

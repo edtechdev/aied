@@ -7,15 +7,19 @@ pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learn
 technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/transfer-of-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, metacognition, desirable-difficulties, cognitive-offloading, scaffolding, sociocultural-learning, intelligent-tutoring, k-12, self-regulated-learning, learning-theories, productive-failure]
 connected_articles: [yan-agentivism-learning-theory-ai-2026, layer-sensitive-cognitive-offloading-writing-2026, stanford-evidence-base-ai-k12-2026, educational-llm-alignment, cognitive-offloading-speedup-illusion, vibe-compiler-metacognition-genai-agency-2026, learnity-graphs-lifelong-learning-framework-2026, young-people-learning-generative-ai-rapid-review-2026, puech-pedagogical-steering-llm-productive-failure-2025, rachatasumrit-example-problem-ratio-2026, ai-particle-physics-education-redesign-2026, shi-genai-experiential-learning-management-education-2026, ai-speaking-practice-communicative-readiness-2026, aifred-desk-robotic-ai-guidance-2026, cognitive-washout-ai-skill-decay-2026]

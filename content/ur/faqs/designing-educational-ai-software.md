@@ -7,16 +7,20 @@ audience: [educational technology developers, software developers, instructional
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 type: faq
 translation_of: faqs/designing-educational-ai-software
-source_updated: "2026-11-04T09:40:00-05:00"
+source_updated: "2026-11-20T07:39:42-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 ---
 
@@ -30,7 +34,7 @@ ai_assist:
 
 **1.** لکھیں کہ نظام کیا فیصلہ کرتا ہے اور استاد کیا فیصلہ کرتا ہے۔ وہی حد ساخت بن جاتی ہے۔
 
-**2.** کثیر باری، شعبے سے واقف تعامل کا جائزہ حقیقی [[curriculum-design|نصاب]] کے خلاف لیں، عام حفاظتی روبرک کے سامنے ایک ایک پرامپٹ کا نہیں۔
+**2.** کثیر باری، شعبے سے واقف تعامل کا جائزہ حقیقی [[curriculum-design|نصاب]] کے خلاف لیں، عام حفاظتی [[rubrics|روبرک]] کے سامنے ایک ایک پرامپٹ کا نہیں۔
 
 **3.** جوابات کو منظور شدہ مواد پر قائم رکھیں، اور تصدیق کرنے والے جزو کو گفتگو کرنے والے سے الگ رکھیں۔
 

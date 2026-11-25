@@ -1,5 +1,5 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: "سوکریٹک طریقہ"
 created: "2026-08-09T07:47:05-04:00"
 type: concept
@@ -10,15 +10,19 @@ assessment: [formative-assessment]
 audience: [learners]
 level: [higher ed]
 confidence: high
-updated: "2026-11-08T13:39:47-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/socratic-method"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
 connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
@@ -77,6 +81,7 @@ connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-s
 - سوکریٹک مکالمہ محنت طلب ہے؛ طلبہ کارکردگی کے لیے براہِ راست جواب کو ترجیح دے سکتے ہیں
 - چیٹ بوٹ انسانی ٹیوٹر کی رشتے دارانہ معاونت مہیا نہیں کر سکتا
 - کچھ طلبہ سوکریٹک حلقوں میں پھنس کر حل تک نہیں پہنچ پاتے
+- ترسیل ڈیزائن میں بتائی گئی چیز سے زیادہ مختلف ہو سکتی ہے۔ ایک C++ کورس میں، جو آئٹم پوچھتا تھا کہ چیٹ بوٹ نے عکاسی یا اطلاقی سوالات پوچھے یا نہیں، وہ سروے کا سب سے کم اور سب سے زیادہ متغیر 3.86 از 5 (SD 1.24) تھا، جسے مصنفین نے سسٹم پرامپٹ میں نام دی گئی چیز کی غیر مستحکم ترسیل کے طور پر پڑھا ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware and Jiang (2026)]])۔
 
 ### ایک متضاد دریافت: غیر محدود رسائی محدود طریقوں سے بہتر ہو سکتی ہے
 

@@ -10,22 +10,18 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-23T17:44:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T10:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
-    date: "2026-11-08"
-    agent: hermes-agent
   - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-23"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
-connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026, ayres-critical-ai-literacies-media-literacy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -70,6 +66,8 @@ connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif
 **ذاتی نما بحث موجودہ قائل کرنے کا خطرناک ماڈل ہے۔** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] نے 900 امریکی بالغوں کو دس منٹ کے آن لائن مباحثوں میں انسان یا GPT-4 کے مقابلے میں بے ترتیب تقسیم کیا، چھ عام آبادیاتی شعبوں کے ساتھ یا بغیر۔ غیر ذاتی نما GPT-4 شماریاتی طور پر انسانی مخالف سے الگ نہیں ہو سکا، جبکہ ذاتی نما GPT-4 نے مباحثے کے بعد اتفاق کے امکانات 81.2% بڑھائے اور 64.4% مواقع پر زیادہ قائل کرنے والا ثابت ہوا۔ شرکاء نے تقریباً چار میں سے تین مباحثوں میں AI مخالف کی شناخت کی، پھر بھی جب انہیں یقین ہوا کہ مخالف AI ہے تو وہ مزید آگے بڑھ گئے، اس لیے ماخذ کی شناخت بطور ٹیک کام نہیں کر سکی۔ ہیرا پریری متن میں نظر نہیں آئی: طرز کے پیمانے حالات میں کم اختلاف دکھاتے تھے، جس سے برتری اس دلائل کے انتخاب میں رہتی ہے، لکھنے کے انداز میں نہیں۔
 
 نصاب کے شواہد بتاتے ہیں کہ اسکول پیچھے رہ گئے ہیں۔ ماہرین کے انٹرویوز [[teacher-education|اساتذہ کی تربیت]] کو طلبہ کی مزاحمت کے بجائے پابند رکاوٹ قرار دیتے ہیں، اور [[critical-pedagogy|تنقیدی درس]] کے ایسے فریم ورک کی وکالت کرتے ہیں جو تشخیص کو آلے کی تربیت کے بجائے اخلاقی اور شراکتی عمل سمجھے۔ عوامی خدمت میڈیا کے لیے ایک کمیشن شدہ رپورٹ نے پایا کہ 14–19 سال کے نوجوانوں کے لیے فراہمی عملی AI مہارتوں کی طرف جھکی ہوئی ہے اور تنقیدی تشخیص سے دور، باوجود اس کے کہ اس نے 40 سے زائد فریم ورک کا جائزہ لیا اور 35 ماہرین کے انٹرویوز کیے ([[ai-literacies-young-adults-2025|AI لیٹریسیز کی رپورٹ، 2025]])۔
+
+اب گُنوانے (braiding) کا مقدمہ براہِ راست بیان کیا جا چکا ہے۔ [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] تنقیدی AI لیٹریسیوں کو میڈیا لیٹریسیوں سمجھتا ہے، اور اُس کا کلاس رومی طریقہ، *اعترافی انٹرفیس آڈٹ* (confessional interface audit)، طلبہ سے کہتا ہے کہ وہ کسی چیٹ بوٹ کے نص کا تجزیہ اسی طرح کریں جیسے کسی اشتہار کا، اُس کے اشارے، ضمنی دعوے، جذباتی لیور اور ممکنہ انعامات کا نام بتا کر۔
 
 ## دفاعی آلے کے طور پر AI — دعوے اور احتیاطیں
 

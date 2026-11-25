@@ -9,10 +9,10 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-updated: "2026-11-15T16:02:14-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 type: faq
 translation_of: faqs/should-we-use-ai-detectors
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-20T07:49:27-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 ---
 
@@ -106,7 +110,7 @@ ai_assist:
 
 ## اسائنمنٹ میں ایک مرحلہ رکھیں جس میں ٹول بیٹھ نہ سکے
 
-غیر مطابقت پذیر [[oral-assessment|زبانی جائزے]]، جو وقتی پرامپٹس کی شکل میں بنائے جائیں اور مختصر، وقت کی پابندی والے ریکارڈ شدہ جوابات کے ساتھ اندرونی ربرک پر جانچے جائیں، ایک مطالعے میں روبرو کثیر الانتخابی امتحانات کے برابر کارکردگی دکھاتے ہیں اور دوسرے میں نمایاں طور پر بہتر، اور طلبہ نے زیادہ فعال تیاری اور زیادہ محسوس پیشہ ورانہ مطابقت کی اطلاع دی۔ [[administrator|منتظم]] کے لیے اہم خصوصیت یہ ہے کہ یہ بغیر نگرانی کے بڑے پیمانے پر چل سکتا ہے ([[asynchronous-oral-assessment-2026|Pentland et al., 2026]])۔
+غیر مطابقت پذیر [[oral-assessment|زبانی جائزے]]، جو وقتی پرامپٹس کی شکل میں بنائے جائیں اور مختصر، وقت کی پابندی والے ریکارڈ شدہ جوابات کے ساتھ اندرونی [[rubrics|ربرک]] پر جانچے جائیں، ایک مطالعے میں روبرو کثیر الانتخابی امتحانات کے برابر کارکردگی دکھاتے ہیں اور دوسرے میں نمایاں طور پر بہتر، اور طلبہ نے زیادہ فعال تیاری اور زیادہ محسوس پیشہ ورانہ مطابقت کی اطلاع دی۔ [[administrator|منتظم]] کے لیے اہم خصوصیت یہ ہے کہ یہ بغیر نگرانی کے بڑے پیمانے پر چل سکتا ہے ([[asynchronous-oral-assessment-2026|Pentland et al., 2026]])۔
 
 کام کو نئے سرے سے ڈیزائن کرنا جانچ کو سخت کرنے سے زیادہ کام کرتا ہے۔ انڈرگریجویٹ معاشیات کے طلبہ پر ایک کیس اسٹڈی نے پایا کہ صرف تقریباً ایک تہائی نے AI کے کسی استعمال کی اطلاع دی، اور اعلان اس سے بھی کم تھا، اور اس نے عدم اعلان کو مبہم پالیسی کے تحت معقول احتیاط سمجھا، بددیانتی نہیں۔ انہی طلبہ نے حقیقی دنیا کے، ڈیٹا پر مبنی کاموں کو حل کے طور پر ترجیح دی ([[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al., 2026]])۔ AI کے استعمال کی توقع رکھنا، اس کا اعلان کرنا اور اس کی چھان بین کرنا اس پر پہرہ بٹھانے سے بہتر ہے، کیونکہ [[authentic-assessment|اصلیت]] کو نافذ کرنا نہیں، ڈیزائن کرنا پڑتا ہے ([[beyond-detection-authentic-assessment-ai-2025|Kickbusch et al., 2025]])۔
 

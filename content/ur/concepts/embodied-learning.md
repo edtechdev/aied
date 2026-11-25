@@ -6,18 +6,18 @@ foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/embodied-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-21T13:30:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
+  - model: meituan/longcat-2.5:free
     role: translation
-    date: "2026-11-04"
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [educational-robotics, active-learning, experiential-learning, situated-learning, distributed-cognition, computational-thinking, social-emotional-learning, learning-theories, multimodal, assessment-validity, virtual-and-augmented-reality]
-connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026]
+connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-2026, multimodal-embodied-cognition-oral-explanations-2026, zhu-e3-hot-embodied-intelligence-sustainable-learning, roboblockly-conversational-block-robotics-ct-2026, motibo-digital-storytelling-robots-motivation-2026, remind-robot-mediated-roleplay-antibullying-2026, pepper-robot-sign-language-lis-2025, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, robot-assisted-language-learning-meta-analysis-2026, vargas-situated-learning-ai-review-2024, li-ai-science-situated-learning-teachers-2025, vargas-ai-catalyst-situated-learning-2026, videla-embodied-ai-education-choreography, embodied-inquiry-ai-facilitator-physics-2026, kim-ai-embodied-learning-review-2026, videla-why-education-cannot-be-automated-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -35,7 +35,7 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 
 مجسم سیکھنا [[active-learning]]، [[experiential-learning]] اور سیاق و سباق میں جڑے/[[constructivist]] نظریات سے گہرا جڑا ہے۔ بنیادی دعویٰ یہ ہے کہ کوئی جسمانی، قابلِ استعمال عامل سیکھنے والوں کو تجریدی خیالات کو ٹھوس نتائج سے جوڑنے میں مدد دیتا ہے — کوئی پروگرام جو روبوٹ کو حرکت دے، یا کسی جسمانی روبوٹ کے ساتھ کردار ادا کرنا — ایسے طریقوں سے جو خالص اسکرین پر مبنی تعامل شاید نہ دے سکے۔ روبوٹکس تعلیم میں AI کا سب سے واضح تجسم ہے، جو سیکھنے والوں کو دیکھنے، چھونے اور مشاہدہ کرنے کے لیے کچھ دیتا ہے۔
 
-### علمی ذخیرے کی تحقیق میں مجسم سیکھنا کیسے نمودار ہوتا ہے
+## علمی ذخیرے کی تحقیق میں مجسم سیکھنا کیسے نمودار ہوتا ہے
 
 - **زمین یافتہ پروگرامنگ:** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] [[cs-education|بلاک پروگرامنگ]] کو مجسم روبوٹ کے اجرا میں زمین دیتا ہے اور تصنیف، اجرا، مشاہدے اور نظرثانی کا ایک تنگ چکر بناتا ہے تاکہ سیکھنے والے اپنے کوڈ کو رویہ بنتے دیکھیں۔
 - **سماجی-روبوٹ تعامل:** [[educational-robotics|سماجی روبوٹ]] جو [[storytelling-in-education|کہانی سنانے]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]، [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]])، کردار ادا کرنے ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) اور اشاروں کی زبان ([[pepper-robot-sign-language-lis-2025|Pepper]]) کے لیے استعمال ہوتے ہیں، مجسم سماجی تعامل فراہم کرتے ہیں جو رشتوں اور [[social-emotional-learning|جذباتی]] سیکھنے کو سہارا دیتا ہے۔
@@ -45,12 +45,13 @@ connected_articles: [fonteles-embodied-learning-human-in-the-loop-multimodal-202
 - **اشارہ بطور فہم کا ثبوت:** [[multimodal-embodied-cognition-oral-explanations-2026|Morphew et al.]] کمپیوٹر وژن سے اشاروں کی ٹریکنگ کو [[llm]] کی گفتار کے تجزیے کے ساتھ ملاتے ہیں تاکہ دکھائیں کہ انجینئرنگ کے طلبہ کی شماریات کی تصوراتی سمجھ گفتار اور اشارہ دونوں سے ظاہر ہوتی ہے۔ اعلیٰ اعتماد والے وضاحتی اشارے مخصوص تصورات (خاص طور پر اوسط) کے گرد جمع ہوتے ہیں، اور اشارے اور گفتار کا قریبی جوڑ مربوط تصوراتی گفتار کی نشاندہی کرتا ہے جبکہ فاصلہ ابھرتے خیالات کا — جو مجسم عمل کو [[assessment-validity|جانچ]] میں [[multimodal|ملٹی موڈل لرننگ اینالیٹکس]] کے ذریعے بطور ثبوت کھڑا کرتا ہے، نہ کہ صرف سیکھنے کے طریقہ کار کے طور پر۔
 - **محض زبان والا تسہیل کار استفسار کو اُس طرف کھینچتا ہے جو کہا جا سکے۔** ماسٹرز کی سیالی-سکونیات کی تجربہ گاہ میں طلبہ نے پہلے ہاتھ سے اُٹھان کے ماڈل کو بنایا، پھر ایک Gemini پر مبنی تسہیل کار نے اسے نئے مظہر پر لاگو کرنے میں شمولیت کی۔ تین جوڑوں میں AI نے ISLE ترتیب برقرار رکھی، مگر "بس بتا دیں" کے دباؤ پر ایسی کمیت کی قدریں پیدا کر دیں جو کسی نے ناپی نہ تھیں، اور ایک ریموٹ شریک نے جسمانی طور پر درست چکر مکمل کیا جو صاف مگر بے جسم تھا ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani, 2026]])۔ ڈیزائن کا سبق تبدیلی کے بجائے ترتیب ہے: پہلے ماڈل جسم میں بنائیں، پھر زبان کے ماڈل کو اسے لاگو کرنے دیں۔
 
-### مجسم ذہانت اور بے جسم AI کی تنقید
+## مجسم ذہانت اور بے جسم AI کی تنقید
 
 علمی ذخیرے کی تجسم کی تحقیق کا دوسرا، زیادہ نظریاتی دھاگہ AI کی [[sociocultural-learning|وساطت والے سیکھنے]] میں *جسم* کے کردار سے متعلق ہے — جسمانی روبوٹ کے ذریعے نہیں، بلکہ اس سوال کے ذریعے کہ کیا [[ai-technologies|AI نظام]] خود مجسم ہیں (یا ہو سکتے ہیں)۔ یہ کام تجریدی معلومات کی کارروائی پر بنے علامتی، بے جسم AI ماڈلوں کے غلبے کو چیلنج کرتا ہے:
 
 - **مجسم AI بطور ڈیزائن اصول۔** **E3-HOT فریم ورک** دلیل دیتا ہے کہ سیکھنے والوں کی علمی ایجنسی اور [[critical-thinking|اعلیٰ درجے کی سوچ]] کو برقرار رکھنے کے لیے (اور [[cognitive-offloading|علمی آؤٹ سورسنگ]] کی حوصلہ افزائی کے بجائے) AI کو *مجسم ذہانت* کے گرد ڈیزائن کرنا چاہیے — حالات میں جڑاؤ، مجسم شرکت اور علمی تخلیق — ایک مجازی-حقیقی یکجا سیکھنے کے ماحول کے اندر۔([[zhu-e3-hot-embodied-intelligence-sustainable-learning]])
 - **بے جسم [[generative-ai|جنریٹو AI]] کی حدود۔** ماہ بعد از علم دانشوری دلیل دیتی ہے کہ موجودہ GenAI نظاموں میں پروپریوسیپشن، ملٹی موڈل ایجنسی اور مجسم مشق کی کمی ہے، اور حالات بندی، ابھراؤ اور حسی-حرکی جوڑ میں جڑے "مجسم AI" کی وکالت کرتی ہے، اور ادراکی-[[affective-computing|جذباتی]] کوریوگرافی تجویز کرتی ہے جو انسان–[[student-ai-interaction|AI تعامل]] کے لیے ہو۔([[videla-embodied-ai-education-choreography]])
+- **اینایکٹیوزم علم کو ساختی جوڑ میں منتقل کرتا ہے۔** [[videla-why-education-cannot-be-automated-2026|Videla، Ross اور Aros (2026)]] شدید اور وسیع اینایکٹیوزم کو چھوڑتے ہیں، جس میں علم فطری طور پر دنیاوی ہے، نمائندہ نہیں؛ چنانچہ تعلیمی ٹیکنالوجیز مواد پہنچانے والے علمی اوزاروں کے بجائے ادراک اور مشترکہ عمل کو وسعت دینے والے ماحولیاتی شراکت دار بن جاتی ہیں۔
 - **تجسم، حالات بندی اور سماجی تعمیر۔** [[science-education|سائنسی سیکھنے]] میں AI اوزار "وساطتی آثار" کا کام دیتے ہیں جو ڈیجیٹل عملی برادریوں اور سرحد عبور کرنے کو ممکن بناتے ہیں، اور مجسم، مستند استفسار کو حقیقی دنیا اور بین الموضوعاتی سیاق و سباق سے جوڑتے ہیں۔([[li-ai-science-situated-learning-teachers-2025]]) یہ تجسم کو [[situated-learning]] اور [[distributed-cognition]] سے باندھتا ہے۔
 
 مجسم سیکھنا [[educational-robotics]]، [[educational-robotics]]، [[educational-robotics]]، [[active-learning]]، [[experiential-learning]]، [[situated-learning]]، [[distributed-cognition]]، [[computational-thinking]] اور [[social-emotional-learning]] سے جڑا ہے۔

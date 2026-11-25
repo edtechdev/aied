@@ -6,15 +6,19 @@ assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/quantitative-research"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [longitudinal-research, research-methods-aied, qualitative-research, mixed-methods-research, educational-measurement, item-response-theory, rct, learning-gains, student-engagement, self-efficacy, technology-acceptance-model, self-report-measures]
 connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching-rct-2026, acceptance-ai-english-tools-2026, tian-genai-learning-adoption-pathways-2026, teacher-education-ai-literacy-sdt-2026, jin-glat-genai-literacy-assessment, ai-lms-middle-school-longitudinal, adaptive-pretesting-retention, synthetic-educational-data-structural-fidelity-2026, liu-course-integrated-ai-tutoring-rct-2026, sriram-ethical-ai-medical-education-bibliometric-2026, li-nursing-genai-interaction-self-regulated-learning-2026, wang-ai-disruption-design-innovation-competence-2026]
@@ -39,12 +43,17 @@ connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching
 
 ## مقداری تحقیق کے بڑے طریقے
 
+### طولانی اور پینل ڈیزائن
+
+ایک ہی سیکھنے والوں کی بار بار پیمائش ارتباط کو ایک مسیر بنا دیتی ہے: پینل ماڈل مستحکم خاصیت کو موقع پر مبنی تبدیلی سے الگ کرتے ہیں، اور نمو ماڈل موجوں کے پار تبدیلی کی شکل اور شرح کا تخمینہ لگاتے ہیں۔ ڈیزائن کے خاندان، AI مطالعات میں کار آنے والے خطرات (روانی، اوزار کا انحراف، معاونت شدہ کارکردگی) اور زیادہ مضبوط مثالیں [[longitudinal-research|طولانی تحقیق]] پر بیان ہیں۔
+
 ### سروے اور ارتباطی تحقیق
 وقتی سروے خود بیانی رویوں، ادراکات، تحریک، [[self-efficacy]] اور ٹیکنالوجی کی قبولیت کو ناپتے ہیں، اور اکثر مفروضہ تعلقات اور وسطیوں کی جانچ کے لیے ریگریشن یا ساختی مساوات ماڈلنگ (SEM/PLS-SEM) سے ماڈل کیے جاتے ہیں۔ یہ نالج بیس کے ذخیرے پر چھائے ہوئے ہیں، خاص طور پر قبولیت، تحریک اور نفسیاتی میکانزم کے سوالات میں۔ [[acceptance-ai-english-tools-2026|AI کی معاونت والے انگریزی اوزاروں کی قبولیت]] [[technology-acceptance-model|TAM]] پر SEM کے ساتھ کھڑی ہے؛ [[tian-genai-learning-adoption-pathways-2026|GenAI اپنانے کے راستے]] PLS-SEM، fsQCA اور اہمیت–کارکردگی نقشہ بندی استعمال کرتا ہے؛ [[teacher-education-ai-literacy-sdt-2026|اساتذہ کی AI خواندگی]] [[self-determination-theory]] پر کھڑے عامل سے تصدیق شدہ سروے استعمال کرتی ہے۔
 
 - **طاقتیں:** بڑے نمونے؛ وسیع، کم لاگت کوریج؛ پیچیدہ وسطی ماڈلوں کی جانچ؛ ایسے رویوں کے لیے بھی ممکن جو مشاہدے میں مشکل ہوں۔
 - **حدود:** وقتی ڈیٹا سببیہت قائم نہیں کر سکتا؛ خود بیانی تعصب؛ سہولت کے نمونے عمومیت کو محدود کرتے ہیں؛ وسطی کوویریئنس سے نکالا جاتا ہے، ہیرا پھیری سے نہیں۔ ان حدود کے اوزار والے پہلو کے لیے [[self-report-measures]] دیکھیں۔
 - **سیر شدہ وسطی ماڈل اپنی ترتیب کی جانچ نہیں کر سکتا۔** 1,020 نرسنگ طلبہ کے واحد موجی سروے نے 1.36 کے کل اثر کو [[self-regulated-learning|خود ضابطہ سیکھائی]] کے راستے 0.92 براہ راست اور 0.44 بالواسطہ میں تقسیم کیا، جو کل کا 32.35% ہے، ایسے ماڈل کے ساتھ جس کے آزاد پیرامیٹر اتنے ہی ہیں جتنے مشاہدہ شدہ کوویریئنس، اور جو اس لیے تعمیر ہی کے باعث ڈیٹا کو دہرا دیتا ہے ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]])۔
+- **"جزئی" لیبل اس وقفے پر ٹک سکتا ہے جو صفر کے قریب ہو۔** 438 چینی یونیورسٹی طلبہ میں AI استعمال سے کارکردگی تک براہ راست راستہ β = 0.18، 95% CI (0.02, 0.34) رہا ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]])۔
 **قریب صفر کل بالواسطہ اثر دو زندہ راستے چھپا سکتا ہے۔** 568 ڈیزائن طلبہ کی ایک خود بیانی موج میں بالواسطہ تعلق فروغ کی توجہ کے راستے 0.0929 اور رکاوٹ کی توجہ کے راستے -0.0884 تھا، جو ملا کر 0.0045 بنتا ہے جبکہ براہ راست راستہ کل کا 98.7% اٹھا رہا تھا ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]])۔
 
 ### تجربی اور نیم تجربی تحقیق
@@ -82,6 +91,8 @@ connected_articles: [access-not-enough-ai-tutoring-2026, genai-can-harm-teaching
 
 - **طاقتیں:** درستگی اور شماریاتی طاقت؛ متعین آبادیوں تک عمومیت؛ سببی استنتاج (تجربی ڈیزائنوں کے ساتھ)؛ موثر بڑے نمونے کی کوریج؛ مطالعات میں مجموعی اور موازنہ پذیر۔
 - **حدود:** جو قابلِ پیمائش ہے وہی پکڑتی ہے، اور اکثر عمل، معنی اور سیاق و سباق چھوٹ جاتے ہیں ([[qualitative-research]] دیکھیں)؛ خود بیانی تعصب؛ اوزار غلط تصور ناپ سکتے ہیں ([[educational-measurement|پیمائش کے مسائل]] دیکھیں)؛ ارتباط بغیر سببیہت؛ AI کی تبدیلی کے مقابلے میں مصنوعی اور سست ہو سکتی ہے۔
+- 
+**یکجا کرنا جائزہ کے پیمانے پر ناکام ہو سکتا ہے۔** اعلیٰ تعلیم میں GenAI پر 103 مطالعات کے PRISMA جائزے نے کوئی میٹا تجزیہ نہیں چلایا کیونکہ ڈیزائن، موازنہ کنندگان اور پیمائش بہت متفرق تھے، اس کے بجائے نتائج کی قسم کے اتفاق کو κ = 0.781 پر رپورٹ کیا ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]])۔
 
 مقداری اور [[qualitative-research|معیاری]] طریقے ایک دوسرے کے تکمیلی ہیں — مقداری کام وسعت اور سببی طاقت دیتا ہے، معیاری کام گہرائی اور معنی۔ [[mixed-methods-research|مخلوط طریقوں کے ڈیزائن]] انھیں یکجا کرتے ہیں۔ طریقوں کے مکمل موازنے اور تجربی، سروے، معیاری اور دیگر ڈیزائنوں کے درمیان فرق کے لیے [[research-methods-aied]] دیکھیں۔
 

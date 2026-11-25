@@ -6,15 +6,19 @@ foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/prior-knowledge"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learners, constructivist, personalized-learning, student-modeling, misconceptions, icap-framework, knowledge-tracing, scaffolding, self-regulated-learning, transfer-of-learning, metacognition, cognitive-offloading, desirable-difficulties, learning-theories, productive-failure, retrieval-spacing-interleaving]
 connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-generative-learning, nie-personavlm-long-term-personalization-2026, lodge-loble-cognitive-offloading-2026, cognitive-offloading-llm-synthesis-writing, bridging-instructional-design-framework-math, knowledge-building-tutor-learning-2026, rachatasumrit-example-problem-ratio-2026, adaptive-intelligent-tutoring-primary-mathematics-2026]
@@ -57,6 +61,7 @@ connected_articles: [agentic-ai-pedagogical-best-practice-2026, genai-mindtool-g
 - **پرائمنگ اور فعال سازی بطور ڈیزائن۔** [[genai-mindtool-generative-learning|GenAI mindtool کے طریقے]] جان بوجھ کر "سیکھائی کے کام کو پرائم" کرتے ہیں، نئے مواد سے پہلے سوالیہ پرامپٹس، AI سے پیدا کردہ بصری مواد اور تشبیہات (مثلاً "آپ ماحولیاتی نظام کے بارے میں پہلے سے کیا جانتے ہیں؟") کے ذریعے سابقہ علم اور تجسس کو فعال کر کے — جواب مہیا کرنے کے راستے کے بجائے بازیافت اور ادغام کے راستے کا نمونہ پیش کرتے ہیں۔
 - **طالب علم کی ماڈلنگ اور یاد داشت۔** AI نظام بڑھتی ہوئی تعداد میں سیکھنے والوں کے سابقہ علم کی حالت اور طویل المدتی یاد داشت کی ماڈلنگ کرتے ہیں (مثلاً ٹیوٹرنگ کی یاد داشت میں سابقہ علم کی حالت اور بھولنے کے منحنی خطوط شامل کرنا)، جس سے وقفے وقفے سے دہرائی اور موافق نظرثانی ممکن ہوتی ہے جو ہر سیکھنے والے کے موجودہ علم پر تعمیر ہو۔([[nie-personavlm-long-term-personalization-2026]])
 - **ذاتی موافقت کا ایک ہینڈل۔** چونکہ طلبہ سابقہ علم میں بہت مختلف ہوتے ہیں، موافقت کو فرد کے مطابق ڈالنا ضروری ہے — یہ [[personalized-learning]] اور موافق [[scaffolding]] کی مرکزی دلیل ہے، جو طلبہ سے اُن کی حقیقی موجودہ حالت پر ملتے ہیں، جماعت کی اوسط کے مفروضے پر نہیں۔
+- **سابقہ علم واحد سیکھنے والے کی خصوصیت تھی جس نے موافق معاونت کو تعدیل کیا۔** جن طلبہ کو مواد پہلے سے معلوم تھا انہیں زیادہ فائدہ ہوا (g = .74، 95% CI [.42, 1.05]) بمقابلہ اُن کہ جن کو معلوم نہیں تھا (g = .63 [.46, .80])، اور دونوں کو فائدہ ہوا، جو اِس بات سے ملتا ہے کہ موافقت غیر ضروری مدد واپس لے لیتی ہے، نہ کہ ماہریت کا الٹا اثر ہو ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]])۔
 
 ## تعلیم میں AI کی تشکیل کے لیے مضمرات
 

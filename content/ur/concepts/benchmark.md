@@ -8,15 +8,19 @@ connected_faqs: [reporting-interpreting-aied-research, checking-whether-educatio
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/benchmark"
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-22T12:23:33-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
 connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026]
@@ -47,11 +51,12 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-a
 
 - **سیکھنے والے کے مطابق ڈھلنا بطور واضح بینچ مارک معیار۔** Teaching Monster Challenge کسی متعین سیکھنے والے شخصیہ کے مطابق ڈھلنے کو اسکور کرتا ہے، مگر اُس کا خودکار LLM جج صرف ایک کمزور دم کو الگ کر سکا — سرکردہ نظام اُس کی حد کے قریب اسکور کر گئے اور اُس کی درجہ بندی ہجوم کی ترجیح سے متفق نہ رہی (Spearman ρ = −0.17) ([[teaching-monster-pck-benchmark-2026|Lin وغیرہ (2026)]])۔
 
-### AIED میں بینچ مارک کیوں اہم ہیں
+## AIED میں بینچ مارک کیوں اہم ہیں
 
 بینچ مارک [[ai-ed-evaluation]] اور [[assessment-validity]] سے جڑتے ہیں — سخت بینچ مارک کے بغیر [[intelligent-tutoring|AI ٹیوٹرنگ]] کی اثر انگیزی کے دعوے ناقابلِ تصدیق رہتے ہیں۔ وہ [[bias-mitigation]] سے بھی جڑتے ہیں، کیونکہ بینچ مارک کا ڈیزائن تعصبات کو شامل یا بڑھا سکتا ہے۔ بینچ مارک کی کارکردگی اور حقیقی دنیا کی افادیت کے درمیان کشمکش متعدد مضامین میں کھوجی گئی ہے، جو [[transfer-of-learning]] کے خدشات سے جڑتی ہے جو [[generative-ai]] اطلاقات میں اٹھتے ہیں۔
 
-- **جب ناکامی پیمانے میں ہو، نظام میں نہیں:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] نے 179 نظریاتی [[cs-education|کمپیوٹر سائنس]] امتحانی سوالات میں BLEU-4 = 0.0000 حاصل کیا جبکہ چھ معیار والی تدریسی روبرک نے 0.7620 دیا، کیونکہ منطقی طور پر ہم معنی ثبوت اکثر اشارے، متغیروں کے نام اور ثبوت کی حکمتِ عملی میں مختلف ہوتے ہیں۔ صفر اسکور جواب کے معیار سے زیادہ n-gram کے اشتراک کے بارے میں بتاتا ہے، جو رسمی شعبوں کے AIED نظاموں کے لیے سطحی پیمانوں کو مرکزی عدد سمجھنے کے خلاف عمومی دلیل ہے۔
+- **تشخیصی بینچ مارک شواہدی حد سے زیادہ اعتماد کو بے نقاب کرتے ہیں۔** [[llm-cognitive-diagnosis-handwritten-math|MathCog]] میں، تمام 18 جانچے گئے LLMs 3,036 استادی تشریح شدہ دستخط والے ریاضی کے فیصلوں پر macro F1 0.5 سے نیچے رہے، شواہدی مضبوطی کا اضافی دارپ رکھا اور شہادت کے اقتباس تخلیق کیے — ایسی ناکامیاں جنہیں مصنفین OverAttr اور FalseAttr کے پیمانوں سے عددی شکل دیتے ہیں۔
+- **جب ناکامی پیمانے میں ہو، نظام میں نہیں:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] نے 179 نظریاتی [[cs-education|کمپیوٹر سائنس]] امتحانی سوالات میں BLEU-4 = 0.0000 حاصل کیا جبکہ چھ معیار والی تدریسی [[rubrics|روبرک]] نے 0.7620 دیا، کیونکہ منطقی طور پر ہم معنی ثبوت اکثر اشارے، متغیروں کے نام اور ثبوت کی حکمتِ عملی میں مختلف ہوتے ہیں۔ صفر اسکور جواب کے معیار سے زیادہ n-gram کے اشتراک کے بارے میں بتاتا ہے، جو رسمی شعبوں کے AIED نظاموں کے لیے سطحی پیمانوں کو مرکزی عدد سمجھنے کے خلاف عمومی دلیل ہے۔
 - **تعمیر کی سطح پر متضادِ حقیقت بینچ مارک۔** CFES-P24 کثیرالوسائط سیکھنے کے اصولوں کو متعین، الٹے پلٹائے جا سکنے والے سلائیڈ تبدیلیوں کے طور پر بیان کرتا ہے تاکہ جانچا جا سکے کہ MLLM مخصوص تدریسی ڈیزائن تعمیرات پر ردِ عمل دیتے ہیں یا صرف قابلِ فہم مجموعی درجہ بندی پیدا کرتے ہیں۔ ایک منجمد پائلٹ نے تعمیر کی پہچان (عمل، اصول، مرمت، شہادت کی نشان دہی) 8/8 دکھائی جبکہ موازناتی فیصلہ (سمت 6/8) اور شدت کی کیلیبریشن (0/8) ناکام رہی — جو مجموعی اسکوروں کے بجائے تہہ دار اسکور کارڈ کی دلیل ہے۔([[cfes-p24-multimodal-slide-auditing-2026]])
 
 - **[[hallucination-risk|ہیلوسینیشن]] اور توانائی کو جانچ میں شامل کریں، صرف درستگی کو نہیں۔** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen وغیرہ (2026)]] نے ہیلوسینیشن کو حاصل شدہ کھلے لائسنس والے اقتباسات کے مقابلے entailment کے طور پر اسکور کیا (ماہرین کے فیصلے کے ساتھ κ = 0.76) اور فی استفسار 1.8 mWh درج کیا، اور اُن کے ablation نے ریٹریول کو پہلی جگہ رکھا: مقامی LLM نے بغیر ریٹریول 52.3% حاصل کیا، جو 55.4% TF-IDF بنیادی خط سے کم ہے۔
@@ -82,6 +87,20 @@ connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-a
 - **ماڈل کی قابلیت کو کیلیبریٹ شدہ سطح کے طور پر رپورٹ کریں، صرف درستگی کے طور پر نہیں۔** [[standardized-assessment-llm-english-proficiency-2026|Min وغیرہ (2026)]] 2,050 سیکھنے والوں کے جوابوں سے 624 ماہر تشریح شدہ اشیاء کو نامزد مہارت کی سطحوں پر نقش کرتے ہیں، اور پاتے ہیں کہ سرکردہ ماڈل کیلیبریٹ شدہ حد سے آگے نکل جاتے ہیں — یہ حد جو فیصد چھپا دیتا ہے۔
 
 - **اسکورنگ کا قاعدہ اُس ماڈل سے گیم کیا جا سکتا ہے جسے وہ تربیت دیتا ہے۔** ایک [[adaptive-learning|انطباقی]] پیمانہ جسے ایک ہی بہترین فیصلہ دہرانے سے زیادہ سے زیادہ کیا جاتا ہو، یہ دکھاتا ہے کہ بینچ مارک کے ڈیزائن کو argmax شائع کرنا چاہیے، انطباق کو فرق کے طور پر اسکور کرنا چاہیے، اور اتفاق سے اوپر کے بنیادی خط رپورٹ کرنے چاہئیں ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]])۔
+
+مماثلت کا قاعدہ پیمائش کا حصہ ہے، اور اس کا حجم ہلکا نہیں۔ [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah اور ساتھیوں (2026)]] نے 11 ترتیبات — embedding ماڈل، [[generative-ai|تولیدی]] LLM سیٹ اپس اور ایک ReAct ایجنٹ — کو 926 ملازمتی اشتہاروں کے ایک ESCO تشریح شدہ بینچ مارک کے مقابلے میں اسکور کیا جس میں 1,696 سنہری مہارتیں تھیں، پھر ہر ایک کو آٹھ سطحی مماثلت کی پائپ لائن سے دوبارہ اسکور کیا۔ پائپ لائن بالکل لفظی مماثلت سے 0.85 embedding مماثلت کی حد تک چلی، اور تمام 11 ترتیبات میں پکڑ 11 سے 72 فیصد پوائنٹس بڑھی۔ سب سے بڑا چھلانگ 70.9 پوائنٹس Gemini 2.5 Pro کو chain-of-thought کے ساتھ ملا، جس کے بیان سنہری لیبلوں سے معنوی طور پر ملتے تھے مگر لفظی طور پر نادراً — یہ اتار چڑھاؤ مصنفین اس طرح پڑھتے ہیں کہ بالکل مماثلت کی جانچ نے صلاحیت کے برابر فارمیٹنگ کی پیمائش کی۔
+
+## جہاں بینچ مارک موجود ہیں
+
+بینچ مارک ہمیشہ مقالہ نہیں ہوتا۔ تین سطحوں پر اب عملی مطالعہ کا زیادہ تر حصہ آتا ہے، اور وہ اس بات میں مختلف ہیں کہ قاری کیا چیک کر سکتا ہے۔
+
+Leaderboard بینچ مارک کو جاری موازنے بناتے ہیں۔ [GradeBench](/resources/gradebench/) 45 یونیورسٹی کورسز کے 464 دستخط شدہ STEM جوابات پر سرکردہ ماڈلز کو اس روبرک آئٹمز کے مقابلے میں اسکور کرتا ہے جنہیں اساتذہ نے اصل میں منتخب کیے، اور بہترین ماڈل 57.3% بالکل روبرک مشابہت تک پہنچتا ہے۔ لاگت کا محور leaderboard سے زیادہ اہم ہے: 0.8 پوائنٹ پیچھے ماڈل فی ہزار جوابات کا لگ بھگ ساتویں لاگت آتا ہے۔ یہ گریڈنگ ناپتا ہے، سیکھنے کو نہیں۔
+
+پکڑنے والے leaderboard مختلف سوال کا جواب دیتے ہیں۔ [RAID leaderboard](/resources/raid-benchmark-leaderboard/) پکڑنے والے ماڈلوں کو میدانوں، ڈیکوڈنگ کی ترتیبات اور حیران کن حملوں پر اسکور کرتا ہے، اور اس کا 1% جھوٹے مثبت کی شرح پر حقیقی مثبت کی شرح ستون وہ ہے جو ادارے کے پیمانے پر اہم ہے، جہاں 1% سینکڑوں طلبہ ہیں۔
+
+کچھ بینچ مارک صلاحیت کے بجائے رسائی کا موازنہ کرنے کے لیے موجود ہیں۔ [Fab AI](/resources/fab-ai-benchmark-leaderboard/) کم اور درمیانۂ آمدن والے ممالک میں تعلیم کے لیے ماڈلوں کا موازنہ تدریس، بنیادی خواندگی، SEND اور بصری استدلال پر کرتا ہے، اور اسکور کے ساتھ قیمت، پیرا میٹر کی تعداد اور کھلا وزن کے ساتھ ستون ہیں۔ یہ پھیلاؤ — سرکردہ ماڈل نوے کے قریب، اور 2B سے کم کھلے ماڈل 21% اور 43% کے درمیان — اطلاق کا سودا بازی واضح کر دیتا ہے۔
+
+یہ فرق برقرار رکھنا قدر ہے۔ Leaderboard کا اسکور مقررہ آئٹمز کے مجموعے پر ایک دعویٰ ہے، کبھی کلاس روم پر نہیں، اور یہ تین آلات اس بات پر متفق نہیں کہ تعلیمی پیمائش کس لیے ہے۔
 
 ## عام غلط فہمیاں
 

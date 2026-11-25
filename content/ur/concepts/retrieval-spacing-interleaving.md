@@ -10,15 +10,19 @@ level: [higher ed, k 12]
 audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-08T13:26:06-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/retrieval-spacing-interleaving"
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogical-patterns, desirable-difficulties, cognitive-psychology, prior-knowledge, metacognition, self-regulated-learning, mastery-learning, knowledge-tracing, cognitive-offloading, transfer-of-learning, formative-assessment, productive-failure, learners]
 connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition, llm-interaction-depth-task-quality-recall-2026, rachatasumrit-example-problem-ratio-2026, schuetze-knowledge-tracing-forgetting-2026, bilingual-llm-lecture-companion-srl-2026, student-cheat-sheets-make-or-take, knowloop-confusion-to-consolidation-2026, simulating-learner-task-selection, nie-personavlm-long-term-personalization-2026, learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr, agentic-ai-pedagogical-best-practice-2026, ai-tutor-modality-randomized-field-experiment-2026, pan-chatgpt-prequestions-memory-comprehension-2026]
@@ -89,10 +93,12 @@ connected_articles: [adaptive-pretesting-retention, memdora-ai-spaced-repetition
 
 - **چھوٹے نمونے اور یکساں سیاق۔** پیشگی جانچ کے مطالعے کا تجزیاتی نمونہ ایک اپلائیڈ شماریات کورس کے 89 انڈرگریجویٹس ہیں، فی بازو 27–34 طلبہ؛ LLM تعامل کے مطالعے میں n = 22 اور یک گروہی ڈیزائن ہے جو کوئی سببی دعویٰ سہار نہیں سکتا؛ واپس سکھانے کے مطالعے میں 22 شرکاء ہیں۔ پیشگی جانچ کے مصنفین کہتے ہیں کہ عمومیت کے لیے میدانوں اور کام کی اقسام میں تکرار درکار ہے۔
 - **مختصر یا غائب یادداشت کے وقفے۔** تعامل کی گہرائی کے مطالعے نے صرف فوری یادداشت جانچی، کوئی تاخیری پیمائش نہیں، چنانچہ اُس کا صفر صرف قلیل مدتی یادداشت کے لیے صفر ہے۔ Memdora کا یادداشت کا فائدہ اور [[llm-interaction-depth-task-quality-recall-2026|LLM گہرائی کی علیحدگی]] یکساں طور پر اُن ہفتوں میں نہیں جانچے گئے جن کی وقفہ کاری کا ادب تقاضا کرتا؛ پیشگی جانچ کے مطالعے کی سات ہفتوں کی کھڑکی ذخیرے میں سب سے طویل ہے۔
-- **[[self-report-measures|خود بیانیہ]] اور بالواسطہ پیمانے۔** پیشگی جانچ کے مطالعے میں مشق کی محنت ایک رویے کا اشارہ ہے جسے دو جانچنے والوں نے گفتگو کے لاگز سے ایک ربڑک کے مطابق درجہ دیا، اور مصنفین صریحاً نوٹ کرتے ہیں کہ یہ اندرونی [[motivation|ترغیبی]] حالت کی پیمائش نہیں؛ LLM گہرائی کا پیمانہ کلیدی لفظ پر مبنی بالواسطہ اشارہ ہے جو وضاحت طلبی کی سطحی صورت پکڑتا ہے، اُس کا معیار نہیں۔
+- **[[self-report-measures|خود بیانیہ]] اور بالواسطہ پیمانے۔** پیشگی جانچ کے مطالعے میں مشق کی محنت ایک رویے کا اشارہ ہے جسے دو جانچنے والوں نے گفتگو کے لاگز سے ایک [[rubrics|ربڑک]] کے مطابق درجہ دیا، اور مصنفین صریحاً نوٹ کرتے ہیں کہ یہ اندرونی [[motivation|ترغیبی]] حالت کی پیمائش نہیں؛ LLM گہرائی کا پیمانہ کلیدی لفظ پر مبنی بالواسطہ اشارہ ہے جو وضاحت طلبی کی سطحی صورت پکڑتا ہے، اُس کا معیار نہیں۔
 - **آلات اور ماڈلنگ کی حدیں۔** ذخیرے میں [[knowledge-tracing]] ماڈل ٹھیک وہیں ناکام ہوتے ہیں جہاں وقفے کے فیصلوں کو اُن کی ضرورت ہوتی ہے، اور مصنفین ماضی کی کامیابیوں کو تعیناتی کے لحاظ سے حقیقت پسندانہ تصدیق کے بجائے پس پشت مکمل ڈیٹا سیٹ فٹ کرنے سے منسوب کرتے ہیں۔ دو لسانی ساتھی کے فلیش کارڈ کا معیار حقیقی حوالے سے غیر تصدیق شدہ ہے، کوئی خودکار حقیقت جانچنے والی تہہ نہیں، اور اُس نے کوئی نتائج کا مطالعہ چلایا ہی نہیں۔
 - **انٹرلیونگ کے پاس یہاں عملاً کوئی براہِ راست ثبوت نہیں۔** جیسا کہ اوپر کہا گیا، ذخیرے میں کوئی بلاک بمقابلہ ملی جلی موازنہ نہیں، صرف ایک نقل ہے جس میں Interleaving کئی میں سے ایک چنا جا سکنے والی حکمتِ عملی ہے۔
 - **موضوعی آبادیاں اور مواد۔** شواہد کی بنیاد [[higher-ed|اعلیٰ تعلیم]]، STEM اور شماریات کے مواد، اور جیومیٹری و کثیر الانحطاط کے مواد سے حقیقت بمقابلہ مہارت کے فرق پر مرکوز ہے؛ [[k-12|K-12]] ماحول، [[humanities-education|انسانیات]] اور تحریر، اور غیر مغربی کلاس روموں تک عمومیت اِن مطالعات سے ثابت نہیں ہوتی۔
+
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan، Schweppe، Teo، Indrajaya اور Wenzel (2026)]] نے تخلیقی AI کو جانچ کے اثر کے پیش حصے پر رکھا: 675 لفظوں والے متن کو پڑھنے سے پہلے دو ChatGPT سے پیدا کیے گئے پیشگی سوالات کے جوابات دیے گئے۔ 90، 128، 153 اور 157 بالغوں کے چار تجربات میں، پیشگی سوال کچوانا صرف پڑھنے سے بہتر رہا (مشق کیے گئے سوالات پر d = 1.12، غیر مشق کیے سوالات پر d = 0.78) اور انسانی پیدا کردہ سوالات کے برابر رہا۔ سیکھنے والے کرتے ہی کرتے درست جواب نہیں دے سکے — پہلے تجربے میں درستگی 0.056 — اور پھر بھی زیادہ سیکھا، جو پیشگی جانچ کے اثر کی دستخط ہے۔ منتقلی دوری کے ساتھ گھٹتی گئی: جانچے گئے سوالات غیر جانچے گئے اسی ماخذ والے سوالات پر بھاری رہے (d = 0.46)، جو غیر جانچے گئے دوسرے ماخذ والے سوالات پر بھاری رہے (d = 0.32)۔ سوال پیدا کرنا سستا ہو گیا؛ ریٹریول لازمی رہا۔
 
 ## عام غلط فہمیاں
 

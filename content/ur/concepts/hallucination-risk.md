@@ -9,9 +9,9 @@ connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
-updated: "2026-11-24T02:05:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/hallucination-risk"
-source_updated: "2026-11-22T12:10:00-05:00"
+source_updated: "2026-11-24T10:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -19,12 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-24"
     agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
-    date: "2026-11-04"
-    agent: hermes-agent
 connected_concepts: [cognitive-offloading, human-in-the-loop-ai, ai-ed-evaluation, pedagogical-safety, knowledge-tracing, rag, academic-integrity, teacher-role, multimodal, generative-ai, llm, productive-failure]
-connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026]
+connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-genai-inorganic-chemistry-verification-2026, eduframetrap-llm-sycophancy-educational-safety, eduguard-safe-rag-llm-tutor, frontiers-gai-hallucination-dependence-2026, genai-higher-education-systematic-review-2026, humble-prompt-injection-ai-grading-red-team-2026, ivory-psychology-assessment-integrity-2026, llm-cognitive-diagnosis-handwritten-math, llm-fallacy-misattribution, maitra-next-gen-literature-reviews-ai-guide-2026, milicevic-socratic-trap-strategic-misconceptions-2026, prompt-injection-defenses-educational-llm-tutors, sidorkin-ai-generated-course-readings-2026, sim-ai-summary-memory-distortion-2026, tuo-armada-multi-agent-debate-overreliance-2026, veriforge-narrative-drafting-scaffolding-2026, yasir-llm-tutoring-agents-2026, ayres-critical-ai-literacies-media-literacy-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -71,6 +67,8 @@ connected_articles: [authentic-assessments-generative-ai-pilot-2026, bauyrzhan-g
 **اعتبار کے اشارے اُلٹا اطاعت بڑھا سکتے ہیں۔** مخالف حرکت اُس وقت ظاہر ہوتی ہے جب غیر معتبر اخراج کو سجایا جائے: ARMADA بحث کے انٹرفیس میں حوالے اور اعتبار کے اشارے شامل کرنے سے اُن شرکاء کا تناسب 112% بڑھ گیا (31.8% بمقابلہ 15.0%) جو درست ابتدائی رائے سے ہٹ کر AI کے غلط موقف کی طرف چلے گئے، اور دستی جانچ نے پایا کہ بعض حوالہ شدہ مقدمات غیر متعلقہ یا فرضی حوالوں سے منسوب تھے ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo وغیرہ، 2026]])۔
 
 ایک الگ ناکامی کی صورت نامعلوم طرز کا مسئلہ ہے۔ [[bauyrzhan-genai-inorganic-chemistry-verification-2026|تین چیٹ بوٹس پر 42 غیر نامیاتی کیمیائی مسائل پر ایک اخباری بینچ مارک]] میں ہر چیٹ بوٹ نے بھرپور غلط عبارتوں کو پراعتماد انداز میں جواب دیا، نہ نقص کی نشاندہی کی، نہ وضاحت مانگی، نہ انکار کیا، اور شک کے اشارے کبھی نتیجے تک نہیں پہنچے۔ ناکامی غلط جواب نہیں بلکہ خاموشی سے قبول کیا گیا بے بنیاد مفروضہ ہے۔
+
+**علمی لاپروائی ایک الگ ناکامی کی صورت ہے۔** [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] شعاں پیداوار کو ثبوتی پابندی سے بے چین کہتے ہیں، اور اُس کی علمی لیٹریسی اس فاصلے کو نشانہ بناتی ہے جو پراعتماد، سچ جیسے لگنے والے نظام اور غیر موجود بنیاد کے درمیان ہے۔
 
 ## عام غلط فہمیاں
 

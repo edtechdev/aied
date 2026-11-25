@@ -10,15 +10,19 @@ discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/english-education"
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [language-learning, writing-education, reading-education, multilingual-learning, higher-ed, k-12, generative-ai, llm, automated-assessment, ai-feedback-quality, feedback-literacy, equity-in-ai-education, bias-mitigation, academic-integrity, discipline-specific-aied]
 connected_articles: [alharbi-ethical-genai-eap-2026, feedback-literacy-scripts-eap-writing, genai-differentiated-eap-reading-materials-2026, tact-pedagogically-adaptive-esl-tutoring, sutama-chatgpt-eportfolio-speaking-2026, irwin-muller-efl-peer-feedback-literacy, ai-vs-human-assessment-efl-tpck-2026, acceptance-ai-english-tools-2026, ai-tools-arab-english-classrooms, self-referential-l2-writing-llm-assessment, ai-interlocutor-l2-spoken-dialogue, genai-linguistic-diversity-academic-writing, governing-unseen-ai-literacy-language-teachers-2026, structural-silence-underrepresented-language-ai-2026, liu-emerging-tech-tefl-review-2026, bird-multimodal-educational-literature-2026, li-language-educators-genai-review-2026, zhao-ji-appraisal-human-ai-revisions-2026, ai-limitations-efl-higher-education-review-2026]

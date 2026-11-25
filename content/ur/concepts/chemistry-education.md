@@ -9,15 +9,19 @@ discipline: [chemistry education, stem education, teacher education]
 level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/chemistry-education"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [stem-education, physics-education, discipline-specific-aied, generative-ai, ai-literacy, assessment, formative-assessment, feedback, human-ai-collaboration, self-regulated-learning, constructivist, personalized-learning, simulation, critical-thinking, reducing-ai-misuse, cognitive-offloading, ethics, educational-policy-ai, teacher-education, philosophy-of-ai-in-education, higher-ed, k-12, agency, biology-education]
 connected_articles: [ai-science-chemistry-education-systematic-review-2025, unesco-ai-guidelines-chemical-education-2026, context-based-ai-secondary-chemistry-2026, ai-supported-experimental-design-chemistry-2026, instructor-ai-roles-chatgpt-formative-assessment-2026, philosophy-experimentation-ai-chemistry-2026, cvengros-grading-handwritten-chemistry-ai-2026]
@@ -50,6 +54,8 @@ connected_articles: [ai-science-chemistry-education-systematic-review-2025, unes
 **تکنیکی درستگی اور تنقیدی AI خواندگی۔** منظم شواہد دکھاتے ہیں کہ [[llm|LLMs]] کیمسٹری کی بنیادی اصطلاحات بیان کر سکتے ہیں مگر سخت مقداری کاموں میں کمزور ہیں اور فضائی استدلال (مثلاً NMR)، حد سے زیادہ خود اعتمادی، اور نویسیات کی حساسیت سے الجھتے ہیں ([[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]؛ [[unesco-ai-guidelines-chemical-education-2026|UNESCO نقطہ نظر]] میں ChemBench/QCBench کے نتائج)۔ اِس سے **AI کی پیداوار کے ساتھ جانچ پر مبنی شمولیت** — اُس سے سوال کرنا، تصدیق کرنا، اور کیمیائی اصولوں کے خلاف پرکھنا — ایک مرکزی سیکھنے کا ہدف بن جاتی ہے، جو [[ai-literacy]]، [[critical-thinking]] اور [[reducing-ai-misuse]] سے جڑتی ہے۔
 
 **اخلاقیات، پالیسی اور علمی بہاؤ۔** [[unesco-ai-guidelines-chemical-education-2026|UNESCO رہنما خطوط کا نقطہ نظر]] **علمی بہاؤ** سے خبردار کرتا ہے — غیر شفاف الگورتھموں پر انحصار جو سائنسی تحقیق کو سببی سمجھ سے الگ کر دے — اور مطالبہ کرتا ہے کہ مواد کی فراہمی سے **علم سازی** کی طرف منتقل ہوا جائے، تنقیدی AI کیمیائی خواندگی، انسانی استدلال کو ترجیح دینے والی جانچ، اور عالمی [[digital-divide|رسائی کے خلا]] کو بند کرنا۔
+
+**جذباتی فیڈبیک اُس قلِق کو بھی بڑھا سکتا ہے جسے ہٹانا چاہتا ہے۔** نویں جماعت کی لیبارٹریوں میں AI کے جذباتی فیڈبیک کا ایک سمسٹر لیبارٹری قلِق کے بڑھنے (F = 4.60) اور کامیابی کے جواز کے ساتھ موافق ہوا، جبکہ استاد کی رہنمائی والی تحقیقی کلاس کی کارکردگی بڑھی (F = 7.92) ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]])۔
 
 ### متعلقہ تصورات سے روابط
 

@@ -7,15 +7,19 @@ foundations: [learning-design]
 pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learning-theories]
 technology: [educational-nlp, learning-analytics]
 confidence: high
-updated: "2026-11-08T12:53:49-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/icap-framework"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [active-learning, collaborative-learning, student-engagement, learning-analytics, constructivist, learning-design, metacognition, ai-literacy, human-in-the-loop-ai, limitations-in-aied-research]
 connected_articles: [icap-cognitive-engagement-llm-agents, hingle-collaborative-ai-literacy-2025, interactive-learning-dashboards-engagement, multimodal-learning-genai, llm-facilitation-timing-online-discussions, adaptive-scaffolding-cognitive-engagement-its, cogevolution-student-cognitive-evolution-agent-2026, assessing-student-drive-framework-2025]
@@ -89,6 +93,8 @@ ICAP کا پیداوری، عمل کی سطح کی شمولیت پر زور اُ
 2. **سیکھنے والوں کو مختلف اندازوں میں مشغول کریں۔** مؤثر [[ai-literacy|AI خواندگی]] کی تدریس سیکھنے والوں کو ICAP کی متعدد سطحوں پر مشغول کرتی ہے — غیر فعال سامنے آنا، فعال ہاتھ چلانا، تعمیری پیداوار اور تعاملی مکالمہ — اور وہ انداز چنتی ہے جو سیکھنے کے ہدف کے مطابق ہو۔([[hingle-collaborative-ai-literacy-2025]])
 3. **شمولیت کو ایمانداری سے ناپیں۔** ICAP محققین اور ڈیزائنرز کو یہ مشترکہ ذخیرۂ الفاظ دیتا ہے کہ حقیقی علمی شمولیت کو محض سرگرمی سے الگ پہچانیں — سطحی [[student-engagement|طالب علم شمولیت]] کی اصلاح کے طور پر۔([[icap-cognitive-engagement-llm-agents]])
 4. **انسان–LLM نشان زدگی کے فرق پر نظر رکھیں۔** اگر شمولیت کی کوڈنگ کے لیے خودکار نظام استعمال کیے جائیں، تو تربیت یافتہ انسانوں کے مقابلے میں اُن کی منظم کمی کا حساب رکھنا ہوگا۔([[icap-cognitive-engagement-llm-agents]])
+
+کام کا ڈیزائن، صرف ٹول کا ڈیزائن نہیں، حد مقرر کرتا ہے۔ 40 یونیورسٹی کورسز میں کوڈ شدہ 829 دھاگوں میں، جن مقامات پر مکالمہ تعمیری یا تعاملی تھا وہاں پیدا کردہ مصنوعات کو آخری معیار کی ہم مرتبہ درجہ بندی قدرے زیادہ ملی ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]])۔
 
 ## عام غلط فہمیاں
 

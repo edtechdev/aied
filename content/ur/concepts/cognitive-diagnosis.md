@@ -5,15 +5,19 @@ type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
-updated: "2026-11-04T01:21:13-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/cognitive-diagnosis"
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [knowledge-tracing, knowledge-graph, student-modeling, educational-measurement, item-response-theory, assessment, intelligent-tutoring, adaptive-learning, personalized-learning, automated-assessment, learning-analytics]
 connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-trap-misconceptions, llm-misconception-difficulty-easy-trap, llm-student-misconception-identification, student-math-competence-clustering, moon-cognitive-agent-compilation-problem-solver-modeling-2026, educlaw-bench-pedagogical-llm-agents-2026, huang-interpretable-knowledge-tracing-2026, xie-hillm-cd-2026, yasir-llm-tutoring-agents-2026, zhang-ct-ai-training-test-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, personalized-neural-cognitive-architecture-search-2026, pradeesh-outcome-knowledge-tracing-affinity-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, llm-common-modeling-mistakes-formalisms-2026, mechanics-cognitive-diagnostic-physics-2026, exrec-exercise-recommendation-knowledge-tracing-2025, llm-distractor-generation-student-reasoning-2026, misconception-acquisition-dynamics-llms-2026, pivot-generative-video-tutors-stem-2026, colearn-agentic-tutor-co-learning-loop-2026, omniedu-open-educational-foundation-models-2026, culturally-embedded-ai-diagnostic-assessment-2026]
@@ -69,13 +73,6 @@ connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-tr
 
 علمی تشخیص [[knowledge-tracing]]، [[student-modeling]]، [[educational-measurement]] اور [[assessment]] سے جڑتی ہے۔ اس کی بصیرتیں [[intelligent-tutoring]] اور [[adaptive-learning]] کو خوراک دیتی ہیں، اور LLM کے عہد کا کام اسے [[intelligent-tutoring|AI ٹیوٹرنگ]] میں غلط فہمیوں کی نشاندہی سے جوڑتا ہے۔
 
-## عام غلط فہمیاں
-
-- **"تشخیص ماڈلوں کے لیے ایک حل شدہ قابلیت ہے۔"** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] نے ایک کھلے 4B/9B/27B خاندان میں چار قابلیتوں میں سے ایک کے طور پر تشخیصی استدلال کی نگرانی کی، اور **علم کی حالت کی تشخیص ان چاروں میں سب سے کمزور رہی**۔ تشخیص وہ قابلیت ہے جس نے وہ تربیت مسترد کی جس نے باقی تین پیدا کیے۔
-- **"ماڈل طلبہ کی غلطیاں نقل کر سکتے ہیں، پس وہ ان کی تشخیص بھی کر سکتے ہیں۔"** رکاوٹ اس کے الٹ طرف ہے۔ ماڈلز نے **ڈسٹریکٹر ٹریس کے 95.2% میں** حل تیار کیا اور Eedi کی ایک مخصوص غلط فہمی کو **0.92 درستگی** سے نقل کیا، پھر بھی انہیں محدود کرنے والی چیز **صحیح حل فراہم کرنا** تھی، غلطی کی نقل نہیں۔ ممکنہ غلط جواب پیدا کرنا اسے پہچاننے سے آسان ہے۔
-- **"تشخیص کے لیے ہاتھ سے بنائی گئی غلط فہمیوں کی فہرست درکار ہے۔"** منطقی propositions کی **6,106 جوڑی** درست اور غلط رسمی بندیوں پر ایک ورک فلو نے **248 کلسٹر تبدیلیاں** دریافت کیں جو **5,156 جوڑوں (84.44%)** کی وضاحت کرتی ہیں، جبکہ حوالہ جاتی مجموعے کی ہاتھ سے چنی گئی غلطیوں کے لیے یہ **4,370 (71.57%)** تھی۔ دریافت نے ماہرانہ ترتیب کو برابر کیا یا اس سے بڑھ گئی، اور یہ موڈل منطق پر بھی منتقل ہوئی — پس فہرست ایک نقطۂ آغاز ہے، حد نہیں۔
-- **"تشخیص صرف اسی وقت کارآمد ہے جب وہ کسی غلط فہمی کا نام لے۔"** یہ تشخیص کرنا کہ سیکھنے والے نے کون سے کورس نتائج حاصل کیے، نتائج کو ہی علمی تصورات بنا دیتا ہے اور تصوراتی تعلقات ماہرین سے تصدیق شدہ affinity mappings کے ذریعے فراہم کرتا ہے۔ نتیجے پر مبنی پروگراموں کے لیے یہ زیادہ قابلِ عمل اکائی ہے، اگرچہ یہ زیادہ موٹی ہے۔
-
 ## یہ عمل کے لیے کیا معنی رکھتا ہے
 
 **مدرسین کے لیے**
@@ -89,3 +86,9 @@ connected_articles: [llm-cognitive-diagnosis-handwritten-math, correct-answer-tr
 - دونوں سمتوں کو آلہ بندیں: غلط جواب کو پہچاننا اور درست جواب پیدا کرنا۔ حل کی بازیابی کا 95.2% عدد بتاتا ہے کہ تخلیق آسان نصف ہے اور ناکامی کی صورت پہچان میں ہے۔
 - جہاں شعبے کا ڈھانچہ اجازت دے، جامد فہرست کے بجائے دریافت کو ترجیح دیں، اور حوالہ جاتی مجموعے کے مقابلے میں احاطے کی رپورٹ دیں تاکہ موازنہ قابلِ فہم ہو۔
 - کوئی تشخیصی اسکور جاری نہ کریں بغیر یہ بتانے کے کہ وہ کس تعمیر کی پیمائش کرتا ہے اور اسے پیدا کرنے والے اشارے سے آزادانہ کیسے جانچا گیا۔
+## عام غلط فہمیاں
+
+- **"تشخیص ماڈلوں کے لیے ایک حل شدہ قابلیت ہے۔"** [[omniedu-open-educational-foundation-models-2026|OmniEdu (Liang et al., 2026)]] نے ایک کھلے 4B/9B/27B خاندان میں چار قابلیتوں میں سے ایک کے طور پر تشخیصی استدلال کی نگرانی کی، اور **علم کی حالت کی تشخیص ان چاروں میں سب سے کمزور رہی**۔ تشخیص وہ قابلیت ہے جس نے وہ تربیت مسترد کی جس نے باقی تین پیدا کیے۔
+- **"ماڈل طلبہ کی غلطیاں نقل کر سکتے ہیں، پس وہ ان کی تشخیص بھی کر سکتے ہیں۔"** رکاوٹ اس کے الٹ طرف ہے۔ ماڈلز نے **ڈسٹریکٹر ٹریس کے 95.2% میں** حل تیار کیا اور Eedi کی ایک مخصوص غلط فہمی کو **0.92 درستگی** سے نقل کیا، پھر بھی انہیں محدود کرنے والی چیز **صحیح حل فراہم کرنا** تھی، غلطی کی نقل نہیں۔ ممکنہ غلط جواب پیدا کرنا اسے پہچاننے سے آسان ہے۔
+- **"تشخیص کے لیے ہاتھ سے بنائی گئی غلط فہمیوں کی فہرست درکار ہے۔"** منطقی propositions کی **6,106 جوڑی** درست اور غلط رسمی بندیوں پر ایک ورک فلو نے **248 کلسٹر تبدیلیاں** دریافت کیں جو **5,156 جوڑوں (84.44%)** کی وضاحت کرتی ہیں، جبکہ حوالہ جاتی مجموعے کی ہاتھ سے چنی گئی غلطیوں کے لیے یہ **4,370 (71.57%)** تھی۔ دریافت نے ماہرانہ ترتیب کو برابر کیا یا اس سے بڑھ گئی، اور یہ موڈل منطق پر بھی منتقل ہوئی — پس فہرست ایک نقطۂ آغاز ہے، حد نہیں۔
+- **"تشخیص صرف اسی وقت کارآمد ہے جب وہ کسی غلط فہمی کا نام لے۔"** یہ تشخیص کرنا کہ سیکھنے والے نے کون سے کورس نتائج حاصل کیے، نتائج کو ہی علمی تصورات بنا دیتا ہے اور تصوراتی تعلقات ماہرین سے تصدیق شدہ affinity mappings کے ذریعے فراہم کرتا ہے۔ نتیجے پر مبنی پروگراموں کے لیے یہ زیادہ قابلِ عمل اکائی ہے، اگرچہ یہ زیادہ موٹی ہے۔

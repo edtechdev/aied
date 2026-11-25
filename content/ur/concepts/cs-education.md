@@ -9,15 +9,19 @@ assessment: [automated-assessment]
 discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/cs-education"
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [computational-thinking, vibe-coding, stem-education, information-technology, automated-assessment, prompt-engineering, ai-literacy, agentic-ai, curriculum-design, human-ai-collaboration, higher-ed, k-12, educational-robotics, game-based-learning, generative-ai, intelligent-tutoring, cognitive-offloading, teacher-education, professional-training, ai-education, collaborative-learning, prior-knowledge, scaffolding, assessment-validity]
 connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-feedback-live-programming-course-2026, kumar-genai-computing-education-systematic-review-2026, vibe-coding-writing-cs-achievement-2026, tutortrace-learner-behavioral-states-2026, code-review-genai-cs1, dura-llm-cs2, reshaping-cs-education-genai, ase-26-agentic-software-engineering-curriculum, test-driven-ai-assisted-learning, genai-oop-programming-assessments-2026, trust-reliance-ai-education-2026, constructing-epistemic-ai-literacy-student-ai-co-programming, chatgpt-teachable-agent-programming-lbt-2024, llm-programming-support-governance-cs-education, conversational-agents-novice-programmers-scoping-2025, debugtracker-classroom-debugging, llm-automated-grading-programming-comparison-2026, ai-generated-traces-novice-programmers, student-misconceptions-conditionals-loops-taxonomy, jost-llm-programming-education-learning-outcomes, genai-meta-analysis-programming-learning, golrang-propact-pair-programming-2026, critical-engagement-code-completion, suacode-african-students-motivations, cross-cultural-student-perceptions-genai-computing, neurodivergent-computing-students, microbit-robotics-machine-learning-teacher-training-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, llm-computational-thinking-physics-2026, student-ai-inquiry-types-cs2-2026, chatgpt-qiskit-homework-autogradable-2026, llm-adaptive-programming-error-explanations-2026, soft-barriers-copying-ai-programming-2026, zhang-ml-student-progress-programming-2026, spec-driven-development-ai-agents-sdpbl-2026, student-reception-genai-analogies-computing-2026, milicevic-socratic-trap-strategic-misconceptions-2026, humble-prompt-injection-ai-grading-red-team-2026, algorag-rag-theoretical-cs-education-2026, llms-unplugged-teaching-resources-2026, instructional-governance-design-computing-education-2026, judgment-centred-software-engineering-education-2026, llm-graders-computer-science-exams-2026, student-llm-use-cs-subfields-2026, educator-guided-llm-pedagogical-agent-2026, socraticrepair-program-debugging-2026, browser-sized-agents-slm-webllm-tutor-2026, novice-se-students-oversight-genai-2026, porcaro-ai-grading-benchmark-2026, porcaro-ai-grader-reliability-2026, yalwa-genai-programming-education-sustained-use-2026]
@@ -60,6 +64,7 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 - **اپنانے کا انحصار اسائنمنٹ پر ہے، ذیلی شعبے پر نہیں۔** سات اسائنمنٹس اور 211 طلبہ میں [[student-llm-use-cs-subfields-2026|Nizamani et al. (2026)]] نے LLM استعمال الگورتھم میں 89.6% سے سافٹ ویئر انجینئرنگ میں 15.2% تک ناپا، اور اس پھیلاؤ کی وجہ مضمون کو نہیں بلکہ اسائنمنٹ کی پیچیدگی، تصدیق پذیری اور اسکافولڈنگ کو قرار دیا۔
 
 - **فیڈبیک اس طرح مرحلہ وار دیا جا سکتا ہے کہ تشخیص چھپا رہے۔** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas (2026)]] طالب علم کے ڈیٹا بیس اسکیما کی شے پر مبنی تشخیص کو اُس ورک فلو سے الگ کرتے ہیں جو اسے جاری کرتا ہے، اور مراحل کی تصنیف ماہرینِ تعلیم کرتے ہیں؛ 383 اقساط میں 71.1% فیڈبیک اپنی ہدف سطح تک پہنچا۔
+- **سینتیں ضروریات کی غلطیوں کی اقسام، 211 ٹیموں میں گنتی گئیں۔** ترجیحی غلطیاں آگے رہیں (بیچلر کی ٹیموں کا 81%)، اور ایک زیرو شاٹ GenAI پرامپٹ نے اسکوپ، کہانی کے فارمیٹ، ترجیحات اور محنت کے معاملے میں ٹیموں کو مس کیا یا ان سے بہتر کارکردگی دکھائی ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]])۔
 
 ### پروگرامنگ کی تدریس: بلاکس سے لے کر جسمانی اور کھیل پر مبنی سیکھنے تک
 
@@ -109,6 +114,7 @@ connected_articles: [shakil-code-commits-complexity-genai-2026, mihaylova-llm-fe
 ### مساوات، ثقافت اور کمپیوٹنگ میں کون داخل ہوتا ہے
 
 - **شرکت کو وسیع کرنا:** [[suacode-african-students-motivations|SuaCode]] افریقی طلبہ میں اسمارٹ فون پر مبنی کوڈنگ کے محرکات دستاویز کرتا ہے (ثانوی اسکول چھوڑنے والوں میں سے 1% سے بھی کم کے پاس بنیادی کوڈنگ مہارت ہے)، اور [[equity-in-ai-education|کم وسائل والے سیاق و سباق]] کے لیے قابلِ رسائی AI معاون MOOCs کی راہ دکھاتا ہے۔
+- **AI پاک دروازے، AI پر مبنی کام۔** [[ai-free-gates-engineering-students-india-2026|Goutham اور Gu (2026)]] نے 23 بھارتی انجینئرنگ طلبہ کے ساتھ انٹرویو کیے: ایک کے سوا تمام نے ایسی پلیسمنٹ اسکریننگ کے لیے AI استعمال کیا جس نے اسے خارج کیا تھا، جبکہ آجر اسے مانگتے تھے، چنانچہ چھانے گئے درجات اس سے کم کی تصدیق کرتے ہیں۔
 - **عصبی تنوع اور اشتراک:** [[neurodivergent-computing-students|عصبی طور پر متنوع کمپیوٹنگ طلبہ]] مبہم اشتراکی ڈھانچوں سے بے چینی کی اطلاع دیتے ہیں؛ منظم اسائنمنٹس، چھوٹی مستقل ٹیمیں اور واضح کردار [[accessibility]] بہتر کرتے ہیں — یہ ڈیزائن کے سبق کمپیوٹنگ کلاس روموں میں داخل ہونے والے AI اوزاروں کے لیے ہیں۔
 - **ثقافت محسوس شدہ اخلاقیات کو شکل دیتی ہے:** [[cross-cultural-student-perceptions-genai-computing|کینیڈی بمقابلہ جنوبی کورین کمپیوٹنگ طلبہ]] نے یکساں AI معاون کوڈنگ طریقوں کو مختلف انداز میں پرکھا حالانکہ پالیسیاں فعلی طور پر یکساں تھیں — پالیسیوں کی ہم آہنگی سے رائے کی ہم آہنگی پیدا نہیں ہوتی، جو [[academic-integrity]] اور [[equity-in-ai-education]] کی تشویش ہے۔
 - **اشتراک کی [[explainable-ai|شفافیت]]:** [[student-perception-ai-use-collaboration|Graf et al.]] پاتے ہیں کہ ساتھیوں کے ایک دوسرے کے AI استعمال کے بارے میں غیر ہم آہنگ یقین کم منصوبہ اسکور کی پیش گوئی کرتے ہیں، خاص طور پر کم کارکردگی والے طلبہ کے لیے — اشتراکی پروگرامنگ میں شفافیت کے طریقے (انکشافات، مشترکہ لاگ) درکار ہو سکتے ہیں۔
@@ -139,7 +145,7 @@ CS کی تعلیم [[computational-thinking]]، [[stem-education]]، [[automated
 
 - **"کوڈ پر اتفاق کا مطلب ہے کہ گریڈر کوڈ پڑھتا ہے۔"** بینچ مارک کے دو مدرس ریٹرز C++ جوابات پر **0.815** پر متفق ہوئے: **چار** ماڈل ان سے آگے نکلے اور ان کا وقفہ اس حد کے 100% سے اوپر تھا، جبکہ **چودہ** نیچے رہے، **33%** تک۔ اسی کوڈ کام پر، پورے نمبر مانگنے والی ایک عبارت نے Qwen3 235B کا گریڈ **پیمانے کے 83.2%** بڑھا دیا، اور بیٹری کے سات ماڈلوں نے خالی جوابات کو کریڈٹ دیا، اس لیے [[porcaro-ai-grading-benchmark-2026|طلبہ کے کوڈ پر گریڈنگ پاس کے لیے اتفاق کے عدد کے ساتھ ناکامی کے امتحانات بھی درکار ہیں]]۔
 
-- **"اثر کورس کے ہر مرحلے پر یکساں ہے۔"** یہ کام کے ساتھ بڑھا: **60 مکمل Java پروگراموں** پر جو **14 سطحی** روبرک سے گریڈ کیے گئے، لیبل کا اثر GPT-4.1-mini پر اس کے مختصر جواب کے حجم کا **2.8 گنا** اور Qwen پر **2.4 گنا** تھا، البتہ Gemini پر صرف **0.4 گنا**۔ [[porcaro-ai-grader-reliability-2026|کام اور روبرک اس بات کا حصہ ہیں جو اثر ناپتا ہے]]، اس لیے مختصر جوابات پر جانچا گیا حجم پروگراموں پر منتقل نہیں ہوتا۔
+- **"اثر کورس کے ہر مرحلے پر یکساں ہے۔"** یہ کام کے ساتھ بڑھا: **60 مکمل Java پروگراموں** پر جو **14 سطحی [[rubrics|روبرک]]** سے گریڈ کیے گئے، لیبل کا اثر GPT-4.1-mini پر اس کے مختصر جواب کے حجم کا **2.8 گنا** اور Qwen پر **2.4 گنا** تھا، البتہ Gemini پر صرف **0.4 گنا**۔ [[porcaro-ai-grader-reliability-2026|کام اور روبرک اس بات کا حصہ ہیں جو اثر ناپتا ہے]]، اس لیے مختصر جوابات پر جانچا گیا حجم پروگراموں پر منتقل نہیں ہوتا۔
 
 ## عام غلط فہمیاں
 

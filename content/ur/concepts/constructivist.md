@@ -7,15 +7,19 @@ foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/constructivist"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [community-of-inquiry, cognitive-psychology, active-learning, learning-by-teaching, scaffolding, self-regulated-learning, collaborative-learning, experiential-learning, project-based-learning, embodied-learning, learning-design, generative-ai, intelligent-tutoring, cognitive-offloading, agency, critical-thinking, ai-literacy, misconceptions, learning-theories, behaviorism, chemistry-education, theory-development-aied, productive-failure]
 connected_articles: [lee-learner-question-types-ai-education-2026, mishra-control-vs-agency-history-2025, code-to-learn-genai-artifact-construction-2026, ai-writes-code-student-writes-model-2026, ai-vocational-education-training-review, generative-refusal-ai-tools-for-thought, genai-mindtool-generative-learning, ai-agents-constructive-conflict-design-education-2026, hingle-collaborative-ai-literacy-2025, ai-internal-feedback-evaluative-judgments, icap-cognitive-engagement-llm-agents, conversational-ai-tutors-framework, embodied-inquiry-ai-facilitator-physics-2026, beyond-detection-authentic-assessment-ai-2025, teacher-ai-teaming-five-levels, learning-with-machines-toward-a-theory-of-epistemic-co-agency, ojeda-ramirez-community-based-ai-learning, vargas-ai-catalyst-situated-learning-2026, niari-ai-pedagogical-mediator-collaborative-learning, educational-robotics-pathways-2026, cogevolution-student-cognitive-evolution-agent-2026, synthetic-position-self-authorship-2026, stromberg-generative-ai-learning-penalty-secondary-2026]
@@ -97,7 +101,7 @@ connected_articles: [lee-learner-question-types-ai-education-2026, mishra-contro
 - **تعمیری تصادم** — وہ مخالفانہ AI ایجنٹ جو سیکھنے والے کے ڈیزائن یا استدلال کو چیلنج کرتے ہیں، اور متبادلات پر نظرثانی اور گہری تعمیر کی ترغیب دیتے ہیں، سقراطی تدریس کی روایت میں۔([[ai-agents-constructive-conflict-design-education-2026]])
 
 - **نقلی مخالفت مخالفت نہیں ہوتی۔** وہ مخالف موقف جسے طلب پر بولا جا سکے مگر جو کبھی مزاحمت نہ کرے، مکالمے کی ترتیب کو دہراتا ہے مگر وہ چیز روک لیتا ہے جو اسے طاقتور بناتی ہے: اس کا کوئی جسم، کوئی داؤ یا کوئی نتیجے کا خطرہ نہیں، چنانچہ انسانی دوسرے کے برعکس وہ مرمت کا کوئی راستہ نہیں دیتا ([[synthetic-position-self-authorship-2026|Du et al. (2026)]])۔
-- **موازنے کے ذریعے اندرونی فیڈبیک** — سیکھنے والے اپنے کام کا AI سے پیدا شدہ نمونوں سے موازنہ کریں تاکہ موازنے کا فعل بذات خود سیکھائی پیدا کرے۔([[ai-internal-feedback-evaluative-judgments]])
+- **موازنے کے ذریعے اندرونی فیڈبیک** — سیکھنے والے اپنے کام کا AI سے پیدا شدہ [[rubrics|نمونوں]] سے موازنہ کریں تاکہ موازنے کا فعل بذات خود سیکھائی پیدا کرے۔([[ai-internal-feedback-evaluative-judgments]])
 - **سوال کی قسم سے واقف پرامپٹنگ** — سیکھنے والے کے سوالات کو تعمیری کرداروں میں درجہ بند کرنا تاکہ نظام جان بوجھ کر طالب علم کو معلومات حاصل کرنے سے تلاشی، مکالماتی پوچھ گچھ کی طرف بڑھا سکے، بجائے اس کے کہ سوال جس علمی گہرائی کا اشارہ دے اسی کی عکاسی کرے۔ چونکہ خودکار درجہ بند کرنے والوں کے لیے سہولت کار اور شریک سیکھنے والے کی نیت الجھی ہوئی رہتی ہے، یہ ڈیزائن ایک انسان کو شامل رکھتا ہے جو درجہ بندی کی تصدیق کرے قبل اس کے کہ وہ [[feedback]] یا [[scaffolding]] کو چلائے۔([[lee-learner-question-types-ai-education-2026]])
 - **برادری بطور تشخیصی معیار** — سیکھنے والے اپنی برادری کے لیے کوئی حقیقی چیز ڈیزائن کریں اور AI کو ڈیزائن کا وسیلہ بنائیں، جبکہ برادری کا علم اور برادری کے ماہرین وہ معیار بنیں جو نتیجے کا فیصلہ کریں، اور جہاں تنقیدی شمولیت کا تقاضا ہو وہاں حد، انکار یا حکمت عملی کے ساتھ عدم استعمال کی گنجائش رہے۔([[ojeda-ramirez-community-based-ai-learning|Ojeda-Ramirez, Gyles & Peppler (2026)]])
 

@@ -8,7 +8,7 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-11-15T16:03:01-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 type: faq
 translation_of: faqs/ai-literacy-evidence
 source_updated: "2026-11-13T00:25:09-05:00"
@@ -18,6 +18,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 ---
 
@@ -33,7 +37,7 @@ ai_assist:
 
 **2.** انہیں ماڈل کا جواب دیکھنے سے پہلے اپنے جواب پر قائم ہونے دیں۔
 
-**3.** تنقید پر نمبر دیں، اسی ربرک سے جو آپ پہلے ہی اس کام کے لیے استعمال کرتے ہیں۔
+**3.** تنقید پر نمبر دیں، اسی [[rubrics|ربرک]] سے جو آپ پہلے ہی اس کام کے لیے استعمال کرتے ہیں۔
 
 **4.** اسے سمسٹر میں ایک بار سے زیادہ چلائیں۔
 

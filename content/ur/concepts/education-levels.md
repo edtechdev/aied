@@ -13,15 +13,19 @@ ethics: [differential-effects-across-learner-groups, equity-in-ai-education, pri
 discipline: [teacher education]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/education-levels"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [primary-education, secondary-education, undergraduate-education, graduate-education, k-12, early-childhood-elementary-ai-education, higher-ed, adult-learning, special-education, teacher-education, vocational-education, learners, parents-and-families, differential-effects-across-learner-groups]
 connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai-chatbots-problem-posing-primary-2026, chatgpt-music-education-junior-high-2026, ai-lms-middle-school-longitudinal, stromberg-generative-ai-learning-penalty-secondary-2026, llm-reliance-types-undergrad, ai-assisted-seminar-learning-information-literacy-2026, ai-mediated-research-agency-formation-2026, data-privacy-ai-african-higher-education-2026, ai-adoption-readiness-ukraine-education-managers-2026, ai-ive-pbl-vocational-design-creativity-2026, preschool-teachers-ai-behavioral-intention-2026, vahedian-children-attitudes-ai-chatbot-2026, yim-ai-literacy-primary-schools-review-2025, perez-montesdeoca-genai-secondary-systematic-review-2026, torres-peralta-perceived-learning-engagement-homework-2026, kumar-chatgpt-academic-assignments-2025, zaripova-genai-self-regulation-neuroai-competence-2026, zhi-modeling-measuring-graduate-genai-literacy-2026]
@@ -40,9 +44,9 @@ connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai
 
 ## تعارف
 
-`level` میٹاڈیٹا فیلڈ اُس تعلیمی پٹی کا نام دیتا ہے جس سے کوئی ماخذ متعلق ہے — پٹیاں، عمریں نہیں: **پری اسکول**، **ابتدائی تعلیم**، **مڈل اسکول**، **ثانوی**، **K-12**، **اعلیٰ تعلیم**، **انڈرگریجویٹ**، **گریجویٹ**، **بالغ سیکھنا**، **خصوصی تعلیم**، **استاد کی تعلیم**۔ کچھ اسکول کی کسی مرحلے کا نام دیتے ہیں، دو یونیورسٹی تعلیم کے بالکل مختلف نصف حصوں کا، دو کسی مرحلے کے بجائے [[learners|سیکھنے والوں کی آبادی]] کا، اور ایک اُن لوگوں کا جو پڑھاتے ہیں۔ ایک ماخذ بیک وقت کئی پٹیاں رکھ سکتا ہے۔
+`level` میٹاڈیٹا فیلڈ اُس تعلیمی پٹی کا نام دیتا ہے جس سے کوئی ماخذ متعلق ہے — پٹیاں، عمریں نہیں: **پری اسکول**، **ابتدائی تعلیم**، **مڈل اسکول**، **ثانوی**، **K-12**، **اعلیٰ تعلیم**، **انڈرگریجویٹ**، **گریجویٹ**، **بالغ سیکھنا**، **خصوصی تعلیم**، **استاد کی تعلیم**۔ کچھ اسکول کی کسی مرحلے کا نام دیتے ہیں، دو یونیورسٹی تعلیم کے بالکل مختلف نصف حصوں کا، دو کسی مرحلے کے بجائے [[learners|سیکھنے والوں کی آبادی]] کا۔ ایک ماخذ بیک وقت کئی پٹیاں رکھ سکتا ہے۔ استاد کی تعلیم کوئی پٹی نہیں: یہ ایک پیشہ ورانہ میدان ہے جو [[discipline-specific-aied|شعبے]] کے تحت ٹیگ ہے، کیونکہ یہ انڈرگریجویٹ اور گریجویٹ تعلیم (خدمت سے پہلے) اور K-12 اور بالغ سیکھنے (دورانِ خدمت) کے اندر چلتی ہے۔
 
-یہ صفحہ اُس میدان کی چھتری ہے؛ گہرا کام پٹیوں کے صفحات کرتے ہیں اور اُنہیں اِس کے ساتھ پڑھنا چاہیے: [[k-12]]، [[early-childhood-elementary-ai-education]]، [[higher-ed]]، [[adult-learning]]، [[special-education]]، [[teacher-education]] اور [[vocational-education]]۔
+پٹیوں کے صفحات گہرا کام کرتے ہیں اور میدان کے ہر مطالعے کے ساتھ پڑھنے کے حقدار ہیں۔ اسکول کے سالوں کے اندر: [[early-childhood-elementary-ai-education|ابتدائی بچپن کی تعلیم]] (پری اسکول اور پہلے سال)، [[primary-education|ابتدائی تعلیم]] (تقریباً 5 سے 11 سال)، اور [[secondary-education|ثانوی تعلیم]] (مڈل اور ہائی اسکول مل کر)، اور [[k-12]] بین الشعبہ نتائج اپنے پاس رکھتا ہے۔ یونیورسٹی تعلیم کے اندر: [[higher-ed|اعلیٰ تعلیم]] بطور چھتری، [[undergraduate-education|انڈرگریجویٹ تعلیم]] بیرونی فیصلے کے تابع کورس ورک کے لیے، اور [[graduate-education|گریجویٹ تعلیم]] نگرانی، تحقیقی تربیت اور پیشہ ورانہ پروگراموں کے لیے۔ دونوں سیڑھیوں کے باہر: [[adult-learning|بالغ سیکھنا]]، [[vocational-education|پیشہ ورانہ تعلیم]]، [[special-education|خصوصی تعلیم]] اور [[teacher-education|استاد کی تعلیم]]۔
 
 ## ایک سطح کو دوسری سے کیا ممتاز کرتا ہے
 
@@ -61,6 +65,16 @@ connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai
 
 یونیورسٹی کے سال پھر تقسیم ہو جاتے ہیں۔ انڈرگریجویٹ تعلیم بیرونی فیصلے کے تابع کورس ورک ہے: ایک اقلیتی خدمت کرنے والی R1 یونیورسٹی کے انڈرگریجویٹ لکھاریوں میں [[ai-literacy|AI خواندگی]] نے پیش گوئی کی کہ طالب علم [[llm|LLM]] پر انحصار کی *کون سی قسم* میں ہے، نہ کہ وہ اُسے کتنا استعمال کرتا ہے ([[llm-reliance-types-undergrad]])۔ گریجویٹ تعلیم تحقیقی تربیت ہے، جہاں نتیجہ کارکردگی سے تشکیل کی طرف منتقل ہو جاتا ہے۔ 420 فلکیات کے ڈاکٹریٹ اور پوسٹ ڈاکٹریٹ محققین میں AI پر انحصار کا تعلق تحقیقی [[agency|خودمختاری]] (r = −.355) اور [[self-efficacy|خود اعتمادی]] (r = −.321) کے ساتھ منفی تھا، اور جدت پسند رویے تک بالواسطہ راستہ زیادہ تر خودمختاری (−.115) سے گزرا، خود اعتمادی (−.069) سے نہیں؛ نگرانی کی مدد نے خودمختاری کے ساتھ منفی تعلق کو کمزور کیا (B = .077, p = .020) ([[ai-mediated-research-agency-formation-2026]])۔ ڈاکٹریٹ کا طالب علم اُس فیصلے کی بنیاد پر پرکھا جاتا ہے جسے AI پر انحصار کھا رہا دکھائی دیتا ہے؛ انڈرگریجویٹ نہیں۔ دونوں کو 'اعلیٰ تعلیم' میں سمیٹ دینا یہی چھپا دیتا ہے۔
 
+## AI خواندگی بطور نشوونما کے سلسلہ
+
+ابتدائی AI خواندگی کے چار جزو پہلے ہی وہ چیزیں شامل کرتے ہیں جنہیں گریجویٹ فریم ورک جدید سمجھتے ہیں۔ 25 تجربی مطالعات پر، [[yim-ai-literacy-primary-schools-review-2025|Yim اور Su (2025)]] نے پایا کہ AI کے ساتھ تعامل کے لیے ڈیجیٹل خواندگی 19 میں، حسابی سوچ 10 میں، AI اخلاقیات 10 میں اور تنقیدی ڈیٹا خواندگی 5 میں تھی۔ ذہین ایجنٹ 15 مطالعات میں ظاہر ہوئے اور بغیر آلے کی سرگرمی 3 میں، چنانچہ سب سے ابتدائی پٹی AI کو کسی ماڈل کو بنا کر اور جانچ کر سکھاتی ہے، اسے استعمال کر کے نہیں۔
+
+ثانوی سطح پر ساخت وقت کے دباؤ میں فیصلے کی طرف بدل جاتی ہے۔ 33 مطالعات پر، ہر آزمودہ آلہ اعلیٰ ترتیب کے حیاتیاتی آئٹمز پر 20% سے نیچے رہا جبکہ BingChat اور Bard بنیادی آئٹمز پر 92.11% تک پہنچے ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]])۔ جو سطحیں طلبہ نے پیداوار کا موازنہ کر کے مسترد کیوں وہاں فائدے نظر آئے اور جہاں آلے نے کام خود کر دیا وہاں غائب ہو گئے۔ طلبہ جو کہتے ہیں کہ انہوں نے کیا سیکھا وہ اس بات کی پیروی نہیں کرتا جو وہ پیداوار کے ساتھ کرتے ہیں: 1,477 جواب دہندگان کے مطالعے میں محسوس کی گئی سیکھائی اور مشغولیت کا اشارہ 0.052 پر ملتے تھے ([[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et al. (2026)]])۔
+
+انڈرگریجویٹ سطح پر مفصلہ خواندگی ہے نہ کہ اخلاقیات۔ 304 انڈرگریجویٹ اور گریجویٹ طلبہ میں ڈیجیٹل خواندگی نے خود رپورٹ شدہ اسائنمنٹ کارکردگی کی پیش گوئی کی (β = 0.393) جبکہ اخلاقی آگاہی نے نہیں (β = −0.006) ([[kumar-chatgpt-academic-assignments-2025|Kumar et al. (2025)]])۔ گریجویٹ تعلیم تک فرق فیصلے کا ہو جاتا ہے: گریجویٹ طلبہ نے اخلاقیات اور تعلیمی خودمختاری پر انڈرگریجویٹ سے d = 1.47 اسکور لیا، اور استعمال کی تعدد نے اخلاقیات اور خود ضابطگی ماڈل میں داخل ہونے کے بعد β = 0.030 پر مہارت کی پیش گوئی کی ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]])۔ گریجویٹ فریم ورک میٹا شناختی غور و فکر کی جہت شامل کرتا ہے، جو ابتدائی چاروں میں موجود نہیں ([[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi et al. (2026)]])۔
+
+بطور سلسلہ پڑھا جائے تو مسلسل بدل جاتا ہے کہ ہر پٹی کو کیا جانچنا چاہیے، نہ کہ کیا پڑھانا چاہیے۔ ابتدائی کام ایک ایسے نتیجے کا مطالبہ کرتا ہے جسے بچہ وضاحت کر سکے، ثانوی کام ایک ایسے موازنے کا جسے طالب علم دفاع کر سکے، اور گریجویٹ کام اس بیان کا کہ کون سے دعوے امیدوار کے اپنے ہیں ([[academic-integrity|تعلیمی سالمیت]])۔ ایک سرے پر کافی آلہ دوسرے سرے پر ثبوت نہیں۔
+
 ## شواہد کہاں مرکوز ہیں اور کہاں پتلے
 
 ذخیرہ ناہموار طور پر بھرا ہوا ہے، اور level فیلڈ اِس عدم توازن کو نظر آنے والا بناتا ہے۔
@@ -68,6 +82,8 @@ connected_articles: [adaptive-intelligent-tutoring-primary-mathematics-2026, dai
 **گھنا۔** اعلیٰ تعلیم سب سے زیادہ ڈھکی ہوئی پٹی ہے: یہاں دیکھے گئے صفحات میں 60 انجینئرنگ طلبہ کے ساتھ آٹھ ہفتوں کی پلیٹ فارم آزمائش ([[ai-assisted-seminar-learning-information-literacy-2026]])، 395 تعلیمی منتظمین کا سروے ([[ai-adoption-readiness-ukraine-education-managers-2026]])، افریقی اعلیٰ تعلیم کے 18 مطالعات کا میٹا ترکیب ([[data-privacy-ai-african-higher-education-2026]]) اور ڈاکٹریٹ تربیت پر 420 محققین کا مطالعہ ([[ai-mediated-research-agency-formation-2026]]) شامل ہیں۔ ابتدائی اور ثانوی سطح پر بھی نتائج کے شواہد موجود ہیں۔
 
 **پتلا، اور کئی جگہ غائب۔** یہاں دیکھے گئے صفحات پری اسکول پٹی پر بچوں کے نتائج کا کوئی مطالعہ ہی درج نہیں کرتے؛ قریب ترین شواہد اساتذہ کے ارادوں کا وہ سروے ہے جس نے بچوں سے متعلق اوزار خارج کیے ([[preschool-teachers-ai-behavioral-intention-2026]])۔ مڈل اسکول زیادہ تر درج شدہ نتائج کے بجائے ایک *تجویز کردہ* ڈیزائن اور طویل مدتی مطالعے کے طور پر آتا ہے ([[ai-lms-middle-school-longitudinal]])۔ پیشہ ورانہ پٹی کا مضبوط ترین شواہد ایک کورس کے 63 [[self-report-measures|خود رپورٹ]] جوابات ہیں، جن کے بارے میں مصنفین خود کہتے ہیں کہ اِسے دہرانا ضروری ہے ([[ai-ive-pbl-vocational-design-creativity-2026]])۔ گریجویٹ شواہد بیک وقت کے ہیں، اور الٹے راستے والا ماڈل نشوونما والے ماڈل سے تھوڑا بہتر فٹ بیٹھتا ہے، چنانچہ انحصار سے خودمختاری کم ہونے کی سمت کا نتیجہ اخذ کیا گیا ہے، تصدیق نہیں ([[ai-mediated-research-agency-formation-2026]])۔ یہاں کسی نے **بالغ سیکھنے** یا **خصوصی تعلیم** کے لیے بطور پٹی AI کے نتائج کے شواہد درج نہیں کیے؛ اُن کی اپنی پوشش [[adult-learning]] اور [[special-education]] پر ہے، اور یہ صفحہ اسکول کی عمر کے نتائج سے عام طور پر خلا نہیں پرتا۔
+
+مڈل اسکول کے نتائج اب موجود ہیں: 178 انڈونیشیائی جونیئر ہائی طلبہ میں ثقافتی لحاظ سے شامل تشخیصی ٹاسک نے علامتی کارکردگی (β = 0.42) اور مشغولیت (β = 0.37) کی پیش گوئی کی، اور AI تشخیصی پروفائلز ماہرین کے فیصلوں سے ملیں (ICC = 0.81) ([[culturally-embedded-ai-diagnostic-assessment-2026|Anggara et al. (2026)]])۔
 
 جن سطحوں کا جائزہ لیا گیا اُن سب پر ایک نمونہ قائم رہتا ہے: انسانی پرت سب سے مشکل صورتیں جذب کر لیتی ہے۔ انجینئرنگ طلبہ کے لیے انسانی ماہر اعتبار کے فیصلے کے مقام پر برقرار رہا حتیٰ کہ الگورتھمی تجویز F1 = 0.64 تک پہنچ گئی ([[ai-assisted-seminar-learning-information-literacy-2026]])؛ ڈاکٹریٹ تربیت میں نگرانی کی مدد ہی وہ واحد شرط تھی جس نے AI انحصار کے منفی روابط کو کمزور کیا ([[ai-mediated-research-agency-formation-2026]])؛ اور اپنانے والے پری اسکول اساتذہ ہیں، بچے نہیں ([[preschool-teachers-ai-behavioral-intention-2026]])۔
 

@@ -12,15 +12,19 @@ level: [higher ed]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
-updated: "2026-11-08T11:46:54-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/ai-detection"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [academic-integrity, llm, generative-ai, assessment, assessment-validity, authentic-assessment, ai-literacy, cognitive-offloading, equity-in-ai-education, bias-mitigation, higher-ed, ai-education, legal-issues-and-risks]
 connected_articles: [roe-ai-humanizers-legitimacy-assessment-2026, hashem-cheating-habitus-ai-governance-discourse-2026, lieske-ai-proposals-counter-ai-cheating-2026, sessional-academics-contract-cheating-digital-misconduct-2026, tench-ai-policy-isnt-a-playbook-2026, evaluation-age-ai-output-evidence-2026, best-response-student-ai-dialog-2026, detecting-llm-generated-text-latent-prompt, ivory-psychology-assessment-integrity-2026, llm-detecting-llm-generated-content-education, beyond-detection-authentic-assessment-ai-2025, responsible-assessment-ai-era-stanford-2026, coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene, student-rationalization-ai-writing, socially-fluent-ai-identity-detection, ssaho-ai-academic-integrity-review-2025, bassett-ai-detectors-education-2026, teichmann-detecting-undetectable-misconduct-2026, mohamed-temimi-assessment-imperfect-information-disclosure-2026, hadra-ai-detector-accuracy-efl-2026, van-vlasselaer-ai-detector-reliability-2026, munoz-misconduct-allegation-evidence-2026, wright-transcription-not-generation-2026, sharma-judgment-visible-genai-assessment-2026, weidlich-inference-at-risk-assessment-validity-2026, ai-written-admissions-essays-penalized-2026, detecting-gpt-assisted-writing-stylometric-2026, angelier-ai-detection-pitfalls-inclusive-assessment-2026, argus-academic-integrity-genai-2026, student-llm-code-detection-cs1-2026, kazakh-ai-text-detectors-2026, making-ai-work-for-students-ofs-2026]
@@ -59,6 +63,8 @@ AI کی پکڑ [[academic-integrity]]، [[generative-ai]]، [[llm|بڑے لین�
 - **صداقت اور انصاف کی ناکامیاں:** پکڑ کے ٹولز غیر مقامی لکھنے والوں کے خلاف متعصب ہو سکتے ہیں اور ایسے جھوٹے مثبت پیدا کر سکتے ہیں جو طلبہ کو غیر منصفانہ سزا دیتے ہیں، یہ تشویش [[bias-mitigation]] اور [[equity-in-ai-education]] سے جڑتی ہے۔
 - **قابل ذکر غلطی کی شرحیں اور اعتماد کا ٹوٹنا:** ناقابل اعتماد پکڑ طلبہ کے [[trust]] اور جانچ کے عمل کی سالمیت کو کمزور کرتی ہے۔
 - **کام پر انحصار:** جیسا کہ خود پکڑ کا مطالعہ دکھاتا ہے، درستگی کام کی قسم کے لحاظ سے تیزی سے بدلتی ہے، اس لیے کوئی واحد ڈیٹیکٹر تمام جائزوں میں قابل بھروسا نہیں۔
+- **درشتی فیصلہ بدل دیتی ہے۔** اصل کردار کے لیبلوں والے PISA 2025 مضامین پر ایک ایمبیڈنگ ڈیٹیکٹر نے طالب علم طرز کی دوبارہ تحریر کے تحت پورے متن کی AI یادداشت 0.94 یا اس سے اوپر رکھی، جبکہ جملہ سطح کی یادداشت 0.59 تک گر گئی ([[schaller-ai-text-detection-authentic-writing-2026|Schaller et al. (2026)]])۔
+
 - **تصدیق شدہ ڈیٹیکٹر بھی ایک تاریخی بنیاد پر کھڑا ہوتا ہے:** CS2 کے چھ سالہ مطالعے نے اپنے ڈیٹیکٹر کی تصدیق LLM سے پہلے کی بنیاد کے خلاف کی: LLMs کے عوامی ہونے سے پہلے H-scores تقریباً صفر تھے اور 2026 تک اوسط 11.9 ہو گئے ([[argus-academic-integrity-genai-2026|Racovan et al. (2026)]])۔
 - **سالمیت کا گتھم گتھا، ناپا ہوا۔** [[karr-ai-detection-humanization-2026|642 شائع شدہ خلاصوں کا کنٹرول شدہ مطالعہ (Karr et al. 2026)]] دکھاتا ہے کہ [[educational-policy-ai|پالیسی]] کی ناکامی صرف تصوراتی نہیں بلکہ ناپی گئی ہے: رہنمائی کے مطابق ہلکی AI تدوین 38–80% پر نشان زد ہوتی ہے، غیر تبدیل شدہ حالیہ اصلی متن 9–15% پر (غیر STEM میں STEM سے کہیں زیادہ)، اور humanizer کی مدد سے AI متن >96% معاملات میں پکڑ سے بچ نکلتا ہے۔ چونکہ ڈیٹیکٹر سطحی اسلوب (طویل ٹوکن اور علمی الفاظ کی کثافت) کو دیکھتے ہیں، مصنفیت کے ارادے کو نہیں، اس لیے دیانت دار AI معاونت پر پابندی آتی ہے جبکہ جان بوجھ کر humanizer سے بچاؤ بغیر سزا کے گزر جاتا ہے — مصنفین دلیل دیتے ہیں کہ ڈیٹیکٹر کے سکور کو کبھی تنہا بدانتظامی کا ثبوت نہیں بنایا جانا چاہیے۔
 - **پکڑ اور بچاؤ ایک ہی تجارتی منڈی کے دو رخ ہیں۔** [[roe-ai-humanizers-legitimacy-assessment-2026|Roe et al. (2026)]] نے 55 AI-humanizer سائٹس کی فہرست بنائی — ایسی خدمات جو پکڑ سے بچنے کے لیے AI متن کو دوبارہ لکھتی ہیں — اور پایا کہ اُن کے تجزیے میں شامل تینوں سائٹس Google کے پہلے صفحے پر تھیں اور freemium درجوں میں affiliate پروگراموں کے ساتھ فروخت ہو رہی تھیں۔ اُن کی سیاسی معیشت کی دلیل ڈیٹیکٹر پالیسی کے لیے اہم ہے: پکڑ بیچنے والے مصنفیت کی ایک درجہ بندی بیچتے ہیں جبکہ humanizers اُس درجہ بندی کو بدلنے کا وعدہ بیچتے ہیں، اس لیے پکڑ کو اولین رکھنے والا نظام بچاؤ کے سامنے ناکام ہی نہیں ہوتا، وہ بامعاوضہ بچاؤ کی طلب بھی پیدا کرتا ہے۔ سائٹیں جائز ہونے کا مظاہرہ کرتی ہیں، اُسے مانگتی نہیں — متن کے خانے کے نیچے بغیر وضاحت کے رکھے گئے یونیورسٹی اور کارپوریٹ لوگو، ناقابل تصدیق صارف دعوے (تقریباً 3 ملین، 10,000 طلبہ، تین سائٹس پر 1.5 ملین)، 99.8%–100% کامیابی کے دعوے، اور "1.6 trillion parameters" کا ابہام — اور کسی پر رجسٹرڈ کاروباری پتہ نہیں تھا۔ ڈیٹیکٹر کے فیصلے کے لیے نتیجہ یہ ہے کہ کسی ٹول کو بلاک کرنا اُس کے پیچھے کی طلب کے ڈھانچے کو ختم نہیں کرتا۔
@@ -90,6 +96,8 @@ AI کی پکڑ [[academic-integrity]]، [[generative-ai]]، [[llm|بڑے لین�
 Bassett et al. یہ نتیجہ نکالتے ہیں کہ AI کی پکڑ اُس مسئلے کا ناقابل عمل حل ہے جسے نگرانی اور سزا سے حل نہیں کیا جا سکتا: توجہ [[assessment|جانچ کے ڈیزائن]] کی طرف جانا چاہیے جو سیکھنے میں AI کے کردار کو تسلیم کرے، اور اِس حقیقت کو بھی کہ بغیر نگرانی والے جائزے محفوظ نہیں کیے جا سکتے۔ یہ علم بنیاد کے [[beyond-detection-authentic-assessment-ai-2025|پکڑ سے آگے]] کے موقف کو ڈیٹیکٹر ٹولز کو ریٹائر کرنے کی براہ راست، ثبوت پر مبنی دلیل کے ساتھ مضبوط کرتا ہے۔
 
 16 اقسام پر پھیلے نفسیات کے 40 جائزوں میں سے 36 (90%) نے ChatGPT کا ایسا نتیجہ پیدا کیا جسے پاس ہونے کے لیے کافی سمجھا گیا، اور چار ناکامیاں وہی کام تھے جن میں موجودگی، بصری شے یا طالب علم کا اپنا ڈیٹا سیٹ درکار تھا — یہ ثبوت کہ پاس کی حد، نہ کہ پکڑ، طے کرتی تھی کہ AI کا کام کامیابی کے طور پر گنا جائے گا یا نہیں ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]])۔
+
+**عمل شواہد سے پیچھے ہے۔** 127 اداروں کا مطالعہ کرتے ہوئے، [[making-ai-work-for-students-ofs-2026|OfS اور Advance HE (2026)]] نے پایا کہ تحقیقی اجماع ہونے کے باوجود سالہ برسوں بعد بھی ڈیٹیکٹر کا استعمال جاری ہے۔ عملے نے بتایا کہ سکور بدانتظامی کے معاملات میں معاون ثبوت کے طور پر داخل ہوتے ہیں، کچھ اداروں نے ڈیٹیکٹرز کا استعمال مکمل طور پر بند کر دیا، اور Turnitin نے محققین کو بتایا کہ مصنفیت طے کرتے وقت اس ٹول کا نتیجہ ایک ڈیٹا پوائنٹ ہونا چاہیے۔ طلبہ نے سننے والے سرے کی طرف بتایا: ایک بار نشان زد ہونے کے بعد مصنفیت ثابت کرنے کا کوئی راستہ نہیں، اور اسکور کم کرنے کے لیے em dash ہٹانا یا جان بوجھ کر غلطیاں ڈالنا جیسی حکمت عملیاں۔
 
 ### ڈیٹیکٹر کا تعصب اور ہتھیاروں کی دوڑ کا طریقہ کار
 

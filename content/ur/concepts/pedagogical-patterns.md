@@ -10,15 +10,19 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/pedagogical-patterns"
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [pedagogy, learning-design, scaffolding, feedback, formative-assessment, peer-assessment, ai-feedback-quality, evaluative-judgment, feedback-literacy, human-in-the-loop-ai, oral-assessment, process-oriented-assessment, productive-failure, retrieval-spacing-interleaving, desirable-difficulties, misconceptions, refutation-text, learning-by-teaching, socratic-method, collaborative-learning, cognitive-offloading, metacognition, prompt-engineering, transfer-of-learning, assessment-validity, academic-integrity, ai-literacy, online-teaching-and-learning, higher-ed, k-12]
 connected_articles: [pairr-ai-peer-review-2025, gift-ai-pairr-business-writing-2025, stillman-dear-gemini-pairr-critical-ai-literacies-2026, ai-peer-feedback-l2-writing-engagement-2026, chang-genai-peer-feedback-collaborative-argumentation-2026, rethinking-ai-writing-feedback-literacy, farrokhnia-genai-feedback-student-revisions-2026, guardrails-ai-teaching-assistants-programming-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, agent-type-feedback-style-self-directed-learning-2026, adaptive-pretesting-retention, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, ai-tutor-modality-randomized-field-experiment-2026, rachatasumrit-example-problem-ratio-2026, adaptive-scaffolding-cognitive-engagement-its, structured-reflection-ai-explanatory-feedback-2026, generative-ai-guardrails-harm-learning, guided-llm-scaffolding-independent-learning, preferred-scaffolding-ai-mathematical-modeling, puech-pedagogical-steering-llm-productive-failure-2025, pedagogy-ai-mistakes, kumar-genai-computing-education-systematic-review-2026, lukesova-clue-before-correction-2026, wang-genai-novice-learner-learning-by-teaching-2026, chatgpt-teachable-agent-programming-lbt-2024, explique-teachable-agent-algorithms-546-students-2026, socrates-students-instructors-llms-lbt-2025, code-review-genai-cs1, asynchronous-oral-assessment-2026, aivaluate-anxiety-assessment-2026, ai-supported-oral-assessment-tvet-2026, quantum-education-its, agentic-education-coding, pbl-biomedical-engineering-genai-2026, walkington-teachers-multi-agent-personalized-problem-generation-2026, zhao-learnlens-feedback-educators-loop, humble-prompt-injection-ai-grading-red-team-2026, golrang-propact-pair-programming-2026, cheng-symbiotic-role-design-human-genai-collaboration-2026, paratutor-parent-child-tutoring, ai-tutors-vs-tenacious-myths-personalized-dialogue-2026, akdogan-heat-temperature-conceptual-change-thesis-2025, ai-supported-inquiry-photosynthesis-respiration-2026, ai-enhanced-flipped-classroom-three-year-2026, flipped-learning-genai-design-education-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, ai-tutor-statistical-programming-adoption-2026, beck-genai-literacy-economics-hands-on, ccct-cooperative-learning-technique, ai-assisted-seminar-learning-information-literacy-2026, alam-process-oriented-collaborative-essays-2026]
@@ -99,7 +103,7 @@ AI فیڈبیک کے بارے میں علمی ذخیرے کی سب سے زیاد
 
 ### AI تنقید، پھر نظرثانی
 
-**شواہد: جانچا گیا — ایک اہم صفر نتیجے کے ساتھ۔** مسودہ لکھیں، AI سے روبرک کی ہدایت والا فیڈبیک مانگیں، اس فیڈبیک کا روبرک اور ماخذ کے مقابلے تنقیدی جائزہ لیں، نظرثانی کا منصوبہ لکھیں، نظرثانی کریں، اور غور کریں۔
+**شواہد: جانچا گیا — ایک اہم صفر نتیجے کے ساتھ۔** مسودہ لکھیں، AI سے [[rubrics|روبرک]] کی ہدایت والا فیڈبیک مانگیں، اس فیڈبیک کا روبرک اور ماخذ کے مقابلے تنقیدی جائزہ لیں، نظرثانی کا منصوبہ لکھیں، نظرثانی کریں، اور غور کریں۔
 
 120 انگریزی کے طلبہ کے کنٹرول شدہ 2 × 2 فیکٹریل تجربے نے پایا کہ تحریر کے معیار میں اضافہ اس گروہ میں سب سے زیادہ تھا جسے چھانٹی اور تشخیص دونوں کی تربیت دی گئی تھی (M = 7.92)، بمقابلہ دیگر حالتوں کے 6.10، 4.56 اور 3.10، گہری نظرثانی 28% سے 48% ہو گئی، اور یہ برتری نئے موضوع پر اور AI معاونت ہٹانے کے بعد بھی برقرار رہی ([[rethinking-ai-writing-feedback-literacy|Dai, 2026]])۔ صفر نتیجہ ہی سبق آموز حصہ ہے: 70 طلبہ کے رینڈمائزڈ تین گروہی تجربے میں، چین آف تھاٹ پرامپٹ والا AI فیڈبیک صفر شاٹ AI فیڈبیک (p = .01) اور استاد کے فیڈبیک (p = .008) دونوں سے نمایاں طور پر *زیادہ معیاری* تھا، پھر بھی یہ معیاری برتری **نظرثانی کے زیادہ فائدوں میں تبدیل نہ ہوئی** — استاد کے فیڈبیک نے بھی تقریباً اتنی ہی بہتری دی ([[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia et al., 2026]])۔
 
@@ -140,6 +144,14 @@ AI فیڈبیک کے بارے میں علمی ذخیرے کی سب سے زیاد
 **شواہد: جانچا گیا، مگر عام کلاس رومز کے بجائے کنٹرول شدہ یا بلا کنٹرول ماحول میں۔** دو سیکھنے والے ایک AI شیئر کرتے ہیں اور انہیں گردش کے قواعد کے ساتھ واضح کردار دیے جاتے ہیں؛ AI کو ضرورت کے مطابق کردار لینے کے لیے ترتیب دیا جاتا ہے اور اس کا نتیجہ پورے گروہ کو جاتا ہے۔ جوڑی پروگرامنگ کے ایک نسخے میں مشترک AI جوڑی کی مشترکہ توجہ اور محنت کا نمونہ بناتا ہے، 30 سیکنڈ پہلے تک ٹوٹنے کی پیش گوئی کرتا ہے، اور سہاروں کو درجوں میں بڑھاتا ہے، کچھ نہ کرنے سے لے کر ہدایتی اشارے تک۔
 
 26 جوڑیوں کے درونِ فرد تجربے نے پایا کہ فیڈبیک والی حالت نے ڈی بگنگ میں زیادہ کامیابی حاصل کی (t[49.96] = −13.51، p < .0001) اور جلد ختم کی (t[44.70] = 4.39، p < .0001)، مگر اسے دوہری [[sensor-and-gaze-analytics|آئی ٹریکنگ]] اور پپلومیٹری ہارڈ ویئر درکار تھا اور اس نے بلا نگرانی جوڑی کام میں منتقلی نہیں آزمائی ([[golrang-propact-pair-programming-2026|Golrang et al., 2026]])۔ 16 گروہوں میں 58 گریجویٹ طلبہ کے نیم تجربے نے پایا کہ کردار کے ڈیزائن نے مائنڈ میپ کے مواد کے اسکور 1–5 SOLO پیمانے پر 3.65 سے 4.59 کر دیے (z = 3.771، p < 0.001) جبکہ نوڈ اور برانچ کی گنتی برابر رہی — مگر کنٹرول گروہ کے بغیر مشق کے اثرات خارج نہیں کیے جا سکتے ([[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]])۔
+
+### درجہ بندی شدہ تعاون کے ساتھ تکراری مسودے
+
+**شواہد: عمل کی تفصیل — ایک پہلا اجرا، کوئی تقابلی حالت نہیں، کوئی ناپا گیا نتیجہ نہیں۔**
+
+طلبہ چھوٹی ٹیموں میں کم از کم دو دستاویزی مراحل کے ساتھ مضمون لکھتے ہیں، مقررہ عنوانات میں سے انتخاب کرتے ہیں، اور پیداوار کے ساتھ ہی تکرار اور تعاون کے شواہد پر درجہ بندی ہوتے ہیں؛ GenAI مذکورہ حدود کے اندر اجازت ہے، نہ ممنوع ہے نہ لازمی۔
+
+لندن کی Queen Mary University میں بزنس تجزیہ کار ڈگری اپرینٹشپ کے پہلے سال کے ماڈیول میں، 23 طلبہ نے 11 خود منتخب ٹیموں میں اسی طرح 1,500 الفاظ کا تکراری مضمون لکھا، جس میں GenAI پر پیدا شدہ متن جمع کرانا اور حوالہ جات کی فہرستیں بنانا ممنوع تھا۔ مصنفین پروگرام سراسری [[pedagogy|تدریسی]] دوبارہ ڈیزائن کی تفصیل دیتے ہیں اور نتائج کے بجائے ابھرتی ہوئی بصیرت رپورٹ کرتے ہیں۔ ان کا دعویٰ یہ ہے کہ ہدایات کے بجائے درجہ بندی کے معیار نے عمل کے شواہد کو بوجھ اٹھانے والا بنایا، اور جہاں طلبہ نے اوزار استعمال کیا وہاں کچھ نے اس کی پیداوار کو ایک دعویٰ کے طور پر لیا جس کا سامنا کرنا ہے — آزماتنے کے لیے مخالف دلیلیں، قبول یا مسترد کرنے کے لیے ڈھانچے ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]])۔
 
 ### AI کی معاونت والی بحث
 

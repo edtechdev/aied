@@ -11,15 +11,19 @@ audience: [faculty developers, administrators]
 discipline: [teacher education]
 level: [higher ed, k 12]
 institutions: [change-management]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: faqs/faculty-development-ai
-source_updated: "2026-11-06T13:59:54-05:00"
+source_updated: "2026-11-20T08:06:12-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-29"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 pedagogy: [tpack]
 ---
@@ -38,7 +42,7 @@ pedagogy: [tpack]
 
 **2.** تصدیق، اعلان اور خطرے پر قابو کو کام والے ٹیمپلیٹ میں رکھیں، جہاں وہ واقعی استعمال ہوں، تاکہ گھبرایا ہوا شریک اپنی تشویش کہیں رکھ سکے۔
 
-**3.** گھنٹے جائزے اور ربرک پر لگائیں، جو بنیادی حالت میں سب سے کمزور شعبہ ہے اور جہاں ناپا گیا سب سے بڑا فائدہ ہے۔
+**3.** گھنٹے جائزے اور [[rubrics|ربرک]] پر لگائیں، جو بنیادی حالت میں سب سے کمزور شعبہ ہے اور جہاں ناپا گیا سب سے بڑا فائدہ ہے۔
 
 **4.** [[discipline-specific-aied|شعبے کے لحاظ سے الگ]] گروہ چلائیں، پھر ان کے اندر تجربے کے مطابق فرق کریں۔
 

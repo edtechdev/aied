@@ -8,9 +8,9 @@ pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessment, peer-assessment]
 discipline: [writing education]
 confidence: high
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/feedback-literacy"
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-22T12:10:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -18,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [pedagogical-patterns, eportfolio, ai-feedback-quality, feedback, formative-assessment, self-regulated-learning, ai-literacy, peer-assessment, self-assessment, writing-education, metacognition, trust-calibration, cognitive-offloading, higher-ed, reflection]
-connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026]
+connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feedback-literacy-assessment-as-learning-2026, ai-peer-feedback-stem-teacher-education-2026, brunnstrom-ai-interaction-literacy-srl-2026, sutama-chatgpt-eportfolio-speaking-2026, mendoza-ai-feedback-feedback-literacy-srl, hawkins-feedback-literacy-ai-essay-writing, liu-deris-ai-feedback-literacy-uptake, zhan-boud-dawson-genai-feedback-engagement, rethinking-ai-writing-feedback-literacy, feedback-literacy-scripts-eap-writing, tubino-adachi-ai-automated-feedback-literacy, irwin-muller-efl-peer-feedback-literacy, scaffolding-srl-feedback-genai-human-peers, jin-genai-learning-analytics-feedback-literacy, richmond-nicholls-genai-psych-feedback-ai-literacies, learner-centered-feedback-ai, care-full-feedback-genai, ai-generated-feedback-higher-ed, ai-feedback-ecosystem-higher-education-2026, ai-feedback-critical-thinking-writing-2026, repeated-ai-writing-feedback-semester, student-perspectives-ai-writing-grading-2026, genai-use-critical-thinking-moderation-2026, automated-scoring-learning-diagnosis-mechanism-2026, stillman-dear-gemini-pairr-critical-ai-literacies-2026, yuan-genai-feedback-writing-self-regulation-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -37,7 +41,9 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 
 فیڈبیک لیٹریسی اس لیے اہم ہے کہ اچھی طرح ڈیزائن کیا گیا فیڈبیک صرف اُن طلبہ کی مدد کرتا ہے جو اُسے تفسیر کر کے اُس پر عمل کر سکیں۔ جو طالب علم یہ فیصلہ نہیں کر سکتا کہ AI کی پیدا کردہ فیڈبیک درست ہے یا نہیں، یا جو فیڈبیک کو ٹھوس نظر ثانی میں بدلنا نہیں جانتا، وہ اسی فیڈبیک سے زیادہ فیڈبیک باشعور ساتھی کے مقابلے میں بہت کم سیکھتا ہے۔ جیسے جیسے AI فیڈبیک کی فراہمی کو نئے سرے سے ترتیب دے رہا ہے، فیڈبیک لیٹریسی اس بات کی مرکزی شرط بن گئی ہے کہ AI فیڈبیک سیکھنے کو بہتر بناتا ہے یا نہیں۔
 
-### فیڈبیک لیٹریسی کیا ہے
+[[corbin-recognition-feedback-2026|Corbin, Tai and Flenady (2026)]] تسلیم کو لیٹریسی سے پہلے رکھتے ہیں: طالب علم کو فراہم کرنے والے کو رہنمائی کرنے کی حیثیت دینی پڑتی ہے، اور خود کو جواب دینے کی حیثیت حاصل کرنی پڑتی ہے، ورنہ لیٹریسی کے لیے عمل کرنے کا کچھ نہیں بچتا۔
+
+## فیڈبیک لیٹریسی کیا ہے
 
 فیڈبیک لیٹریسی کو عام طور پر باہم جڑی ہوئی قابلیتوں کے مجموعے کے طور پر بیان کیا جاتا ہے — فیڈبیک کی قدر کرنے، فیصلے کرنے، جذبات کا انتظام کرنے اور عمل کرنے کی صلاحیت (Carless & Boud کے مطابق)۔ علم کی بنیاد کے مضامین فیڈبیک لیٹریسی کو کئی قابلیتوں کے گرد جمع کرتے ہیں:
 
@@ -48,7 +54,7 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 - **فیڈبیک پر عمل کرنا** — فیڈبیک کو ٹھوس نظر ثانی یا طرزِ عمل میں تبدیلی میں بدلنا ([[feedback|فیڈبیک چکر]]، [[self-regulated-learning]])۔
 - **جائزے کی سند کا فیصلہ کرنا** — [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] کی تجویز کردہ ایک اضافی قابلیت: فیڈبیک کی قدر کرنے، فیصلے کرنے، جذبات کا انتظام کرنے اور عمل کرنے کے ساتھ ساتھ، AI کی پیدا کردہ فیڈبیک پر غور کرنے والے طلبہ کو یہ فیصلہ کرنا پڑتا تھا کہ *کس ماخذ کے پاس جائزے کی سند ہے*، جو فیڈبیک کے معیار کا فیصلہ کرنے سے الگ چیز ہے۔ چونکہ شرکا کو بتایا گیا تھا کہ ChatGPT نے اسکور اور فیڈبیک دونوں پیدا کیے، اُن کی فیڈبیک لیٹریسی جانچ کے ماخذ اور جواز پر استعمال ہوئی، صرف اُس کے مندرجات پر نہیں، اور اس نے غیر فعال قبولیت کے بجائے استاد سے توثیق کے مطالبے پیدا کیے۔
 
-### تحقیق میں فیڈبیک لیٹریسی کیسے ظاہر ہوتی ہے
+## تحقیق میں فیڈبیک لیٹریسی کیسے ظاہر ہوتی ہے
 
 - **فیڈبیک لیٹریسی بطور AI فیڈبیک کی قدر کا اعتدال کنندہ:** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] دکھاتے ہیں کہ فیڈبیک لیٹریسی ChatGPT کی قبولیت اور [[self-regulated-learning]] کے درمیان رشتے میں اعتدال پیدا کرتی ہے: زیادہ مضبوط لیٹریسی والے طلبہ AI فیڈبیک سے زیادہ خود ضابطگی کا فائدہ محسوس کرتے ہیں، جبکہ کمزور لیٹریسی والے طلبہ میں اثرات کم سے کم یا منفی بھی ([[cognitive-offloading|حد سے زیادہ انحصار]]) ہوتے ہیں۔ فیڈبیک لیٹریسی اس بات کی شرط ہے کہ طلبہ AI فیڈبیک کو "سمجھ" سکیں۔
 
@@ -73,17 +79,19 @@ connected_articles: [ai-feedback-literacy-agentic-engagement-panel-2026, ai-feed
 
 - **سیکھنے کے تجزیات اور GenAI [[visualization|ڈیش بورڈز]] میں فیڈبیک لیٹریسی:** [[jin-genai-learning-analytics-feedback-literacy|Jin et al. (2025)]] جانچتے ہیں کہ طلبہ GenAI سے چلنے والے [[learning-analytics]] فیڈبیک کو فیڈبیک لیٹریسی کے نقطہ نظر سے کیسے دیکھتے ہیں۔
 
-- **فیڈبیک لیٹریسی بطور AI لیٹریسی اور [[assessment|جانچ کے ڈیزائن]] کا ہدف:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] ایسی جانچ استعمال کرتے ہیں جس میں عمل کو پیداوار پر ترجیح دی جاتی ہے اور طلبہ ChatGPT کی پیداوار کو ربرک کے خلاف تنقید کر کے فیڈبیک، نفسیاتی اور AI لیٹریسیاں اکٹھی بناتے ہیں؛ [[learner-centered-feedback-ai|سیکھنے والے مرکزی AI فیڈبیک]] اور [[care-full-feedback-genai|نگہداشت بھرا فیڈبیک ڈیزائن]] فیڈبیک کے معیار کو سیکھنے والے کی جڑنے کی صلاحیت سے جوڑتے ہیں۔
+- **فیڈبیک لیٹریسی بطور AI لیٹریسی اور [[assessment|جانچ کے ڈیزائن]] کا ہدف:** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond & Nicholls (2025)]] ایسی جانچ استعمال کرتے ہیں جس میں عمل کو پیداوار پر ترجیح دی جاتی ہے اور طلبہ ChatGPT کی پیداوار کو [[rubrics|ربرک]] کے خلاف تنقید کر کے فیڈبیک، نفسیاتی اور AI لیٹریسیاں اکٹھی بناتے ہیں؛ [[learner-centered-feedback-ai|سیکھنے والے مرکزی AI فیڈبیک]] اور [[care-full-feedback-genai|نگہداشت بھرا فیڈبیک ڈیزائن]] فیڈبیک کے معیار کو سیکھنے والے کی جڑنے کی صلاحیت سے جوڑتے ہیں۔
 
 - **فیڈبیک لیٹریسی سکھائی جا سکتی ہے، اور AI مشق کا مواد مہیا کر سکتا ہے۔** ایک تصوراتی رہنما مدرسین کو ہدایت دیتا ہے کہ AI کے نمونہ کاموں کا درجہ بند طیف بنائیں — جو تمام، کچھ، یا کوئی معیار پورا نہ کریں — اور پھر طلبہ کو نمونہ تنقید، رہنمائی والے کلاس تجزیے اور خود مختار جائزے سے گزاریں ([[ai-feedback-literacy-assessment-as-learning-2026|Pennington and Hock (2026)]])۔
 
-### تعلیم میں AI کے لیے فیڈبیک لیٹریسی کیوں اہم ہے
+- **فیڈبیک لیٹریسی AI فیڈبیک سے خود ضابطہ پروری تک راہ ہے۔** 520 چینی انڈرگریجویٹس کے دو دوری مطالعے میں، [[yuan-genai-feedback-writing-self-regulation-2026|Yuan (2026)]] نے پایا کہ فیڈبیک لیٹریسی نے جنریٹو AI فیڈبیک کے استعمال اور بعد کی تحریری خود ضابطہ پروری کے درمیان منسلک کا 32.4% حصہ اٹھایا، جبکہ لکھنے کے قلِق کے کم ہونے کے راستے صرف 9.1%۔
+
+## تعلیم میں AI کے لیے فیڈبیک لیٹریسی کیوں اہم ہے
 
 AI فیڈبیک کو دو سمتوں میں بدلتا ہے اور دونوں فیڈبیک لیٹریسی کی اہمیت بڑھا دیتے ہیں۔ پہلی، AI فیڈبیک کا *حجم اور فوریت* ڈرامائی طور پر بڑھا دیتا ہے ([[ai-feedback-quality]]، [[feedback|فیڈبیک چکر]])، لہٰذا طلبہ کے سامنے بہت زیادہ فیڈبیک آتا ہے جس کی اُنہیں چھانٹی اور جانچ کرنی ہوتی ہے۔ دوسری، AI کی پیدا کردہ فیڈبیک مخصوص خطرات رکھتا ہے — غلط بیانی، [[hallucination-risk|ہیلوسینیشن]]، اور "مہارت کا سراب" — جو [[critical-thinking|تنقیدی جائزے]] کی مہارتیں اور حد سے زیادہ انحصار اور [[llm-fallacy-misattribution|غلط انتساب]] کے خلاف چوکسی کا تقاضا کرتے ہیں۔ لہٰذا فیڈبیک لیٹریسی [[ai-literacy]] کا بنیادی جزو بن جاتی ہے: یہ جاننا کہ AI سے فیڈبیک کیسے مانگا جائے، اور یہ بھی کہ اُس فیڈبیک پر عمل کرنا قابلِ قدر ہے یا نہیں اور اُسے کام کی تکمیل کے بجائے حقیقی سیکھنے میں کیسے بدلا جائے۔
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman and colleagues (2026)]] اُس فہرست میں ایک اور تقاضا شامل کرتے ہیں۔ اُن کے ورکشاپ مطالعے میں طلبہ ایک فیڈبیک ماخذ نہیں بلکہ ایک نیٹ ورک سنبھال رہے تھے: وہ معلمین کے تبصروں کو AI کی پیداوار، ربرک، کورس کے مواد اور ہم مرتبہ افراد کے خلاف تولتے تھے، اور جب انسانی فیڈبیک سست ہوتی تو وہ AI کے ساتھ بطور عارضی سہارا کام جاری رکھتے اور بعد میں نظر ثانی کرتے اگر اُس نے گمراہ کیا ہوتا۔ مصنفین تجویز کرتے ہیں کہ طلبہ خود "چکر میں انسان" کا کردار ادا کر سکتے ہیں اور اِن رشتوں کو باریک کام سے لے کر وسیع مسیر تک خود منظم کر سکتے ہیں، جو بذات خود فیڈبیک لیٹریسی کی قابلیت ہے۔ اُن کی تنبیہ یہ ہے کہ پتلے یا دیر سے آئے معلمین کے تبصرے ہی طلبہ کو غیر مصدقہ ماخذوں کی طرف دھکیلتے ہیں۔
 
-### متعلقہ تصورات سے روابط
+## متعلقہ تصورات سے روابط
 
 فیڈبیک لیٹریسی [[ai-feedback-quality]] اور [[feedback|فیڈبیک چکر]] (وہ فراہمی کا پہلو جس کی یہ تکمیل کرتی ہے)، [[formative-assessment]] (وہ جانچ چکر جسے یہ سیراب کرتی ہے)، اور [[self-regulated-learning]] (وہ [[self-assessment]] اور موافقت جسے یہ سہارا دیتی ہے) سے جڑتی ہے۔ AI کی پیدا کردہ فیڈبیک پر لاگو ہونے پر یہ [[ai-literacy]] کا ذیلی مجموعہ ہے، تعاونی سیاق میں [[peer-assessment]] سے ملتی ہے، اور [[writing-education]] کے لیے خاص طور پر نتیجہ خیز ہے۔ یہ [[metacognition]] اور [[trust-calibration]] سے بھی جڑتی ہے — یعنی یہ فیصلہ کرنے کی صلاحیت کہ فیڈبیک قابلِ اعتماد ہے یا نہیں۔
 

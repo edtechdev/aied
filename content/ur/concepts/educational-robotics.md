@@ -9,15 +9,19 @@ connected_faqs: [ai-guidance-children-under-13]
 discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
-updated: "2026-11-08T12:22:11-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/educational-robotics"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [early-childhood-elementary-ai-education, computational-thinking, cs-education, stem-education, embodied-learning, human-ai-collaboration, project-based-learning, game-based-learning, llm, motivation, student-engagement, social-emotional-learning, agency, trust, well-being, ethics, privacy, language-learning, k-12, higher-ed, ai-technologies]
 connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, robot-assisted-language-learning-meta-analysis-2026, white-wu-robotics-ai-education-2026, computational-thinking-educational-robotics-secondary-2026, roboblockly-conversational-block-robotics-ct-2026, edusim-llm-robotic-simulation-education-2026, knowledge-based-design-generative-social-robots-2026, teachy-mini-generative-social-robot-higher-ed-2026, motibo-digital-storytelling-robots-motivation-2026, robobuddy-llm-social-robots-classroom-2025, remind-robot-mediated-roleplay-antibullying-2026, task-context-trust-educational-hri-2026, human-autonomy-agency-hri-review-2025, icub-humanoid-storytelling-llm-hri-2025, pepper-robot-sign-language-lis-2025, social-robot-study-companions, enhancing-creative-writing-with-robot-llm-integration-the-interplay-of-embodimen, game-based-gamified-robotics-education-review-2026, bots-blocks-project-based-robotics-education-2026, educational-robotics-pathways-2026, tsingidou-ct-robotics-kindergarten-2026, ai-toys-child-development-2026, creative-project-approach-ai-early-childhood-2025, teaching-with-robots-five-types-perspective-2026, arc-hubs-k12-ai-robotics-rural-2026, teaching-rl-humanoid-robotics-high-school-2026, aifred-desk-robotic-ai-guidance-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
@@ -40,7 +44,7 @@ connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, r
 
 ثبوت کام کے حجم سے پتلا ہے: تعلیم میں AI اور روبوٹکس کا ایک جائزہ پایا کہ بیشتر تجربی مطالعات 13 سال سے کم عمر سیکھنے والوں پر، چار ہفتوں یا اُس سے کم عرصے میں، اور چند ابتدائی سرمایہ کاری کرنے والے ملکوں میں مرکوز ہیں، جن میں [[learning-gains|سیکھنے کی کارکردگی]] سب سے زیادہ مطالعہ شدہ نتیجہ ہے جبکہ اخلاقیات، مساوات اور پالیسی تعیناتی سے پیچھے ہیں ([[white-wu-robotics-ai-education-2026|White and Wu (2026)]])۔
 
-### سماجی روبوٹ اور انسان–روبوٹ تعامل
+## سماجی روبوٹ اور انسان–روبوٹ تعامل
 
 تعلیم میں روبوٹکس کے سماجی رخ کو دو دھارے شکل دیتے ہیں۔
 
@@ -48,7 +52,7 @@ connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, r
 
 **انسان–روبوٹ تعامل (HRI)** اِس بارے میں بین الشعبہ مطالعہ ہے کہ لوگ اور روبوٹ کیسے تعامل کرتے ہیں، جو ادراک، ابلاغ، تعاون اور اُس تعامل کی سماجی، علمی اور [[ethics|اخلاقی]] حرکیات کو محیط ہے۔ تعلیم میں HRI اِس کی بنیاد ہے کہ سیکھنے والے روبوٹ کو کیسے سمجھتے، اُس پر کیسے بھروسا کرتے اور اُس کے ساتھ کیسے سیکھتے ہیں — چاہے روبوٹ کو پروگرام کر رہے ہوں، ٹیوٹرنگ روبوٹ سے گفتگو کر رہے ہوں، یا سماجی منظرناموں کی مشق کر رہے ہوں۔ HRI [[research-methods-aied|تحقیق]] جانچتی ہے کہ روبوٹ کی ظاہری شکل، رویہ، کام کا سیاق و سباق اور جسمانیت [[usability-research|صارف کے تجربے]]، اعتماد، ایجنسی اور سیکھنے کو کیسے تشکیل دیتے ہیں۔ تعلیمی HRI کے اہم مسائل میں انسانی [[agency|ایجنسی]] کا تحفظ، [[trust|بھروسا]] کی تعمیر، [[self-efficacy|خود اعتمادی]] کی حمایت، اور یہ یقینی بنانا شامل ہے کہ روبوٹ کے ساتھ تعامل خودمختاری اور سماجی سیکھنے کی تائید کرے، اُنہیں کمزور نہ کرے۔ یہ روبوٹکس کو [[human-ai-collaboration|انسان-AI تعاون]] اور [[social-emotional-learning|سماجی جذباتی سیکھنے]] سے جوڑتا ہے۔
 
-### تعلیم میں روبوٹ کیسے استعمال ہوتے ہیں
+## تعلیم میں روبوٹ کیسے استعمال ہوتے ہیں
 
 [[teaching-with-robots-five-types-perspective-2026|Christ et al. (2026)]] ٹیکنالوجی کی فہرست کے بجائے کرداروں کی ایک قسم بندی شامل کرتے ہیں: کلاس روم کے روبوٹ کی اُن کی ورکشاپ سے نکلی پانچ اقسام ہارڈ ویئر سے نہیں بلکہ *پیدگوجیکل فعل اور تجرید کی سطح* سے مختلف ہیں۔ قسم (a) عمومی سماجی نمونوں کا غیر تعاملی مظاہرہ کرتی ہے (ایک اسکرپٹ شدہ جذباتی تھیٹر، جس کے بعد تصاعد یا غلط فہمی جیسی حرکیات پر بحث)؛ قسم (b) ایک لمس سے متحرک تعاملی روبوٹ ہے جو شراکتی جسمانی تھیٹر، [[embodied-learning|جسمانی سیکھنے]]، حدود کی آگہی اور جذبات کے ضبط کی حمایت کرتا ہے؛ قسم (c) بولی جانے والی زبان کا ساتھی ہے جو ہمدردی دکھاتا ہے اور ایک ہی طالب علم کے ساتھ تعاملات یاد رکھتا ہے، جس سے خود افشا کے لیے ایک محفوظ ایک بہ ایک ماحول بنتا ہے؛ قسم (d) باہر سے ایک چھپے ہوئے ماہر کے ذریعے ہدایت پاتی ہے، جیسے اضافی درجاتِ آزادی والی کٹھ پتلی، جس کا مقصد سماجی درجہ بندی کو ہموار کرنا ہے؛ اور قسم (e) ایک غیر تعاملی روبوٹ ہے جو اسکول میں حال ہی میں دیکھے گئے عمل دہراتا ہے تاکہ طلبہ سیاق و سباق میں واقع رویے پر غور کر سکیں — قسم (a) سے اُس کا فرق بالکل یہی ہے کہ اُس کی تجرید عمومی نہیں بلکہ سیاق سے مخصوص ہے۔ یہ قسم بندی واضح طور پر کہتی ہے کہ یہ ایک غیر توثیق شدہ ڈیزائن کی فضا ہے جو ایک قومی ذہنی صحت کے پروگرام پر کھڑی ہے، اِس لیے یہ روبوٹ کے کرداروں کو ڈیزائن اور جانچنے کے لیے ایک مینیو ہے، اِس بات کا ثبوت نہیں کہ اُن میں سے کوئی کام کرتا ہے۔
 
@@ -76,11 +80,13 @@ connected_articles: [pepper-social-robot-formal-education-scoping-review-2026, r
 - **کنڈرگارٹن CT روبوٹکس دراصل کیا کرتی ہے۔** 53 مطالعات کے [[meta-analysis-systematic-review|منظم جائزے]] نے [[problem-based-learning|مسئلہ پر مبنی سیکھنے]]، کہانی سنانے اور سکافولڈنگ کو سب سے زیادہ استعمال شدہ حکمت عملیاں پایا، اور یہ کہ بیشتر مطالعات کسی CT فریم ورک کا نام نہیں دیتے اور TechCheck-K جیسے توثیق شدہ آلے کے بجائے وقتی جانچ کے اوزار استعمال کرتے ہیں ([[tsingidou-ct-robotics-kindergarten-2026|Tsingidou & Sapounidis (2026)]])۔
 - **مکالمے کے بجائے LLM کی منصوبہ بندی۔** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková (2026)]] ایک وژن-لینگویج ماڈل استعمال کرتی ہیں تاکہ Shoebox Tasks — [[neurodiversity|آٹزم]] اسپیکٹرم کے سیکھنے والوں کے ساتھ استعمال ہونے والی بصری طور پر ساختہ سرگرمیاں — کی تصویروں کو PDDL مسئلے میں بدلا جائے جسے Nao ہیومنائیڈ انجام دیتا یا مظاہرہ کرتا ہے، اور درستگی کا اسکور چھ کاموں پر دیا جاتا ہے، کسی سیکھنے والے کے نتیجے پر نہیں۔
 
-### جسمانیت اور پیدگوجی
+## جسمانیت اور پیدگوجی
 
 ایک نمایاں موضوع یہ ہے کہ روبوٹ اُس وقت مؤثر ہوتے ہیں جب وہ سچے سیکھنے کے اہداف کی حمایت کریں — الگ تھلگ تکنیکی مشقوں کے طور پر نہیں۔ ڈیسک پر نصب ایک روبوٹک پروجیکٹر نے لیپ ٹاپ ChatGPT کے برابر اسکور کیا جب تک مدد دستیاب تھی (6.7 بمقابلہ 7.3/10، p = .41) مگر مدد ہٹنے کے بعد اپنا اسکور برقرار رکھا (7.0 بمقابلہ 4.4/10، p = .003)، یعنی 60% زیادہ قلیل مدتی منتقلی کا اسکور — یہ کام پر منحصر فائدہ مصنفین عمومی متبادل کے بجائے فضائی ہم مقامی ہونے سے منسوب کرتے ہیں ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]])۔ روبوٹ کی قدر پیدگوجیکل سیاق و سباق پر منحصر ہے: کمپیوٹیشنل سوچ سکھانا ([[computational-thinking]])، [[stem-education|STEAM]] کی حمایت، [[cs-education|پروگرامنگ]] مہارتیں بنانا، سیکھنے والوں کو متحرک کرنا ([[motivation|محرک]]، [[student-engagement|شمولیت]])، یا [[social-emotional-learning|سماجی جذباتی سیکھنے]] اور [[equity-in-ai-education|مساوات]] کی حمایت کرنا۔ روبوٹکس [[project-based-learning|پروجیکٹ پر مبنی سیکھنے]]، [[game-based-learning|گیم پر مبنی سیکھنے]] اور [[experiential-learning|تجرباتی سیکھنے]] سے بھی جڑتی ہے۔ اہم ڈیزائن پہلوؤں میں سیکھنے والے کی [[agency|ایجنسی]] کا تحفظ، [[trust|بھروسا]] کی تعمیر، [[self-efficacy|خود اعتمادی]] کی حمایت اور سیکھنے کو [[embodied-learning|جسمانی تعامل]] میں جڑنا شامل ہیں۔ [[language-learning|زبان کی سیکھائی]] میں، [[robot-assisted-language-learning-meta-analysis-2026|میٹا تجزیاتی ثبوت]] جسمانی روبوٹ کی معاونت والی زبان کی سیکھائی کی تاثیر کی طرف اشارہ کرتے ہیں۔
 
 - **AI سے چلنے والی روبوٹکس سیکھنے کے راستے۔** [[educational-robotics-pathways-2026|روبوٹکس اور AI کے نصاب میں ہائی اسکول کے طلبہ کا ایک معیاری مطالعہ]] نے پایا کہ سیکھنا حقیقی دنیا کی مشق، ڈیزائن اور کھیل بھری تخلیقی اظہار کے ذریعے ہوتا ہے (تعمیریت پسند، معرفتی کثرتیت پسند عدسہ)۔
+
+- Lan اور Chen (2026) ایک جانچ پیش کرتے ہیں کہ جسم کی تبدیلی کب سطحی موافقت ہے۔ یہ تبادلہ صرف اس صورت میں قابلِ قبول ہے جب غیر متغیر گرہ، یعنی مقصد، مراحل کی ترتیب، شاخ کے قواعد، معیارات، شخصیت اور لہجے کی پابندیاں، اُس کے ساتھ باقی رہیں، اور جب نیا جسم مقصد کو آگے بڑھائے بغیر مطالبات بڑھائے تو تشکیل مسترد کی جاتی ہے ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]])۔
 
 ## عام غلط فہمیاں
 

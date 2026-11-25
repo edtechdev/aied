@@ -9,9 +9,9 @@ ethics: [equity-in-ai-education, ethics]
 level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-24T02:05:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/privacy"
-source_updated: "2026-11-18T10:35:00-05:00"
+source_updated: "2026-11-24T10:35:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -19,12 +19,8 @@ ai_assist:
     role: translation
     date: "2026-11-24"
     agent: hermes-agent
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: translation
-    date: "2026-11-04"
-    agent: hermes-agent
 connected_concepts: [remote-proctoring, learning-analytics, personalized-learning, k-12, ethics, regulation, equity-in-ai-education, governance, educational-policy-ai, pedagogical-safety, legal-issues-and-risks, student-experience, student-support-and-success]
-connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026]
+connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextual-leakage-ai-chat-platforms-2026, villegas-ch-federated-explainable-learning-analytics-2026, learning-analytics-to-educational-interventions-2026, automated-online-exam-proctoring-decade-review-2026, agentic-literacy-debt, ai-fatigue-academic-contexts, ai-lms-middle-school-longitudinal, child-safety-genai, eduzone-llm-safety-k12, spritz-ai-disciplinary-mediation-student-teams-2026, teachlm-post-training-llms-education, bassett-ai-detectors-education-2026, privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026, agarwal-ethical-values-norms-aied-2026, harerimana-remote-proctoring-nursing-scoping-2026, edtech-privacy-deferral-2026, kaziya-learner-data-privacy-governance-2026, wells-genai-research-assistant-sociology-2026, li-authorship-attribution-risk-student-texts-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -59,6 +55,8 @@ connected_articles: [stefanile-middle-secondary-ai-guidance-2026, bekos-contextu
 - **ڈی-شناخت کا انحصار قابلِ پیمائش پکڑ دھکڑ کے معیار پر ہے۔** [[ji-de-identification-personally-identifiable-information-2025|Ji et al. (2025)]] طلبہ کے متن پر PII کی پکڑ دھکڑ کے پانچ طریقوں کا بینچ مارک کرتے ہیں۔
 فائن ٹیون کیا گیا GPT-4o-mini فی 1M ٹوکن \$0.92 میں 0.9589 کی یاد دہانی تک پہنچا، جو Azure AI Language کے فی 1M ٹوکن \$4.90 کا تقریباً چھٹا حصہ ہے۔
 دو مرحلوں والا تصدیق کنندہ درستگی کو 0.8893 تک لے گیا جہاں جھوٹے مثبتات کارپس کی افادیت خراب کرتے، اور کم درستگی کی ناکامی کی صورت معنوی طور پر خلل ڈالنے والی ہے — ریاضی کے ایک پیراگراف میں "Newton" کی جگہ "David" رکھ دینا، یا ایسی کہانی میں جس کا اشارہ ناصرہ ہو، یسوع مسیح، مریم اور یوسف کو نشان زد کر دینا۔
+
+- **دوبارہ تحریر سے شناخت کم ہو سکتی ہے بغیر تحلیلی قدر کھوئے۔** ایک پائپ لائن جو طلبہ کی پوسٹس کو مواد، ساخت اور انداز میں تجزیہ کرتا ہے اور طلبہ-الگ نمونوں کے حصوں پر جمع کرتا ہے، تین حملہ آوروں کے خلاف مصنفیت-انتساب کے خطرے کو کم کر دیتا ہے جبکہ آگے کے کام کی کارکردگی کو اصل پر تربیت کے 1.8 نکات کے اندر رکھتا ہے ([[li-authorship-attribution-risk-student-texts-2026|Li et al. (2026)]])۔
 
 - **نگرانی اور نگرانی-رازداری کی کشیدگی۔** مسلسل AI نگرانی — حتیٰ کہ نیک نیت ہو تو بھی — مداخلت آمیز محسوس ہو سکتی ہے۔ [[ai-fatigue-academic-contexts|AI تھکاوٹ]]، [[remote-proctoring|ریموٹ نگرانی]] اور [[cognitive-offloading|حد سے زیادہ انحصار]] پر تحقیق رازداری کو طلبہ کی [[well-being|بہبود]] سے جوڑتی ہے: جب AI مسلسل دیکھتا اور سراغ لگاتا ہے تو وہ صرف ڈیٹا کے بہاؤ کو نہیں بلکہ رویّے اور بے چینی کو بھی شکل دیتا ہے۔ [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] نے فہرست بنائی کہ [[remote-proctoring|نگرانی]] کے نظام واقعی کیا پکڑتے ہیں — چہرے کی تصاویر، شناختی دستاویزات، کمرے کی اسکیننگ بشمول 360 ڈگری جھاڑو، مائیکروفون آڈیو، چہرے کی شناخت، اسکرین ریکارڈنگ، لاک ڈاؤن واقعات، اور کی اسٹروک و ماؤس ٹریکنگ، جبکہ موبائل نگرانی GPS اور سیلفی جانچ کا اضافہ کرتی ہے — اور پایا کہ اُن چھ مطالعات میں جنہوں نے شمولیت کے معیار پورے کیے، رازداری اور الگورتھمی احتساب بڑی حد تک موجود نہیں تھے، بلکہ ملحقہ کام سے فراہم کیے گئے: ایک حوالہ شدہ سروے میں 83% جواب دہندگان نے نگرانی کا خوف، 58% نے عدم آسودگی اور 72% نے ڈیٹا-رازداری کی فکریں ظاہر کیں، جبکہ سرحد پار فروش معاہدوں کی وجہ سے GDPR اور جنوبی افریقہ کے POPIA جیسے آلات محدود کنٹرول ہی فراہم کر سکے۔ اِس ڈیٹا کو محفوظ رکھنے اور پروسیس کرنے سے پیدا ہونے والا قانونی خطرہ — کنٹرولر کون ہے، کتنی دیر تک رکھا جاتا ہے، کون رسائی پا سکتا ہے، رضامندی واقعی رضاکارانہ تھی یا نہیں — [[legal-issues-and-risks]] پر نقش ہے۔
 

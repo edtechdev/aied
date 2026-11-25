@@ -8,15 +8,19 @@ technology: [generative-ai]
 discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
-updated: "2026-11-08T13:14:21-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/problem-based-learning"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-24T08:15:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [project-based-learning, case-based-learning, active-learning, collaborative-learning, scaffolding, critical-thinking, metacognition, cognitive-offloading, authentic-assessment, generative-ai, ai-literacy, medical-education, engineering-education, higher-ed, productive-failure]
 connected_articles: [chen-pbl-pjbl-genai-meta-analysis-2026, pbl-structural-conditions-ai-2026, educators-engagement-ai-pbl-review-2026, genai-simulate-patient-history-pbl-2026, learn-framework-responsible-genai-pbl-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, pbl-biomedical-engineering-genai-2026, ai-pbl-computational-thinking-2026, genai-counter-learner-groupthink-2025, dai-chatbots-problem-posing-primary-2026, jiang-chatgpt-inquiry-steam-review-2026, kim-ai-productive-failure-adult-2026, puech-pedagogical-steering-llm-productive-failure-2025, rhaimi-productivemath-2025, genai-scenario-based-healthcare-education-2026, chen-osman-preservice-physics-tpack-ctd-pbl-2026, facilitator-vs-ai-mediated-pbl-pharmacology-2026]
@@ -57,6 +61,8 @@ PBL طبی تعلیم میں پیدا ہوا (McMaster University، 1960 کی د
 - **شعبے کے نفاذ۔** [[engineering-education|بایو میڈیکل انجینئرنگ]] کے PBL فریم ورک خلاصہ سازی اور کوڈنگ کی معاونت کے لیے GenAI استعمال کرتے ہیں، نقل کے پیکجوں کے ساتھ ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]])؛ AI کی معاونت والا PBL [[computational-thinking|کمپیوٹیشنل سوچ]] کو [[educational-robotics|روبوٹکس]] میں بڑھاتا ہے ([[ai-pbl-computational-thinking-2026|کمپیوٹیشنل سوچ کے لیے AI کی معاونت والا PBL]])؛ اور genAI سے فعال مجازی مریض طبی تاریخ لینے کے ٹیوٹوریلوں کو سہارا دیتے ہیں ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]])۔
 - **ثبوت کی ترکیب۔** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|منظم جائزے]] میں PBL میں AI کے ساتھ اساتذہ کی شمولیت کے 50 مطالعوں (2015–2024) کا [[human-ai-collaboration|انسانی-کمپیوٹر تعامل]] کے فریم ورک میں جائزہ لیتے ہیں۔
 - **منظرنامے پر مبنی PBL میں GenAI۔** [[genai-scenario-based-healthcare-education-2026|Neto اور ساتھی (2026)]] صحت کی تعلیم میں GenAI کے اپنے منظم جائزے میں مسئلہ پر مبنی سیکھنے کو منظرنامے پر مبنی طریقوں میں شامل کرتے ہیں، اور پاتے ہیں کہ [[prompt-engineering|پرامپٹ ڈیزائن]] ہدایتی تصریح کا کام کرتا ہے اور انسانی-AI کا مخلوط اشتراک مکمل خودکار طریقوں سے بہتر کارکردگی دکھاتا ہے۔ جائزہ پیدا شدہ مواد کو ہدایتی فریم ورکوں سے زیادہ مضبوطی سے ہم آہنگ کرنے اور PBL کے سیاق میں زیادہ قابلِ تکرار پرامپٹنگ مشق کی ضرورت نمایاں کرتا ہے۔
+
+- **مرحلہ وار انخلا آخری انتخاب کو فیصلہ کا کام بنا دیتا ہے۔** [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]] میں 105 دوسرے سال کے انجینئرنگ طلبہ نے GenAI سے مسئلہ دریافت کیا اور نمونے تیار کیے، پھر ٹولز کو جان بوجھ کر محدود کر کے اور پہلے سے مقرر معیارات کے ساتھ حل منتخب کیا۔ مصنفین کے مطابق تنقیدی جائزہ ٹول کے ہونے کا نہیں بلکہ اس پابندی کا حامل ہے۔
 
 - **AI ٹیوٹر کی علمی مواد کی فراہمی سنبھال سکتا ہے، مگر گروہی سیکھنے کی سماجی ضابطگی نہیں۔** چار ہفتوں کے فارماکولوجی نیم تجربے میں [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] نے پایا کہ AI کی وساطت والا PBL سہولت کار کی قیادت والے تعلیمی فوائد کے برابر رہا (بین گروہ p = 0.474)، جبکہ سہولت کار کی قیادت والے گروہوں نے گروہی حرکیات (26.51 بمقابلہ 24.74، p = 0.035) اور تنقیدی سوچ (14.75 بمقابلہ 13.09، p < 0.001) میں برتری برقرار رکھی۔
 

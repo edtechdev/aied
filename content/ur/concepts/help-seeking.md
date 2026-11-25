@@ -9,15 +9,19 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-updated: "2026-11-08T12:38:41-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/help-seeking"
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-19T09:58:08-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [learners, self-regulated-learning, metacognition, scaffolding, intelligent-tutoring, student-experience, cognitive-offloading, learning-analytics, k-12, higher-ed, socratic-method, pedagogical-agent, ai-literacy, trust-calibration, affective-tutoring, feedback, active-learning, agentic-ai, student-support-and-success]
 connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interaction-haidl-2026, abdelghani-student-llm-epistemic-proactivity-math-2026, mihaylova-llm-feedback-live-programming-course-2026, humburg-scistory-ai-supported-inquiry-science-learning-games-2025, penquiry-pen-based-llm-qa-2026, tutortrace-learner-behavioral-states-2026, viberg-efficiency-effectiveness-srl-llm-help-seeking-2026, one-click-away-khanmigo-two-year-school-experiment-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, studychat-student-dialogues-chatgpt-ai-course-2026, lak2026-hint-button-unproductive-use, ai-fallibility-warning-help-seeking, regulating-ai-tutor-adolescent-srl, guided-llm-scaffolding-independent-learning, rethinking-scaffolding-llm-tutors, uneven-impact-generative-ai-student-learning-2026, reed-resource-literacy-genai-composition-2026, course-specific-rag-help-seeking-higher-ed-2026, adaptive-scaffolding-contingency-comet-tutor-2026, helpcoach-ai-help-seeking-scaffolding-2026, guided-ai-tutor-impasse-resolution-2026, student-query-demand-hybrid-ai-support-2026, wyszynski-genai-user-input-engineering-statics-2026, huang-multi-agent-self-regulated-learning-cs-2026, habit-over-intention-genai-help-seeking-engineering-2026]
@@ -98,9 +102,14 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 
 - **اختیاری مدد کا بٹن کلک نہیں ہوتا۔** پانچویں جماعت کی تین کلاسوں میں طلبہ نے ایسے معاون ایجنٹ کو شاذ و نادر ہی بلایا جسے ڈیزائن نے خودمختاری بچانے کے لیے جان بوجھ کر اختیاری رکھا تھا، اور اس کے بجائے [[teacher-role|استاد]] کو بلایا، جبکہ وہ الجھن جس کے لیے وہ بنایا گیا تھا برقرار رہی ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]])۔
 
+- تین ہفتوں کے پانچویں جماعت کے کردار پر مبنی کھیل میں، GenAI شرط والے تمام 42 طلبہ نے کھیل کے اندرونی استاد سے سوال کیا، اور 61.9% نے پوچھنے کے موقع کو اُن چیزوں میں شمار کیا جن سے انہیں قدر حاصل تھی؛ چند نے کہا کہ انہوں نے ایسے سوالات پوچھے جو انہیں حقیقی استاد سے پوچھنے سے ڈر لگتا تھا ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]])۔
 ## مدد طلب کرنا اور خود ضابطگی والی سیکھائی
 
 مدد طلب کرنا [[self-regulated-learning]] کا لازمی حصہ ہے: کارآمد مدد طلب کرنے کے لیے سیکھنے والے کو سمجھ کی نگرانی کرنی ہوتی ہے، یہ جانچنا ہوتا ہے کہ مدد کب درکار ہے، اور مناسب ذرائع کا انتخاب کرنا ہوتا ہے۔ GenAI کے سیاق میں یہ اور بھی زیادہ مطالبہ بن جاتا ہے، کیونکہ طلبہ کو AI پر [[agency]] کا استعمال بھی کرنا ہوتا ہے اور اس کے آگے جھکنے کے بجائے علمی چوکسی برقرار رکھنی ہوتی ہے۔ اس علمی ذخیرے کی تحقیق ایسے [[scaffolding|سہاروں]] کی ضرورت کی تائید کرتی ہے جو زیادہ [[agentic-ai|ایجنٹک]] اور علمی طور پر فعال AI استعمال کو فروغ دیں، اور اس خطرے کو نمایاں کرتی ہے جو [[cognitive-offloading|حد سے زیادہ انحصار]] اور [[cognitive-offloading]] کا ہے جب مدد طلب کرنا غیر مشروط جواب طلب کرنے میں گر جائے۔([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+آبادی کے پیمانے کا ثبوت متبادلی کی کہانی کو پیچیدہ بناتا ہے: چار چینی علاقوں کے 12,191 PISA 2025 طلبہ میں، اسکول کے کام کے لیے زبادہ سے زبادہ GenAI استعمال کا تعلق کم کہیں نہیں بلکہ زیادہ تعلیمی مدد طلب کرنے سے تھا (β = 0.169) ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]])۔
+
+لاگز طلب کو گھڑی اور سوال دونوں پر رکھتے ہیں۔ 215 طلبہ کے Statics کورس میں، درسی کتاب کے ChatGPT معاون کے پاس پرامپٹس اتوار اور پیر کو اور دوبارہ رات 1 سے 3 بجے کے درمیان عروج پر تھے، یعنی وہی گھنٹے جب دفتری ساعات بند تھے ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry اور Dosse, 2026]])۔ سیکھنے والے کیا مانگتے ہیں اس کا تعلق مشکل سے ہے: گریجویٹ اسمبلی زبان کورس میں پرامپٹ کی گئی کوششوں کا درست ہونے کا امکان کم تھا (OR = 0.35)، اور میٹا کوگنیٹو پرامپٹنگ درمیانی سوالات پر مرکوز رہی، جہاں پرامپٹ کی گئی کوششوں کامیابی کے 3.79 گنا امکانات رکھتی تھیں ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]])۔ اشارے کا ڈیزائن نہیں، سوال کی مشکل ہی طے کرتی ہے کہ مدد غور سے منتقل ہوتی ہے یا نہیں۔
 
 ### LLM کے واسطے سے مدد طلب کرنا بطور چار مرحلوں کا عمل
 
@@ -116,6 +125,7 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 
 **دوسری پائپ لائن یہی سوال بنیادی ڈھانچے کی طرف سے پوچھتی ہے۔** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] استدلال کرتے ہیں کہ انسان-AI کا تبادلہ اپنی الگ قسم کا ڈیٹا ہے: ان کی نمائندگی ایک ہی شے کے طور پر اس کمپیوٹیشنل حالت کو، جو درخواست کا سبب بنی، خود درخواست کو، جواب کو، اس پر صارف کی جانچ کو اور اس کے بعد کی عمل آوری کو ریکارڈ کرتی ہے۔ پھر سوالات کو اس سیاق کی بنیاد پر غلطی کی بحالی، اگلے قدم پر پھنس جانا، تصوراتی مدد یا تصدیق کے طور پر درجہ بند کیا جاتا ہے۔ 140 طالب علم-اسائنمنٹ جوڑوں پر پھیلی 35 طلبہ کی JupyterLab تعیناتی میں، محض تعامل کی گنتی کامیابی سے عمل میں آنے والے خلیوں کے ساتھ صرف r = 0.12 پر متعلق تھی، جبکہ 37 جوڑوں کے پاس رسائی تھی اور انہوں نے کبھی استعمال نہیں کیا اور 26 نے اسے اپنی مقرر کردہ شرط سے باہر استعمال کیا۔
 
+- جہاں ٹیوٹرنگ ریکارڈ کی جانچ ہو سکتی ہے، درخواست روکنا عقلی ہے، پس مدد طلب کرنے کی عدم موجودگی کو ضرورت کی عدم موجودگی نہیں پڑھا جا سکتا: جانچ کے تحت ایک ہی لاگ اشارہ اکلا جگہ سے مختلف مطلب ہوتا ہے ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]])۔
 ## ڈیزائن اور تحقیق کے لیے مضمرات
 
 1. **مدد طلب کرنے کی افورڈنسیں جان بوجھ کر ڈیزائن کریں۔** مستقل، نمایاں مدد والے بٹن بچنے کی حکمتِ عملیاں ممکن بنا سکتے ہیں؛ رسائی مؤخر کریں اور فراہمی کو ترتیب دیں تاکہ [[desirable-difficulties|کارآمد جدوجہد]] کو سہارا ملے۔([[lak2026-hint-button-unproductive-use]])
@@ -129,3 +139,9 @@ connected_articles: [leite-its-k12-meta-analysis-2025, taufer-human-ai-interacti
 - **"جن طلبہ کو مدد کی ضرورت ہوتی ہے وہ مانگتے نہیں۔"** بڑے اندراج والے انڈرگریجویٹ کورسوں میں ایک **پیشگی رجسٹرڈ تجربے** نے طلبہ کو تعلیمی چیٹ بوٹ کے ذریعے پیغام بھیجا اور **ٹیوٹرنگ اور اضافی معاونت کی زیادہ قبولیت** پائی۔ نفسیاتی ترغیب نے رویہ بدل دیا، پس رکاوٹ رضامندی نہیں بلکہ [[prompt-engineering|ترغیب]] تھی۔
 - **"مدد طلب کرنے کی درخواستیں سیکھنے سے متعلق ہوتی ہیں۔"** **عملی معاونت کی طلب** اس مفروضے کو پیچیدہ بناتی ہے: **4,093 سوالات** میں کم از کم **20.4% نے علم کے بجائے کسی زیرِ التوا جمع کرانے کی کیفیت** کے بارے میں پوچھا۔ مدد کی طلب کا پانچواں حصہ انتظامی تھا۔
 - **"AI ٹیوٹر استعمال کرنا اپنی سیکھائی کی نگرانی کرنے کے برابر ہے۔"** GenAI ٹیوٹر استعمال کرنے والے **98 نویں جماعت کے طلبہ** کے مطالعے میں تعاملات پر **اوزاری درخواستوں کا غلبہ تھا اور اپنی سیکھائی کی نگرانی یا جانچ تقریباً نہیں تھی**۔ جواب مانگنا اس معنی میں مدد طلب کرنا نہیں جو اس تصور کا مطلب ہے۔
+
+## جب عادت پوچھنے کی جگہ لے لیتی ہے
+
+مدد طلب کرنا عموماً ایک فیصلے کے طور پر مطالعہ ہوتا ہے — یہ جانچنے کے بارے میں فیصلہ کہ پوچھنا قیمت کے قابل ہے یا نہیں۔ فلیپینز کے 392 انجینئرنگ طلبہ اور تعلیم کاروں پر 2026 کے PLS-SEM مطالعے کا اشارہ یہ ہے کہ ایک بار [[generative-ai|جنریٹو AI]] کے انداز میں آنے کے بعد یہ فیصلہ زیادہ تر پہلے ہی ہو چکا ہے: **عادت نے انسانی مدد طلب کرنے کے بہزاد ہونے کی پیشگوئی β = 0.711 پر کی**، جبکہ [[technology-acceptance-model|رویے کے ارادے]] نے β = 0.039 پر کی، ایک ایسا راستہ جو صفر سے شماریاتی طور پر الگ نہیں ہو سکتا۔ اس نمونے کے GenAI صارفین میں سے نصف (49.6%) نے بتایا کہ وہ کسی انسان سے مدد مانگنا کم کرتے ہیں، اور صرف 15.8% نے پھنسنے پر انسان کو اپنا پہلا ذریعہ بتایا، بمقابلہ 30.4% نے کسی آلے کو۔
+
+مدد طلب کرنا کس طرح سہارا دیا جائے اس پر دو مضمرات پیدا ہوتے ہیں۔ اول یہ کہ رویوں یا پوچھنا جذاب بنانے پر مرکوز مداخلتیں ایک رسم کا مقابلہ کرتی ہیں جو پہلے ہی خودکار ہے — انہیں عقیدے کو نہیں، اس رسم کو نشانہ بنانا ہوگا۔ دوم یہ کہ واحد تصور جس نے بہزاد ہونے کو *کم* کیا وہ [[academic-integrity|تعلیمی سالمیت]] کی فکر تھی (β = −0.329)، جو اس بات کا اشارہ ہے کہ انسانی مشورے کو محفوظ رکھنا پیغام رسانی کے بجائے لازمی بین الأشخاصی چوکیوں — ہم مرتبہ جائزہ، زبانی دفاع، نگرانی والی لیبارٹری مدد — کے ذریعے زیادہ قابلِ تصدیق ہے۔([[habit-over-intention-genai-help-seeking-engineering-2026|Pao et al., 2026]])

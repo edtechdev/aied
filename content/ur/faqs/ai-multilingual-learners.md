@@ -1,7 +1,7 @@
 ---
 title: "AI کثیر اللسانی طلبہ کی مدد کیسے کر سکتا ہے، بغیر اُن کے علم کو غلط سمجھے یا اُن کی آواز مٹائے؟"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-15T15:58:16-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -20,6 +20,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 ---
 
@@ -116,7 +120,7 @@ ai_assist:
 
 **4.** ایک جانچ شامل کریں جو طالب علم کے اپنے مطلب یا فیصلے کو درج کرے، مثلاً اُس تبدیلی پر دو جملوں کا نوٹ جو اُس نے قبول یا رد کی۔
 
-**5.** اگر آپ کا ربرک [[writing-education|تحریر کے معیار]] کو نمبر دیتا ہے، تو اُس معیار کو تصوراتی معیار سے الگ کریں اور ہر قسم کے دو کام اِس تقسیم کو ذہن میں رکھ کر دوبارہ پڑھیں۔
+**5.** اگر آپ کا [[rubrics|ربرک]] [[writing-education|تحریر کے معیار]] کو نمبر دیتا ہے، تو اُس معیار کو تصوراتی معیار سے الگ کریں اور ہر قسم کے دو کام اِس تقسیم کو ذہن میں رکھ کر دوبارہ پڑھیں۔
 
 ## آگے کہاں جائیں
 

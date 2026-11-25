@@ -5,9 +5,9 @@ type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
-updated: "2026-11-08T11:46:54-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/adaptive-learning"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-24T09:30:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -15,8 +15,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
+    agent: hermes-agent
 connected_concepts: [online-teaching-and-learning, knowledge-tracing, personalized-learning, intelligent-tutoring, student-modeling, scaffolding, cognitive-diagnosis, llm, learning-analytics, higher-ed, k-12, formative-assessment, behaviorism, ai-technologies, recommender-systems-and-learning-paths]
-connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, deceptive-overgeneralization-adaptive-learning-2026, turano-ai-tutoring-not-a-monolith-2026, adaptive-ai-scaffold-collaborative-problem-solving-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, simon-student-engagement-adaptive-learning-2026, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-student-engagement-online-learning-review-2025, virtual-tutoring-computer-assisted-learning-takeup-2026, making-ai-tutoring-productive-mastery-math-2026, chudziak-ai-math-tutoring-platform, khalifeh-redefining-personalized-learning-ai-2026, zhao-deeptutor-agentic-personalized-tutoring-2026, ai-powered-personalized-learning-elementary-fractions-2026, adaptive-pretesting-retention, adapt-adaptive-lesson-plan-transformer, zerkouk-comprehensive-review-its-2025, stanford-evidence-base-ai-k12-2026, context-based-ai-secondary-chemistry-2026, bin-bakheet-adaptive-ai-stem-deep-learning-2026, graph-its-adaptive-algorithms-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, adaptive-scaffolding-cognitive-engagement-its, burneo-can-edtech-close-learning-gaps-2026, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, riedmann-reinforcement-learning-education-review-2026, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026]
+connected_articles: [adapt-adaptive-lesson-plan-transformer, adaptive-ai-scaffold-collaborative-problem-solving-2026, adaptive-pretesting-retention, adaptive-scaffolding-cognitive-engagement-its, ai-enhanced-pbl-chatgpt-scaffolding-2026, ai-powered-personalized-learning-elementary-fractions-2026, ai-student-engagement-online-learning-review-2025, alsheikh-mapping-ai-integration-higher-education-2026, an-goel-self-directed-modeling-2026, ayasrah-adaptive-assessment-conceptual-mastery-2026, bayesian-cognitive-diagnosis-personalized-learning-paths, bin-bakheet-adaptive-ai-stem-deep-learning-2026, burneo-can-edtech-close-learning-gaps-2026, chudziak-ai-math-tutoring-platform, chung-personalized-ai-tutors-llm-reinforcement-learning-2026, colearn-agentic-tutor-co-learning-loop-2026, configuration-aware-diagnostic-adaptive-scaffolding-2026, context-based-ai-secondary-chemistry-2026, deceptive-overgeneralization-adaptive-learning-2026, graph-its-adaptive-algorithms-2026, khalifeh-redefining-personalized-learning-ai-2026, making-ai-tutoring-productive-mastery-math-2026, mars-momentum-aware-adaptive-rating-assessment-2026, mejeh-fromm-srl-adaptive-learning-feedback-2026, riedmann-reinforcement-learning-education-review-2026, simon-student-engagement-adaptive-learning-2026, stanford-evidence-base-ai-k12-2026, turano-ai-tutoring-not-a-monolith-2026, virtual-tutoring-computer-assisted-learning-takeup-2026, zerkouk-comprehensive-review-its-2025, zhao-deeptutor-agentic-personalized-tutoring-2026, ma-ai-cal-rct-rural-china-2026]
 ---
 
 *انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*
@@ -34,7 +38,7 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 ## تعارف
 
-### بنیادی میکانزم
+## بنیادی میکانزم
 
 - **پیمائش-ماڈل-انطباق کا چکر:** [[knowledge-tracing]] اندازہ لگاتا ہے کہ طالب علم کیا جانتا ہے، [[student-modeling]] سیکھنے والے کی نمائندگی کرتا ہے، اور نظام اِسی بنیاد پر مشکل کی سطح، مواد اور [[feedback]] ڈھالتا ہے۔
 - **بڑے پیمانے پر ذاتی نوعیت:** [[personalized-learning]] نظام انطباقی الگورتھم استعمال کرتے ہوئے ہر طالب علم کے لیے منفرد سیکھنے کے راستے بناتے ہیں۔ [[deeptutor]] اور [[ai-powered-personalized-learning-elementary-fractions-2026|ابتدائی کسر کے ٹیوٹر]] عملی طور پر انطباقی ذاتی نوعیت کا مظاہرہ کرتے ہیں۔
@@ -42,7 +46,9 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 - **ITS کا انضمام:** [[intelligent-tutoring|ذہین ٹیوٹرنگ نظام]] انطباقی سیکھنے کا معیاری [[edtech-platform|پلیٹ فارم]] ہیں، جو تشخیص کو انطباق کے ساتھ جوڑتے ہیں۔
 - **AutoML سے چلنے والی پروفائلنگ اور تشخیص:** روایتی تعلیمی ماڈل کئی ماخذوں سے آنے والے، متفاوت سیکھنے کے رویے کے ڈیٹا کی کارروائی میں دشواری کا شکار رہتے ہیں، جو سیکھنے والے کی پروفائلنگ اور تشخیصی ماڈل کی تیاری کو محدود کرتی ہے۔ خودکار [[machine-learning|مشین لرننگ]] سے چلنے والا ذاتی نوعیت کا عصبی علمی معماری تلاش کرنے والا فریم ورک [[multimodal|کثیرالوضع]] تعلیمی ڈیٹا کو متفاوت طریقوں کے ساتھ جوڑتا ہے، متفاوت سیکھنے والے پروفائلز کے مطابق تشخیصی ماڈل بناتا ہے، اور سیکھنے کے عمل کے متحرک—نہ کہ جامد—تجزیے کی حمایت کرتا ہے۔
 
-### شواہدِ اثر انگیزی
+- **کوریج ایک ڈیزائن پابندی ہے، ضمنی اثر نہیں۔** [[ayasrah-adaptive-assessment-conceptual-mastery-2026|کلستر بے ترتیب پروٹوکول کے ساتھ simulation پر مبنی ڈیزائن کی جانچ]] میں پہلے سے مطلوب پر مبنی انطباقی ترتیب 8 میں سے 6.3 تصورات تک پہنچی، جبکہ مقررہ ترتیب میں یہ 8.0 تھے، چنانچہ پروٹوکول نصابی کوریج کو واضح حد کے طور پر رکھتا ہے، اسے پہلے سے مطلوب پر مبنی روک کے فیصلے پر چھوڑتا نہیں۔
+
+## شواہدِ اثر انگیزی
 
 علمی ذخیرہ ملے جلے شواہد درج کرتا ہے: انطباقی نظام اُس وقت نتائج بہتر بناتے ہیں جب انطباق قابلِ اعتماد [[student-modeling|طلبہ کے ماڈل]] پر مبنی ہو، مگر غلط طریقے سے کیلیبریٹ کیا گیا انطباق سیکھنے کو نقصان پہنچا سکتا ہے۔ [[personalized-learning|ذاتی نوعیت کی سیکھنے کی تحقیق]] مؤثر انطباق اور سطحی حسبِ ضرورت بنانے کے درمیان فرق کرتی ہے۔ [[khalifeh-redefining-personalized-learning-ai-2026|منظم جائزے]] بتاتے ہیں کہ "انطباقی"، "ذاتی نوعیت کی"، "انفرادی" اور "حسبِ ضرورت" سیکھنا متضاد طریقوں سے استعمال ہوتے ہیں — چنانچہ اثر کے حجم اس بات پر بہت زیادہ منحصر ہیں کہ انطباق کو عملی طور پر کیسے بیان کیا گیا، اور میدان ایک متحد فریم ورک کا مطالبہ کرتا ہے۔
 
@@ -52,17 +58,19 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 دو سالہ ضلعی RCT میں اصل پابندی انطباق کے میکانزم پر نہیں بلکہ شمولیت کی شرح پر لگی: اندراج کو ایک ہی مرحلے تک محدود کرنے سے محض ڈیزائن کی تبدیلیوں ہی پر پہلی نشست کی شرکت تقریباً 45% سے 83% ہو گئی، اور شرکت بڑھنے کے ساتھ ساتھ ارادۂ علاج (intent-to-treat) کے فوائد بھی بڑھتے گئے ([[virtual-tutoring-computer-assisted-learning-takeup-2026|Oreopoulos وغیرہ (2026)]])۔
 
+- **اِدائیگی کو ماننے سے پہلے بطroll کا موازنہ کریں۔** 105 دیہی چینی ابتدائی اسکولوں کے 8,647 طلبہ پر ہونے والے ایک رجسٹرڈ [[rct|RCT]] میں، AI سے چلنے والا [[adaptive-learning|انطباقی]] CAL پروگرام غیر انطباقی ورژن کے مقابل میں مواد، ہارڈ ویئر، شیڈول، گیمیفیکیشن اور فیڈبیک کے لحاظ سے جوڑا گیا۔ صرف انطباقیت سے عام CAL کے مقابل میں -0.037 SD ملے، اور وقفہ کسی بامعنى مثبت اثر کو خارج کرتا ہے ([[ma-ai-cal-rct-rural-china-2026|Ma et al., 2026]])۔
+
 44 مطالعات کے PRISMA کے مطابق جائزے سے پتہ چلتا ہے کہ شمولیت کا ادب [[student-engagement|رویے کی شمولیت]] کی طرف جھکا ہوا ہے اور ایجنسی والی شمولیت پر سب سے پتلا ہے، اور یہ نیاپن کے اثر کی اطلاع دیتا ہے — ALEKS اور W-Pal کے طویل مدتی مطالعات میں ٹول کا نیاپن ختم ہوتے ہی شمولیت وقت کے ساتھ گرتی گئی ([[simon-student-engagement-adaptive-learning-2026|Simon, Zeng & Fryer (2026)]])۔
 
-### AI کا دور: LLM پر مبنی انطباق اور اُس کے خطرات
+## AI کا دور: LLM پر مبنی انطباق اور اُس کے خطرات
 
 [[generative-ai|جنریٹو AI]] نے انطباقی نظاموں کی صلاحیتوں کو وسیع کیا ہے — مکالماتی [[agentic-ai|ایجنسی]] ٹیوٹر، [[rag]] پر مبنی مواد، اور [[llm]] سے چلنے والی [[intelligent-tutoring|ٹیوٹرنگ]] صرف مسئلے کی مشکل ہی نہیں بلکہ زبان اور وضاحت کا انداز بھی ڈھالتی ہے (مثلاً [[learnmate2-llm-adaptive-learning|LearnMate-2]]، [[deeptutor]]، [[chudziak-ai-math-tutoring-platform|کئی ایجنٹوں والی انطباقی ٹیوٹرنگ]])۔ تاہم LLM پر مبنی انطباق نئے خطرات لاتا ہے: قابلِ اعتماد [[student-modeling|طلبہ کے ماڈل]] کے بغیر انطباق سطحی اشاروں پر مبنی ہو سکتا ہے؛ حد سے زیادہ انطباق اُس نتیجہ خیز جدوجہد کو کم کر سکتا ہے جو طلبہ کو درکار ہے (دیکھیں [[desirable-difficulties]]، [[cognitive-offloading]])؛ اور ذاتی نوعیت دینے اور سیکھنے والے کی [[agency]] بچائے رکھنے کے درمیان توازن ایک کھلا ڈیزائن سوال ہے (دیکھیں [[agentic-ai|ایجنسی AI]])۔ انطباق کی ایک ایسی شکل جو سیکھنے والا خود طلب کرتا ہے، [[student-modeling|طلبہ کے ماڈل]] کے بغیر ہی چلتی ہے: Sidorkin (2026) کے گریجویٹ کورس میں پڑھائی کے مواد میں تبدیلی صرف اُس وقت آئی جب طلبہ نے فالو اَپ سوالات پوچھ کر اُنہیں نئے انداز میں دیکھنے، گہرا کرنے، آسان کرنے یا مقامی بنانے کی درخواست کی، اور فہم پر مرکوز درخواستوں سے مستقل طور پر زیادہ گھنا [[scaffolding|سہارا]] پیدا ہوا (بنیادی متن کے مقابلے 3.4 گنا سے 8.7 گنا زیادہ تعریفی نشانات)، یہی وجہ ہے کہ ہر پڑھائی کے لیے کم از کم تین فالو اَپ سوالات لازمی کرنے سے مواد ایک تعامل میں بدل گیا۔ یہ انطباقی بوجھ کو سیکھنے والے پر بھی منتقل کر دیتا ہے: یہاں انطباق صرف اُس صورت میں ہوتا ہے جب طالب علم کو معلوم ہو کہ کیا مانگنا ہے۔
 
-### ذاتی نوعیت کی سیکھنے اور ذہین ٹیوٹرنگ سے تعلق
+## ذاتی نوعیت کی سیکھنے اور ذہین ٹیوٹرنگ سے تعلق
 
 انطباقی سیکھنے کو اکثر [[personalized-learning|ذاتی نوعیت کی سیکھنے]] کے ساتھ ملا دیا جاتا ہے، مگر دونوں مختلف ہیں۔ **انطباقی سیکھنا** ایک *میکانزم* ہے — سیکھنے والے کے ماڈل کی بنیاد پر مواد، رفتار اور مشکل کی سطح کی فوری ترتیب۔ **ذاتی نوعیت کی سیکھنا** ایک *وسیع تر مقصد* ہے، یعنی پورے سیکھنے کے تجربے کو کسی فرد کے مطابق ڈھالنا، جس کا ایک عملی اظہار فوری انطباق ہے۔ انطباقی نظام ذاتی نوعیت کی طرف جانے کا معیاری *ذریعہ* ہیں۔ [[intelligent-tutoring|ذہین ٹیوٹرنگ]] کلاسیکی *پلیٹ فارم* ہے: ITS تشخیص (طلبہ کی ماڈلنگ، نالج ٹریسنگ) کو انطباق کے ساتھ جوڑتے ہیں، اور LLM پر مبنی ٹیوٹر مکالماتی انداز میں انطباق کرتے ہیں۔ [[personalized-learning|ذاتی نوعیت کی سیکھنے]] کے ساتھ ساتھ انطباقی سیکھنا [[student-modeling|سیکھنے والے کی ماڈلنگ اور انطباقی تدریس]] خاندان کا اطلاقی پہلو کا رکن ہے — جو اُن نمائندوں کو استعمال کرتا ہے جو [[student-modeling|طلبہ کی ماڈلنگ]]، [[knowledge-tracing]] اور [[cognitive-diagnosis]] پیدا کرتے ہیں۔
 
-### تحقیقی شواہد
+## تحقیقی شواہد
 
 - **انطباقی + AI ٹولز پر [[meta-analysis-systematic-review|میٹا تجزیاتی]] شواہد۔** [[burneo-can-edtech-close-learning-gaps-2026|عالمی بینک کا ایک میٹا تجزیہ]] 14 [[rct|RCTs]] کو ایک مشترک پیمانے پر یکجا کرتا ہے — انطباقی کمپیوٹر معاون سیکھنا، ذہین ٹیوٹرنگ اور جنریٹو AI — اور اوسط سیکھنے کا فائدہ تقریباً 0.125 sd بتاتا ہے، دونوں ٹیکنالوجی نسلوں کے درمیان کوئی نمایاں فرق نہیں — یہ شہادت کہ فوائد کا محرک انطباق کا طریقہ کار ہے، نہ کہ ٹول کی مخصوص نسل۔
 - **قابلِ تفسیر درجہ بندی اور وقت کے بجٹ کے مطابق روٹنگ۔** [[mars-momentum-aware-adaptive-rating-assessment-2026|Sahu وغیرہ (2026)]] چند واضح سیکھنے والے اسکیلر رکھتے ہیں — درجہ بندی کی حساسیت، جواب کا معیار اور رفتار — اور وقت کے بجٹ کے تحت سوالات بھیجتے ہیں، جس سے درجہ بندی کی تازہ کاری کا اتار چڑھاؤ مقررہ Elo کے مقابلے تقریباً آدھا رہ جاتا ہے، مگر پیش گوئی میں وہ عصبی نالج ٹریسنگ سے پیچھے رہتے ہیں (AUC 0.7532 بمقابلہ GKT کا 0.8658)۔
@@ -87,14 +95,10 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 - **بوتل کی گردن والی خصوصیت کو ڈھالیں، کمزور اوسط کو نہیں۔** علمی حالتوں کی منتقلی کی ماڈلنگ نے [[critical-thinking|تحلیلی سوچ]] کو حصول میں سب سے مشکل اور ضائع ہونے میں سب سے آسان قرار دیا — سب سے کم آگے کی منتقلی کا امکان 0.31 اور سب سے زیادہ پیچھے کی 0.22-0.23 — جس سے نشان زد خصوصیت کی دوبارہ مشق مجموعی مہارت سے زیادہ تیز انطباقی ہدف بنتی ہے ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng & Huang, 2026]])۔
 - **انطباق مجموعی اسکوروں سے نہیں، عمل کی ترتیبوں سے۔** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] نے سہ رکنی گروہوں میں 65 طلبہ کے مکالمے کے موڑ کی *ترتیب* کان کر سہارے کے قواعد اخذ کیے، جس سے انطباقی سیکھنا مجموعی رویوں یا کارکردگی کے پیمانوں سے آگے بڑھ کر انفرادی عمل کی ترتیبوں کی طرف آیا؛ زیادہ سے زیادہ سہارے نے کام پر توجہ کا رویہ بڑھایا مگر اسکرپٹنگ بھی، اور یہ ڈیزائن ابھی جانچا نہیں گیا۔
+- **پہچان توجہ فلاح سے آگے ہے۔** 90 معلمین میں سے 74 (82.2%) نے ایسے سیکھنے والے شناخت کیے جنہیں انطباق درکار تھا، مگر صرف 50 (55.6%) نے کوئی انطباقی پیمائش نافذ کی؛ اصل رکاوٹ ٹیکنالوجی نہیں بلکہ سیکھنے والوں کے بارے میں معلومات تھی، جسے 12% نے نام لیا ([[hilali-adaptive-learning-challenges-2026|Hilali اور Chergui (2026)]])۔
+- **کنٹرول علاج کا حصہ ہے۔** انطباق کس کا ہے اس کا انطباق کیا ہے اتنا ہی مددگار ہے: 83 مطالعات میں، نظام کا کنٹرول علم پر g = 1.05 (95% CI [.65, 1.45]) اور استاد کا کنٹرول g = .86 [.46, 1.26] دے رہا، جبکہ سیکھنے والے کا کنٹرول صرف g = .31 [−.44, 1.05] تک پہنچا ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao وغیرہ، 2026]])۔
 
-## عام غلط فہمیاں
-
-- **"انطباقی کا مطلب ذاتی نوعیت ہے، اور ذاتی نوعیت کا مطلب انفرادی۔"** [[khalifeh-redefining-personalized-learning-ai-2026|منظم جائزے]] پاتے ہیں کہ یہ چاروں اصطلاحات **ادب میں متضاد طور پر** استعمال ہوئی ہیں، یعنی رپورٹ شدہ اثر کے حجم اس بات پر بہت زیادہ منحصر ہیں کہ انطباق کو عملی طور پر کیسے بیان کیا گیا، خود انطباق پر نہیں۔ مختلف الفاظ استعمال کرنے والے مطالعات کو یکجا کرنے والا میٹا تجزیہ مختلف علاج یکجا کر رہا ہوتا ہے، اور اُس کی اوسط اِن میں سے کسی ایک کو بیان نہیں کرتی۔
-- **"نظام میں حاصل کی گئی مہارت سیکھی گئی مہارت ہے۔"** **6,000 طلبہ کے مڈل اسکول میدانی تجربے** میں AI کی معاونت والے "تین صحیح لگاتار" کے قاعدے نے **پلیٹ فارم کی تعریف کے مطابق حصول تقریباً 28.7 فیصد پوائنٹس بڑھایا، مگر منتقلی کے کسی پیمانے میں کوئی بہتری نہ لائی**۔ قاعدے نے پلیٹ فارم کے اپنے معیار کو بہتر بنایا۔ یہ دستیاب سب سے واضح مظاہرہ ہے کہ مہارت کا اشارہ سیکھنے کا ایک ماڈل ہے، خود سیکھنا نہیں۔
-- **"درستگی پر مبنی انطباق جانتا ہے کہ کب رکنا ہے۔"** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren اور Stamper (2026)]] نے پایا کہ درستگی سے مہارت کا اندازہ لگانے والے نظام **مشق بہت جلدی ختم کرنے** کا خطرہ رکھتے ہیں — نظام صحیح جوابوں کے سلسلے کو فہم سمجھ کر وہ مشق واپس لے لیتا ہے جو سیکھنے والے کو ابھی درکار تھی۔ کامیابی پر رکنے والا انطباق بالکل وہی تجربات چھین سکتا ہے جو یادداشت کو پائیدار بناتے ہیں۔
-- **"اصل مسئلہ یہ ہے کہ انطباق کتنا اچھا ہے۔"** **دو سالہ ضلعی RCT** میں اصل رکاوٹ **شرکت** تھی: اندراج کو ایک مرحلے تک محدود کرنے سے محض ڈیزائن کی تبدیلیوں پر پہلی نشست کی شرکت تقریباً **45% سے 83%** ہو گئی، اور ارادۂ علاج کے فوائد اِسی حساب سے بڑھے۔ بہترین انطباق اُس شخص کی خدمت نہیں کر سکتا جو اُس تک پہنچتا ہی نہ ہو۔
-- **"شمولیت ایک بار قائم ہو جائے تو برقرار رہتی ہے۔"** **44 مطالعات** کے PRISMA کے مطابق جائزے نے پایا کہ شمولیت کا ادب رویے کی شمولیت کی طرف جھکا ہوا اور ایجنسی والی شمولیت پر سب سے پتلا ہے، اور یہ **نیاپن کے اثر** کی اطلاع دیتا ہے — ALEX اور ملتے جلتے نظاموں کے طویل مدتی مطالعات میں شمولیت وقت کے ساتھ گرتی گئی۔ ابتدائی شمولیت ڈیزائن کی کوئی مستقل خصوصیت نہیں۔
+- **بند چکر والی یادداشت ٹیوٹرنگ کو مشق سے جوڑتی ہے۔** [[zhao-deeptutor-agentic-personalized-tutoring-2026|DeepTutor]] اس بات کا تین سطحی نشان جنگل محفوظ رکھتا ہے کہ طالب علم کیسے غلطی کرتا ہے، جس سے ٹیوٹرنگ کے دوران ظاہر ہونے والی کمزوریاں اگلا پیدا ہونے والا سوال شکل دیتی ہیں، ذاتی نوعیت کے پیمانوں پر +10.8% اور عام ایجنٹک استدلال پر +29.4% کے ساتھ۔
 
 ## یہ عمل کے لیے کیا معنی رکھتا ہے
 
@@ -110,3 +114,11 @@ connected_articles: [mars-momentum-aware-adaptive-rating-assessment-2026, decept
 
 - جس بھی اثر کے حجم کا حوالہ دیں، اُس کے ساتھ "انطباقی" کی عملی تعریف بھی بتائیں، کیونکہ ادب کی تعریفیں مختلف ہیں اور یکجا کیے گئے اعداد اِسی ابہام کو ورثے میں لیتے ہیں۔
 - اپنی توثیق میں مہارت کے معیار کو سیکھنے کے نتائج سے الگ رکھیں۔ اگر آپ کا توثیقی پیمانہ وہی اشارہ ہے جو انطباق چلاتا ہے تو یہ خودمختار شہادت نہیں۔
+
+## عام غلط فہمیاں
+
+- **"انطباقی کا مطلب ذاتی نوعیت ہے، اور ذاتی نوعیت کا مطلب انفرادی۔"** [[khalifeh-redefining-personalized-learning-ai-2026|منظم جائزے]] پاتے ہیں کہ یہ چاروں اصطلاحات **ادب میں متضاد طور پر** استعمال ہوئی ہیں، یعنی رپورٹ شدہ اثر کے حجم اس بات پر بہت زیادہ منحصر ہیں کہ انطباق کو عملی طور پر کیسے بیان کیا گیا، خود انطباق پر نہیں۔ مختلف الفاظ استعمال کرنے والے مطالعات کو یکجا کرنے والا میٹا تجزیہ مختلف علاج یکجا کر رہا ہوتا ہے، اور اُس کی اوسط اِن میں سے کسی ایک کو بیان نہیں کرتی۔
+- **"نظام میں حاصل کی گئی مہارت سیکھی گئی مہارت ہے۔"** **6,000 طلبہ کے مڈل اسکول میدانی تجربے** میں AI کی معاونت والے "تین صحیح لگاتار" کے قاعدے نے **پلیٹ فارم کی تعریف کے مطابق حصول تقریباً 28.7 فیصد پوائنٹس بڑھایا، مگر منتقلی کے کسی پیمانے میں کوئی بہتری نہ لائی**۔ قاعدے نے پلیٹ فارم کے اپنے معیار کو بہتر بنایا۔ یہ دستیاب سب سے واضح مظاہرہ ہے کہ مہارت کا اشارہ سیکھنے کا ایک ماڈل ہے، خود سیکھنا نہیں۔
+- **"درستگی پر مبنی انطباق جانتا ہے کہ کب رکنا ہے۔"** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren اور Stamper (2026)]] نے پایا کہ درستگی سے مہارت کا اندازہ لگانے والے نظام **مشق بہت جلدی ختم کرنے** کا خطرہ رکھتے ہیں — نظام صحیح جوابوں کے سلسلے کو فہم سمجھ کر وہ مشق واپس لے لیتا ہے جو سیکھنے والے کو ابھی درکار تھی۔ کامیابی پر رکنے والا انطباق بالکل وہی تجربات چھین سکتا ہے جو یادداشت کو پائیدار بناتے ہیں۔
+- **"اصل مسئلہ یہ ہے کہ انطباق کتنا اچھا ہے۔"** **دو سالہ ضلعی RCT** میں اصل رکاوٹ **شرکت** تھی: اندراج کو ایک مرحلے تک محدود کرنے سے محض ڈیزائن کی تبدیلیوں پر پہلی نشست کی شرکت تقریباً **45% سے 83%** ہو گئی، اور ارادۂ علاج کے فوائد اِسی حساب سے بڑھے۔ بہترین انطباق اُس شخص کی خدمت نہیں کر سکتا جو اُس تک پہنچتا ہی نہ ہو۔
+- **"شمولیت ایک بار قائم ہو جائے تو برقرار رہتی ہے۔"** **44 مطالعات** کے PRISMA کے مطابق جائزے نے پایا کہ شمولیت کا ادب رویے کی شمولیت کی طرف جھکا ہوا اور ایجنسی والی شمولیت پر سب سے پتلا ہے، اور یہ **نیاپن کے اثر** کی اطلاع دیتا ہے — ALEX اور ملتے جلتے نظاموں کے طویل مدتی مطالعات میں شمولیت وقت کے ساتھ گرتی گئی۔ ابتدائی شمولیت ڈیزائن کی کوئی مستقل خصوصیت نہیں۔

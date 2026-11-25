@@ -8,15 +8,19 @@ research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
-updated: "2026-11-08T13:08:24-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/meta-analysis-systematic-review"
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [interpreting-and-applying-aied-research, research-methods-aied, rct, ai-ed-evaluation, ai-assisted-educational-research, benchmark, educational-measurement, assessment-validity, learning-gains, summative-assessment, ai-education, higher-ed, simulation]
 connected_articles: [edurev-100741-tpack-genai-review, genai-meta-analysis-programming-learning, ai-vocational-education-training-review, ai-collaborative-learning-systematic-review, genai-higher-education-systematic-review-2026, zerkouk-comprehensive-review-its-2025, chatgpt-critical-creative-thinking-review, stanford-evidence-base-ai-k12-2026, liu-ai-literacy-interventions-meta-analysis-2026, genai-writing-performance-meta-analysis-2026, ai-literacy-heptagon-2026, genai-scenario-based-healthcare-education-2026, alsheikh-mapping-ai-integration-higher-education-2026, agarwal-ethical-values-norms-aied-2026, li-language-educators-genai-review-2026, dabaghi-ai-dyslexia-education-review-2026, riedmann-reinforcement-learning-education-review-2026, weidlich-chatgpt-effect-search-cause-2025, bartos-ai-learning-meta-meta-analysis-2026, oneill-presumed-effective-meta-analysis-2026, teacher-intervention-k12-ai-based-instruction-2026, chen-digital-ai-foreign-language-skills-meta-analysis-2026, jing-genai-learning-outcomes-higher-ed-meta-analysis-2026, yu-k12-ai-education-ai-literacy-meta-analysis-2026, yalcin-genai-programming-education-systematic-review-2026, genai-cognitive-offloading-learner-agency-review-2026, khodjaev-genai-outcomes-meta-analysis-2026, tie-responsible-genai-use-academic-writing-review-2026, kim-ai-embodied-learning-review-2026, govea-sotomayor-personalized-learning-meta-analysis-2026]

@@ -5,15 +5,19 @@ type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
-updated: "2026-11-08T12:06:36-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 translation_of: "concepts/cognitive-psychology"
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: meituan/longcat-2.5:free
+    role: translation
+    date: "2026-11-24"
     agent: hermes-agent
 connected_concepts: [behaviorism, constructivist, learning-theories, metacognition, cognitive-offloading, knowledge-tracing, cognitive-diagnosis, student-modeling, intelligent-tutoring, adaptive-learning, personalized-learning, item-response-theory, developmental-psychology, longitudinal-research, distributed-cognition, icap-framework, transfer-of-learning, self-regulated-learning, ai-education, learning-sciences, retrieval-spacing-interleaving]
 connected_articles: [sim-ai-summary-memory-distortion-2026, cognitive-shift-ai-education, cogtax-cognitive-taxonomy, educlaw-bench-pedagogical-llm-agents-2026, nie-personavlm-long-term-personalization-2026, ai-cognitive-partner-co-regulation-learning, ensemble-cognition-philosophy-ai-education, fang-human-ai-collaboration-patterns-instructional-design-2026, crediting-assisted-work-inflates-mastery-2026]
@@ -78,6 +82,8 @@ Mayer کا کثیرالوسائط سیکھنے کا علمی نظریہ (CTML) �
 2. **سیکھنے والے کی نمائندگی کریں، صرف جواب نہ دیں۔** AI کے مکالمے کے ساتھ منظم [[student-modeling]] اور [[knowledge-tracing]] جوڑیں تاکہ نظام روانی سے مگر آنکھیں بند کر کے جواب دینے کے بجائے اندازہ شدہ علم کے مطابق ڈھلے۔([[educlaw-bench-pedagogical-llm-agents-2026]])
 3. **کام کرنے والی یادداشت کی حدود کا احترام کریں۔** AI کے صارف تجربے پر علمی بوجھ کا نظریہ لاگو کریں: غیر ضروری بوجھ (رکاوٹ، بوجھل انٹرفیس) کم کریں مگر متعلق عمل ([[desirable-difficulties|نتیجہ خیز جدوجہد]]، بازیافت کی مشق) بچائیں، ہر علمی طلب کو کم سے کم کرنے کے بجائے۔
 4. **میٹا کوگنیشن کی کیلیبریشن کریں۔** چونکہ [[metacognition]] طے کرتا ہے کہ سیکھنے والے کب بوجھ منتقل کرنے کا انتخاب کرتے ہیں، کیلیبریشن سکھانا (یہ جاننا کہ بغیر مدد کے واقعی کیا کر سکتے ہیں) حد سے زیادہ انحصار کا علمی جواب ہے (دیکھیں [[cognitive-offloading]])۔
+
+ترقی ایک الگ سوال ہے: یہ میکانیزم مستحکر مانے جاتے ہیں، جبکہ [[developmental-psychology|نمو کی نفسیات]] پوچھتی ہے کہ وہ عمر کے ساتھ کیسے بدلتے ہیں اور عمر کی بنیاد پر AI استعمال کے لیے اس کا کیا مطلب ہے۔
 
 ## عام غلط فہمیاں
 

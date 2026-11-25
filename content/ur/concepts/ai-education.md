@@ -1,7 +1,7 @@
 ---
 title: "تعلیم میں مصنوعی ذہانت"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-23T17:44:00-05:00"
+updated: "2026-11-24T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-23T11:40:00-05:00"
+source_updated: "2026-11-24T07:40:00-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:
