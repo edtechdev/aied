@@ -7,11 +7,6 @@ foundations: [academic-integrity, ai-education, ai-literacy, educational-develop
 technology: [generative-ai, llm]
 audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
-ai_assist:
-  - model: deepseek/deepseek-v4.1-flash-1017
-    role: revision
-    date: "2026-11-13"
-    agent: hermes-agent
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 connected_podcasts: [ai-literacy-output-versus-system, performance-illusion]
 connected_videos: [a-new-ai-literacy]
