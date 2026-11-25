@@ -6,12 +6,39 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-24
-**Total backlog:** 0 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-25
+**Total backlog:** 11 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Awaiting full text
 
-_No articles are currently waiting on a supplied PDF._
+### Identified 2026-11-25 (daily scan)
+
+Eleven in-scope candidates from the 2026-11-22..25 window. Four need a PDF or a
+non-blocking host; seven were open and simply not reached inside the 20-article cap.
+
+- **Enhancing Arabic L2 Learners' Speaking Skills with Pedagogically Designed Speech-Based Chatbot** — Elsayed Issa, *Education Sciences* 16(12), 2014. MDPI early-access version: abstract only, full HTML/PDF not yet published.
+  - https://doi.org/10.3390/educsci16122014
+- **Generating Personalized Viva Questions from Students' Own Assignments with Artificial Intelligence and Bloom's Revised Taxonomy** — Islam, Datta & Chowdhury, *Education Sciences* 16(12), 2007. MDPI early-access version: abstract only.
+  - https://doi.org/10.3390/educsci16122007
+- **Generative AI dependency among Chinese journalism and communication students: a grounded theory study** — Huang & Ma, *Cogent Education*. Taylor & Francis blocks automated retrieval.
+  - https://doi.org/10.1080/2331186X.2026.2765581
+- **Enhancing Students' AI Prompt-Engineering Skills and Learning Effectiveness: An Integrated Perspective of AI Readiness and ARCS-Based Learning Motivation** — Lin, Wang & Chen, *Journal of Educational Computing Research*. SAGE paywall; abstract only.
+  - https://doi.org/10.1177/07356331261508423
+- **A framework for integrating generative AI into regional anatomy education: evaluation of learning outcomes and student experiences** — Ren et al., *BMC Medical Education*.
+  - https://doi.org/10.1186/s12909-026-10927-y
+- **Evaluation of ChatGPT-assisted problem-based learning in undergraduate emergency medicine education: a self-controlled study** — Cheng et al., *BMC Medical Education*.
+  - https://doi.org/10.1186/s12909-026-10911-6
+- **From dyad to triad: human–AI collaboration and the changing roles of teachers and learners in formal education** — Conrad, *Frontiers in Education*.
+  - https://doi.org/10.3389/feduc.2026.2009337
+- **Responsibility drift in AI-assisted scholarship: a systemic hypothesis and its implications for researcher AI literacy** — Serpil, *Frontiers in Education*.
+  - https://doi.org/10.3389/feduc.2026.2002658
+- **A Training Model Framework to Professional Development for Teachers: A Cross-National DigCompEdu Reloaded Approach** — Moreira & Dias-Trindade, *Education Sciences* 16(12), 2006.
+  - https://doi.org/10.3390/educsci16122006
+- **From "I found nothing" to "This is novel": AI literacy and the epistemology of novelty assessment** — Bellingham & Alrofiai, *Frontiers in Education*.
+  - https://doi.org/10.3389/feduc.2026.2015782
+- **Teachers as Makers: Generative AI, Pedagogical Artefacts and Multiple Routes into Higher Education** — EdArXiv preprint.
+  - https://doi.org/10.35542/osf.io/tcdhp_v1
+
 
 ## Backlog cleared — 2026-11-23
 
