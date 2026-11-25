@@ -205,6 +205,11 @@
         "note": "translation model from 2026-11-18, used for the German concept and resource twins written that day; offered free through the Nous portal for a five-day window, so the id may stop resolving after 2026-11-23. Not marked as superseding the DeepSeek id: that id still runs, and the free tier is a trial rather than a retirement."
       },
       {
+        "id": "tencent/hy4-flash:free",
+        "since": "2026-11-25",
+        "note": "translation model from 2026-11-25, used for the Bengali concept, FAQ and resource twins refreshed in that wave; offered free through the Nous portal, and screened on this corpus first (structure at parity with English, house headings and the locale's এআই acronym reproduced once the brief carried them, with an occasional foreign-script or hybrid-word glitch repaired per sentence). Not marked as superseding the DeepSeek id: that id still runs, and this is a trial rather than a retirement."
+      },
+      {
         "id": "deepseek/deepseek-v4.0-flash-0731",
         "since": "2026-08-12",
         "note": "previous default model, in use until 2026-09-11"
