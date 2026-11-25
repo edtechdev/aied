@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-23T09:46:14-05:00"
+updated: "2026-11-25T07:20:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-11-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-25"
     agent: hermes-agent
 
 confidence: high
@@ -50,6 +54,7 @@ Teaching here names the professional role as AI reshapes it: less content delive
 - **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students. In children's STEAM arts lesson planning, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] experimentally confirmed that *how* the teacher delegates to ChatGPT matters: filling content gaps in a self-outlined lesson (the method favored by 60% and recommended) preserved teacher design autonomy while still raising expert-rated plan quality (median 20.5 vs. 17.6, p = .002, large effect), outperforming having AI generate whole plans or merely checking a finished one. AI served chiefly as an inspiration and gap-finding collaborator rather than a source of fully original innovation — reinforcing that the teacher remains the design agent and judge of output, including catching child-safety and cultural-bias flaws the tool missed. A [[meta-analysis-systematic-review|systematic review]] of [[wang-teacher-ai-co-design-review-2026|teacher–AI co-design of learning tasks]] (Wang, Liu & Islam 2026) finds this co-designer stance remains uneven — the dominant mode is still AI as assistant/content generator — and [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows the teacher's agency as "[[multilingual-learning|bilingual]] learning designer" is what turns AI-designed group activities into differentiated, ZPD-aligned instruction.
 
 - **Authoring a bot is not the same as controlling what it teaches.** Twenty-seven [[k-12|middle school]] teachers who configured a purpose-and-rules chatbot authoring tool saw only partial fidelity in the generated behavior - alignment fell from 88.9% for responsiveness and 81.5% for persona to 70.4% for rules and 59.3% for purpose, and rule adherence varied by the model chosen. That is the execution/evaluation gap that makes the teacher-as-designer role a rehearsal of intent rather than a guarantee of it ([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]]).
+- **Control during the lesson, not only at authoring time.** In a 75-minute programming class, the instructor changed the [[pedagogical-agent|TA agent]]'s support level live — between silent, hint-based, technical and automatic — eight times class-wide and for 22 individual students, while 15 alerts flagged answer-seeking and shallow completion ([[zhang-classaid-instructor-orchestration-2026|Zhang et al. (2026)]]). The teacher's authority is exercised by setting what kind of help the agent may give, not by approving each answer.
 - **Authoring is the part of the educator role the ITS literature mostly withholds.** Across 21 classroom studies, only 2 described domain-agnostic systems that required educators to author content themselves, while 66 of 160 educator-lens statements concerned learner analytics and monitoring ([[gnadlinger-educator-perspectives-its-design-2026|Gnadlinger and Kriglstein, 2026]]). Where materials and assessment arrive prefabricated, the co-designer stance has already been decided by the vendor.
 - **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development|educational development]] programs prepare future teachers for AI-augmented classrooms before they enter them. [[zhuang-zhang-chatgpt-math-teacher-education-2026|Simulated-student role-play]] extends this into hands-on practice: a custom ChatGPT bot (Student GPT) playing a mathematically [[misconceptions|misconception]]-ridden middle schooler lets preservice teachers rehearse diagnosing and guiding student reasoning in a low-risk setting, preparing them for a central teaching task — reading and remediating student thinking.
 
