@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T04:08:36-05:00"
-updated: "2026-11-24T10:45:00-05:00"
+updated: "2026-11-25T20:30:00-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -19,7 +19,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 connected_concepts: [ai-literacy, libraries, librarians, critical-thinking, critical-pedagogy, academic-integrity, trust-calibration, generative-ai, higher-ed]
-connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026, ayres-critical-ai-literacies-media-literacy-2026]
+connected_articles: [cerioli-human-centered-ai-literacy-schools-2026, mirza-arif-ai-literacy-information-literacy-review-2026, jabeen-lux-ai-information-literacy-scientometric-2026, lund-ai-information-seeking-chatbots-libraries-2026, ai-assisted-seminar-learning-information-literacy-2026, clinton-lisell-open-pedagogy-ai-tools-2026, huang-genai-academic-information-resources-2026, dada-librarians-information-literacy-ai-nigeria-2026, offem-ai-information-literacy-library-users-2026, critical-media-literacy-education-2026, demir-akar-ai-media-literacy-children-2026, ai-literacies-young-adults-2025, salvi-conversational-persuasiveness-gpt4-2025, koraneekij-codecraft-computational-thinking-2026, ayres-critical-ai-literacies-media-literacy-2026, kreutz-media-repertoires-2026]
 ---
 
 > **Information and media literacy** are adjacent capabilities that AI is rewriting at the same seam. Information literacy centers on finding and verifying accurate data; media literacy centers on understanding who created a message, how it was constructed, and why. They overlap in their shared goal of building the [[critical-thinking|critical thinking]] that lets people navigate a digital world and spot misinformation — and they now share a second problem: [[generative-ai|generative AI]] produces fluent, plausible content whose origin and intent are hidden, so the provenance question that media literacy always asked has moved into information literacy too.
@@ -64,6 +64,9 @@ Media literacy's founding questions assumed a maker with a purpose. Deepfakes, v
 The curriculum evidence suggests schools have not caught up. The expert interviews describe [[teacher-education|teacher training]] as the binding constraint rather than student resistance, and argue for a [[critical-pedagogy|critical pedagogy]] framing that treats evaluation as ethical and participatory practice instead of tool training. A commissioned report for public service media found provision for 14–19-year-olds tilting toward functional AI skills and away from critical evaluation, despite reviewing more than 40 frameworks and interviewing 35 experts ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
 
 The braiding case has now been argued directly. [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] treats critical AI literacies as media literacies, and its classroom method, the *confessional interface audit*, asks learners to analyze a chatbot transcript as they would an advertisement, naming its cues, implied claims, emotional levers and likely incentives.
+
+Kreutz (2026) extends the media repertoire approach to learning and argues the analytic unit should be the relations among a learner's media practices rather than each medium; generative AI acts simultaneously as a repertoire element, a dialogical partner and an intermediary between the learner and other sources.
+
 
 ## AI as a defensive tool — claims and caveats
 
