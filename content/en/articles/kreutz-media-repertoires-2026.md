@@ -6,6 +6,7 @@ type: article
 published: "2026-11-25"
 sources: ['raw/papers/kreutz-media-repertoires-2026.md']
 confidence: medium
+evidence_context: educational
 page_kind: [framework]
 research_method: [position paper]
 discipline: []

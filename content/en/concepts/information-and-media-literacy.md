@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T04:08:36-05:00"
-updated: "2026-11-25T20:30:00-05:00"
+updated: "2026-11-25T21:00:12-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -65,7 +65,7 @@ The curriculum evidence suggests schools have not caught up. The expert intervie
 
 The braiding case has now been argued directly. [[ayres-critical-ai-literacies-media-literacy-2026|Ayres (2026)]] treats critical AI literacies as media literacies, and its classroom method, the *confessional interface audit*, asks learners to analyze a chatbot transcript as they would an advertisement, naming its cues, implied claims, emotional levers and likely incentives.
 
-Kreutz (2026) extends the media repertoire approach to learning and argues the analytic unit should be the relations among a learner's media practices rather than each medium; generative AI acts simultaneously as a repertoire element, a dialogical partner and an intermediary between the learner and other sources.
+[[kreutz-media-repertoires-2026|Kreutz (2026)]] extends the media repertoire approach to learning and argues the analytic unit should be the relations among a learner's media practices rather than each medium; generative AI acts simultaneously as a repertoire element, a dialogical partner and an intermediary between the learner and other sources.
 
 
 ## AI as a defensive tool — claims and caveats

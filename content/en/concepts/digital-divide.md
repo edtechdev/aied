@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-11-25T20:30:00-05:00"
+updated: "2026-11-25T21:00:12-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 connected_resources: [public-ai-libraries]
 type: concept
@@ -74,7 +74,7 @@ Structured school AI instruction is a psychological catalyst but not a cognitive
 - **This divide may be shallower than the internet's was.** Matching each country's 2025 generative-AI use to the internet year with comparable overall use, the education gap was smaller in 13 of 16 countries that could be matched, out of 35 ([[watanabe-genai-education-gap-europe-2026|Watanabe (2026)]]).
 - **A capability tier sits inside access.** Lecturers paying a \$20 monthly subscription themselves reported more errors and restricted functionality than colleagues on paid institutional accounts, a divide in what the tool can do rather than whether it is reachable ([[negash-genai-lecturers-somaliland-2026|Negash (2026)]]).
 
-Kreutz (2026) reframes the third level as a property of repertoire structure: the AI gap is the unequal opportunity to build a learning-related media repertoire in which generative AI is combined with textbooks, specialist sources and social support for verification, rather than access or competence alone.
+[[kreutz-media-repertoires-2026|Kreutz (2026)]] reframes the third level as a property of repertoire structure: the AI gap is the unequal opportunity to build a learning-related media repertoire in which generative AI is combined with textbooks, specialist sources and social support for verification, rather than access or competence alone.
 
 
 ## Connections to related concepts
