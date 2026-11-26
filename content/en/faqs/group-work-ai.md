@@ -1,7 +1,7 @@
 ---
 title: "How Should I Handle AI in Group and Collaborative Assignments?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-26T03:12:00-05:00"
+updated: "2026-11-26T04:20:00-05:00"
 type: faq
 connected_faqs: [ai-help-hurt-collaborative-learning, course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
@@ -33,7 +33,7 @@ You are writing the brief for a group assignment worth a third of the grade, and
 
 The answer is to decide AI's place per task phase rather than per course, make the group's negotiation about AI something they submit and you grade, sequence the work so it cannot be split into parallel chatbot sessions, and keep at least one component each member answers alone. All of it is task design, and none of it has been tested against a no-AI control, so you are making a design argument rather than applying a proven fix.
 
-This page is the how: the brief, the statement, the sequence, the rubric, and the wording you can paste. [[ai-help-hurt-collaborative-learning]] is the why: what the research supports, how strong each claim is, and which pattern your group is in.
+What follows is the how: the brief, the statement, the sequence, the rubric, and wording you can paste. [[ai-help-hurt-collaborative-learning]] is the why: what the research supports, how strong each claim is, and which pattern your group is in.
 
 ## The short version
 

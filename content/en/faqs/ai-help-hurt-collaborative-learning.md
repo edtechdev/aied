@@ -1,7 +1,7 @@
 ---
 title: "How Can AI Help or Hurt Collaborative Learning in My Course?"
 created: "2026-11-24T08:05:00-05:00"
-updated: "2026-11-26T02:54:00-05:00"
+updated: "2026-11-26T04:20:00-05:00"
 type: faq
 connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 weight: 80
@@ -30,7 +30,7 @@ Two students hand in a group report neither can explain. A third group produces 
 
 The honest answer is that the evidence supports the benefits of AI in collaborative learning and leaves most of the risks conceptual. What is well supported is that AI can speed up coordination, supply ideas, give feedback and lower the barrier to joining a discussion. What is much less established is that it protects the interaction those gains depend on, and the strongest design signal in the literature is that efficiency and interaction loss can be the same mechanism ([[wei-perkins-genai-student-collaboration-scoping-2026|Wei and Perkins, 2026]]). So the useful question is not whether to allow AI but where in the group's work it does the thinking and where it only moves text around.
 
-This page answers whether and why: what the research shows, how strong each claim is, and how to tell which pattern your group is in. [[group-work-ai]] answers what to do about it in the assignment itself — the brief wording, the AI-use statement, the sequence and the rubric.
+What follows is the whether and the why: what the research shows, how strong each claim is, and how to tell which pattern your group is in. [[group-work-ai]] answers what to do about it in the assignment itself — the brief wording, the AI-use statement, the sequence and the rubric.
 
 ## The short version
 
@@ -65,7 +65,7 @@ Read that as a design brief rather than a verdict. Support that is triggered by 
 
 The load-bearing finding is a trade-off, not a list. Group work became more efficient, with reduced demand for communication, negotiation and collective sensemaking. Efficiency gain and interaction loss can be the same mechanism, which means you cannot take the speed without the loss unless you build the negotiation back in as required work.
 
-That single sentence decides most of the design questions on this page. It is also the reason the answer is not "more AI" or "less AI": the same use can help a group produce better material and hollow out the process that made the material theirs.
+That single sentence decides most of the design questions that follow. It is also the reason the answer is not "more AI" or "less AI": the same use can help a group produce better material and hollow out the process that made the material theirs.
 
 ## Where the harm is established, and where it is only argued
 
