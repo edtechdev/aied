@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-26T10:35:00-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -115,6 +115,9 @@ Because programming is where AI assistance is most powerful, it is also where th
 CS education connects to [[computational-thinking|computational thinking]], [[stem-education|STEM education]], [[automated-assessment|Automated Grading]], [[prompt-engineering|prompt engineering]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[curriculum-design|curriculum design]], [[human-ai-collaboration|human AI collaboration]], [[higher-ed|higher education]], [[k-12]], and [[professional-training|professional training]]. Its closest applied neighbour is [[information-technology|information technology]]: CS education takes the program and the algorithm as its object, whereas IT education takes the deployed organizational system and the practitioner's judgment about it — which is why the two fields debate different AI harms, whether code generation erodes programming skill against whether AI troubleshooting erodes diagnostic skill, and ask different questions of their graduates, whether they can build a system against whether they can govern the systems they administer. It is the domain where [[ai-education|AIED]] tools are both used and built, making it a testbed for [[intelligent-tutoring|intelligent tutoring]], [[educational-robotics|educational robotics]], [[collaborative-learning|collaborative learning]], [[game-based-learning|game-based learning]], and the risks of [[cognitive-offloading|Over-Reliance]].
 
 **A 72-study synthesis and the VIE framework.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot and Nanthaamornphong (2026)]] reviewed the empirical literature on generative AI in computing and programming education (January 2022 – April 2026, 72 studies, 33 venues) and foreground exactly the structural feature that makes the discipline distinctive. The AI generates the assessable artifact itself, so using the tool, learning the skill and being assessed collapse into one keystroke. Their synthesis of 14 themes finds the field's most replicated effect — short-term efficiency and completion gains (36 studies) — is also its most misleading: those gains do not [[transfer-of-learning|transfer]] to unaided performance (21 studies), and [[prior-knowledge|prior knowledge]] moderates whether assistance becomes durable skill or a crutch. [[ai-detection|Detection]] research is thin (3 studies) while course redesign is comparatively well evidenced (25 studies), and the review consolidates its 72 studies into three interdependent design requirements: Verification, Implementation and Equity. Each treats critical engagement with AI output as a graded, observable component of student work rather than an aspiration left to student discretion ([[scaffolding|scaffolding]], [[assessment-validity|assessment validity]]).
+
+- **Institutional guidance on code is nearly empty.** Across 27 Canadian institutions, [[ho-silent-on-code-genai-guidance-polytechnics-2026|Ho et al. (2026)]] found 12 mention code, almost always as one output type among many, and none names a coding assistant, sets code-attribution conventions, or offers programming-specific assessment guidance.
+
 
 ## Implications for computing instructors
 

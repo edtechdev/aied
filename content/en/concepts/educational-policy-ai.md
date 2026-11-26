@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-24T09:30:00-05:00"
+updated: "2026-11-26T10:35:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -135,6 +135,9 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 The same deficit has a demand side. [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] add demand-side evidence from a Swedish social science faculty: 31% of survey and focus-group participants raised ethics unprompted, most wanted more institutional guidance, and genAI's environmental consequences were absent from policy documents altogether.
 
 Funders form a policy layer of their own: of 46 bodies with AI guidance, 12 attached rules to funding specifically, and none of those funding instruments carried the governance provisions their general policies stated ([[chan-ai-policy-gap-2026|Chan, 2026]]).
+
+- **National strategies commit to procedure, not cultivation.** [[navarro-rubio-national-ai-strategies-critical-literacy-2026|Navarro-Rubio and Rumayor (2026)]] coded 43 national AI strategies and found reflexivity at 25.2% of its possible maximum against cultivation at 9.6%, with creativity scoring at or below 1 of 3 in 95% of documents.
+
 
 ## Implications for Practice
 

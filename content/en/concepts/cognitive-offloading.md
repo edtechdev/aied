@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-25T09:35:00-05:00"
+updated: "2026-11-26T10:35:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -211,6 +211,8 @@ The sustainability framing puts the same line at the level of course design. [[b
 Profile-level evidence sharpens that distinction: among 530 medical undergraduates, [[chi-ai-dependence-academic-procrastination-2026|Chi, Zhang and Jia (2026)]] found 33.0% used AI heavily without procrastinating more than low users, so the pattern of reliance rather than its volume carried the risk.
 
 **Offloading transfers cost rather than removing it.** [[qu-llm-usage-critical-thinking-task-assessment-2026|Qu and Chen (2026)]] found that generative use of an LLM predicted higher perceived task cost (β = 0.561) rather than lower, because prompting, checking and reconciling output all remain with the student. Explanatory use left cost unchanged and predicted higher critical thinking, with task value carrying 56.74% of that association.
+
+- **Dependence needs an operational criterion, not just a frequency count.** [[huang-journalism-genai-dependency-grounded-theory-2026|Huang and Ma's (2026)]] grounded theory of 20 journalism students separates instrumental, cognitive and affective dependence and counts a dimension as dependence only when the task cannot proceed without the tool — impaired substitutability.
 
 
 ## Common Misconceptions

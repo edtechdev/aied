@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-16T22:50:00-05:00"
+updated: "2026-11-26T10:35:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -80,6 +80,9 @@ Self-efficacy connects to [[motivation|motivation]], [[self-regulated-learning|s
 
 - **Behavioral traces can carry the signal, but the labels set the ceiling.** A two-university pipeline detected low self-efficacy from interaction traces; survey-occasion labels beat a mid-term split, and the MSLQ subscale alone labeled as well as the full instrument ([[somny-ml-self-efficacy-interaction-traces-2026|Somny, Chouati & Lefevre, 2026]]).
 - **AI's career implications split into two routes.** Among 415 Chinese college students, [[zhang-ai-career-selfefficacy-2026|Zhang (2026)]] found positive perceptions reached career decision self-efficacy through career planning while negative perceptions reached it only through career anxiety (indirect β = −0.184).
+
+- **Support can raise the anxiety it means to lower.** Among 1,012 Chinese students, [[cao-writing-self-efficacy-ai-dependency-2026|Cao and Park (2026)]] found teacher emotional support associated with lower academic anxiety at low writing self-efficacy but higher anxiety at high self-efficacy, with the protective indirect path to AI dependency weaker where support was high.
+
 
 ## Common Misconceptions
 

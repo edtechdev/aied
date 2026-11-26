@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-23T12:00:00-05:00"
+updated: "2026-11-26T10:35:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -106,11 +106,14 @@ Two recent syntheses qualify how well this design guidance is followed in practi
 
 Screening 51 second-language studies of GenAI feedback found that writing-quality measures were often unrelated to the feedback the model had been asked for, and that pairing AI with teacher feedback beat either source alone ([[genai-l2-written-feedback-scoping-review-2026|Crosthwaite & Sun (2026)]]). Those studies are overwhelmingly English, at 46 of the 51, with Chinese and Arabic the dominant learner first languages.
 
+A revised draft is not evidence of unaided writing. [[almashour-algorithmic-fluency-illusion-l2-writing-2026|Almashour et al. (2026)]] raised 108 second-language drafts by 3.36 points on a 20-point rubric with AI support, yet post-revision confidence correlated only .46 with writing produced without AI 7–14 days later.
+
 This coaching-not-composing stance is the writing-domain expression of the overarching "[[coach-not-crutch-ai-writing|coach over crutch]]" boundary: identify the cognitive activity that produces learning (planning, drafting, evaluating, revising) and design the AI to support it without taking it away from the learner.
 
 ### Connections
 
 Writing education connects to [[automated-essay-scoring|automated essay scoring]], [[ai-feedback-quality|AI feedback quality]], [[academic-integrity|academic integrity]], [[cognitive-offloading|cognitive offloading]], [[ai-literacy|AI literacy]], [[language-learning|language learning]], [[formative-assessment|formative assessment]], [[peer-assessment|peer assessment]], [[metacognition|metacognition]], [[self-regulated-learning|self-regulated learning]], and [[higher-ed|higher education]]. It is a domain where AI's capabilities and risks are both highly visible, making it a rich site for studying how AI transforms pedagogy, [[assessment|assessment]], and the very nature of authorship and [[agency|agency]].
+
 
 ## What GenAI demands of the task
 

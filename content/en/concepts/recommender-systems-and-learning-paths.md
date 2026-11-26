@@ -1,7 +1,7 @@
 ---
 title: Recommender Systems and Learning Paths
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-26T10:35:00-05:00"
 type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
@@ -78,6 +78,9 @@ The three adjacent concepts cover adjacent ground and belong together. [[persona
 The evidence base has a consistent shape: strong offline ranking metrics, weak evidence about learning. Both recommender studies above are evaluated on historical interaction logs and say so, and the CF–KG authors call explicitly for teacher assessments, learner studies, and outcome-based experiments. Popularity bias survived a fairness-aware training objective in one system, so the field cannot yet point to a reranking or regularization fix that reliably changes exposure, and fairness audits remain bounded by what LMS logs contain. Cold start is addressed architecturally, through semantic structure, but not tested on genuinely new users in live deployment. Path efficiency is better evidenced, yet the efficiency numbers still rest on one study and one algorithm family, and a shorter path is not automatically better if it removes the [[desirable-difficulties|productive struggle]] a learner needs. The formal path-optimization work sharpens the point in both directions: guaranteeing a hard problem says little about a particular corpus, since a hill climber hit the top of the [[retrieval-spacing-interleaving|interleaving]] [[rubrics|rubric]] on every real profile despite NP-completeness proofs. A path graded 3.54 on a theory-derived rubric is still a path nobody has tested on learners, so rubric quality is a designer-facing proxy for outcome evidence rather than a substitute for it. The vocabulary is also unstable: [[ikram-ai-personalized-learning-review-2026|Ikram and colleagues (2026)]], in a [[meta-analysis-systematic-review|PRISMA]] review of 31 Scopus-indexed articles (2013–2025), report medium-to-large cognitive effects (g = 0.50–0.70) for AI-enabled adaptive systems that are heavily moderated by implementation quality and [[research-methods-aied|study design]].
 
 The same literature has begun to propose remedies for narrowing, though not yet to test them. [[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem, Zaoui Seghroucheni and Ziti (2026)]] cluster 14,003 student records on 12 self-reported behavioral, psychological and environmental inputs into six profiles with K-Means++ and strong separation (Silhouette 0.62; η² = 0.770 on final grade, with a 40.17-point mean exam-score gap between the highest and lowest profiles). They then map profiles to learning objects through an affinity score combined with a Felder-Silverman mapping matrix and a diversity regularization term (λ = 0.30), whose explicit purpose is to stop a recommender from collapsing into what a profile already prefers. The design is the contribution and the evidence is not: the recommendation layer is conceptual with no deployment or outcome measure reported, and the authors state that the clustering inputs are self-reported proxies rather than LMS interaction traces. It is a candidate answer to the regularization gap, still awaiting the validation the field lacks.
+
+- **Most offline accuracy may be the platform's sequencing policy.** On eight public datasets, [[jdidou-learning-platform-not-learner-recommender-2026|Jdidou (2026)]] found predictors that read nothing but the last activity reached 0.81–1.00 of the best method's accuracy (median 0.95), leaving a significant personalized lift of only 0.007–0.102 NDCG@10.
+
 
 ## Common Misconceptions
 
