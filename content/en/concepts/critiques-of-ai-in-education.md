@@ -1,7 +1,7 @@
 ---
 title: Critiques of AI in Education
 created: "2026-11-21T14:03:40-05:00"
-updated: "2026-11-24T09:30:00-05:00"
+updated: "2026-11-26T03:25:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -18,9 +18,14 @@ ai_assist:
     role: drafting
     date: "2026-11-21"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-26"
+    agent: hermes-agent
 reviewed_by: [editor]
 connected_concepts: [philosophy-of-ai-in-education, critical-pedagogy, limitations-in-aied-research, theory-development-aied, misconceptions, ai-literacy, agency, cognitive-offloading, equity-in-ai-education, digital-divide, institutional-ai-infrastructure, educational-policy-ai, governance, sustainability, teacher-role, educational-development, higher-ed, trust, automation-bias, critical-thinking]
 connected_articles: [watson-generative-ai-meaning-mediating-infrastructure-2026, komodromos-generative-ai-pedagogical-sustainability-2026, videla-why-education-cannot-be-automated-2026, wang-jin-anthropocentrism-learnification-ai-education-2026, williamson-experimental-futuring-ai-prototyping-governance-2026, tlili-double-edged-sword-oer-generative-ai-2026, fajardo-ramos-teacher-education-ai-agenda-2026, li-mroziak-reorienting-critical-ai-literacy, ai-literacy-power-knowledge, caeai-ai-companions-learning-over-performance-2026, muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026, beyond-agent-label-agentic-ai-governance-2026, ma-ai-cal-rct-rural-china-2026]
+
 ---
 
 > **Critiques of AI in education** — the body of scholarship that questions not whether AI in education works but whether it should, and what it is quietly turning education into. These are mostly conceptual, normative and political arguments rather than empirical ones, drawn from philosophy of education, critical theory, science and technology studies, and disability and postcolonial scholarship. Their recurring targets are the cognitivist model of learning that AI extends rather than displaces, the reframing of teaching as optimization, the assumption that adoption is inevitable, and the concentration of educational decisions in a small number of private providers. The critiques do not share one alternative. What unites them is a refusal to treat the question as settled, and a demand that education set its own agenda rather than adapt to a technology built elsewhere.
@@ -74,13 +79,23 @@ The shared move is to treat adoption as a political and philosophical decision r
 
 These arguments also sit in tension with the field's own self-critique. The methodological problems documented on [[limitations-in-aied-research]] — inflated meta-analytic effect sizes, construct incoherence, the speed at which findings age — are about the quality of the evidence. These arguments are about the purposes the evidence serves. A rigorous study of the wrong question does not answer them.
 
+## Implications for Practice
+
+These follow from the arguments above, not from the critics, who mostly decline to prescribe. Each is a question to put to your own setting.
+
+- **Instructors.** Ask whether a tool changes what students must do or only how fast they do it. The first is a teaching decision; the second is a workload decision dressed as the first.
+- **Faculty developers.** Put three questions into course review: who decided this tool belongs here, what need it answers, and what the course stops teaching once the tool does that part.
+- **Administrators.** Require evidence of need before procurement; in the field's own review, capability and engagement justified development far more often than equity did.
+- **Governance staff.** Record why a vendor or model was chosen where staff can read it, since provider dependence is an argument about who decides.
+- **Researchers.** Treat each critique as a hypothesis about institutions rather than a premise, and design studies that could show it false.
+
 ## What the critiques do not settle
 
 - **They are not a unified alternative.** No shared program follows from them, and several prescriptions contradict each other.
 - **They are mostly non-empirical.** A critique can be cogent and still be wrong about how teachers and students actually behave.
 - **They risk a symmetrical error.** Treating all AI use as false consciousness is as crude as treating all adoption as progress.
 - **They are written largely in the global North.** The infrastructure and transduction critique is the partial exception, and its evidence base is uneven.
-- **They do not tell practitioners what to do on Monday.** Their value is in the questions they make askable, not in a checklist.
+- **They do not supply a program.** What follows for practice is judgment you make against your own setting, not steps the critics prescribe or a checklist they would endorse.
 
 ## Common Misconceptions
 

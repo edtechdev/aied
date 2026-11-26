@@ -1,7 +1,7 @@
 ---
 title: Bloom's Taxonomy
 created: "2026-11-21T04:00:00-05:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-26T03:25:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -16,9 +16,14 @@ ai_assist:
     role: drafting
     date: "2026-11-21"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-26"
+    agent: hermes-agent
 reviewed_by: [editor]
 connected_concepts: [learning-theories, critical-thinking, metacognition, icap-framework, tpack, mastery-learning, scaffolding, inquiry-based-learning, automated-question-generation, automated-assessment, educational-measurement, assessment-validity, formative-assessment, generative-ai, llm, machine-learning, cognitive-offloading, higher-ed, k-12, curriculum-design]
 connected_articles: [austin-bloom-taxonomy-generative-ai-2026, bloom-classifier-ai-assisted-questions-2026, bloom-taxonomy-llm-item-classification-2026, cross-dataset-bloom-question-classification, bloom-aligned-educational-control-llms, llm-educational-question-cognitive-depth, stewart-tag-question-categorization-competency-2026, luo-ibl-patterns-llm-bloom-2026, student-llm-use-ai-question-difficulty-data-science-2026, student-cognitive-offloading-ai-higher-ed-2026]
+
 ---
 
 > **Synthesis:** Bloom's Taxonomy is doing two different jobs in [[ai-education|AI in education]], and conflating them causes most of the field's arguments about it. As a **classification instrument** it codes the cognitive level of items and of machine output, and a growing body of work shows those codes are fragile: classifiers trained on human-curated item banks collapse on AI-generated questions, intended levels explain almost none of an item's empirical difficulty, and AI-vs-faculty agreement is at best moderate. As a **design and sequencing framework** it orders cognitive demand, and here [[generative-ai|generative AI]] has prompted a revision rather than a retirement — artifact-first recursion, inverted orders and frameworks that measure whether assistance scaffolds or shortcuts. The taxonomy is better treated as a shared vocabulary whose labels need validating than as a ladder whose rungs predict learning.
@@ -61,13 +66,20 @@ The design job has produced the more consequential AI-era argument. Austin, Guly
 
 A parallel line measures the design question directly. A Bloom-aligned framework for [[llm|LLMs]] treats "educational control" as the ability to preserve a task's instructional intent while shifting its cognitive demand toward higher levels — a metric for whether assistance scaffolds or shortcuts ([[bloom-aligned-educational-control-llms|Bloom-aligned educational control, 2026]]). Others use the levels analytically: an exploratory study of students working with LLMs during an [[inquiry-based-learning|inquiry-based]] data-science writing task identified fourteen interaction patterns distributed across cognitive levels ([[luo-ibl-patterns-llm-bloom-2026|Luo et al., 2026]]), and a six-model evaluation found that systems generate factual-recall items well and higher-order items poorly ([[llm-educational-question-cognitive-depth|Wang et al., 2026]]).
 
-## Implications for design and research
+## Implications for Practice
 
-- **Validate the label, do not assume it.** Treat a Bloom level as a claim about intended demand and check it against empirical item behavior before using it for [[assessment-validity|validity]] arguments.
-- **Expect classifier decay.** A Bloom classifier is fitted to a corpus, so report out-of-distribution performance alongside in-distribution fit, and prefer prompted [[llm|LLMs]] or retraining on labeled target-domain items.
-- **Assess the process, not only the artifact.** If the product can be machine-made, the assessable evidence shifts to the interrogation, adaptation and direction the learner applies.
-- **Keep the vocabulary, drop the ladder.** The six levels remain a useful shared language for intended demand; the rigid bottom-to-top sequence is the part AI made untenable.
-- **Use it as an analytic lens where it fits.** Coding delegated work by level can describe what learners hand to a system, as when undergraduates offloaded most at the Create level, but the codes describe behavior, not learning ([[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia et al., 2026]]).
+- **Instructors.** Label a task by what students must do, then check the label against how they actually perform. The two agree less often than the vocabulary suggests.
+- **Instructors.** When the product can be machine-made, grade the interrogation: what the student asked, what they changed, what they rejected.
+- **Assessment designers.** Test a few items with students before trusting an intended level, and test any classifier on items from your own course rather than the bank it was fitted to.
+- **Program leads.** Keep the six levels as vocabulary for sequencing and treat the order as a design choice: beginning at Create is defensible when a tool can produce the draft.
+- **Researchers.** Report out-of-distribution performance for any classifier you publish, and code delegated work by level as behavior rather than learning ([[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia et al., 2026]]).
+
+## Where the evidence is thin
+
+- **Classifier studies use single item banks.** The decay findings are strong within their studies and have not been replicated across many subject domains.
+- **The difficulty finding comes from mathematics.** Under 5% of variance explained across 265 four-option items is a sharp result from one examination system, not a general law about every discipline.
+- **No design trial yet.** Inverted orders, artifact-first recursion and Bloom-aligned control are argued or demonstrated in single cases; none has been compared against a conventionally sequenced course.
+- **Agreement studies measure judges, not learners.** Moderate inter-rater agreement says the labels are contestable among experts; it says nothing about what students do with the task.
 
 ## Common Misconceptions
 

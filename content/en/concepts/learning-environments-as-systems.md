@@ -1,7 +1,7 @@
 ---
 title: Learning Environments as Systems
 created: "2026-11-23T11:20:00-05:00"
-updated: "2026-11-23T11:20:00-05:00"
+updated: "2026-11-26T03:25:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [learning-theories, activity-theory-aied, sociocultural-learning, distributed-cognition]
@@ -16,8 +16,13 @@ ai_assist:
     role: drafting
     date: "2026-11-23"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-26"
+    agent: hermes-agent
 connected_concepts: [ai-education, learning-design, curriculum-design, learning-theories, activity-theory-aied, sociocultural-learning, distributed-cognition, situated-learning, research-methods-aied, design-based-research, ai-ed-evaluation, change-management, governance, educational-policy-ai, institutional-ai-infrastructure, technology-acceptance-model, network-analysis, learning-analytics, feedback, assessment, agency, human-ai-collaboration, teacher-role, educational-development, critical-thinking, computational-thinking, theories-and-frameworks, learning-sciences, student-engagement, metacognition, shadow-ai]
 connected_articles: [teeni-control-ai-by-design-human-learning-2026, mishra-control-vs-agency-history-2025, leveraging-complex-systems-leading-for-transformative-change, new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of, gnadlinger-educator-perspectives-its-design-2026, assessment-feedback-trilemma-model-2026, trikonet-trivalence-co-creativity-2026, pandey-davies-he-governance-administrative-ai-2026, ai-higher-ed-service-delivery-systematic-review-2026, nyale-ai-integrated-workplaces-digital-capability-2026, metacognitive-learning-scenarios-taxonomy, in-the-loop-educational-ai-learning-sciences-2026, videla-why-education-cannot-be-automated-2026, watson-generative-ai-meaning-mediating-infrastructure-2026, zhao-genai-literacy-administrative-work-2026, learner-agency-ai-simulation-2026, cheeseman-human-in-the-loop-humanness-higher-ed-2026, activity-theory-teachers-adoption-ai-sem-2026]
+
 ---
 
 > **Learning environments as systems** — the stance that treats a learning environment as a **multi-level system** — learner and task, course, institution, policy — whose parts interact, so that a tool, intervention or policy introduced at one level produces effects at the others. It is used two ways: as an *analytical* stance, to choose and justify the level a study measures, and as a *design* stance, to plan an intervention whose consequences cross levels. The claim it makes is that level choice is a theoretical decision rather than a sampling convenience, and that effects observed at one level are often produced at another. It draws on a family of systems traditions — general systems theory and [[mishra-control-vs-agency-history-2025|cybernetics]], [[leveraging-complex-systems-leading-for-transformative-change|complexity theory]], socio-technical systems, [[activity-theory-aied|activity theory]], actor-network theory and connectivism — which agree on the parts-and-interactions picture while disagreeing about what a system is for.
@@ -95,13 +100,21 @@ The design-level use is to plan for consequences at levels other than the one be
 
 [[watson-generative-ai-meaning-mediating-infrastructure-2026|Watson, Morgner and Brezovec (2026)]] argue that generative AI matters less through isolated outputs than as **meaning-mediating infrastructure**: through semantic transduction it reformats prompts, [[rubrics|rubrics]], feedback and disciplinary genres into communicatively plausible forms, changing who can be recognized as a legitimate participant. That is a systems claim about the environment rather than about the tool, and it connects the stance to [[equity-in-ai-education|equity]] — inclusion and exclusion become selective communicative processes rather than properties of individual ability.
 
-## Connections to related concepts
+## Boundaries with neighboring concepts
 
 [[ai-education|AI in education]] is the umbrella concept, and this stance is one of its analytical lenses. The stance is closest to [[learning-design|learning design]] and [[curriculum-design|curriculum design]] at the course level, and to [[research-methods-aied|research methods]] and [[ai-ed-evaluation|evaluation]], which decide what level a study measures. [[governance|Governance]], [[educational-policy-ai|policy]] and [[institutional-ai-infrastructure|institutional infrastructure]] own the institutional level; [[change-management|change management]] is the practice of moving an institution from one stable state to another.
 
 Its theoretical neighbors are [[learning-theories|learning theories]] and [[theories-and-frameworks|theories and frameworks]]; [[activity-theory-aied|activity theory]], which supplies the contradiction diagnostic; [[distributed-cognition|distributed cognition]] and [[situated-learning|situated learning]], which locate cognition across people and settings; and [[network-analysis|network analysis]], which operationalizes the parts-and-interactions picture as a method.
 
 Two boundaries are worth stating plainly. [[computational-thinking|Computational thinking]] carries **systems thinking** as one of its own practices — the ability to define system boundaries and synthesize micro-level interactions into macro-level behavior — which is a *cognitive* capacity in a learner, not a property of the environment; see that page for the student-facing evidence. And [[critical-thinking|critical thinking]] is not a systems tradition, though the two are often taught together. Keeping the environment-level stance separate from the learner-level capacity is what keeps the two from being conflated.
+
+## Implications for Practice
+
+- **Instructors.** Name the level a change targets, then ask what moves one level up and one level down.
+- **Course designers.** Check what enters the course from institutional rules and assessment policy before blaming a tool for an outcome the setting produced.
+- **Faculty developers.** Look for one-directional loops: a dashboard that reports without enabling action leaves the teacher's judgment where it was.
+- **Administrators.** Plan workload, support and procurement alongside the pilot, since that is where a successful course-level change usually stops.
+- **Researchers.** State the level you measure and the level you claim separately, then name the mechanism by which an effect crossed between them.
 
 ## Common Misconceptions
 
