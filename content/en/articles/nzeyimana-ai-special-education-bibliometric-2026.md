@@ -1,6 +1,6 @@
 ---
 title: "Artificial intelligence in special education mapping sixty years of research through bibliometric analysis and implications for practice"
-created: "2026-11-27T09:45:00-05:00"
+created: "2026-11-27T09:13:21-05:00"
 updated: "2026-11-27T09:45:00-05:00"
 published: "2026-11-26"
 type: article
@@ -33,9 +33,9 @@ verified: [citation, numbers]
 1. **Output accelerated sharply after 2010.** Publication counts stayed low until the late 1990s, rose gradually through 2010, then climbed steeply, reaching their highest annual levels in the most recent years.
 2. **Research production is concentrated.** The United States accounts for 12.4% of the 977 publications (n = 121), China 9.0% (n = 88), the Russian Federation 4.6% (n = 45), India 3.6% (n = 35), and the United Kingdom and Spain 3.1% each (n = 30).
 3. **Collaboration follows the same geography.** A small group of countries occupies central positions in the coauthorship network, with the United States as a major hub and China, the United Kingdom and Germany also prominent.
-4. **Seven thematic clusters organise the literature.** They cover human–computer interaction and [[active-learning|active learning]]; virtual, augmented and adaptive environments; [[educational-nlp|natural language processing]] and autism; machine learning and computer vision; ethics, sustainability and [[higher-ed|higher education]]; large language models and [[learning-analytics|learning analytics]]; and assistive technology and [[accessibility|accessibility]].
+4. **Seven thematic clusters organise the literature.** They cover human–computer interaction and [[active-learning|active learning]]; virtual, augmented and adaptive environments; [[educational-nlp|natural language processing]] and [[neurodiversity|autism]]; machine learning and computer vision; ethics, sustainability and [[higher-ed|higher education]]; large language models and [[learning-analytics|learning analytics]]; and assistive technology and [[accessibility|accessibility]].
 5. **Highly cited work often comes from outside special education.** Foundational machine-learning, computer-vision and manufacturing-AI papers are widely referenced, reflecting the field's methodological dependence on adjacent domains.
-6. **The literature is more technical than pedagogical.** Technology-oriented clusters are denser than pedagogy-focused ones, which the authors read as an emphasis on system development over instructional integration.
+6. **The literature is more technical than [[pedagogy|pedagogical]].** Technology-oriented clusters are denser than pedagogy-focused ones, which the authors read as an emphasis on system development over instructional integration.
 7. **The practical implications target teachers and governance.** The authors call for [[educational-development|professional development]] in data interpretation, accessibility and ethical decision-making, and for research that connects tools to classroom practice.
 
 ## What a bibliometric map can and cannot show

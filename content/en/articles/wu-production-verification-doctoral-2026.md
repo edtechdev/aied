@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Wu interviewed 21 doctoral students at one large US research university about how they understand and negotiate [[generative-ai|generative AI]] in scholarly work. Participants described AI as an access infrastructure that lowered linguistic barriers for some and technical barriers for others, and they drew careful boundaries between assistance and authorship, accepting grammar support, translation, coding help, and conceptual orientation while rejecting intellectual substitution. The central interpretive claim is that AI shifts doctoral labor from production toward verification: the distinctive responsibility of a student increasingly lies in judging accuracy, legitimacy, ownership, and defensibility. Under ambiguous policies, students became the primary governors of their own use. The article frames these claims as analytic propositions from a single-site interpretive study rather than generalizable findings.
+> **Synthesis:** Wu interviewed 21 [[graduate-education|doctoral students]] at one large US research [[higher-ed|university]] about how they understand and negotiate [[generative-ai|generative AI]] in scholarly work. Participants described AI as an access infrastructure that lowered linguistic barriers for some and technical barriers for others, and they drew careful boundaries between assistance and authorship, accepting grammar support, translation, coding help, and conceptual orientation while rejecting intellectual substitution. The central interpretive claim is that AI shifts doctoral labor from production toward verification: the distinctive responsibility of a student increasingly lies in judging accuracy, legitimacy, ownership, and defensibility. Under ambiguous policies, students became the [[primary-education|primary]] governors of their own use. The article frames these claims as analytic propositions from a single-site interpretive study rather than generalizable findings.
 
 ## Key Findings
 
@@ -38,12 +38,12 @@ verified: [citation, numbers]
 3. **Doctoral labor shifted from production toward verification.** Students still wrote, read, and coded, but their distinctive responsibility moved toward judging whether machine-assisted output was accurate and defensible.
 4. **Trust in fluency coexisted with distrust of content.** Participants relied on AI for grammar while treating its claims, sources, and field-specific knowledge as unreliable.
 5. **Students governed their own use.** In the absence of coherent guidance, they interpreted policies, asked professors case by case, decided whether to disclose, and managed the risk of suspicion.
-6. **Access brought an equity paradox.** The same tools that widened participation also created dependencies, suspicion of multilingual writers, and unequal benefits.
-7. **Leadership recommendations went beyond policy.** The article calls for context-sensitive guidance, transparent disclosure norms, verification literacy, and process-based assessment extending to the dissertation defense.
+6. **Access brought an [[equity-in-ai-education|equity]] paradox.** The same tools that widened participation also created dependencies, suspicion of multilingual writers, and unequal benefits.
+7. **Leadership recommendations went beyond policy.** The article calls for context-sensitive guidance, transparent disclosure norms, verification literacy, and [[process-oriented-assessment|process-based assessment]] extending to the dissertation defense.
 
 ## What the study observed
 
-The study used an interpretive qualitative interview design, beginning with doctoral students in education and extending through purposive and snowball recruitment to other disciplines. All 21 participants were matriculated doctoral students past their first semester. Interviews were semi-structured, conducted individually in English in person or by videoconference, and lasted approximately 35 to 70 min, with a typical length of about 50 min. The same researcher conducted every interview, and all were transcribed verbatim. Recruitment and data collection ran from 29/01/26 to 27/03/26 under institutional review board approval.
+The study used an interpretive [[qualitative-research|qualitative]] interview design, beginning with doctoral students in education and extending through purposive and snowball recruitment to other disciplines. All 21 participants were matriculated doctoral students past their first semester. Interviews were semi-structured, conducted individually in English in person or by videoconference, and lasted approximately 35 to 70 min, with a typical length of about 50 min. The same researcher conducted every interview, and all were transcribed verbatim. Recruitment and data collection ran from 29/01/26 to 27/03/26 under institutional review board approval.
 
 Table 1 situates the sample: 11 participants came from the initial education phase and 10 from the extension phase; 19 were international and 2 domestic; first-language backgrounds included 3 English, 7 Chinese, 4 Korean, 2 Spanish, and 5 other. Doctoral stage included 8 early or early-to-middle, 10 middle, and 3 late students. Dominant AI usage patterns were linguistic and interpretive support for 9, technical and workflow support for 9, and a mixed pattern for 3. The analysis drew on all twenty-one participants, each quoted or described.
 
@@ -61,9 +61,9 @@ The article argues that [[academic-integrity|assessment]] should move from final
 
 ## What this means for practice
 
-- **Instructors.** Teach verification as a scholarly capacity: checking references, testing code, identifying hallucinations, and explaining why an AI-assisted output should be trusted.
+- **Instructors.** Teach verification as a scholarly capacity: checking references, testing code, identifying [[hallucination-risk|hallucinations]], and explaining why an AI-assisted output should be trusted.
 - **Faculty developers.** Write guidance attuned to the kind of scholarly task involved, distinguishing sentence polishing from literature synthesis, code generation, and argument production.
-- **Administrators.** Normalize transparent AI use statements as scholarly accountability rather than treating disclosure as a confession of misconduct.
+- **Administrators.** Normalize [[explainable-ai|transparent AI]] use statements as scholarly accountability rather than treating disclosure as a confession of misconduct.
 - **Instructors.** Ask for process evidence such as code explanations, source verification trails, and revision histories, since polished products no longer demonstrate independent understanding on their own.
 - **Researchers.** Treat the article's claims as propositions to test in other settings rather than as prevalence estimates or causal findings.
 
@@ -71,7 +71,7 @@ The article argues that [[academic-integrity|assessment]] should move from final
 
 - The study was conducted at a single research university, and local policies and program norms may not transfer to other institutions or national systems.
 - The sample of 21 was assembled through purposive and snowball recruitment, was dominated by international and multilingual students, and was not designed as a formal cross-disciplinary comparison.
-- All evidence is interview self-report; there were no writing samples, observational data, AI logs, assignment artifacts, or policy documents, and social desirability bias is a real possibility.
+- All evidence is interview [[self-report-measures|self-report]]; there were no writing samples, observational data, AI logs, assignment artifacts, or policy documents, and social desirability bias is a real possibility.
 - A single researcher collected and analyzed the data without a second coder, formal intercoder agreement, member checking, or external auditing.
 - The connection between verification and the dissertation defense is an interpretive extension, not a directly evidenced result, and the study captures one moment in a fast-moving landscape.
 

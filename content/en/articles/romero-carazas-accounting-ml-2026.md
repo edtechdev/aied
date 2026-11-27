@@ -42,7 +42,7 @@ verified: [citation, numbers]
 
 ## What the study measured and how
 
-The design was quantitative, applied, non-experimental and cross-sectional, with data collected at one point in time and no manipulation of variables. The population was undergraduate students in accounting-related programs at one Peruvian university. Of 270 students invited, 261 completed the questionnaire, a response rate of 96.66%. Sampling was non-probabilistic, purposive and voluntary. The sample was predominantly young: 147 students (56.3%) were aged 18–20, 156 (59.8%) were women, and 258 (98.9%) were in accounting.
+The design was [[quantitative-research|quantitative]], applied, non-experimental and cross-sectional, with data collected at one point in time and no manipulation of variables. The population was undergraduate students in accounting-related programs at one Peruvian university. Of 270 students invited, 261 completed the questionnaire, a response rate of 96.66%. Sampling was non-probabilistic, purposive and voluntary. The sample was predominantly young: 147 students (56.3%) were aged 18–20, 156 (59.8%) were women, and 258 (98.9%) were in accounting.
 
 Experience with artificial intelligence or [[machine-learning]] was reported as none by 24 students (9.2%), basic by 108 (41.4%), intermediate by 111 (42.5%) and advanced by 18 (6.9%). On use of accounting software, 90 (34.5%) reported never and 120 (46.0%) occasionally. This matters for interpretation: the augmented-accounting construct measures students' evaluations of environments that incorporate intelligent technologies, automated systems and machine learning-based tools, not demonstrated skill with named platforms. The study therefore does address AI/ML in education, but at the level of perceived educational environments rather than a deployed, evaluated ML intervention.
 
@@ -63,12 +63,12 @@ The authors interpret the pattern pedagogically: technology acts as a facilitato
 - **Institutions.** Recognize that the reported AI/ML exposure was mostly basic or intermediate, and provide practical experience before expecting advanced use.
 
 ## Limitations
-- The sample came from one higher education institution and was homogeneous in age, field and academic level, limiting transfer to other settings.
-- Sampling was non-probabilistic and voluntary, and all measures were self-reported perceptions rather than performance data.
+- The sample came from one [[higher-ed|higher education]] institution and was homogeneous in age, field and academic level, limiting transfer to other settings.
+- Sampling was non-probabilistic and voluntary, and all measures were [[self-report-measures|self-reported]] perceptions rather than performance data.
 - The cross-sectional design supports associations but not causal claims about the effect of augmented accounting education on decision-making.
 - Several fit indices failed to meet the thresholds the paper itself sets out, most notably CFI and PClose, and RMSEA remained slightly elevated.
 - The paper reports inconsistent p-values for the same structural paths across its results sections, and the meaning of the reported R² is unclear given the hypothesized direction.
-- The augmented-accounting construct was not tied to a specific machine-learning system, so the study cannot show which tools or pedagogical uses mattered.
+- The augmented-accounting construct was not tied to a specific machine-learning system, so the study cannot show which tools or [[pedagogy|pedagogical]] uses mattered.
 
 ## Citation
 Romero-Carazas R, Ticona-Apaza VT, Serruto-Huanca TM, Cheje de Manchego VT, Suclla-Revilla JL, Torres-Sánchez J, Delgado-Talavera JJ and Portilla-Linares MM (2026) Augmented accounting education using machine learning and decision-making in higher education. Front. Educ. 11:1861202. doi: 10.3389/feduc.2026.1861202.

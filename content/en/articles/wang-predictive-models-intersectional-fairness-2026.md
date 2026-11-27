@@ -1,6 +1,6 @@
 ---
 title: "When predictive models inherit and amplify educational inequity: an intersectional fairness analysis and mitigation study on large-scale learning data"
-created: "2026-11-27T09:45:00-05:00"
+created: "2026-11-27T09:13:21-05:00"
 updated: "2026-11-27T09:45:00-05:00"
 published: "2026-11-26"
 type: article
@@ -62,7 +62,7 @@ The in-processing result is a useful caution. A method designed to be fair durin
 
 - Single institution and one dataset, so the magnitudes should not be assumed to transfer elsewhere.
 - Socioeconomic deprivation was measured at area level rather than individually, and disability was a single declared binary that collapses a heterogeneous population.
-- The primary intersection was two-dimensional to keep subgroup sizes workable; higher-order intersections were not tested.
+- The [[primary-education|primary]] intersection was two-dimensional to keep subgroup sizes workable; higher-order intersections were not tested.
 - Fairness metrics rest on a held-out test set, and the confidence intervals, while reported, still depend on the split.
 - The model is of modest predictive power; the authors argue this strengthens rather than weakens the conclusion, but it limits claims about more accurate systems.
 

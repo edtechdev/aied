@@ -1,6 +1,6 @@
 ---
 title: "Teacher self-efficacy in Teacher-AI collaboration: a systematic review"
-created: "2026-11-27T09:45:00-05:00"
+created: "2026-11-27T09:13:21-05:00"
 updated: "2026-11-27T09:45:00-05:00"
 published: "2026-11-26"
 type: article
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Chen and Liu (2026) synthesize 59 studies with a combined sample of 20,391 teachers and pre-service teachers across 24 countries to ask how [[self-efficacy|teacher self-efficacy]] in [[teacher-ai-competency|Teacher-AI collaboration]] (TSE-AI) is conceptualized, measured and related to practice. Their answer is that TSE-AI is not a single trait but a dynamic, context-sensitive integration of operational confidence and pedagogical confidence, centered on a teacher's belief that they can critically evaluate AI output and take part in joint instructional decisions. The review finds a bidirectional relationship: efficacy supports [[human-ai-collaboration|collaboration]] with AI, and successful collaboration builds efficacy. Calibration is the pivot — appropriately calibrated efficacy translates into deeper collaboration, while exaggerated efficacy predicts [[cognitive-offloading|overreliance]] on AI and may erode the teacher's own instructional and classroom-management skill. Measurement is the weak point: three instrument families are in use and none has been validated as a standard reference.
+> **Synthesis:** Chen and Liu (2026) synthesize 59 studies with a combined sample of 20,391 teachers and pre-service teachers across 24 countries to ask how [[self-efficacy|teacher self-efficacy]] in [[teacher-ai-competency|Teacher-AI collaboration]] (TSE-AI) is conceptualized, measured and related to practice. Their answer is that TSE-AI is not a single trait but a dynamic, context-sensitive integration of operational confidence and [[pedagogy|pedagogical]] confidence, centered on a [[teacher-role|teacher]]'s belief that they can critically evaluate AI output and take part in joint instructional decisions. The review finds a bidirectional relationship: efficacy supports [[human-ai-collaboration|collaboration]] with AI, and successful collaboration builds efficacy. Calibration is the pivot — appropriately calibrated efficacy translates into deeper collaboration, while exaggerated efficacy predicts [[cognitive-offloading|overreliance]] on AI and may erode the teacher's own instructional and classroom-management skill. Measurement is the weak point: three instrument families are in use and none has been validated as a standard reference.
 
 ## Key Findings
 1. **The evidence base is recent and large but uneven.** Fifty-nine studies covering 20,391 participants in 24 countries met inclusion; 36 were published in 2025 and 14 in 2024, together 84.7% of the total.

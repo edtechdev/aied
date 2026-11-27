@@ -25,10 +25,10 @@ page_kind: [evaluation, framework]
 
 ## What this means for practice
 
-- **[[learning-analytics|Learning analytics]] designers.** Validate mastery models with time-based, walk-forward cross-validation instead of fitting the full dataset: under retrospective fitting BKT, BKT-F, and AFM looked acceptable (AUC 0.79, 0.77, 0.74), but trained on Session 1 alone they overestimated next-session performance by about 58%, 51%, and 47% respectively.
+- **Learning analytics designers.** Validate mastery models with time-based, walk-forward cross-validation instead of fitting the full dataset: under retrospective fitting BKT, BKT-F, and AFM looked acceptable (AUC 0.79, 0.77, 0.74), but trained on Session 1 alone they overestimated next-session performance by about 58%, 51%, and 47% respectively.
 - **Learning analytics designers.** Do not assume a forgetting parameter buys long-horizon accuracy: across Sessions 2–6, the models without any forgetting mechanism performed about as well as the forgetting-augmented versions.
 - **Researchers.** Test models against known cognitive effects, not only fit metrics — all three models failed to reproduce the empirically observed spacing benefit and sometimes predicted the opposite ordering of practice conditions.
-- **[[educational-technology-developers|Edtech designers]].** Treat in-the-moment performance as a weak proxy for retention: the authors show these models conflate high immediate performance with a high likelihood of long-term retention, the [[desirable-difficulties|learning-versus-performance]] confusion.
+- **Edtech designers.** Treat in-the-moment performance as a weak proxy for retention: the authors show these models conflate high immediate performance with a high likelihood of long-term retention, the [[desirable-difficulties|learning-versus-performance]] confusion.
 - **Researchers.** Adopt use- and cognitively-based validation criteria — learning, spacing, and forgetting across sessions — as the standard for [[student-modeling|student models]] intended to forecast future learning.
 
 ## Limitations

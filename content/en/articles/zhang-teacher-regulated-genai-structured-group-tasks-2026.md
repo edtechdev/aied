@@ -1,6 +1,6 @@
 ---
 title: "Teacher-regulated generative AI in structured group tasks: independent performance and metacognitive judgements in higher education"
-created: "2026-11-15T08:45:00-05:00"
+created: "2026-11-15T08:13:28-05:00"
 updated: "2026-11-15T08:45:00-05:00"
 type: article
 foundations: [agency]
@@ -49,7 +49,7 @@ Two structural features cap the inference. The design is post-test-only, with no
 
 ## What this means for practice
 - **Instructors.** Do not treat a stronger AI-supported product as evidence that students know more; ask for a prediction before the individual check so the gap between confidence and performance becomes visible.
-- **[[learning-analytics|Learning analytics]] designers.** A platform that reports task completion should also capture prospective judgments, because the performance gain here arrived with no measurable improvement in self-monitoring.
+- **Learning analytics designers.** A platform that reports task completion should also capture prospective judgments, because the performance gain here arrived with no measurable improvement in self-monitoring.
 - **Researchers.** Power calibration and confidence outcomes separately from achievement, and report the minimum detectable effect; a *d* of 0.196 on performance leaves little room for a small monitoring effect to register in 126 students.
 
 ## Limitations

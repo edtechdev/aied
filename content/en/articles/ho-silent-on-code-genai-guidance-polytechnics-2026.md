@@ -1,6 +1,6 @@
 ---
 title: "Silent on Code? A Computing Lens on Generative AI Guidance at Canadian Polytechnics and Research Universities"
-created: "2026-11-26T09:33:00-05:00"
+created: "2026-11-26T09:18:38-05:00"
 updated: "2026-11-26T09:33:00-05:00"
 type: article
 published: "2026"
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Ho and colleagues (2026) analyzed the public generative-AI guidance of all 13 Polytechnics Canada members and the 15 U15 research universities, and found a consistent pattern: institutions delegate course-level rules to instructors, converge on [[ai-use-disclosure|disclosure]] and [[academic-integrity|academic integrity]] policy, and say almost nothing that is specific to code. The two sectors differ in default posture — polytechnics more often prohibit use unless the instructor permits it (8 of 13 against 4 of 14) — and in framing, with polytechnics substantively linking GenAI to workforce preparation (7 of 13 against 0 of 14) while universities more often address [[assessment|assessment]] redesign (substantive in 8 against 4). Twelve of 27 institutions mention code, but nearly always as one output type among many; almost none names an AI coding assistant, sets conventions for attributing generated code, or offers programming-specific assessment guidance. The contribution is a coded dataset and a short, adoptable template for [[cs-education|computing programs]] rather than a claim about what classrooms actually do.
+> **Synthesis:** Ho and colleagues (2026) analyzed the public [[generative-ai]] guidance of all 13 Polytechnics Canada members and the 15 U15 research [[higher-ed|universities]], and found a consistent pattern: institutions delegate course-level rules to instructors, converge on [[ai-use-disclosure|disclosure]] and [[academic-integrity|academic integrity]] policy, and say almost nothing that is specific to code. The two sectors differ in default posture — polytechnics more often prohibit use unless the instructor permits it (8 of 13 against 4 of 14) — and in framing, with polytechnics substantively linking GenAI to workforce preparation (7 of 13 against 0 of 14) while universities more often address [[assessment|assessment]] redesign (substantive in 8 against 4). Twelve of 27 institutions mention code, but nearly always as one output type among many; almost none names an AI coding assistant, sets conventions for attributing generated code, or offers programming-specific assessment guidance. The contribution is a coded dataset and a short, adoptable template for [[cs-education|computing programs]] rather than a claim about what classrooms actually do.
 
 ## Key Findings
 
@@ -43,7 +43,7 @@ verified: [citation, numbers]
 
 ## What the documents do and do not cover
 
-The corpus is institution-level public guidance, coded against a 27-item codebook spanning governance, integrity and assessment, data and legal issues, values, and a computing lens. Disclosure, [[privacy|privacy]], approved tools, accuracy and bias, and student [[ai-literacy|AI literacy]] appear in most documents in both sectors. What does not appear is anything that assumes the student's artifact might be a program: no document sets assistance levels for code completion, says how to attribute AI-assisted code, or asks for a code walkthrough as assessment evidence. Several institutions point to a computing department as the place where such norms are emerging, which is precisely the delegation the paper argues needs a template rather than a pointer.
+The corpus is institution-level public guidance, coded against a 27-item codebook spanning governance, integrity and assessment, data and [[legal-issues-and-risks|legal issues]], values, and a computing lens. Disclosure, [[privacy|privacy]], approved tools, accuracy and bias, and student [[ai-literacy|AI literacy]] appear in most documents in both sectors. What does not appear is anything that assumes the student's artifact might be a program: no document sets assistance levels for code completion, says how to attribute AI-assisted code, or asks for a code walkthrough as assessment evidence. Several institutions point to a computing department as the place where such norms are emerging, which is precisely the delegation the paper argues needs a template rather than a pointer.
 
 ## A program-level template, and why it is cheap to adopt
 

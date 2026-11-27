@@ -29,9 +29,9 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Tran and colleagues (2026) randomly assigned 33 [[teacher-education|preservice teachers]] to two 120-minute courses, one combining an [[ai-literacy|AI mindset]] module with hands-on tool practice and one teaching the tools alone. Every participant then planned a lesson with [[generative-ai|generative AI]] during a timed 60-minute open-exam task while screen capture recorded each action. Process mining of 753 coded events separated the groups cleanly: the mindset group ran a Reflective Iterative workflow of prompting, reading and re-prompting, while the tools-only group ran a Linear Extraction workflow that copied output into a document and stopped. The reflective pattern accompanied higher lesson-plan scores, which the authors read as evidence that teacher preparation needs disposition and regulation training rather than software instruction alone.
+> **Synthesis:** Tran and colleagues (2026) randomly assigned 33 [[teacher-education|preservice teachers]] to two 120-minute courses, one combining an [[ai-literacy|AI mindset]] module with hands-on tool practice and one teaching the tools alone. Every participant then planned a lesson with [[generative-ai|generative AI]] during a timed 60-minute open-exam task while screen capture recorded each action. Process mining of 753 coded events separated the groups cleanly: the mindset group ran a Reflective Iterative workflow of [[prompt-engineering|prompting]], reading and re-prompting, while the tools-only group ran a Linear Extraction workflow that copied output into a document and stopped. The reflective pattern accompanied higher lesson-plan scores, which the authors read as evidence that teacher preparation needs disposition and regulation training rather than software instruction alone.
 
-*A quasi-experimental comparison of 33 preservice teachers at one Vietnamese university, using qualitative content analysis of screen recordings (two coders, Cohen's kappa = 0.89) plus artifact scoring on a researcher-developed TPACK-informed rubric. No follow-up and no classroom implementation.*
+*A quasi-experimental comparison of 33 preservice teachers at one Vietnamese [[higher-ed|university]], using [[qualitative-research|qualitative]] content analysis of screen recordings (two coders, Cohen's kappa = 0.89) plus artifact scoring on a researcher-developed [[tpack]]-informed rubric. No follow-up and no classroom implementation.*
 
 ## Key Findings
 
@@ -47,7 +47,7 @@ verified: [citation, numbers]
 
 Each participant completed the same task: build a lesson plan using any [[llm|large language model]] tool of their choice in 60 minutes under open-exam conditions. Screen capture turned every action into a timestamped event, and two independent coders classified 753 events using a scheme adapted from earlier process-mining research on multi-tool writing. Calibration over 20% of the recordings reached Cohen's kappa = 0.89 before the remaining data were coded.
 
-Group 1 received 120 minutes covering AI pedagogy, ethics, growth mindset and human-centered instructional design, grounded in TPACK and UNESCO's AI Competency Framework for Teachers. Group 2 received 120 minutes of tool practice: prompt crafting plus guided generation of lesson plans, videos, infographics, songs, rubrics and slides.
+Group 1 received 120 minutes covering AI [[pedagogy]], [[ethics]], growth mindset and human-centered [[learning-design|instructional design]], grounded in TPACK and UNESCO's AI Competency Framework for Teachers. Group 2 received 120 minutes of tool practice: prompt crafting plus guided generation of lesson plans, videos, infographics, songs, rubrics and slides.
 
 The contrast sits in the loops. Mindset-trained participants read the model's output, then revised the prompt or the content, then returned. Tools-only participants read, copied, pasted and edited inside the document. Secondary actions such as multimedia prompting (47.1% in Group 1, 82.4% in Group 2) appeared late in the former and without triggering further cycles in the latter.
 
@@ -66,7 +66,7 @@ The contrast sits in the loops. Mindset-trained participants read the model's ou
 - The TPACK-informed rubric was researcher-developed and has not been externally validated, so scores are preliminary indicators.
 - The significant difference is marginal (p = .042) and may be sensitive to sample size and variability.
 - The design compares group-level patterns and does not test correlations between specific interaction features and lesson quality.
-- Process mining captures behavior but not the reasoning behind it; the authors call for qualitative and longitudinal follow-up.
+- Process mining captures behavior but not the reasoning behind it; the authors call for qualitative and [[longitudinal-research|longitudinal]] follow-up.
 
 ## Citation
 

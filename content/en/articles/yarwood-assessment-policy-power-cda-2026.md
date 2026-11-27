@@ -30,18 +30,18 @@ verified: [citation]
 
 ---
 
-> **Synthesis:** Yarwood (2026) analyzed assessment policy documents from five UK universities using Fairclough's critical discourse analysis and found four dominant discursive themes: efficiency, surveillance, standardization and pastoral power. Each one narrows the space for flexible, student-centered assessment. Formal policy texts set structural barriers, and wider institutional discourse reinforces them. Where [[generative-ai|artificial intelligence]] appears at all it sits in supplementary guidance rather than core policy, and it is framed through detection and misconduct rather than as a formative tool.
+> **Synthesis:** Yarwood (2026) analyzed assessment policy documents from five UK [[higher-ed|universities]] using Fairclough's critical discourse analysis and found four dominant discursive themes: efficiency, surveillance, standardization and pastoral power. Each one narrows the space for flexible, student-centered assessment. Formal policy texts set structural barriers, and wider institutional discourse reinforces them. Where [[generative-ai|artificial intelligence]] appears at all it sits in supplementary guidance rather than core policy, and it is framed through detection and misconduct rather than as a formative tool.
 
 *Critical discourse analysis of published assessment policy documents from five UK universities, read across Fairclough's textual, discursive-practice and social-practice dimensions. Document analysis only; no staff or student participants.*
 
 ## Key Findings
 
 - **Four themes recur.** Efficiency, surveillance, standardization and pastoral power each appear across the documents, and they interact rather than standing alone.
-- **Efficiency is an assessment design value.** Fixed deadlines, capped reassessment and restricted extensions are written as institutional priorities, which pushes out experimentation and iterative work.
-- **Surveillance is the default posture.** Plagiarism detection software, mandatory submission systems and institutional ownership of examination scripts construct students as potential violators and academics as regulators.
+- **Efficiency is an [[assessment|assessment design]] value.** Fixed deadlines, capped reassessment and restricted extensions are written as institutional priorities, which pushes out experimentation and iterative work.
+- **Surveillance is the default posture.** [[ai-detection|Plagiarism detection]] software, mandatory submission systems and institutional ownership of examination scripts construct students as potential violators and academics as regulators.
 - **AI was largely absent from the core policy texts.** Where it appeared at all it sat in supplementary guidance and was framed around misconduct detection. The authors treat that marginal position as itself a finding: AI has not entered foundational assessment governance.
 - **Standardisation privileges measurability.** Uniform grade boundaries, centralised moderation and quantified outcomes marginalize interpretive judgment and creative demonstration of learning.
-- **Support is conditional.** Extensions and special consideration require formal evidence and panel approval, so flexibility becomes a concession administered by the institution rather than a pedagogical entitlement.
+- **Support is conditional.** Extensions and special consideration require formal evidence and panel approval, so flexibility becomes a concession administered by the institution rather than a [[pedagogy|pedagogical]] entitlement.
 - **Formal policy is not the whole story.** Broader institutional discourse and risk-averse culture maintain the same constraints, and the author argues both must be addressed.
 
 ## How the analysis was done
@@ -66,7 +66,7 @@ That leads to the paper's sharpest caveat. Repositioning AI toward formative sup
 - **Administrators.** Treat detection-centered AI guidance as a symptom, not a position. Supplementary documents that only govern misconduct will keep teaching formative uses informal and uneven.
 - **Faculty developers.** Expect to spend time translating between policy language and classroom judgment, because the two are currently constructed against each other.
 - **Instructional designers.** Disciplinary differences matter most where standardization bites. Build the case for variation explicitly rather than assuming a shared assessment format serves every field.
-- **Researchers.** Policy text analysis cannot show how these constraints are negotiated in practice. Interviews or ethnographic work would test whether the patterns identified here hold in lived experience.
+- **Researchers.** Policy [[educational-nlp|text analysis]] cannot show how these constraints are negotiated in practice. Interviews or ethnographic work would test whether the patterns identified here hold in lived experience.
 
 ## Limitations
 

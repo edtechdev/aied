@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Henriksen (2026) describes RUCAI, an open-source teaching assistant that runs on institution-controlled infrastructure and keeps every answer tied to the course documents a teacher uploaded. The contribution is architectural: the course, not the chat prompt, is the persistent object; a three-tier extraction pipeline ingests heterogeneous readings; intent-aware retrieval selects how much source material a question needs; and a publish-to-student step freezes a bounded corpus and prompt snapshot for classroom use. The paper reports informal pilot observations from two course-planning contexts, not a controlled evaluation. It shows that the system could decline questions its sources did not cover, but it does not establish effects on teacher workload or student learning.
+> **Synthesis:** Henriksen (2026) describes RUCAI, an [[open-source]] teaching assistant that runs on institution-controlled infrastructure and keeps every answer tied to the course documents a [[teacher-role|teacher]] uploaded. The contribution is architectural: the course, not the chat prompt, is the persistent object; a three-tier extraction pipeline ingests heterogeneous readings; intent-aware retrieval selects how much source material a question needs; and a publish-to-student step freezes a bounded corpus and prompt snapshot for classroom use. The paper reports informal pilot observations from two course-planning contexts, not a controlled evaluation. It shows that the system could decline questions its sources did not cover, but it does not establish effects on teacher workload or student learning.
 
 ## Key Findings
 
@@ -37,12 +37,12 @@ verified: [citation, numbers]
 2. **Retrieval is organized by question type.** A narrow factual question and a cross-text comparison use different retrieval scopes, and retrieved chunks are grouped under canonical sources before generation.
 3. **Ingestion degrades gracefully.** Born-digital PDFs, scanned PDFs and DOCX files move through a three-tier extraction pipeline with word-based chunking.
 4. **The stack is locally deployable.** FastAPI, PostgreSQL with pgvector, and Ollama-served models keep materials and inference on infrastructure the institution controls.
-5. **The pilot was small and qualitative.** Two course-planning contexts were used, one with six assigned readings; the system's refusal to answer outside its corpus was observed in workshop use.
+5. **The pilot was small and [[qualitative-research|qualitative]].** Two course-planning contexts were used, one with six assigned readings; the system's refusal to answer outside its corpus was observed in workshop use.
 6. **No formal comparison was run.** Citation accuracy, teacher utility and student learning outcomes are named as future evaluation work, not measured results.
 
 ## What the system does
 
-RUCAI is built around a teacher-only workspace in which course descriptions, readings and notes are uploaded and then used as the sole grounding for chat. The teacher can ask synthesis questions across texts, develop exercises, and then publish a student-facing instance whose corpus and prompt constraints are frozen; later teacher-side edits do not silently change a published instance. The paper argues that this matters in humanities and text-centered social science teaching, where the interpretive work is the reading itself and a generic chatbot's unattributed fluency is a poor fit.
+RUCAI is built around a teacher-only workspace in which course descriptions, readings and notes are uploaded and then used as the sole grounding for chat. The teacher can ask synthesis questions across texts, develop exercises, and then publish a student-facing instance whose corpus and prompt constraints are frozen; later teacher-side edits do not silently change a published instance. The paper argues that this matters in humanities and text-centered social [[science-education|science teaching]], where the interpretive work is the reading itself and a generic [[conversational-ai|chatbot]]'s unattributed fluency is a poor fit.
 
 Five layers make this work: a FastAPI application and web interface; PostgreSQL with pgvector for metadata and embeddings; Ollama serving a local embedding model and chat model; an ingestion pipeline using direct PDF extraction with OCR fallbacks; and chat/retrieval logic that classifies intent, expands queries and normalizes citations. Chunks are word-based, with an 800-word window and 100-word overlap. The system is MIT-licensed, and the authors point to the repository at [github.com/RUC-Digital-Media-Lab/RUCAI](https://github.com/RUC-Digital-Media-Lab/RUCAI) rather than treating the software as a commercial product.
 
@@ -60,14 +60,14 @@ That boundary is worth holding onto. A system that reliably says "the retrieved 
 - **Faculty developers.** A publish-to-student snapshot keeps the teacher's working materials private while giving students a bounded space; that separation is worth specifying in any local AI deployment.
 - **Instructional designers.** Frozen course context is a design choice with a cost: later teacher edits do not reach an already published student instance.
 - **Researchers.** Treat a pilot observation as a hypothesis about workflow, not an effect size; the paper itself calls for comparative evaluation.
-- **IT and governance leads.** Local-first deployment moves the burden to institutional decisions about data protection, copyright and review of course materials, not away from them.
+- **IT and governance leads.** Local-first deployment moves the burden to institutional decisions about [[privacy|data protection]], copyright and review of course materials, not away from them.
 
 ## Limitations
 
 - **No controlled evaluation.** The paper makes implementation and workflow claims; citation accuracy, teacher utility and student learning were not measured comparatively.
 - **Small qualitative pilot.** Two contexts and a workshop-derived design cycle cannot show how the system behaves across disciplines or at scale.
 - **Governance remains local work.** Data protection rules such as GDPR, copyright and text-and-data-mining policies need institutional review before deployment with course materials.
-- **Export risk persists.** Nothing in the architecture prevents a teacher or student from copying materials or generated responses into another AI platform; assessment design has to account for that.
+- **Export risk persists.** Nothing in the architecture prevents a teacher or student from copying materials or generated responses into another AI platform; [[assessment|assessment design]] has to account for that.
 - **Interpretive labour is not removed.** The authors describe the system as supporting evaluation of course texts, not replacing the teacher's judgment about interpretation.
 
 ## Citation

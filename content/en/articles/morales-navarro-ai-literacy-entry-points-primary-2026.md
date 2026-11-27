@@ -28,11 +28,11 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Morales-Navarro and colleagues (2026) start from a practical complaint: there are many [[ai-literacy]] frameworks and little guidance on where a designer of teaching materials should begin. Most frameworks describe AI as socio-technical, yet interventions in practice center on teaching learners to use it. Working from computational empowerment in the Scandinavian participatory design tradition, the authors convened primary teacher educators, curriculum designers, media producers and researchers to negotiate a shared language, and produced five entry points into AI literacy for [[primary-education|K-6]]: data is created, AI systems make predictions, anthropomorphism in AI systems, AI as a design material, and intentionality in AI systems. Three vignettes show the entry points used to design a learning activity, a children's television screenplay, and activities for parents and children. The claim is not that five starting points constitute a framework, but that a negotiable set of [[scaffolding|starting points]] lets different professionals design [[constructivist|constructive]] materials while keeping a common foundation.
+> **Synthesis:** Morales-Navarro and colleagues (2026) start from a practical complaint: there are many [[ai-literacy]] frameworks and little guidance on where a designer of teaching materials should begin. Most frameworks describe AI as socio-technical, yet interventions in practice center on teaching learners to use it. Working from computational empowerment in the Scandinavian participatory design tradition, the authors convened primary [[teacher-role|teacher]] educators, curriculum designers, media producers and researchers to negotiate a shared language, and produced five entry points into AI literacy for [[primary-education|K-6]]: data is created, AI systems make predictions, anthropomorphism in AI systems, AI as a design material, and intentionality in AI systems. Three vignettes show the entry points used to design a learning activity, a children's television screenplay, and activities for parents and children. The claim is not that five starting points constitute a framework, but that a negotiable set of [[scaffolding|starting points]] lets different professionals design [[constructivist|constructive]] materials while keeping a common foundation.
 
 ## Key Findings
 - **Framework abundance is a design problem, not a knowledge gap.** The authors document that designers face a proliferation of AI literacy and informatics frameworks with no guidance about which ideas to start from.
-- **Most frameworks say socio-technical; most interventions teach tool use.** The review the authors draw on finds a persistent gap between framework emphasis and enacted practice, especially for generative AI.
+- **Most frameworks say socio-technical; most interventions teach tool use.** The review the authors draw on finds a persistent gap between framework emphasis and enacted practice, especially for [[generative-ai|generative AI]].
 - **Five entry points are the negotiated output, not a top-down list.** Data is created, AI makes predictions, anthropomorphism, AI as a design material, and intentionality were worded and reworded as stakeholders used them.
 - **Stakeholder ownership changed the content.** Media producers, teacher educators and technology designers did not merely translate predefined AI concepts into formats; their questions reshaped how the topics were worded and related.
 - **The entry points function as boundary objects.** Recognizable across professional practices and adaptable within each, they supported coordination without requiring every partner to design the same kind of material.
@@ -52,7 +52,7 @@ Read together, the five keep the [[computational-thinking]] and socio-ethical th
 
 ## An account of a process, not evidence of learning
 
-The paper reports a design process and its artifacts. There is no outcome measure: no comparison of children who learned through these materials against children who did not, and no assessment of whether the entry points produce better [[ai-literacy]] than an alternative starting set. The vignettes are illustrations of generativity rather than tests.
+The paper reports a [[design-thinking|design process]] and its artifacts. There is no outcome measure: no comparison of children who learned through these materials against children who did not, and no assessment of whether the entry points produce better [[ai-literacy]] than an alternative starting set. The vignettes are illustrations of generativity rather than tests.
 
 What the account does establish is a workable answer to a coordination problem. When several professional communities must build materials around one construct, the construct has to be negotiable in their terms or it will be dropped in favor of whatever is easiest to produce. The authors also note the limit of their own contribution: five entry points are not claimed to be sufficient for AI literacy, and their plasticity, which is what makes them usable across partners, is also what makes them hard to evaluate.
 
@@ -60,7 +60,7 @@ What the account does establish is a workable answer to a coordination problem. 
 
 - **Curriculum designers.** Choose a small set of starting points and let the material type determine how each is expressed; a screenplay, a classroom activity and a home task should not carry the same lesson.
 - **Instructors.** Start from what children already encounter — games, assistants, recommendations — and move to who built the system and what it was built to do, rather than starting from how to use a tool.
-- **Parents and families.** Materials designed for home use can take the same entry points as school materials, which is what keeps a family conversation about AI continuous with classroom work.
+- **[[parents-and-families|Parents and families]].** Materials designed for home use can take the same entry points as school materials, which is what keeps a family conversation about AI continuous with classroom work.
 - **Faculty developers.** Treat framework-to-material translation as negotiation among professionals, not as dissemination. The wording changes are where the ownership forms.
 
 ## Limitations

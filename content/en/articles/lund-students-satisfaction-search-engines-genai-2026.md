@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Lund, Warren, and Teel (2026) survey 236 U.S. university students about their satisfaction with [[generative-ai|generative AI tools]] and with traditional search engines as academic information sources. Satisfaction with search engines was clearly higher (mean 3.12 on a 0–4 scale) than with AI (mean 2.11), and the two were negatively correlated, a weak negative relationship. K-means clustering separated a group heavily satisfied with search engines but dissatisfied with AI (41% of respondents) from a group moderately to highly satisfied with both (59%). Frequency of use predicted satisfaction, most strongly for AI, with a strong relationship between monthly use and AI satisfaction, and international and undergraduate students reported significantly higher AI satisfaction than domestic and graduate students. The authors read this as evidence that AI tools are settling into a complementary role in students' [[information-and-media-literacy|information seeking]] rather than replacing search engines.
+> **Synthesis:** Lund, Warren, and Teel (2026) survey 236 U.S. [[higher-ed|university]] students about their satisfaction with [[generative-ai|generative AI tools]] and with traditional search engines as academic information sources. Satisfaction with search engines was clearly higher (mean 3.12 on a 0–4 scale) than with AI (mean 2.11), and the two were negatively correlated, a weak negative relationship. K-means clustering separated a group heavily satisfied with search engines but dissatisfied with AI (41% of respondents) from a group moderately to highly satisfied with both (59%). Frequency of use predicted satisfaction, most strongly for AI, with a strong relationship between monthly use and AI satisfaction, and international and undergraduate students reported significantly higher AI satisfaction than domestic and [[graduate-education|graduate]] students. The authors read this as evidence that AI tools are settling into a complementary role in students' [[information-and-media-literacy|information seeking]] rather than replacing search engines.
 
 *Electronic survey distributed through Qualtrics to students at U.S. universities between August and September 2025, with 236 valid responses. Principal components analysis of ten satisfaction items, k-means cluster analysis, and multiple regression on demographic predictors and prior-month use frequency.*
 
@@ -58,7 +58,7 @@ The survey is a convenience sample of 236 students, drawn largely from the natur
 
 ## What this means for practice
 
-- **Librarians.** Treat satisfaction as a diagnostic worth measuring alongside use. Students who dislike AI may simply lack repeated, structured exposure, so offer guided practice rather than assuming settled preference.
+- **[[librarians]].** Treat satisfaction as a diagnostic worth measuring alongside use. Students who dislike AI may simply lack repeated, structured exposure, so offer guided practice rather than assuming settled preference.
 - **Instructors.** Do not assume students prefer AI for every information task. Many still rate search engines higher, and the two groups in this study differ systematically by level and origin.
 - **Instructional designers.** Build instruction that compares sources explicitly on accuracy and appropriateness, since satisfaction alone does not track quality.
 - **Researchers.** Move beyond adoption counts to observed search behavior and outcome quality, and test whether satisfaction changes with sustained, supported use.
@@ -66,7 +66,7 @@ The survey is a convenience sample of 236 students, drawn largely from the natur
 ## Limitations
 
 - The sample is a convenience sample of 236 students, heavily weighted toward natural and computing sciences and graduate students, so it is not representative of U.S. university students generally.
-- All data are self-reported satisfaction, which may diverge from actual search performance or from judgments of source quality.
+- All data are [[self-report-measures|self-reported]] satisfaction, which may diverge from actual search performance or from judgments of source quality.
 - The cross-sectional design cannot establish the direction of the use–satisfaction relationship.
 - The survey predates the most recent generation of AI tools, and satisfaction with a fast-moving technology may not remain stable.
 - Satisfaction was measured on five information types that include non-academic categories such as weather and news, which may dilute the academic reading of the construct.

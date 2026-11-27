@@ -41,7 +41,7 @@ verified: [citation, numbers]
 6. **The authors decline to claim an illusion.** Confidence responses showed limited internal consistency, the band labels are numerical positions rather than validated calibration states, and mapping rubric totals onto confidence endpoints does not establish equivalence.
 ## From revised draft to delayed unaided text
 
-The design keeps three products apart that AI feedback research routinely merges. Students wrote an initial text, revised it with a restricted AI interface, rated their confidence, and then wrote a comparable argumentative text without AI 7–14 days later. Revision quality, self-judgment and unaided performance were measured as separate outcomes rather than treated as one learning gain. That separation is what makes the [[learning-gains|learning gain]] question answerable: a large score change on the revised draft says nothing on its own about what the writer acquired, because the revision can be correct and fluent while the underlying skill stays where it was.
+The design keeps three products apart that [[ai-feedback-quality|AI feedback]] research routinely merges. Students wrote an initial text, revised it with a restricted AI interface, rated their confidence, and then wrote a comparable argumentative text without AI 7–14 days later. Revision quality, self-judgment and unaided performance were measured as separate outcomes rather than treated as one learning gain. That separation is what makes the [[learning-gains|learning gain]] question answerable: a large score change on the revised draft says nothing on its own about what the writer acquired, because the revision can be correct and fluent while the underlying skill stays where it was.
 
 ## What the explanations add
 

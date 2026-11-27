@@ -52,7 +52,7 @@ The ablations form a clean causal story. Behavioral cloning alone is not enoughâ
 - **Instructors.** Treat the recommended sequence, not just the concept set, as the pedagogical object: EVOL-BC's +0.614 EP on ASSIST15 L = 10 versus +0.543 for the same architecture without expert [[llm-training-and-fine-tuning|pretraining]] shows that ordering decisions carry measurable mastery gains.
 - **Developers.** Separate privileged search from deployment: synthesize demonstrations offline inside a simulator, then ship a policy that consumes only deployable inputs (h0, targets, step index), so no runtime simulator query is needed.
 - **Researchers.** Score deployment-free performance explicitly; methods that query the simulator at inference measure a counterfactual oracle rather than a servable system, and the reported gaps here characterize the h0-only constraint.
-- **[[learning-analytics|Learning analytics]] designers.** Plan for simulator sensitivity: fixed graph-derived candidate structures degraded most across DKT instances, so validation across simulator instances is a practical readiness check.
+- **Learning analytics designers.** Plan for simulator sensitivity: fixed graph-derived candidate structures degraded most across DKT instances, so validation across simulator instances is a practical readiness check.
 
 ## Limitations
 

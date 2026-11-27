@@ -29,11 +29,11 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Li and colleagues surveyed 391 undergraduate and postgraduate medical students at one university in China and extended UTAUT2 with learner traits, critical thinking disposition, attitudes toward AI and technology anxiety. Instead of measuring use as a single frequency, they modeled five modes of appropriation, including use beyond a tool's intended purpose. In the structural model, intention to keep using AI was associated mainly with habit, performance expectancy and fear of AI. Intention showed no unique association with most appropriation modes once habit, acceptance of AI and learner traits were included, and it was negatively associated with ethical appropriation. Acceptance of AI and Master Adaptive Learner traits tracked specific modes of use. The design is cross-sectional and the model fit was mixed, so the results describe associations rather than causal effects.
+> **Synthesis:** Li and colleagues surveyed 391 [[higher-ed|undergraduate]] and [[graduate-education|postgraduate]] medical students at one university in China and extended UTAUT2 with learner traits, [[critical-thinking|critical thinking]] disposition, attitudes toward AI and technology [[anxiety-and-stress|anxiety]]. Instead of measuring use as a single frequency, they modeled five modes of appropriation, including use beyond a tool's intended purpose. In the structural model, intention to keep using AI was associated mainly with habit, performance expectancy and fear of AI. Intention showed no unique association with most appropriation modes once habit, acceptance of AI and learner traits were included, and it was negatively associated with ethical appropriation. Acceptance of AI and Master Adaptive Learner traits tracked specific modes of use. The design is cross-sectional and the model fit was mixed, so the results describe associations rather than causal effects.
 
 ## Key Findings
 1. **Use was treated as several distinct modes.** Five appropriation dimensions replaced a single frequency measure, so qualitatively different ways of using AI could be examined separately.
-2. **Habit and perceived usefulness dominated intention.** Habit was the strongest correlate of intention to continue using AI, with performance expectancy also positive and fear of AI negative.
+2. **Habit and [[technology-acceptance-model|perceived usefulness]] dominated intention.** Habit was the strongest correlate of intention to continue using AI, with performance expectancy also positive and fear of AI negative.
 3. **Intention poorly explained how students actually used AI.** Its paths to integrative, adoptive, customized and interface appropriation were not significant once other constructs were included simultaneously.
 4. **Boundaries of use ran in opposite directions.** Habit was positively associated with use beyond intended purpose while intention was negatively associated with it.
 5. **Learner traits and attitudes tracked particular modes.** Acceptance of AI and Master Adaptive Learner traits showed direct associations with several appropriation dimensions, while critical thinking did not survive correction.
@@ -42,9 +42,9 @@ verified: [citation, numbers]
 
 ## What was measured and how
 
-The cross-sectional survey was conducted between October and November 2025 at Shandong University. Of 399 questionnaires collected across pilot and main phases, 391 were retained after eight were excluded during quality control. Participants had a mean age of 21.32 years (SD = 1.94); 61.9% were female, 79.8% were undergraduates, and 45.3% majored in Clinical Medicine. Some 40.7% used AI daily and 68.3% had used it for two years or more.
+The cross-sectional survey was conducted between October and November 2025 at Shandong University. Of 399 [[self-report-measures|questionnaires]] collected across pilot and main phases, 391 were retained after eight were excluded during quality control. Participants had a mean age of 21.32 years (SD = 1.94); 61.9% were female, 79.8% were undergraduates, and 45.3% majored in Clinical Medicine. Some 40.7% used AI daily and 68.3% had used it for two years or more.
 
-All items used a 5-point Likert scale. The questionnaire drew on UTAUT2 constructs, Master Adaptive Learner (MAL) items, a critical thinking disposition inventory, the Attitude Toward Artificial Intelligence measure with Acceptance and Fear dimensions, and a technology anxiety scale. Use behavior was represented by the five Generative Artificial Intelligence Appropriation dimensions: integrative, adoptive, customized, interface and ethical appropriation. Higher ethical appropriation scores indicate greater willingness to use AI beyond its intended purpose.
+All items used a 5-point Likert scale. The questionnaire drew on UTAUT2 constructs, Master Adaptive Learner (MAL) items, a critical thinking disposition inventory, the Attitude Toward Artificial Intelligence measure with Acceptance and Fear dimensions, and a technology anxiety scale. Use behavior was represented by the five [[generative-ai|Generative Artificial Intelligence]] Appropriation dimensions: integrative, adoptive, customized, interface and ethical appropriation. Higher ethical appropriation scores indicate greater willingness to use AI beyond its intended purpose.
 
 A confirmatory factor analysis modeled 18 correlated latent constructs under robust maximum likelihood. The structural model tested 12 theory-specified paths plus 41 direct paths retained from an earlier exploratory model. Paths and indirect effects were tested with bias-corrected bootstrap confidence intervals from 2,000 resamples, and Benjamini–Hochberg correction was applied at q < 0.05.
 
@@ -60,7 +60,7 @@ In adjusted regressions, longer AI use was associated with higher scores on all 
 - **Instructors.** Help students plan, evaluate and adjust their AI use against specific learning goals, rather than assuming that a stated intention to use AI describes how they will use it.
 - **Instructors.** Teach verification of AI-generated information and discuss appropriate boundaries of use explicitly; favorable attitudes and established habits do not by themselves settle questions of responsible use.
 - **Institutions.** Treat discomfort with using AI tools and concern about AI's wider effects as separate issues when designing support, since the two showed different association patterns.
-- **Researchers.** Test the model in other institutions and in longitudinal or intervention designs before treating these associations as effects.
+- **Researchers.** Test the model in other institutions and in [[longitudinal-research|longitudinal]] or intervention designs before treating these associations as effects.
 
 ## Limitations
 - The sample came from one top-tier university in China, with similar cultural backgrounds and access to AI resources, which restricts generalizability.

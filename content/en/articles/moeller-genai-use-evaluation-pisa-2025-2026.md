@@ -30,7 +30,7 @@ verified: [citation, numbers]
 
 > **Synthesis:** Richter and colleagues (2026) use PISA 2025 data from 500,851 students across 59 countries to ask whether 15-year-olds who [[generative-ai|use generative AI]] for schoolwork are also taught to evaluate what it produces. On average, 57.5% of students used [[conversational-ai|AI chatbots]] for schoolwork at least weekly and about 90% reported any use, yet only 35.3% said they were often or very often asked to evaluate AI output in class, while 33.2% were asked never or almost never. Use and evaluation were positively associated in every country, a modest pooled relationship that shrank when non-users were excluded, and 25.4% of at-least-weekly users still reported no or almost no evaluation. A one-standard-deviation advantage in socioeconomic status was associated with a B = 0.09 increase in reported evaluation frequency, independent of how much students used AI. The study is a large-scale account of an [[ai-literacy]] practice that remains unevenly distributed.
 
-*PISA 2025 secondary analysis; 500,851 students in 59 countries, with 16,031 schools in the 55 countries carrying school identifiers. Within-country estimates used final student weights and 80 balanced repeated replication weights, pooled by REML random-effects meta-analysis with Knapp–Hartung confidence intervals.*
+*PISA 2025 secondary analysis; 500,851 students in 59 countries, with 16,031 schools in the 55 countries carrying school identifiers. Within-country estimates used final student weights and 80 balanced repeated replication weights, pooled by REML random-effects [[meta-analysis-systematic-review|meta-analysis]] with Knapp–Hartung confidence intervals.*
 
 ## Key Findings
 
@@ -38,12 +38,12 @@ verified: [citation, numbers]
 - **A third of students are never asked.** 33.2% reported being asked never or almost never to evaluate AI-generated information in lessons.
 - **Use and evaluation travel together, but imperfectly.** Students who used AI more also reported more evaluation instruction in every participating country, though the association shrank once non-users were excluded.
 - **Frequent use does not guarantee instruction.** One in four at-least-weekly users reported never or almost never evaluating AI output, ranging from about one in seven in Albania to more than half in Japan.
-- **Advantaged students reported more evaluation instruction.** Even after holding AI use and student background constant, socioeconomic advantage predicted more frequent evaluation of AI output.
+- **Advantaged students reported more evaluation instruction.** Even after holding AI use and student background constant, socioeconomic advantage predicted more frequent [[ai-ed-evaluation|evaluation of AI]] output.
 - **Country variation is large in both measures.** Weekly use ran from roughly 30% in some systems to above 70% in others, while frequent evaluation ran from below 20% to above 50%.
 
 ## What the gap looks like
 
-The central observation is a mismatch between two behaviors that policy assumes go together. Students have adopted generative AI quickly and broadly, but the pedagogical response — asking them to judge the quality of what it returns — reaches barely a third of them regularly. This is the classroom half of [[ai-literacy]], and it is where a teacher can model evaluation, supply missing knowledge, and give [[feedback]] on the judgment itself. The authors treat the lesson setting as the place where the gap can be closed for all students rather than only those whose families provide it.
+The central observation is a mismatch between two behaviors that policy assumes go together. Students have adopted generative AI quickly and broadly, but the [[pedagogy|pedagogical]] response — asking them to judge the quality of what it returns — reaches barely a third of them regularly. This is the classroom half of [[ai-literacy]], and it is where a [[teacher-role|teacher]] can model evaluation, supply missing knowledge, and give [[feedback]] on the judgment itself. The authors treat the lesson setting as the place where the gap can be closed for all students rather than only those whose families provide it.
 
 Because the measures are self-reports, the study describes reported practice rather than observed teaching. Still, the size and coverage of PISA make the pattern hard to dismiss as a sampling artifact, and the consistency of the use–evaluation correlation across all 59 participating systems gives it a structural character rather than a country-specific quirk.
 
@@ -58,7 +58,7 @@ The country spread adds a comparative dimension. Systems with low weekly use, su
 - **Instructors.** Build evaluation into ordinary lessons rather than treating it as an advanced topic. Ask students to judge AI output routinely, including in classes where tool use is discouraged.
 - **Curriculum designers.** Specify AI-output evaluation as a learnable activity with criteria and feedback, not as a general expectation that students will pick up from using the tools.
 - **Policymakers.** Track evaluation instruction alongside access and use. Adoption metrics alone cannot show whether students are being taught to assess what AI produces.
-- **Researchers.** Move beyond self-reported use to observed pedagogy, and test whether evaluation instruction changes the quality of students' judgments rather than only their reported confidence.
+- **Researchers.** Move beyond [[self-report-measures|self-reported]] use to observed pedagogy, and test whether evaluation instruction changes the quality of students' judgments rather than only their reported confidence.
 
 ## Limitations
 

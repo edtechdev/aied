@@ -1,6 +1,6 @@
 ---
 title: "From policy agendas to critical AI literacy: a normative evaluation of forty-three national AI strategies and the cultivation deficit in education"
-created: "2026-11-26T09:48:00-05:00"
+created: "2026-11-26T09:18:38-05:00"
 updated: "2026-11-26T09:48:00-05:00"
 type: article
 published: "2026"
@@ -43,11 +43,11 @@ verified: [citation, numbers]
 
 ## What the framework measures, and what it does not
 
-The Human–AI Integrated Education Framework scores each strategy on eleven indicators grouped into alignment, reflexivity and cultivation, for a maximum of 33. Coding ran in two stages: models drafted a Functional Profile of each strategy's education provisions, every quotation was audited against its source, and four models then coded the profiles independently. Because the profiles throttle what can be scored, the absolute numbers say little about how much humanistic content a document contains; the authors say so plainly and read the results comparatively across dimensions and indicators. A low score therefore means that a country's AI strategy does not engage these dimensions, not that its education policy as a whole does not — several countries handle education in separate digital-education or curriculum documents outside the corpus.
+The Human–AI Integrated Education Framework scores each strategy on eleven indicators grouped into alignment, reflexivity and cultivation, for a maximum of 33. Coding ran in two stages: models drafted a Functional Profile of each strategy's education provisions, every quotation was audited against its source, and four models then coded the profiles independently. Because the profiles throttle what can be scored, the absolute numbers say little about how much humanistic content a document contains; the authors say so plainly and read the results comparatively across dimensions and indicators. A low score therefore means that a country's AI strategy does not engage these dimensions, not that its education policy as a whole does not — several countries handle education in separate digital-education or [[curriculum-design|curriculum]] documents outside the corpus.
 
 ## Why the vocabulary gap matters for critical AI literacy
 
-The paper's argument is that "human-centred" functions as a legitimation device that reassures without committing anyone to anything. A ministry can mandate wellbeing services; it cannot as easily mandate the conditions under which creativity develops, so capacities that translate into administrative provisions get written and capacities that require pedagogical action do not. That produces a policy genre in which the evaluable parts are the procedural ones, and in which critical AI literacy is asserted rather than specified. The remedies the authors propose are modest and institutional: policy vocabularies that make cultivation evaluable, and instruments that let [[governance|governance]] bodies check whether a strategy commits to anything a school could act on.
+The paper's argument is that "human-centred" functions as a legitimation device that reassures without committing anyone to anything. A ministry can mandate [[well-being|wellbeing]] services; it cannot as easily mandate the conditions under which creativity develops, so capacities that translate into administrative provisions get written and capacities that require [[pedagogy|pedagogical]] action do not. That produces a policy genre in which the evaluable parts are the procedural ones, and in which critical AI literacy is asserted rather than specified. The remedies the authors propose are modest and institutional: policy vocabularies that make cultivation evaluable, and instruments that let [[governance|governance]] bodies check whether a strategy commits to anything a school could act on.
 
 ## What this means for practice
 

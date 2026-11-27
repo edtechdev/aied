@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Villegas-Ch and colleagues compared a baseline classifier with demographic reweighting and adversarial debiasing on two educational prediction datasets, evaluating [[bias-mitigation|bias mitigation]] with statistical testing, subgroup analysis, and robustness checks. The effects were dataset- and metric-dependent rather than uniformly beneficial. In ASSISTments, the adversarial configuration improved predictive performance but increased two disparity measures; reweighting behaved almost identically to the unmitigated model. In OULAD, adversarial training slightly reduced predictive performance while widening the observed disparities. Under small Gaussian perturbations the adversarial model retained most of its predictive capacity. The authors conclude that fairness-aware mitigation is a trade-off between predictive utility and subgroup equity, not a single optimization objective.
+> **Synthesis:** Villegas-Ch and colleagues compared a baseline classifier with demographic reweighting and adversarial debiasing on two educational prediction datasets, evaluating [[bias-mitigation|bias mitigation]] with statistical testing, subgroup analysis, and robustness checks. The effects were dataset- and metric-dependent rather than uniformly beneficial. In ASSISTments, the adversarial configuration improved predictive performance but increased two disparity measures; reweighting behaved almost identically to the unmitigated model. In OULAD, adversarial training slightly reduced predictive performance while widening the observed disparities. Under small Gaussian perturbations the adversarial model retained most of its predictive capacity. The authors conclude that fairness-aware mitigation is a trade-off between predictive utility and subgroup [[equity-in-ai-education|equity]], not a single optimization objective.
 
 ## Key Findings
 
@@ -43,7 +43,7 @@ verified: [citation, numbers]
 
 ## What was compared
 
-The study used two public datasets with different structures. ASSISTments 2017 contains interaction-level mathematics tutoring records from secondary school students in the United States: approximately 1.1 million individual records from roughly 1,700 students across more than 2,500 distinct exercises. The sensitive attribute was the dataset's inferred gender proxy, with Female encoded as Group 0 and Male as Group 1; the authors stress that this is a proxy and not self-identified gender. OULAD provides student-level demographic and academic records from a distance-learning setting, and the sensitive attribute there was the gender variable in the student information table. The cross-dataset experiments were run on more than 800,000 educational interaction records across the two sources.
+The study used two public datasets with different structures. ASSISTments 2017 contains interaction-level mathematics tutoring records from [[secondary-education|secondary school]] students in the United States: approximately 1.1 million individual records from roughly 1,700 students across more than 2,500 distinct exercises. The sensitive attribute was the dataset's inferred gender proxy, with Female encoded as Group 0 and Male as Group 1; the authors stress that this is a proxy and not self-identified gender. OULAD provides student-level demographic and academic records from a distance-learning setting, and the sensitive attribute there was the gender variable in the student information table. The cross-dataset experiments were run on more than 800,000 educational interaction records across the two sources.
 
 Three configurations were compared: a baseline binary logistic regression, a demographic reweighting strategy that adjusts training instance weights by the joint distribution of outcome and sensitive attribute, and an adversarial architecture in which a discriminator tries to infer the sensitive attribute from the learned representation. Evaluation used interaction-level stratified 5-fold cross-validation with shuffling and a fixed seed; folds were not grouped by student. Predictive metrics were accuracy and F1, and fairness metrics were Statistical Parity Difference (SPD), Equal Opportunity Difference (EOD), and Disparate Impact (DI). The implementation used scikit-learn v1.4.1, Fairlearn v0.10.0, AIF360 v0.5.0, and PyTorch v2.1.0 in Python 3.10, with random seeds fixed at 42.
 
@@ -69,10 +69,10 @@ In the separate robustness experiment, Gaussian noise with standard deviation s 
 
 ## Limitations
 
-- ASSISTments used an inferred demographic proxy, so the results should not be generalized to self-reported gender identity or to institutions with richer demographic data.
+- ASSISTments used an inferred demographic proxy, so the results should not be generalized to [[self-report-measures|self-reported]] gender identity or to institutions with richer demographic data.
 - Validation folds in ASSISTments were interaction-level rather than grouped by student, so estimates concern held-out interactions rather than unseen students.
 - The fairness metrics are distributional and the adversarial architecture is fixed; causal, counterfactual, and intersectional notions of fairness were not evaluated.
-- Robustness testing covered Gaussian perturbations only, leaving temporal drift, deployment feedback loops, and adversarial attacks for future work.
+- Robustness testing covered Gaussian perturbations only, leaving temporal drift, deployment [[feedback|feedback loops]], and adversarial attacks for future work.
 
 ## Citation
 

@@ -42,15 +42,15 @@ verified: [citation, numbers]
 
 ## What the study compared
 
-The benchmark held 24 algebra tasks in six categories: simplifying expressions, solving linear equations, substitution, worked-solution error identification, symbolic-relationship interpretation and short conceptual prompts. Each episode paired an initial task with one scripted follow-up representing partial progress, a misconception or a request for clarification. The integrated condition retrieved from a corpus whose chunks carried topic, subskill, resource type, difficulty and misconception tags; the baseline had no corpus access.
+The benchmark held 24 algebra tasks in six categories: simplifying expressions, solving linear equations, substitution, worked-solution error identification, symbolic-relationship interpretation and short conceptual prompts. Each episode paired an initial task with one scripted follow-up representing partial progress, a [[misconceptions|misconception]] or a request for clarification. The integrated condition retrieved from a corpus whose chunks carried topic, subskill, resource type, difficulty and misconception tags; the baseline had no corpus access.
 
-The integrated learner-state object held the problem, subskill, recent attempt, detected error, hint count and support level. A policy layer selected among a conceptual prompt, light hint, procedural hint, misconception correction, worked-step explanation and full solution. Ten reviewers were invited and eight completed the evaluation. They reported experience from 3 to 5 years to more than 20 years, with highest qualifications of bachelor's degree (n = 2), master's degree (n = 5) and doctoral degree (n = 1).
+The integrated learner-state object held the problem, subskill, recent attempt, detected error, hint count and support level. A policy layer selected among a conceptual prompt, light hint, procedural hint, misconception correction, worked-step explanation and full solution. Ten reviewers were invited and eight completed the evaluation. They reported experience from 3 to 5 years to more than 20 years, with highest qualifications of [[undergraduate-education|bachelor]]'s degree (n = 2), master's degree (n = 5) and [[graduate-education|doctoral]] degree (n = 1).
 
 Four rating dimensions used a 1 to 5 scale and unsupported content was recorded as present or absent. Reviewers saw response pairs labeled only A and B, but A was always the baseline and B always the integrated tutor, so the paper calls the evaluation anonymized rather than fully blinded. Task-level paired comparisons used Wilcoxon signed-rank tests with a Benjamini–Hochberg correction across the four positive dimensions; unsupported-content flags were compared with Fisher's exact test.
 
 ## Ratings, agreement and failure modes
 
-On conceptual support the integrated condition averaged 4.69 against 4.31 for the baseline (Wilcoxon p = .00015, corrected p = .00030, rank-biserial r = .90). Instructional quality was 4.61 against 4.29 (p = .00010, corrected p = .00030, r = .94), and helpfulness 4.65 against 4.39 (p = .0041, corrected p = .0054, r = .68). The pedagogical-quality composite averaged 4.65 against 4.33 (p = .00024, r = .86). Solution accuracy was 4.84 against 4.74 (p = .0769, r = .53).
+On conceptual support the integrated condition averaged 4.69 against 4.31 for the baseline (Wilcoxon p = .00015, corrected p = .00030, rank-biserial r = .90). Instructional quality was 4.61 against 4.29 (p = .00010, corrected p = .00030, r = .94), and helpfulness 4.65 against 4.39 (p = .0041, corrected p = .0054, r = .68). The [[pedagogy|pedagogical]]-quality composite averaged 4.65 against 4.33 (p = .00024, r = .86). Solution accuracy was 4.84 against 4.74 (p = .0769, r = .53).
 
 In the integrated condition, correlations among the three teaching dimensions ranged from r = .81 to r = .92, and reviewers gave identical scores on all three in 79% of item-level ratings. Baseline correlations ranged from r = .73 to r = .79 with identical scores in 65% of ratings. Mean exact pairwise agreement was 0.47 in the baseline and 0.66 in the integrated condition; agreement within one scale point was 0.93 and 0.86, while composite intraclass correlation was 0.16 and 0.15. Many ratings sat near 5, so differences are expert judgments on a restricted scale.
 
@@ -60,10 +60,10 @@ Unsupported content appeared in 13 of 192 rating cells for the integrated tutor 
 - **Instructors.** When configuring a retrieval-grounded tutor, check that internal chunk identifiers, evidence labels and policy names never appear in the learner-facing response.
 - **Instructors.** Prefer staged hints and misconception-specific prompts over immediate full solutions when the goal is learner reasoning rather than a finished answer.
 - **Institutions.** Require a post-generation check that regenerates or rewrites any response exposing internal traces before it reaches a learner.
-- **Researchers.** Run ablation conditions that separate retrieval, learner-state tracking and pedagogical prompting before attributing the rating advantage to [[rag]] alone.
+- **Researchers.** Run ablation conditions that separate retrieval, learner-state tracking and pedagogical [[prompt-engineering|prompting]] before attributing the rating advantage to [[rag]] alone.
 
 ## Limitations
-- No real learners participated, so the study cannot speak to learning gains, motivation, persistence, authentic adaptivity or long-term use.
+- No real learners participated, so the study cannot speak to [[learning-gains|learning gains]], motivation, persistence, authentic [[adaptive-learning|adaptivity]] or long-term use.
 - The integrated condition changed several components at once, so the separate causal value of retrieval, learner state or response policy is not identified.
 - The algebra corpus was built to match the 24 benchmark tasks, which limits external validity to less controlled learner questions and imperfect corpus-task alignment.
 - Eight reviewers is a small panel; response order was fixed, creating a realistic risk of partial unblinding, and reliability estimates were low because ratings clustered near the ceiling.

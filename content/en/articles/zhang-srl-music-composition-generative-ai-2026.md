@@ -1,6 +1,6 @@
 ---
 title: "Self-regulated learning processes in music composition supported by music-specific generative AI: a microanalytic multiple-case study"
-created: "2026-11-26T10:18:00-05:00"
+created: "2026-11-26T09:18:38-05:00"
 updated: "2026-11-26T10:18:00-05:00"
 type: article
 published: "2026"
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Zhang and Liu (2026) observed three Chinese undergraduate music majors composing for 45 minutes with music-specific [[generative-ai|generative AI]], using task-embedded [[self-regulated-learning|self-regulated learning]] microanalysis, video coding and next-day stimulated recall. The three students regulated in visibly different ways. One set a structural goal and criteria before generating, sequenced strategies and revised deliberately; one anchored evaluation in classroom rules and established stylistic procedure; one relied on broad thematic goals with repeated generation and selection and fewer targeted revisions. Deliberate monitoring occupied 76%, 69% and 19% of their net composing time respectively, with routine monitoring taking up most of the remainder. With three cases the study cannot estimate prevalence, and the authors say so; its value is the demonstration that [[metacognition|metacognitive]] processes are observable in real-time composition with AI, and that goal specificity is the most visible difference between the profiles.
+> **Synthesis:** Zhang and Liu (2026) observed three Chinese [[higher-ed|undergraduate]] music majors composing for 45 minutes with music-specific [[generative-ai|generative AI]], using task-embedded [[self-regulated-learning|self-regulated learning]] microanalysis, video coding and next-day stimulated recall. The three students regulated in visibly different ways. One set a structural goal and criteria before generating, sequenced strategies and revised deliberately; one anchored evaluation in classroom rules and established stylistic procedure; one relied on broad thematic goals with repeated generation and selection and fewer targeted revisions. Deliberate monitoring occupied 76%, 69% and 19% of their net composing time respectively, with routine monitoring taking up most of the remainder. With three cases the study cannot estimate prevalence, and the authors say so; its value is the demonstration that [[metacognition|metacognitive]] processes are observable in real-time composition with AI, and that goal specificity is the most visible difference between the profiles.
 
 ## Key Findings
 
@@ -46,19 +46,19 @@ The interesting methodological move is that the study does not infer self-regula
 
 ## Reading it as a design lesson
 
-For [[creativity|creative]] work with AI, the study's practical suggestion is that the goal statement is where a teacher has leverage. Students who specified structural criteria and a workflow before generating used the tool to execute a plan; the student who specified a mood and selected what came back used the tool to decide what the plan would be. That difference is teachable in a way that "regulate yourself" is not. The authors propose making quality criteria explicit, requiring a structural or procedural goal before generation, and requiring that generated material be evaluated and revised rather than simply selected. None of that is established as effective here — it is a design hypothesis drawn from three descriptive cases.
+For [[creativity|creative]] work with AI, the study's practical suggestion is that the goal statement is where a [[teacher-role|teacher]] has leverage. Students who specified structural criteria and a workflow before generating used the tool to execute a plan; the student who specified a mood and selected what came back used the tool to decide what the plan would be. That difference is teachable in a way that "regulate yourself" is not. The authors propose making quality criteria explicit, requiring a structural or procedural goal before generation, and requiring that generated material be evaluated and revised rather than simply selected. None of that is established as effective here — it is a design hypothesis drawn from three descriptive cases.
 
 ## What this means for practice
 
 - **Composition and music-technology instructors.** Require a written goal with structural or procedural criteria before students open the generator, and check it. The clearest difference between profiles in this study was goal specificity.
 - **Instructors.** Distinguish revision from selection in the brief. A student who regenerates until something sounds acceptable has not evaluated the material; a student who names what is wrong and changes it has.
 - **Curriculum designers.** Teach two legitimate monitoring styles — exploratory revision and rule-based validation — so students do not read the second as uncreative compliance.
-- **Researchers.** Use task-embedded microanalysis when the question is process rather than outcome; post-task self-report alone would not have separated these three profiles.
+- **Researchers.** Use task-embedded microanalysis when the question is process rather than outcome; post-task [[self-report-measures|self-report]] alone would not have separated these three profiles.
 
 ## Limitations
 
 - Three purposefully selected cases cannot support prevalence estimates or statistical generalization.
-- The achievement strata used for sampling may be associated with prior knowledge and must not be read as independent self-regulation levels.
+- The achievement strata used for sampling may be associated with [[prior-knowledge|prior knowledge]] and must not be read as independent self-regulation levels.
 - A single 45-minute recorded task may differ from students' usual composing and cannot capture reflection that unfolds over longer periods.
 - All sessions centered primarily on one tool in one course and one institution, limiting transfer to other music-AI systems and settings.
 - Blinding was not possible and the boundaries outside double-coded segments were recorded coarsely; targeted revision was also an indicator of deliberate monitoring, so the two are not independent measures.

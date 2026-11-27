@@ -44,7 +44,7 @@ Two checks extend the main results. Tripling the question corpus with GPT-4o-gen
 
 - **Model developers.** Build recommendation policies on semantic question and KC embeddings rather than ID lookups, and reuse a calibrated KT model to estimate critic values.
 - **Researchers.** Report improvements normalized against each task's maximum attainable gain, since equal raw gains look different when upper bounds differ (0.22 on XES3G5M versus 0.56 on Eedi).
-- **[[learning-analytics|Learning analytics]] designers.** Treat KC-level state estimation as a first-class output; querying the calibrated model by KC embedding lets a system show interpretable mastery trajectories rather than only next-item predictions.
+- **Learning analytics designers.** Treat KC-level state estimation as a first-class output; querying the calibrated model by KC embedding lets a system show interpretable mastery trajectories rather than only next-item predictions.
 
 ## Limitations
 

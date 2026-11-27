@@ -1,6 +1,6 @@
 ---
 title: "Effects of generative AI on self-regulated learning and the incremental contributions of instructional interventions: evidence from a meta-analysis"
-created: "2026-11-27T09:45:00-05:00"
+created: "2026-11-27T09:13:21-05:00"
 updated: "2026-11-27T09:45:00-05:00"
 published: "2026-11-26"
 type: article
@@ -41,7 +41,7 @@ verified: [citation, numbers]
 
 ## Two comparisons, not one
 
-The review's methodological contribution is the split. In the first framework, the control is learning without AI, and the authors distinguish studies where students used generative AI alone from studies where AI was combined with prompts and feedback, teacher guidance, progress monitoring, structured tasks or reflective questioning. That framework estimates the overall effect of each approach. In the second, both arms use generative AI and only the presence of instructional support differs, which estimates the added value of the support. Only two primary studies contributed to both frameworks, which is why the cross-study comparison of 0.508 and 0.788 cannot substitute for the within-study increment.
+The review's methodological contribution is the split. In the first framework, the control is learning without AI, and the authors distinguish studies where students used generative AI alone from studies where AI was combined with prompts and feedback, [[teacher-role|teacher]] guidance, progress monitoring, structured tasks or reflective questioning. That framework estimates the overall effect of each approach. In the second, both arms use generative AI and only the presence of instructional support differs, which estimates the added value of the support. Only two [[primary-education|primary]] studies contributed to both frameworks, which is why the cross-study comparison of 0.508 and 0.788 cannot substitute for the within-study increment.
 
 The first framework included 18 studies and 41 effect sizes, with 2,015 participants split between 1,061 in AI groups and 954 in no-AI controls. The second included 10 studies and 35 effect sizes. Publication-bias checks were not significant: Egger's test gave t(33) = 0.804, p = 0.427 for the first comparison and t(34) = 0.229, p = 0.821 for the second, and the funnel plots showed no apparent asymmetry in the first.
 

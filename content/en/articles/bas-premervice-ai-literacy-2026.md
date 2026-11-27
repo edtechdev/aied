@@ -29,14 +29,14 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Baş and colleagues surveyed 378 pre-service teachers at four Turkish state universities to ask whether [[ai-literacy|AI literacy]] and ecological footprint awareness move together, and which parts of AI literacy carry any relationship. Both constructs were reported at high overall levels, although awareness of food and transportation and housing impacts was only moderate. Overall AI literacy showed a moderate positive association with ecological awareness, but the pattern was uneven: ethical and evaluative competencies were strongly linked to awareness while technical tool use was not. The authors interpret the result through an ethical-reflective competency bridge and argue that teacher education should connect digital and sustainability preparation instead of treating them as separate domains. The design is cross-sectional and correlational, so the finding describes association rather than cause.
+> **Synthesis:** Baş and colleagues surveyed 378 pre-service teachers at four Turkish state [[higher-ed|universities]] to ask whether [[ai-literacy|AI literacy]] and ecological footprint awareness move together, and which parts of AI literacy carry any relationship. Both constructs were reported at high overall levels, although awareness of food and transportation and housing impacts was only moderate. Overall AI literacy showed a moderate positive association with ecological awareness, but the pattern was uneven: ethical and evaluative competencies were strongly linked to awareness while technical tool use was not. The authors interpret the result through an ethical-reflective competency bridge and argue that [[teacher-education|teacher education]] should connect digital and sustainability preparation instead of treating them as separate domains. The design is cross-sectional and correlational, so the finding describes association rather than cause.
 
 ## Key Findings
 
 1. **Both competencies were reported at high overall levels.** Pre-service teachers described themselves as highly AI-literate and highly aware of their ecological footprint.
 2. **Ecological awareness was uneven across domains.** Energy, water, and waste awareness sat in the high band, while food and transportation and housing sat in the moderate band.
 3. **Overall AI literacy and ecological awareness were moderately associated.** The relationship was positive and statistically reliable within the participating sample.
-4. **Ethics carried the strongest link.** The ethical dimension of AI literacy showed the clearest association with ecological awareness, with evaluation next.
+4. **[[ethics]] carried the strongest link.** The ethical dimension of AI literacy showed the clearest association with ecological awareness, with evaluation next.
 5. **Technical use was not significantly associated.** The dimension concerned with operating AI tools showed only a weak, non-significant relationship with overall ecological awareness.
 6. **The ethics pattern survived a conservative correction.** Every ethics-by-ecological-domain association remained significant under Bonferroni correction; none of the use associations did.
 7. **Gender differences were domain-specific.** Male participants reported higher technical AI confidence, while female participants reported higher awareness in food and transportation and housing.
@@ -60,9 +60,9 @@ Demographic contrasts showed a similar dissociation. Male participants scored hi
 ## What this means for practice
 
 - **Teacher educators.** Build courses that connect ethical reasoning about AI with environmental awareness, since the ethical and evaluative sub-dimensions carried the observed association rather than tool use.
-- **Instructors.** Make the environmental consequences of food systems and mobility more visible through project-based or inquiry-oriented activities, the two domains where this sample's awareness was only moderate.
-- **Curriculum designers.** Avoid treating digital competence and sustainability education as wholly separate curricular areas; the authors argue for connecting them within teacher preparation.
-- **Instructors.** Extend AI education beyond tool-oriented training to include critical, ethical, and societal implications, given that the Use sub-dimension was not significantly associated with ecological awareness.
+- **Instructors.** Make the environmental consequences of food systems and mobility more visible through [[project-based-learning|project-based]] or inquiry-oriented activities, the two domains where this sample's awareness was only moderate.
+- **Curriculum designers.** Avoid treating digital competence and [[environmental-education|sustainability education]] as wholly separate curricular areas; the authors argue for connecting them within teacher preparation.
+- **Instructors.** Extend [[ai-education|AI education]] beyond tool-oriented training to include critical, ethical, and societal implications, given that the Use sub-dimension was not significantly associated with ecological awareness.
 - **Researchers.** Combine self-report scales with performance-based assessments or behavioral indicators in future work, since the present measures capture perceived competence rather than demonstrated skill.
 
 ## Limitations

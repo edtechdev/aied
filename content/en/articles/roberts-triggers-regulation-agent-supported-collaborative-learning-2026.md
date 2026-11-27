@@ -32,9 +32,9 @@ connected_notebooks:
 
 ---
 
-> **Synthesis:** Roberts, Lämsä, Edwards and Järvelä (2026) ran a Wizard-of-Oz field study in which a metacognitive agent called MAI listened to 14 groups of preservice teachers and played prompts when its keyword rules fired. Across 11 h 31 min of video, MAI detected 58 triggers; task understanding and task enactment challenges dominated, and only 5.2% were purely socio-emotional. Groups responded to 55% of prompts, but a shared strategic change followed in only 9 of 58 cases. Cognitive-trigger prompts were judged timely by at least some group members 82% of the time, while prompts about a lack of shared perspective were judged relevant 52% of the time and provoked visible defensiveness.
+> **Synthesis:** Roberts, Lämsä, Edwards and Järvelä (2026) ran a Wizard-of-Oz field study in which a [[metacognition|metacognitive]] agent called MAI listened to 14 groups of [[teacher-education|preservice teachers]] and played prompts when its keyword rules fired. Across 11 h 31 min of video, MAI detected 58 triggers; task understanding and task enactment challenges dominated, and only 5.2% were purely socio-emotional. Groups responded to 55% of prompts, but a shared strategic change followed in only 9 of 58 cases. Cognitive-trigger prompts were judged timely by at least some group members 82% of the time, while prompts about a lack of shared perspective were judged relevant 52% of the time and provoked visible defensiveness.
 
-*Wizard-of-Oz study with 52 Finnish preservice teachers in 14 face-to-face groups during a single 60-min inquiry task on energy forms and conservation. MAI was simulated by researchers following a keyword decision tree; an OpenAI GPT-4 chatbot that avoided direct answers handled typed questions. Overall inter-rater kappa 0.79.*
+*Wizard-of-Oz study with 52 Finnish preservice teachers in 14 face-to-face groups during a single 60-min inquiry task on energy forms and conservation. MAI was simulated by researchers following a keyword decision tree; an OpenAI GPT-4 [[conversational-ai|chatbot]] that avoided direct answers handled typed questions. Overall inter-rater kappa 0.79.*
 
 ## Key Findings
 
@@ -44,7 +44,7 @@ connected_notebooks:
 - **Initiation differed by rule type.** Groups initiated regulation more often after cognitive and metacognitive prompts than after shared-perspective prompts; the association was statistically significant.
 - **Prompt relevancy tracked rule type.** 82% of cognitive-trigger prompts were accepted as timely by at least some members, against 52% for shared-perspective prompts. Overall 38% of prompts were accepted as relevant, 31% rejected, and 31% split within the group.
 - **Sharedness prompts made groups defensive.** When MAI said members were thinking as individuals, students treated it as an outsider criticizing the group rather than as a support; several exchanges show open irritation, and no regulatory response followed.
-- **The agent had false positives.** Six triggers were detected where the pronoun rule fired during genuine co-construction of knowledge, prompting about individualism in a group that was working jointly.
+- **The agent had false positives.** Six triggers were detected where the pronoun rule fired during genuine co-construction of knowledge, [[prompt-engineering|prompting]] about individualism in a group that was working jointly.
 - **Design intent was explicit.** The authors position MAI against tools that offload regulation: the agent is meant to prompt awareness of trigger events so the group monitors together, not to regulate on the group's behalf.
 
 ## How MAI worked
@@ -67,14 +67,14 @@ Prompts about lacking a shared perspective produced defensiveness rather than re
 
 ## What this means for practice
 
-- **Instructors.** Do not expect a prompt to convert into better group work by itself. Plan what happens after a prompt: a moment where the group must decide something together, not just acknowledge the message.
+- **Instructors.** Do not expect a prompt to convert into better [[group-work|group work]] by itself. Plan what happens after a prompt: a moment where the group must decide something together, not just acknowledge the message.
 - **Instructional designers.** Separate the two jobs agents can do. Tutoring on task content and mediating group process are different purposes; blending them in one message appears to raise resistance.
 - **Learning engineers.** Rules keyed on surface features (pronoun use, negative phrasing) will misfire during productive talk. Budget for false positives and prefer prompts that admit uncertainty about the group's state.
 - **Researchers.** Treat "prompt accepted" and "regulation adapted" as separate dependent measures. This study's gap between 55% initiation and 16% adaptation is the finding, not the headline number.
 
 ## Limitations
 
-- Small, single-site sample: 14 groups of preservice teachers from one university, one 60-minute session, which limits generalizability.
+- Small, single-site sample: 14 groups of preservice teachers from one [[higher-ed|university]], one 60-minute session, which limits generalizability.
 - Wizard-of-Oz delivery introduces variability between wizards in when rules fired and which prompt variant was chosen; a technically realized agent could enact each rule more systematically.
 - The rules could not distinguish authentic triggers from minor challenges rooted in hunger, tiredness, group dynamics, or classroom setup.
 - Prompt timing remains unsolved: initial prompts were accepted with novelty and later ones were rated less helpful, so the effect may decay with exposure.

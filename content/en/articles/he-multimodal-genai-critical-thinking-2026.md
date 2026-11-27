@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** He, Niu and Ashari compared three conditions in an inquiry-based academic writing course: multimodal GenAI, text-based GenAI and no GenAI. The study followed 165 first-year undergraduates over eight weeks, with a six-week intervention, and used ANCOVA to compare posttest outcomes while controlling for pretest scores. The multimodal group showed the largest gains in critical thinking (CT) dispositions and academic writing quality, the text-based group fell in between, and the no-GenAI control group showed the smallest gains. Subdimension analyses concentrated the multimodal advantage in openness and analytical thinking, and in evidence use and analytical depth. Because conditions were assigned to intact classes and there was only one posttest, the design supports conditional comparisons rather than a clean individual-level causal claim.
+> **Synthesis:** He, Niu and Ashari compared three conditions in an inquiry-based [[writing-education|academic writing]] course: [[multimodal]] [[generative-ai|GenAI]], text-based GenAI and no GenAI. The study followed 165 first-year [[higher-ed|undergraduates]] over eight weeks, with a six-week intervention, and used ANCOVA to compare posttest outcomes while controlling for pretest scores. The multimodal group showed the largest gains in critical thinking (CT) dispositions and academic writing quality, the text-based group fell in between, and the no-GenAI control group showed the smallest gains. Subdimension analyses concentrated the multimodal advantage in openness and [[critical-thinking|analytical thinking]], and in evidence use and analytical depth. Because conditions were assigned to intact classes and there was only one posttest, the design supports conditional comparisons rather than a clean individual-level causal claim.
 
 ## Key Findings
 1. **Three conditions received the same instruction.** Multimodal Qwen3-VL, text-only Qwen3 and no GenAI differed only in tool availability and modality, with the Qwen models sharing prompts and support functions.
@@ -46,7 +46,7 @@ Three full classes were assigned to the three conditions, all taught by the same
 
 CT dispositions were measured with a shortened Chinese CT Disposition Inventory retaining five dimensions from the original seven: openness, analytical thinking, systematic thinking, confidence in CT and cognitive maturity. Truth-seeking and curiosity were excluded in earlier adaptation work. The revised 15-item instrument used a six-point scale; pilot work with 60 undergraduates produced a content validity index of 0.87, a KMO value of 0.72 and significant Bartlett's test (χ² = 212.48, p < .001). Five factors above eigenvalue 1.0 accounted for 68.4% of variance, with loadings from 0.56 to 0.79. Overall Cronbach's alpha was 0.81 and subscale alphas ranged from 0.70 to 0.79.
 
-Writing quality was scored with a four-dimension rubric — argument structure, evidence use, analytical depth, and coherence and integration — each rated from 1 to 5 for a maximum of 20 points. Raters calibrated on 10 essays; overall intraclass correlation was 0.85, with dimension-level values from 0.78 to 0.89. Baseline checks found no significant group differences on pretest scores, age, gender or prior GenAI experience. Usage logs for the two GenAI groups recorded sessions, minutes and prompts, and independent-samples t-tests found no significant differences: 18.40 versus 19.13 sessions, 412.55 versus 425.18 minutes, and 119.82 versus 124.36 prompts.
+Writing quality was scored with a four-dimension [[rubrics|rubric]] — argument structure, evidence use, analytical depth, and coherence and integration — each rated from 1 to 5 for a maximum of 20 points. Raters calibrated on 10 essays; overall intraclass correlation was 0.85, with dimension-level values from 0.78 to 0.89. Baseline checks found no significant group differences on pretest scores, age, gender or prior GenAI experience. Usage logs for the two GenAI groups recorded sessions, minutes and prompts, and independent-samples t-tests found no significant differences: 18.40 versus 19.13 sessions, 412.55 versus 425.18 minutes, and 119.82 versus 124.36 prompts.
 
 ## Results by outcome
 
@@ -58,14 +58,14 @@ For writing quality, the condition effect was F(2, 161) = 41.12, p < .001, parti
 - **Instructors.** When the goal is deeper evidence use, configure GenAI to present competing viewpoints visually, diagram argument structure and make comparisons of evidence explicit.
 - **Instructors.** For narrower goals such as argument structure and coherence, recognize that text-based feedback may be sufficient, as the two GenAI groups performed similarly on those dimensions.
 - **Institutions.** Replicate the comparison with multiple classes per condition so class effects can be separated from tool effects before rolling out a specific platform.
-- **Researchers.** Add process measures such as think-aloud protocols, eye-tracking or interaction logs to test whether visual channels actually drive the observed gains.
+- **Researchers.** Add process measures such as think-aloud protocols, [[sensor-and-gaze-analytics|eye-tracking]] or interaction logs to test whether visual channels actually drive the observed gains.
 
 ## Limitations
 - Conditions were assigned to intact classes, with one class per condition, so pre-existing peer dynamics or instructor rapport could not be modeled and individual randomization was absent.
 - The six-week intervention may have been too short to shift slower-moving dispositional dimensions, and there was no follow-up after the single posttest.
-- CT dispositions were self-reported and open to social-desirability bias; behavioral indicators of critical engagement were not collected.
+- CT dispositions were [[self-report-measures|self-reported]] and open to social-desirability bias; behavioral indicators of critical engagement were not collected.
 - The CTML explanation is inferential because no process-level measure of verbal and visual channel use was taken.
-- The setting, student population and specific Qwen tool limit generalization; multimodal outputs also carry higher information density, which was not measured.
+- The setting, [[learners|student population]] and specific Qwen tool limit generalization; multimodal outputs also carry higher information density, which was not measured.
 
 ## Citation
 He Y, Niu T and Ashari ZM (2026) Exploring the impact of multimodal generative artificial intelligence on CT dispositions in inquiry-based academic writing: a quasi-experimental analysis in higher education. Front. Educ. 11:1926173. doi: 10.3389/feduc.2026.1926173.

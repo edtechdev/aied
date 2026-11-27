@@ -30,9 +30,9 @@ verified: [citation, numbers]
 
 ---
 
-> **Synthesis:** Cassano, Ebbert, Mirriahi and Di Blas (2026) built a pipeline that turns video transcripts into multiple-choice questions, embedding an established item-writing checklist directly in the generation prompt rather than applying it only afterwards. Seven instructors at one Italian university judged 257 questions derived from 45 MOOC videos they had themselves recorded. Most items met quality guidelines: 84.05% were clear, 86.38% had plausible distractors and 93.39% were answerable directly from the video. The recurring defects were unfocused stems, questions about peripheral examples rather than core content, and overgeneralized wording. In interviews the instructors reported time savings of up to 80% and said they would use the items after light refinement.
+> **Synthesis:** Cassano, Ebbert, Mirriahi and Di Blas (2026) built a pipeline that turns video transcripts into multiple-choice questions, embedding an established item-writing checklist directly in the generation prompt rather than applying it only afterwards. Seven instructors at one Italian [[higher-ed|university]] judged 257 questions derived from 45 [[online-teaching-and-learning|MOOC]] videos they had themselves recorded. Most items met quality guidelines: 84.05% were clear, 86.38% had plausible distractors and 93.39% were answerable directly from the video. The recurring defects were unfocused stems, questions about peripheral examples rather than core content, and overgeneralized wording. In interviews the instructors reported time savings of up to 80% and said they would use the items after light refinement.
 
-*Mixed-methods expert-judgment study with seven faculty members at Politecnico di Milano and 257 generated MCQs from 45 MOOC videos averaging 7.01 minutes. Each item was rated by its own authoring instructor on three expert-judgment IWF criteria plus four content criteria; twelve formal criteria were checked by the authors. GPT-4o performed concept extraction and item generation.*
+*[[mixed-methods-research|Mixed-methods]] expert-judgment study with seven faculty members at Politecnico di Milano and 257 generated MCQs from 45 MOOC videos averaging 7.01 minutes. Each item was rated by its own authoring instructor on three expert-judgment IWF criteria plus four content criteria; twelve formal criteria were checked by the authors. GPT-4o performed concept extraction and item generation.*
 
 ## Key Findings
 
@@ -55,7 +55,7 @@ Four of the sixteen formal checklist criteria are proactively prevented during g
 
 The wrong answers are the most informative result. In one worked example, a transcript contrasted descriptive and educational approaches with problematic ones, and the extracted concept flattened that into three equivalent categories. The generated item then asked which two approaches were discussed, and the intended grouping was lost. Every one of the fifteen outright errors originated upstream, in concept extraction or rewriting, not in the question itself.
 
-Two patterns recurred in what instructors rejected. Examples presented as illustration were treated as core content, so questions became technically accurate but misaligned. And nuance was compressed into false definitiveness: a qualified explanation could come back as a stem asking for THE primary characteristic, which narrows the original claim in a way the source never did.
+Two patterns recurred in what instructors rejected. Examples presented as illustration were treated as core content, so questions became technically accurate but misaligned. And nuance was compressed into false definitiveness: a qualified explanation could come back as a stem asking for THE [[primary-education|primary]] characteristic, which narrows the original claim in a way the source never did.
 
 The authors draw a useful line from this. Items targeting declarative, explicitly stated knowledge came out cleanly as single-best-answer questions. Items meant to assess contextual, procedural or inferential knowledge produced ambiguity and overlapping options far more often.
 

@@ -1,6 +1,6 @@
 ---
 title: "Generative AI for programme and module design: the need for human in the loop"
-created: "2026-11-27T09:45:00-05:00"
+created: "2026-11-27T09:13:21-05:00"
 updated: "2026-11-27T09:45:00-05:00"
 published: "2026-11-25"
 type: article
@@ -34,7 +34,7 @@ verified: [citation, numbers]
 ## Key Findings
 1. **GenAI was strongest at ideation and drafting.** In both cases it generated options, broadened content coverage and helped staff reflect on program and module structure.
 2. **It was weakest at pedagogically precise artifacts.** Final learning outcomes, assessment specifications and constructive alignment needed academic revision in both cases.
-3. **Standards mapping produced candidates, not conclusions.** Copilot suggested links to QAA benchmark statements, apprenticeship standards and CyBOK, but every suggested link required verification for accuracy and curriculum fit.
+3. **Standards mapping produced candidates, not conclusions.** Copilot suggested links to QAA benchmark statements, [[sociocultural-learning|apprenticeship]] standards and CyBOK, but every suggested link required verification for accuracy and curriculum fit.
 4. **Human editing was needed for tone and consistency.** Copilot's student-facing summaries used repeated promotional [[metaphors-and-analogies|metaphors]] such as "embark on a journey" and "dive into," which became unsuitable when read across 11 module descriptions.
 5. **The Keele time estimate was task-specific.** Preparing an 80-word module summary was estimated at about 60 minutes without GenAI and about 15 minutes with Copilot; across 11 summaries that is 660 minutes versus 165 minutes, a reported saving of 495 minutes (8.25 hours).
 6. **The estimate was retrospective and partial.** It concerned one author's working time, included his review and adaptation, and excluded colleagues' review, disciplinary consultation, standards verification and institutional approval.

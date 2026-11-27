@@ -1,6 +1,6 @@
 ---
 title: "Academic writing self-efficacy and AI dependency among university students: academic anxiety as a mediator and teacher emotional support as a moderator"
-created: "2026-11-26T09:41:00-05:00"
+created: "2026-11-26T09:18:38-05:00"
 updated: "2026-11-26T09:41:00-05:00"
 type: article
 published: "2026"
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Cao and Park (2026) surveyed 1,012 Chinese university students to ask why some writers come to depend on [[generative-ai|generative AI]] for [[writing-education|academic writing]] and others do not. Lower academic-writing [[self-efficacy|self-efficacy]] was associated with greater AI dependency both directly and through higher academic [[anxiety-and-stress|anxiety]], and teacher emotional support moderated that chain in an unexpected direction: its association with anxiety was negative at lower self-efficacy but positive at higher self-efficacy, and the negative indirect path from self-efficacy to dependency through anxiety was weaker where support was high. The authors read this as a compensatory role for emotional support among struggling writers, not as a general protective factor. The study is cross-sectional and fully [[self-report-measures|self-report]], so the mediation is a decomposition of concurrent associations rather than a causal chain — but it names a mechanism that [[cognitive-offloading|over-reliance]] research usually leaves implicit, and it suggests that support and independence can pull in opposite directions.
+> **Synthesis:** Cao and Park (2026) surveyed 1,012 Chinese [[higher-ed|university]] students to ask why some writers come to depend on [[generative-ai|generative AI]] for [[writing-education|academic writing]] and others do not. Lower academic-writing [[self-efficacy|self-efficacy]] was associated with greater AI dependency both directly and through higher academic [[anxiety-and-stress|anxiety]], and teacher emotional support moderated that chain in an unexpected direction: its association with anxiety was negative at lower self-efficacy but positive at higher self-efficacy, and the negative indirect path from self-efficacy to dependency through anxiety was weaker where support was high. The authors read this as a compensatory role for emotional support among struggling writers, not as a general protective factor. The study is cross-sectional and fully [[self-report-measures|self-report]], so the mediation is a decomposition of concurrent associations rather than a causal chain — but it names a mechanism that [[cognitive-offloading|over-reliance]] research usually leaves implicit, and it suggests that support and independence can pull in opposite directions.
 
 ## Key Findings
 
@@ -58,8 +58,8 @@ The moderation is the part worth arguing about. A protective story would predict
 
 - The design is cross-sectional, so temporal ordering and causal inference are unavailable; the authors describe the effects as a statistical decomposition of associations.
 - All four constructs are self-report from a single questionnaire, and common-method bias cannot be entirely ruled out despite CFA-based checks.
-- Sampling was purposive and convenience-based across four regions of China, restricted to students who had used AI for academic writing within six months, so dependency levels do not describe the wider student population.
-- The scales were adapted across tools, populations and contexts: the dependency scale's referent moved from ChatGPT to generative AI, the support scale was written for middle school students, and anxiety was situated in writing through instructions alone.
+- Sampling was purposive and convenience-based across four regions of China, restricted to students who had used AI for academic writing within six months, so dependency levels do not describe the wider [[learners|student population]].
+- The scales were adapted across tools, populations and contexts: the dependency scale's referent moved from ChatGPT to generative AI, the support scale was written for [[secondary-education|middle school]] students, and anxiety was situated in writing through instructions alone.
 - Measurement invariance across demographic subgroups and across languages was not tested.
 
 ## Citation

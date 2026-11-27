@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Surdilovic and colleagues tested whether undergraduate dental students revise an independent diagnosis when external advice conflicts with it. Eighty students completed 16 pediatric and preventive dentistry cases, each with an initial answer, a recommendation labeled as coming from AI or faculty, and a final answer. The recommendation text was identical across label conditions; only the displayed attribution changed. Accuracy rose after advice, but nearly one-third of initially correct answers became wrong after inaccurate advice, while most initially wrong answers became right after accurate advice. Rates were similar under AI and faculty labels, with estimates too imprecise to establish equivalence. The authors tie the pattern to [[automation-bias|automation bias]] and argue that students should verify a recommendation's clinical basis before deferring to it.
+> **Synthesis:** Surdilovic and colleagues tested whether [[higher-ed|undergraduate]] dental students revise an independent diagnosis when external advice conflicts with it. Eighty students completed 16 pediatric and preventive dentistry cases, each with an initial answer, a recommendation labeled as coming from AI or faculty, and a final answer. The recommendation text was identical across label conditions; only the displayed attribution changed. Accuracy rose after advice, but nearly one-third of initially correct answers became wrong after inaccurate advice, while most initially wrong answers became right after accurate advice. Rates were similar under AI and faculty labels, with estimates too imprecise to establish equivalence. The authors tie the pattern to [[automation-bias|automation bias]] and argue that students should verify a recommendation's clinical basis before deferring to it.
 
 ## Key Findings
 1. **External advice cut both ways.** Correct recommendations often repaired an initial error, while incorrect recommendations sometimes displaced an initially correct decision.
@@ -46,7 +46,7 @@ The study ran at Gulf Medical University in Ajman between October 2023 and June 
 
 Each student worked through 16 standardized vignettes: four each on caries risk and preventive decisions, pulp therapy and deep caries, dental trauma, and behavior guidance. Three faculty experts rated clinical plausibility and defensibility on a 1–4 scale; cases were locked only when the mean rating was at least 3.50/4.00 and no expert flagged a serious clinical error. All 16 cases met that threshold.
 
-Recommendation drafts were generated with generative AI and then reviewed and edited by the investigators. For any given case and accuracy condition, the final wording was identical in the two label conditions; only the displayed designation as "AI recommendation" or "Faculty recommendation" changed. Students gave an initial answer and a confidence rating on a 1–5 scale, read the recommendation, then gave a final answer and confidence rating. They were not told during the task that some advice was deliberately inaccurate; debriefing disclosed the assigned labels and the intentional errors. Analysis used logistic regression with standard errors clustered by both participant and case, plus case-fixed-effects sensitivity models.
+Recommendation drafts were generated with [[generative-ai|generative AI]] and then reviewed and edited by the investigators. For any given case and accuracy condition, the final wording was identical in the two label conditions; only the displayed designation as "AI recommendation" or "Faculty recommendation" changed. Students gave an initial answer and a confidence rating on a 1–5 scale, read the recommendation, then gave a final answer and confidence rating. They were not told during the task that some advice was deliberately inaccurate; debriefing disclosed the assigned labels and the intentional errors. Analysis used logistic regression with standard errors clustered by both participant and case, plus case-fixed-effects sensitivity models.
 
 ## What the trials showed
 
@@ -60,7 +60,7 @@ Mean confidence rose from 3.75 (SD 0.90) to 4.00 (SD 0.89), with a mean change o
 
 ## What this means for practice
 - **Instructors.** Teach a routine of independent decision, stated confidence, stated evidence, and explicit justification for accepting, modifying or rejecting an external recommendation.
-- **Instructors.** Extend AI literacy beyond prompting and privacy to repeated practice checking both AI-labeled and faculty-labeled advice against clinical findings and guidelines.
+- **Instructors.** Extend [[ai-literacy|AI literacy]] beyond [[prompt-engineering|prompting]] and privacy to repeated practice checking both AI-labeled and faculty-labeled advice against clinical findings and guidelines.
 - **Instructors.** Ask students to explain why a recommendation should be challenged rather than confirming only whether the final answer is correct.
 - **Researchers.** Test whether structured verification prompts reduce harmful deference without sacrificing beneficial correction, using larger samples and more than one institution.
 

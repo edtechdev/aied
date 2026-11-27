@@ -29,24 +29,24 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Bourachalou and colleagues ran a quasi-experiment with 50 intermediate female English-as-a-foreign-language learners at one institute in Iran. One intact class received 16 sessions of ChatGPT-informed vocabulary instruction over eight weeks; the other received traditional focus-on-forms vocabulary teaching. Both groups took pretests and posttests of willingness to communicate, foreign language classroom anxiety, autonomy and [[self-regulated-learning|self-regulated learning]]. The groups were equivalent at pretest, and posttest results favored the ChatGPT-informed class on all four measures, with very large reported effect sizes. The treatment also included collaborative tasks, reflection, self-assessment and personalized plans, so the authors state that the results cannot be attributed to ChatGPT alone. They also caution that the anxiety scale captures debilitating rather than facilitative anxiety.
+> **Synthesis:** Bourachalou and colleagues ran a quasi-experiment with 50 intermediate female English-as-a-foreign-language learners at one institute in Iran. One intact class received 16 sessions of [[generative-ai|ChatGPT]]-informed vocabulary instruction over eight weeks; the other received traditional focus-on-forms vocabulary teaching. Both groups took pretests and posttests of willingness to communicate, foreign language classroom [[anxiety-and-stress|anxiety]], autonomy and [[self-regulated-learning|self-regulated learning]]. The groups were equivalent at pretest, and posttest results favored the ChatGPT-informed class on all four measures, with very large reported effect sizes. The treatment also included collaborative tasks, reflection, [[self-assessment]] and personalized plans, so the authors state that the results cannot be attributed to ChatGPT alone. They also caution that the anxiety scale captures debilitating rather than facilitative anxiety.
 
 ## Key Findings
 1. **Two intact classes were compared.** One class received ChatGPT-informed vocabulary teaching and the other conventional vocabulary teaching; individuals were not randomly assigned to condition.
-2. **The treatment was a package.** AI interaction sat alongside digital flashcards, role plays, thematic projects, personalized plans, group reflection and self-assessment.
+2. **The treatment was a package.** [[student-ai-interaction|AI interaction]] sat alongside digital flashcards, role plays, thematic projects, personalized plans, group reflection and self-assessment.
 3. **The groups started alike.** Pretest comparisons on all four learner factors showed no significant differences.
 4. **Posttests favored the treatment group.** The ChatGPT-informed class scored higher on willingness to communicate, autonomy and self-regulated learning and lower on classroom anxiety.
 5. **Reported effects were very large.** Both the multivariate result and each univariate comparison were accompanied by large partial eta-squared values.
-6. **The AI contribution cannot be isolated.** Because the treatment bundled several pedagogical components, the differences cannot be assigned specifically to ChatGPT.
+6. **The AI contribution cannot be isolated.** Because the treatment bundled several [[pedagogy|pedagogical]] components, the differences cannot be assigned specifically to ChatGPT.
 7. **The sample was narrow.** All participants were intermediate-level female learners aged 17 to 22 at a single private institute.
 
 ## What the intervention involved
 
 Fifty learners in two intact classes of 25 were recruited by convenience sampling at a language institute in Urmia. They were aged 17 to 22, native speakers of Azeri (31), Kurdish (12) or Persian (7), and had attended general English courses at the institute for two years. The Oxford Placement Test was used to confirm intermediate-level proficiency; in a pilot with 20 similar learners its reliability was α = 0.89.
 
-Four self-report instruments served as pretests and posttests. The willingness to communicate questionnaire had 54 items on a five-point scale (α = 0.85); the foreign language classroom anxiety scale had 33 items on a five-point scale (α = 0.81); the autonomy questionnaire had 11 five-point items (α = 0.84); and the self-regulated language learning scale had 20 four-point items (α = 0.87).
+Four self-report instruments served as pretests and posttests. The willingness to communicate questionnaire had 54 items on a five-point scale (α = 0.85); the foreign language classroom anxiety scale had 33 items on a five-point scale (α = 0.81); the autonomy questionnaire had 11 five-point items (α = 0.84); and the self-regulated [[language-learning|language learning]] scale had 20 four-point items (α = 0.87).
 
-One class was assigned to the experimental group and the other to the control group. The experimental group used the free version of ChatGPT 4.5 on personal smartphones over the institute's Wi-Fi during 16 sessions across eight weeks, two sessions per week. Prompt formulation was taught in the first two sessions, and no external AI tools were permitted. Each session comprised 15 minutes of guided ChatGPT interaction, 20 minutes of collaborative task work, and 10 minutes of reflection and self-assessment. Activities targeted vocabulary strategy development, contextualized vocabulary, thematic exploration and personalized learning plans. The control group received the same words with definitions and completed sentence-completion activities.
+One class was assigned to the experimental group and the other to the control group. The experimental group used the free version of ChatGPT 4.5 on personal smartphones over the institute's Wi-Fi during 16 sessions across eight weeks, two sessions per week. Prompt formulation was taught in the first two sessions, and no external AI tools were permitted. Each session comprised 15 minutes of guided ChatGPT interaction, 20 minutes of collaborative task work, and 10 minutes of reflection and self-assessment. Activities targeted vocabulary strategy development, contextualized vocabulary, thematic exploration and [[personalized-learning|personalized learning]] plans. The control group received the same words with definitions and completed sentence-completion activities.
 
 ## What the comparisons showed
 
@@ -59,16 +59,16 @@ A one-way MANOVA on the four posttest scores gave Wilks' Λ = 0.037, F = 289.57,
 The authors read lower anxiety as a reduction in debilitating classroom anxiety, not the removal of all arousal. They also warn that the unusually large anxiety change may reflect novelty, high expectations and short-term mood sensitivity, and that psychological mechanisms remain theoretical rather than directly measured.
 
 ## What this means for practice
-- **Instructors.** Use AI-supported practice as a low-stakes space for learners to reformulate output, request changes and try language without fear of peer or teacher judgment.
+- **Instructors.** Use AI-supported practice as a low-stakes space for learners to reformulate output, request changes and try language without fear of peer or [[teacher-role|teacher]] judgment.
 - **Instructors.** Pair tool use with planning, reflection and self-assessment forms so that learners set goals and evaluate their own progress rather than only consuming generated text.
-- **Institutions.** Include an educational technology module in teacher education and offer educators practical training on integrating tools such as ChatGPT into language courses.
-- **Researchers.** Use designs that separate AI interaction from the collaborative and reflective components, and add measures of reliance to distinguish learning gains from delegated work.
+- **Institutions.** Include an educational technology module in [[teacher-education|teacher education]] and offer educators practical training on integrating tools such as ChatGPT into language courses.
+- **Researchers.** Use designs that separate AI interaction from the collaborative and reflective components, and add measures of reliance to distinguish [[learning-gains|learning gains]] from delegated work.
 
 ## Limitations
 - Convenience sampling at one institute, with only intermediate-level female learners aged 17 to 22, limits generalizability; age and language background effects were not determined.
 - Classes were intact rather than individuals randomized, so group differences may reflect class-level factors.
 - The experimental package combined ChatGPT with collaborative tasks, reflection, self-assessment and personalized plans; the specific contribution of the AI tool cannot be determined.
-- Outcomes were self-report questionnaires administered immediately after the eight-week intervention; no delayed posttest was reported.
+- Outcomes were self-report [[self-report-measures|questionnaires]] administered immediately after the eight-week intervention; no delayed posttest was reported.
 - The authors identify a risk that learners outsourced cognitive work to AI, which could inflate apparent anxiety or self-regulation gains, and they call for measures of reliance and critical engagement.
 - The note under the published posttest table contains an unfinished instruction asking the authors to replace the control group values with their actual data, which leaves the provenance of those printed values unclear.
 

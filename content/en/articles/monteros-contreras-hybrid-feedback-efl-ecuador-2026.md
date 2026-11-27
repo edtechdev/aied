@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Monteros Campues and Contreras-Falcones (2026) ran a six-week quasi-experiment with 41 A2 English-as-a-foreign-language students at a technical institute in Quito, comparing teacher-only feedback with feedback that combined a teacher and the free version of ChatGPT. Both groups improved on an 18-item grammar test, and the teacher-only group's descriptive gain was larger, but the between-group difference was small and not statistically significant, both before and after controlling for pretest scores. Not one of six grammatical categories differed significantly after correction. The confidence intervals were wide enough to include advantages for either condition, so this is not evidence that the two kinds of feedback are equivalent. Because both groups also received teacher mediation through the textbook, class notes and teacher clarification, the design cannot isolate what ChatGPT contributed.
+> **Synthesis:** Monteros Campues and Contreras-Falcones (2026) ran a six-week quasi-experiment with 41 A2 English-as-a-foreign-language students at a technical institute in Quito, comparing [[teacher-role|teacher]]-only feedback with feedback that combined a teacher and the free version of [[generative-ai|ChatGPT]]. Both groups improved on an 18-item grammar test, and the teacher-only group's descriptive gain was larger, but the between-group difference was small and not statistically significant, both before and after controlling for pretest scores. Not one of six grammatical categories differed significantly after correction. The confidence intervals were wide enough to include advantages for either condition, so this is not evidence that the two kinds of feedback are equivalent. Because both groups also received teacher mediation through the textbook, class notes and teacher clarification, the design cannot isolate what ChatGPT contributed.
 
 ## Key Findings
 
@@ -57,7 +57,7 @@ Those intervals are the finding. They include a meaningful benefit for hybrid fe
 - **Instructors.** A generative tool added to a feedback workflow is not automatically an improvement; ask what the tool does that the existing teacher-and-textbook loop does not, and check that question against your own students' revisions.
 - **Program leads.** Treat this as a reason to run a small local comparison rather than to cancel or adopt a tool. The design that produced this null — two intact classes, one test repeated, one rater — is cheap to reproduce and easy to improve.
 - **Assessment designers.** Separate the quality of the feedback a student receives from what the student learns across repeated revisions; this study measured the latter and found both groups improving.
-- **Researchers.** Fix and record the model version if AI feedback is the treatment. A study whose treatment is "whatever the free tier served" cannot tell a replication team what to run.
+- **Researchers.** Fix and record the model version if [[ai-feedback-quality|AI feedback]] is the treatment. A study whose treatment is "whatever the free tier served" cannot tell a replication team what to run.
 - **Faculty developers.** When a hybrid result is reported as a win, check whether the comparison condition also had teacher mediation, because that is the difference between testing a tool and testing a package.
 
 ## Limitations

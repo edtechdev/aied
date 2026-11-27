@@ -71,7 +71,7 @@ For [[cs-education]] the question is practical. Competitive programming is a hig
 - Screening is not random assignment to AI use. Roster linkage depends on qualification, and the filter chain drops 56% of ICPC participants for low activity, which could itself remove substitute-users.
 - Roster-linked users leave the activity filter more often than non-rostered users (43.3% versus 33.5%), so the screened-arm null may partly reflect attrition.
 - The rating-gain result is sensitive: a confounder explaining 2.4% of residual variance would eliminate it, although baseline rating explains 15.7%.
-- The setting is competitive programming, an unusual population of highly motivated self-directed learners, which limits generalization to classroom [[cs-education]].
+- The setting is competitive programming, an unusual population of highly motivated [[self-directed-learning|self-directed]] learners, which limits generalization to classroom [[cs-education]].
 
 ## Citation
 

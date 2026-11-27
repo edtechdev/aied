@@ -22,7 +22,7 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 ## Key Findings
 
 - Achieves AUC of 89.1%, accuracy of 85.3%, and F1-score of 84.7%, outperforming traditional psychometric baselines (IRT: 68.5% AUC, DINA: 72.3%), neural cognitive diagnosis models (NCDM: 85.6%, DKVMN: 87.2%), and general AutoML baselines (AutoKeras: 88.7%, TPOT: 87.9%).
-- The advantage over AutoKeras (AUC +0.4 pp, p = 0.032) comes with fewer parameters (642k vs 678k) and lower inference latency (3.9 ms vs 4.5 ms), reflecting an accuracy–efficiency balance rather than predictive gains alone.
+- The advantage over AutoKeras (a 0.4 percentage-point AUC advantage reported as statistically significant) comes with fewer parameters (642k vs 678k) and lower inference latency (3.9 ms vs 4.5 ms), reflecting an accuracy–efficiency balance rather than predictive gains alone.
 - An education-constrained search space contributes meaningfully: the same algorithm under a neutral (unconstrained) space reaches 87.8% AUC, versus 89.1% with the constrained space, indicating gains come from both the search algorithm and domain-aligned architecture design.
 - Ablation shows the HIN representation matters most: removing it drops knowledge mastery rate and learning efficiency by five to six percentage points; behavioral-sequence processing contributes ~30% and bottleneck feedforward modules ~25% of the total performance gain, with meta-path attention alone accounting for ~45%.
 - Human validation: educational psychologists agreed with model diagnoses at Cohen's kappa 0.78 (vs 0.65 for IRT), and course instructors rated usefulness, interpretability, and actionability at 4.21, 4.18, and 4.06 on a five-point scale.
@@ -32,7 +32,7 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 ## What this means for practice
 
 - **Assessment designers.** Use AutoML-driven architecture search to lower the threshold for building [[cognitive-diagnosis|cognitive diagnosis]] models, gaining an AUC of 0.891 over 0.878 for the same algorithm in a neutral search space.
-- **[[learning-analytics|Learning analytics]] designers.** Fuse behavioral, cognitive, and contextual sources into a heterogeneous information network before diagnosis; removing that representation dropped knowledge mastery rate and learning efficiency by five to six percentage points.
+- **Learning analytics designers.** Fuse behavioral, cognitive, and contextual sources into a heterogeneous information network before diagnosis; removing that representation dropped knowledge mastery rate and learning efficiency by five to six percentage points.
 - **Instructors.** Act on diagnostic output by selecting students for targeted review and adjusting review-session focus, the use instructors rated most valuable (actionability 4.06 of 5).
 - **Researchers.** Validate diagnoses against expert agreement (Cohen's kappa 0.78 versus 0.65 for IRT) before treating model accuracy as evidence of [[pedagogy|pedagogical]] value.
 

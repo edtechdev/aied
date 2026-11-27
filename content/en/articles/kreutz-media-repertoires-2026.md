@@ -43,7 +43,7 @@ verified: [citation, links]
 
 ## Why individual competence is the wrong center of gravity
 
-The paper's target is the framing that dominates current work: [[ai-literacy|AI literacy]], competencies, [[academic-integrity|academic integrity]], efficiency and governance, each studied as an encounter between an autonomous learner and a tool. Kreutz accepts that competencies matter, then argues that an exclusive focus on them makes the social and institutional shaping of practice invisible. The same application behaves differently at home, among peers, under a teacher's guidance, or inside an institutional platform, and the empirical literature the paper reviews reports heterogeneous use patterns that task-level studies cannot explain. Hence the shift from whether a technology helps or harms learning to how practices, sources and people are arranged around it.
+The paper's target is the framing that dominates current work: [[ai-literacy|AI literacy]], competencies, [[academic-integrity|academic integrity]], efficiency and governance, each studied as an encounter between an autonomous learner and a tool. Kreutz accepts that competencies matter, then argues that an exclusive focus on them makes the social and institutional shaping of practice invisible. The same application behaves differently at home, among peers, under a [[teacher-role|teacher]]'s guidance, or inside an institutional platform, and the empirical literature the paper reviews reports heterogeneous use patterns that task-level studies cannot explain. Hence the shift from whether a technology helps or harms learning to how practices, sources and people are arranged around it.
 
 ## What the framework asks a study to observe
 

@@ -25,7 +25,7 @@ institutions: [regulation]
 
 - **Instructors.** Flag students whose average delay crosses 5 minutes for early encouragement: the early-starter sub-group (20% of students, under 5 minutes average delay) showed greater growth in Math (β=.11 SD) and ELA (β=.15 SD).
 - **Instructors.** Use sustained delay as a check-in trigger rather than a sanction: chronic delayers (20% of students, more than 13 minutes average delay) showed the opposite trend (Math β=-.13 SD, ELA β=-.11 SD), and delayed starts overall predicted lower standardized performance in Math (β=.07 SD, p=.02) and English (β=.10 SD, p<.001).
-- **[[learning-analytics|Learning analytics]] designers.** Build the detector as a content-independent, session-level signal instead of a per-course model — delayed starts recorded during math practice predicted English outcomes, so one measure transfers across subjects without per-course retraining.
+- **Learning analytics designers.** Build the detector as a content-independent, session-level signal instead of a per-course model — delayed starts recorded during math practice predicted English outcomes, so one measure transfers across subjects without per-course retraining.
 - **Learning analytics designers.** Route delays into [[formative-assessment|formative assessment]] workflows early: the detector identified 841 classwork sessions across 26 classes, an average of 32.3 sessions per class, so the signal arrives long before any cumulative outcome is available.
 - **Researchers.** Re-derive cut-points on your own platform before reusing them: the best-fitting two-cluster solution (BIC = 4076.1) placed the boundary at 9.0 minutes of average delay, and the authors expect such [[benchmark|benchmarks]] to shift in a school with 60-minute sessions.
 

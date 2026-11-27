@@ -28,12 +28,12 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Xia and colleagues (2026) follow 952 Chinese university students across three annual waves to work out which comes first among [[trust|trust in AI]], functional dependence on [[generative-ai]], and [[motivation|curiosity]]. Functional dependence here means relying on the tool for the functions that support study — explanations, drafting, checking — not a clinical measure of addiction. Two reciprocal loops emerged. Trust and dependence predicted each other at each interval, so trust built dependence and dependence built trust. Curiosity and dependence alternated: curiosity predicted later dependence, and dependence in turn predicted later curiosity, with a small but reliable indirect path running between them. The authors read that second loop as cognitive-resource release: offloading routine search work frees capacity for exploration. They also note that the mechanism was inferred from self-report patterns rather than measured, which is the right reading of it.
+> **Synthesis:** Xia and colleagues (2026) follow 952 Chinese [[higher-ed|university]] students across three annual waves to work out which comes first among [[trust|trust in AI]], functional dependence on [[generative-ai]], and [[motivation|curiosity]]. Functional dependence here means relying on the tool for the functions that support study — explanations, drafting, checking — not a clinical measure of addiction. Two reciprocal loops emerged. Trust and dependence predicted each other at each interval, so trust built dependence and dependence built trust. Curiosity and dependence alternated: curiosity predicted later dependence, and dependence in turn predicted later curiosity, with a small but reliable indirect path running between them. The authors read that second loop as cognitive-resource release: offloading routine search work frees capacity for exploration. They also note that the mechanism was inferred from self-report patterns rather than measured, which is the right reading of it.
 
 ## Key Findings
 - **Trust and functional dependence reinforced each other.** Trust predicted later dependence at both intervals, and dependence predicted later trust at both, in a stable reciprocal pattern.
 - **Curiosity and dependence alternated rather than reinforced.** Earlier curiosity predicted later dependence, and that dependence predicted later curiosity, forming a two-step cycle rather than a direct loop.
-- **Dependence carried the longitudinal link between trust and curiosity.** The indirect path from trust through dependence to curiosity was small but reliably positive, and so was the reverse path from curiosity through dependence to trust.
+- **Dependence carried the [[longitudinal-research|longitudinal]] link between trust and curiosity.** The indirect path from trust through dependence to curiosity was small but reliably positive, and so was the reverse path from curiosity through dependence to trust.
 - **Only one total effect reached significance.** Trust at the first wave predicted curiosity at the third; the reverse total effect did not.
 - **Within-wave associations weakened over time.** Trust and dependence correlated at the first and second waves, but by the third wave none of the residual correlations among the three variables was significant.
 - **Demographics were unrelated.** Neither gender nor age was associated with any of the three constructs at any wave, so neither entered the model as a covariate.
@@ -65,7 +65,7 @@ The practical asymmetry is that trust accrues from use, while accuracy does not 
 
 ## Limitations
 
-- All three constructs are self-reported, and functional dependence was measured as reported reliance rather than observed task behavior; cognitive offloading and resource allocation were not measured at all, so the resource-release explanation is theoretical.
+- All three constructs are [[self-report-measures|self-reported]], and functional dependence was measured as reported reliance rather than observed task behavior; cognitive offloading and resource allocation were not measured at all, so the resource-release explanation is theoretical.
 - Wave intervals were one year, which cannot capture shorter-term fluctuation in use or trust.
 - The study examined GenAI use in general learning contexts rather than specific tasks, so whether the pattern holds for writing, speaking or reading is unknown.
 - The cross-lagged panel model estimates prospective associations under assumptions of stationarity and does not establish causal direction.

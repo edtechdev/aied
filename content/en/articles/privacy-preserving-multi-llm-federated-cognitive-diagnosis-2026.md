@@ -33,7 +33,7 @@ The paper connects the [[cognitive-diagnosis|cognitive diagnosis]] [[research-me
 
 ## What this means for practice
 
-- **[[learning-analytics|Learning analytics]] designers.** Aggregate at the prediction level rather than centralizing response records: the framework keeps student data local and shares only model predictions to LLaMA-3.3-70B, GPT-4o-mini, and Claude-3-Haiku.
+- **Learning analytics designers.** Aggregate at the prediction level rather than centralizing response records: the framework keeps student data local and shares only model predictions to LLaMA-3.3-70B, GPT-4o-mini, and Claude-3-Haiku.
 - **Learning analytics designers.** Price the privacy budget before ruling it out as impractical: ε = 2.0 local differential privacy cost roughly 0.40% MAE on ASSIST09 while the improvements stayed statistically significant (p < 0.001, Cohen's d = 0.85).
 - **Researchers.** Keep residual-based correction when federating heterogeneous LLMs — ablations show aggregation is the primary performance driver and residual correction is essential, with gains varying by domain (14.21% on ASSIST09, 7.39% on GSM8K, 14.40% on UCI).
 - **Administrators.** Recognize what local differential privacy does not cover: it shields published diagnostic vectors from re-identification, but not provider logging of submitted queries, so end-to-end privacy requires locally hosted [[open-source|open source]] models and prompt data minimization.

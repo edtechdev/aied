@@ -1,6 +1,6 @@
 ---
 title: "Validating log data indicators of acquiring information in critical online reasoning using eye-tracking data"
-created: "2026-11-27T09:45:00-05:00"
+created: "2026-11-27T09:13:21-05:00"
 updated: "2026-11-27T09:45:00-05:00"
 published: "2026-11-24"
 type: article
@@ -55,7 +55,7 @@ The unreflected-consumption result is a lesson about settings. In the broader sa
 
 - **Assessment designers.** Do not treat a log indicator as self-validating. Pair it with a process measure or a task design that can distinguish the interpretations you care about.
 - **Learning analytics designers.** Keep time and scrolling as separate features. They correlate with different aspects of attention and should not be collapsed into one "engagement" score.
-- **Researchers.** Pre-specify the eye-tracking metric and the level of analysis. A mismatch between the log indicator's scope and the gaze metric's scope can produce a null result that says more about the design than about the construct.
+- **Researchers.** Pre-specify the eye-tracking metric and the [[learning-environments-as-systems|level of analysis]]. A mismatch between the log indicator's scope and the gaze metric's scope can produce a null result that says more about the design than about the construct.
 - **Instructors.** If you use process data to judge online reasoning, remember that observation changes behavior; a lab-clean indicator may not transfer to everyday settings.
 
 ## Limitations

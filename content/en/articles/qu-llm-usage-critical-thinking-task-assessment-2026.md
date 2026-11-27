@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Qu and Chen (2026) separate two ways college students use [[llm|large language models]] — explanatory use, where the model is a scaffold for understanding, and generative use, where it supplies the work product — and ask how each relates to [[critical-thinking]] through the value and cost students assign to their academic tasks. Surveying 517 [[higher-ed|college]] students across five tiers of Chinese higher education, they find a clear split. Explanatory use was strongly associated with higher task value and, through it, with higher critical thinking; generative use raised perceived cost sharply and had no detectable total association with critical thinking, because a small positive route through task value and a negative route through task cost canceled each other out. The finding that cuts against the [[cognitive-offloading|offloading]] intuition is the direction of the cost effect: handing work to a model did not reduce the burden students felt, it moved the burden to prompting, checking and reconciling output.
+> **Synthesis:** Qu and Chen (2026) separate two ways college students use [[llm|large language models]] — explanatory use, where the model is a scaffold for understanding, and generative use, where it supplies the work product — and ask how each relates to [[critical-thinking]] through the value and cost students assign to their academic tasks. Surveying 517 [[higher-ed|college]] students across five tiers of Chinese higher education, they find a clear split. Explanatory use was strongly associated with higher task value and, through it, with higher critical thinking; generative use raised perceived cost sharply and had no detectable total association with critical thinking, because a small positive route through task value and a negative route through task cost canceled each other out. The finding that cuts against the [[cognitive-offloading|offloading]] intuition is the direction of the cost effect: handing work to a model did not reduce the burden students felt, it moved the burden to [[prompt-engineering|prompting]], checking and reconciling output.
 
 ## Key Findings
 - **Explanatory use was associated with critical thinking, directly and through task value.** Task value carried more than half of the total association, which was substantial in a cross-sectional model.
@@ -52,7 +52,7 @@ That is a useful corrective for practice, because it predicts where students wil
 
 ## What a cross-sectional design can and cannot show
 
-All measures are self-reported and collected at one point in time, so the mediation is a description of covariation fitted to a theory rather than a demonstrated causal sequence. The authors state this directly: only longitudinal data can establish whether explanatory use precedes task value, which precedes critical thinking. Reverse ordering is equally compatible with these estimates, and a student who already reasons well may choose explanatory use.
+All measures are self-reported and collected at one point in time, so the mediation is a description of covariation fitted to a theory rather than a demonstrated causal sequence. The authors state this directly: only [[longitudinal-research|longitudinal]] data can establish whether explanatory use precedes task value, which precedes critical thinking. Reverse ordering is equally compatible with these estimates, and a student who already reasons well may choose explanatory use.
 
 Two measurement problems are also reported rather than buried. The measurement model's incremental fit indices fell below conventional thresholds, and latent correlations among explanatory use, task value and critical thinking exceeded 1.00, which indicates limited discriminant validity among the three constructs. Removing three reverse-worded items with negative loadings left the central findings unchanged, and the authors retained the full scales on that basis. A reader should treat the three constructs as overlapping in this sample rather than cleanly separable.
 
@@ -60,12 +60,12 @@ Two measurement problems are also reported rather than buried. The measurement m
 
 - **Instructors.** Design tasks that require explanation-seeking rather than output production. The usage pattern associated with critical thinking was asking for reasoning, follow-ups and comparisons, not asking for the answer.
 - **Assessment designers.** Expect verification cost and grade for it. If checking AI output is unassessed, students facing a deadline are being asked to absorb the cost privately.
-- **Administrators.** Write AI policy around usage patterns rather than tool permission. A blanket allowance and a blanket ban both miss the distinction the data turn on.
+- **Administrators.** Write [[educational-policy-ai|AI policy]] around usage patterns rather than tool permission. A blanket allowance and a blanket ban both miss the distinction the data turn on.
 - **Researchers.** Measure usage patterns separately. Treating AI use as one frequency variable will average an association with critical thinking against a null one.
 
 ## Limitations
 
-- Cross-sectional self-report data from 517 students at Chinese universities; no causal ordering is established and all five constructs are measured by questionnaire.
+- Cross-sectional [[self-report-measures|self-report data]] from 517 students at Chinese universities; no causal ordering is established and all five constructs are measured by questionnaire.
 - Latent correlations among explanatory use, task value and critical thinking exceeded 1.00, and incremental fit indices (CFI 0.828, TLI 0.815) fell below conventional thresholds, indicating limited discriminant validity.
 - The sample is entirely Chinese, and the authors note that cultural norms around authority and technology attitudes may shape the patterns.
 - Discipline was not analyzed, and task difficulty, grading weight and AI-permission rules vary widely within and across disciplines.

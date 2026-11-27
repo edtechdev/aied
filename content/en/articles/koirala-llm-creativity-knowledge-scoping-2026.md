@@ -31,16 +31,16 @@ verified: [citation, quotes]
 
 ---
 
-> **Synthesis:** Koirala and colleagues (2026) scoped 99 studies on [[llm|large language models]] in [[creativity|creativity]] and knowledge generation within medical and healthcare research and education. The literature is dominated by reviews, surveys and conceptual papers rather than experiments, and its central finding is disciplinary as much as technical: LLM-specific evidence has to be separated from general AI attitudes, self-reported innovativeness and non-LLM technologies before any claim about creativity can be made. The review's own verdict is that LLMs function as cognitive augmentation tools rather than independent creators.
+> **Synthesis:** Koirala and colleagues (2026) scoped 99 studies on [[llm|large language models]] in [[creativity|creativity]] and knowledge generation within medical and healthcare research and education. The literature is dominated by reviews, surveys and conceptual papers rather than experiments, and its central finding is disciplinary as much as technical: LLM-specific evidence has to be separated from general AI attitudes, [[self-report-measures|self-reported]] innovativeness and non-LLM technologies before any claim about creativity can be made. The review's own verdict is that LLMs function as cognitive augmentation tools rather than independent creators.
 
-*PRISMA-ScR scoping review of PubMed, Google Scholar and Dimensions, searched 7 May 2025. No critical appraisal and no pooled effect; the protocol was registered on the Open Science Framework.*
+*PRISMA-ScR [[meta-analysis-systematic-review|scoping review]] of PubMed, Google Scholar and Dimensions, searched 7 May 2025. No critical appraisal and no pooled effect; the protocol was registered on the Open Science Framework.*
 
 ## Key Findings
 
 - **The field is mostly not experimental.** Of the 99 included records, 38 were reviews, 20 surveys, 18 conceptual papers, 16 experimental studies and 7 theoretical papers, so 63 of 99 are reviews or position pieces.
-- **Five themes account for the literature.** Scientific creativity and research support (39), creativity in education (23), pedagogical and technological innovation (23), ethical and epistemological challenges (12), and human–AI collaboration (2).
+- **Five themes account for the literature.** Scientific creativity and research support (39), creativity in education (23), [[pedagogy|pedagogical]] and technological innovation (23), ethical and epistemological challenges (12), and human–AI collaboration (2).
 - **A count is not a strength.** Theme frequencies describe publication volume, not methodological quality, because the review performed no risk-of-bias appraisal.
-- **Four constructs are routinely conflated.** General AI readiness, self-reported innovativeness, assisted writing quality and raw model performance are all distinct from a measured effect of LLM use on learner creativity.
+- **Four constructs are routinely conflated.** General AI readiness, self-reported innovativeness, assisted [[writing-education|writing quality]] and raw model performance are all distinct from a measured effect of LLM use on learner creativity.
 - **Ideation, evaluation and validation are separate steps.** A model may propose a candidate hypothesis; novelty still has to be judged against prior work, usefulness against the research problem and validity through testing.
 - **Individual gain can trade against collective diversity.** In the one empirical example discussed, LLM-supplied ideas raised evaluators' ratings of individual outputs, especially for lower-baseline participants, while outputs grew more similar across participants.
 - **Human–AI collaboration is the thinnest category.** Two studies, read descriptively; they establish neither superiority nor scalability.
@@ -56,17 +56,17 @@ Eligibility required a medical or healthcare application, so general education a
 
 **Scientific creativity and research support (n = 39)** is the largest and covers ideation, literature synthesis, manuscript drafting and structuring arguments. The review repeatedly separates producing a candidate idea from validating it, and warns that faster workflows and alternative perspectives are descriptions, not measured improvements in novelty or scientific validity.
 
-**Creativity in education (n = 23)** concerns learner-level creative thinking in health professions education. Its clearest internal distinction is between what an AI system can produce and what learners can subsequently do unaided. The nursing entries the authors single out measure associations between constructs, such as AI competence self-efficacy, attitudes and innovation mindset, which do not evaluate the effect of using an LLM.
+**Creativity in education (n = 23)** concerns learner-level creative thinking in [[medical-education|health professions education]]. Its clearest internal distinction is between what an AI system can produce and what learners can subsequently do unaided. The nursing entries the authors single out measure associations between constructs, such as AI competence [[self-efficacy]], attitudes and innovation mindset, which do not evaluate the effect of using an LLM.
 
-**Ethical, legal and epistemological challenges (n = 12)** collects plagiarism and integrity, authorship attribution, training-data bias, transparency, explainability and intellectual property. Discussion of a risk is not evidence of its prevalence, and the authors distinguish epistemic safeguards, such as source verification and hypothesis testing, from governance safeguards, such as disclosure and assigned human responsibility.
+**Ethical, legal and epistemological challenges (n = 12)** collects [[academic-integrity|plagiarism]] and integrity, authorship attribution, training-data bias, transparency, [[explainable-ai|explainability]] and intellectual property. Discussion of a risk is not evidence of its prevalence, and the authors distinguish epistemic safeguards, such as source verification and hypothesis testing, from governance safeguards, such as disclosure and assigned human responsibility.
 
 **Human–AI collaboration (n = 2)** is retained as an emerging category describing iterative workflows in which people and systems generate, select, check and revise. It includes proposals for interconnected "AI scientists" under human supervision, which the review reads as rationale for study rather than established benefit.
 
-**Pedagogical and technological innovation (n = 23)** covers instructional systems: pedagogical agents, augmented and virtual reality environments, simulation platforms and AI-driven instructional design. The authors note that a simulation or VR component does not by itself demonstrate an LLM contribution, and that this theme must be read separately from learner-level outcomes.
+**Pedagogical and technological innovation (n = 23)** covers instructional systems: pedagogical agents, augmented and [[virtual-and-augmented-reality|virtual reality]] environments, simulation platforms and AI-driven [[learning-design|instructional design]]. The authors note that a simulation or VR component does not by itself demonstrate an LLM contribution, and that this theme must be read separately from learner-level outcomes.
 
 ## Why the conflation matters
 
-The review's most transferable point is methodological. Four things that look like evidence of enhanced creativity are not the same thing: whether students feel ready to use AI, whether they rate themselves as innovative, whether their assisted writing reads well, and whether a model performs well on assessment items. [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al.]] compared ChatGPT and GPT-4 against student performance on science assessment tasks, which addresses model capability rather than any causal effect on learners.
+The review's most transferable point is methodological. Four things that look like evidence of enhanced creativity are not the same thing: whether students feel ready to use AI, whether they rate themselves as innovative, whether their assisted writing reads well, and whether a model performs well on assessment items. [[zhai-science-literacy-generative-ai-coherence-2026|Zhai et al.]] compared [[generative-ai|ChatGPT]] and GPT-4 against student performance on science assessment tasks, which addresses model capability rather than any causal effect on learners.
 
 The Doshi and Hauser study supplies the tension in miniature: access to LLM-generated ideas improved evaluators' ratings of individual short stories, particularly for participants with lower baseline creativity, while the outputs became more similar across participants. Individual performance rose and collective diversity fell, which is a design consideration rather than a verdict.
 
@@ -77,7 +77,7 @@ Measurement heterogeneity compounds the problem. Rater judgments of novelty, com
 - **Medical educators.** Treat readiness surveys and self-reported innovativeness as background, not outcome measures. If you want to know whether an LLM helps learners think, measure independent performance after the tool is withdrawn, plus delayed retention and transfer to an unfamiliar problem.
 - **Instructional designers.** Build evaluation around the assisted-versus-independent gap. Assisted task performance is the easy measurement and the least informative one.
 - **Faculty developers.** Teach the ideation-evaluation-validation split explicitly. A fluent candidate hypothesis is the start of the work, not the result.
-- **Researchers.** Report model version, prompt design, learner experience and access to reference material, and pre-register the task, population, comparator and outcome.
+- **Researchers.** Report model version, [[prompt-engineering|prompt design]], [[student-experience|learner experience]] and access to reference material, and pre-register the task, population, comparator and outcome.
 - **Curriculum designers.** Keep general education findings as context. Benefits observed elsewhere are not transferable to medical training without local evaluation.
 
 ## Limitations

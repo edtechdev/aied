@@ -1,6 +1,6 @@
 ---
 title: "Roles of AI-supported mathematics learning interest and mathematical creativity in mathematics achievement: a moderated mediation model"
-created: "2026-11-26T10:11:00-05:00"
+created: "2026-11-26T09:18:38-05:00"
 updated: "2026-11-26T10:11:00-05:00"
 type: article
 published: "2026"
@@ -58,7 +58,7 @@ An indirect-only pattern is easy to over-read. Because the design is cross-secti
 
 - The sample is 355 Grade 11 students from eight classes in four schools in one city, and school and class clustering was not adjusted, which may affect confidence intervals.
 - No demographic or prior-achievement covariates were included, leaving possible confounding of the motivation–achievement associations.
-- AI engagement and AI literacy were not measured, so the findings cannot separate associations specific to AI-supported learning from pre-existing mathematics motivation or competence.
+- AI engagement and [[ai-literacy|AI literacy]] were not measured, so the findings cannot separate associations specific to AI-supported learning from pre-existing mathematics motivation or competence.
 - Enjoyment and self-efficacy were only empirically separable (HTMT = 0.852), and two items showed unresolved local dependence.
 - The creativity tasks' suitability and the comparability of sample-relative originality scores require further validation, and the sensitivity analysis indicated limited power for weaker indirect associations.
 

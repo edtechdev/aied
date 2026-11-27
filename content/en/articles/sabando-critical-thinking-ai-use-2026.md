@@ -1,6 +1,6 @@
 ---
 title: "Critical thinking as a predictor of task functionality and artificial intelligence use among university students. A PLSSEM approach"
-created: "2026-11-27T01:37:00-05:00"
+created: "2026-11-27T01:33:12-05:00"
 updated: "2026-11-27T01:37:00-05:00"
 type: article
 published: "2026-08-24"
@@ -34,15 +34,15 @@ verified: [citation, numbers]
 ## Key Findings
 1. **Four critical-thinking dimensions were modeled separately.** Reflection and evaluation, active evidence seeking, epistemic awareness and independent thinking were entered as distinct antecedents rather than as one higher-order construct.
 2. **Only epistemic awareness predicted task functionality.** Students who reported stronger awareness of how knowledge is constructed also rated academic tasks as more meaningful, organized and applicable.
-3. **Task functionality was the dominant predictor of AI use.** Perceived usefulness and structure of tasks showed the strongest supported association with how often students reported using AI tools.
+3. **Task functionality was the dominant predictor of AI use.** [[technology-acceptance-model|Perceived usefulness]] and structure of tasks showed the strongest supported association with how often students reported using AI tools.
 4. **The other three dimensions were not supported.** Critical reflection, evidence seeking and independent thinking did not show stable direct links to task functionality in the final analysis.
 5. **No critical-thinking dimension directly predicted use frequency.** Their paths to AI use failed the bootstrap criterion, so the paper rejects the idea that cognitive disposition alone drives frequent use.
-6. **ChatGPT dominated tool preference.** Most students named it as their preferred academic AI tool, and comparisons across tool groups were treated as descriptive because several groups were very small.
+6. **[[generative-ai|ChatGPT]] dominated tool preference.** Most students named it as their preferred academic AI tool, and comparisons across tool groups were treated as descriptive because several groups were very small.
 7. **The null results are substantive.** The authors read them as evidence that critical skills need instructional conditions that activate them, rather than as proof that the skills are irrelevant.
 
 ## Design and measurement
 
-The study used a quantitative, non-experimental, cross-sectional and explanatory-predictive design at the Pontifical Catholic University of Ecuador, Santo Domingo Campus. Participants were 401 students chosen through intentional and voluntary non-probability sampling. The sample was 267 female (66.6%) and 134 male (33.4%), with 179 aged 18 to 19 (44.6%), 188 aged 20 to 25 (46.9%) and 34 older than 25 (8.5%). Mean academic performance was 42.45 (SD = 4.29) on the institutional scale.
+The study used a [[quantitative-research|quantitative]], non-experimental, cross-sectional and explanatory-predictive design at the Pontifical Catholic [[higher-ed|University]] of Ecuador, Santo Domingo Campus. Participants were 401 students chosen through intentional and voluntary non-probability sampling. The sample was 267 female (66.6%) and 134 male (33.4%), with 179 aged 18 to 19 (44.6%), 188 aged 20 to 25 (46.9%) and 34 older than 25 (8.5%). Mean [[learning-gains|academic performance]] was 42.45 (SD = 4.29) on the institutional scale.
 
 A structured questionnaire administered through Google Forms used a five-point Likert scale from strongly disagree to strongly agree. It covered the four critical-thinking dimensions, task functionality and frequency of AI use. Preferred tools were ChatGPT for 271 students (67.6%), Gemini for 70 (17.5%) and Copilot for 23 (5.7%); Claude, Siri, DeepSeek, Grok, Fireflies and Midjourney had 8 (2.0%), 9 (2.2%), 10 (2.5%), 6 (1.5%), 3 (0.7%) and 1 (0.2%) respectively. The authors caution that these tiny groups make tool comparisons exploratory.
 
@@ -63,7 +63,7 @@ The paper contains a tension in how these paths are reported. An earlier table o
 ## Limitations
 - The design is cross-sectional and non-experimental, so no causal conclusion is available and all paths remain predictive associations.
 - Intentional and voluntary non-probability sampling limits representativeness and generalization beyond the analyzed institutional context.
-- All constructs came from self-report questionnaires, leaving responses open to perception, expectation and social-desirability effects.
+- All constructs came from self-report [[self-report-measures|questionnaires]], leaving responses open to perception, expectation and social-desirability effects.
 - Several critical-thinking dimensions are conceptually close, with high reliability coefficients and near-threshold discriminant statistics, which suggests item redundancy and instrument refinement needs.
 - Very small subsamples for several AI tools make between-tool comparisons descriptive only, and the paper draws no strong inferential conclusions from them.
 - The measurement and structural model has not been replicated in an independent sample.

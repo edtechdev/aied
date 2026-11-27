@@ -1,6 +1,6 @@
 ---
 title: "Distance learning using artificial intelligence: insights from educational analytics and student interaction data"
-created: "2026-11-27T01:41:00-05:00"
+created: "2026-11-27T01:33:12-05:00"
 updated: "2026-11-27T01:41:00-05:00"
 type: article
 published: "2026-07-08"
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Rakhmetov and colleagues analyzed interaction logs from 721 university students on an AI-supported distance learning platform to identify learner profiles and engagement patterns. Combining [[learning-analytics|learning analytics]], network analysis, k-means clustering and analysis of variance, they derived an immersion index for how resources attract and retain attention. Five profiles emerged: Observers, who made up 77.53% of the sample, plus Evaluators, Universal learners, Commentators and Content Creators. Learner profile, resource type and their interaction all had significant effects on engagement dynamics, with the interaction showing the largest effect size. Universal learners had the most interconnected networks, while Observers showed broad but low-density patterns. The authors argue that content-oriented and observational participation is genuine engagement, not mere passivity, and that course design should support different participation roles.
+> **Synthesis:** Rakhmetov and colleagues analyzed interaction logs from 721 [[higher-ed|university]] students on an AI-supported distance learning platform to identify learner profiles and engagement patterns. Combining [[learning-analytics|learning analytics]], [[network-analysis|network analysis]], k-means clustering and analysis of variance, they derived an immersion index for how resources attract and retain attention. Five profiles emerged: Observers, who made up 77.53% of the sample, plus Evaluators, Universal learners, Commentators and Content Creators. Learner profile, resource type and their interaction all had significant effects on engagement dynamics, with the interaction showing the largest effect size. Universal learners had the most interconnected networks, while Observers showed broad but low-density patterns. The authors argue that content-oriented and observational participation is genuine engagement, not mere passivity, and that [[learning-design|course design]] should support different participation roles.
 
 ## Key Findings
 
@@ -43,7 +43,7 @@ verified: [citation, numbers]
 
 ## What the study measured and how
 
-The course was delivered in a modular distance format with five thematic blocks aimed at professional and digital competencies. Each module combined educational texts, videos and presentations, practice-oriented assignments, interactive elements such as forums and comments, and automated feedback and recommendation tools. The platform recorded clickstream data on logins, resource views, task submissions, comments, reactions and transitions between materials. Its AI-supported components supplied resource recommendations, progress notifications and prompts based on activity history; the authors state these supported rather than replaced the teacher. Data were collected across several consecutive course runs, with full analytics capture at the final stage. After removing test and incorrect entries, 721 students remained in the analysis.
+The course was delivered in a modular distance format with five thematic blocks aimed at professional and digital competencies. Each module combined educational texts, videos and presentations, practice-oriented assignments, interactive elements such as forums and comments, and [[ai-feedback-quality|automated feedback]] and recommendation tools. The platform recorded clickstream data on logins, resource views, task submissions, comments, reactions and transitions between materials. Its AI-supported components supplied resource recommendations, progress notifications and prompts based on activity history; the authors state these supported rather than replaced the [[teacher-role|teacher]]. Data were collected across several consecutive course runs, with full analytics capture at the final stage. After removing test and incorrect entries, 721 students remained in the analysis.
 
 Interactions shorter than one second were excluded as noise. Learning sessions were formed using a 30-minute inactivity threshold, which corresponded to the 98th percentile of intervals between actions in the sample. A directed network was built with educational resources as nodes and successive transitions as edges; repeated transitions between the same pair were aggregated as edge weights. Structural indicators included number of nodes, number of edges, average degree and network density. The immersion index combined normalized activity accumulation before a resource with normalized retention or redistribution after it, averaging the two on a 0-to-1 scale; higher values indicate stronger attention attraction and retention.
 
@@ -55,7 +55,7 @@ Of the 721 students, 559 were Observers (77.53%), leaving 162 students (22.47%) 
 
 In the two-factor analysis, learner type had F = 24.905, p < 0.001 and partial η² = 0.024; resource type had F = 22.262, p < 0.001 and partial η² = 0.047; and the interaction of the two had F = 7.046, p < 0.001 and partial η² = 0.059. The authors describe these as small-to-moderate effects, with the combined influence of profile and resource explaining more than either factor alone. A one-factor analysis also found significant differences in immersion levels between groups for key resource types (p < 0.05).
 
-The network analysis found the most saturated structure for Universal learners, reflecting intensive and varied resource use. The Observer network was high in dimension but low in density, indicating scattered attention without stable links between resources. Evaluators showed the greatest involvement with educational materials and the problem-solving center, Commentators high immersion in navigation and survey resources, Content Creators peak immersion on cases and blogs, and Universal learners the greatest involvement in shared interaction spaces. Information-oriented resources such as review materials and announcements drew attention early and helped students orient themselves, while blogs, cases and educational materials retained attention longer.
+The network analysis found the most saturated structure for Universal learners, reflecting intensive and varied resource use. The Observer network was high in dimension but low in density, indicating scattered attention without stable links between resources. Evaluators showed the greatest involvement with educational materials and the [[problem-solving]] center, Commentators high immersion in navigation and survey resources, Content Creators peak immersion on cases and blogs, and Universal learners the greatest involvement in shared interaction spaces. Information-oriented resources such as review materials and announcements drew attention early and helped students orient themselves, while blogs, cases and educational materials retained attention longer.
 
 The authors read these patterns as evidence against one-size-fits-all course designs that equate engagement with visible social activity. They propose adaptive course design, personalized recommendations and differentiated instructional support keyed to the interaction profile, with intelligent navigation and cognitive-load reduction for Observers and discussion support tools for Commentators.
 
@@ -64,16 +64,16 @@ The authors read these patterns as evidence against one-size-fits-all course des
 - **Instructors.** Do not equate low social posting with disengagement: viewing and navigation were the dominant content-oriented strategy among Observers, who made up 77.53% of the sample.
 - **Instructors.** Match support to role by offering navigation help and recommendations to Observers, discussion tools to Commentators, and cases and blogs to Content Creators.
 - **Instructional designers.** Combine orientation resources that attract early attention with interpretive resources such as cases and blogs that retained it longer.
-- **Learning analytics designers.** Build dashboards on content-mediated and system-supported interactions as well as social traces; social activity alone misses most participation strategies here.
+- **Learning analytics designers.** Build [[visualization|dashboards]] on content-mediated and system-supported interactions as well as social traces; social activity alone misses most participation strategies here.
 - **Researchers.** Treat the five profiles as descriptive of this platform and course, and validate them across other settings before using them for personalized pathways.
 
 ## Limitations
 
-- The analysis used data from one educational platform and one course, which the authors say limits generalizability.
+- The analysis used data from one [[edtech-platform|educational platform]] and one course, which the authors say limits generalizability.
 - Incomplete demographic information restricted the analysis of gender and background characteristics; gender was available only for a subset of participants.
-- Platform logs captured behavioral actions rather than motivational, cognitive or emotional aspects of learning.
+- Platform logs captured behavioral actions rather than [[motivation|motivational]], cognitive or emotional aspects of learning.
 - The cluster solution was derived from a single sample and is interpretive; the authors call for a broader empirical base across courses and platforms.
-- The study recommends combining logs with surveys, interviews, self-reports and academic achievement indicators before treating profiles as stable learner types.
+- The study recommends combining logs with surveys, interviews, self-reports and [[learning-gains|academic achievement]] indicators before treating profiles as stable learner types.
 
 ## Citation
 

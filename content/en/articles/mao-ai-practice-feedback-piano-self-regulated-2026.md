@@ -29,11 +29,11 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Mao (2026) follows 385 applied piano undergraduates across a semester to ask whether [[feedback|AI practice feedback]] strengthens [[self-regulated-learning]] or quietly moves the monitoring from the learner to the software. The design is unusually well suited to the question: three waves eight weeks apart, a decomposition that separates stable differences between students from change within a student, and an external criterion — the end-of-semester performance examination — so the claim does not rest on self-report alone. Both routes exist and they run in opposite directions. Feedback use predicted later self-regulated learning, and self-regulated learning predicted later feedback use, in a reciprocal pattern that appeared between students but not within them. At the same time, feedback use predicted [[cognitive-offloading|metacognitive offloading]], which predicted lower self-regulation, producing a small negative indirect path that competes with the positive direct one. Achievement tracked the net: self-regulation predicted exam scores while feedback use alone did not.
+> **Synthesis:** Mao (2026) follows 385 applied piano [[higher-ed|undergraduates]] across a semester to ask whether [[feedback|AI practice feedback]] strengthens [[self-regulated-learning]] or quietly moves the monitoring from the learner to the software. The design is unusually well suited to the question: three waves eight weeks apart, a decomposition that separates stable differences between students from change within a student, and an external criterion — the end-of-semester performance examination — so the claim does not rest on self-report alone. Both routes exist and they run in opposite directions. Feedback use predicted later self-regulated learning, and self-regulated learning predicted later feedback use, in a reciprocal pattern that appeared between students but not within them. At the same time, feedback use predicted [[cognitive-offloading|metacognitive offloading]], which predicted lower self-regulation, producing a small negative indirect path that competes with the positive direct one. Achievement tracked the net: self-regulation predicted exam scores while feedback use alone did not.
 
 ## Key Findings
 - **Feedback use and self-regulation reinforced each other between students.** Each predicted the other across eight-week intervals, with similar standardized coefficients in both directions.
-- **The same feedback use also predicted offloading.** The path from feedback use to metacognitive offloading was positive and comparable in size to the self-regulation path.
+- **The same feedback use also predicted offloading.** The path from feedback use to [[metacognition|metacognitive]] offloading was positive and comparable in size to the self-regulation path.
 - **Offloading predicted lower subsequent self-regulation.** That negative path produced a small but reliable negative indirect effect of feedback use on self-regulation.
 - **Most of the action was between students, not within them.** The within-person path from feedback use to self-regulation was essentially zero, while the between-person path was clear.
 - **Self-regulation predicted examination performance; feedback use did not.** The standardized association with the end-of-semester exam was positive for self-regulation and negative for offloading, with no direct path from feedback use.
@@ -53,7 +53,7 @@ The within-between decomposition is what keeps the result honest. Between studen
 
 ## Why the examination criterion matters
 
-The performance examination is the study's strongest evidence because it is independent of the questionnaires. Self-regulation predicted exam scores at β = 0.311 and offloading predicted lower scores at −0.116, while feedback use had no direct association (0.040). That pattern is consistent with the within-person nulls: what shows up in achievement is the learner's regulation, not the quantity of automated feedback they consumed.
+The performance examination is the study's strongest evidence because it is independent of the [[self-report-measures|questionnaires]]. Self-regulation predicted exam scores at β = 0.311 and offloading predicted lower scores at −0.116, while feedback use had no direct association (0.040). That pattern is consistent with the within-person nulls: what shows up in achievement is the learner's regulation, not the quantity of [[ai-feedback-quality|automated feedback]] they consumed.
 
 The year-of-study difference points the same way. For first- and second-year students the feedback-to-self-regulation path was 0.058 and non-significant; for third- and fourth-years it was 0.345. One reading is that advanced students have enough internal standard to use an automated error report as an input to their own monitoring; a less experienced player may simply follow the flag. The study cannot distinguish that from a cohort difference, but it locates the group where the tool helps.
 
@@ -62,7 +62,7 @@ The year-of-study difference points the same way. For first- and second-year stu
 - **Instructors.** Ask what the learner does with the automated report. If practice stops when the app stops flagging, the tool is doing the monitoring the student needs to learn to do.
 - **Music teachers and studio instructors.** Introduce practice-feedback tools after students have an internal standard to compare against. The first-year null suggests the tool arrives too early for learners still building one.
 - **Educational technology developers.** Design the report to prompt a decision, not to replace one. A flag that says "listen again" and a flag that says "wrong" produce different monitoring behavior in the student.
-- **Researchers.** Separate within-person from between-person variance in any longitudinal study of AI feedback. The pooled cross-lagged estimate here would have overstated what happens to an individual learner.
+- **Researchers.** Separate within-person from between-person variance in any [[longitudinal-research|longitudinal study]] of AI feedback. The pooled cross-lagged estimate here would have overstated what happens to an individual learner.
 
 ## Limitations
 
