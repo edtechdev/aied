@@ -347,3 +347,9 @@ check instead of a file. Two were then supplied as PDFs and are being ingested:
 ### Screened out: academic LLM hosting workshop report
 
 - `arXiv:2611.34383v1` — Ahmed et al., *Towards Democratized Academic LLM Hosting: Practical insights from needs, implementations, and governance across Dutch institutions* (workshop synthesis, 2026-11) — supplied as a PDF, **Tier 3 adjacent research: no article page**. The paper reports workshop-derived infrastructure and governance patterns across Dutch academic institutions; it did not measure teaching, learning or student outcomes, and the education references are stakeholder context rather than findings. Reconsider if a version reports measured educational outcomes or a direct course-deployment comparison with identified institutions and methods.
+
+## Identified 2026-11-27 (user-supplied 34-PDF batch; screened)
+
+- **Beyond AI Ethics Washing: Toward AI Governance Guided by Organizational Virtue** — Shan Jing, *Behavioral Sciences*, DOI 10.3390/bs16112120. Tier 3 adjacent research: a conceptual governance/normative-analysis paper about organizations generally, with no teaching, learning or education outcome; raw text is archived but no article page was created.
+- **Will AI De-Skill Our Social Cognition? The Risks in the Delicate Interplay Between Artificial and Natural Theory of Mind** — Pisauro and Fouragnan, *Behavioral Sciences*, DOI 10.3390/bs16112047. Tier 3 adjacent research: cognitive-science perspective on human-AI interaction with no education setting or learning outcome; raw text is archived but no article page was created.
+- **Generative AI and the Transformation of Learning-Related Media Repertoires: A Relational Perspective** — Kreutz, *Societies*, DOI 10.3390/soc16120425. Duplicate: already ingested as `kreutz-media-repertoires-2026`; no second page.
