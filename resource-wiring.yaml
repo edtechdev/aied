@@ -425,3 +425,8 @@
   reviewed: '2026-11-27'
   hosts: []
   reason: 'A Claude Code skill suite for building Knowledge Space Theory structures. It serves adaptive-learning and knowledge-graph in principle, but using it requires a Claude Code setup and the concept pages are practitioner-facing, so it stays in the resource index until the project has an evaluated classroom workflow.'
+
+- resource: es-llms-toolkit
+  reviewed: '2026-11-27'
+  hosts: []
+  reason: 'The toolkit is the reproducibility package for the Kadir article and the article links it directly in prose; the intelligent-tutoring concept page would gain an implementation example, not a changed claim, so no concept host.'
