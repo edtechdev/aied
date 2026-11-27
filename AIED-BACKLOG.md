@@ -40,7 +40,7 @@ All candidates from this window were followed up: nine were ingested as pages, U
 
 ### Identified 2026-11-27 (daily scan)
 
-- **Development and initial psychometric evaluation of the artificial intelligence literacy scale for medical students (AIL-MS): A mixed-methods cross-sectional study** — Feng Chen et al., *BMC Medical Education*. Open access, but the full text is served only through the publisher landing page and the PDF endpoint returned 404; full text not retrieved.
+- **Development and initial psychometric evaluation of the artificial intelligence literacy scale for medical students (AIL-MS): A mixed-methods cross-sectional study** — Feng Chen et al., *BMC Medical Education*. Full text was not retrievable at discovery (publisher PDF endpoint 404); the user supplied the Article in Press PDF on 2026-11-27 and it was **INGESTED** as `content/en/articles/chen-ail-ms-medical-students-2026.md`.
   - https://doi.org/10.1186/s12909-026-10936-x
 - **Initiatives, outcomes, benefits, and challenges of integrating artificial intelligence in Ethiopian education** — *Discover Education*. Open access; ranked below the ingest cut.
   - https://doi.org/10.1007/s44217-026-02470-1

@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-23T12:00:00-05:00"
+updated: "2026-11-27T09:45:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -20,7 +20,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [learners, human-ai-collaboration, student-experience, prompt-engineering, learning-analytics, cognitive-offloading, intelligent-tutoring, metacognition, agency, generative-ai, llm, ai-literacy]
-connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026, richter-generative-ai-appropriation-comparative-2026]
+connected_articles: [ai-chatbots-emotional-support-human-connection-2025, yan-cognitive-outsourcing-genai-assessments-2026, zou-is-this-a-trap-student-teachers-genai-2026, tutortrace-learner-behavioral-states-2026, student-ai-inquiry-types-cs2-2026, student-llm-interaction-taxonomy-review-2026, teacher-authored-prompts-student-ai-dialogue, constructing-epistemic-ai-literacy-student-ai-co-programming, dura-llm-cs2, li-dbagent-llm-educational-agent-cs-2026, isaza-chatgpt-engineering-prompting-2026, breideband-community-builder-cobi-2026, oppenheimer-llms-collaborative-learning-partners-2026, vahedian-children-attitudes-ai-chatbot-2026, student-reception-genai-analogies-computing-2026, naim-bypass-offload-scaffold-llm-learning-2026, ai-tutor-modality-randomized-field-experiment-2026, context-prompts-physics-assignments-2026, three-pathways-student-ai-interaction-2026, porcaro-ai-grading-benchmark-2026, shen-ai-skill-formation-2026, cs-students-llm-conceptualizations-prompting-2026, burke-ai-proliferation-college-students-replication-2026, richter-generative-ai-appropriation-comparative-2026, sacerdote-panel-survey-ai-higher-ed-2026]
 ---
 
 > **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with [[generative-ai|generative AI]] systems during learning and [[problem-solving|problem solving]]. [[research-methods-aied|Research]] here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to [[learning-gains|learning outcomes]], [[cognitive-offloading|cognitive offloading]], and [[agency|agency]].
@@ -101,6 +101,8 @@ The anxiety dialogue relieves can be social rather than technical: across 596 Eg
 - **How much students use AI did not predict how they felt about it.** Among 819 students, gender, self-rated AI expertise and usage frequency all failed to reach significance in a MANOVA (Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). Heavy and light users in that sample held the same views ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 - **"A student cannot move a grader's mark."** They can, and it is the most persistent failure in the battery: **17 of 22** models raised their grade more after a bare objection than after a request for a second look, including **six of the eight** that had passed every gaming and blank-answer check. The largest was Llama 3.2 3B at **+33.2% of the scale**, and the request for a second look itself lowered grades for **ten** of the 17, so the contrast is not the objection's raw effect. [[porcaro-ai-grading-benchmark-2026|Grades a student can argue with need a record of the exchange]].
+
+A three-sample panel survey (working paper) found a wide gap between students' own reported AI misuse and what they attributed to peers, with 92% agreeing AI use harms writing while students also valued real-time explanations, practice quizzes and study guides [[sacerdote-panel-survey-ai-higher-ed-2026|Sacerdote and Parris-Bacon (2026)]].
 
 ## Common Misconceptions
 
