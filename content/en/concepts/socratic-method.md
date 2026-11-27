@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills, context-aideatext]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-26T13:42:00-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [pedagogical-patterns, scaffolding, intelligent-tutoring, learning-analytics, stem-education, student-modeling, student-experience, agentic-ai, metacognition, knowledge-tracing, adaptive-learning, generative-ai, cognitive-offloading, self-regulated-learning, formative-assessment, ai-literacy, agency, critical-thinking, pedagogy, productive-failure]
-connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026]
+connected_articles: [agent-type-feedback-style-self-directed-learning-2026, ai-standardized-patient-scaffolding-medical-2026, hashmi-socratic-physics-chatbot-2025, ai-agents-constructive-conflict-design-education-2026, syal-multimodal-dialogue-stem-2026, retrieval-augmented-tutoring-algorithm-kite, genai-performance-vs-learning, embodied-inquiry-ai-facilitator-physics-2026, prober-ai-inquiry-writing, generative-ai-guardrails-harm-learning, stanford-evidence-base-ai-k12-2026, puech-pedagogical-steering-llm-productive-failure-2025, wang-safety-gap-productive-struggle-2026, rhaimi-productivemath-2025, lukesova-clue-before-correction-2026, socratic-nuclear-ai-learning, lftutor-logical-fallacy-education-2026, guardrails-ai-teaching-assistants-programming-2026, genai-socratic-tutor-biology-argumentation-2026, etq-ai-conversational-teacher-training-2026, socratic-probing-agent-physics-cave-detection-2026, jackson-ai-chatbots-learning-assistants-cs-2026, mikaelyan-socratic-challenger-2026]
 ---
 
 > **Socratic Method** — a [[pedagogy|pedagogical]] approach rooted in guided questioning and dialogue rather than direct instruction, now being adapted for generative AI tutoring systems. In [[ai-education|AI in education]], the Socratic method is operationalized through LLMs that ask probing questions, scaffold reasoning, and withhold direct answers — aiming to promote deeper understanding and [[desirable-difficulties|productive struggle]] rather than answer-fetching.([[hashmi-socratic-physics-chatbot-2025|Hashmi et al., 2025]])([[favero-critical-ai-tutors-empower-enslave-2025|Favero et al., 2025]])
@@ -80,6 +80,8 @@ The strongest causal support for constraint points the other way: in a [[k-12]] 
 In [[medical-education|clinical]]-interview training, [[ai-standardized-patient-scaffolding-medical-2026|the MeduAI-SP trial (Yang et al., 2026)]] had the [[pedagogical-agent|tutor agent]] deliver Socratic prompts only on a flagged need — missing key history, premature closure, conversational impasse, or communication breakdown — phrasing them as reflective questions such as whether the gathered information sufficed to support the leading diagnosis. Students trained under this Socratic scaffolding scored 31 percentage points higher on the observable "expressing empathy" checklist item (Holm-corrected P = 8.30e-4) and 0.90 points higher on the 1–5 OSCE communication domain (P = 4.50e-4), linking non-answer-giving questioning to measurable patient-centered communication gains rather than to diagnostic accuracy (84% vs. 86%; P = 1.000).
 
 Fidelity is not guaranteed by configuration: a purpose-configured ISLE facilitator restored the test-before-prediction order students had inverted, yet when pressed to "just tell us" which can weighed more it produced mass values no one had measured, crossing from questioning into fabricating data ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
+
+[[mikaelyan-socratic-challenger-2026|Mikaelyan et al. (2026)]] mapped an eight-step GenAI Socratic workflow in one undergraduate course and found 22 of 45 reflections contained explicit metacognitive language, while step ratings were high; no learning outcome was measured.
 
 ## Research evidence
 
