@@ -360,3 +360,7 @@ check instead of a file. Two were then supplied as PDFs and are being ingested:
 - `10.1215/2834703X-12689864` — Toward a Theory of Critical AI Literacies as Media Literacies
   (Sean Cho Ayres, *Critical AI* 4(2), published 2026-10-01) — supplied as a PDF, **INGESTED** as
   `content/en/articles/ayres-critical-ai-literacies-media-literacy-2026.md`
+
+### Screened out: academic LLM hosting workshop report
+
+- `arXiv:2611.34383v1` — Ahmed et al., *Towards Democratized Academic LLM Hosting: Practical insights from needs, implementations, and governance across Dutch institutions* (workshop synthesis, 2026-11) — supplied as a PDF, **Tier 3 adjacent research: no article page**. The paper reports workshop-derived infrastructure and governance patterns across Dutch academic institutions; it did not measure teaching, learning or student outcomes, and the education references are stakeholder context rather than findings. Reconsider if a version reports measured educational outcomes or a direct course-deployment comparison with identified institutions and methods.
