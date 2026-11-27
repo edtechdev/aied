@@ -95,6 +95,10 @@ def changed_slugs() -> list[str]:
     paths.update(untracked.stdout.splitlines())
     out = []
     for p in paths:
+        # A deletion has no prose left to audit; treating the missing file as a defect
+        # makes every article deletion fail this gate in CI.
+        if not os.path.exists(os.path.join(WIKI, p)):
+            continue
         parts = p.split('/')
         if len(parts) == 4 and parts[0] == 'content' and parts[1] == 'en' and parts[2] == 'articles' \
                 and p.endswith('.md'):
