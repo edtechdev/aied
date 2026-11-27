@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-27T06:10:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -11,7 +11,7 @@ level: [special education, k 12, higher ed]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [differential-effects-across-learner-groups, inclusive-learning, equity-in-ai-education, neurodiversity, universal-design-for-learning, learning-design, student-experience, ai-literacy, k-12, higher-ed, cs-education, generative-ai, discipline-specific-aied]
-connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, seung-basham-cognitive-offloading-swld-2026, special-r1-rl-special-education, dyslexlens-dyslexic-learners-ai, llm-question-generation-deaf-hard-of-hearing-2026, neurodivergent-computing-students, adhd-video-segmentation-computing-education, genai-minoritized-knowledges-disability, embodied-string-learning-blindness-low-vision-musicians, assistive-tech-neurodivergent-higher-ed-review-2026, adapted-stories-social-story-intervention-2026, vlm-task-planning-humanoid-robot-autism-education-2026, randolph-ai-special-education-replication-2026]
 ---
 
 > **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. [[ai-education|AI in education]] [[research-methods-aied|research]] explores how AI tools can support diverse learner needs through [[personalized-learning|personalization]], [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of [[ai-technologies|AI systems]] that overlook or marginalize disabled learners.
@@ -52,6 +52,8 @@ Special education is a domain where AI's capacity for personalization and adapta
 - **Use AI to close (not widen) performance gaps.** [[adhd-video-segmentation-computing-education|AI-segmented videos]] eliminated the ADHD performance gap — deploy adaptive AI where evidence shows it equalizes outcomes, not where it merely automates.
 - **Center disability-led embodied design.** [[embodied-string-learning-blindness-low-vision-musicians|Blind/low-vision musicians]] research shows non-visual, disability-led strategies outperform default visual interfaces — build and adapt AI with disabled learners' expertise.
 - **Guard against epistemic marginalization.** [[genai-minoritized-knowledges-disability|Critical perspectives]] warn that Western-centric training data can marginalize disability-centered knowledge — audit AI content and tools for epistemic justice alongside [[equity-in-ai-education|equity]].
+
+[[randolph-ai-special-education-replication-2026|Randolph et al. (2026)]] repeated the IEP-goal AI study and found the mean advantage did not survive a within-participant model, with poor agreement between ChatGPT and human ratings, which cautions against treating AI-drafted goals as equivalent to human-written ones.
 
 ## Common Misconceptions
 

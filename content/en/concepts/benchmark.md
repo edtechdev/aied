@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-25T09:35:00-05:00"
+updated: "2026-11-27T06:02:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -12,7 +12,7 @@ methods: [ai-ed-evaluation, benchmark]
 connected_resources: [gradebench, raid-benchmark-leaderboard, fab-ai-benchmark-leaderboard]
 reviewed_by: [editor]
 connected_concepts: [ai-ed-evaluation, bias-mitigation, human-in-the-loop-ai, formative-assessment, knowledge-tracing, generative-ai, automated-essay-scoring]
-connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026, yu-cc-eval-tcsol-benchmark-2026]
+connected_articles: [tutor-case-bench-challenging-behaviors-2026, standardized-assessment-llm-english-proficiency-2026, omniphys-multimodal-physics-benchmark-2026, assessment-latent-structure-human-llm-2026, cdpk-pedagogy-benchmark-llms, jeon-isd-agent-bench-2026, shen-sustainable-ai-knowledge-base-cs-education-2026, authentic-products-authenticated-processes-2026, llm-cognitive-diagnosis-handwritten-math, educlaw-bench-pedagogical-llm-agents-2026, responsible-assessment-ai-era-stanford-2026, anvil-ai-educational-animations, icle-plus-plus-essay-scoring, teaching-monster-pck-benchmark-2026, cfes-p24-multimodal-slide-auditing-2026, diagramir-educational-math-diagram-evaluation, eeg-familiarity-automated-assessment-2026, algorag-rag-theoretical-cs-education-2026, muse-vlm-artistic-image-benchmark-2026, studentbench-ai-human-tutoring-gre-2026, bloom-classifier-ai-assisted-questions-2026, llm-benchmark-secondary-science-topics-2026, llm-tutor-pedagogical-metric-degradation-2026, nkrumah-ai-skill-extraction-engineering-2026, yu-cc-eval-tcsol-benchmark-2026, chowdhury-geodial-multimodal-tutoring-dataset-2026]
 ---
 
 > **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and [[pedagogy|pedagogical]] quality of AI in education systems.
@@ -91,6 +91,7 @@ The distinction is worth keeping. A leaderboard score is a claim about a fixed i
 
 Task composition is the part a leaderboard can hide. [[yu-cc-eval-tcsol-benchmark-2026|Yu's CC-Eval]] scores eleven free or light-tier models on six equal-weight teaching tasks and finds the within-model spread across tasks larger than the between-model spread: culture and pragmatics ran 70.5 to 94.9, while the best model reached 8.9% on locating the textbook standard a passage violates.
 
+[[chowdhury-geodial-multimodal-tutoring-dataset-2026|Chowdhury et al. (2026)]] released GeoDial, 1,341 teacher-student geometry dialogues in which roughly 45% of turns carry diagram highlights; fine-tuned models improved the words but not the visual highlights.
 
 ## Common Misconceptions
 
