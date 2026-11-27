@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-27T01:40:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -13,7 +13,7 @@ confidence: high
 connected_faqs: [ai-bias-fairness-education]
 reviewed_by: [editor]
 connected_concepts: [differential-effects-across-learner-groups, automation-bias, explainable-ai, guardrails, equity-in-ai-education, ethics, ai-ed-evaluation, automated-assessment, automated-essay-scoring, educational-measurement, knowledge-tracing, llm, generative-ai, privacy, human-in-the-loop-ai, trust, cognitive-offloading, ai-literacy, student-experience, ai-education, recommender-systems-and-learning-paths]
-connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026]
+connected_articles: [face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning, nspa-neuro-symbolic-pedagogical-alignment-2026, ai-scoring-language-bias-physics, gender-bias-transfer-llm-writing, paternalistic-filter-llm-history-education, fair-explainable-edu-recommendations, temporal-smoothness-debiased-kt, ground-truth-reliability-aied, data-annotations-pedagogical-hints, xai-education-framework, antiskillbench-persona-skills-privacy-2026, genai-minoritized-knowledges-disability, marked-pedagogies-linguistic-bias-writing-feedback, lopez-pernas-llm-appropriate-student-support-2026, bias-representation-text-to-image-education-2026, agarwal-ethical-values-norms-aied-2026, nlp-student-evaluation-teaching-scoping-review-2026, genai-social-bias-software-engineering-education-2026, fairness-theatre-early-warning-systems-2026, hooshyar-responsible-trustworthy-educational-data-mining-2026, villegas-ch-algorithmic-bias-reweighting-2026]
 ---
 
 > **Bias mitigation in AI education** — the identification, measurement, and reduction of unfair, identity-patterned behavior in [[intelligent-tutoring|AI tutors]], scorers, recommenders, and educational systems. Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment — and manifest as differential treatment of learners based on language, gender, race, culture, or other identity characteristics. Mitigation spans data curation, debiasing algorithms, [[prompt-engineering|prompt design]], fair-scoring methods, [[explainable-ai|explainability]], and evaluation. It is the technical counterpart to [[equity-in-ai-education|equity]] and a core concern of [[ethics|ethics]] in AI education.
@@ -70,6 +70,8 @@ The research illustrates several complementary strategies:
 - **Pipeline-wide auditing:** [[antiskillbench-persona-skills-privacy-2026|persona-skills auditing]] and systematic audits like the paternalistic-filter study show the value of auditing models across identity conditions before deployment.
 - **Fairness measurement is largely absent where analysis scales.** A PRISMA-ScR scoping review of 421 studies applying NLP to student evaluation of teaching found a formal fairness metric in only 8 studies (1.9%) and institutional-use risk in 18, while study limitations appeared in 70.5% and privacy protections in 42.3%; the authors read the coexistence as [[llm|LLM]] adoption broadening the technical repertoire without proportional gains in validation or responsible-use reporting ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva (2026)]]).
 - **Group size is not a proxy for disadvantage:** two of six post-hoc fairness methods directed corrections at already-advantaged groups because they used group size to define disadvantage; reassigning disadvantage by observed disparity redirected one method but left the other flipping zero predictions — a limit on what post-hoc mitigation can claim ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+
+[[villegas-ch-algorithmic-bias-reweighting-2026|Villegas-Ch et al. (2026)]] compared reweighting with adversarial debiasing in two prediction datasets and found that neither dominated: adversarial training raised accuracy in ASSISTments while widening two disparity measures, and the pattern reversed in OULAD.
 
 ## Mitigation across the AI pipeline
 
