@@ -1,7 +1,7 @@
 ---
 title: "The Paradox of Agency-Preserving AI: Negotiating Learner Agency in Layered Human-AI Interactions"
 created: "2026-11-25T09:10:00-05:00"
-updated: "2026-11-25T09:10:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-23"
 type: article
 authors: ["Yueling Fan", "Jacqueline Wong", "Olov Engwall", "Olga Viberg"]
@@ -30,13 +30,12 @@ verified: [citation, numbers]
 > **Synthesis:** Fan and colleagues (2026) identify a paradox at the center of a popular design idea: an AI built to protect [[agency|learner agency]] by [[prompt-engineering|prompting]] [[reflection]] can constrain that agency, because it decides when, how and why a learner should reflect. They ran a co-design workshop with 18 [[graduate-education|graduate]] students at a European technical [[higher-ed|university]] who used [[generative-ai|ChatGPT]] with ChatWise, an extension that supplies [[self-regulated-learning|self-regulated learning]]-aligned [[feedback]] on the learner's prompting. From 185 prompt–feedback entries, 174 written reflections and the participants' own design artifacts, they describe four observable responses to that layered guidance — alignment, bypass, explicit contestation, and cases where improvement could not be attributed — and four design tensions that organize them: assistance versus reflection, immediate intervention versus space for self-regulation, visibility versus attention competition, and system adaptation versus user control. The contribution is a multidimensional account of agency as task, cognitive and interactional, and a set of design criteria the participants generated rather than an evaluation of systems that implement them.
 
 ## Key Findings
-- **Learners did not simply follow the meta-level guidance.** Their next prompts showed alignment in some contexts, bypass in others, explicit contestation in others, and a residual group where improvement could not be traced to the intervention.
-- **Bypass clustered around requests for the finished product.** Learners skipped prompted reflection when they wanted complete code or drafts, or surface-level edits such as wording and format.
-- **Immediate [[primary-education|primary]]-AI help reduced engagement with the reflection that followed.** The tension is sequencing: the answer arrives before the learner has a reason to think about the problem.
-- **Prominent feedback competed for attention it could not keep.** Participants reported losing access to meta-level feedback before they were ready to use it, and found dense feedback distracting beside the main conversation.
-- **Contestability was a design requirement, not a courtesy.** Participants wanted to challenge the meta-AI's judgment about what they should keep doing themselves, and to override an intervention that misread their situation.
-- **Agency is multidimensional in their account.** Task agency, cognitive agency and interactional agency fail in different ways and need different design responses.
-
+1. **Learners did not simply follow the meta-level guidance.** Their next prompts showed alignment in some contexts, bypass in others, explicit contestation in others, and a residual group where improvement could not be traced to the intervention.
+2. **Bypass clustered around requests for the finished product.** Learners skipped prompted reflection when they wanted complete code or drafts, or surface-level edits such as wording and format.
+3. **Immediate [[primary-education|primary]]-AI help reduced engagement with the reflection that followed.** The tension is sequencing: the answer arrives before the learner has a reason to think about the problem.
+4. **Prominent feedback competed for attention it could not keep.** Participants reported losing access to meta-level feedback before they were ready to use it, and found dense feedback distracting beside the main conversation.
+5. **Contestability was a design requirement, not a courtesy.** Participants wanted to challenge the meta-AI's judgment about what they should keep doing themselves, and to override an intervention that misread their situation.
+6. **Agency is multidimensional in their account.** Task agency, cognitive agency and interactional agency fail in different ways and need different design responses.
 ## What the layered interaction looked like
 
 ChatWise sits beside a task-oriented primary AI and offers feedback on the learner's own prompting and reasoning rather than on the problem. The workshop had participants first work on a programming or academic-writing task without the extension, then repeat it with the extension, so they had a direct comparison to reason from. The LeAF toolkit structured the discussion: cards for learner profile, behavior, feedback level, support type, intervention policy and values, and evaluation criteria, arranged into sentences of the form "when the learner is doing X, the system provides Y via Z, under policy W."

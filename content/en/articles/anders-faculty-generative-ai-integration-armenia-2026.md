@@ -1,7 +1,7 @@
 ---
-title: "Faculty experience with generative AI integration into the teaching and learning process"
+title: "Faculty Experience with Generative AI Integration into the Teaching and Learning Process"
 created: "2026-11-24T09:44:41-05:00"
-updated: "2026-11-24T10:05:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Brent A. Anders", "Anait Akopyan"]
 venue: "arXiv preprint (cs.CY)"
@@ -35,13 +35,12 @@ verified: [citation, quotes]
 
 ## Key Findings
 
-- **Academic integrity dominated the concerns.** All five faculty worried about cheating; two reported using Turnitin [[ai-detection]] software and interviewing or penalizing students for misconduct.
-- **Assessment practice shifted in response.** Instructors moved toward in-class quizzes, project- and problem-based work, and in-class writing, and one abandoned online discussion forums because students used AI for both initial and peer responses.
-- **Quality concerns ran alongside the integrity worries.** Faculty doubted that AI output was creative or high quality, and one described a student's admitted AI use on a low-stakes creative writing assignment as angering and disappointing.
-- **Using AI for feedback felt wrong.** One instructor called it a disservice; another said they believed they should do it but had not, capturing the conflict the authors found across the sample.
-- **Training was known about but unused.** Every participant knew university AI resources existed, yet none had attended any of the offered training sessions, citing intimidation, uncertainty about departmental policy, or a belief they could figure it out alone.
-- **Experience was shallow.** All participants reported using only the free version of ChatGPT, and the preferred support formats were hands-on basic workshops, short asynchronous courses, and training within regular program meetings.
-
+1. **Academic integrity dominated the concerns.** All five faculty worried about cheating; two reported using Turnitin [[ai-detection]] software and interviewing or penalizing students for misconduct.
+2. **Assessment practice shifted in response.** Instructors moved toward in-class quizzes, project- and problem-based work, and in-class writing, and one abandoned online discussion forums because students used AI for both initial and peer responses.
+3. **Quality concerns ran alongside the integrity worries.** Faculty doubted that AI output was creative or high quality, and one described a student's admitted AI use on a low-stakes creative writing assignment as angering and disappointing.
+4. **Using AI for feedback felt wrong.** One instructor called it a disservice; another said they believed they should do it but had not, capturing the conflict the authors found across the sample.
+5. **Training was known about but unused.** Every participant knew university AI resources existed, yet none had attended any of the offered training sessions, citing intimidation, uncertainty about departmental policy, or a belief they could figure it out alone.
+6. **Experience was shallow.** All participants reported using only the free version of ChatGPT, and the preferred support formats were hands-on basic workshops, short asynchronous courses, and training within regular program meetings.
 ## What the interviews reveal
 
 The study situates itself against a literature that has mostly measured faculty attitudes through surveys. Its contribution is the texture of lived experience: the same instructor who worries about cheating also says AI "can be a great help" and that it may be "a move in the right direction"; the same department that treats AI as a threat also sees it as the future. The authors read this as a mix of reservation and optimism rather than resistance, which matters because it suggests faculty are not refusing the technology so much as waiting for a coherent institutional stance.

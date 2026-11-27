@@ -1,7 +1,7 @@
 ---
 title: "Can Artificial Intelligence Support Multigrade Teaching?: Exploring Teachers’ Perceptions, Practices, and Challenges"
 created: "2026-11-27T10:05:00-05:00"
-updated: "2026-11-27T10:05:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-11-24"
 sources: ['raw/papers/tanajura-ai-multigrade-teaching-2026.md']
@@ -41,7 +41,7 @@ verified: [citation, numbers]
 
 ## How the study was conducted
 
-The study used a qualitative case [[research-methods-aied|study design]] because the aim was to understand teachers' experiences and instructional practices rather than measure effectiveness or establish causal relationships. It took place in Kadingilan II District, Division of Bukidnon, Municipality of Kadingilan, during School Year 2026–2027, a setting where multigrade teaching is common in rural schools. Teachers were invited if they had at least one year of multigrade teaching experience and exposure to AI tools. A total of 13 teachers were approached; ten (10) agreed to participate and completed the consent form, while three (3) declined. Participants were purposively selected, and teachers without AI exposure or from other districts were excluded.
+The study used a qualitative case study design because the aim was to understand teachers' experiences and instructional practices rather than measure effectiveness or establish causal relationships. It took place in Kadingilan II District, Division of Bukidnon, Municipality of Kadingilan, during School Year 2026–2027, a setting where multigrade teaching is common in rural schools. Teachers were invited if they had at least one year of multigrade teaching experience and exposure to AI tools. A total of 13 teachers were approached; ten (10) agreed to participate and completed the consent form, while three (3) declined. Participants were purposively selected, and teachers without AI exposure or from other districts were excluded.
 
 Researchers used three prepared instruments: a semi-structured interview guide, a focus group discussion guide and a classroom observation checklist. Transcripts were returned to participants for confirmation, and recordings, transcripts and observation notes were stored securely. The paper states that the inquiry did not measure learners' [[learning-gains|academic performance]], compare teaching effectiveness between AI-assisted and non-AI-assisted instruction, or establish causal effects of AI integration. It also states that the findings were limited to the ten participants and were not intended to generalize to all multigrade teachers.
 

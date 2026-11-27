@@ -1,7 +1,7 @@
 ---
 title: "AI-generated support, worked examples, and script-based learning in undergraduate physics: A comparative study"
 created: "2026-11-24T09:30:00-05:00"
-updated: "2026-11-24T09:30:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Larissa Hahn", "Marie Aylin Falkenberg", "Marten Hogelücht", "Pascal Klein"]
 venue: "arXiv preprint (physics.ed-ph)"
@@ -33,13 +33,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **All three conditions improved, with no clear differences between them.** Concept-test accuracy and self-efficacy rose within every group, but the amount of improvement did not differ between conditions.
-- **The static worked example beat the script at four-week follow-up.** Students in the static condition scored higher than those in the script condition by a wide margin, while the two worked-example conditions did not differ.
-- **Conversational delivery raised usability, not learning.** Usability was higher for the intelligent worked example than for the script; perceived educational value did not differ between conditions.
-- **Given free choice, students preferred the static material.** On a subsequent Ampère's law assignment (N = 46), 62–71% in each condition reported using only the static worked example, at most 8% used only the intelligent one, and 15–31% used neither.
-- **The groups started comparable.** No statistically significant baseline differences appeared in age, number of semesters studied, university entrance grade, or pretest performance.
-- **The follow-up sample was reduced and unequal.** Complete data across pretest, posttest, and follow-up were available for 57 students (n = 21 intelligent, n = 20 static, n = 16 control), and the authors note selective participation and pre-existing group differences.
-
+1. **All three conditions improved, with no clear differences between them.** Concept-test accuracy and self-efficacy rose within every group, but the amount of improvement did not differ between conditions.
+2. **The static worked example beat the script at four-week follow-up.** Students in the static condition scored higher than those in the script condition by a wide margin, while the two worked-example conditions did not differ.
+3. **Conversational delivery raised usability, not learning.** Usability was higher for the intelligent worked example than for the script; perceived educational value did not differ between conditions.
+4. **Given free choice, students preferred the static material.** On a subsequent Ampère's law assignment (N = 46), 62–71% in each condition reported using only the static worked example, at most 8% used only the intelligent one, and 15–31% used neither.
+5. **The groups started comparable.** No statistically significant baseline differences appeared in age, number of semesters studied, university entrance grade, or pretest performance.
+6. **The follow-up sample was reduced and unequal.** Complete data across pretest, posttest, and follow-up were available for 57 students (n = 21 intelligent, n = 20 static, n = 16 control), and the authors note selective participation and pre-existing group differences.
 ## Designing the comparison
 
 Worked examples are a well-established way to guide learners through the steps and reasoning of a solution, and the study treats them as the benchmark rather than as one novelty among others. The intelligent version kept the same solution structure and added a [[conversational-ai|chatbot]] interface through which students could ask follow-up questions, request extra explanations, and discuss their answers to activation questions before moving to the next step. That design isolates the delivery channel: the content of the example stays constant, so any difference can be attributed to the conversational layer rather than to new material.

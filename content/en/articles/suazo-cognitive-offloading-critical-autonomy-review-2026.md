@@ -1,7 +1,7 @@
 ---
 title: "Between cognitive offloading and critical autonomy: a systematic review of the epistemic implications of generative AI in higher education"
 created: "2026-11-27T01:29:00-05:00"
-updated: "2026-11-27T01:29:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-09-03"
 sources: ['raw/papers/suazo-cognitive-offloading-critical-autonomy-review-2026.md']
@@ -44,7 +44,7 @@ verified: [citation, numbers]
 
 The protocol was registered in PROSPERO as CRD420261390452 on May 2, 2026, before screening. Searches on that date returned 7,215 records: 2,674 from Scopus, 2,182 from the Web of Science Core Collection and 2,359 from databases reached through EBSCOhost. After 3,122 duplicates were removed, 4,093 unique records underwent a criteria-based automated eligibility assessment in Rayyan; 3,962 were marked ineligible and 131 proceeded to blinded independent title and abstract screening. Reviewers excluded 101 at that stage, sought full texts for 30, failed to retrieve one, and assessed 29 full texts. Three were excluded, leaving 26 studies. Overall agreement across screening was κ = 0.85.
 
-Eligibility was framed with SPIDER rather than PICOS because no single intervention or pooled effect was being tested. Original peer-reviewed empirical studies in higher education were eligible if they addressed an epistemic dimension of generative AI use; preprints, gray literature, reviews and conceptual articles were excluded. Two reviewers extracted data and applied Joanna Briggs Institute appraisal tools by [[research-methods-aied|study design]]. Affirmative appraisal responses ranged from 80.0% to 100.0%, reported descriptively rather than as validated risk-of-bias categories. Meta-analysis was ruled out because populations, settings, questions and outcomes were too heterogeneous; synthesis combined descriptive mapping, three-stage thematic synthesis and framework synthesis under the Synthesis Without Meta-analysis reporting guideline.
+Eligibility was framed with SPIDER rather than PICOS because no single intervention or pooled effect was being tested. Original peer-reviewed empirical studies in higher education were eligible if they addressed an epistemic dimension of generative AI use; preprints, gray literature, reviews and conceptual articles were excluded. Two reviewers extracted data and applied Joanna Briggs Institute appraisal tools by study design. Affirmative appraisal responses ranged from 80.0% to 100.0%, reported descriptively rather than as validated risk-of-bias categories. Meta-analysis was ruled out because populations, settings, questions and outcomes were too heterogeneous; synthesis combined descriptive mapping, three-stage thematic synthesis and framework synthesis under the Synthesis Without Meta-analysis reporting guideline.
 
 ## From themes to the HEEP-HE model
 

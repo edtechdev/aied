@@ -1,7 +1,7 @@
 ---
 title: "Toward a Theory of Critical AI Literacies as Media Literacies"
 created: "2026-11-24T10:35:00-05:00"
-updated: "2026-11-24T10:35:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Sean Cho Ayres"]
@@ -37,14 +37,14 @@ verified: [citation, quotes]
 
 ## Key Findings
 
-- **The hazard is interpretive, not only technical.** Fluency is treated as a surface property rather than proof of mind, so prompt skill and fact-checking alone are insufficient.
-- **The ELIZA effect explains the mechanism.** Conversational form recruits social cognition even when users know they are interacting with software, which corrects the simplification that people simply forget the machine is a machine.
-- **Design choices create a confessional interface.** First-person voice, [[ai-avatars-and-synthetic-instructors|avatars]], memory features, safety scripts and conversational pacing invite disclosure and make disengagement feel like a social act rather than an exit.
-- **Affective disavowal is the named stance.** Users can acknowledge abstractly that a system is not a living person while still speaking to it as if it were, a split between what one knows and how one responds.
-- **Digital [[ai-sycophancy|sycophancy]] compounds the problem.** Systems tuned for satisfaction and flow validate feelings while implicitly validating harmful premises, particularly when they avoid confrontation to sustain engagement.
-- **Five literacies are proposed.** Model literacy, interface literacy, affective literacy, epistemic literacy and political-economic literacy, each mapped to a distinct question about the system.
-- **A teaching method follows.** The confessional interface audit asks learners to analyze a chatbot conversation the way media students analyze an advertisement, seeking interpretive distance rather than cynicism.
-- **Repeated messages matter at every level.** Fluency is not understanding; agreement is not care; statistical probability is not truth.
+
+1. **The hazard is interpretive, not only technical.** Fluency is treated as a surface property rather than proof of mind, so prompt skill and fact-checking alone are insufficient.
+2. **The ELIZA effect explains the mechanism.** Conversational form recruits social cognition even when users know they are interacting with software, which corrects the simplification that people simply forget the machine is a machine.
+3. **Design choices create a confessional interface.** First-person voice, [[ai-avatars-and-synthetic-instructors|avatars]], memory features, safety scripts and conversational pacing invite disclosure and make disengagement feel like a social act rather than an exit.
+4. **Affective disavowal is the named stance.** Users can acknowledge abstractly that a system is not a living person while still speaking to it as if it were, a split between what one knows and how one responds.
+5. **Digital [[ai-sycophancy|sycophancy]] compounds the problem.** Systems tuned for satisfaction and flow validate feelings while implicitly validating harmful premises, particularly when they avoid confrontation to sustain engagement.
+6. **Five literacies are proposed.** Model literacy, interface literacy, affective literacy, epistemic literacy and political-economic literacy, each mapped to a distinct question about the system.
+7. **A teaching method follows.** The confessional interface audit asks learners to analyze a chatbot conversation the way media students analyze an advertisement, seeking interpretive distance rather than cynicism.
 
 ## The argument in outline
 

@@ -1,7 +1,7 @@
 ---
 title: "Recognition of Triggers for Regulation and Learners’ Regulatory Responses in Agent-Supported Collaborative Learning"
 created: "2026-11-24T06:25:00-05:00"
-updated: "2026-11-24T07:40:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Anni-Sofia Roberts", "Joni Lämsä", "Justin Edwards", "Sanna Järvelä"]
@@ -38,14 +38,14 @@ connected_notebooks:
 
 ## Key Findings
 
-- **Detection worked; adaptation did not follow.** Groups initiated some regulation after 55% of prompts, but only 16% of prompt situations produced a shared strategic change, and 7% produced partial regulation. Seven of ten prompts ended without adaptation.
-- **Triggers split unevenly across the three rules.** MAI fired 58 prompts (mean 4.14 per group, SD 1.83): cognitive triggers 28, lack of shared perspective 25, metacognitive triggers 5. That last rule accounted for 8.6% of all prompts.
-- **Cognitive challenges dominated, and emotion usually rode along.** 63.8% of detected challenges were socio-cognitive; task enactment (f = 22) and task understanding (f = 21) were the most common. Only 5.2% were purely socio-emotional, and roughly one-fifth combined both.
-- **Initiation differed by rule type.** Groups initiated regulation more often after cognitive and metacognitive prompts than after shared-perspective prompts; the association was statistically significant.
-- **Prompt relevancy tracked rule type.** 82% of cognitive-trigger prompts were accepted as timely by at least some members, against 52% for shared-perspective prompts. Overall 38% of prompts were accepted as relevant, 31% rejected, and 31% split within the group.
-- **Sharedness prompts made groups defensive.** When MAI said members were thinking as individuals, students treated it as an outsider criticizing the group rather than as a support; several exchanges show open irritation, and no regulatory response followed.
-- **The agent had false positives.** Six triggers were detected where the pronoun rule fired during genuine co-construction of knowledge, [[prompt-engineering|prompting]] about individualism in a group that was working jointly.
-- **Design intent was explicit.** The authors position MAI against tools that offload regulation: the agent is meant to prompt awareness of trigger events so the group monitors together, not to regulate on the group's behalf.
+
+1. **Detection worked; adaptation did not follow.** Groups initiated some regulation after 55% of prompts, but only 16% of prompt situations produced a shared strategic change, and 7% produced partial regulation. Seven of ten prompts ended without adaptation.
+2. **Triggers split unevenly across the three rules.** MAI fired 58 prompts (mean 4.14 per group, SD 1.83): cognitive triggers 28, lack of shared perspective 25, metacognitive triggers 5. That last rule accounted for 8.6% of all prompts.
+3. **Cognitive challenges dominated, and emotion usually rode along.** 63.8% of detected challenges were socio-cognitive; task enactment (f = 22) and task understanding (f = 21) were the most common. Only 5.2% were purely socio-emotional, and roughly one-fifth combined both.
+4. **Initiation differed by rule type.** Groups initiated regulation more often after cognitive and metacognitive prompts than after shared-perspective prompts; the association was statistically significant.
+5. **Prompt relevancy tracked rule type.** 82% of cognitive-trigger prompts were accepted as timely by at least some members, against 52% for shared-perspective prompts. Overall 38% of prompts were accepted as relevant, 31% rejected, and 31% split within the group.
+6. **Sharedness prompts made groups defensive.** When MAI said members were thinking as individuals, students treated it as an outsider criticizing the group rather than as a support; several exchanges show open irritation, and no regulatory response followed.
+7. **The agent had false positives.** Six triggers were detected where the pronoun rule fired during genuine co-construction of knowledge, [[prompt-engineering|prompting]] about individualism in a group that was working jointly.
 
 ## How MAI worked
 

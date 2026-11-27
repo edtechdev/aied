@@ -1,7 +1,7 @@
 ---
 title: "Preparing preservice teachers for generative AI in lesson planning: a process mining study of AI mindset and tool-only training"
 created: "2026-11-24T17:10:00-05:00"
-updated: "2026-11-24T19:10:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Phuong Thi Hanh Tran", "Luna Huynh", "Thuy-An Bien", "Belle Dang", "Andy Nguyen"]
@@ -35,14 +35,13 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Two patterns separated the groups.** The mindset group produced what the authors call Reflective Iterative workflows, cycling between prompt, read and edit. The tools-only group produced Linear Extraction workflows that treated generated text as a finished resource.
-- **The mindset group kept returning to the model.** Almost every participant opened the tool first (94.1% of cases) and read generated text before using it (94.1%, n = 84). Participants went back to the model after reading 24 times and after editing 11 times.
-- **The tools-only group read once and moved on.** Nearly all read output a single time (88.2% of cases, n = 40), then copied it (n = 74) and pasted it into a document (n = 58, 94.1% of cases). Only ten loops returned to the tool across the whole cohort.
-- **More activity did not mean better work.** The tools-only group logged more events, 430 against 323, yet scored lower on the finished lesson plans.
-- **Artifact scores differed modestly.** On a 0-24 [[rubrics|TPACK-informed rubric]], the mindset group averaged 17.69 against 15.59 for the tools-only group. The gap reached conventional statistical significance, yet the authors call it small and fragile.
-- **The statistical margin is thin.** The authors flag the p-value as close to .05 and warn it may be sensitive to sample size and variability.
-- **Behaviour was visible; reasoning was not.** Trace coding shows what participants did with the tools, not why they decided to do it.
-
+1. **Two patterns separated the groups.** The mindset group produced what the authors call Reflective Iterative workflows, cycling between prompt, read and edit. The tools-only group produced Linear Extraction workflows that treated generated text as a finished resource.
+2. **The mindset group kept returning to the model.** Almost every participant opened the tool first (94.1% of cases) and read generated text before using it (94.1%, n = 84). Participants went back to the model after reading 24 times and after editing 11 times.
+3. **The tools-only group read once and moved on.** Nearly all read output a single time (88.2% of cases, n = 40), then copied it (n = 74) and pasted it into a document (n = 58, 94.1% of cases). Only ten loops returned to the tool across the whole cohort.
+4. **More activity did not mean better work.** The tools-only group logged more events, 430 against 323, yet scored lower on the finished lesson plans.
+5. **Artifact scores differed modestly.** On a 0-24 [[rubrics|TPACK-informed rubric]], the mindset group averaged 17.69 against 15.59 for the tools-only group. The gap reached conventional statistical significance, yet the authors call it small and fragile.
+6. **The statistical margin is thin.** The authors flag the p-value as close to .05 and warn it may be sensitive to sample size and variability.
+7. **Behaviour was visible; reasoning was not.** Trace coding shows what participants did with the tools, not why they decided to do it.
 ## How the two groups worked
 
 Each participant completed the same task: build a lesson plan using any [[llm|large language model]] tool of their choice in 60 minutes under open-exam conditions. Screen capture turned every action into a timestamped event, and two independent coders classified 753 events using a scheme adapted from earlier process-mining research on multi-tool writing. Calibration over 20% of the recordings reached Cohen's kappa = 0.89 before the remaining data were coded.

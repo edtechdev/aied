@@ -1,7 +1,7 @@
 ---
-title: "Play and learn: gamified feedback for ultrasound-guided catheter insertion training in virtual reality"
+title: "Play and Learn: Gamified Feedback for Ultrasound-Guided Catheter Insertion Training in Virtual Reality"
 created: "2026-11-24T09:50:00-05:00"
-updated: "2026-11-24T10:15:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Mohammad Raihanul Bashar", "Alejandro Olivares Hernandez", "Yahia Zine", "Anil Ufuk Batmaz"]
 venue: "arXiv preprint (cs.HC)"
@@ -32,13 +32,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Novices inserted faster with gamification.** Gamified sessions averaged 46.57 seconds against 57.41 for the standard condition.
-- **The advantage appeared late, not immediately.** Groups separated at Level 3 and at post-level, but not at the earlier levels.
-- **Experts were faster too.** Clinicians in the gamified condition averaged 45 seconds against 75 in the standard condition, and the advantage emerged later rather than right away.
-- **Workload and usability favored gamification.** Novices reported lower effort, frustration, and temporal demand on the NASA-TLX and rated the system higher on appeal, challenge, goal clarity, enjoyment, immersion, and mastery; experts showed the same pattern on frustration, mental, physical, and temporal demand.
-- **Goal clarity showed the largest novice gain.** Clarity of goals produced the strongest single difference in the Player Experience Inventory.
-- **Gamification did not trade away realism.** The authors report that benefits did not compromise clinical authenticity, a common concern in medical gamification, because cues were aligned with task goals rather than added as decoration.
-
+1. **Novices inserted faster with gamification.** Gamified sessions averaged 46.57 seconds against 57.41 for the standard condition.
+2. **The advantage appeared late, not immediately.** Groups separated at Level 3 and at post-level, but not at the earlier levels.
+3. **Experts were faster too.** Clinicians in the gamified condition averaged 45 seconds against 75 in the standard condition, and the advantage emerged later rather than right away.
+4. **Workload and usability favored gamification.** Novices reported lower effort, frustration, and temporal demand on the NASA-TLX and rated the system higher on appeal, challenge, goal clarity, enjoyment, immersion, and mastery; experts showed the same pattern on frustration, mental, physical, and temporal demand.
+5. **Goal clarity showed the largest novice gain.** Clarity of goals produced the strongest single difference in the Player Experience Inventory.
+6. **Gamification did not trade away realism.** The authors report that benefits did not compromise clinical authenticity, a common concern in medical gamification, because cues were aligned with task goals rather than added as decoration.
 ## What the simulator does
 
 Peripheral intravenous catheter insertion is a high-volume procedure — over two billion catheters used annually worldwide — with first-attempt failure rates reaching 39% and catheter failure affecting 30–50% of patients through infiltration, phlebitis, occlusion, dislodgement, or hematoma. Ultrasound guidance improves success but adds perceptual-motor demands: bimanual coordination, needle-plane alignment, and reading dynamic two-dimensional images to make three-dimensional judgments. Novices struggle particularly with probe alignment, depth perception, and needle [[visualization]], and conventional training offers limited subsurface feedback.

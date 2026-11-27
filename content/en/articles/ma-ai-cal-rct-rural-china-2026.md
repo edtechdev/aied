@@ -1,7 +1,7 @@
 ---
 title: "Putting AI to the Test: Evidence from a Large-Scale RCT in Rural China"
 created: "2026-11-24T09:00:00-05:00"
-updated: "2026-11-24T09:00:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Yue Ma", "Tianli Feng", "Robert Fairlie", "Chengfang Liu", "Prashant Loyalka", "Scott Rozelle", "Xinwu Zhang"]
@@ -36,14 +36,13 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Adaptive AI did not beat ordinary CAL.** The AI arm scored -0.037 standard deviations below the non-adaptive arm, not statistically significant, and the design could rule out anything above roughly 0.01 standard deviations in favor of AI.
-- **It also did not beat no CAL at all.** Against the pure control, the AI arm was -0.036 standard deviations, again with a standard error of 0.027.
-- **No ability group gained.** For every baseline achievement tercile there was no evidence of a positive AI effect. Point estimates for the middle and top terciles were if anything negative.
-- **Regular CAL did something, narrowly.** The non-adaptive program produced modest gains for middle-tercile students relative to no CAL, which is the comparison where a conventional practice program usually shows its value.
-- **Difficulty and wealth did not change the answer.** Separating test items into easy, medium and difficult produced no positive AI effects, and neither did breaking the sample down by household assets.
-- **The two programs were matched on everything but adaptivity.** Same content, same hardware, same weekly schedule, same [[game-based-learning|gamification]], same immediate feedback, delivered by the same team. The only intended difference was the [[student-modeling|student model]].
-- **Usage fell short of the design.** Students used the software for an average of 219 minutes in the AI arm and 183 minutes in the regular arm over the whole intervention, well below the 80 minutes per week the schedule specified.
-
+1. **Adaptive AI did not beat ordinary CAL.** The AI arm scored -0.037 standard deviations below the non-adaptive arm, not statistically significant, and the design could rule out anything above roughly 0.01 standard deviations in favor of AI.
+2. **It also did not beat no CAL at all.** Against the pure control, the AI arm was -0.036 standard deviations, again with a standard error of 0.027.
+3. **No ability group gained.** For every baseline achievement tercile there was no evidence of a positive AI effect. Point estimates for the middle and top terciles were if anything negative.
+4. **Regular CAL did something, narrowly.** The non-adaptive program produced modest gains for middle-tercile students relative to no CAL, which is the comparison where a conventional practice program usually shows its value.
+5. **Difficulty and wealth did not change the answer.** Separating test items into easy, medium and difficult produced no positive AI effects, and neither did breaking the sample down by household assets.
+6. **The two programs were matched on everything but adaptivity.** Same content, same hardware, same weekly schedule, same [[game-based-learning|gamification]], same immediate feedback, delivered by the same team. The only intended difference was the [[student-modeling|student model]].
+7. **Usage fell short of the design.** Students used the software for an average of 219 minutes in the AI arm and 183 minutes in the regular arm over the whole intervention, well below the 80 minutes per week the schedule specified.
 ## How the two programs differed
 
 The [[adaptive-learning|adaptive]] system came from a large Chinese educational technology company that has operated for more than a decade and reports serving over 20 million students. It combines a one-parameter logistic item-response model with [[machine-learning]] [[knowledge-tracing|knowledge tracing]] to maintain a continuously updated estimate of each student's ability and each item's difficulty, recalibrated after every response. Content sits in a fine-grained [[knowledge-graph|knowledge graph]], and a diagnostic pretest at the start of each lesson routes students only to components they have not yet mastered. Mastery thresholds differ by subject, and three consecutive failures inside a component send a student back to a prerequisite.

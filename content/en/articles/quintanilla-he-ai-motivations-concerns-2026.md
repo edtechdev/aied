@@ -1,7 +1,7 @@
 ---
 title: "Motivations, consequences, and concerns about the use of artificial intelligence in higher education: empirical evidence"
 created: "2026-11-27T05:50:00-05:00"
-updated: "2026-11-27T05:50:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-07-27"
 sources: ['raw/papers/quintanilla-he-ai-motivations-concerns-2026.md']
@@ -40,7 +40,7 @@ verified: [citation, numbers]
 6. **Regulation did not emerge as a strong predictor.** Ethical and regulatory concerns did not yield a robust model; the authors read this as weak institutional guidance rather than evidence that [[ethics]] is irrelevant to students.
 
 ## What was measured and how
-The study used a [[quantitative-research|quantitative]], cross-sectional, exploratory design. Exhaustive CHAID (Chi-square Automatic Interaction Detection) split the sample by comparing categories with adjusted chi-square tests and selecting the predictor with the greatest discriminative power. Workload, time pressure, reward sensitivity and quality sensitivity were measured on a 5-point Likert scale from 1 = strongly disagree to 5 = strongly agree. ChatGPT use used a 6-point frequency scale from 1 = never to 6 = always; procrastination and perceived memory loss used 5-point Likert scales. Scales adapted from prior work were translated into Spanish and validated by expert review. Sociodemographic predictors included sex, age range, marital status, type of high school attended, academic cycle, grade point average expressed as the Coefficient of Units of Merit (CUM), employment status and having children.
+The study used a [[quantitative-research|quantitative]], cross-sectional, exploratory design. Exhaustive CHAID (Chi-square Automatic Interaction Detection) split the sample by comparing categories with adjusted chi-square tests and selecting the predictor with the greatest discriminative power. Workload, time pressure, reward sensitivity and quality sensitivity were measured on a 5-point Likert scale from 1 = strongly disagree to 5 = strongly agree. ChatGPT use used a 6-point frequency scale from 1 = never to 6 = always; procrastination and perceived memory loss used 5-point Likert scales. Scales adapted from prior work were translated into Spanish and validated by expert review. Sociodemographic predictors included sex, age range, marital status, type of [[secondary-education|high school]] attended, academic cycle, grade point average expressed as the Coefficient of Units of Merit (CUM), employment status and having children.
 
 A total of 268 university students from seven private institutions in El Salvador participated through convenience sampling. The survey was administered via QuestionPro and processed in SPSS v.23, with internal consistency reported as "Adjusted Cronbach's α = 0.824". The sample was 54.1% female, 84.3% single, 51.9% from public secondary schools and 47.8% from private ones, 42.9% employed and 88.1% without children. [[undergraduate-education|Bachelor]]'s degree students made up 54.9% and engineering students 35.8%, with participation concentrated in the second (34.3%), fourth (17.2%), eighth (14.2%) and tenth (17.9%) academic cycles.
 

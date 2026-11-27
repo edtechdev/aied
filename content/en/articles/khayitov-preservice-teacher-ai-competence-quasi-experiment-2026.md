@@ -1,7 +1,7 @@
 ---
 title: "Developing pre-service teachers’ AI competence: a quasi-experimental study of a TICII-based methodical system"
 created: "2026-11-25T09:24:00-05:00"
-updated: "2026-11-25T09:24:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Umidjon Khayitov"]
@@ -32,13 +32,12 @@ verified: [citation, numbers]
 > **Synthesis:** Khayitov (2026) reports a multi-institutional quasi-experiment on a methodical system for building [[teacher-ai-competency|AI competence]] in pre-service teachers, organized around a five-part model labeled TICII: transformation, individualization, competence, inclusivity and integration. Across six [[higher-ed|higher education]] institutions in Uzbekistan, 283 master's students in AI-related and computer-science programs were split into an experimental group of 144 and a control group of 139, assessed on a three-level competence scale at baseline and at the end of an intervention that ran over three academic years. The experimental group's share at the high level rose from 13.9% to 47.9% while its low-level share fell from 39.6% to 9.7%; the control group moved far less, and the final-stage difference between groups was statistically significant with a medium-sized association. The design is weaker than its headline numbers suggest: outcomes were retained as aggregate group frequencies rather than linked individual records, and the same instructors who taught also assessed, so the direction and size of any rater bias cannot be estimated.
 
 ## Key Findings
-- **The experimental group's high-level share more than tripled.** It rose from 13.9% to 47.9% against a control group shift from 15.1% to 20.1%.
-- **Low-level classification fell sharply in the experimental group.** From 39.6% to 9.7%, compared with 39.6% to 29.5% in the control group.
-- **The groups were comparable at baseline.** A chi-square test across the three levels found no detectable difference in distribution before the intervention.
-- **The final-stage difference was significant with a medium association.** The between-group test on level distribution gave Cramér's V = 0.332, with the group-level Mann-Whitney analysis reported alongside it.
-- **Individual transitions are not shown.** Baseline and final records were kept as aggregate frequencies, so the analysis cannot say that particular students moved up a level.
-- **The intervention included engagement monitoring.** An EduAI platform display estimated session-level engagement from video and audio cues processed locally on the instructor's computer, with a weighting scheme that has not been validated.
-
+1. **The experimental group's high-level share more than tripled.** It rose from 13.9% to 47.9% against a control group shift from 15.1% to 20.1%.
+2. **Low-level classification fell sharply in the experimental group.** From 39.6% to 9.7%, compared with 39.6% to 29.5% in the control group.
+3. **The groups were comparable at baseline.** A chi-square test across the three levels found no detectable difference in distribution before the intervention.
+4. **The final-stage difference was significant with a medium association.** The between-group test on level distribution gave Cramér's V = 0.332, with the group-level Mann-Whitney analysis reported alongside it.
+5. **Individual transitions are not shown.** Baseline and final records were kept as aggregate frequencies, so the analysis cannot say that particular students moved up a level.
+6. **The intervention included engagement monitoring.** An EduAI platform display estimated session-level engagement from video and audio cues processed locally on the instructor's computer, with a weighting scheme that has not been validated.
 ## What the methodical system contains
 
 The TICII model is an attempt to operationalize what international frameworks leave general. [[tpack|TPACK]], DigCompEdu and the UNESCO AI competency framework for teachers each describe technological-[[pedagogy|pedagogical]] integration, and Khayitov argues they do not specify the diagnostic, individualization and ethical dimensions as an integrated instructional and assessment system. The intervention's nine modules were delivered across roughly 30 contact hours in the experimental course, with diagnostic scoring kept separate from the engagement display.

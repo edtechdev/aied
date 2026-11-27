@@ -1,7 +1,7 @@
 ---
 title: "Constraining Innovation: a critical discourse analysis of power and assessment policy in higher education"
 created: "2026-11-24T09:15:00-05:00"
-updated: "2026-11-24T09:15:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["David Yarwood"]
@@ -36,14 +36,13 @@ verified: [citation]
 
 ## Key Findings
 
-- **Four themes recur.** Efficiency, surveillance, standardization and pastoral power each appear across the documents, and they interact rather than standing alone.
-- **Efficiency is an [[assessment|assessment design]] value.** Fixed deadlines, capped reassessment and restricted extensions are written as institutional priorities, which pushes out experimentation and iterative work.
-- **Surveillance is the default posture.** [[ai-detection|Plagiarism detection]] software, mandatory submission systems and institutional ownership of examination scripts construct students as potential violators and academics as regulators.
-- **AI was largely absent from the core policy texts.** Where it appeared at all it sat in supplementary guidance and was framed around misconduct detection. The authors treat that marginal position as itself a finding: AI has not entered foundational assessment governance.
-- **Standardisation privileges measurability.** Uniform grade boundaries, centralised moderation and quantified outcomes marginalize interpretive judgment and creative demonstration of learning.
-- **Support is conditional.** Extensions and special consideration require formal evidence and panel approval, so flexibility becomes a concession administered by the institution rather than a [[pedagogy|pedagogical]] entitlement.
-- **Formal policy is not the whole story.** Broader institutional discourse and risk-averse culture maintain the same constraints, and the author argues both must be addressed.
-
+1. **Four themes recur.** Efficiency, surveillance, standardization and pastoral power each appear across the documents, and they interact rather than standing alone.
+2. **Efficiency is an [[assessment|assessment design]] value.** Fixed deadlines, capped reassessment and restricted extensions are written as institutional priorities, which pushes out experimentation and iterative work.
+3. **Surveillance is the default posture.** [[ai-detection|Plagiarism detection]] software, mandatory submission systems and institutional ownership of examination scripts construct students as potential violators and academics as regulators.
+4. **AI was largely absent from the core policy texts.** Where it appeared at all it sat in supplementary guidance and was framed around misconduct detection. The authors treat that marginal position as itself a finding: AI has not entered foundational assessment governance.
+5. **Standardisation privileges measurability.** Uniform grade boundaries, centralised moderation and quantified outcomes marginalize interpretive judgment and creative demonstration of learning.
+6. **Support is conditional.** Extensions and special consideration require formal evidence and panel approval, so flexibility becomes a concession administered by the institution rather than a [[pedagogy|pedagogical]] entitlement.
+7. **Formal policy is not the whole story.** Broader institutional discourse and risk-averse culture maintain the same constraints, and the author argues both must be addressed.
 ## How the analysis was done
 
 The study reads each document at three levels: the text itself, the discursive practice that produces and circulates it, and the social practice it sustains. That structure is what lets the author move from repeated words to institutional effects, since the argument is about how policy language constructs who students and staff are allowed to be. A word-frequency analysis supports the thematic coding without driving it.

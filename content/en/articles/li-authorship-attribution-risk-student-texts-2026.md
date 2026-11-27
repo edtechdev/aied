@@ -1,7 +1,7 @@
 ---
-title: "Reducing authorship attribution risk in student texts through style-conditioned rewriting"
+title: "Reducing Authorship Attribution Risk in Student Texts Through Style-Conditioned Rewriting"
 created: "2026-11-24T09:40:00-05:00"
-updated: "2026-11-24T10:20:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Li Siyan", "Zhen Xu", "Jiayi Chen", "Shopnil Shahriar", "Alessandro Sayad", "Xuanming Zhang", "Renzhe Yu", "Zhou Yu"]
 venue: "arXiv preprint (cs.CL)"
@@ -33,13 +33,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Rewriting preserved downstream performance closely.** Classifiers trained on SEAMS rewrites lost at most 1.8 points relative to training on originals (proprietary), −0.3 on Stanford MOOC, and −0.1 on Stack Exchange.
-- **Human raters preferred SEAMS on style.** Against three baselines, annotators judged SEAMS closer to the original author's style 71.3% (±6.2) of the time versus zero-shot content-and-structure, 66.5% (±6.6) versus cluster summary, and 67.1% (±5.7) versus DP-Prompt; the advantage persisted without boilerplate items.
-- **Attribution risk fell across attackers and datasets.** SEAMS reduced the mean reciprocal rank ratio relative to real posts for all three attackers on all three datasets, with the largest reduction against LUAR; the advantage held across random seeds.
-- **Cluster aggregation added protection.** SEAMS was below its single-partition variant SEAMS-1 on six of nine attacker–dataset pairs.
-- **Style fidelity was the hard part.** Content and structure were reliably preserved; maintaining an authentic student register remained the [[primary-education|primary]] bottleneck, which is why style-conditioned exemplars mattered.
-- **The pipeline is more expensive than it first appears.** SEAMS costs five times as many [[llm]] calls as SEAMS-1 but only about 17% more total tokens per post, since each call carries a shorter prompt.
-
+1. **Rewriting preserved downstream performance closely.** Classifiers trained on SEAMS rewrites lost at most 1.8 points relative to training on originals (proprietary), −0.3 on Stanford MOOC, and −0.1 on Stack Exchange.
+2. **Human raters preferred SEAMS on style.** Against three baselines, annotators judged SEAMS closer to the original author's style 71.3% (±6.2) of the time versus zero-shot content-and-structure, 66.5% (±6.6) versus cluster summary, and 67.1% (±5.7) versus DP-Prompt; the advantage persisted without boilerplate items.
+3. **Attribution risk fell across attackers and datasets.** SEAMS reduced the mean reciprocal rank ratio relative to real posts for all three attackers on all three datasets, with the largest reduction against LUAR; the advantage held across random seeds.
+4. **Cluster aggregation added protection.** SEAMS was below its single-partition variant SEAMS-1 on six of nine attacker–dataset pairs.
+5. **Style fidelity was the hard part.** Content and structure were reliably preserved; maintaining an authentic student register remained the [[primary-education|primary]] bottleneck, which is why style-conditioned exemplars mattered.
+6. **The pipeline is more expensive than it first appears.** SEAMS costs five times as many [[llm]] calls as SEAMS-1 but only about 17% more total tokens per post, since each call carries a shorter prompt.
 ## Why student text is hard to share
 
 Discussion forums are a rich record of how students actually write — their urgency, confusion, tone, and rhetorical habits — and virtual teaching assistants need training and evaluation data that reflects that variety. Yet the same properties make the data sensitive. The authors note that simply redacting names is insufficient, because IRBs often prohibit releasing student-authored content altogether, including text with no personally identifiable information. General-purpose models prompted to simulate students tend to flatten that heterogeneity, producing distributionally flat synthetic writing that can mislead a deployed assistant.

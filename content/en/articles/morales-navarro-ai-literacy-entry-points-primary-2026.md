@@ -1,7 +1,7 @@
 ---
 title: "Found in Translation: Five Entry Points to Translate AI Literacy Frameworks in the Design of Educational Materials"
 created: "2026-11-25T09:11:00-05:00"
-updated: "2026-11-25T09:11:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Luis Morales-Navarro", "Karl-Emil K. Bilstrup", "Mille Skovhus Lunding", "Luke Connelly", "Ane V. Jensen", "Maja Dybboe", "Yasmin B. Kafai", "Marianne Graves Petersen", "Ole Sejer Iversen"]
@@ -31,13 +31,12 @@ verified: [citation, numbers]
 > **Synthesis:** Morales-Navarro and colleagues (2026) start from a practical complaint: there are many [[ai-literacy]] frameworks and little guidance on where a designer of teaching materials should begin. Most frameworks describe AI as socio-technical, yet interventions in practice center on teaching learners to use it. Working from computational empowerment in the Scandinavian participatory design tradition, the authors convened primary [[teacher-role|teacher]] educators, curriculum designers, media producers and researchers to negotiate a shared language, and produced five entry points into AI literacy for [[primary-education|K-6]]: data is created, AI systems make predictions, anthropomorphism in AI systems, AI as a design material, and intentionality in AI systems. Three vignettes show the entry points used to design a learning activity, a children's television screenplay, and activities for parents and children. The claim is not that five starting points constitute a framework, but that a negotiable set of [[scaffolding|starting points]] lets different professionals design [[constructivist|constructive]] materials while keeping a common foundation.
 
 ## Key Findings
-- **Framework abundance is a design problem, not a knowledge gap.** The authors document that designers face a proliferation of AI literacy and informatics frameworks with no guidance about which ideas to start from.
-- **Most frameworks say socio-technical; most interventions teach tool use.** The review the authors draw on finds a persistent gap between framework emphasis and enacted practice, especially for [[generative-ai|generative AI]].
-- **Five entry points are the negotiated output, not a top-down list.** Data is created, AI makes predictions, anthropomorphism, AI as a design material, and intentionality were worded and reworded as stakeholders used them.
-- **Stakeholder ownership changed the content.** Media producers, teacher educators and technology designers did not merely translate predefined AI concepts into formats; their questions reshaped how the topics were worded and related.
-- **The entry points function as boundary objects.** Recognizable across professional practices and adaptable within each, they supported coordination without requiring every partner to design the same kind of material.
-- **Three vignettes show different material types from one foundation.** A school learning activity, a children's TV screenplay and a set of home activities each drew on the same entry points without converging on the same design.
-
+1. **Framework abundance is a design problem, not a knowledge gap.** The authors document that designers face a proliferation of AI literacy and informatics frameworks with no guidance about which ideas to start from.
+2. **Most frameworks say socio-technical; most interventions teach tool use.** The review the authors draw on finds a persistent gap between framework emphasis and enacted practice, especially for [[generative-ai|generative AI]].
+3. **Five entry points are the negotiated output, not a top-down list.** Data is created, AI makes predictions, anthropomorphism, AI as a design material, and intentionality were worded and reworded as stakeholders used them.
+4. **Stakeholder ownership changed the content.** Media producers, teacher educators and technology designers did not merely translate predefined AI concepts into formats; their questions reshaped how the topics were worded and related.
+5. **The entry points function as boundary objects.** Recognizable across professional practices and adaptable within each, they supported coordination without requiring every partner to design the same kind of material.
+6. **Three vignettes show different material types from one foundation.** A school learning activity, a children's TV screenplay and a set of home activities each drew on the same entry points without converging on the same design.
 ## Where the entry points came from
 
 Before the first partner workshop, the research team compared the Five Big Ideas in AI, Long and Magerko's AI literacy competencies, and the core topic areas of the Informatics Reference Framework for School. That comparison produced provisional topic areas for K-6, filtered through computational empowerment: topics that connect technical and socio-ethical perspectives and can be tied to children's everyday experience of AI.

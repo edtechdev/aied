@@ -1,7 +1,7 @@
 ---
-title: "Improving entrepreneurial skills by practicing with AI"
+title: "Improving Entrepreneurial Skills by Practicing with AI"
 created: "2026-11-24T09:45:00-05:00"
-updated: "2026-11-24T09:45:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Amir Globerson", "Anisha Choudhury", "Anna Iurchenko", "Ashley Hemmy", "Avinatan Hassidim", "Cathy Cheung", "Christine Ryan", "Darlene Lacey", "Elizabeth Kim", "Femi Olanubi", "Gabby Espinosa", "Gaby Andrews", "Gal Elidan", "Hannah Lieber", "Hairong Mu", "Jason Delgatto", "J.D. LaRock", "Jeannine Schloss", "Katherine Chou", "Nir Kerem", "Niv Efron", "Rajvi Kapadia", "Rena Levitt", "Rotem Yulzary", "Shashank Agarwal", "Tracey Lee-Joe", "Victor Martinez", "Yael Haramaty", "Yishay Mor", "Yossi Matias"]
 venue: "arXiv preprint (cs.CY)"
@@ -33,13 +33,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Vantage students outscored controls on the Capstone Business Plan.** Treatment averaged 67.6% across 36 students against 60.5% across 16 controls, a difference of +7.1 percentage points.
-- **The effect survived site adjustment.** Holding site constant left the estimate at +6.67 percentage points, and the adjusted analysis explained far more of the variation in scores than the unadjusted one.
-- **Every randomized site pointed the same way.** Site-level differences ranged from +2.0 to +9.9 percentage points, and no site had controls ahead.
-- **The reported gain exceeds prior [[benchmark|benchmarks]].** The authors note that effect sizes on entrepreneurial mindset outcomes in earlier entrepreneurship education research are much smaller.
-- **The impact sample was small.** Only 37 students completed both the pre- and post-Vantage test, and 24 had valid skill scores on all assessed sub-skills at both time points; per-site control groups held 2–5 students.
-- **The practice design keeps the AI from doing the work.** Teammates act as collaborators who push back rather than assistants; an in-platform tool may process information and answer scenario questions but is instructed not to perform the task's cognitive work or supply direct answers.
-
+1. **Vantage students outscored controls on the Capstone Business Plan.** Treatment averaged 67.6% across 36 students against 60.5% across 16 controls, a difference of +7.1 percentage points.
+2. **The effect survived site adjustment.** Holding site constant left the estimate at +6.67 percentage points, and the adjusted analysis explained far more of the variation in scores than the unadjusted one.
+3. **Every randomized site pointed the same way.** Site-level differences ranged from +2.0 to +9.9 percentage points, and no site had controls ahead.
+4. **The reported gain exceeds prior [[benchmark|benchmarks]].** The authors note that effect sizes on entrepreneurial mindset outcomes in earlier entrepreneurship education research are much smaller.
+5. **The impact sample was small.** Only 37 students completed both the pre- and post-Vantage test, and 24 had valid skill scores on all assessed sub-skills at both time points; per-site control groups held 2–5 students.
+6. **The practice design keeps the AI from doing the work.** Teammates act as collaborators who push back rather than assistants; an in-platform tool may process information and answer scenario questions but is instructed not to perform the task's cognitive work or supply direct answers.
 ## How the practice environment works
 
 A Vantage session runs through setup, conversation, submission, and feedback. The student is placed in a realistic scenario with a stakeholder role — auditing a startup's expense list, say, or helping founders articulate a brand purpose — and is joined by one or more AI teammates occupying other roles in the same situation. The conversation lasts roughly twenty minutes, during which teammates contribute ideas, ask clarifying questions, and disagree rather than completing the assignment. The student then submits a written deliverable and receives two kinds of score: a Submission Score from 1 to 3 against the task rubric, and Skill Scores from 1 to 4 on assessed sub-skills such as Evaluate & Judge and Active Listening, each accompanied by a strength and a growth tip drawn from quoted turns of the student's own conversation.

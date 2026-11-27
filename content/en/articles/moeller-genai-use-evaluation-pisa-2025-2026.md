@@ -1,7 +1,7 @@
 ---
-title: "Widely used, unevenly evaluated? Generative AI use, AI-output evaluation, and their association with socioeconomic background across 59 countries (PISA 2025)"
+title: "Widely Used, Unevenly Evaluated? Generative AI Use, AI-Output Evaluation, and Their Association with Socioeconomic Background Across 59 Countries (PISA 2025)"
 created: "2026-11-24T09:40:00-05:00"
-updated: "2026-11-24T09:40:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Eileen Richter", "Sebastian Roehl", "Joshua Weidlich", "Luisa Köhler", "Ada Jung", "Korbinian Moeller", "Markus W. H. Spitzer"]
 venue: "PsyArXiv preprint"
@@ -34,13 +34,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Use is close to universal; explicit evaluation is not.** About 90% of students reported any AI use for schoolwork and 57.5% used chatbots at least weekly, but only 35.3% were often asked to evaluate AI output.
-- **A third of students are never asked.** 33.2% reported being asked never or almost never to evaluate AI-generated information in lessons.
-- **Use and evaluation travel together, but imperfectly.** Students who used AI more also reported more evaluation instruction in every participating country, though the association shrank once non-users were excluded.
-- **Frequent use does not guarantee instruction.** One in four at-least-weekly users reported never or almost never evaluating AI output, ranging from about one in seven in Albania to more than half in Japan.
-- **Advantaged students reported more evaluation instruction.** Even after holding AI use and student background constant, socioeconomic advantage predicted more frequent [[ai-ed-evaluation|evaluation of AI]] output.
-- **Country variation is large in both measures.** Weekly use ran from roughly 30% in some systems to above 70% in others, while frequent evaluation ran from below 20% to above 50%.
-
+1. **Use is close to universal; explicit evaluation is not.** About 90% of students reported any AI use for schoolwork and 57.5% used chatbots at least weekly, but only 35.3% were often asked to evaluate AI output.
+2. **A third of students are never asked.** 33.2% reported being asked never or almost never to evaluate AI-generated information in lessons.
+3. **Use and evaluation travel together, but imperfectly.** Students who used AI more also reported more evaluation instruction in every participating country, though the association shrank once non-users were excluded.
+4. **Frequent use does not guarantee instruction.** One in four at-least-weekly users reported never or almost never evaluating AI output, ranging from about one in seven in Albania to more than half in Japan.
+5. **Advantaged students reported more evaluation instruction.** Even after holding AI use and student background constant, socioeconomic advantage predicted more frequent [[ai-ed-evaluation|evaluation of AI]] output.
+6. **Country variation is large in both measures.** Weekly use ran from roughly 30% in some systems to above 70% in others, while frequent evaluation ran from below 20% to above 50%.
 ## What the gap looks like
 
 The central observation is a mismatch between two behaviors that policy assumes go together. Students have adopted generative AI quickly and broadly, but the [[pedagogy|pedagogical]] response — asking them to judge the quality of what it returns — reaches barely a third of them regularly. This is the classroom half of [[ai-literacy]], and it is where a [[teacher-role|teacher]] can model evaluation, supply missing knowledge, and give [[feedback]] on the judgment itself. The authors treat the lesson setting as the place where the gap can be closed for all students rather than only those whose families provide it.

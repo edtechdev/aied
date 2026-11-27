@@ -1,7 +1,7 @@
 ---
 title: "Critical reflections on AI integration in graduate research writing"
 created: "2026-11-27T01:30:00-05:00"
-updated: "2026-11-27T01:30:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-07-23"
 sources: ['raw/papers/pham-graduate-research-writing-reflections-2026.md']
@@ -42,7 +42,7 @@ verified: [citation, numbers]
 
 ## Course and interview design
 
-The study took place at a [[higher-ed|university]] in Ho Chi Minh City, Vietnam, with a [[learners|student population]] of approximately 40,000. Its Graduate Program in English Language Studies was established in 2022 and had enrolled 61 students. The Research Writing course was a core requirement; 18 graduate students were enrolled in the semester of data collection, with ages ranging from 24 to 32, five males and 13 females, and English proficiency at C1–C2 on the CEFR scale. Because the researcher also taught the course, recruitment used convenience sampling from the single class, precluding between-group comparisons.
+The study took place at a [[higher-ed|university]] in Ho Chi Minh City, Vietnam, with a student population of approximately 40,000. Its Graduate Program in English Language Studies was established in 2022 and had enrolled 61 students. The Research Writing course was a core requirement; 18 graduate students were enrolled in the semester of data collection, with ages ranging from 24 to 32, five males and 13 females, and English proficiency at C1–C2 on the CEFR scale. Because the researcher also taught the course, recruitment used convenience sampling from the single class, precluding between-group comparisons.
 
 Instruction combined class discussion, case studies, [[problem-solving]] tasks, student presentations, peer and [[teacher-role|teacher]] feedback, and weekly scaffolded assignments covering cause-effect, descriptive and argumentative essays, paraphrasing, summarizing, literature reviews, data commentary and abstracts, with APA-style citation throughout. ChatGPT, Grammarly and QuillBot were introduced as supplementary aids that students were told to cross-check against scholarly sources. The course ended with a literature-based paper or small-scale empirical project. In lessons, the instructor selected four to five student projects for real-time whole-class comments on structure, clarity, coherence, referencing and source engagement; Turnitin was used occasionally.
 

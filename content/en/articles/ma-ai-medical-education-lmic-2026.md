@@ -1,7 +1,7 @@
 ---
 title: "A global perspective on the use of artificial intelligence in medical education: comparing middle-income and low-income countries"
 created: "2026-11-24T10:20:00-05:00"
-updated: "2026-11-24T10:20:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Ying Ma", "Jiamin Zhang", "Zhongjin An", "Hong Liang", "Jiaxin Li", "Zhengyu Li", "Jin Zhu", "Xuefeng Huang", "Meijie Wu", "Xinyu Pang", "Junyang Wang", "Ying Yang", "Yubin Ju", "Hao Zhang", "Yuanyuan Zhang", "Xiaoyu Ji"]
@@ -38,21 +38,20 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **The pool is thin and concentrated.** Of 8,136 records identified, 6,058 remained after deduplication, 465 reached full-text assessment and 33 were included.
-- **Income levels split sharply.** Four studies came from low-income countries, fifteen from lower-middle-income and fourteen from upper-middle-income economies.
-- **Two countries dominate.** China and India contributed the largest number of included studies, with smaller clusters from Africa, the Middle East and North Africa, and Latin America.
-- **Applications track resources.** Low-income settings reported accessible conversational tools used for assignments, exam preparation and [[writing-education|academic writing]]. Higher-resource settings reported specialized systems such as prenatal screening tools, virtual case teaching platforms and clinical support systems.
-- **Reported benefits are process outcomes.** Learning efficiency, reduced time on academic tasks, digital literacy, [[personalized-learning|personalized learning]] and immediate feedback recur across studies, largely in upper-middle-income settings.
-- **Challenges are structural.** Infrastructure availability, [[privacy|data privacy]], accessibility, user acceptance, language adaptation, network access and [[trust|trust in AI]] systems were all reported.
-- **Adoption does not equal capacity.** The authors found no consistent national-level assessment of policy environments or public investment, so they decline to rank countries by AI adoption.
-
+1. **The pool is thin and concentrated.** Of 8,136 records identified, 6,058 remained after deduplication, 465 reached full-text assessment and 33 were included.
+2. **Income levels split sharply.** Four studies came from low-income countries, fifteen from lower-middle-income and fourteen from upper-middle-income economies.
+3. **Two countries dominate.** China and India contributed the largest number of included studies, with smaller clusters from Africa, the Middle East and North Africa, and Latin America.
+4. **Applications track resources.** Low-income settings reported accessible conversational tools used for assignments, exam preparation and [[writing-education|academic writing]]. Higher-resource settings reported specialized systems such as prenatal screening tools, virtual case teaching platforms and clinical support systems.
+5. **Reported benefits are process outcomes.** Learning efficiency, reduced time on academic tasks, digital literacy, [[personalized-learning|personalized learning]] and immediate feedback recur across studies, largely in upper-middle-income settings.
+6. **Challenges are structural.** Infrastructure availability, [[privacy|data privacy]], accessibility, user acceptance, language adaptation, network access and [[trust|trust in AI]] systems were all reported.
+7. **Adoption does not equal capacity.** The authors found no consistent national-level assessment of policy environments or public investment, so they decline to rank countries by AI adoption.
 ## What the included studies actually show
 
 Generative AI, and ChatGPT above all, was the most frequently reported technology. Uses clustered into supporting medical students' writing, communication skills, learning activities and academic tasks. Speech-recognition technologies, [[online-teaching-and-learning|virtual learning]] systems and, in better-resourced settings, specialized clinical systems also appeared.
 
 Outcomes were reported rather than measured against comparison groups. Studies associated AI use with greater learning efficiency, shorter time on academic tasks and support for educational workflows, particularly in upper-middle-income countries. Digital literacy and personalized learning improvements appeared in several studies. Several studies placed AI inside simulation-based teaching and clinical reasoning training.
 
-The pattern by income level is the review's most useful observation. In low-income countries, applications mainly involved accessible conversational tools such as Snapchat AI, used for assignment completion, examination preparation and academic writing. In lower- and upper-middle-income countries, general-purpose tools including ChatGPT, Google Bard and Perplexity supported [[self-directed-learning|self-directed learning]], case-scenario analysis, item generation, language tasks and educational communication, while educators used them to generate multiple-choice questions and respond to learners. In some higher-resource settings, specialized systems appeared for simulation teaching, academic writing support, literature searching, translation and [[case-based-learning|case-based learning]].
+The pattern by income level is the review's most useful observation. In low-income countries, applications mainly involved accessible conversational tools such as Snapchat AI, used for assignment completion, examination preparation and academic writing. In lower- and upper-middle-income countries, general-purpose tools including ChatGPT, Google Bard and Perplexity supported [[self-directed-learning|self-directed learning]], case-scenario analysis, [[automated-question-generation|item generation]], language tasks and educational communication, while educators used them to generate multiple-choice questions and respond to learners. In some higher-resource settings, specialized systems appeared for simulation teaching, academic writing support, literature searching, translation and [[case-based-learning|case-based learning]].
 
 Publication volume also shifted. Few eligible studies appeared before 2022; the number and diversity of AI-related medical education studies increased afterwards, particularly once generative AI tools arrived.
 

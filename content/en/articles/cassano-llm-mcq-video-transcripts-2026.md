@@ -1,7 +1,7 @@
 ---
 title: "Instructors’ perceptions of a large language model framework for generating automated multiple-choice questions from video transcripts"
 created: "2026-11-24T09:10:00-05:00"
-updated: "2026-11-24T09:10:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Giacomo Cassano", "Daniel Ebbert", "Negin Mirriahi", "Nicoletta Di Blas"]
@@ -32,18 +32,18 @@ verified: [citation, numbers]
 
 > **Synthesis:** Cassano, Ebbert, Mirriahi and Di Blas (2026) built a pipeline that turns video transcripts into multiple-choice questions, embedding an established item-writing checklist directly in the generation prompt rather than applying it only afterwards. Seven instructors at one Italian [[higher-ed|university]] judged 257 questions derived from 45 [[online-teaching-and-learning|MOOC]] videos they had themselves recorded. Most items met quality guidelines: 84.05% were clear, 86.38% had plausible distractors and 93.39% were answerable directly from the video. The recurring defects were unfocused stems, questions about peripheral examples rather than core content, and overgeneralized wording. In interviews the instructors reported time savings of up to 80% and said they would use the items after light refinement.
 
-*[[mixed-methods-research|Mixed-methods]] expert-judgment study with seven faculty members at Politecnico di Milano and 257 generated MCQs from 45 MOOC videos averaging 7.01 minutes. Each item was rated by its own authoring instructor on three expert-judgment IWF criteria plus four content criteria; twelve formal criteria were checked by the authors. GPT-4o performed concept extraction and item generation.*
+*[[mixed-methods-research|Mixed-methods]] expert-judgment study with seven faculty members at Politecnico di Milano and 257 generated MCQs from 45 MOOC videos averaging 7.01 minutes. Each item was rated by its own authoring instructor on three expert-judgment IWF criteria plus four content criteria; twelve formal criteria were checked by the authors. GPT-4o performed concept extraction and [[automated-question-generation|item generation]].*
 
 ## Key Findings
 
-- **Most items passed.** Of the 257 questions, 121 (47.08%) met every criterion, 208 (80.93%) failed at most one, and only four showed three or more flaws.
-- **Fifteen items were simply wrong.** Rated totally wrong for reasons no checklist captures, 5.84% of the set, and all traced back to errors in the earlier concept-extraction step rather than to question writing.
-- **Clarity held.** 216 items (84.05%) were rated clear; 26 (10.12%) were not, usually because phrasing was too generic, because a supporting example had been mistaken for the main point, or because the model substituted a synonym for the correct technical term.
-- **Distractors were generally plausible.** 222 items (86.38%). Where they were not, difficulty collapsed: 80% of items with implausible distractors were also rated easy.
-- **Relevance was the weak spot.** 133 items (51.75%) were highly relevant, but 49 (19.07%) were low, typically questions about illustrative detail rather than the lesson's central idea.
-- **Difficulty was not controlled.** 59.14% fair, 28.02% easy and only 7.00% difficult, and several instructors said items came out easier than they wanted.
-- **Stems were formally flawed but usable.** An unfocused stem appeared in 31.13% of items, almost always an indefinite article implying more than one right answer. Instructors judged these usable anyway; excluding that criterion, 174 items passed everything and average failures fell from 0.66 to 0.34.
-- **Time saved substantially.** Interviewed instructors estimated up to 80% less preparation time compared with writing items from scratch, and described their role as refining rather than composing.
+
+1. **Most items passed, but fifteen were simply wrong.** Of the 257 questions, 121 (47.08%) met every criterion and 208 (80.93%) failed at most one, while 15 (5.84%) were rated totally wrong; all traced to errors in the earlier concept-extraction step rather than to question writing.
+2. **Clarity held.** 216 items (84.05%) were rated clear; 26 (10.12%) were not, usually because phrasing was too generic, because a supporting example had been mistaken for the main point, or because the model substituted a synonym for the correct technical term.
+3. **Distractors were generally plausible.** 222 items (86.38%). Where they were not, difficulty collapsed: 80% of items with implausible distractors were also rated easy.
+4. **Relevance was the weak spot.** 133 items (51.75%) were highly relevant, but 49 (19.07%) were low, typically questions about illustrative detail rather than the lesson's central idea.
+5. **Difficulty was not controlled.** 59.14% fair, 28.02% easy and only 7.00% difficult, and several instructors said items came out easier than they wanted.
+6. **Stems were formally flawed but usable.** An unfocused stem appeared in 31.13% of items, almost always an indefinite article implying more than one right answer. Instructors judged these usable anyway; excluding that criterion, 174 items passed everything and average failures fell from 0.66 to 0.34.
+7. **Time saved substantially.** Interviewed instructors estimated up to 80% less preparation time compared with writing items from scratch, and described their role as refining rather than composing.
 
 ## How the framework works
 

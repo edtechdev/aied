@@ -1,7 +1,7 @@
 ---
-title: "Measuring university students' satisfaction with traditional search engines and generative AI tools as information sources"
+title: "Measuring University Students Satisfaction with Traditional Search Engines and Generative AI Tools as Information Sources"
 created: "2026-11-24T09:50:00-05:00"
-updated: "2026-11-24T10:00:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Brady D. Lund", "Scott J. Warren", "Zoe Abbie Teel"]
 venue: "Reference Services Review"
@@ -33,13 +33,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Search engines beat AI on satisfaction.** Mean satisfaction was 3.12 (SD 0.80, median 3.25) for search engines against 2.11 (SD 1.00, median 2.17) for AI on a 0–4 scale — "often satisfied" versus "sometimes satisfied".
-- **The two satisfactions move in opposite directions.** Students who were more satisfied with search engines tended to be less satisfied with AI, a weak negative relationship that was statistically reliable.
-- **Use frequency tracks satisfaction, especially for AI.** Monthly AI use showed a strong positive relationship with AI satisfaction, and monthly search-engine use showed a moderate positive relationship with search-engine satisfaction; both relationships were statistically reliable.
-- **Two student groups emerged.** Cluster 1 (41% of cases) reported low AI satisfaction (mean 1.08) and high search-engine satisfaction (3.48); cluster 2 (59%) reported moderate-to-high satisfaction with both (AI 2.82, search engines 2.88).
-- **The dissatisfied-AI cluster skews domestic and graduate.** It contained 60.4% of domestic students but 17.6% of international students, and 64.7% of graduate students but 23.2% of undergraduates.
-- **Satisfaction loaded as single constructs.** Principal components analysis retained one component each for search engines (eigenvalue 2.84, 52.66% of variance) and AI (eigenvalue 3.41, 68.27%), with loadings from .622 to .855.
-
+1. **Search engines beat AI on satisfaction.** Mean satisfaction was 3.12 (SD 0.80, median 3.25) for search engines against 2.11 (SD 1.00, median 2.17) for AI on a 0–4 scale — "often satisfied" versus "sometimes satisfied".
+2. **The two satisfactions move in opposite directions.** Students who were more satisfied with search engines tended to be less satisfied with AI, a weak negative relationship that was statistically reliable.
+3. **Use frequency tracks satisfaction, especially for AI.** Monthly AI use showed a strong positive relationship with AI satisfaction, and monthly search-engine use showed a moderate positive relationship with search-engine satisfaction; both relationships were statistically reliable.
+4. **Two student groups emerged.** Cluster 1 (41% of cases) reported low AI satisfaction (mean 1.08) and high search-engine satisfaction (3.48); cluster 2 (59%) reported moderate-to-high satisfaction with both (AI 2.82, search engines 2.88).
+5. **The dissatisfied-AI cluster skews domestic and graduate.** It contained 60.4% of domestic students but 17.6% of international students, and 64.7% of graduate students but 23.2% of undergraduates.
+6. **Satisfaction loaded as single constructs.** Principal components analysis retained one component each for search engines (eigenvalue 2.84, 52.66% of variance) and AI (eigenvalue 3.41, 68.27%), with loadings from .622 to .855.
 ## What satisfaction looks like across two sources
 
 The study treats satisfaction as a measurable outcome of [[information-and-media-literacy|information seeking]] rather than a vague attitude. Ten items asked how satisfied students were with each source's ability to supply five kinds of information — job-related, coursework-related, studying topics, weather, and news. The components analysis found one dimension behind each set, meaning students answered about a source as a whole rather than distinguishing sharply among information types. That is itself informative: whatever drives satisfaction operates across contexts instead of being tied to one task.

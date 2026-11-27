@@ -1,7 +1,7 @@
 ---
-title: "When the scaffold stays on: AI, practice style, and screening in elite skill formation"
+title: "When the Scaffold Stays On: AI, Practice Style, and Screening in Elite Skill Formation"
 created: "2026-11-24T09:55:00-05:00"
-updated: "2026-11-24T09:55:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Song Yao"]
 venue: "arXiv preprint (cs.CY)"
@@ -33,12 +33,11 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Practice shifted toward the AI-prompt signature.** Relative to the pre-AI cohort, the AI-era cohort shows higher single-shot acceptances, median attempts about one-sixth below the 1.9-attempt baseline, and fewer quick retries, with every shift statistically strong.
-- **The signature predicted weaker growth only in the unscreened pool.** Among non-rostered users, a one-standard-deviation stronger signature was associated with about eighteen points less rating gain, roughly 6% of the 300-point mean post-ChatGPT gain, and the pooled interaction crossed the conventional significance threshold.
-- **The screened pool showed no such penalty.** For roster-linked users the estimate was a failure to reject rather than a precise zero, which the author reads as screening admitting complement-users and excluding substitute-users.
-- **AI-era contestants improved slightly with larger shifts.** Among AI-era entrants who reached ICPC, a larger within-user shift went with a small improvement in non-AI performance.
-- **The cohort gradient is descriptive, not causal.** Parallel pre-trends failed, and at matched career stage the transition and AI-era cohorts were statistically indistinguishable.
-
+1. **Practice shifted toward the AI-prompt signature.** Relative to the pre-AI cohort, the AI-era cohort shows higher single-shot acceptances, median attempts about one-sixth below the 1.9-attempt baseline, and fewer quick retries, with every shift statistically strong.
+2. **The signature predicted weaker growth only in the unscreened pool.** Among non-rostered users, a one-standard-deviation stronger signature was associated with about eighteen points less rating gain, roughly 6% of the 300-point mean post-ChatGPT gain, and the pooled interaction crossed the conventional significance threshold.
+3. **The screened pool showed no such penalty.** For roster-linked users the estimate was a failure to reject rather than a precise zero, which the author reads as screening admitting complement-users and excluding substitute-users.
+4. **AI-era contestants improved slightly with larger shifts.** Among AI-era entrants who reached ICPC, a larger within-user shift went with a small improvement in non-AI performance.
+5. **The cohort gradient is descriptive, not causal.** Parallel pre-trends failed, and at matched career stage the transition and AI-era cohorts were statistically indistinguishable.
 ## Two modes of using AI while practicing
 
 The paper's organizing idea is that the same AI-assisted output can come from two different relationships with the tool. In the substitute mode the AI performs the work through which skill is built; in the complement mode it handles parts the learner has already mastered, freeing attention for harder parts. Because the output looks identical, practice records are needed to distinguish them. The AI-prompt signature is offered as such a record: single-shot acceptances, few attempts, and few quick retries look like assistance doing the debugging rather than the learner doing it.

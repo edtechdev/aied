@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence as a constructivist scaffold in anaesthesia education: a mini review"
 created: "2026-11-27T05:31:00-05:00"
-updated: "2026-11-27T05:31:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-10-06"
 sources: ['raw/papers/ren-ai-constructivist-scaffold-anaesthesia-2026.md']
@@ -40,7 +40,7 @@ verified: [citation, numbers]
 6. **Added value must be tested against a non-AI comparison.** Simulation and human-led debriefing already have established evidence, so AI-generated branches or prompts should be compared with human-designed or matched non-AI conditions rather than assumed to improve learning.
 
 ## What the anesthesia-specific evidence actually shows
-The literature search was updated through 28 August 2026 using targeted PubMed/MEDLINE searches plus reference-list and citation searching of recent reviews and [[primary-education|primary]] studies. AI terms were combined with anesthesia and education terms, and broader health professions education literature was included only where anesthesia-specific evidence was absent. The authors call this a targeted narrative selection rather than a [[meta-analysis-systematic-review|systematic review]]: no formal risk-of-bias assessment or [[quantitative-research|quantitative]] synthesis was performed, and extrapolations are labeled as such. Clinical AI studies without an educational component were not counted as educational evidence.
+The literature search was updated through 28 August 2026 using targeted PubMed/MEDLINE searches plus reference-list and citation searching of recent reviews and [[primary-education|primary]] studies. AI terms were combined with anesthesia and education terms, and broader health [[professions-education|professions education]] literature was included only where anesthesia-specific evidence was absent. The authors call this a targeted narrative selection rather than a [[meta-analysis-systematic-review|systematic review]]: no formal risk-of-bias assessment or [[quantitative-research|quantitative]] synthesis was performed, and extrapolations are labeled as such. Clinical AI studies without an educational component were not counted as educational evidence.
 
 In a simulation-based randomized study of 40 anesthesiology residents, Cai and colleagues (2022) reported better checklist scores and lower rates of paresthesia during the first month of clinical popliteal sciatic block practice after training with an AI-assisted nerve-identification system than after traditional training. The review treats this as one of the stronger anesthesia-specific educational studies while noting that it involved a single center, one procedure and short follow-up.
 

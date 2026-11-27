@@ -1,7 +1,7 @@
 ---
-title: "Micro-level AI feedback features and student responses in consecutive LLM tutoring interactions"
+title: "Micro-level AI Feedback Features and Student Responses in Consecutive LLM Tutoring Interactions"
 created: "2026-11-24T09:25:00-05:00"
-updated: "2026-11-24T09:25:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Shayla Sharmin", "Mohammad Fahim Abrar", "Mohammad Al-Ratrout", "Roghayeh Leila Barmaki"]
 venue: "Journal of Computer Assisted Learning"
@@ -33,13 +33,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Concrete elaboration helped; length hurt.** Elaboration was associated with about twice the odds of next-turn understanding, while every additional 100 words of response lowered the odds of understanding by about a fifth.
-- **Longer answers also brought back confusion.** Each extra 100 words was associated with about 10% higher odds of re-confusion in the following interaction, after accounting for the other two features.
-- **Affective language did not move either outcome.** Understanding occurred in 10.1% of windows with encouragement, [[empathy]], or apology and 11.9% without, a gap too small to tell from chance; re-confusion occurred in 31.3% versus 25.1%, also short of the conventional threshold.
-- **The features rarely co-occurred.** Only 9 of 1,718 windows (0.5%) contained both concrete elaboration and affective language, so the estimates are close to independent tests of distinct moves.
-- **Confusion windows were common and consequential.** Re-confusion followed 443 windows (25.8%) and observable understanding 201 (11.7%); AI responses in these windows averaged 442.3 words, with a median of 439 and wide variation around that average.
-- **Human annotators largely agreed with the LLM labels.** Agreement was strongest for confusion (κ = .922–.949) and understanding (κ = .869), and weaker for follow-up and new-context judgments (κ = .651–.674).
-
+1. **Concrete elaboration helped; length hurt.** Elaboration was associated with about twice the odds of next-turn understanding, while every additional 100 words of response lowered the odds of understanding by about a fifth.
+2. **Longer answers also brought back confusion.** Each extra 100 words was associated with about 10% higher odds of re-confusion in the following interaction, after accounting for the other two features.
+3. **Affective language did not move either outcome.** Understanding occurred in 10.1% of windows with encouragement, [[empathy]], or apology and 11.9% without, a gap too small to tell from chance; re-confusion occurred in 31.3% versus 25.1%, also short of the conventional threshold.
+4. **The features rarely co-occurred.** Only 9 of 1,718 windows (0.5%) contained both concrete elaboration and affective language, so the estimates are close to independent tests of distinct moves.
+5. **Confusion windows were common and consequential.** Re-confusion followed 443 windows (25.8%) and observable understanding 201 (11.7%); AI responses in these windows averaged 442.3 words, with a median of 439 and wide variation around that average.
+6. **Human annotators largely agreed with the LLM labels.** Agreement was strongest for confusion (κ = .922–.949) and understanding (κ = .869), and weaker for follow-up and new-context judgments (κ = .651–.674).
 ## Turn-level signals in a naturalistic tutoring corpus
 
 Most research on [[ai-feedback-quality|AI-generated feedback]] asks whether students learned after a task or a session, which averages across many turns and hides what happens immediately after a learner says they are stuck. The authors instead isolate a confusion window: a student expresses confusion at interaction n, the AI responds, and the next interaction n+1 is coded for whether the confusion persists. Confusion was annotated only in follow-up turns, so a window captures sustained difficulty with the previous answer rather than a first expression of trouble. This is a different question from "did the tutor help?" — it asks which properties of one response change the trajectory of the next.

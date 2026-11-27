@@ -1,7 +1,7 @@
 ---
 title: "Development and initial validation of a survey examining critical GenAI literacy in higher education"
 created: "2026-11-27T05:41:00-05:00"
-updated: "2026-11-27T05:41:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-07-20"
 sources: ['raw/papers/chaaban-critical-genai-literacy-survey-2026.md']
@@ -44,7 +44,7 @@ verified: [citation, numbers]
 
 The authors define critical GenAI literacy as an holistic construct situated in academic writing. Functional Literacy covers ease and confidence with the tools. Agency and Autonomy covers self-determination, control and non-reliance. Ethical and Responsible Use covers verification, privacy, transparency and disclosure. Reflection and Evaluation initially covered analysis of outputs and implications, but the retained items expressed affective monitoring of risk rather than explicit evaluative acts. The conceptual ground is writing-process theory, [[academic-integrity|academic integrity]], genre theory and multilingual writing; the last matters because most programs at the study site are delivered in Arabic while others use English.
 
-Item generation began with a review of earlier [[ai-literacy|AI literacy]] frameworks. The team assembled 62 statements across the four dimensions, reworded and removed items through internal deliberation until 35 remained, and asked four experts in educational technology and digital [[ethics]] to rate clarity and relevance. Statements were dropped when two reviewers agreed on omission, leaving 33 items on a five-point scale from 1 (strongly disagree) to 5 (strongly agree). Arabic and English versions were produced by back translation, but measurement invariance across languages was not tested. Iterative psychometric work reduced the administered 33 items to the final 23.
+[[automated-question-generation|Item generation]] began with a review of earlier [[ai-literacy|AI literacy]] frameworks. The team assembled 62 statements across the four dimensions, reworded and removed items through internal deliberation until 35 remained, and asked four experts in educational technology and digital [[ethics]] to rate clarity and relevance. Statements were dropped when two reviewers agreed on omission, leaving 33 items on a five-point scale from 1 (strongly disagree) to 5 (strongly agree). Arabic and English versions were produced by back translation, but measurement invariance across languages was not tested. Iterative psychometric work reduced the administered 33 items to the final 23.
 
 The setting was a large public university in Qatar with eleven colleges. Students completed the online survey over a two-month period; 487 valid responses were obtained. Instructors who had attended university workshops shared the link, so the number of students who received the invitation is unknown. The responses were randomly divided for exploratory analysis (n = 214) and confirmatory analysis (n = 273), with listwise treatment of missing data in the confirmatory phase.
 

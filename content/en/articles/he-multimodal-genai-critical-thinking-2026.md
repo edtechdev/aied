@@ -1,7 +1,7 @@
 ---
 title: "Exploring the impact of multimodal generative artificial intelligence on CT dispositions in inquiry-based academic writing: a quasi-experimental analysis in higher education"
 created: "2026-11-27T01:32:00-05:00"
-updated: "2026-11-27T01:32:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-08-28"
 sources: ['raw/papers/he-multimodal-genai-critical-thinking-2026.md']
@@ -65,7 +65,7 @@ For writing quality, the condition effect was F(2, 161) = 41.12, p < .001, parti
 - The six-week intervention may have been too short to shift slower-moving dispositional dimensions, and there was no follow-up after the single posttest.
 - CT dispositions were [[self-report-measures|self-reported]] and open to social-desirability bias; behavioral indicators of critical engagement were not collected.
 - The CTML explanation is inferential because no process-level measure of verbal and visual channel use was taken.
-- The setting, [[learners|student population]] and specific Qwen tool limit generalization; multimodal outputs also carry higher information density, which was not measured.
+- The setting, student population and specific Qwen tool limit generalization; multimodal outputs also carry higher information density, which was not measured.
 
 ## Citation
 He Y, Niu T and Ashari ZM (2026) Exploring the impact of multimodal generative artificial intelligence on CT dispositions in inquiry-based academic writing: a quasi-experimental analysis in higher education. Front. Educ. 11:1926173. doi: 10.3389/feduc.2026.1926173.

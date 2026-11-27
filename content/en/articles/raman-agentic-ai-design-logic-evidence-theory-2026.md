@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI in education: design logic, evidence quality, and theoretical foundations"
 created: "2026-11-24T01:05:00-05:00"
-updated: "2026-11-24T01:05:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Raghu Raman", "Kai-Yu Tang", "Prema Nedungadi"]
@@ -37,14 +37,13 @@ verified: [citation, numbers, quotes]
 
 ## Key Findings
 
-- **Theory is largely absent.** 153 of 170 papers (90.0%) engage no learning theory, only 6 (3.5%) name one explicitly, and 164 (96.5%) show no integration beyond a shallow mention. Core [[learning-sciences]] frameworks are close to missing: [[cognitive-offloading|cognitive load]] in one paper, schema theory and [[sociocultural-learning|sociocultural theory]] in none, despite all three speaking directly to how an agent should pace, structure and mediate instruction.
-- **Autonomy is the design decision nobody reports.** 97 papers (57.1%) leave the agent's autonomy unspecified. Where it is stated, 44 (25.9%) are semi-autonomous, 24 (14.1%) fully autonomous and 5 (2.9%) supervised. Autonomy decides whether learners retain or cede [[agency|agency]], so its absence from the abstract leaves practitioners unable to judge fit.
-- **Roles are bundled rather than argued.** 74 papers (43.5%) assign an agent several roles without [[pedagogy|pedagogical]] justification, and 38 (22.4%) cast it primarily as an assessor. Papers addressing multiple problems are markedly more likely to bundle roles, the one association among six pre-specified tests that survives correction.
-- **The evidence base cannot support effectiveness claims.** Only 5 papers (2.9%) meet the strong-evidence criteria of experimental or quasi-experimental design, comparison group and adequate sample; 125 (73.5%) provide weak evidence. Comparison groups appear in 19 papers (11.2%), effect sizes in 16 (9.4%), and 119 of 146 empirical papers (81.5%) do not report a sample size.
-- **Outcomes are reported positively but thinly.** 48 papers (28.2%) report positive outcomes, 32 (18.8%) mixed, 7 (4.1%) neutral or negative, and 35 (20.6%) report no outcome in the abstract at all.
-- **Coverage inverts enrollment.** Undergraduate settings dominate with 37 papers (21.8%), K-12 has 15 (8.8%), and 102 (60.0%) name no level. [[special-education|Students with disabilities]] appear in 15 papers (8.8%), English language learners in 3 (1.8%) and at-risk students in 1 (0.6%); teachers appear in 68 (40.0%).
-- **Rationales track capability, not need.** "Leverage AI capabilities" is cited in 84 papers (49.4%) and "enhance engagement" in 81 (47.6%); reducing [[teacher-role|teacher]] workload appears in 23 (13.5%), scaling [[personalized-learning|personalization]] in 20 (11.8%) and equity in 16 (9.4%). Only 31 papers (18.2%) identify a gap in prior research, and 40 (23.5%) report any consultation with teachers or students.
-
+1. **Theory is largely absent.** 153 of 170 papers (90.0%) engage no learning theory, only 6 (3.5%) name one explicitly, and 164 (96.5%) show no integration beyond a shallow mention. Core [[learning-sciences]] frameworks are close to missing: [[cognitive-offloading|cognitive load]] in one paper, schema theory and [[sociocultural-learning|sociocultural theory]] in none, despite all three speaking directly to how an agent should pace, structure and mediate instruction.
+2. **Autonomy is the design decision nobody reports.** 97 papers (57.1%) leave the agent's autonomy unspecified. Where it is stated, 44 (25.9%) are semi-autonomous, 24 (14.1%) fully autonomous and 5 (2.9%) supervised. Autonomy decides whether learners retain or cede [[agency|agency]], so its absence from the abstract leaves practitioners unable to judge fit.
+3. **Roles are bundled rather than argued.** 74 papers (43.5%) assign an agent several roles without [[pedagogy|pedagogical]] justification, and 38 (22.4%) cast it primarily as an assessor. Papers addressing multiple problems are markedly more likely to bundle roles, the one association among six pre-specified tests that survives correction.
+4. **The evidence base cannot support effectiveness claims.** Only 5 papers (2.9%) meet the strong-evidence criteria of experimental or quasi-experimental design, comparison group and adequate sample; 125 (73.5%) provide weak evidence. Comparison groups appear in 19 papers (11.2%), effect sizes in 16 (9.4%), and 119 of 146 empirical papers (81.5%) do not report a sample size.
+5. **Outcomes are reported positively but thinly.** 48 papers (28.2%) report positive outcomes, 32 (18.8%) mixed, 7 (4.1%) neutral or negative, and 35 (20.6%) report no outcome in the abstract at all.
+6. **Coverage inverts enrollment.** Undergraduate settings dominate with 37 papers (21.8%), K-12 has 15 (8.8%), and 102 (60.0%) name no level. [[special-education|Students with disabilities]] appear in 15 papers (8.8%), English language learners in 3 (1.8%) and at-risk students in 1 (0.6%); teachers appear in 68 (40.0%).
+7. **Rationales track capability, not need.** "Leverage AI capabilities" is cited in 84 papers (49.4%) and "enhance engagement" in 81 (47.6%); reducing [[teacher-role|teacher]] workload appears in 23 (13.5%), scaling [[personalized-learning|personalization]] in 20 (11.8%) and equity in 16 (9.4%). Only 31 papers (18.2%) identify a gap in prior research, and 40 (23.5%) report any consultation with teachers or students.
 ## Capability has replaced necessity as the design rationale
 
 The two dominant rationales for building agentic systems in education both point at what the technology can do rather than at a documented learning problem. Nearly half the corpus (84 papers, 49.4%) justifies development by leveraging AI capabilities, and almost as many (81, 47.6%) by enhancing engagement. The authors read this pairing as circular: the rationale for using AI is that AI has capabilities. Efficiency rationales that practitioners actually feel — reducing teacher workload (23 papers, 13.5%) and scaling personalized instruction (20, 11.8%) — trail far behind, and equity or inclusion appears in only 16 papers (9.4%).

@@ -1,7 +1,7 @@
 ---
 title: "Writing Motivation and Self-Efficacy in AI-Chatbot-Supported EFL Writing: Exploratory Insights Across Proficiency Levels"
 created: "2026-11-27T12:10:00-05:00"
-updated: "2026-11-27T12:10:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/duong-writing-motivation-chatbot-efl-2026.md']
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Duong and Chen followed 47 Vietnamese high school EFL learners through an 11-week study with 8 weeks of writing support from a chatbot built around [[self-determination-theory|Self-Determination Theory]], [[self-regulated-learning|Self-Regulated Learning]] and [[self-efficacy]] Theory. Higher- and lower-proficiency groups both showed gains in intrinsic motivation, [[motivation|extrinsic motivation]] and writing self-efficacy from pre- to post-questionnaire, and the magnitude of change did not differ significantly between groups. Interviews with ten learners described reduced [[anxiety-and-stress|anxiety]], clearer guidance and supportive interaction, although stronger students emphasized refinement while less proficient students emphasized help getting started. The authors frame the results as exploratory associations during chatbot-supported writing, not causal effects: there was no randomized control group, and the design relied heavily on self-report.
+> **Synthesis:** Duong and Chen followed 47 Vietnamese [[secondary-education|high school]] EFL learners through an 11-week study with 8 weeks of writing support from a chatbot built around [[self-determination-theory|Self-Determination Theory]], [[self-regulated-learning|Self-Regulated Learning]] and [[self-efficacy]] Theory. Higher- and lower-proficiency groups both showed gains in intrinsic motivation, [[motivation|extrinsic motivation]] and writing self-efficacy from pre- to post-questionnaire, and the magnitude of change did not differ significantly between groups. Interviews with ten learners described reduced [[anxiety-and-stress|anxiety]], clearer guidance and supportive interaction, although stronger students emphasized refinement while less proficient students emphasized help getting started. The authors frame the results as exploratory associations during chatbot-supported writing, not causal effects: there was no randomized control group, and the design relied heavily on self-report.
 
 ## Key Findings
 1. **Two proficiency groups shared one classroom.** Twenty-five higher-proficiency and 22 lower-proficiency eleventh-grade students used the same chatbot under the same instructor.

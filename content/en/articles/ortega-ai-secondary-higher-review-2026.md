@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Secondary and Higher Education: A Systematic Review of Learning, Motivations, Academic Emotions and Educational Risks"
 created: "2026-11-27T12:40:00-05:00"
-updated: "2026-11-27T12:40:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/ortega-ai-secondary-higher-review-2026.md']
@@ -32,7 +32,7 @@ verified: [citation, numbers]
 > **Synthesis:** Ortega and colleagues reviewed empirical studies of artificial intelligence in secondary and [[higher-ed|higher education]], focusing on learning, motivation, academic emotions, and risks. A search of four databases for work published between 2016 and 2026 yielded six eligible studies, which were synthesized qualitatively rather than pooled statistically. The review reports favorable associations between pedagogically integrated AI and learning, engagement, and emotional regulation, alongside risks of [[cognitive-offloading|overreliance]], reduced autonomy, and technology-related [[anxiety-and-stress|anxiety]]. It treats academic emotions broadly, including [[self-efficacy]], cognitive load, uncertainty, anxiety, and procrastination. The authors conclude that AI's educational value depends on how it is designed and supervised, not on its mere presence. They also stress that the evidence is mostly observational, drawn predominantly from universities, and too heterogeneous to establish durable effects in secondary classrooms.
 
 ## Key Findings
-1. **The review narrowed six studies from a broad search.** Four databases produced an initial set of records, but strict criteria on AI use, motivation or emotion outcomes, and [[learners|student population]] left a small [[qualitative-research|qualitative]] corpus.
+1. **The review narrowed six studies from a broad search.** Four databases produced an initial set of records, but strict criteria on AI use, motivation or emotion outcomes, and student population left a small [[qualitative-research|qualitative]] corpus.
 2. **Learning outcomes were generally positive.** The included studies reported better mathematics performance with more constructive interaction and stronger prediction of negative emotions from self-efficacy and related variables.
 3. **Motivation and engagement appeared alongside caveats.** Positive attitudes toward [[generative-ai|ChatGPT]] were linked to usefulness and ease of use, while low [[motivation|intrinsic motivation]] and procrastination were linked to dependence.
 4. **Emotional outcomes were mixed.** Personalized and socially supportive AI was associated with regulation and [[well-being]], but other work linked AI use to anxiety, performance concerns, or emotional disengagement.

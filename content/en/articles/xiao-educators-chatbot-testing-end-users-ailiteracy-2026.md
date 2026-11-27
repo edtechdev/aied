@@ -1,7 +1,7 @@
 ---
-title: "Misalignment between educators' testing and end users' behavior: what 17,000+ chatbot messages reveal about AI literacy training for teachers"
+title: "Misalignment Between Educators' Testing and End Users' Behavior: What 17,000+ Chatbot Messages Reveal About AI Literacy Training for Teachers"
 created: "2026-11-24T09:35:00-05:00"
-updated: "2026-11-24T09:35:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Ruiwei Xiao", "Jiayi Wang", "Miina Koyama", "Yue Wang", "Qing Xiao", "Xinying Hou", "Norman Bier", "John Stamper"]
 venue: "arXiv preprint (cs.HC)"
@@ -34,13 +34,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Educators specified capabilities more readily than prohibitions.** Prompts described what the bot should do far more often than what it should not; 71.1% addressed at least one limitation, usually by constraining accuracy or scope (57.2%), while only 32.6% instructed the bot to withhold direct answers.
-- **The template did the work the course taught, and stopped there.** Role (88%), context (90%), and workflow (87%) were near-universal; style (66%) and guardrails (50%) appeared less often and were frequently left as the stock text supplied by the starter template.
-- **Unsupported prompt strategies rarely transferred.** Few-shot prompting appeared in 31% of prompts (33% of builders); chain-of-thought prompting appeared in five prompts (2%).
-- **Testing stayed shallow.** Iterative refinement covered 30 bots (14%), limited evaluation 61 (29%), opportunistic exploration 83 (39%), and no testing 40 (19%), leaving 74% of end users' adversarial use untested.
-- **[[ethics]] code was sparse.** Only 40.1% of prompts contained any ethics code, almost entirely diversity and inclusion (39.6%); confidentiality appeared in 1.6%, and 34 prompts (18.2%) addressed neither limitations nor ethics.
-- **Most bots were student-facing and tutoring-oriented.** 133 bots (62%) were designed for students; tutoring and coaching was the most common purpose (42.8%), followed by content generation (35.3%) and feedback and improvement (32.1%). [[personalized-learning|Personalization]] (2.7%) and [[learning-analytics|analytics]] or prediction (0.5%) were almost absent.
-
+1. **Educators specified capabilities more readily than prohibitions.** Prompts described what the bot should do far more often than what it should not; 71.1% addressed at least one limitation, usually by constraining accuracy or scope (57.2%), while only 32.6% instructed the bot to withhold direct answers.
+2. **The template did the work the course taught, and stopped there.** Role (88%), context (90%), and workflow (87%) were near-universal; style (66%) and guardrails (50%) appeared less often and were frequently left as the stock text supplied by the starter template.
+3. **Unsupported prompt strategies rarely transferred.** Few-shot prompting appeared in 31% of prompts (33% of builders); chain-of-thought prompting appeared in five prompts (2%).
+4. **Testing stayed shallow.** Iterative refinement covered 30 bots (14%), limited evaluation 61 (29%), opportunistic exploration 83 (39%), and no testing 40 (19%), leaving 74% of end users' adversarial use untested.
+5. **[[ethics]] code was sparse.** Only 40.1% of prompts contained any ethics code, almost entirely diversity and inclusion (39.6%); confidentiality appeared in 1.6%, and 34 prompts (18.2%) addressed neither limitations nor ethics.
+6. **Most bots were student-facing and tutoring-oriented.** 133 bots (62%) were designed for students; tutoring and coaching was the most common purpose (42.8%), followed by content generation (35.3%) and feedback and improvement (32.1%). [[personalized-learning|Personalization]] (2.7%) and [[learning-analytics|analytics]] or prediction (0.5%) were almost absent.
 ## What the artifacts show
 
 The course is an unusual research instrument because the deliverable is public. Educators had to produce a working bot on a no-code authoring platform, which means the prompt text, the conversation logs, and the deployment record are all observable. That converts a training evaluation from a [[self-report-measures|self-report]] exercise into an artifact review. Where workshop evaluations typically end with confidence scales, this one can ask whether the prompt an educator wrote contains a guardrail, whether they tried an adversarial input, and whether anyone other than the builder ever used the result.

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Prompting: Student–GenAI Interaction and Critical Thinking in STEM Education—A Systematic Literature Review"
 created: "2026-11-25T09:14:00-05:00"
-updated: "2026-11-25T09:14:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Rosiebel A. Abao", "Evelyn B. Ballenas", "Vicente A. Pitogo", "Junrie B. Matias"]
@@ -31,13 +31,12 @@ verified: [citation, numbers]
 > **Synthesis:** Abao and colleagues (2026) review 17 empirical studies, drawn from 204 records across Scopus, Web of Science and IEEE Xplore, on how students interact with [[generative-ai]] in STEM learning and what those interactions have to do with [[critical-thinking]]. Their central finding is a distinction the surrounding literature tends to blur: using GenAI, [[prompt-engineering|prompting]] well, or performing better with AI are not proxies for critical thinking. What varies across the included studies is where [[cognitive-offloading|cognitive responsibility]] sits — which consequential reasoning the learner keeps, shares or hands over during the interaction. From the evidence the authors synthesize six clusters of critical-thinking-related processes, from strategic questioning and task framing through verification and error correction to justification and independent decision-making, and they propose a framework linking interaction patterns, cognitive responsibility and personal, instructional and task factors. They are explicit that methodological heterogeneity and the scarcity of independent critical-thinking outcome measures prevent any conclusion about whether GenAI improves critical thinking.
 
 ## Key Findings
-- **Prompting skill is not critical thinking.** A technically sophisticated prompt can delegate substantial reasoning, while a simple prompt can start a highly evaluative exchange if the learner questions, verifies and corrects what comes back.
-- **Query quality separated more than query frequency.** One included study found query frequency negatively associated with performance while query efficiency and refinement were positively associated; another distinguished naïve copy-paste from iterative debugging.
-- **Six clusters of critical-thinking processes recur across the included studies.** Strategic questioning and task framing; interpretation and analytical decomposition; comparison, evaluation and verification; error detection and corrective modification; justification and independent decision-making; and reflection on the interaction itself.
-- **The review reframes the question as one of cognitive responsibility.** What matters is the cognitively consequential work learners retain, share or delegate, not how much or how often they use the tool.
-- **Acceptance-oriented interaction is the risk pattern.** Studies distinguishing acceptance of AI output from evaluative engagement found the former associated with weaker outcomes, a pattern consistent with work outside the included set.
-- **Direct measurement of critical thinking is rare.** Most included studies infer critical thinking from interaction behavior or [[self-report-measures|self-report]], so the review stops short of claiming an effect on ability.
-
+1. **Prompting skill is not critical thinking.** A technically sophisticated prompt can delegate substantial reasoning, while a simple prompt can start a highly evaluative exchange if the learner questions, verifies and corrects what comes back.
+2. **Query quality separated more than query frequency.** One included study found query frequency negatively associated with performance while query efficiency and refinement were positively associated; another distinguished naïve copy-paste from iterative debugging.
+3. **Six clusters of critical-thinking processes recur across the included studies.** Strategic questioning and task framing; interpretation and analytical decomposition; comparison, evaluation and verification; error detection and corrective modification; justification and independent decision-making; and reflection on the interaction itself.
+4. **The review reframes the question as one of cognitive responsibility.** What matters is the cognitively consequential work learners retain, share or delegate, not how much or how often they use the tool.
+5. **Acceptance-oriented interaction is the risk pattern.** Studies distinguishing acceptance of AI output from evaluative engagement found the former associated with weaker outcomes, a pattern consistent with work outside the included set.
+6. **Direct measurement of critical thinking is rare.** Most included studies infer critical thinking from interaction behavior or [[self-report-measures|self-report]], so the review stops short of claiming an effect on ability.
 ## How the review was conducted
 
 The search followed [[meta-analysis-systematic-review|PRISMA]] 2020 across three databases and returned 204 records, of which 17 empirical studies met the inclusion criteria. Synthesis was narrative and thematic rather than statistical: the studies differ too much in design, population and measure for pooling, and the authors treat that heterogeneity as a finding in its own right. The clusters are described as recurring behaviors or cognitive processes reported across studies, not as measured components of critical-thinking ability, and individual studies may contribute to more than one.

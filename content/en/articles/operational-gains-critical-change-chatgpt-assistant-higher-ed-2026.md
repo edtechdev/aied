@@ -1,7 +1,7 @@
 ---
 title: "Operational gains without detectable critical change: measurement lessons from a pilot study with a generative artificial intelligence assistant in higher education"
 created: "2026-11-24T09:50:00-05:00"
-updated: "2026-11-24T10:25:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Anonymous"]
 venue: "EdArXiv preprint"
@@ -34,13 +34,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Operational literacy rose.** The four-action index increased from a mean of 3.03 to 3.40, a shift of about 0.37 actions with a plausible range from roughly 0.10 to 0.64, driven by more students reporting they could search and share information online, manage cloud documents, and use AI tools.
-- **The AI action reached everyone.** Endorsement of using artificial intelligence tools reached 100%: seven students added it between administrations and none withdrew it.
-- **Critical literacy did not move detectably.** The three-item information-search [[self-efficacy]] core shifted from 11.79 to 12.15 on a 3–15 range, a 0.36-point move whose plausible range ran from decline to improvement, and alternative composites moved little.
-- **One subdimension moved in the same direction but not robustly.** Collaboration through digital technologies rose by 0.25 scale points, a difference detectable before adjustment for multiple comparisons but not after, and it moved the same way in every sensitivity cell.
-- **Test–retest stability was essentially absent.** Correlations across administrations were near zero for the core, the nine-item total, and the operational index, averaging zero per item; one item held at 52% endorsement at both time points while 48 of 92 students changed their answer, 24 in each direction.
-- **Attrition was structural.** Every medical student returned while all 43 non-returners came from four of the other seven disciplines, raising medicine's share from 49% of April respondents to 72% of the paired sample, and non-returners had lower initial scores on both dimensions.
-
+1. **Operational literacy rose.** The four-action index increased from a mean of 3.03 to 3.40, a shift of about 0.37 actions with a plausible range from roughly 0.10 to 0.64, driven by more students reporting they could search and share information online, manage cloud documents, and use AI tools.
+2. **The AI action reached everyone.** Endorsement of using artificial intelligence tools reached 100%: seven students added it between administrations and none withdrew it.
+3. **Critical literacy did not move detectably.** The three-item information-search [[self-efficacy]] core shifted from 11.79 to 12.15 on a 3–15 range, a 0.36-point move whose plausible range ran from decline to improvement, and alternative composites moved little.
+4. **One subdimension moved in the same direction but not robustly.** Collaboration through digital technologies rose by 0.25 scale points, a difference detectable before adjustment for multiple comparisons but not after, and it moved the same way in every sensitivity cell.
+5. **Test–retest stability was essentially absent.** Correlations across administrations were near zero for the core, the nine-item total, and the operational index, averaging zero per item; one item held at 52% endorsement at both time points while 48 of 92 students changed their answer, 24 in each direction.
+6. **Attrition was structural.** Every medical student returned while all 43 non-returners came from four of the other seven disciplines, raising medicine's share from 49% of April respondents to 72% of the paired sample, and non-returners had lower initial scores on both dimensions.
 ## What the two literacy measures captured
 
 The study separates operational digital literacy — knowing how to perform specific actions — from critical digital literacy, which covers evaluative and self-regulatory capacities such as information-search self-efficacy, digital collaboration, reflection and improvement, planning and evaluation of one's own learning, and review of digital resources. The distinction is the point. An assistant embedded in a course plausibly changes what students know how to do, and the checklist detected exactly that. Whether it changes how they judge and regulate their own digital activity is a different question, and the Likert instrument found no movement.

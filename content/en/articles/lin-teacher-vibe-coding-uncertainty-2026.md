@@ -1,7 +1,7 @@
 ---
-title: "Managing uncertainty in teacher vibe coding: a comparison of teacher and expert workflows"
+title: "Managing Uncertainty in Teacher Vibe Coding: A Comparison of Teacher and Expert Workflows"
 created: "2026-11-24T09:50:00-05:00"
-updated: "2026-11-24T09:50:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Jiaju Lin", "Ellen Wenting Zou"]
 venue: "AERA 2027 Annual Meeting (accepted)"
@@ -32,13 +32,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Vibe coding runs as an uncertainty-managed loop.** Problem framing, development, and verification recur across all three groups, and each stage carries its own uncertainty about goals, AI capability, and artifact quality.
-- **Teachers start from teaching struggles, experts start from specifications.** In-service teachers built tools that automated familiar routines (replacement 8/13); pre-service teachers more often designed new learning experiences such as mission-based games or reading assistants (amplification 9/15, transformation 1/15).
-- **Beliefs about the technology reshape the design.** Participants discarded ideas they judged too complex for vibe coding; one pre-service teacher envisioned an [[intelligent-tutoring|AI tutor]] for every student but produced a multi-module course instead.
-- **Prototypes make requirements concrete.** Problem framing did not precede prompting in a linear way; many teachers reported that their requirements became clear only after seeing a functioning webpage.
-- **Experts reduce uncertainty structurally.** They used ambiguity checks, success criteria, feasibility assessments, and iterative negotiation with the AI, including asking the AI to pose clarifying questions.
-- **Verification links back to framing.** Experts defined quality gates and revised them when failures emerged, connecting verification to the original problem rather than treating it as a final check.
-
+1. **Vibe coding runs as an uncertainty-managed loop.** Problem framing, development, and verification recur across all three groups, and each stage carries its own uncertainty about goals, AI capability, and artifact quality.
+2. **Teachers start from teaching struggles, experts start from specifications.** In-service teachers built tools that automated familiar routines (replacement 8/13); pre-service teachers more often designed new learning experiences such as mission-based games or reading assistants (amplification 9/15, transformation 1/15).
+3. **Beliefs about the technology reshape the design.** Participants discarded ideas they judged too complex for vibe coding; one pre-service teacher envisioned an [[intelligent-tutoring|AI tutor]] for every student but produced a multi-module course instead.
+4. **Prototypes make requirements concrete.** Problem framing did not precede prompting in a linear way; many teachers reported that their requirements became clear only after seeing a functioning webpage.
+5. **Experts reduce uncertainty structurally.** They used ambiguity checks, success criteria, feasibility assessments, and iterative negotiation with the AI, including asking the AI to pose clarifying questions.
+6. **Verification links back to framing.** Experts defined quality gates and revised them when failures emerged, connecting verification to the original problem rather than treating it as a final check.
 ## How the three groups differ
 
 The study's central observation is that [[vibe-coding|natural-language software development]] removes syntax but not design judgment. Teachers entered the task with an authentic teaching struggle and had to convert it into a requirement an [[llm]] could act on. Pre-service teachers tended toward amplification and transformation because they framed problems through pedagogical principles — a mission-based game, an immediate reading assistant, a collaborative historical modeling game. In-service teachers tended toward replacement because their problems were routines they already knew: weekly reading checks with [[automated-assessment|automated assessment]], tablet-based worksheets, tools fitting "the lesson I already teach". That difference is not a deficiency but a different knowledge base, and it suggests that pre-service and in-service teachers need different support.

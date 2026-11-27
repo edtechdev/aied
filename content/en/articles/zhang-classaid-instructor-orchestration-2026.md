@@ -1,7 +1,7 @@
 ---
 title: "ClassAid: A Real-time Instructor-AI-Student Orchestration System for Classroom Programming Activities"
 created: "2026-11-25T07:05:00-05:00"
-updated: "2026-11-25T07:05:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-02-06"
 type: article
 authors: ["Gefei Zhang", "Guodao Sun", "Meng Xia", "Ronghua Liang"]
@@ -32,13 +32,12 @@ verified: [citation, quotes]
 
 ## Key Findings
 
-- **The unit of instructor control is the feedback mode, not the prompt.** ClassAid exposes silent, heuristic, technical and automatic operation as a live setting, so the same agent moves between withholding and giving answers while the class is running.
-- **Expert agreement with the agent was high on all four rated components.** Two instructors rating 274 sampled questions agreed on 95.99% of Bloom-level classifications and 95.99% of question-type classifications, on 94.71% of feedback responses across both modes, and on 88.68% of the agent's automatic mode choices (n = 106).
-- **The instructional team changed modes eight times in one session.** The class started in heuristic mode to force independent thinking, moved to automatic after ten minutes without a completion, shifted struggling students to technical mode when half the class finished Task 1, and returned to heuristic mode for Task 2.
-- **Over-reliance was treated as something to detect, not assume away.** An agent alert fires when automatic mode returns technical feedback three consecutive times; one student showing persistent answer-seeking was moved to silent mode, and five students who stalled even in technical mode received human help.
-- **Students did not agree on which mode was better.** Automatic and technical feedback were each preferred by 42.6% of students and heuristic feedback by 14.8%, and about 70% said that while learning they preferred the hint-style support that protects reasoning over the direct solution.
-- **Students judged it a classroom tool rather than a better [[conversational-ai|chatbot]].** Eighty percent said ClassAid suited classroom learning better than general-purpose AI tools, while conceding that a general chatbot is faster when a quick answer is all that is wanted.
-
+1. **The unit of instructor control is the feedback mode, not the prompt.** ClassAid exposes silent, heuristic, technical and automatic operation as a live setting, so the same agent moves between withholding and giving answers while the class is running.
+2. **Expert agreement with the agent was high on all four rated components.** Two instructors rating 274 sampled questions agreed on 95.99% of Bloom-level classifications and 95.99% of question-type classifications, on 94.71% of feedback responses across both modes, and on 88.68% of the agent's automatic mode choices (n = 106).
+3. **The instructional team changed modes eight times in one session.** The class started in heuristic mode to force independent thinking, moved to automatic after ten minutes without a completion, shifted struggling students to technical mode when half the class finished Task 1, and returned to heuristic mode for Task 2.
+4. **Over-reliance was treated as something to detect, not assume away.** An agent alert fires when automatic mode returns technical feedback three consecutive times; one student showing persistent answer-seeking was moved to silent mode, and five students who stalled even in technical mode received human help.
+5. **Students did not agree on which mode was better.** Automatic and technical feedback were each preferred by 42.6% of students and heuristic feedback by 14.8%, and about 70% said that while learning they preferred the hint-style support that protects reasoning over the direct solution.
+6. **Students judged it a classroom tool rather than a better [[conversational-ai|chatbot]].** Eighty percent said ClassAid suited classroom learning better than general-purpose AI tools, while conceding that a general chatbot is faster when a quick answer is all that is wanted.
 ## Four modes over a six-stage agent
 
 The agent runs on OpenAI's GPT-4o over a Vue.js and Flask client–server stack, with Firebase holding the mode configuration the agent reads at answer time. Its six stages are named as a human tutor's diagnostic loop: observing student learning activities, identifying learning obstacles, reviewing and assessing student history, considering appropriate forms of support, selecting an adaptive feedback mode, and intervening. The stages are grounded in formative and dynamic [[educational-measurement|assessment theory]], and an educational technology expert with over a decade of learning-analytics experience helped build them.

@@ -1,7 +1,7 @@
 ---
 title: "Community of inquiry presences, GenAI use, and metacognitive regulation in GenAI-mediated L2 learning: evidence from SEM and fsQCA"
 created: "2026-11-25T09:19:00-05:00"
-updated: "2026-11-25T09:19:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-23"
 type: article
 authors: ["Yunfei Du", "Barry Lee Reynolds", "Jiajun Li", "Chaoyu Guo", "Jiao Xiong"]
@@ -30,13 +30,12 @@ verified: [citation, numbers]
 > **Synthesis:** Du and colleagues (2026) ask what sits between access to [[generative-ai]] and productive second-[[language-learning|language learning]], and their answer puts [[student-engagement]] at the center. Surveying 1,160 Chinese [[higher-ed|university]] students across seven institutions, they model the [[community-of-inquiry]] presences — social, cognitive and teaching — against GenAI use for language learning, then trace forward through speaking [[self-efficacy]] and engagement to [[metacognition|metacognitive regulation]]. Social and cognitive presence were associated with GenAI use; teaching presence was not, under the [[primary-education|primary]] estimator. GenAI use was strongly associated with engagement and moderately with speaking self-efficacy, and engagement carried by far the larger association with regulation. A configurational analysis pointed the same way from a different direction: every pathway to high metacognitive regulation included high engagement, whatever the level of GenAI use. The authors read this as a corrective to access-focused accounts, since more opportunity to interact with AI says little about whether learners regulate the interaction.
 
 ## Key Findings
-- **Social and cognitive presence were associated with GenAI use; teaching presence was not.** The primary estimator found no significant path from teaching presence, though an alternative estimator did, and the authors report both.
-- **GenAI use tracked engagement far more strongly than self-efficacy.** The path to engagement was roughly twice the path to speaking self-efficacy, and engagement in turn was the strongest predictor of regulation.
-- **GenAI use had no direct association with metacognitive regulation.** Its association ran through engagement and self-efficacy rather than directly.
-- **Every configuration for high regulation included high engagement.** The set-theoretic analysis found two pathways — GenAI use with engagement, and self-efficacy with engagement — both centered on the same condition.
-- **The three presences moved together.** Correlations among social, cognitive and teaching presence were very high, and a second-order model fit the data nearly as well, so the presences are better read as one perceived learning climate than as independent inputs.
-- **The model explained far more of GenAI use than of regulation.** Most of the variance in use was accounted for; regulation was explained largely through engagement.
-
+1. **Social and cognitive presence were associated with GenAI use; teaching presence was not.** The primary estimator found no significant path from teaching presence, though an alternative estimator did, and the authors report both.
+2. **GenAI use tracked engagement far more strongly than self-efficacy.** The path to engagement was roughly twice the path to speaking self-efficacy, and engagement in turn was the strongest predictor of regulation.
+3. **GenAI use had no direct association with metacognitive regulation.** Its association ran through engagement and self-efficacy rather than directly.
+4. **Every configuration for high regulation included high engagement.** The set-theoretic analysis found two pathways — GenAI use with engagement, and self-efficacy with engagement — both centered on the same condition.
+5. **The three presences moved together.** Correlations among social, cognitive and teaching presence were very high, and a second-order model fit the data nearly as well, so the presences are better read as one perceived learning climate than as independent inputs.
+6. **The model explained far more of GenAI use than of regulation.** Most of the variance in use was accounted for; regulation was explained largely through engagement.
 ## What the model connected
 
 The measurement model put seven constructs into one structural model: the three CoI presences, GenAI use for L2 learning, L2 speaking self-efficacy, student engagement and metacognitive regulation tendency, all [[self-report-measures|self-reported]] on multi-item scales with reliabilities above 0.90. Fit was acceptable for the structural model and good for the measurement model, with one caveat the authors state plainly: the presences were so highly correlated (0.893 to 0.929) that discriminant validity failed for five construct pairs.

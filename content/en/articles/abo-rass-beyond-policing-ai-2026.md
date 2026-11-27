@@ -1,7 +1,7 @@
 ---
 title: "Beyond policing AI: reflections on teaching, assessment, and pedagogy in social science education"
 created: "2026-11-27T05:48:40-05:00"
-updated: "2026-11-27T05:54:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-08-26"
 sources: ['raw/papers/abo-rass-beyond-policing-ai-2026.md']
@@ -46,7 +46,7 @@ The Opinion begins from the author's own position as a new faculty member receiv
 The author's response is to reject the premise that AI is the [[primary-education|primary]] threat. In the social sciences, the argument runs, AI cannot replace skills grounded in human interaction: critical thinking, reflexivity and leadership. What the debate exposes is a longer neglect of curricular purpose. If higher education aims to develop skills rather than transmit content, the important question is not how to police tool use but whether teaching creates conditions in which those skills can be practiced. Engagement tools such as Wooclap are described from the author's experience as a brief departure from an otherwise unidirectional lecture: they do not replace authentic interaction and can make the instructor's role look like entertainment rather than pedagogy.
 
 ## The proposal in concrete terms
-The proposal is a systematic move to very small learning groups, including in introductory and [[research-methods-aied|research methods]] courses. In such groups, teaching can be organized around open dialogical space, collaborative teamwork, analysis of complex social situations, [[case-based-learning|case-based learning]], peer teaching, and individual and collective reflection. Learning becomes co-construction of meaning rather than passive consumption of information, and instructors can see students who would remain invisible in a mass lecture. The author draws on a cited [[meta-analysis-systematic-review|meta-analysis]] reporting better outcomes for small-group learning in higher education, and on high-impact practice literature, without presenting new data.
+The proposal is a systematic move to very small learning groups, including in introductory and research methods courses. In such groups, teaching can be organized around open dialogical space, collaborative teamwork, analysis of complex social situations, [[case-based-learning|case-based learning]], peer teaching, and individual and collective reflection. Learning becomes co-construction of meaning rather than passive consumption of information, and instructors can see students who would remain invisible in a mass lecture. The author draws on a cited [[meta-analysis-systematic-review|meta-analysis]] reporting better outcomes for small-group learning in higher education, and on high-impact practice literature, without presenting new data.
 
 Interdisciplinary structure is treated as part of the design rather than an enrichment. The example is a course such as [[developmental-psychology|Developmental Psychology]] for Social Work taught jointly to students of social work, education, psychology and sociology, with two instructors modeling disagreement and complementarity. The author notes that such models exist as exceptions requiring special approvals and resources, and argues for reversing that logic so interdisciplinary small-group teaching becomes part of core training.
 
@@ -62,7 +62,7 @@ Assessment changes with the group structure. The author proposes longitudinal ev
 ## Limitations
 - The article is an Opinion and reports no empirical data; it offers no sample, instrument, outcome or analysis of its own.
 - The argument rests substantially on the author's experience of emails, colleagues' concerns and teaching large groups, which are reported as reflections rather than systematically collected evidence.
-- The cited small-group and high-impact-practice literature is used to support a claim about social science education without testing the proposal in that setting.
+- The cited small-group and high-impact-practice literature is used to support a claim about social [[science-education|science education]] without testing the proposal in that setting.
 - No cost, staffing model or implementation evaluation is provided; the paper acknowledges that structural conditions make small-group teaching difficult but does not show how to overcome them.
 - The claim that AI cannot replace skills formed through dialogue is argued from the author's perspective and is not compared against evidence of AI-supported [[collaborative-learning|collaborative learning]].
 

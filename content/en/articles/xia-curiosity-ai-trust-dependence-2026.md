@@ -1,7 +1,7 @@
 ---
 title: "Longitudinal associations among curiosity, Human–AI trust, and functional dependence in generative AI use"
 created: "2026-11-25T09:22:00-05:00"
-updated: "2026-11-25T09:22:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Peisen Xia", "Senrong Liao", "Geng Li", "Jiang Qiu", "Chengzhen Liu"]
@@ -31,13 +31,12 @@ verified: [citation, numbers]
 > **Synthesis:** Xia and colleagues (2026) follow 952 Chinese [[higher-ed|university]] students across three annual waves to work out which comes first among [[trust|trust in AI]], functional dependence on [[generative-ai]], and [[motivation|curiosity]]. Functional dependence here means relying on the tool for the functions that support study — explanations, drafting, checking — not a clinical measure of addiction. Two reciprocal loops emerged. Trust and dependence predicted each other at each interval, so trust built dependence and dependence built trust. Curiosity and dependence alternated: curiosity predicted later dependence, and dependence in turn predicted later curiosity, with a small but reliable indirect path running between them. The authors read that second loop as cognitive-resource release: offloading routine search work frees capacity for exploration. They also note that the mechanism was inferred from self-report patterns rather than measured, which is the right reading of it.
 
 ## Key Findings
-- **Trust and functional dependence reinforced each other.** Trust predicted later dependence at both intervals, and dependence predicted later trust at both, in a stable reciprocal pattern.
-- **Curiosity and dependence alternated rather than reinforced.** Earlier curiosity predicted later dependence, and that dependence predicted later curiosity, forming a two-step cycle rather than a direct loop.
-- **Dependence carried the [[longitudinal-research|longitudinal]] link between trust and curiosity.** The indirect path from trust through dependence to curiosity was small but reliably positive, and so was the reverse path from curiosity through dependence to trust.
-- **Only one total effect reached significance.** Trust at the first wave predicted curiosity at the third; the reverse total effect did not.
-- **Within-wave associations weakened over time.** Trust and dependence correlated at the first and second waves, but by the third wave none of the residual correlations among the three variables was significant.
-- **Demographics were unrelated.** Neither gender nor age was associated with any of the three constructs at any wave, so neither entered the model as a covariate.
-
+1. **Trust and functional dependence reinforced each other.** Trust predicted later dependence at both intervals, and dependence predicted later trust at both, in a stable reciprocal pattern.
+2. **Curiosity and dependence alternated rather than reinforced.** Earlier curiosity predicted later dependence, and that dependence predicted later curiosity, forming a two-step cycle rather than a direct loop.
+3. **Dependence carried the [[longitudinal-research|longitudinal]] link between trust and curiosity.** The indirect path from trust through dependence to curiosity was small but reliably positive, and so was the reverse path from curiosity through dependence to trust.
+4. **Only one total effect reached significance.** Trust at the first wave predicted curiosity at the third; the reverse total effect did not.
+5. **Within-wave associations weakened over time.** Trust and dependence correlated at the first and second waves, but by the third wave none of the residual correlations among the three variables was significant.
+6. **Demographics were unrelated.** Neither gender nor age was associated with any of the three constructs at any wave, so neither entered the model as a covariate.
 ## How the model was specified
 
 The three constructs were measured at three waves spaced one year apart, with longitudinal measurement invariance supported at the configural, metric and scalar levels for all three, which is a precondition for comparing latent means across waves. Strict invariance did not hold, with residual variances shifting over time, and the authors report that without treating it as invalidating the scalar result.

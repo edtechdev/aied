@@ -1,7 +1,7 @@
 ---
 title: "Leaks by Installments: Cross-Session Answer Disclosure in LLM Tutors and a Ledger-Based Defense"
 created: "2026-11-25T09:08:00-05:00"
-updated: "2026-11-25T09:08:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-23"
 type: article
 authors: ["Venkata Muttineni", "Karthik Narayan", "Christopher David"]
@@ -32,13 +32,12 @@ verified: [citation, numbers]
 > **Synthesis:** Muttineni and colleagues (2026) show that a [[learners|learner]] does not need to ask an [[llm|LLM]] tutor for the answer all at once. Existing safeguards judge each reply inside the current conversation, so a learner can split a solution across sessions, retry after a refusal, or — the attack that defeated every guard they tested — ask for a fully worked solution to a "practice" version of the same problem with different numbers. Their defense is a per-learner disclosure ledger: every problem becomes a typed solution graph, every reply is matched against what that learner has already been shown, and a reply is released only while the steps the learner could now derive stay below a budget. Across a 3,000-problem simulation and two live open-weight tutors on 60 problems, the ledger cut leakage through renumbered variants from complete or near-complete success to roughly one attempt in five, while honest learners still finished 98% of problems. It did not reduce split-request leakage beyond a per-session gate.
 
 ## Key Findings
-- **Renumbered practice variants defeated every per-session gate.** Leakage through renumbered variants stayed at its ungated level under both a per-turn and a per-session check, because none of the assigned problem's values appear in a worked variant.
-- **The ledger cut that attack where the others did not.** Variant leakage fell by 86% for one tutor and 82% for the other, measured against the per-session gate on the same replies.
-- **Simulation results were starker.** Over 3,000 problems with twelve attacker sessions each, variant leakage dropped from complete success to about one attempt in ten, with honest completion unchanged at 99.5%.
-- **Direct answer demands were stopped by any gate.** "Answer key" pressure succeeded in roughly two thirds and three quarters of ungated attempts and in none of the gated ones.
-- **Split requests were not improved in the live runs.** The ledger matched but did not beat a per-session gate, and the simulated gain appeared only with longer problems and more sessions.
-- **The structure parser sets the floor on leakage.** Changing only the parser, from each tutor parsing its own problems to a larger shared parser, lowered variant leakage from 0.20 and 0.43 to 0.08 and 0.18.
-
+1. **Renumbered practice variants defeated every per-session gate.** Leakage through renumbered variants stayed at its ungated level under both a per-turn and a per-session check, because none of the assigned problem's values appear in a worked variant.
+2. **The ledger cut that attack where the others did not.** Variant leakage fell by 86% for one tutor and 82% for the other, measured against the per-session gate on the same replies.
+3. **Simulation results were starker.** Over 3,000 problems with twelve attacker sessions each, variant leakage dropped from complete success to about one attempt in ten, with honest completion unchanged at 99.5%.
+4. **Direct answer demands were stopped by any gate.** "Answer key" pressure succeeded in roughly two thirds and three quarters of ungated attempts and in none of the gated ones.
+5. **Split requests were not improved in the live runs.** The ledger matched but did not beat a per-session gate, and the simulated gain appeared only with longer problems and more sessions.
+6. **The structure parser sets the floor on leakage.** Changing only the parser, from each tutor parsing its own problems to a larger shared parser, lowered variant leakage from 0.20 and 0.43 to 0.08 and 0.18.
 ## Why conversation-level guards miss it
 
 An LLM tutor accepts free-form problems, so it has no problem bank to recognize that two requests concern the same exercise. Classic [[intelligent-tutoring|intelligent tutoring systems]] track hint levels per student over authored problems with known solution steps; that infrastructure is what an LLM tutor lacks. Per-turn guards check whether a candidate reply states the final answer. Per-session guards review a whole transcript so partial hints are judged together. Both treat the conversation as the unit of accounting, and a learner can open as many conversations as they like.

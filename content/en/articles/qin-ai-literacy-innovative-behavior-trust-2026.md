@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy and Innovative Behavior in AI-Assisted Learning: Cognitive and Affective Trust in AI and Creative Self-Efficacy as Sequential Pathways"
-created: "2026-11-27T13:40:00-05:00"
-updated: "2026-11-27T13:40:00-05:00"
+created: "2026-11-27T13:13:50-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-11-03"
 sources: ['raw/papers/qin-ai-literacy-innovative-behavior-trust-2026.md']
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Qin and colleagues surveyed 1173 Chinese college students to ask how [[ai-literacy]] relates to innovative behavior in AI-assisted learning. Students who reported stronger AI literacy also reported more innovative learning behavior, but the direct association was no longer significant once [[trust|trust in AI]] and creative [[self-efficacy]] were included. The indirect routes through trust, creative confidence, and the two in sequence accounted for most of the total association. When cognitive and affective trust were entered together, both carried the association forward, yet cognitive trust was the more readily mobilized gateway from literacy, while the two dimensions were similar in their downstream links to creative self-efficacy and innovative behavior. The authors interpret cognitive trust as an appraisal of reliability and affective trust as a product of supportive interaction. Because all data came from one cross-sectional survey, the proposed sequence is a hypothesis about order, not observed development.
+> **Synthesis:** Qin and colleagues surveyed 1173 Chinese [[higher-ed|college students]] to ask how [[ai-literacy]] relates to innovative behavior in AI-assisted learning. Students who reported stronger AI literacy also reported more innovative learning behavior, but the direct association was no longer significant once [[trust|trust in AI]] and creative [[self-efficacy]] were included. The indirect routes through trust, creative confidence, and the two in sequence accounted for most of the total association. When cognitive and affective trust were entered together, both carried the association forward, yet cognitive trust was the more readily mobilized gateway from literacy, while the two dimensions were similar in their downstream links to creative self-efficacy and innovative behavior. The authors interpret cognitive trust as an appraisal of reliability and affective trust as a product of supportive interaction. Because all data came from one cross-sectional survey, the proposed sequence is a hypothesis about order, not observed development.
 
 ## Key Findings
 1. **AI literacy was linked to innovative learning behavior.** The overall association was positive before mediators were added.

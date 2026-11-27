@@ -1,7 +1,7 @@
 ---
 title: "Research Trends of Artificial Intelligence-Facilitated Computational Thinking in K-12 STEM: A Systematic Review Through the Lens of Activity Theory"
 created: "2026-11-27T12:00:00-05:00"
-updated: "2026-11-27T12:00:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026"
 sources: ['raw/papers/yang-ai-computational-thinking-k12-review-2026.md']
@@ -32,7 +32,7 @@ verified: [citation, numbers]
 > **Synthesis:** Yang and colleagues reviewed 57 SSCI journal publications from 2017 to 2025 on artificial intelligence supporting [[computational-thinking|computational thinking]] in K-12 [[stem-education|STEM education]]. Using PRISMA screening, activity-theory coding, and [[network-analysis|epistemic network analysis]], they found that [[primary-education|elementary school]] students were the most studied group and that expert systems and robotics were the most common AI types, usually cast as learning tools. Most studies evaluated effectiveness over periods typically spanning 2–6 months, used [[quantitative-research|quantitative]] methods, and favored exploratory learning in cross-disciplinary settings. Coverage of computational-thinking practices and concepts outweighed coverage of perspectives. The review maps the field and recommends broader participants, richer assessment, and more work on AI as a collaborative partner; it is a synthesis of study counts and coded features, not a pooled estimate of effects.
 
 ## Key Findings
-1. **Elementary students dominate the sample.** Elementary school students were the most frequently studied group, followed by junior and senior high school students.
+1. **Elementary students dominate the sample.** Elementary school students were the most frequently studied group, followed by junior and senior [[secondary-education|high school]] students.
 2. **AI is mainly a tool.** Expert systems and robotics were the most common AI types, and AI most often served as a learning tool rather than a partner or facilitator.
 3. **Effectiveness questions dominate.** Evaluating how well AI supports computational thinking was the most common research purpose, and most interventions lasted no longer than six months.
 4. **Quantitative designs prevail.** Quantitative methods outnumbered mixed and [[qualitative-research|qualitative]] approaches, with [[self-report-measures|questionnaires]] and tests the most frequent assessment methods.

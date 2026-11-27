@@ -1,7 +1,7 @@
 ---
 title: "Beyond Average Gains: Probing the Equity–Vulnerability Tension in Structured Visual AI for Learning"
 created: "2026-11-25T09:07:00-05:00"
-updated: "2026-11-25T09:07:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Mingyuan Li", "Duan Wang", "Erick Purwanto", "Yihong Wang"]
@@ -31,13 +31,12 @@ verified: [citation, numbers]
 > **Synthesis:** Li and colleagues (2026) asked whether a structured visual interface for [[generative-ai|generative AI]] support serves all learners equally, not just better on average. In a randomized study with 320 third-year [[cs-education|programming]] students at one Chinese [[higher-ed|university]], they compared VisualCodeChat — predefined learning stages, stepwise conversational explanations and dynamic algorithm [[visualization|visualizations]] — with a text-only [[conversational-ai|chatbot]] running the same model and the same [[pedagogical-patterns|instructional sequence]]. Across 282 post-task [[self-report-measures|questionnaires]], the structured condition drew higher [[usability-research|usability]] and perceived effectiveness ratings; efficiency, satisfaction and post-use emotion showed no reliable difference. Within-condition analyses then surfaced what the averages hid: infrequent chatbot users rated adoption and learning management lower in the standard chatbot condition, learners with uncomfortable prior chatbot experience rated the structured interface's interaction and layout lower, and laptop users rated that interface above tablet and smartphone users. The authors name this an [[equity-in-ai-education|equity]]–vulnerability tension and argue that [[scaffolding]] should be evaluated across learner backgrounds and devices, not only on mean ratings.
 
 ## Key Findings
-- **Structured visual support raised perceived usability and effectiveness.** Both advantages were statistically reliable but small: mean differences were 0.24 and 0.18 points on the rating scale.
-- **Three of five experience scales showed no difference.** Efficiency, satisfaction and post-use emotion were statistically indistinguishable between the structured and standard conditions.
-- **Prior chatbot experience changed how the standard chatbot was rated.** Infrequent users gave significantly lower adoption and learning-management ratings there; no comparable gap appeared in the structured condition.
-- **Uncomfortable prior chatbot experience did not disappear under structure.** Within the visual condition, those learners rated interaction and layout lower than classmates who felt comfortable with chatbots.
-- **Device type mattered inside the structured condition.** Laptop users rated its interface significantly higher than tablet or smartphone users, a difference that appeared nowhere in the standard condition.
-- **Both conditions ran the same language model.** The comparison used the same ChatGPT 3.5 API and configuration, matched content, duration and instructor guidance, so differences trace to interface design rather than model capability.
-
+1. **Structured visual support raised perceived usability and effectiveness.** Both advantages were statistically reliable but small: mean differences were 0.24 and 0.18 points on the rating scale.
+2. **Three of five experience scales showed no difference.** Efficiency, satisfaction and post-use emotion were statistically indistinguishable between the structured and standard conditions.
+3. **Prior chatbot experience changed how the standard chatbot was rated.** Infrequent users gave significantly lower adoption and learning-management ratings there; no comparable gap appeared in the structured condition.
+4. **Uncomfortable prior chatbot experience did not disappear under structure.** Within the visual condition, those learners rated interaction and layout lower than classmates who felt comfortable with chatbots.
+5. **Device type mattered inside the structured condition.** Laptop users rated its interface significantly higher than tablet or smartphone users, a difference that appeared nowhere in the standard condition.
+6. **Both conditions ran the same language model.** The comparison used the same ChatGPT 3.5 API and configuration, matched content, duration and instructor guidance, so differences trace to interface design rather than model capability.
 ## What the structured interface changed
 
 VisualCodeChat is the conversational component of VisualCodeMOOC. It walks a learner through a fixed sequence: a conceptual explanation, a step-by-step walkthrough with the algorithm's state drawn alongside the chat, a code explanation, and practice questions. Students confirm understanding, ask follow-ups and receive [[feedback]] on their answers, but the path through the material is the system's, not the learner's. The standard condition delivered the same explanations as open text, leaving the learner to formulate questions and track algorithmic state.

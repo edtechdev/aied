@@ -1,7 +1,7 @@
 ---
 title: "Cognitive adaptation in the intelligence era (CAIE): a dynamical systems framework for education reform in the age of artificial intelligence"
 created: "2026-11-26T11:05:00-05:00"
-updated: "2026-11-26T11:05:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-08-13"
 sources: ['raw/papers/chen-caie-dynamical-systems-framework-2026.md']
@@ -33,10 +33,13 @@ verified: [citation]
 
 ## Key Findings
 
+
 1. **Traditional curricula become insufficient after the AI inflection point.** The simulation places that inflection around 2023 from the forcing term's shape, not from any measured break in educational outcomes.
 2. **Design aligned with reward prediction error keeps adaptation positive.** The claim is directional: an education term large enough to offset pressure produces a rising trajectory on all seven dimensions.
-3. **Untrained people handle about three concurrent AI tools.** The analytic solution gives roughly three, extended to five to eight under deliberate [[agentic-ai|multi-agent]] training; a ±20% perturbation of parameters moves the estimate only by a few tenths.
-4. **There is a delay threshold near 1.25 years.** Beyond it, remedial intervention is modeled as decaying exponentially, with the same caveat that the value is illustrative and the durable prediction is the monotonic decline rather than the number.
+3. **Untrained people handle about three concurrent AI tools.** The analytic solution gives roughly three, extended to five to eight under deliberate [[agentic-ai|multi-agent]] training.
+4. **That estimate is robust to small parameter changes.** A ±20% perturbation moves it only by a few tenths, so the order of magnitude, not the exact number, is the claim.
+5. **There is a delay threshold near 1.25 years.** Beyond it, remedial intervention is modeled as decaying exponentially.
+6. **The threshold is illustrative, not a schedule.** The durable prediction is the monotonic decline rather than the number, and the paper presents the value as a hypothesis to test.
 
 ## What the model is
 

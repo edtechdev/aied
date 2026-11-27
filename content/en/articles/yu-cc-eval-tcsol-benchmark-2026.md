@@ -1,7 +1,7 @@
 ---
 title: "Dissociable cognitive mechanisms of generative AI in education: evidence from CC-Eval, a standards-anchored benchmark for teaching Chinese to speakers of other languages"
 created: "2026-11-25T09:20:00-05:00"
-updated: "2026-11-25T09:20:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Dongxing Yu"]
@@ -32,13 +32,12 @@ verified: [citation, numbers]
 > **Synthesis:** Yu (2026) argues that "is this model good at teaching?" is the wrong question, and builds a 1,555-item [[benchmark|benchmark]] to show why. CC-Eval v1.0 spans six equal-weight [[teacher-role|teacher]] workflows in teaching Chinese to speakers of other languages — grade knowledge, error diagnosis, [[automated-essay-scoring|essay scoring]], teaching generation, culture and pragmatics, and standards and pedagogy — and eleven free or light-tier models were scored on all six. The profile that emerges is a dissociation rather than a ladder. Culture and pragmatics sat high for every model, essay scoring was usable for some, error diagnosis and grade knowledge stayed low, and two subtasks collapsed: rewriting a passage to a target proficiency level, where the best model passed 15.0% of items, and locating the textbook standard a passage violates, where the best reached 8.9%. Fluent teaching scenarios coexisted with near-floor compliance with the standards they are supposed to implement. Yu reads the pattern as separate functional components of [[generative-ai]] as a cognitive prosthesis, not as a single measure of AI teaching ability.
 
 ## Key Findings
-- **Model totals were modest and hid the extremes.** Equal-weight totals across eleven models ranged from 41.1 to 54.9 out of 100, and the within-model spread across tasks was larger than the between-model spread.
-- **Culture and pragmatics was the strongest band for every model.** Scores ran from 70.5 to 94.9, well above anything else the benchmark measured.
-- **Grade knowledge was the weakest.** The best model reached 35.2 on recalling proficiency standards from memory, and the weakest scored 12.0.
-- **Level-controlled rewriting almost always failed.** Pass rates were at or below 15.0% for the strongest model, with several near zero and out-of-grade vocabulary common in otherwise fluent output.
-- **Locating a textbook standard collapsed to near floor.** The best accuracy was 8.9% and multiple models scored zero, while scenario drafting under the same section reached near ceiling.
-- **Intertask correlations were negative in places.** Essay scoring correlated negatively with constrained generation and with error diagnosis, which is hard to reconcile with a single underlying competence.
-
+1. **Model totals were modest and hid the extremes.** Equal-weight totals across eleven models ranged from 41.1 to 54.9 out of 100, and the within-model spread across tasks was larger than the between-model spread.
+2. **Culture and pragmatics was the strongest band for every model.** Scores ran from 70.5 to 94.9, well above anything else the benchmark measured.
+3. **Grade knowledge was the weakest.** The best model reached 35.2 on recalling proficiency standards from memory, and the weakest scored 12.0.
+4. **Level-controlled rewriting almost always failed.** Pass rates were at or below 15.0% for the strongest model, with several near zero and out-of-grade vocabulary common in otherwise fluent output.
+5. **Locating a textbook standard collapsed to near floor.** The best accuracy was 8.9% and multiple models scored zero, while scenario drafting under the same section reached near ceiling.
+6. **Intertask correlations were negative in places.** Essay scoring correlated negatively with constrained generation and with error diagnosis, which is hard to reconcile with a single underlying competence.
 ## What the benchmark holds
 
 The six tasks are meant to be the workflows a teacher actually performs rather than a generic question set: recalling the national proficiency grading standards, diagnosing learner errors, banding essays, drafting teaching material, answering culture and pragmatics questions, and applying [[pedagogy|pedagogical]] standards. Items are anchored to China's national Chinese Proficiency Grading Standards and to textbook and vocational standards, which is what makes the constraint-satisfaction failures measurable rather than impressionistic.

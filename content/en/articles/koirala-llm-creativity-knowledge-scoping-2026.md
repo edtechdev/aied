@@ -1,7 +1,7 @@
 ---
 title: "Applications of Large Language Models in Creativity and Knowledge Generation: A Scoping Review"
 created: "2026-11-24T12:45:00-05:00"
-updated: "2026-11-24T12:45:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 published: "2026-11-24"
 type: article
 authors: ["Diwakar Koirala", "Sinjin Ghimire", "Bivek Mishra", "Ramesh Sapkota", "Sahil Niraula", "Kushal Bastola", "Nirman Khatiwada", "Neha Koirala", "Saurav Wagle"]
@@ -37,14 +37,14 @@ verified: [citation, quotes]
 
 ## Key Findings
 
-- **The field is mostly not experimental.** Of the 99 included records, 38 were reviews, 20 surveys, 18 conceptual papers, 16 experimental studies and 7 theoretical papers, so 63 of 99 are reviews or position pieces.
-- **Five themes account for the literature.** Scientific creativity and research support (39), creativity in education (23), [[pedagogy|pedagogical]] and technological innovation (23), ethical and epistemological challenges (12), and human–AI collaboration (2).
-- **A count is not a strength.** Theme frequencies describe publication volume, not methodological quality, because the review performed no risk-of-bias appraisal.
-- **Four constructs are routinely conflated.** General AI readiness, self-reported innovativeness, assisted [[writing-education|writing quality]] and raw model performance are all distinct from a measured effect of LLM use on learner creativity.
-- **Ideation, evaluation and validation are separate steps.** A model may propose a candidate hypothesis; novelty still has to be judged against prior work, usefulness against the research problem and validity through testing.
-- **Individual gain can trade against collective diversity.** In the one empirical example discussed, LLM-supplied ideas raised evaluators' ratings of individual outputs, especially for lower-baseline participants, while outputs grew more similar across participants.
-- **Human–AI collaboration is the thinnest category.** Two studies, read descriptively; they establish neither superiority nor scalability.
-- **Repeated caution:** process outcomes such as writing speed and output volume are not substitutes for novelty, usefulness or validity.
+
+1. **The field is mostly not experimental.** Of the 99 included records, 38 were reviews, 20 surveys, 18 conceptual papers, 16 experimental studies and 7 theoretical papers, so 63 of 99 are reviews or position pieces.
+2. **Five themes account for the literature.** Scientific creativity and research support (39), creativity in education (23), [[pedagogy|pedagogical]] and technological innovation (23), ethical and epistemological challenges (12), and human–AI collaboration (2).
+3. **A count is not a strength.** Theme frequencies describe publication volume, not methodological quality, because the review performed no risk-of-bias appraisal.
+4. **Four constructs are routinely conflated.** General AI readiness, self-reported innovativeness, assisted [[writing-education|writing quality]] and raw model performance are all distinct from a measured effect of LLM use on learner creativity.
+5. **Ideation, evaluation and validation are separate steps.** A model may propose a candidate hypothesis; novelty still has to be judged against prior work, usefulness against the research problem and validity through testing.
+6. **Individual gain can trade against collective diversity.** In the one empirical example discussed, LLM-supplied ideas raised evaluators' ratings of individual outputs, especially for lower-baseline participants, while outputs grew more similar across participants.
+7. **Human–AI collaboration is the thinnest category.** Two studies, read descriptively; they establish neither superiority nor scalability.
 
 ## What the review mapped
 

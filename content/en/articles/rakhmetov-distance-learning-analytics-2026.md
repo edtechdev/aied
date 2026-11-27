@@ -1,7 +1,7 @@
 ---
 title: "Distance learning using artificial intelligence: insights from educational analytics and student interaction data"
 created: "2026-11-27T01:33:12-05:00"
-updated: "2026-11-27T01:41:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 published: "2026-07-08"
 sources: ['raw/papers/rakhmetov-distance-learning-analytics-2026.md']
@@ -29,7 +29,7 @@ source_depth: full text
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Rakhmetov and colleagues analyzed interaction logs from 721 [[higher-ed|university]] students on an AI-supported distance learning platform to identify learner profiles and engagement patterns. Combining [[learning-analytics|learning analytics]], [[network-analysis|network analysis]], k-means clustering and analysis of variance, they derived an immersion index for how resources attract and retain attention. Five profiles emerged: Observers, who made up 77.53% of the sample, plus Evaluators, Universal learners, Commentators and Content Creators. Learner profile, resource type and their interaction all had significant effects on engagement dynamics, with the interaction showing the largest effect size. Universal learners had the most interconnected networks, while Observers showed broad but low-density patterns. The authors argue that content-oriented and observational participation is genuine engagement, not mere passivity, and that [[learning-design|course design]] should support different participation roles.
+> **Synthesis:** Rakhmetov and colleagues analyzed interaction logs from 721 [[higher-ed|university]] students on an AI-supported [[online-teaching-and-learning|distance learning]] platform to identify learner profiles and engagement patterns. Combining [[learning-analytics|learning analytics]], [[network-analysis|network analysis]], k-means clustering and analysis of variance, they derived an immersion index for how resources attract and retain attention. Five profiles emerged: Observers, who made up 77.53% of the sample, plus Evaluators, Universal learners, Commentators and Content Creators. Learner profile, resource type and their interaction all had significant effects on engagement dynamics, with the interaction showing the largest effect size. Universal learners had the most interconnected networks, while Observers showed broad but low-density patterns. The authors argue that content-oriented and observational participation is genuine engagement, not mere passivity, and that [[learning-design|course design]] should support different participation roles.
 
 ## Key Findings
 

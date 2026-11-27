@@ -1,7 +1,7 @@
 ---
-title: "AdvisorX: a human-in-the-loop AI-powered chatbot to support academic advising in higher education"
+title: "AdvisorX: A Human-in-the-Loop AI-Powered Chatbot to Support Academic Advising in Higher Education"
 created: "2026-11-24T09:50:00-05:00"
-updated: "2026-11-24T10:20:00-05:00"
+updated: "2026-11-27T14:10:00-05:00"
 type: article
 authors: ["Wendan Jiang", "Shiyuan Wang", "Hiba Eltigani", "Rukhshan Haroon", "Abdullah Bin Faisal", "Fahad Dogar"]
 venue: "arXiv preprint (cs.HC)"
@@ -34,13 +34,12 @@ verified: [citation, numbers]
 
 ## Key Findings
 
-- **Initial attitudes were cautious.** Seven of eight advisors had used [[generative-ai|generative AI]] [[conversational-ai|chatbots]] before, yet initial ratings of GenAI's usefulness in advising averaged 3.25 (SD 1.39), with five of eight at or below neutral.
-- **Hands-on use improved the picture.** Five of eight rated AdvisorX's usefulness as 4 out of 5 and the remaining three as neutral; none gave a negative rating, and half explicitly said their prior concerns had eased.
-- **Direct-answer questions were trusted.** Accuracy for direct-answer queries was rated highest and most consistently, averaging 4.38 on the five-point scale with little variation, and every advisor judged responses accurate.
-- **Emotionally charged cases were not delegated.** Delegation for the scenario involving possible course failure was lowest, averaging 2.88 on the five-point scale, and style and tone ratings spread widest there, averaging 3.50; half the advisors found the tone inadequate.
-- **No-answer and student-specific cases were uneven.** Delegation was 3.88 (SD 0.83) when information was unavailable and 3.62 (SD 1.51) for student-specific queries, the widest spread of the four types.
-- **Verification cost matters.** Advisors questioned whether reviewing every response reduced workload, and one argued that if verification is always required, the system "didn't help me at all".
-
+1. **Initial attitudes were cautious.** Seven of eight advisors had used [[generative-ai|generative AI]] [[conversational-ai|chatbots]] before, yet initial ratings of GenAI's usefulness in advising averaged 3.25 (SD 1.39), with five of eight at or below neutral.
+2. **Hands-on use improved the picture.** Five of eight rated AdvisorX's usefulness as 4 out of 5 and the remaining three as neutral; none gave a negative rating, and half explicitly said their prior concerns had eased.
+3. **Direct-answer questions were trusted.** Accuracy for direct-answer queries was rated highest and most consistently, averaging 4.38 on the five-point scale with little variation, and every advisor judged responses accurate.
+4. **Emotionally charged cases were not delegated.** Delegation for the scenario involving possible course failure was lowest, averaging 2.88 on the five-point scale, and style and tone ratings spread widest there, averaging 3.50; half the advisors found the tone inadequate.
+5. **No-answer and student-specific cases were uneven.** Delegation was 3.88 (SD 0.83) when information was unavailable and 3.62 (SD 1.51) for student-specific queries, the widest spread of the four types.
+6. **Verification cost matters.** Advisors questioned whether reviewing every response reduced workload, and one argued that if verification is always required, the system "didn't help me at all".
 ## Designing for the advisor, not the student
 
 Most AI advising systems face the student. AdvisorX reverses that: it collects student information, retrieves [[educational-policy-ai|institutional policy]], and drafts a reply the advisor can edit, so the advisor remains accountable for what goes out. The design bet is that scaling advising capacity means removing the mechanical parts — assembling records, checking prerequisites, phrasing routine answers — without removing the judgment and relationship that define good advising.
