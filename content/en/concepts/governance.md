@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-27T01:42:00-05:00"
+updated: "2026-11-27T13:25:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -113,6 +113,8 @@ AI governance connects to [[ethics|ethics]] (the principles it operationalizes),
 Governance is distinct from — but inseparable from — [[educational-policy-ai|educational AI policy]]. **Policy is the content**: the formal rules and statements (what AI use is allowed, what must be disclosed, what assessment is permitted). **Governance is the machinery** that produces, implements, enforces, and revises those rules: who sets them, how they are resourced and communicated, how compliance and appeals are handled, and how they adapt as AI evolves. Where the [[educational-policy-ai|policy]] page catalogs the *rules themselves* and their maturity gaps, the *structures and practices* that make rules real are steering groups, ethical review, assessment governance, and accountability across levels. A rule on paper is policy; a rule that is owned, monitored, and enforced is governance. The two are mutually dependent: policy without governance is unenforced, and governance without policy lacks direction.
 
 **Accountability language can leave the responsible actor unnamed.** [[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal (2026)]] extracted 166 obligation or answerability expressions from 366 GenAI higher-education abstracts and found that none assigned responsibility to a system while 33 left the bearer unspecified; "governance is needed" names no one who convenes, decides, or enforces. Institutions and policy actors bore 37 obligations, institution/educator metonymies 30, educators 20, researchers 18, and students only six.
+
+**Published ethical commitments are not evidence that ethical reasons reach decisions.** [Jing (2026)](https://doi.org/10.3390/bs16112120) identifies four routes to AI ethics washing — instrumentalizing ethical goals, separating ethics bodies from decision-making authority, disconnecting procedures from ongoing practice, and diffusing responsibility across a division of labor — and argues that each can hollow out governance even where an ethics office exists. The proposed organizational-virtue remedy asks whether ethical reasons constrain organizational goals, whether those responsible for ethical judgment have commensurate information, resources and authority, and whether reflection, participation, revision and responsibility persist across the AI lifecycle. This is a conceptual, normative analysis illustrated by public cases rather than tested causally, and it is not specific to education; its value here is as a check on the gap between an institution's written commitments and the machinery that gives them practical force.
 
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
