@@ -420,3 +420,8 @@
   - assessment
   - academic-integrity
   reason: 'The volume is the current redesign literature for both pages. On assessment it supplies what the page lacked: a framing of AI-and-assessment as a wicked problem rather than a puzzle, and one multi-program implementation with figures (18 tasks redesigned, 17 proposed, 50 hours per program). On academic-integrity it supplies the attribution-versus-referencing distinction and names style-guide grading as a defect, neither of which the page had. Not listed on assessment-validity or authentic-assessment: validity already argues inference and the two-lane model in its own terms, and authentic-assessment already covers process evidence and orals, so the book restates rather than moves them. Not listed on rubrics, feedback-literacy or evaluative-judgment: those pages would gain an example, not a changed claim.'
+
+- resource: knowledge-spaces
+  reviewed: '2026-11-27'
+  hosts: []
+  reason: 'A Claude Code skill suite for building Knowledge Space Theory structures. It serves adaptive-learning and knowledge-graph in principle, but using it requires a Claude Code setup and the concept pages are practitioner-facing, so it stays in the resource index until the project has an evaluated classroom workflow.'
