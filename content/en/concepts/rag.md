@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-27T02:20:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -10,7 +10,7 @@ confidence: high
 connected_resources: [gemini-notebook]
 reviewed_by: [editor]
 connected_concepts: [llm, generative-ai, hallucination-risk, knowledge-graph, edtech-platform, intelligent-tutoring, llm-training-and-fine-tuning, pedagogical-safety, k-12, higher-ed, ai-technologies]
-connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026]
+connected_articles: [beznosko-local-ai-rag-physics-oer-2026, hughes-rag-ai-feedback-implementation-2026, roy-aila-lesson-planning-teacher-choices-2026, eduguard-safe-rag-llm-tutor, eduzone-llm-safety-k12, retrieval-augmented-tutoring-algorithm-kite, structrag-diagram-reasoning-ai-tutoring, book-level-synthetic-textbook-organization, veriforge-narrative-drafting-scaffolding-2026, pchl-he-framework-genai-content-creation-2026, algorag-rag-theoretical-cs-education-2026, course-specific-rag-help-seeking-higher-ed-2026, wiki-llm-indexing-ml-classes-2026, on-premises-rag-tutoring-business-education-2026, gupta-ai-virtual-assistant-adoption-engineering-2026, ai-multifactorial-virology-lab-teaching-2026, henriksen-rucai-local-first-teaching-assistant-2026]
 ---
 
 > **RAG (Retrieval-Augmented Generation)** — an AI architecture that combines information retrieval with text generation, allowing [[llm|LLMs]] to ground responses in external knowledge sources rather than relying solely on training data. In education, RAG addresses hallucination, enables [[curriculum-design|curriculum]]-grounded tutoring, and powers domain-specific [[intelligent-tutoring|AI tutors]].
@@ -43,6 +43,8 @@ A local variant of the pattern is documented for physics teaching. [[beznosko-lo
 - **Ingest-time structure versus query-time retrieval:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiled the same DS3001 [[machine-learning|machine learning]] course materials into seven cross-referenced wiki concept pages carrying source citations, and set it against a tuned vector-RAG baseline of chunked-embedding retrieval. Over 59 human-written questions the compiled wiki out-answered the tuned index, 9.95 versus 9.05 of 10, with a bootstrap CI on the difference excluding zero. It was also more often grounded in the material the answerer actually saw (98% versus 81%), with both gaps roughly tripling on questions that needed material from more than one page (cross-page scores 9.93 versus 8.14, where RAG's grounded rate fell from 87% to 64%). The grounding gap was not a retrieval failure: only 2 of vector RAG's 11 ungrounded answers were retrieval misses, while the other 9 had the relevant excerpts in context and still added unsupported detail — evidence that structure at ingest constrains elaboration, not just access.
 
 - **Retrieving on a summary instead of the student's words (LC-RAG).** Collaborative talk often has no semantic link to the indexed materials: students say "put that position block there," so a discourse-only retriever returns unrelated chunks, and the authors' example is a passage about a 1990s cartoon pulled from a physics and computing textbook. Log-contextualized RAG has an LLM summarize each segment of work from its discourse plus the environment log (which model component is being edited), then retrieves on that summary. Across 216 collaborative modeling segments and five embedding models judged by GPT-4o, it beat the discourse baseline in four models, from 0.403 to 0.620 win rates, and retrieved a tighter set of chunks (167 unique against 267 of 7,386). It lost in one model because the summaries became more specific to the task than the general textbook collection was: query scope and source scope have to be matched deliberately ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
+
+[[henriksen-rucai-local-first-teaching-assistant-2026|Henriksen (2026)]] describes a local-first course RAG that freezes a teacher-selected corpus and prompt into student instances, so published contexts stay fixed while the teacher keeps working on the live course.
 
 ## RAG vs fine-tuning
 
