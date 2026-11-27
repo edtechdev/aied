@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-27
-**Total backlog:** 9 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 12 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Awaiting full text
 
@@ -42,6 +42,12 @@ All candidates from this window were followed up: nine were ingested as pages, U
 
 - **Development and initial psychometric evaluation of the artificial intelligence literacy scale for medical students (AIL-MS): A mixed-methods cross-sectional study** — Feng Chen et al., *BMC Medical Education*. Open access, but the full text is served only through the publisher landing page and the PDF endpoint returned 404; full text not retrieved.
   - https://doi.org/10.1186/s12909-026-10936-x
+- **Initiatives, outcomes, benefits, and challenges of integrating artificial intelligence in Ethiopian education** — *Discover Education*. Open access; ranked below the ingest cut.
+  - https://doi.org/10.1007/s44217-026-02470-1
+- **Faculty psychological readiness for responsible AI integration in higher education: perceived policy support, teaching engagement, teaching innovation, and professional practice** — *Frontiers in Psychology*. Open access; ranked below the ingest cut.
+  - https://doi.org/10.3389/fpsyg.2026.2002882
+- **AI, Bias, and Inclusion: A Two-Phase Mixed-Methods Study of Gender Bias, Awareness, and Trust in Artificial Intelligence** — arXiv 2611.32869. Open; ranked below the ingest cut.
+  - https://arxiv.org/abs/2611.32869
 
 ## Backlog cleared — 2026-11-23
 
