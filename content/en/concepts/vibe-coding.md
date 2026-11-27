@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-24T12:00:00-05:00"
+updated: "2026-11-27T09:55:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -17,7 +17,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 connected_concepts: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, writing-education, agentic-ai, human-ai-collaboration, ai-literacy, teacher-role, cognitive-offloading]
-connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026]
+connected_articles: [vibe-coding-writing-cs-achievement-2026, gaide-vibe-coding-k12-teachers, vibe-coding-programming-process-visualizer, caee-vibe-coding-simulation-development-engineering-education-2026, prompt-problems-nl-programming-mistakes, code-to-learn-genai-artifact-construction-2026, reshaping-cs-education-genai, flowcode-ai-creative-coding, zimmer-ai-intrapreneurship-faculty-innovation-2026, vibe-coding-design-diversity-2026, ho-invariant-core-faculty-development-2027, lin-teacher-vibe-coding-uncertainty-2026, parlant-teachers-as-makers-genai-2026]
 ---
 
 > **Vibe coding** — building software by iteratively prompting a [[llm|large language model]] and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of natural-language programming and end-user development — framings now treated as synonyms — in which prose becomes the primary programming interface.
@@ -53,6 +53,8 @@ A comparative think-aloud study asked 15 pre-service teachers, 13 in-service tea
 - **In-service teachers automated routines they already knew.** Weekly reading checks and tablet worksheets were familiar problems, so their artifacts mostly replaced existing practice: 8 of 13 fell under replacement.
 - **Pre-service teachers framed through pedagogical principles.** Their projects more often built something new, with amplification in 9 of 15 cases and transformation in 1.
 - **Experts worked structurally rather than by prompting harder.** They ran narrow capability probes, asked the model clarifying questions, decomposed the artifact into testable modules, and automated checks.
+
+- **Teacher-made artifacts can be the curriculum, not just a tool for it.** A position paper documents five [[open-source|open-source]] browser artifacts built with AI for philosophy, law, physics and mathematics, and argues that prediction plus explanation — not manipulation alone — is what proves understanding ([[parlant-teachers-as-makers-genai-2026|Parlant, 2026]]).
 
 Those workflows diverged because each group brought a different knowledge base, not because one group lacked skill. Teacher preparation should therefore integrate pedagogical, contextual and technical expertise rather than train prompt skill alone.
 
