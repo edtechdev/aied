@@ -431,7 +431,3 @@
   hosts: []
   reason: 'The toolkit is the reproducibility package for the Kadir article and the article links it directly in prose; the intelligent-tutoring concept page would gain an implementation example, not a changed claim, so no concept host.'
 
-- resource: rucai
-  reviewed: '2026-11-27'
-  hosts: []
-  reason: 'The Henriksen article is the review and links the repository in prose; the resource page carries the deployment detail, while a concept page would gain an implementation example rather than a changed claim.'

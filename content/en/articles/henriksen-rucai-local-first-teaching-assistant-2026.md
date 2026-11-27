@@ -27,7 +27,6 @@ ai_assist:
     agent: hermes-agent
 source_depth: full text
 verified: [citation, numbers]
-connected_resources: [rucai]
 ---
 
 > **Synthesis:** Henriksen (2026) describes RUCAI, an [[open-source]] teaching assistant that runs on institution-controlled infrastructure and keeps every answer tied to the course documents a [[teacher-role|teacher]] uploaded. The contribution is architectural: the course, not the chat prompt, is the persistent object; a three-tier extraction pipeline ingests heterogeneous readings; intent-aware retrieval selects how much source material a question needs; and a publish-to-student step freezes a bounded corpus and prompt snapshot for classroom use. The paper reports informal pilot observations from two course-planning contexts, not a controlled evaluation. It shows that the system could decline questions its sources did not cover, but it does not establish effects on teacher workload or student learning.
