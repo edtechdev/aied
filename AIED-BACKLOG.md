@@ -6,8 +6,8 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-26
-**Total backlog:** 21 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-27
+**Total backlog:** 9 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Awaiting full text
 
@@ -16,8 +16,6 @@
 Eleven in-scope candidates from the 2026-11-22..25 window. Four need a PDF or a
 non-blocking host; seven were open and simply not reached inside the 20-article cap.
 
-- **Enhancing Arabic L2 Learners' Speaking Skills with Pedagogically Designed Speech-Based Chatbot** — Elsayed Issa, *Education Sciences* 16(12), 2014. MDPI early-access version: abstract only, full HTML/PDF not yet published.
-  - https://doi.org/10.3390/educsci16122014
 - **Generating Personalized Viva Questions from Students' Own Assignments with Artificial Intelligence and Bloom's Revised Taxonomy** — Islam, Datta & Chowdhury, *Education Sciences* 16(12), 2007. MDPI early-access version: abstract only.
   - https://doi.org/10.3390/educsci16122007
 - **Enhancing Students' AI Prompt-Engineering Skills and Learning Effectiveness: An Integrated Perspective of AI Readiness and ARCS-Based Learning Motivation** — Lin, Wang & Chen, *Journal of Educational Computing Research*. SAGE paywall; abstract only.
@@ -34,37 +32,16 @@ non-blocking host; seven were open and simply not reached inside the 20-article 
   - https://doi.org/10.3390/educsci16122006
 - **From "I found nothing" to "This is novel": AI literacy and the epistemology of novelty assessment** — Bellingham & Alrofiai, *Frontiers in Education*.
   - https://doi.org/10.3389/feduc.2026.2015782
-- **Teachers as Makers: Generative AI, Pedagogical Artefacts and Multiple Routes into Higher Education** — EdArXiv preprint.
-  - https://doi.org/10.35542/osf.io/tcdhp_v1
 
 
-### Identified 2026-11-26 (daily scan)
+### Identified 2026-11-26 (daily scan) — resolved
 
-Eleven in-scope candidates from the 2026-11-23..26 window: three whose full text could not be
-retrieved, eight open and ranked below the nine that were ingested.
+All candidates from this window were followed up: nine were ingested as pages, Umar and Li (2026) is now ingested, and the academic LLM hosting workshop report was screened out as Tier 3 adjacent research. Nothing remains awaiting action here.
 
-- **When advice overrides reasoning: diagnostic deference to AI- and faculty-labelled recommendations in undergraduate dental education** — Surdilovic et al., *BMC Medical Education*. Springer Nature serves the abstract only to automated retrieval.
-  - https://doi.org/10.1186/s12909-026-10902-7
-- **Understanding medical students' adoption of artificial intelligence: an extended UTAUT2 model integrating learner traits and multidimensional appropriation** — Li et al., *BMC Medical Education*. Springer Nature serves the abstract only to automated retrieval.
-  - https://doi.org/10.1186/s12909-026-10781-y
-- **Undergraduate Students' AI Readiness, Attitudes, and Perceptions of AI-Supported Learning: A Sequential Mixed-Methods Study in Pakistan** — Umar & Li, *Education Sciences* 16(12), 2024. The MDPI page returned another article's text, so the source is unverified and no page was written.
-  - https://doi.org/10.3390/educsci16122024
-- **Critical AI engagement framework: reconceptualising AI literacy as a structural and epistemic practice** — Hosseini et al., *Frontiers in Education*. Open access; not reached inside the cap.
-  - https://doi.org/10.3389/feduc.2026.1981419
-- **Productive Cognitive Latency: A Pedagogical Response to the Educational Paradox of Generative AI** — Chiappe et al., *Education Sciences* 16(12), 2016. Open access; not reached inside the cap.
-  - https://doi.org/10.3390/educsci16122016
-- **Anxiety-calibrated generative-AI feedback for second language writing: the Cognition–Affect Dual-Adaptation model** — Yue et al., *Frontiers in Psychology*. Open access; not reached inside the cap.
-  - https://doi.org/10.3389/fpsyg.2026.2001499
-- **Developing and validating the AI-REFINE process to support pre-service science teachers in co-designing STEM lesson plans** — Do & Nguyen, *Discover Education*. Open access; not reached inside the cap.
-  - https://doi.org/10.1007/s44217-026-02480-z
-- **An examination of the impacts of ChatGPT-informed language instruction on EFL learners' willingness to communicate** — Barri Bourachalou et al., *Discover Education*. Open access; not reached inside the cap.
-  - https://doi.org/10.1007/s44217-026-02481-y
-- **Digital and AI-driven entrepreneurship education: a systematic literature review** — Bogas et al., *Frontiers in Education*. Open access; not reached inside the cap.
-  - https://doi.org/10.3389/feduc.2026.1985942
-- **Learning ethnography with artificial intelligence: between simulation, fieldwork, and the formation of ethnographic judgment** — Duche-Pérez et al., *Frontiers in Education*. Open access; not reached inside the cap.
-  - https://doi.org/10.3389/feduc.2026.1965232
-- **Towards Democratized Academic LLM Hosting: Practical insights from needs, implementations, and governance across Dutch institutions** — Ahmed et al., arXiv 2611.34383. Open; not reached inside the cap.
-  - https://arxiv.org/abs/2611.34383
+### Identified 2026-11-27 (daily scan)
+
+- **Development and initial psychometric evaluation of the artificial intelligence literacy scale for medical students (AIL-MS): A mixed-methods cross-sectional study** — Feng Chen et al., *BMC Medical Education*. Open access, but the full text is served only through the publisher landing page and the PDF endpoint returned 404; full text not retrieved.
+  - https://doi.org/10.1186/s12909-026-10936-x
 
 ## Backlog cleared — 2026-11-23
 
