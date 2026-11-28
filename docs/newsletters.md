@@ -250,7 +250,9 @@ because the feed's enclosure length has to match the asset byte for byte or podc
 the item.
 
 Read the issue's prose, not its furniture: skip the contents list, the audio and video table, the
-"also added this week" list and the follow section, and speak each heading as a sentence. Measure
+"also added this week" list, the translated-language list, and the follow section. Speak each heading
+as a sentence, and put a slightly longer 0.6-second gap before each section heading and each main
+highlight summary; ordinary paragraph chunks keep the 0.35-second gap. Measure
 the result rather than assuming it: a chunk that comes back truncated still decodes, so check each
 one's words per minute before joining and re-synthesise anything far above 200, and confirm the
 finished duration against the sum of the parts. Long synthesis requests are the ones that fail
