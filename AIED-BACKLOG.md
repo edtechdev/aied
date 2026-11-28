@@ -36,7 +36,7 @@ non-blocking host; seven were open and simply not reached inside the 20-article 
 
 ### Identified 2026-11-26 (daily scan) — resolved
 
-All candidates from this window were followed up: nine were ingested as pages, Umar and Li (2026) is now ingested, and the academic LLM hosting workshop report was screened out as Tier 3 adjacent research. Nothing remains awaiting action here.
+All candidates from this window were followed up: nine were ingested as pages, Umar and Li (2026) is now ingested, and the academic LLM hosting workshop report was set aside as Tier 3 adjacent research. Nothing remains awaiting action here.
 
 ### Identified 2026-11-27 (daily scan)
 
@@ -344,7 +344,7 @@ check instead of a file. Two were then supplied as PDFs and are being ingested:
   (Sean Cho Ayres, *Critical AI* 4(2), published 2026-10-01) — supplied as a PDF, **INGESTED** as
   `content/en/articles/ayres-critical-ai-literacies-media-literacy-2026.md`
 
-### Screened out: academic LLM hosting workshop report
+### Set aside: academic LLM hosting workshop report
 
 - `arXiv:2611.34383v1` — Ahmed et al., *Towards Democratized Academic LLM Hosting: Practical insights from needs, implementations, and governance across Dutch institutions* (workshop synthesis, 2026-11) — supplied as a PDF, **Tier 3 adjacent research: no article page**. The paper reports workshop-derived infrastructure and governance patterns across Dutch academic institutions; it did not measure teaching, learning or student outcomes, and the education references are stakeholder context rather than findings. Reconsider if a version reports measured educational outcomes or a direct course-deployment comparison with identified institutions and methods.
 

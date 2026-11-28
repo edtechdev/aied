@@ -1,7 +1,7 @@
 ---
 title: "How Do I Keep Students from Over-Relying on AI?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-20T07:49:27-05:00"
+updated: "2026-11-27T18:15:00-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 connected_podcasts: [design-dont-detect]
 weight: 80
@@ -19,6 +19,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-27"
     agent: hermes-agent
 ---
 
@@ -121,6 +125,16 @@ Feedback that targets a stable belief works before a task starts. Feedback about
 [[lodge-loble-cognitive-offloading-2026|Lodge and Loble (2026)]] recommend integrated metacognitive prompts that make learners pause, reflect, and assess their understanding as they work, alongside Load Reduction Instruction, which manages cognitive burden while enabling progressive independence. A one-minute prediction before a hard unit, written down and compared afterward, fits that window and costs nothing to mark.
 
 The wording of the prompt matters less than its position. Before a unit, ask what the student expects to be hard and why. During it, ask which step they are stuck on and what they have tried. An end-of-project reflection mostly records what happened, which is why it changes so little. Keep the prediction on the same page as the work, so the comparison at the end costs no filing.
+
+## Can students learn to recognize it?
+
+Yes, with a caveat that matters for planning. Students can learn to notice when a tool is doing the thinking for them, but the skill comes from practice at judging output against a standard, not from using the tool more. A student who has never been given criteria for a good answer has nothing to compare the model's answer against. [[yu-verification-without-criteria-2026|Yu and colleagues (2026)]] call the result verification without criteria.
+
+Their review of 65 studies found monitoring and evaluation in almost every study, and no study that taught learners the criteria by which an AI output should be judged. The interventions prompted pauses and explanations, which can produce the appearance of reflection without a standard to reflect against. The practical implication is to state the criteria before the first query, then ask the student to apply them to the output.
+
+The training evidence is promising and indirect. [[ai-literacy-evidence|AI literacy interventions]] produce larger gains when they sit inside a disciplinary task and run more than once, and the five-stage continuum is practice-based rather than validated. [[suazo-cognitive-offloading-critical-autonomy-review-2026|Suazo and colleagues (2026)]] found that pedagogy and assessment design mediate the outcome more than the technology does. No study here tests whether students carry the recognition into an unaided task weeks later. Treat it as a teachable routine with a measurable bet: one pre-query criteria sentence, one post-output check, and an unaided comparison to see whether the gap narrows.
+
+The student-facing version of that routine is in [[study-with-ai]].
 
 ## Expect the risk to cluster
 
