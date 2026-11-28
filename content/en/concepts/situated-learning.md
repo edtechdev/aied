@@ -1,14 +1,14 @@
 ---
 title: Situated Learning
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-22T12:10:00-05:00"
+updated: "2026-11-28T03:30:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 reviewed_by: [editor]
 connected_concepts: [learner-identity, learning-theories, constructivist, experiential-learning, embodied-learning, distributed-cognition, collaborative-learning, adaptive-learning, personalized-learning, teacher-role, learning-design, ai-education, virtual-and-augmented-reality]
-connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026]
+connected_articles: [ai-cosmos-agentic-infrastructure-situated-learning-2026, vargas-situated-learning-ai-review-2024, genai-educational-outcomes-meta-analysis, li-ai-science-situated-learning-teachers-2025, raffaghelli-situated-ai-ethics-2026, vargas-ai-catalyst-situated-learning-2026, panciroli-ai-literacy-episodes-situated-learning, yasar-llms-iterative-pedagogical-design-2026, yan-domain-grounded-heritage-chatbot-2026]
 ---
 
 > **Situated Learning** — the theory, rooted in the early-1990s work of Lave and Wenger (1991), that learning is not an isolated, decontextualized act but occurs through participation in authentic activities, contexts, and cultures. Knowledge is co-constructed by learners and peers within [[collaborative-learning|communities of practice]], and novices learn through legitimate peripheral participation — absorbing the culture, language, and practices of expert members as they move from the periphery to the center of a community. Emphasis falls on learning by doing in real-world situations, where [[assessment|assessment]] emerges from the task itself rather than being separated from it.
@@ -42,6 +42,8 @@ The research treats situated learning not merely as an abstract theory but as a 
 Situated learning connects closely to [[embodied-learning|embodied learning]] (both stress the grounding of cognition in context and action), [[distributed-cognition|distributed cognition]] (learning distributed across people, tools, and contexts), [[experiential-learning|experiential learning]], and [[constructivist|constructivism]] theory. In AI education it grounds the critique of decontextualized, disembodied learning: AI design that keeps learners anchored in authentic practice preserves the situatedness that durable learning requires.
 
 - **Scenarios and reusable assets as infrastructure.** [[ai-cosmos-agentic-infrastructure-situated-learning-2026|AI Cosmos (2026)]] operationalizes situated learning as a scenario — objective, role-specialized agents, queryable knowledge and a stateful workbench — plus an asset memory that preserves process records and experience traces with their provenance so later scenarios can retrieve prior practice. Two preregistered three-arm randomized trials found a 7.0-point learning-gain advantage over a vanilla assistant in legal reasoning (d = 0.56) and a larger share reaching criterion mastery in competitive programming (68% against 45%), while prompting the same model to act as a teacher produced no detectable benefit. It is a rare test of the claim that situation and workspace carry more of the learning than conversational explanation does.
+
+- **Place knowledge as the situated layer of a conversational guide.** A GPT-4o chatbot grounded in a curated database of Huwei Sugar Town's industrial heritage — landmark features, historical summaries and interview material — was rated above the ChatGPT mobile app by 186 university students. It beat the general-purpose system on cultural grounding and credibility (ΔM = 0.65, dz = 0.78), local interpretation (ΔM = 0.56, dz = 0.77) and perceived heritage learning (ΔM = 0.51, dz = 0.66), with no significant usability difference ([[yan-domain-grounded-heritage-chatbot-2026|Yan, 2026]]). What the situated layer bought was interpretive connectedness in a place whose meaning lives in relations between a factory, its narrow-gauge railway and the town's residential quarters. The study measured perception rather than learning, though, and compared two deployed applications rather than isolating the grounding itself.
 
 ## Common Misconceptions
 

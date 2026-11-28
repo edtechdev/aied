@@ -11,7 +11,7 @@ confidence: high
 methods: [research-methods-aied]
 reviewed_by: [editor]
 connected_concepts: [research-methods-aied, ai-ed-evaluation, educational-measurement, generative-ai, higher-ed, ai-education, student-support-and-success]
-connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025]
+connected_articles: [roy-aila-lesson-planning-teacher-choices-2026, generative-ai-education-productivity-gaps, genai-can-harm-teaching-rct-2026, access-not-enough-ai-tutoring-2026, ai-tutoring-micro-rct-gcse-science-2026, studentbench-ai-human-tutoring-gre-2026, liu-course-integrated-ai-tutoring-rct-2026, barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025, polanco-dewitte-curriculum-tailoring-premium-2025]
 ---
 
 > **Randomized controlled trial (RCT)** — a research design in which participants are randomly assigned to a treatment or control condition to estimate the causal effect of an intervention on an outcome. In [[ai-education|AI in education]], RCTs are the gold standard for establishing whether an AI tool or [[pedagogy|pedagogical]] approach *causes* [[learning-gains|learning gains]], engagement changes, or other outcomes, rather than merely correlating with them.
