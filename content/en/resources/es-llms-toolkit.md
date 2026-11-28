@@ -1,7 +1,7 @@
 ---
 title: "ES-LLMs Research Toolkit"
-created: "2026-11-27T15:25:00-05:00"
-updated: "2026-11-27T15:25:00-05:00"
+created: "2026-11-27T15:13:47-05:00"
+updated: "2026-11-28T05:20:00-05:00"
 type: resource
 summary: "The MIT-licensed reproducibility toolkit for the ES-LLMs tutoring architecture: pedagogical rules, a 24-scenario safety benchmark, a synthetic-student simulator, evaluation rubrics, and a multi-LLM judge."
 url: https://github.com/nizamkadirteach/aied2026-es-llms
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 connected_concepts: [intelligent-tutoring, llm, agentic-ai, knowledge-tracing, assessment, explainable-ai]
 ---
 
-**ES-LLMs Research Toolkit** is the official reproducibility repository for an [[intelligent-tutoring|intelligent tutoring]] architecture that separates pedagogical decisions from the wording of a reply. The code is MIT-licensed and organized as a research toolkit rather than a deployable tutor: it contains the rule-based orchestrator and specialized agents, a 24-scenario pedagogical safety benchmark, a Monte Carlo simulator with four synthetic student archetypes, a multi-LLM judge with a seven-dimension rubric, and the human evaluation materials used in the paper.
+**ES-LLMs Research Toolkit** is the official reproducibility repository for the [[intelligent-tutoring|intelligent tutoring]] architecture described in [[kadir-ensemble-specialized-llms-adaptive-tutoring-2026|Kadir (2026)]], which separates pedagogical decisions from the wording of a reply. The code is MIT-licensed and organized as a research toolkit rather than a deployable tutor: it contains the rule-based orchestrator and specialized agents, a 24-scenario pedagogical safety benchmark, a Monte Carlo simulator with four synthetic student archetypes, a multi-LLM judge with a seven-dimension rubric, and the human evaluation materials used in the paper.
 
 ## What you can do with it
 

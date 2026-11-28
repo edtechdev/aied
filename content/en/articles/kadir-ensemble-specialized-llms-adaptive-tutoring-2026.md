@@ -1,7 +1,7 @@
 ---
 title: "From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble of Specialized LLMs Architecture for Adaptive Tutoring"
 created: "2026-11-27T15:15:00-05:00"
-updated: "2026-11-27T15:15:00-05:00"
+updated: "2026-11-28T05:20:00-05:00"
 type: article
 sources: [raw/papers/kadir-ensemble-specialized-llms-adaptive-tutoring-2026.md]
 confidence: medium
@@ -61,7 +61,7 @@ The strongest contribution is architectural. Moving constraint enforcement out o
 
 That interpretation depends on the synthetic student model. The archetypes are derived from ASSISTments parameters and perturbed with noise, not observed in a classroom, and the simulation is presented as a Phase I safety check before human trials. The human evaluation is also small: six experts rating 24 pairs, with no inter-rater reliability reported. The scenarios are foundational single-problem mathematics, so the results do not establish that the orchestration handles open-ended problems, multi-session learning, or students who resist the script. The comparison baseline is a prompt-only version of the same model; stronger prompting, few-shot examples, or a frontier model could narrow the gap. Fairness is treated as procedural consistency across behavioral cohorts, not as demographic equity, and the paper says a real deployment would need consent-based demographic data to test that.
 
-[The companion repository](https://github.com/nizamkadirteach/aied2026-es-llms) releases the rules, rubrics, benchmark scenarios, simulator, and evaluation code under an MIT license, which makes the architecture reproducible and gives other researchers a way to test the claims rather than only read them.
+The [companion ES-LLMs Research Toolkit](https://edtechdev.github.io/aied/resources/es-llms-toolkit/) releases the rules, rubrics, benchmark scenarios, simulator, and evaluation code under an MIT license, which makes the architecture reproducible and gives other researchers a way to test the claims rather than only read them.
 
 ## What this means for practice
 
